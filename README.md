@@ -1,4 +1,4 @@
-gardnerella-evo-genomics
+Gardnerella vaginalis genomics
 ========================
 
-Evolutionary genomics of Gardnerella vaginalis
+Comparative and evolutionary genomics of _Gardnerella vaginalis_
