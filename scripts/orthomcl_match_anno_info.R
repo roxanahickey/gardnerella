@@ -1,45 +1,118 @@
-## Extracting protein info!!
+## Match OrthoMCL clusters to original fasta IDs to get gene annotations
+## Roxana Hickey <roxana.hickey@gmail.com>
+## 2015-03-14
+
+load("output/RData/orthomcl_summary.RData")
+
+## combine clusters and singletons into one dataframe
 group.df <- data.frame(cds_id=unlist(strsplit(ortho.clust, " ")),
-                       clust_id=substr(names(unlist(strsplit(ortho.clust, " "))), 1, 10),
+                       ortho_id=substr(names(unlist(strsplit(ortho.clust, " "))), 1, 10),
                        row.names=NULL)
 sing.df <- data.frame(cds_id=ortho.sing,
-                      clust_id=ortho.sing.id,
+                      ortho_id=ortho.sing.id,
                       row.names=NULL)
 clust.df <- rbind(group.df, sing.df)
 
-fasta.key <- read.table("fasta_headers_key.txt", sep="\t", header=T)
+## read in CDS key, combine with clust.df to make master key
+fasta.key <- read.table("data/key_gv_patric_all35_cds_fasta.txt", sep="\t", header=T)
+master.key <- merge(clust.df, fasta.key)
 
-fasta.superkey <- merge(clust.df, fasta.key)
+## read in EC, FigFam, GO and Path keys
+ec.key <- read.table("data/gv_patric_all35.ec", sep="\t", header=T, quote="")
+figfam.key <- read.table("data/gv_patric_all35.figfam", sep="\t", header=T, quote="")
+go.key <- read.table("data/gv_patric_all35.go", sep="\t", header=T, quote="")
+path.key <- read.table("data/gv_patric_all35.path", sep="\t", header=T, quote="")
 
-## GV id key
-gv.id.key <- read.table("~/Documents/research/gardnerella/data/GV_id_name_clade_key.txt", header=T, sep="\t")
-gv.id.key$ortho_clade <- cutg[gv.id.key$id_short]
+# merge annotation keys
+anno.key <- merge(figfam.key, ec.key, all.x=T)
+anno.key <- merge(anno.key, go.key, all.x=T)
+anno.key <- merge(anno.key, path.key, all.x=T)
 
-## all core genes (plus all-1)
-# dir.create("core-all-clades")
+# add short_id variable in same format as master.key (used in fasta headers)
+anno.key$short_id <- paste("fid", anno.key$na_feature_id, "locus", anno.key$locus_tag, sep="|")
 
-clust.core.all.df <- fasta.superkey[fasta.superkey$clust_id %in% colnames(clust.core.all),]
-write.table(clust.core.all.df, file="core-all-clades/core_all35_info.txt", sep="\t", row.names=F)
-write.table(clust.core.all.df$short_id, file="core-all-clades/core_all35_fid_list.txt", row.names=F, col.names=F, quote=F)
+# match anno.key with OrthoMCL cluster IDs from master.key (~700 rows lost in process)
+anno.master <- merge(anno.key, master.key[,c("short_id","ortho_id")])
 
-clust.core.less1.df <- fasta.superkey[fasta.superkey$clust_id %in% colnames(clust.core.less1),]
-write.table(clust.core.less1.df, file="core-all-clades/core_34_info.txt", sep="\t", row.names=F)
-write.table(clust.core.less1.df$short_id, file="core-all-clades/core_34_fid_list.txt", row.names=F, col.names=F, quote=F)
+# add ortho_id to individual keys
+ec.key$ortho_id <- anno.master$ortho_id[match(ec.key$locus_tag, anno.master$locus_tag)]
+figfam.key$ortho_id <- anno.master$ortho_id[match(figfam.key$locus_tag, anno.master$locus_tag)]
+go.key$ortho_id <- anno.master$ortho_id[match(go.key$locus_tag, anno.master$locus_tag)]
+path.key$ortho_id <- anno.master$ortho_id[match(path.key$locus_tag, anno.master$locus_tag)]
 
-pick <- colnames(clust.core.less1)[!(colnames(clust.core.less1) %in% colnames(clust.core.all))]
-clust.core.less1.uniq.df <- clust.core.less1.df[clust.core.less1.df$clust_id %in% pick,]
-write.table(clust.core.less1.uniq.df, file="core-all-clades/core_34_uniq_info.txt", sep="\t", row.names=F)
-write.table(clust.core.less1.uniq.df$short_id, file="core-all-clades/core_34_uniq_fid_list.txt", row.names=F, col.names=F, quote=F)
+##################################################
+## write annotation information in tables
+dir.create("output/orthomcl-match-anno")
 
-## clade core unique dataframes
-clade1.clust.core.uniq.df <- fasta.superkey[fasta.superkey$clust_id %in% clade1.clust.core.uniq,]
-write.table(clade1.clust.core.uniq.df, file="clade-core-uniq/clade1_clus_core_uniq_info.txt", sep="\t", row.names=F)
+clust.core.all.df <- master.key[master.key$ortho_id %in% clust.core.all,]
+write.table(clust.core.all.df, file="output/orthomcl-match-anno/core_all35_info.txt", sep="\t", row.names=F)
+write.table(clust.core.all.df$short_id, file="output/orthomcl-match-anno/core_all35_fid_list.txt", 
+            row.names=F, col.names=F, quote=F)
 
-clade2.clust.core.uniq.df <- fasta.superkey[fasta.superkey$clust_id %in% clade2.clust.core.uniq,]
-write.table(clade2.clust.core.uniq.df, file="clade-core-uniq/clade2_clus_core_uniq_info.txt", sep="\t", row.names=F)
+clust.core.less1.df <- master.key[master.key$ortho_id %in% clust.core.less1,]
+write.table(clust.core.less1.df, file="output/orthomcl-match-anno/core_34_info.txt", sep="\t", row.names=F)
+write.table(clust.core.less1.df$short_id, file="output/orthomcl-match-anno/core_34_fid_list.txt", 
+            row.names=F, col.names=F, quote=F)
 
-clade3.clust.core.uniq.df <- fasta.superkey[fasta.superkey$clust_id %in% clade3.clust.core.uniq,]
-write.table(clade3.clust.core.uniq.df, file="clade-core-uniq/clade3_clus_core_uniq_info.txt", sep="\t", row.names=F)
+pick <- clust.core.less1[!(clust.core.less1 %in% clust.core.all)]
+clust.core.less1.uniq.df <- clust.core.less1.df[clust.core.less1.df$ortho_id %in% pick,]
+write.table(clust.core.less1.uniq.df, file="output/orthomcl-match-anno/core_34_uniq_info.txt", sep="\t", row.names=F)
+write.table(clust.core.less1.uniq.df$short_id, file="output/orthomcl-match-anno/core_34_uniq_fid_list.txt", 
+            row.names=F, col.names=F, quote=F)
 
-clade4.clust.core.uniq.df <- fasta.superkey[fasta.superkey$clust_id %in% clade4.clust.core.uniq,]
-write.table(clade4.clust.core.uniq.df, file="clade-core-uniq/clade4_clus_core_uniq_info.txt", sep="\t", row.names=F)
+## clade core unique dataframes (protein annotations from fasta headers)
+clade1.clust.core.uniq.df <- master.key[master.key$ortho_id %in% clade1.clust.core.uniq,]
+write.table(clade1.clust.core.uniq.df, file="output/orthomcl-match-anno/clade1_core_uniq_info.txt", 
+            sep="\t", row.names=F)
+write.table(clade1.clust.core.uniq.df$short_id, file="output/orthomcl-match-anno/clade1_core_uniq_fid.txt",
+            row.names=F, col.names=F, quote=F)
+
+clade2.clust.core.uniq.df <- master.key[master.key$ortho_id %in% clade2.clust.core.uniq,]
+write.table(clade2.clust.core.uniq.df, file="output/orthomcl-match-anno/clade2_core_uniq_info.txt", 
+            sep="\t", row.names=F)
+write.table(clade2.clust.core.uniq.df$short_id, file="output/orthomcl-match-anno/clade2_core_uniq_fid.txt",
+            row.names=F, col.names=F, quote=F)
+
+clade3.clust.core.uniq.df <- master.key[master.key$ortho_id %in% clade3.clust.core.uniq,]
+write.table(clade3.clust.core.uniq.df, file="output/orthomcl-match-anno/clade3_core_uniq_info.txt", 
+            sep="\t", row.names=F)
+write.table(clade3.clust.core.uniq.df$short_id, file="output/orthomcl-match-anno/clade3_core_uniq_fid.txt",
+            row.names=F, col.names=F, quote=F)
+
+clade4.clust.core.uniq.df <- master.key[master.key$ortho_id %in% clade4.clust.core.uniq,]
+write.table(clade4.clust.core.uniq.df, file="output/orthomcl-match-anno/clade4_core_uniq_info.txt", 
+            sep="\t", row.names=F)
+write.table(clade4.clust.core.uniq.df$short_id, file="output/orthomcl-match-anno/clade4_core_uniq_fid.txt",
+            row.names=F, col.names=F, quote=F)
+
+##################################################
+## write tables for GO/Path/EC/FigFam annotations
+# core 35
+clust.core.all.anno <- anno.master[anno.master$ortho_id %in% clust.core.all,]
+write.table(clust.core.all.anno, file="output/orthomcl-match-anno/core_all35_anno.txt", sep="\t", row.names=F)
+
+# core 34
+clust.core.less1.anno <- anno.master[anno.master$ortho_id %in% clust.core.less1,]
+write.table(clust.core.less1.anno, file="output/orthomcl-match-anno/core_34_anno.txt", sep="\t", row.names=F)
+
+# no anno info for clade 1 unique (clust_1265)
+
+# clade 2
+clade2.clust.core.uniq.anno <- anno.master[anno.master$ortho_id %in% clade2.clust.core.uniq,]
+write.table(clade2.clust.core.uniq.anno, file="output/orthomcl-match-anno/clade2_core_uniq_anno.txt", 
+            sep="\t", row.names=F)
+
+# clade 3
+clade3.clust.core.uniq.anno <- anno.master[anno.master$ortho_id %in% clade3.clust.core.uniq,]
+write.table(clade3.clust.core.uniq.anno, file="output/orthomcl-match-anno/clade3_core_uniq_anno.txt", 
+            sep="\t", row.names=F)
+
+# clade 4
+clade4.clust.core.uniq.anno <- anno.master[anno.master$ortho_id %in% clade4.clust.core.uniq,]
+write.table(clade4.clust.core.uniq.anno, file="output/orthomcl-match-anno/clade4_core_uniq_anno.txt", 
+            sep="\t", row.names=F)
+
+##################################################
+## clean up, save image
+rm(pick)
+save.image("output/RData/orthomcl_match_anno.RData")

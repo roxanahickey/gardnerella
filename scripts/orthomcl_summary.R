@@ -3,7 +3,6 @@
 ## Roxana Hickey <roxana.hickey@gmail.com>
 ## 2015-03-13
 
-setwd("~/Documents/research/gardnerella/")
 library(ggplot2)
 source("scripts/ggplot_cust.R")
 
@@ -12,7 +11,7 @@ dir.create("output/orthomcl-summary")
 dir.create("output/RData")
 
 ## read in ID key containing short and full strain names
-gv.id <- read.table("data/gv_id_key.txt", sep="\t", header=T)
+gv.id <- read.table("data/key_gv_patric_all35_id.txt", sep="\t", header=T)
 
 ##################################################
 ## read in OrthoMCL clusters
@@ -98,6 +97,9 @@ clust.core.less2 <- colnames(clust.mx)[colSums(clust.mx)>=nrow(clust.mx) - 2]
 ##################################################
 # run hclust to identify groups
 source("scripts/orthomcl_hclust_id_clades.R")
+
+# add ortho clade id to gv.id
+gv.id$ortho_clade <- cutg[gv.id$id_short]
 
 ##################################################
 ## clade-unique core
