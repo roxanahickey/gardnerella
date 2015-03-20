@@ -44,7 +44,7 @@ rownames(sil) <- row.names(clust.mx)
 
 # plot silhouette partition
 png("figs/orthomcl_hclust_sil_part.png", width=6, height=4, units="in", res=300, pointsize=8)
-plot(sil, main="Silhouette plot - UPGMA", cex.names=0.8, col=2:(k.best+1), nmax=100)
+plot(sil, main="Silhouette plot - UPGMA", cex.names=0.8, col=col.cust, nmax=100)
 dev.off()
 
 # plot dendrogram with group labels

@@ -23,7 +23,7 @@
 		gro[i] <- so[1]
 		if (i<k) so <- so[so!=gro[i]]
 	}
-	rect.hclust(tor, k=k, border=gro+1, cluster=gr)
-	legend("topright", paste("Cluster",1:k), pch=22, col=2:(k+1), bty="n")
+	rect.hclust(tor, k=k, border=col.cust[gro], cluster=gr)
+	legend("topright", paste("Cluster",1:k), pch=22, col=col.cust, bty="n")
 }
 
