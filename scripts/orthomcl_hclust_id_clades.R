@@ -2,9 +2,7 @@
 ## Roxana Hickey <roxana.hickey@gmail.com>
 ## 2015-03-14
 
-## This script is sourced from within orthomcl_summarize.R. If running alone, first setwd() and load Rdata:
-# setwd("~/Documents/research/gardnerella/")
-# load("output/RData/orthomcl_summary.RData")
+## This script is sourced from within orthomcl_summarize.R. If running alone, first set appropriate working directory and load Rdata.
 
 library(cluster)
 library(gclus)
@@ -27,7 +25,7 @@ rm(k)
 k.best <- which.max(asw)
 
 # plot silhouette widths indicating optimal cluster size
-png("figs/orthomcl_hclust_sil_avg.png", width=6, height=4, units="in", res=300, pointsize=8)
+png(paste(dir.fig, "/orthomcl_hclust_sil_avg.png", sep=""), width=6, height=4, units="in", res=300, pointsize=8)
 plot(1:nrow(clust.mx), asw, type="h", 
      main="Silhouette-optimal number of clusters, UPGMA",
      xlab="k (number of groups)", ylab="Average silhouette width")
@@ -43,24 +41,24 @@ sil <- silhouette(cutg, dist(clust.mx))
 rownames(sil) <- row.names(clust.mx)
 
 # plot silhouette partition
-png("figs/orthomcl_hclust_sil_part.png", width=6, height=4, units="in", res=300, pointsize=8)
-plot(sil, main="Silhouette plot - UPGMA", cex.names=0.8, col=col.cust, nmax=100)
+png(paste(dir.fig, "/orthomcl_hclust_sil_part.png", sep=""), width=6, height=4, units="in", res=300, pointsize=8)
+plot(sil, main="Silhouette plot - UPGMA", cex.names=0.5, col=col.cust.hc, nmax=100)
 dev.off()
 
 # plot dendrogram with group labels
-png("figs/orthomcl_hclust_dendro.png", width=8, height=6, units="in", res=300, pointsize=8)
+png(paste(dir.fig, "/orthomcl_hclust_dendro.png", sep=""), width=8, height=6, units="in", res=300, pointsize=8)
 hcoplot(hc.a, dist(clust.mx), k=k.best)
 dev.off()
 
 # add original strain names
 hc.a.2 <- hc.a
-hc.a.2$labels <- gv.id$id_strain[order(gv.id$id_short)]
+hc.a.2$labels <- genome.key$id_abbr[order(genome.key$id_short)]
 
 # plot dendrogram with group labels + original strain names
-png("figs/orthomcl_hclust_dendro_genome_ids.png", width=8, height=6, units="in", res=300, pointsize=8)
+png(paste(dir.fig, "/orthomcl_hclust_dendro_genome_ids.png", sep=""), width=8, height=6, units="in", res=300, pointsize=8)
 hcoplot(hc.a.2, dist(clust.mx), k=k.best)
 dev.off()
 
 # clean up, save image
-save.image("output/RData/orthomcl_hclust_id_clades.RData")
+save.image(paste(dir.out, "/orthomcl_hclust_id_clades.RData", sep=""))
 rm(asw, k.best, sil)

@@ -1,0 +1,59 @@
+---
+title: "Analysis of OrthoMCL results from 35 Gardnerella genomes and 22 Bifidobacterium genomes"
+author: "Roxana Hickey <roxana.hickey@gmail.com>"
+date: "March 20, 2015"
+output: html_document
+---
+
+Load output from Gardnerella-Bifido OrthoMCL summary
+```{r setup}
+## Run orthomcl_summary.R with custom parameters via run_orthomcl_summary_gv_bif.R
+# source("scripts/run_orthomcl_summary_gv_bif.R")
+
+## Load output
+load("output/orthomcl-summary-gv-bif/orthomcl_summary.RData")
+```
+
+Load id, feature and annotation keys
+```{r anno-keys}
+## Key for fasta headers
+key.fasta <- list()
+key.fasta$gv <- read.table("data/key_gv_all35_fid_cds_fasta.txt", header=T, sep="\t")
+key.fasta$bif <- read.table("data/key_bif_all22_fid_cds_fasta.txt", header=T, sep="\t")
+key.fasta$all <- rbind(key.fasta$gv, key.fasta$bif)
+
+## Key for PATRIC gene features
+key.feat <- list()
+key.feat$gv <- read.table("data/anno_gv_all35.features.tab", header=T, sep="\t", quote="")
+key.feat$bif <- read.table("data/anno_bif_all22.features.tab", header=T, sep="\t", quote="")
+key.feat$all <- rbind(key.feat$gv, key.feat$bif)
+
+## Key for EC, FigFam, GO and pathway annotations
+key.anno <- list()
+key.anno$ec_gv <- read.table("data/anno_gv_all35.ec", header=T, sep="\t", quote="")
+key.anno$ec_bif <- read.table("data/anno_bif_all22.ec", header=T, sep="\t", quote="")
+key.anno$ec_all <- rbind(key.anno$ec_gv, key.anno$ec_bif)
+
+key.anno$figfam_gv <- read.table("data/anno_gv_all35.figfam", header=T, sep="\t", quote="")
+key.anno$figfam_bif <- read.table("data/anno_bif_all22.figfam", header=T, sep="\t", quote="")
+key.anno$figfam_all <- rbind(key.anno$figfam_gv, key.anno$figfam_bif)
+
+key.anno$go_gv <- read.table("data/anno_gv_all35.go", header=T, sep="\t", quote="")
+key.anno$go_bif <- read.table("data/anno_bif_all22.go", header=T, sep="\t", quote="")
+key.anno$go_all <- rbind(key.anno$go_gv, key.anno$go_bif)
+
+key.anno$path_gv <- read.table("data/anno_gv_all35.path", header=T, sep="\t", quote="")
+key.anno$path_bif <- read.table("data/anno_bif_all22.path", header=T, sep="\t", quote="")
+key.anno$path_all <- rbind(key.anno$path_gv, key.anno$path_bif)
+```
+
+```{r}
+
+for(i in unique(key.anno$path_gv$pathway_name)){
+  
+}
+
+gv.core.uniq <- unlist(strsplit(unlist(ortho.clust$ortho_id[clade.core.clust.uniq$clade5]), split=" "), use.names=F)
+
+write.table(key.fasta.gv[key.fasta.gv$cds_id %in% gv.core.uniq,], "~/Desktop/gv_uniq_core.txt", sep="\t", row.names=F, quote=F)
+```

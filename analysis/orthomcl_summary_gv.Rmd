@@ -1,0 +1,32 @@
+---
+title: "Analysis of OrthoMCL results from 35 Gardnerella genomes"
+author: "Roxana Hickey"
+date: "March 20, 2015"
+output: html_document
+---
+
+Load ouput from Gardnerella-only OrthoMCL summary
+```{r setup}
+## Run orthomcl_summary.R with custom parameters via run_orthomcl_summary_gv.R
+# source("scripts/run_orthomcl_summary_gv.R")
+
+## Load output
+load("output/orthomcl-summary-gv/orthomcl_summary.RData")
+```
+
+Load id, feature and annotation keys
+```{r anno-keys}
+## Key for fasta headers
+key.fasta <- read.table("data/key_gv_all35_fid_cds_fasta.txt", header=T, sep="\t")
+
+## Key for PATRIC gene features
+key.feat <- read.table("data/anno_gv_all35.features.tab", header=T, sep="\t", quote="")
+
+## Key for EC, FigFam, GO and pathway annotations
+key.anno <- list()
+key.anno$ec <- read.table("data/anno_gv_all35.ec", header=T, sep="\t", quote="")
+key.anno$figfam <- read.table("data/anno_gv_all35.figfam", header=T, sep="\t", quote="")
+key.anno$go <- read.table("data/anno_gv_all35.go", header=T, sep="\t", quote="")
+key.anno$path <- read.table("data/anno_gv_all35.path", header=T, sep="\t", quote="")
+```
+
