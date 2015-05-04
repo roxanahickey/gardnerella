@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01571	VBIBifAdo136061_1571	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189512	39481	40944	+	1464		Potassium uptake protein, integral membrane component, KtrB	ADO1	clust_1678
+ANI1|SEQ00736	VBIBifAni240121_0736	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846421	866236	867699	+	1464	trkH	Potassium uptake protein, integral membrane component, KtrB	ANI1	clust_1678
+ANI2|SEQ00736	VBIBifAni235968_0736	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849774	866239	867702	+	1464	trkH	Potassium uptake protein, integral membrane component, KtrB	ANI2	clust_1678
+ANI3|SEQ00737	VBIBifAni108068_0737	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763784	866241	867704	+	1464		Potassium uptake protein, integral membrane component, KtrB	ANI3	clust_1678
+BIF1|SEQ01051	VBIBifBif87902_1051	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884670	1267214	1268677	+	1464		Potassium uptake protein, integral membrane component, KtrB	BIF1	clust_1678
+BRE1|SEQ00649	VBIBifBre340958_0649	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603263	790093	790281	-	189		Potassium uptake protein TrkH	BRE1	clust_1678
+BRE7|SEQ00695	VBIBifBre340732_0695	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619827	833856	834365	-	510		Potassium uptake protein, integral membrane component, KtrB	BRE7	clust_1678
+DEN1|SEQ01436	VBIBifDen165269_1437	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460002	703592	705055	-	1464		Potassium uptake protein, integral membrane component, KtrB	DEN1	clust_1678
+DEN2|SEQ00204	VBIBifDen39005_0204	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108724	150238	151701	+	1464		Potassium uptake protein, integral membrane component, KtrB	DEN2	clust_1678
+INF1|SEQ00611	VBIBifLon182273_0611	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885169	751702	753168	-	1467		Potassium uptake protein TrkH	INF1	clust_1678
+LON1|SEQ00748	VBIBifLon107831_0749	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118569	872720	874186	+	1467		Potassium uptake protein TrkH	LON1	clust_1678
+LON2|SEQ00815	VBIBifLon171405_0816	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581172	917260	918726	+	1467	trkG	Potassium uptake protein TrkH	LON2	clust_1678
+LON3|SEQ00616	VBIBifLon156230_0616	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768201	1486716	1488182	+	1467		Potassium uptake protein TrkH	LON3	clust_1678
+LON4|SEQ00604	VBIBifLon48544_0604	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889456	730289	731755	-	1467		Potassium uptake protein TrkH	LON4	clust_1678
+THE1|SEQ01737	VBIBifThe274299_1737	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736758	2154720	2156183	+	1464		Potassium uptake protein, integral membrane component, KtrB	THE1	clust_1678

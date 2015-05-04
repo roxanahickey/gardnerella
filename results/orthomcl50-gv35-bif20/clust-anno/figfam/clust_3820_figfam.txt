@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00815	268603614	VBIBifBre340958_0815	SEQ00815	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		POSSIBLE CONSERVED INTEGRAL MEMBRANE PROTEIN	FIG01037873	figfam	clust_3820
+BRE3|SEQ00985	54193682	VBIBifBre167886_0985	SEQ00985	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		POSSIBLE CONSERVED INTEGRAL MEMBRANE PROTEIN	FIG01037873	figfam	clust_3820
+BRE5|SEQ00848	268615842	VBIBifBre336369_0849	SEQ00848	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		POSSIBLE CONSERVED INTEGRAL MEMBRANE PROTEIN	FIG01037873	figfam	clust_3820

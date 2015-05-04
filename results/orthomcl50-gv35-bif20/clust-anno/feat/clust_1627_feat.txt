@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00422	VBIBifBif87902_0422	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883375	525966	527333	+	1368	sirA	CoA-disulfide reductase (EC 1.8.1.14) / Disulfide bond regulator	BIF1	clust_1627
+BRE1|SEQ00638	VBIBifBre340958_0638	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603241	780419	780775	+	357		conserved hypothetical protein with rhodanese-like domain	BRE1	clust_1627
+BRE2|SEQ00735	VBIBifBre337368_0735	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607405	877219	877611	+	393		conserved hypothetical protein with rhodanese-like domain	BRE2	clust_1627
+BRE3|SEQ01136	VBIBifBre167886_1136	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194005	1329066	1329458	-	393		conserved hypothetical protein with rhodanese-like domain	BRE3	clust_1627
+BRE4|SEQ00673	VBIBifBre327712_0673	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611425	821451	821807	+	357		conserved hypothetical protein with rhodanese-like domain	BRE4	clust_1627
+BRE5|SEQ00686	VBIBifBre336369_0687	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615497	817185	817541	+	357		conserved hypothetical protein with rhodanese-like domain	BRE5	clust_1627
+BRE6|SEQ00059	VBIBifBre268992_0059	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653214	2593	2949	+	357		conserved hypothetical protein with rhodanese-like domain	BRE6	clust_1627
+BRE7|SEQ00684	VBIBifBre340732_0684	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619805	824460	824852	+	393		conserved hypothetical protein with rhodanese-like domain	BRE7	clust_1627
+BRE8|SEQ00706	VBIBifBre176493_0706	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623957	865373	865729	+	357		conserved hypothetical protein with rhodanese-like domain	BRE8	clust_1627
+BRE9|SEQ00756	VBIBifBre30019_0756	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445586	912049	912441	+	393		conserved hypothetical protein with rhodanese-like domain	BRE9	clust_1627
+INF1|SEQ00601	VBIBifLon182273_0601	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885148	743038	743394	+	357		conserved hypothetical protein with rhodanese-like domain	INF1	clust_1627
+LON1|SEQ00758	VBIBifLon107831_0759	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118589	882494	882850	-	357		conserved hypothetical protein with rhodanese-like domain	LON1	clust_1627
+LON2|SEQ00825	VBIBifLon171405_0826	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581192	927028	927384	-	357		conserved hypothetical protein with rhodanese-like domain	LON2	clust_1627
+LON3|SEQ00627	VBIBifLon156230_0627	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768223	1496478	1496834	-	357		conserved hypothetical protein with rhodanese-like domain	LON3	clust_1627
+LON4|SEQ00594	VBIBifLon48544_0594	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889435	721623	721979	+	357		conserved hypothetical protein with rhodanese-like domain	LON4	clust_1627

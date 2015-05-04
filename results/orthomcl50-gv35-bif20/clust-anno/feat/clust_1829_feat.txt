@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00379	VBIBifBre340958_0379	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602707	474925	476064	+	1140		Gll3707 protein	BRE1	clust_1829
+BRE2|SEQ00442	VBIBifBre337368_0442	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606808	531082	532191	+	1110		UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	BRE2	clust_1829
+BRE3|SEQ00440	VBIBifBre167886_0440	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192553	546247	547386	+	1140		Gll3707 protein	BRE3	clust_1829
+BRE4|SEQ00401	VBIBifBre327712_0401	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610869	501116	502225	+	1110		UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	BRE4	clust_1829
+BRE6|SEQ00030	VBIBifBre268992_0030	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS	177653149	5742	6851	-	1110		UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	BRE6	clust_1829
+BRE8|SEQ00442	VBIBifBre176493_0442	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623420	549395	550504	+	1110		UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	BRE8	clust_1829
+BRE9|SEQ00494	VBIBifBre30019_0494	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445050	593963	595072	+	1110		UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)	BRE9	clust_1829
+INF1|SEQ00387	VBIBifLon182273_0387	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884711	479379	480530	+	1152		hypothetical protein	INF1	clust_1829
+LON2|SEQ01037	VBIBifLon171405_1038	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581621	1181674	1182819	-	1146		MurB family protein	LON2	clust_1829
+LON3|SEQ00838	VBIBifLon156230_0838	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768650	1753587	1754726	-	1140		Gll3707 protein	LON3	clust_1829
+LON4|SEQ00381	VBIBifLon48544_0381	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889000	470903	472000	+	1098		hypothetical protein	LON4	clust_1829
+THE1|SEQ00363	VBIBifThe274299_0363	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733901	424154	425281	+	1128		hypothetical protein	THE1	clust_1829

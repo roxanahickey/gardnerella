@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00292	VBIBifAni240121_0292	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845492	354548	355807	+	1260		Bifidobacterial FemAB-like protein type 1	ANI1	clust_2284
+ANI2|SEQ00291	VBIBifAni235968_0291	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848845	354550	355809	+	1260		Bifidobacterial FemAB-like protein type 1	ANI2	clust_2284
+ANI3|SEQ00292	VBIBifAni108068_0292	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762858	354551	355810	+	1260		Bifidobacterial FemAB-like protein type 1	ANI3	clust_2284
+INF1|SEQ00336	VBIBifLon182273_0336	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884604	414123	415391	+	1269		Bifidobacterial FemAB-like protein type 1	INF1	clust_2284
+LON1|SEQ01019	VBIBifLon107831_1020	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119119	1206664	1207932	-	1269		Bifidobacterial FemAB-like protein type 1	LON1	clust_2284
+LON2|SEQ01075	VBIBifLon171405_1077	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581701	1235520	1236788	-	1269		Bifidobacterial FemAB-like protein type 1	LON2	clust_2284
+LON3|SEQ00884	VBIBifLon156230_0885	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768747	1815537	1816805	-	1269		Bifidobacterial FemAB-like protein type 1	LON3	clust_2284
+LON4|SEQ00341	VBIBifLon48544_0341	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888916	413716	414984	+	1269		Bifidobacterial FemAB-like protein type 1	LON4	clust_2284

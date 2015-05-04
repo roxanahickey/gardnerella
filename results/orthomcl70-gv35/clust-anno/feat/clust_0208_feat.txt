@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00431	VBIGarVag247323_0431	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495001	162134	163168	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV01	clust_0208
+GV02|SEQ00935	VBIGarVag242669_0935	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498719	178143	179177	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV02	clust_0208
+GV03|SEQ01045	VBIGarVag247424_1045	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501544	422591	423625	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV03	clust_0208
+GV04|SEQ00955	VBIGarVag246433_0955	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481816	320837	321871	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV04	clust_0208
+GV05|SEQ01158	VBIGarVag174900_1158	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548158	29748	30782	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV05	clust_0208
+GV06|SEQ01297	VBIGarVag244004_1297	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491427	167152	168186	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV06	clust_0208
+GV07|SEQ00243	VBIGarVag249177_0243	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492095	26865	27899	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV07	clust_0208
+GV08|SEQ00897	VBIGarVag251521_0897	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476224	73214	74248	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV08	clust_0208
+GV09|SEQ00812	VBIGarVag169280_0812	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260825	190791	191825	-	1035	purM	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV09	clust_0208
+GV10|SEQ00899	VBIGarVag136958_0899	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147878	1172277	1173311	+	1035	purM	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV10	clust_0208
+GV11|SEQ00145	VBIGarVag171052_0145	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548563	31619	32653	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV11	clust_0208
+GV12|SEQ00306	VBIGarVag144721_0306	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853283	285110	286144	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV12	clust_0208
+GV13|SEQ00310	VBIGarVag244533_0310	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486571	130936	131970	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV13	clust_0208
+GV14|SEQ01144	VBIGarVag244375_1144	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504207	247767	248801	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV14	clust_0208
+GV15|SEQ00881	VBIGarVag249709_0881	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485336	32640	33674	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV15	clust_0208
+GV16|SEQ00747	VBIGarVag246379_0747	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478649	836490	837524	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV16	clust_0208
+GV17|SEQ00576	VBIGarVag146634_0576	Gardnerella vaginalis AMD	NZ_ADAM01000003	PATRIC	CDS	37851194	30874	31908	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV17	clust_0208
+GV18|SEQ00656	VBIGarVag4823_0656	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000119	PATRIC	CDS	42070082	14128	15162	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV18	clust_0208
+GV19|SEQ00864	VBIGarVag39333_0865	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628633	1072988	1074022	+	1035	purM	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV19	clust_0208
+GV20|SEQ00683	VBIGarVag188338_0683	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190188	827336	828370	-	1035	purM	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV20	clust_0208
+GV21|SEQ00046	VBIGarVag274454_0046	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966724	54870	55904	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV21	clust_0208
+GV22|SEQ00433	VBIGarVag276801_0434	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970291	63592	64626	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV22	clust_0208
+GV23|SEQ00631	VBIGarVag276017_0631	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973623	73071	74105	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV23	clust_0208
+GV24|SEQ00429	VBIGarVag268944_0430	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975988	105762	106796	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV24	clust_0208
+GV25|SEQ01089	VBIGarVag270495_1089	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980229	111223	112257	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV25	clust_0208
+GV26|SEQ00516	VBIGarVag272749_0516	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981820	60127	61161	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV26	clust_0208
+GV27|SEQ00421	VBIGarVag276930_0421	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984589	112405	113439	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV27	clust_0208
+GV28|SEQ00811	VBIGarVag271349_0811	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988383	108385	109419	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV28	clust_0208
+GV29|SEQ00131	VBIGarVag265473_0131	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989627	111695	112729	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV29	clust_0208
+GV30|SEQ00105	VBIGarVag267667_0105	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992254	8020	9054	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV30	clust_0208
+GV31|SEQ00304	VBIGarVag264983_0304	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995655	112407	113441	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV31	clust_0208
+GV32|SEQ01059	VBIGarVag277040_1059	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000158	38637	39671	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV32	clust_0208
+GV33|SEQ00171	VBIGarVag265557_0171	Gardnerella vaginalis JCP8481A	ATJG01000014	PATRIC	CDS	184001030	8384	9418	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV33	clust_0208
+GV34|SEQ00318	VBIGarVag270440_0318	Gardnerella vaginalis JCP8481B	ATJF01000022	PATRIC	CDS	184004183	8384	9418	+	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV34	clust_0208
+GV35|SEQ00018	VBIGarVag272169_0018	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006307	10135	11169	-	1035		Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	GV35	clust_0208

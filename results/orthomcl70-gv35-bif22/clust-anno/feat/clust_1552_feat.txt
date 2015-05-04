@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00772	VBIBifAdo136061_0772	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187844	650833	651732	+	900		hypothetical protein	ADO1	clust_1552
+ANI1|SEQ00530	VBIBifAni240121_0530	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846003	629744	630592	+	849		hypothetical protein	ANI1	clust_1552
+ANI2|SEQ00530	VBIBifAni235968_0530	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849357	629745	630593	+	849		hypothetical protein	ANI2	clust_1552
+ANI3|SEQ00532	VBIBifAni108068_0532	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763370	629702	630595	+	894		hypothetical protein	ANI3	clust_1552
+BIF1|SEQ01353	VBIBifBif87902_1353	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885293	1637503	1638354	-	852		hypothetical protein	BIF1	clust_1552
+BRE1|SEQ00970	VBIBifBre340958_0970	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603939	1154667	1155506	+	840		hypothetical protein	BRE1	clust_1552
+BRE2|SEQ01064	VBIBifBre337368_1064	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608101	1249932	1250771	+	840		hypothetical protein	BRE2	clust_1552
+BRE3|SEQ00816	VBIBifBre167886_0816	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193328	968929	969768	-	840		hypothetical protein	BRE3	clust_1552
+BRE4|SEQ00988	VBIBifBre327712_0988	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612080	1148143	1148982	-	840		hypothetical protein	BRE4	clust_1552
+BRE5|SEQ01117	VBIBifBre336369_1118	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616404	1261662	1262501	+	840		Predicted hydrolase	BRE5	clust_1552
+BRE6|SEQ01720	VBIBifBre268992_1720	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656741	17219	18058	+	840		Predicted hydrolase of the HAD superfamily	BRE6	clust_1552
+BRE7|SEQ01014	VBIBifBre340732_1014	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620502	1195657	1196496	+	840		hypothetical protein	BRE7	clust_1552
+BRE8|SEQ01034	VBIBifBre176493_1034	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624650	1232024	1232863	+	840		Predicted hydrolase	BRE8	clust_1552
+BRE9|SEQ01099	VBIBifBre30019_1099	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446312	1295158	1295997	+	840		hypothetical protein	BRE9	clust_1552
+DEN1|SEQ00117	VBIBifDen165269_0117	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461487	1461421	1462314	-	894	supH	hypothetical protein	DEN1	clust_1552
+DEN2|SEQ01906	VBIBifDen39005_1907	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112229	130921	131814	-	894		hypothetical protein	DEN2	clust_1552
+THE1|SEQ01284	VBIBifThe274299_1284	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735790	1596993	1597886	-	894		hypothetical protein	THE1	clust_1552

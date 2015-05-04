@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00824	VBIBifDen165269_0825	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462956	2343651	2344325	+	675		lipolytic enzyme, G-D-S-L family	DEN1	clust_4805
+DEN2|SEQ00356	VBIBifDen39005_0356	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109035	87410	88084	-	675		lipolytic enzyme, G-D-S-L family	DEN2	clust_4805

@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV32|SEQ00243	VBIGarVag277040_0243	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998334	64367	65395	-	1029		Putative DNA-binding protein in cluster with Type I restriction-modification system	GV32	clust_2527
+INF1|SEQ00978	VBIBifLon182273_0978	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885937	1139516	1140205	-	690		Putative DNA-binding protein in cluster with Type I restriction-modification system	INF1	clust_2527
+LON1|SEQ00482	VBIBifLon107831_0483	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118019	560256	560945	+	690		Putative DNA-binding protein in cluster with Type I restriction-modification system	LON1	clust_2527
+LON2|SEQ00534	VBIBifLon171405_0535	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580592	592459	593304	+	846		Putative DNA-binding protein in cluster with Type I restriction-modification system	LON2	clust_2527
+LON3|SEQ00349	VBIBifLon156230_0349	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767648	1172684	1173373	+	690		Putative DNA-binding protein in cluster with Type I restriction-modification system	LON3	clust_2527
+LON4|SEQ00868	VBIBifLon48544_0868	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890010	1038498	1039187	-	690		Putative DNA-binding protein in cluster with Type I restriction-modification system	LON4	clust_2527

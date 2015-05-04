@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01646	VBIBifAdo136061_1646	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189663	133778	134947	-	1170		hypothetical protein	ADO1	clust_1160
+ANI1|SEQ01073	VBIBifAni240121_1073	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847133	1245327	1246490	-	1164		hypothetical protein	ANI1	clust_1160
+ANI2|SEQ01073	VBIBifAni235968_1073	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850486	1245331	1246494	-	1164		hypothetical protein	ANI2	clust_1160
+ANI3|SEQ01077	VBIBifAni108068_1077	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764499	1245332	1246495	-	1164		hypothetical protein	ANI3	clust_1160
+BIF1|SEQ01157	VBIBifBif87902_1157	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884887	1389113	1390264	-	1152	ytnL	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)	BIF1	clust_1160
+BRE1|SEQ00745	VBIBifBre340958_0745	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603471	898523	899674	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE1	clust_1160
+BRE2|SEQ00842	VBIBifBre337368_0842	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607635	995358	996509	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE2	clust_1160
+BRE3|SEQ01043	VBIBifBre167886_1043	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193803	1223630	1224781	-	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE3	clust_1160
+BRE4|SEQ00774	VBIBifBre327712_0774	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611642	936892	938043	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE4	clust_1160
+BRE5|SEQ00788	VBIBifBre336369_0789	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615716	930032	931183	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE5	clust_1160
+BRE6|SEQ01632	VBIBifBre268992_1632	Bifidobacterium breve JCP7499	AWSX01000075	PATRIC	CDS	177656541	26221	27372	-	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE6	clust_1160
+BRE7|SEQ00777	VBIBifBre340732_0777	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620006	929096	930247	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE7	clust_1160
+BRE9|SEQ00850	VBIBifBre30019_0850	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445790	1017518	1018669	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	BRE9	clust_1160
+DEN1|SEQ01334	VBIBifDen165269_1335	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459797	583521	584669	+	1149	hipO	M20 Peptidase Aminoacylase 1 family	DEN1	clust_1160
+DEN2|SEQ00718	VBIBifDen39005_0718	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109771	107602	108750	+	1149		M20 Peptidase Aminoacylase 1 family	DEN2	clust_1160
+GV07|SEQ00695	VBIGarVag249177_0695	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493042	73992	75161	-	1170		N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)	GV07	clust_1160
+INF1|SEQ00713	VBIBifLon182273_0713	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885390	872409	873560	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	INF1	clust_1160
+LON1|SEQ00656	VBIBifLon107831_0657	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118373	762099	763250	-	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	LON1	clust_1160
+LON2|SEQ00720	VBIBifLon171405_0721	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580970	800309	801460	-	1152	abgB	Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	LON2	clust_1160
+LON3|SEQ00529	VBIBifLon156230_0529	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768014	1379743	1380894	-	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	LON3	clust_1160
+LON4|SEQ00691	VBIBifLon48544_0691	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889647	837331	838482	+	1152		Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	LON4	clust_1160
+THE1|SEQ00760	VBIBifThe274299_0760	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734701	956374	957582	+	1209		hypothetical protein	THE1	clust_1160

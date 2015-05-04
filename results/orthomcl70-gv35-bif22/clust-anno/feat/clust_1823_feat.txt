@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01181	VBIBifBif87902_1181	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884935	1406719	1408353	+	1635		hypothetical protein	BIF1	clust_1823
+BRE1|SEQ01093	VBIBifBre340958_1093	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604192	1276837	1278462	+	1626		hypothetical protein	BRE1	clust_1823
+BRE1|SEQ01494	VBIBifBre340958_1495	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605020	1764552	1766015	-	1464		hypothetical protein	BRE1	clust_1823
+BRE2|SEQ01604	VBIBifBre337368_1604	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609216	1867182	1868612	-	1431		hypothetical protein	BRE2	clust_1823
+BRE3|SEQ01561	VBIBifBre167886_1561	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194881	1825106	1826536	-	1431		hypothetical protein	BRE3	clust_1823
+BRE4|SEQ01535	VBIBifBre327712_1535	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613218	1799290	1800720	-	1431		hypothetical protein	BRE4	clust_1823
+BRE7|SEQ01577	VBIBifBre340732_1577	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621661	1820250	1821701	-	1452		hypothetical protein	BRE7	clust_1823
+BRE9|SEQ01657	VBIBifBre30019_1657	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447461	1920394	1921824	-	1431		hypothetical protein	BRE9	clust_1823
+DEN1|SEQ00614	VBIBifDen165269_0615	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462522	2061273	2063162	-	1890		hypothetical protein	DEN1	clust_1823
+DEN2|SEQ01653	VBIBifDen39005_1654	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111698	133745	135634	-	1890		hypothetical protein	DEN2	clust_1823
+GV12|SEQ00977	VBIGarVag144721_0977	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854689	562769	564268	-	1500		hypothetical protein	GV12	clust_1823
+INF1|SEQ01194	VBIBifLon182273_1194	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886391	1336225	1337856	+	1632		hypothetical protein	INF1	clust_1823

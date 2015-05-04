@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00495	VBIBifBre340958_0495	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602947	622734	623072	+	339		"Peptide methionine sulfoxide reductase MsrA / Peptide methionine sulfoxide reductase MsrB "	BRE1	clust_2099
+BRE2|SEQ00572	VBIBifBre337368_0572	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607074	704910	705248	+	339		"Peptide methionine sulfoxide reductase MsrA / Peptide methionine sulfoxide reductase MsrB "	BRE2	clust_2099
+BRE3|SEQ01311	VBIBifBre167886_1311	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194360	1514800	1515129	-	330		hypothetical protein	BRE3	clust_2099
+BRE4|SEQ00516	VBIBifBre327712_0516	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611104	654551	654880	+	330		hypothetical protein	BRE4	clust_2099
+BRE5|SEQ00534	VBIBifBre336369_0535	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615187	645039	645368	+	330		hypothetical protein	BRE5	clust_2099
+BRE6|SEQ00415	VBIBifBre268992_0415	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653956	18662	18991	-	330		hypothetical protein	BRE6	clust_2099
+BRE7|SEQ00526	VBIBifBre340732_0526	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619481	656867	657205	+	339		"Peptide methionine sulfoxide reductase MsrA / Peptide methionine sulfoxide reductase MsrB "	BRE7	clust_2099
+BRE8|SEQ00555	VBIBifBre176493_0555	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623651	700043	700372	+	330	msrA2	hypothetical protein	BRE8	clust_2099
+BRE9|SEQ00610	VBIBifBre30019_0610	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445288	750578	750907	+	330	msrA2	hypothetical protein	BRE9	clust_2099

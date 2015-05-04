@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00044	VBIBifAdo136061_0044	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186280	42479	42820	+	342		Esterase/lipase	ADO1	clust_2550
+BRE2|SEQ01487	VBIBifBre337368_1487	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608968	1720122	1721042	-	921		Esterase/lipase	BRE2	clust_2550
+BRE3|SEQ01457	VBIBifBre167886_1457	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194658	1703074	1703994	-	921		Esterase/lipase	BRE3	clust_2550
+DEN1|SEQ00717	VBIBifDen165269_0718	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462740	2201278	2202207	-	930		Esterase/lipase	DEN1	clust_2550
+DEN2|SEQ00038	VBIBifDen39005_0038	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS	42108357	43804	44733	+	930		Esterase/lipase	DEN2	clust_2550
+INF1|SEQ01591	VBIBifLon182273_1591	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887196	1816397	1817317	-	921		Esterase/lipase	INF1	clust_2550

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00472	VBIGarVag247323_0472	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495089	213325	214752	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV01	clust_0086
+GV02|SEQ00894	VBIGarVag242669_0894	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498631	126575	128002	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV02	clust_0086
+GV03|SEQ00866	VBIGarVag247424_0866	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501175	196038	197477	+	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV03	clust_0086
+GV04|SEQ01004	VBIGarVag246433_1004	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481920	385943	387370	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV04	clust_0086
+GV05|SEQ00911	VBIGarVag174900_0911	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547600	609083	610522	+	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV05	clust_0086
+GV06|SEQ01245	VBIGarVag244004_1245	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491317	98328	99755	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV06	clust_0086
+GV07|SEQ00216	VBIGarVag249177_0216	Gardnerella vaginalis 1500E	ADES01000004	PATRIC	CDS	85492028	23600	25039	-	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV07	clust_0086
+GV08|SEQ00022	VBIGarVag251521_0022	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474409	32130	33557	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV08	clust_0086
+GV09|SEQ00861	VBIGarVag169280_0861	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260929	255933	257360	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV09	clust_0086
+GV10|SEQ00689	VBIGarVag136958_0689	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147448	894682	896121	+	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV10	clust_0086
+GV11|SEQ00788	VBIGarVag171052_0788	Gardnerella vaginalis 41V	AEJE01000050	PATRIC	CDS	52549934	19830	21257	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV11	clust_0086
+GV12|SEQ00125	VBIGarVag144721_0125	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852911	61837	63276	+	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV12	clust_0086
+GV13|SEQ00259	VBIGarVag244533_0259	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486462	65533	66960	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV13	clust_0086
+GV14|SEQ00962	VBIGarVag244375_0962	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503831	16806	18245	+	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV14	clust_0086
+GV15|SEQ00732	VBIGarVag249709_0732	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485021	208573	210012	+	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV15	clust_0086
+GV16|SEQ00796	VBIGarVag246379_0796	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478753	901600	903027	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV16	clust_0086
+GV17|SEQ00871	VBIGarVag146634_0871	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851817	81038	82477	-	1440		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV17	clust_0086
+GV18|SEQ00400	VBIGarVag4823_0400	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000094	PATRIC	CDS	42069529	8718	10145	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV18	clust_0086
+GV19|SEQ00815	VBIGarVag39333_0816	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628529	1007824	1008879	-	1056		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV19	clust_0086
+GV20|SEQ00733	VBIGarVag188338_0733	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190295	892461	893888	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV20	clust_0086
+GV21|SEQ00184	VBIGarVag274454_0184	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967011	40135	41562	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV21	clust_0086
+GV22|SEQ00481	VBIGarVag276801_0482	Gardnerella vaginalis JCP7276	ATJR01000014	PATRIC	CDS	183970394	3960	5387	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV22	clust_0086
+GV23|SEQ00672	VBIGarVag276017_0672	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973711	124296	125723	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV23	clust_0086
+GV24|SEQ00380	VBIGarVag268944_0381	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975884	40257	41684	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV24	clust_0086
+GV25|SEQ01048	VBIGarVag270495_1048	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980141	59644	61071	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV25	clust_0086
+GV26|SEQ00558	VBIGarVag272749_0558	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981910	111227	112654	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV26	clust_0086
+GV27|SEQ00380	VBIGarVag276930_0380	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984501	60912	62339	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV27	clust_0086
+GV28|SEQ00769	VBIGarVag271349_0769	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988293	56930	58357	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV28	clust_0086
+GV29|SEQ00088	VBIGarVag265473_0088	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989535	60159	61586	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV29	clust_0086
+GV30|SEQ00056	VBIGarVag267667_0056	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992149	40310	41737	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV30	clust_0086
+GV31|SEQ00261	VBIGarVag264983_0261	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995563	60844	62271	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV31	clust_0086
+GV32|SEQ01103	VBIGarVag277040_1103	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000253	17275	18702	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV32	clust_0086
+GV33|SEQ00844	VBIGarVag265557_0844	Gardnerella vaginalis JCP8481A	ATJG01000087	PATRIC	CDS	184002483	40334	41761	-	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV33	clust_0086
+GV34|SEQ00140	VBIGarVag270440_0140	Gardnerella vaginalis JCP8481B	ATJF01000010	PATRIC	CDS	184003791	28168	29595	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV34	clust_0086
+GV35|SEQ00060	VBIGarVag272169_0060	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006397	61353	62780	+	1428		UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	GV35	clust_0086

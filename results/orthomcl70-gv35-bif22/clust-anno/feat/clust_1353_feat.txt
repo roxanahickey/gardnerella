@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00861	VBIBifAdo136061_0861	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188030	754752	756383	+	1632		hypothetical protein	ADO1	clust_1353
+ANI1|SEQ00601	VBIBifAni240121_0601	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846148	706390	707868	+	1479		hypothetical protein	ANI1	clust_1353
+ANI2|SEQ00600	VBIBifAni235968_0600	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849499	706393	707871	+	1479		hypothetical protein	ANI2	clust_1353
+ANI3|SEQ00602	VBIBifAni108068_0602	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763512	706395	707873	+	1479		hypothetical protein	ANI3	clust_1353
+BIF1|SEQ01277	VBIBifBif87902_1277	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885132	1537336	1538934	-	1599	dinB	Nucleotidyltransferase/DNA polymerase involved in DNA repair	BIF1	clust_1353
+BRE1|SEQ00522	VBIBifBre340958_0522	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603001	649006	650715	+	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE1	clust_1353
+BRE2|SEQ00600	VBIBifBre337368_0600	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607130	731045	732754	+	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE2	clust_1353
+BRE3|SEQ01278	VBIBifBre167886_1278	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194294	1484746	1486455	-	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE3	clust_1353
+BRE4|SEQ00543	VBIBifBre327712_0543	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611158	680627	682336	+	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE4	clust_1353
+BRE5|SEQ00553	VBIBifBre336369_0554	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615225	665994	667589	+	1596		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE5	clust_1353
+BRE6|SEQ00384	VBIBifBre268992_0384	Bifidobacterium breve JCP7499	AWSX01000020	PATRIC	CDS	177653892	7625	9334	-	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE6	clust_1353
+BRE7|SEQ00555	VBIBifBre340732_0555	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619540	683688	685397	+	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE7	clust_1353
+BRE8|SEQ00586	VBIBifBre176493_0586	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623713	728718	730427	+	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE8	clust_1353
+BRE9|SEQ00636	VBIBifBre30019_0636	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445340	776654	778363	+	1710		Nucleotidyltransferase/DNA polymerase involved in DNA repair	BRE9	clust_1353
+DEN1|SEQ00039	VBIBifDen165269_0039	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461323	1373509	1375101	-	1593	umuC	hypothetical protein	DEN1	clust_1353
+DEN2|SEQ01825	VBIBifDen39005_1826	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112056	43011	44603	-	1593		hypothetical protein	DEN2	clust_1353
+INF1|SEQ00530	VBIBifLon182273_0530	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885002	667753	669342	+	1590		Nucleotidyltransferase/DNA polymerase involved in DNA repair	INF1	clust_1353
+LON1|SEQ00823	VBIBifLon107831_0824	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118721	953546	955135	-	1590		Nucleotidyltransferase/DNA polymerase involved in DNA repair	LON1	clust_1353
+LON2|SEQ00890	VBIBifLon171405_0891	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581324	992248	993837	-	1590	dinP1	Nucleotidyltransferase/DNA polymerase involved in DNA repair	LON2	clust_1353
+LON3|SEQ00695	VBIBifLon156230_0695	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768361	1568632	1570221	-	1590		Nucleotidyltransferase/DNA polymerase involved in DNA repair	LON3	clust_1353
+LON4|SEQ00516	VBIBifLon48544_0516	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889275	643155	644744	+	1590		Nucleotidyltransferase/DNA polymerase involved in DNA repair	LON4	clust_1353

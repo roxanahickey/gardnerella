@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01389	86847785	VBIBifAni240121_1389	SEQ01389	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Eps11O	FIG01341136	figfam	clust_3626
+ANI2|SEQ01388	86851136	VBIBifAni235968_1388	SEQ01388	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Eps11O	FIG01341136	figfam	clust_3626
+ANI3|SEQ01398	42765156	VBIBifAni108068_1398	SEQ01398	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Eps11O	FIG01341136	figfam	clust_3626

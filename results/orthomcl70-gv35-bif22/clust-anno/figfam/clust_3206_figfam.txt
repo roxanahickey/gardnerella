@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00261	86883039	VBIBifBif87902_0261	SEQ00261	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3206
+DEN1|SEQ00553	43462400	VBIBifDen165269_0554	SEQ00553	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		possible cell surface protein	FIG01839014	figfam	clust_3206
+DEN2|SEQ01590	42111572	VBIBifDen39005_1591	SEQ01590	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS		possible cell surface protein	FIG01839014	figfam	clust_3206

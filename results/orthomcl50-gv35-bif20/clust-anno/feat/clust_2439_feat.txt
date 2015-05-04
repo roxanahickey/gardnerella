@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01837	VBIBifBre340958_1839	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605741	2163374	2164285	-	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE1	clust_2439
+BRE5|SEQ02015	VBIBifBre336369_2016	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618266	2287158	2288069	-	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE5	clust_2439
+BRE9|SEQ02003	VBIBifBre30019_2003	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448186	2329841	2330752	-	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE9	clust_2439
+LON2|SEQ01473	VBIBifLon171405_1476	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582533	1720492	1721403	+	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON2	clust_2439
+LON3|SEQ01557	VBIBifLon156230_1560	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769735	2374963	2375874	+	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON3	clust_2439
+LON4|SEQ01941	VBIBifLon48544_1942	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892299	2305104	2306015	-	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON4	clust_2439

@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00286	VBIBifBif87902_0286	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883099	351066	352022	+	957	hpaIM	Putative methyltransferase (EC 2.1.1.72)	BIF1	clust_2569
+DEN1|SEQ00804	VBIBifDen165269_0805	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462914	2316726	2317013	+	288	babI	DNA modification methyltransferase (EC 2.1.1.-)	DEN1	clust_2569
+DEN2|SEQ01066	VBIBifDen39005_1066	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110487	67714	68001	+	288		DNA modification methyltransferase (EC 2.1.1.-)	DEN2	clust_2569
+GV07|SEQ00683	VBIGarVag249177_0683	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493018	63330	64217	-	888		hypothetical protein	GV07	clust_2569
+GV10|SEQ00469	VBIGarVag136958_0469	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146990	571208	571927	+	720		Adenine-specific methyltransferase (EC 2.1.1.72)	GV10	clust_2569
+GV12|SEQ01044	VBIGarVag144721_1044	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854825	17625	18344	+	720		Adenine-specific methyltransferase (EC 2.1.1.72)	GV12	clust_2569

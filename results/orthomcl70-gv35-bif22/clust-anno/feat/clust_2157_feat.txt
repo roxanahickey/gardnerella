@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00162	VBIBifBif87902_0162	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882829	198852	199487	+	636		possible TetR-type transcriptional regulator	BIF1	clust_2157
+BRE3|SEQ00213	VBIBifBre167886_0213	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192078	276493	276984	+	492		possible TetR-type transcriptional regulator	BRE3	clust_2157
+BRE5|SEQ01248	VBIBifBre336369_1249	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616674	1387947	1388582	-	636		possible TetR-type transcriptional regulator	BRE5	clust_2157
+BRE6|SEQ00128	VBIBifBre268992_0128	Bifidobacterium breve JCP7499	AWSX01000009	PATRIC	CDS	177653358	33259	33750	-	492		possible TetR-type transcriptional regulator	BRE6	clust_2157
+INF1|SEQ00764	VBIBifLon182273_0764	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885497	937469	937972	+	504		Transcriptional regulator	INF1	clust_2157
+LON1|SEQ00609	VBIBifLon107831_0610	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118275	701784	702287	-	504		Transcriptional regulator	LON1	clust_2157
+LON2|SEQ00669	VBIBifLon171405_0670	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580864	737147	737650	-	504		Transcriptional regulator	LON2	clust_2157
+LON3|SEQ00476	VBIBifLon156230_0476	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767904	1312440	1312943	-	504		Transcriptional regulator	LON3	clust_2157
+LON4|SEQ00736	VBIBifLon48544_0736	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889743	894803	895306	+	504		Transcriptional regulator	LON4	clust_2157

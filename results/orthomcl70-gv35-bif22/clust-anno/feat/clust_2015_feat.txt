@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01662	VBIBifAdo136061_1662	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189695	145081	145821	-	741		hypothetical protein	ADO1	clust_2015
+BRE1|SEQ01491	VBIBifBre340958_1492	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605014	1761463	1762611	-	1149		hypothetical protein	BRE1	clust_2015
+BRE2|SEQ01601	VBIBifBre337368_1601	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609210	1864062	1865210	-	1149		hypothetical protein	BRE2	clust_2015
+BRE3|SEQ01556	VBIBifBre167886_1556	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194871	1821986	1823134	-	1149		hypothetical protein	BRE3	clust_2015
+BRE4|SEQ01530	VBIBifBre327712_1530	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613208	1796170	1797318	-	1149		hypothetical protein	BRE4	clust_2015
+BRE7|SEQ01574	VBIBifBre340732_1574	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621655	1816806	1818263	-	1458		hypothetical protein	BRE7	clust_2015
+BRE8|SEQ01106	VBIBifBre176493_1106	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624798	1296202	1297287	-	1086		Antirestriction protein	BRE8	clust_2015
+BRE9|SEQ01650	VBIBifBre30019_1650	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447447	1914722	1915870	-	1149		hypothetical protein	BRE9	clust_2015
+LON1|SEQ00325	VBIBifLon107831_0325	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117691	390201	391286	-	1086		Antirestriction protein	LON1	clust_2015
+LON3|SEQ00189	VBIBifLon156230_0189	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767311	1008391	1009476	-	1086		Antirestriction protein	LON3	clust_2015

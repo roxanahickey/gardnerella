@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00250	VBIBifBre337368_0250	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606412	323718	323939	+	222		Transposase and inactivated derivatives	BRE2	clust_2199
+BRE5|SEQ00253	VBIBifBre336369_0254	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614609	309186	309407	+	222		Transposase and inactivated derivatives	BRE5	clust_2199
+BRE7|SEQ00246	VBIBifBre340732_0246	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618904	319294	319515	+	222		Transposase and inactivated derivatives	BRE7	clust_2199
+BRE8|SEQ00272	VBIBifBre176493_0272	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623069	350780	351001	+	222		Transposase and inactivated derivatives	BRE8	clust_2199
+BRE9|SEQ00282	VBIBifBre30019_0282	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444609	364580	364801	+	222		Transposase and inactivated derivatives	BRE9	clust_2199
+LON2|SEQ00322	VBIBifLon171405_0323	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580147	376219	376332	-	114		Transposase and inactivated derivatives	LON2	clust_2199
+LON3|SEQ00141	VBIBifLon156230_0141	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767210	948383	948496	-	114		Transposase and inactivated derivatives	LON3	clust_2199
+LON4|SEQ01229	VBIBifLon48544_1229	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890800	1385591	1385704	+	114		Transposase and inactivated derivatives	LON4	clust_2199

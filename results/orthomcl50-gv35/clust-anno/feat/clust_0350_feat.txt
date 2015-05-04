@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00646	VBIGarVag247323_0646	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495445	65597	66304	-	708	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV01	clust_0350
+GV02|SEQ00129	VBIGarVag242669_0129	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497020	100374	101081	-	708	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV02	clust_0350
+GV03|SEQ00153	VBIGarVag247424_0153	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499682	88297	89007	+	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV03	clust_0350
+GV04|SEQ00240	VBIGarVag246433_0240	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480336	118485	119195	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV04	clust_0350
+GV05|SEQ00255	VBIGarVag174900_0255	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546228	88380	89090	+	711		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV05	clust_0350
+GV06|SEQ00136	VBIGarVag244004_0136	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488983	41222	41932	+	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV06	clust_0350
+GV07|SEQ00093	VBIGarVag249177_0093	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491767	105325	106035	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV07	clust_0350
+GV08|SEQ01001	VBIGarVag251521_1001	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476445	92177	92887	+	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV08	clust_0350
+GV09|SEQ00099	VBIGarVag169280_0099	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259345	67796	68506	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV09	clust_0350
+GV10|SEQ00046	VBIGarVag136958_0046	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146102	58669	59436	+	768	gidB	rRNA small subunit methyltransferase, glucose inhibited division protein GidB	GV10	clust_0350
+GV11|SEQ00901	VBIGarVag171052_0901	Gardnerella vaginalis 41V	AEJE01000052	PATRIC	CDS	52550169	5700	6410	+	711		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV11	clust_0350
+GV12|SEQ00578	VBIGarVag144721_0578	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853849	87145	87855	+	711		rRNA small subunit methyltransferase, glucose inhibited division protein GidB	GV12	clust_0350
+GV13|SEQ00095	VBIGarVag244533_0095	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486126	96143	96853	+	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV13	clust_0350
+GV14|SEQ00602	VBIGarVag244375_0602	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503068	111786	112496	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV14	clust_0350
+GV15|SEQ01041	VBIGarVag249709_1041	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485673	3648	4358	-	711	gidB	rRNA small subunit methyltransferase, glucose inhibited division protein GidB	GV15	clust_0350
+GV16|SEQ00169	VBIGarVag246379_0169	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477452	100741	101451	+	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV16	clust_0350
+GV17|SEQ00590	VBIGarVag146634_0590	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851232	3579	4289	-	711		rRNA small subunit methyltransferase, glucose inhibited division protein GidB	GV17	clust_0350
+GV18|SEQ00906	VBIGarVag4823_0906	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000133	PATRIC	CDS	42070615	6827	7537	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV18	clust_0350
+GV19|SEQ00116	VBIGarVag39333_0116	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627070	135243	135953	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV19	clust_0350
+GV20|SEQ01372	VBIGarVag188338_1372	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191624	1722722	1723432	-	711	gidB	rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV20	clust_0350
+GV21|SEQ00366	VBIGarVag274454_0366	Gardnerella vaginalis JCP7275	ATJS01000016	PATRIC	CDS	183967391	2683	3393	+	711		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV21	clust_0350
+GV22|SEQ00150	VBIGarVag276801_0150	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969690	14433	15143	-	711		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV22	clust_0350
+GV23|SEQ00062	VBIGarVag276017_0062	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972419	26189	26896	-	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV23	clust_0350
+GV24|SEQ00048	VBIGarVag268944_0049	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975190	39212	39922	-	711		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV24	clust_0350
+GV25|SEQ00153	VBIGarVag270495_0153	Gardnerella vaginalis JCP7719	ATJO01000011	PATRIC	CDS	183978183	30838	31545	-	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV25	clust_0350
+GV26|SEQ00211	VBIGarVag272749_0211	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981174	31906	32613	+	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV26	clust_0350
+GV27|SEQ00303	VBIGarVag276930_0303	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984341	60222	60929	+	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV27	clust_0350
+GV28|SEQ00207	VBIGarVag271349_0207	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987075	33198	33905	+	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV28	clust_0350
+GV29|SEQ00417	VBIGarVag265473_0417	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	183990238	2792	3499	+	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV29	clust_0350
+GV30|SEQ00183	VBIGarVag267667_0183	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992416	12419	13129	-	711		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV30	clust_0350
+GV31|SEQ00378	VBIGarVag264983_0378	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995809	55053	55760	-	708		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV31	clust_0350
+GV32|SEQ00058	VBIGarVag277040_0058	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997948	40291	40878	-	588		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV32	clust_0350
+GV33|SEQ00088	VBIGarVag265557_0088	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000849	563	1306	-	744		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV33	clust_0350
+GV34|SEQ01013	VBIGarVag270440_1013	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005708	25993	26736	-	744		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV34	clust_0350
+GV35|SEQ00263	VBIGarVag272169_0263	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006818	30866	31453	-	588		rRNA small subunit 7-methylguanosine (m7G) methyltransferase GidB	GV35	clust_0350

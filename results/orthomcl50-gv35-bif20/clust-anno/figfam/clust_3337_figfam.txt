@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE4|SEQ00034	268610101	VBIBifBre327712_0034	SEQ00034	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_3337
+BRE6|SEQ01558	177656384	VBIBifBre268992_1558	SEQ01558	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_3337
+BRE9|SEQ00035	58444092	VBIBifBre30019_0035	SEQ00035	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_3337

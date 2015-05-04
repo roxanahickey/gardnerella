@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00804	VBIBifBre340958_0804	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603592	966542	967516	-	975		Predicted N-acetyl-glucosamine kinase 2, ROK family (EC 2.7.1.59)	BRE1	clust_2532
+BRE2|SEQ00885	VBIBifBre337368_0885	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607726	1048605	1049579	-	975		Predicted N-acetyl-glucosamine kinase 2, ROK family (EC 2.7.1.59)	BRE2	clust_2532
+BRE4|SEQ00832	VBIBifBre327712_0832	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611763	1005007	1005981	-	975		Predicted N-acetyl-glucosamine kinase 2, ROK family (EC 2.7.1.59)	BRE4	clust_2532
+BRE5|SEQ00834	VBIBifBre336369_0835	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615813	987749	988723	-	975		"Predicted N-acetyl-glucosamine kinase 2, ROK family "	BRE5	clust_2532
+BRE7|SEQ00834	VBIBifBre340732_0834	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620125	997047	998021	-	975		Predicted N-acetyl-glucosamine kinase 2, ROK family (EC 2.7.1.59)	BRE7	clust_2532
+BRE9|SEQ00919	VBIBifBre30019_0919	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445934	1096017	1096991	-	975		Predicted N-acetyl-glucosamine kinase 2, ROK family (EC 2.7.1.59)	BRE9	clust_2532

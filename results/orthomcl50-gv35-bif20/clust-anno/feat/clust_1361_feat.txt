@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00394	VBIBifAdo136061_0394	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187049	216106	217857	+	1752		Lipid A export ATP-binding/permease protein MsbA	ADO1	clust_1361
+ANI1|SEQ00165	VBIBifAni240121_0165	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845232	193395	195314	+	1920	msbA	Lipid A export ATP-binding/permease protein MsbA	ANI1	clust_1361
+ANI2|SEQ00165	VBIBifAni235968_0165	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848587	193396	195315	+	1920		Lipid A export ATP-binding/permease protein MsbA	ANI2	clust_1361
+ANI3|SEQ00167	VBIBifAni108068_0167	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762602	193396	195315	+	1920		Lipid A export ATP-binding/permease protein MsbA	ANI3	clust_1361
+BIF1|SEQ00167	VBIBifBif87902_0167	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882841	204644	206527	+	1884	mdlB	Lipid A export ATP-binding/permease protein MsbA	BIF1	clust_1361
+BRE1|SEQ01814	VBIBifBre340958_1815	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605689	2123235	2125103	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE1	clust_1361
+BRE2|SEQ01914	VBIBifBre337368_1914	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609864	2221541	2223409	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE2	clust_1361
+BRE3|SEQ01886	VBIBifBre167886_1886	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195557	2201125	2202993	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE3	clust_1361
+BRE4|SEQ01864	VBIBifBre327712_1864	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613906	2167363	2169231	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE4	clust_1361
+BRE5|SEQ01978	VBIBifBre336369_1979	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618186	2233138	2235006	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE5	clust_1361
+BRE6|SEQ01322	VBIBifBre268992_1322	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655877	43182	45050	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE6	clust_1361
+BRE7|SEQ01901	VBIBifBre340732_1901	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622336	2197113	2198981	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE7	clust_1361
+BRE8|SEQ01859	VBIBifBre176493_1859	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626365	2168567	2170435	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE8	clust_1361
+BRE9|SEQ01961	VBIBifBre30019_1961	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448096	2273736	2275604	-	1869		Lipid A export ATP-binding/permease protein MsbA	BRE9	clust_1361
+INF1|SEQ01949	VBIBifLon182273_1949	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887958	2245417	2247288	-	1872		Lipid A export ATP-binding/permease protein MsbA	INF1	clust_1361
+LON1|SEQ01460	VBIBifLon107831_1461	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120048	1763160	1765031	+	1872		Lipid A export ATP-binding/permease protein MsbA	LON1	clust_1361
+LON2|SEQ01505	VBIBifLon171405_1508	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582603	1796170	1798041	+	1872	mdlB2	Lipid A export ATP-binding/permease protein MsbA	LON2	clust_1361
+LON3|SEQ01849	VBIBifLon156230_1852	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766890	737864	739735	-	1872		Lipid A export ATP-binding/permease protein MsbA	LON3	clust_1361
+LON4|SEQ01902	VBIBifLon48544_1902	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892209	2211720	2213591	-	1872		Lipid A export ATP-binding/permease protein MsbA	LON4	clust_1361
+THE1|SEQ00153	VBIBifThe274299_0153	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733469	175870	177765	+	1896		Lipid A export ATP-binding/permease protein MsbA	THE1	clust_1361

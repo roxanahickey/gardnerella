@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01764	VBIBifBre340958_1765	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605586	2055971	2057509	-	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE1	clust_1166
+BRE2|SEQ01867	VBIBifBre337368_1867	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609767	2158718	2160256	-	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE2	clust_1166
+BRE3|SEQ01828	VBIBifBre167886_1828	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195438	2126103	2127641	-	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE3	clust_1166
+BRE4|SEQ01803	VBIBifBre327712_1803	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613781	2088773	2090311	-	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE4	clust_1166
+BRE5|SEQ01928	VBIBifBre336369_1929	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618084	2163597	2165135	-	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE5	clust_1166
+BRE6|SEQ01186	VBIBifBre268992_1186	Bifidobacterium breve JCP7499	AWSX01000058	PATRIC	CDS	177655591	10261	11799	+	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE6	clust_1166
+BRE6|SEQ01334	VBIBifBre268992_1334	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655901	54759	56297	-	1539		hypothetical protein	BRE6	clust_1166
+BRE8|SEQ01816	VBIBifBre176493_1816	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626276	2110644	2112182	-	1539		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE8	clust_1166
+BRE9|SEQ01974	VBIBifBre30019_1974	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448122	2285304	2286863	-	1560		hypothetical protein	BRE9	clust_1166
+DEN1|SEQ00873	VBIBifDen165269_0874	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463054	2411588	2413165	+	1578	rbsA2	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	DEN1	clust_1166
+DEN2|SEQ00305	VBIBifDen39005_0305	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108933	18566	20143	-	1578		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	DEN2	clust_1166
+GV06|SEQ00387	VBIGarVag244004_0387	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489517	55450	57021	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV06	clust_1166
+GV16|SEQ00388	VBIGarVag246379_0388	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477910	355392	356963	+	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV16	clust_1166
+GV18|SEQ00074	VBIGarVag4823_0074	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000039	PATRIC	CDS	42068811	2977	4548	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV18	clust_1166
+GV19|SEQ01221	VBIGarVag39333_1223	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629365	1539501	1541072	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV19	clust_1166
+GV20|SEQ00273	VBIGarVag188338_0273	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189347	310594	312165	+	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV20	clust_1166
+GV30|SEQ00009	VBIGarVag267667_0009	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992054	9104	10675	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV30	clust_1166
+INF1|SEQ01496	VBIBifLon182273_1496	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887005	1701402	1702943	-	1542		Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)	INF1	clust_1166
+LON1|SEQ00036	VBIBifLon107831_0036	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117099	43076	44617	+	1542		Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)	LON1	clust_1166
+LON2|SEQ00079	VBIBifLon171405_0080	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579652	86743	88284	+	1542	mglA1	Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)	LON2	clust_1166
+LON3|SEQ00118	VBIBifLon156230_0118	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765863	140016	141557	-	1542		Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)	LON3	clust_1166
+LON4|SEQ01468	VBIBifLon48544_1468	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891292	1673305	1674846	-	1542		Putative sugar ABC transport system, ATP-binding protein YtfR (EC 3.6.3.17)	LON4	clust_1166

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00947	VBIGarVag244004_0947	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490702	342430	342984	+	555		hypothetical protein	GV06	clust_1894
+GV10|SEQ00659	VBIGarVag136958_0659	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147378	851446	852000	+	555		type IIS restriction enzyme R protein (MBOIIR)	GV10	clust_1894
+GV11|SEQ00569	VBIGarVag171052_0569	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549470	57778	58332	+	555		hypothetical protein	GV11	clust_1894

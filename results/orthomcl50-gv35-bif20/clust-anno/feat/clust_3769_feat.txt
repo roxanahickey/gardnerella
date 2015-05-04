@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01077	VBIBifAdo136061_1077	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188476	976707	977777	+	1071		Phage major capsid protein	ADO1	clust_3769
+BRE5|SEQ00947	VBIBifBre336369_0948	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616044	1103111	1104178	-	1068		hypothetical protein	BRE5	clust_3769
+INF1|SEQ00849	VBIBifLon182273_0849	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885669	1025629	1026687	-	1059		hypothetical protein	INF1	clust_3769

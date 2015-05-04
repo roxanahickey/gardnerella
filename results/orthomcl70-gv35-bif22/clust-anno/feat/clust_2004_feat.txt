@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00808	VBIBifBre340958_0808	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603600	970167	971594	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE1	clust_2004
+BRE2|SEQ00889	VBIBifBre337368_0889	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607734	1052230	1053657	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE2	clust_2004
+BRE4|SEQ00836	VBIBifBre327712_0836	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611771	1008632	1010059	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE4	clust_2004
+BRE5|SEQ00838	VBIBifBre336369_0839	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615821	991374	992801	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE5	clust_2004
+BRE6|SEQ00474	VBIBifBre268992_0474	Bifidobacterium breve JCP7499	AWSX01000024	PATRIC	CDS	177654080	779	2206	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE6	clust_2004
+BRE7|SEQ00838	VBIBifBre340732_0838	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620133	1000672	1002099	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE7	clust_2004
+BRE8|SEQ00865	VBIBifBre176493_0865	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624295	1043786	1045213	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE8	clust_2004
+BRE9|SEQ00923	VBIBifBre30019_0923	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445942	1099642	1101069	+	1428		D-xylose-proton symporter (D-xylose transporter)	BRE9	clust_2004
+DEN1|SEQ01126	VBIBifDen165269_1127	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459379	318232	319668	+	1437		Glucose/mannose:H+ symporter GlcP	DEN1	clust_2004
+DEN2|SEQ02087	VBIBifDen39005_2089	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112613	90122	91558	+	1437		Glucose/mannose:H+ symporter GlcP	DEN2	clust_2004

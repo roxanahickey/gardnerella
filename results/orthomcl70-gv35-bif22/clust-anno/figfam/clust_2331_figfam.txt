@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01423	27189202	VBIBifAdo136061_1423	SEQ01423	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Phage minor structural protein	FIG01331223	figfam	clust_2331
+GV09|SEQ00345	55259857	VBIGarVag169280_0345	SEQ00345	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2331
+GV10|SEQ00867	32147808	VBIGarVag136958_0867	SEQ00867	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2331
+LON3|SEQ00998	42768987	VBIBifLon156230_0999	SEQ00998	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Phage minor structural protein	FIG01331223	figfam	clust_2331

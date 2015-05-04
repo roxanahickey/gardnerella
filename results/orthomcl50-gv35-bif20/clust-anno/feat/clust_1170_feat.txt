@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00810	VBIBifAdo136061_0810	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187920	693621	694397	+	777		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	ADO1	clust_1170
+ANI1|SEQ00566	VBIBifAni240121_0566	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846075	665872	666687	+	816	dppD	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ANI1	clust_1170
+ANI2|SEQ00566	VBIBifAni235968_0566	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849429	665900	666688	+	789	dppD	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ANI2	clust_1170
+ANI3|SEQ00568	VBIBifAni108068_0568	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763442	665902	666690	+	789		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ANI3	clust_1170
+BIF1|SEQ01313	VBIBifBif87902_1313	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885213	1586668	1587528	-	861	oppF	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BIF1	clust_1170
+BRE1|SEQ00468	VBIBifBre340958_0468	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602891	594895	595680	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE1	clust_1170
+BRE2|SEQ00526	VBIBifBre337368_0526	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606979	650692	651477	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE2	clust_1170
+BRE3|SEQ01337	VBIBifBre167886_1337	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194415	1542201	1542986	-	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE3	clust_1170
+BRE4|SEQ00490	VBIBifBre327712_0490	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611050	626694	627479	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE4	clust_1170
+BRE5|SEQ00507	VBIBifBre336369_0508	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615131	616303	617088	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE5	clust_1170
+BRE6|SEQ00462	VBIBifBre268992_0462	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	177654054	49902	50687	-	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE6	clust_1170
+BRE7|SEQ00497	VBIBifBre340732_0497	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619421	628308	629093	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE7	clust_1170
+BRE8|SEQ00529	VBIBifBre176493_0529	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623597	672193	672978	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE8	clust_1170
+BRE9|SEQ00582	VBIBifBre30019_0582	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445229	722004	722789	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE9	clust_1170
+INF1|SEQ00484	VBIBifLon182273_0484	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884907	611964	612749	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	INF1	clust_1170
+LON1|SEQ00866	VBIBifLon107831_0867	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118809	1008048	1008833	-	786	oppF	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	LON1	clust_1170
+LON2|SEQ00948	VBIBifLon171405_0949	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581442	1062391	1063176	-	786	appF3	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	LON2	clust_1170
+LON3|SEQ00741	VBIBifLon156230_0741	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768456	1624835	1625620	-	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	LON3	clust_1170
+LON4|SEQ00470	VBIBifLon48544_0470	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889179	586405	587190	+	786		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	LON4	clust_1170
+THE1|SEQ01233	VBIBifThe274299_1233	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735688	1534573	1535445	-	873		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	THE1	clust_1170

@@ -1,0 +1,56 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00773	27187846	VBIBifAdo136061_0773	SEQ00773	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+ANI1|SEQ00531	86846005	VBIBifAni240121_0531	SEQ00531	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+ANI2|SEQ00531	86849359	VBIBifAni235968_0531	SEQ00531	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+ANI3|SEQ00533	42763372	VBIBifAni108068_0533	SEQ00533	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BIF1|SEQ01352	86885291	VBIBifBif87902_1352	SEQ01352	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE1|SEQ01417	268604854	VBIBifBre340958_1418	SEQ01417	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE2|SEQ01534	268609065	VBIBifBre337368_1534	SEQ01534	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE3|SEQ01493	54194733	VBIBifBre167886_1493	SEQ01493	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE4|SEQ01459	268613055	VBIBifBre327712_1459	SEQ01459	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE5|SEQ01611	268617414	VBIBifBre336369_1612	SEQ01611	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE6|SEQ00953	177655097	VBIBifBre268992_0953	SEQ00953	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE7|SEQ01489	268621474	VBIBifBre340732_1489	SEQ01489	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE8|SEQ01511	268625631	VBIBifBre176493_1511	SEQ01511	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+BRE9|SEQ01574	58447283	VBIBifBre30019_1574	SEQ01574	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+DEN1|SEQ00116	43461485	VBIBifDen165269_0116	SEQ00116	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+DEN2|SEQ01905	42112227	VBIBifDen39005_1906	SEQ01905	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+GV01|SEQ00358	85494855	VBIGarVag247323_0358	SEQ00358	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV02|SEQ00697	85498218	VBIGarVag242669_0697	SEQ00697	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV03|SEQ01161	85501790	VBIGarVag247424_1161	SEQ01161	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV04|SEQ00896	85481698	VBIGarVag246433_0896	SEQ00896	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV05|SEQ00101	52545909	VBIGarVag174900_0101	SEQ00101	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV06|SEQ01357	85491547	VBIGarVag244004_1357	SEQ01357	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV07|SEQ00384	85492392	VBIGarVag249177_0384	SEQ00384	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV08|SEQ00641	85475701	VBIGarVag251521_0641	SEQ00641	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000008	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV09|SEQ00752	55260705	VBIGarVag169280_0752	SEQ00752	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV10|SEQ00945	32147972	VBIGarVag136958_0945	SEQ00945	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV11|SEQ00718	52549787	VBIGarVag171052_0718	SEQ00718	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000046	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV12|SEQ00350	37853373	VBIGarVag144721_0350	SEQ00350	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV13|SEQ00012	85485951	VBIGarVag244533_0012	SEQ00012	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000001	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV14|SEQ00798	85503484	VBIGarVag244375_0798	SEQ00798	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV15|SEQ00924	85485424	VBIGarVag249709_0924	SEQ00924	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV16|SEQ00689	85478533	VBIGarVag246379_0689	SEQ00689	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV17|SEQ01097	37852289	VBIGarVag146634_1097	SEQ01097	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV18|SEQ00782	42070358	VBIGarVag4823_0782	SEQ00782	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000128	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV19|SEQ00929	42628763	VBIGarVag39333_0930	SEQ00929	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV20|SEQ00622	54190065	VBIGarVag188338_0622	SEQ00622	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV21|SEQ01184	183969251	VBIGarVag274454_1185	SEQ01184	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000172	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV22|SEQ00669	183970781	VBIGarVag276801_0670	SEQ00669	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000025	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV23|SEQ00335	183972986	VBIGarVag276017_0335	SEQ00335	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000020	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV24|SEQ00651	183976479	VBIGarVag268944_0652	SEQ00651	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000048	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV25|SEQ01166	183980393	VBIGarVag270495_1166	SEQ01166	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000131	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV26|SEQ00876	183982598	VBIGarVag272749_0876	SEQ00876	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000051	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV27|SEQ00788	183985371	VBIGarVag276930_0788	SEQ00788	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000039	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV28|SEQ01002	183988829	VBIGarVag271349_1002	SEQ01002	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000115	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV29|SEQ01136	183991842	VBIGarVag265473_1136	SEQ01136	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000130	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV30|SEQ01296	183994878	VBIGarVag267667_1298	SEQ01296	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000156	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV31|SEQ00461	183995988	VBIGarVag264983_0461	SEQ00461	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000016	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV32|SEQ00933	183999853	VBIGarVag277040_0933	SEQ00933	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000092	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+GV35|SEQ00717	184007812	VBIGarVag272169_0717	SEQ00717	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000062	PATRIC	CDS	NA	putative helicase	FIG00946155	figfam	clust_0668
+INF1|SEQ01635	46887287	VBIBifLon182273_1635	SEQ01635	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+LON1|SEQ01778	21120720	VBIBifLon107831_1779	SEQ01778	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+LON2|SEQ01815	42583259	VBIBifLon171405_1818	SEQ01815	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+LON3|SEQ01125	42766124	VBIBifLon156230_1127	SEQ01125	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+LON4|SEQ01593	46891546	VBIBifLon48544_1593	SEQ01593	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668
+THE1|SEQ01283	124735788	VBIBifThe274299_1283	SEQ01283	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		putative helicase	FIG00946155	figfam	clust_0668

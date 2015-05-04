@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00955	27188224	VBIBifAdo136061_0955	SEQ00955	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Phage integrase , site-specific tyrosine recombinase	FIG01505309	figfam	clust_2487
+INF1|SEQ00743	46885455	VBIBifLon182273_0743	SEQ00743	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Phage integrase , site-specific tyrosine recombinase	FIG01505309	figfam	clust_2487
+LON2|SEQ00450	42580420	VBIBifLon171405_0451	SEQ00450	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2487
+LON3|SEQ00499	42767950	VBIBifLon156230_0499	SEQ00499	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Phage integrase , site-specific tyrosine recombinase	FIG01505309	figfam	clust_2487
+LON4|SEQ00558	46889362	VBIBifLon48544_0558	SEQ00558	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Phage-related integrase	FIG01798007	figfam	clust_2487

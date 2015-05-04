@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00412	VBIGarVag247424_0412	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500229	27787	29445	-	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV03	clust_1363
+GV05|SEQ00166	VBIGarVag174900_0166	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546041	68197	69855	+	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV05	clust_1363
+GV07|SEQ01033	VBIGarVag249177_1033	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493752	27670	29328	-	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV07	clust_1363
+GV10|SEQ01117	VBIGarVag136958_1117	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148332	1514162	1515820	-	1659	ptsP	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV10	clust_1363
+GV12|SEQ00023	VBIGarVag144721_0023	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852696	28783	30441	-	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV12	clust_1363
+GV14|SEQ00929	VBIGarVag244375_0929	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503753	63504	65162	+	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV14	clust_1363
+GV15|SEQ00051	VBIGarVag249709_0051	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483588	60675	62333	+	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV15	clust_1363
+GV17|SEQ00022	VBIGarVag146634_0022	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850040	28802	30460	-	1659		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	GV17	clust_1363

@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01318	VBIBifBre340958_1319	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604653	1553679	1554437	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	BRE1	clust_2143
+BRE5|SEQ01482	VBIBifBre336369_1483	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617153	1664779	1665537	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	BRE5	clust_2143
+BRE7|SEQ01365	VBIBifBre340732_1365	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621223	1581296	1582054	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	BRE7	clust_2143
+BRE9|SEQ01448	VBIBifBre30019_1448	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447028	1684442	1685200	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	BRE9	clust_2143
+INF1|SEQ01518	VBIBifLon182273_1518	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887050	1728815	1729573	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	INF1	clust_2143
+LON1|SEQ00015	VBIBifLon107831_0015	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117057	16452	17210	+	759		Creatinine amidohydrolase (EC 3.5.2.10)	LON1	clust_2143
+LON2|SEQ00057	VBIBifLon171405_0058	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579607	60114	60872	+	759		Creatinine amidohydrolase (EC 3.5.2.10)	LON2	clust_2143
+LON3|SEQ01017	VBIBifLon156230_1018	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765905	167411	168169	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	LON3	clust_2143
+LON4|SEQ01490	VBIBifLon48544_1490	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891336	1705070	1705828	-	759		Creatinine amidohydrolase (EC 3.5.2.10)	LON4	clust_2143

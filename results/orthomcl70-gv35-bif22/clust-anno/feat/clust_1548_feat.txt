@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00971	VBIBifAdo136061_0971	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188256	883810	884046	+	237		Macrolide-efflux protein	ADO1	clust_1548
+BIF1|SEQ01022	VBIBifBif87902_1022	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884608	1239988	1240875	-	888		hypothetical protein	BIF1	clust_1548
+BRE1|SEQ00816	VBIBifBre340958_0816	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603616	977532	978902	+	1371		Macrolide-efflux protein	BRE1	clust_1548
+BRE2|SEQ00897	VBIBifBre337368_0897	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607750	1059602	1060972	+	1371		Macrolide-efflux protein	BRE2	clust_1548
+BRE3|SEQ00984	VBIBifBre167886_0984	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193680	1154625	1155992	-	1368		Macrolide-efflux protein	BRE3	clust_1548
+BRE4|SEQ00844	VBIBifBre327712_0844	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611787	1016017	1017384	+	1368		Macrolide-efflux protein	BRE4	clust_1548
+BRE5|SEQ00830	VBIBifBre336369_0831	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615805	983442	983864	+	423		Macrolide-efflux protein	BRE5	clust_1548
+BRE5|SEQ00849	VBIBifBre336369_0850	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615844	1001010	1002380	+	1371		Macrolide-efflux protein	BRE5	clust_1548
+BRE6|SEQ00815	VBIBifBre268992_0815	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654802	25202	26572	-	1371		Macrolide-efflux protein	BRE6	clust_1548
+BRE7|SEQ00846	VBIBifBre340732_0846	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620149	1008044	1009414	+	1371		Macrolide-efflux protein	BRE7	clust_1548
+BRE8|SEQ00876	VBIBifBre176493_0876	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624318	1053817	1055187	+	1371		Macrolide-efflux protein	BRE8	clust_1548
+BRE9|SEQ00931	VBIBifBre30019_0931	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445958	1107014	1108384	+	1371		Macrolide-efflux protein	BRE9	clust_1548
+INF1|SEQ00753	VBIBifLon182273_0753	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885475	923693	925183	+	1491		Macrolide-efflux protein	INF1	clust_1548
+LON1|SEQ00620	VBIBifLon107831_0621	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118297	714576	716033	-	1458		Macrolide-efflux protein	LON1	clust_1548
+LON2|SEQ00681	VBIBifLon171405_0682	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580888	749918	751423	-	1506		Macrolide-efflux protein	LON2	clust_1548
+LON3|SEQ00488	VBIBifLon156230_0488	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767928	1325229	1326686	-	1458		Macrolide-efflux protein	LON3	clust_1548
+LON4|SEQ00724	VBIBifLon48544_0724	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889718	881045	882535	+	1491		Macrolide-efflux protein	LON4	clust_1548

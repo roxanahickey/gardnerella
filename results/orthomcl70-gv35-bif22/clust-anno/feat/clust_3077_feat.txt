@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01850	VBIBifBre337368_1850	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609733	2139086	2140315	-	1230		ABC transporter sugar permease	BRE2	clust_3077
+BRE7|SEQ01845	VBIBifBre340732_1845	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622221	2122134	2123363	-	1230		ABC transporter sugar permease	BRE7	clust_3077
+DEN1|SEQ01446	VBIBifDen165269_1447	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460022	713891	715051	-	1161	malF	N-Acetyl-D-glucosamine ABC transport system, permease protein 1	DEN1	clust_3077
+DEN2|SEQ00194	VBIBifDen39005_0194	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108704	140242	141402	+	1161		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	DEN2	clust_3077

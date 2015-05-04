@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BIF1|SEQ00013	86882519	VBIBifBif87902_0013	SEQ00013	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Ribose operon repressor	GO:0005622	intracellular	go	clust_1381
+BIF1|SEQ00013	86882519	VBIBifBif87902_0013	SEQ00013	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Ribose operon repressor	GO:0003700	transcription factor activity	go	clust_1381

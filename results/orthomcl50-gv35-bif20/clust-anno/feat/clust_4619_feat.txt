@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ01492	VBIBifBre167886_1492	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194731	1751485	1751772	-	288		COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like	BRE3	clust_4619
+BRE7|SEQ01487	VBIBifBre340732_1487	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621470	1729351	1729503	-	153		COG1180: Radical SAM, Pyruvate-formate lyase-activating enzyme like	BRE7	clust_4619

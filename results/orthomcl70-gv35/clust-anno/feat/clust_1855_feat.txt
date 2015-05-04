@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00089	VBIGarVag244004_0089	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488883	100580	102136	+	1557		ATP-dependent DNA helicase	GV06	clust_1855
+GV21|SEQ00523	VBIGarVag274454_0524	Gardnerella vaginalis JCP7275	ATJS01000025	PATRIC	CDS	183967720	627	1754	-	1128		ATP-dependent DNA helicase	GV21	clust_1855
+GV30|SEQ00959	VBIGarVag267667_0961	Gardnerella vaginalis JCP8108	ATJJ01000085	PATRIC	CDS	183994113	20105	21661	-	1557		ATP-dependent DNA helicase	GV30	clust_1855

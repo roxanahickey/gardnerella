@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00008	VBIBifLon182273_0008	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883913	11406	12119	+	714		Flagellar hook-length control protein FliK	INF1	clust_3094
+LON2|SEQ01405	VBIBifLon171405_1408	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582394	1629647	1630360	-	714		Flagellar hook-length control protein FliK	LON2	clust_3094
+LON3|SEQ01485	VBIBifLon156230_1488	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769589	2274508	2275221	-	714		Flagellar hook-length control protein FliK	LON3	clust_3094
+LON4|SEQ00008	VBIBifLon48544_0008	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888214	11406	12119	+	714		Flagellar hook-length control protein FliK	LON4	clust_3094

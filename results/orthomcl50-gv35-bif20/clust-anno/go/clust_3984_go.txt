@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV21|SEQ00963	183968707	VBIGarVag274454_0964	SEQ00963	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000084	PATRIC	CDS	NA	ClpB protein	GO:0005515	protein binding	go	clust_3984
+GV21|SEQ00963	183968707	VBIGarVag274454_0964	SEQ00963	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000084	PATRIC	CDS	NA	ClpB protein	GO:0019538	protein metabolic process	go	clust_3984
+GV21|SEQ00963	183968707	VBIGarVag274454_0964	SEQ00963	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000084	PATRIC	CDS	NA	ClpB protein	GO:0005524	ATP binding	go	clust_3984
+GV22|SEQ00577	183970589	VBIGarVag276801_0578	SEQ00577	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000017	PATRIC	CDS	NA	ClpB protein	GO:0005515	protein binding	go	clust_3984
+GV22|SEQ00577	183970589	VBIGarVag276801_0578	SEQ00577	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000017	PATRIC	CDS	NA	ClpB protein	GO:0005524	ATP binding	go	clust_3984
+GV22|SEQ00577	183970589	VBIGarVag276801_0578	SEQ00577	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000017	PATRIC	CDS	NA	ClpB protein	GO:0019538	protein metabolic process	go	clust_3984

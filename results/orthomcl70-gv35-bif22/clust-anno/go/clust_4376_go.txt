@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0003735	structural constituent of ribosome	go	clust_4376
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0005840	ribosome	go	clust_4376
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0006412	translation	go	clust_4376
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0005622	intracellular	go	clust_4376

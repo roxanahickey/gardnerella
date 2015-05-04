@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00204	VBIGarVag247323_0204	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494522	81628	82866	+	1239		glycosyl transferase, group 1 family protein	GV01	clust_0555
+GV02|SEQ00476	VBIGarVag242669_0476	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497747	71869	73146	+	1278		glycosyl transferase, group 1 family protein	GV02	clust_0555
+GV03|SEQ00555	VBIGarVag247424_0555	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500519	111961	113253	-	1293		glycosyl transferase, group 1 family protein	GV03	clust_0555
+GV04|SEQ00406	VBIGarVag246433_0406	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480690	14882	16120	+	1239		glycosyl transferase, group 1 family protein	GV04	clust_0555
+GV05|SEQ00576	VBIGarVag174900_0576	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546898	173362	174663	-	1302		glycosyl transferase, group 1 family protein	GV05	clust_0555
+GV06|SEQ00831	VBIGarVag244004_0831	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490460	184763	186001	-	1239		glycosyl transferase, group 1 family protein	GV06	clust_0555
+GV07|SEQ00829	VBIGarVag249177_0829	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493327	101361	102626	+	1266		glycosyl transferase, group 1 family protein	GV07	clust_0555
+GV08|SEQ00391	VBIGarVag251521_0391	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475181	232473	233711	-	1239		glycosyl transferase, group 1 family protein	GV08	clust_0555
+GV09|SEQ00420	VBIGarVag169280_0420	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260014	122627	123865	+	1239		glycosyl transferase, group 1 family protein	GV09	clust_0555
+GV10|SEQ00372	VBIGarVag136958_0372	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146784	431803	433008	-	1206		glycosyl transferase, group 1 family protein	GV10	clust_0555
+GV11|SEQ01318	VBIGarVag171052_1318	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551071	95226	96464	+	1239		glycosyl transferase, group 1 family protein	GV11	clust_0555
+GV12|SEQ00915	VBIGarVag144721_0915	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854553	468381	469586	-	1206		glycosyl transferase, group 1 family protein	GV12	clust_0555
+GV13|SEQ00764	VBIGarVag244533_0764	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487520	228582	229820	+	1239		glycosyl transferase, group 1 family protein	GV13	clust_0555
+GV14|SEQ00863	VBIGarVag244375_0863	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503617	58456	59739	-	1284		glycosyl transferase, group 1 family protein	GV14	clust_0555
+GV15|SEQ00289	VBIGarVag249709_0289	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484089	12436	13632	+	1197		glycosyl transferase, group 1 family protein	GV15	clust_0555
+GV16|SEQ01069	VBIGarVag246379_1069	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479324	1239655	1240893	+	1239		glycosyl transferase, group 1 family protein	GV16	clust_0555
+GV17|SEQ00222	VBIGarVag146634_0222	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850453	191267	192454	+	1188		glycosyl transferase, group 1 family protein	GV17	clust_0555
+GV18|SEQ01221	VBIGarVag4823_1221	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071280	35042	36280	-	1239		glycosyl transferase, group 1 family protein	GV18	clust_0555
+GV19|SEQ00542	VBIGarVag39333_0543	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627961	672209	673447	-	1239		glycosyl transferase, group 1 family protein	GV19	clust_0555
+GV20|SEQ00981	VBIGarVag188338_0981	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190814	1212297	1213535	+	1239		glycosyl transferase, group 1 family protein	GV20	clust_0555
+GV21|SEQ00693	VBIGarVag274454_0694	Gardnerella vaginalis JCP7275	ATJS01000044	PATRIC	CDS	183968085	6730	7968	-	1239		glycosyl transferase, group 1 family protein	GV21	clust_0555
+GV22|SEQ00875	VBIGarVag276801_0876	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971237	36905	38077	+	1173		glycosyl transferase, group 1 family protein	GV22	clust_0555
+GV23|SEQ00748	VBIGarVag276017_0748	Gardnerella vaginalis JCP7659	ATJQ01000055	PATRIC	CDS	183973876	12441	13613	-	1173		glycosyl transferase, group 1 family protein	GV23	clust_0555
+GV24|SEQ00786	VBIGarVag268944_0787	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976771	46607	47845	+	1239		glycosyl transferase, group 1 family protein	GV24	clust_0555
+GV25|SEQ00283	VBIGarVag270495_0283	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978459	38720	39958	+	1239		glycosyl transferase, group 1 family protein	GV25	clust_0555
+GV26|SEQ00894	VBIGarVag272749_0894	Gardnerella vaginalis JCP8017A	ATJN01000052	PATRIC	CDS	183982635	7997	9169	-	1173		glycosyl transferase, group 1 family protein	GV26	clust_0555
+GV27|SEQ00685	VBIGarVag276930_0685	Gardnerella vaginalis JCP8017B	ATJM01000030	PATRIC	CDS	183985150	10096	11334	+	1239		glycosyl transferase, group 1 family protein	GV27	clust_0555
+GV28|SEQ00623	VBIGarVag271349_0623	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987969	66382	67620	-	1239		glycosyl transferase, group 1 family protein	GV28	clust_0555
+GV29|SEQ00237	VBIGarVag265473_0237	Gardnerella vaginalis JCP8070	ATJK01000009	PATRIC	CDS	183989848	16992	18230	-	1239		glycosyl transferase, group 1 family protein	GV29	clust_0555
+GV30|SEQ00426	VBIGarVag267667_0427	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992930	41899	43137	+	1239		glycosyl transferase, group 1 family protein	GV30	clust_0555
+GV31|SEQ00547	VBIGarVag264983_0547	Gardnerella vaginalis JCP8151A	ATJI01000021	PATRIC	CDS	183996167	7959	9197	-	1239		glycosyl transferase, group 1 family protein	GV31	clust_0555
+GV32|SEQ00460	VBIGarVag277040_0460	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998794	66579	67817	-	1239		glycosyl transferase, group 1 family protein	GV32	clust_0555
+GV33|SEQ00984	VBIGarVag265557_0984	Gardnerella vaginalis JCP8481A	ATJG01000117	PATRIC	CDS	184002815	1891	3174	+	1284		glycosyl transferase, group 1 family protein	GV33	clust_0555
+GV34|SEQ00876	VBIGarVag270440_0876	Gardnerella vaginalis JCP8481B	ATJF01000093	PATRIC	CDS	184005397	848	2101	-	1254		glycosyl transferase, group 1 family protein	GV34	clust_0555
+GV35|SEQ00736	VBIGarVag272169_0736	Gardnerella vaginalis JCP8522	ATJE01000064	PATRIC	CDS	184007852	8013	9251	-	1239		glycosyl transferase, group 1 family protein	GV35	clust_0555

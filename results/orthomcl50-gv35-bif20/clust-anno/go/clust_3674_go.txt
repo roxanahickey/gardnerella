@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV08|SEQ01105	85476659	VBIGarVag251521_1105	SEQ01105	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_3674
+GV08|SEQ01105	85476659	VBIGarVag251521_1105	SEQ01105	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_3674
+GV08|SEQ01105	85476659	VBIGarVag251521_1105	SEQ01105	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_3674
+GV18|SEQ00678	42070128	VBIGarVag4823_0678	SEQ00678	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_3674
+GV18|SEQ00678	42070128	VBIGarVag4823_0678	SEQ00678	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_3674
+GV18|SEQ00678	42070128	VBIGarVag4823_0678	SEQ00678	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_3674
+GV19|SEQ00001	42626834	VBIGarVag39333_0001	SEQ00001	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_3674
+GV19|SEQ00001	42626834	VBIGarVag39333_0001	SEQ00001	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_3674
+GV19|SEQ00001	42626834	VBIGarVag39333_0001	SEQ00001	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_3674

@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00390	VBIGarVag246433_0390	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480655	134866	135978	+	1113		Crp-family transcriptional regulator	GV04	clust_1225
+GV06|SEQ00727	VBIGarVag244004_0727	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490244	50842	51954	+	1113		Crp-family transcriptional regulator	GV06	clust_1225
+GV08|SEQ00615	VBIGarVag251521_0615	Gardnerella vaginalis 284V	ADEL01000007	PATRIC	CDS	85475646	24697	25809	-	1113		Crp-family transcriptional regulator	GV08	clust_1225
+GV11|SEQ00706	VBIGarVag171052_0706	Gardnerella vaginalis 41V	AEJE01000044	PATRIC	CDS	52549761	1539	2651	-	1113		Crp-family transcriptional regulator	GV11	clust_1225
+GV13|SEQ01009	VBIGarVag244533_1009	Gardnerella vaginalis 55152	ADEQ01000015	PATRIC	CDS	85488034	36035	37147	+	1113		Crp-family transcriptional regulator	GV13	clust_1225
+GV18|SEQ00605	VBIGarVag4823_0605	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000114	PATRIC	CDS	42069971	9547	10659	-	1113		Crp-family transcriptional regulator	GV18	clust_1225
+GV19|SEQ01154	VBIGarVag39333_1156	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629221	1407351	1408463	-	1113	xylR	Crp-family transcriptional regulator	GV19	clust_1225
+GV20|SEQ00353	VBIGarVag188338_0353	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189517	457475	458587	+	1113		Crp-family transcriptional regulator	GV20	clust_1225
+GV21|SEQ00774	VBIGarVag274454_0775	Gardnerella vaginalis JCP7275	ATJS01000053	PATRIC	CDS	183968264	13847	14959	+	1113		Crp-family transcriptional regulator	GV21	clust_1225
+GV22|SEQ00191	VBIGarVag276801_0191	Gardnerella vaginalis JCP7276	ATJR01000003	PATRIC	CDS	183969775	17015	18127	+	1113		Crp-family transcriptional regulator	GV22	clust_1225
+GV24|SEQ00478	VBIGarVag268944_0479	Gardnerella vaginalis JCP7672	ATJP01000023	PATRIC	CDS	183976091	25174	26286	+	1113		Crp-family transcriptional regulator	GV24	clust_1225
+GV30|SEQ00754	VBIGarVag267667_0756	Gardnerella vaginalis JCP8108	ATJJ01000048	PATRIC	CDS	183993644	1546	2658	-	1113		Crp-family transcriptional regulator	GV30	clust_1225

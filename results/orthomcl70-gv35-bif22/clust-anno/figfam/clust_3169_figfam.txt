@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ00464	43462220	VBIBifDen165269_0465	SEQ00464	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Beta-xylosidase	FIG01359114	figfam	clust_3169
+DEN2|SEQ01300	42110984	VBIBifDen39005_1301	SEQ01300	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS		Beta-xylosidase	FIG01359114	figfam	clust_3169
+LON1|SEQ01481	21120092	VBIBifLon107831_1482	SEQ01481	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Beta-xylosidase	FIG01359114	figfam	clust_3169
+LON3|SEQ01826	42766841	VBIBifLon156230_1829	SEQ01826	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Beta-xylosidase	FIG01359114	figfam	clust_3169

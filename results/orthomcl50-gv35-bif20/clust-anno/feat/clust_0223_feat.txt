@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00129	VBIGarVag247323_0129	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494364	173770	174873	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV01	clust_0223
+GV02|SEQ00549	VBIGarVag242669_0549	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497901	166477	167580	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV02	clust_0223
+GV03|SEQ01101	VBIGarVag247424_1101	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501668	32398	33501	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV03	clust_0223
+GV04|SEQ00477	VBIGarVag246433_0477	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480840	112408	113511	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV04	clust_0223
+GV05|SEQ00040	VBIGarVag174900_0040	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545785	52572	53675	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV05	clust_0223
+GV06|SEQ00751	VBIGarVag244004_0751	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490292	81258	82361	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV06	clust_0223
+GV07|SEQ00440	VBIGarVag249177_0440	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492506	78470	79573	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV07	clust_0223
+GV08|SEQ00320	VBIGarVag251521_0320	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475031	132711	133814	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV08	clust_0223
+GV09|SEQ00491	VBIGarVag169280_0491	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260164	221758	222861	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV09	clust_0223
+GV10|SEQ00968	VBIGarVag136958_0968	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148018	1270055	1271131	-	1077	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV10	clust_0223
+GV11|SEQ00386	VBIGarVag171052_0386	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549082	78294	79397	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV11	clust_0223
+GV12|SEQ00371	VBIGarVag144721_0371	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853415	378792	379895	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV12	clust_0223
+GV13|SEQ00853	VBIGarVag244533_0853	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487706	346905	348008	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV13	clust_0223
+GV14|SEQ00742	VBIGarVag244375_0742	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503370	102846	103949	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV14	clust_0223
+GV15|SEQ00947	VBIGarVag249709_0947	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485470	121867	122970	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV15	clust_0223
+GV16|SEQ01141	VBIGarVag246379_1141	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479476	1337110	1338213	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV16	clust_0223
+GV17|SEQ01121	VBIGarVag146634_1121	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852337	59259	60362	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV17	clust_0223
+GV18|SEQ00935	VBIGarVag4823_0935	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	42070675	5953	6798	-	846	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV18	clust_0223
+GV19|SEQ00468	VBIGarVag39333_0469	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627805	573296	574399	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV19	clust_0223
+GV20|SEQ01051	VBIGarVag188338_1051	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190962	1311538	1312641	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV20	clust_0223
+GV21|SEQ00088	VBIGarVag274454_0088	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	183966814	7929	9032	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV21	clust_0223
+GV22|SEQ00256	VBIGarVag276801_0257	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969928	10671	11774	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV22	clust_0223
+GV23|SEQ00314	VBIGarVag276017_0314	Gardnerella vaginalis JCP7659	ATJQ01000017	PATRIC	CDS	183972941	21485	22588	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV23	clust_0223
+GV24|SEQ00699	VBIGarVag268944_0700	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976584	11151	12254	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV24	clust_0223
+GV25|SEQ00316	VBIGarVag270495_0316	Gardnerella vaginalis JCP7719	ATJO01000019	PATRIC	CDS	183978531	21373	22476	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV25	clust_0223
+GV26|SEQ00763	VBIGarVag272749_0763	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	183982345	21498	22601	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV26	clust_0223
+GV27|SEQ00521	VBIGarVag276930_0521	Gardnerella vaginalis JCP8017B	ATJM01000017	PATRIC	CDS	183984795	11083	12186	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV27	clust_0223
+GV28|SEQ00341	VBIGarVag271349_0341	Gardnerella vaginalis JCP8066	ATJL01000019	PATRIC	CDS	183987351	11116	12219	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV28	clust_0223
+GV29|SEQ00381	VBIGarVag265473_0381	Gardnerella vaginalis JCP8070	ATJK01000018	PATRIC	CDS	183990154	11175	12278	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV29	clust_0223
+GV30|SEQ01202	VBIGarVag267667_1204	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	183994652	25797	26900	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV30	clust_0223
+GV31|SEQ00438	VBIGarVag264983_0438	Gardnerella vaginalis JCP8151A	ATJI01000014	PATRIC	CDS	183995936	11171	12274	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV31	clust_0223
+GV32|SEQ00174	VBIGarVag277040_0174	Gardnerella vaginalis JCP8151B	ATJH01000012	PATRIC	CDS	183998192	21448	22551	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV32	clust_0223
+GV33|SEQ00607	VBIGarVag265557_0607	Gardnerella vaginalis JCP8481A	ATJG01000055	PATRIC	CDS	184001960	7792	8895	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV33	clust_0223
+GV34|SEQ00583	VBIGarVag270440_0583	Gardnerella vaginalis JCP8481B	ATJF01000053	PATRIC	CDS	184004761	7420	8523	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV34	clust_0223
+GV35|SEQ00546	VBIGarVag272169_0546	Gardnerella vaginalis JCP8522	ATJE01000036	PATRIC	CDS	184007428	21447	22550	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV35	clust_0223
+ADO1|SEQ01809	VBIBifAdo136061_1809	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189989	316894	317991	-	1098		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	ADO1	clust_0223
+ANI1|SEQ01192	VBIBifAni240121_1192	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847373	1384390	1385496	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	ANI1	clust_0223
+ANI2|SEQ01192	VBIBifAni235968_1192	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850726	1384394	1385500	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	ANI2	clust_0223
+ANI3|SEQ01200	VBIBifAni108068_1200	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764745	1389842	1390948	-	1107	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	ANI3	clust_0223
+BIF1|SEQ00529	VBIBifBif87902_0529	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883593	658766	659872	+	1107	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BIF1	clust_0223
+BRE1|SEQ01229	VBIBifBre340958_1229	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604468	1442250	1443356	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE1	clust_0223
+BRE2|SEQ01319	VBIBifBre337368_1319	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608622	1518540	1519646	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE2	clust_0223
+BRE3|SEQ00593	VBIBifBre167886_0593	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192868	725301	726407	+	1107	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE3	clust_0223
+BRE4|SEQ01260	VBIBifBre327712_1260	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612645	1465598	1466704	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE4	clust_0223
+BRE5|SEQ01383	VBIBifBre336369_1384	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616948	1544323	1545429	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE5	clust_0223
+BRE6|SEQ01945	VBIBifBre268992_1945	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657204	138158	139264	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE6	clust_0223
+BRE7|SEQ01271	VBIBifBre340732_1271	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621027	1467625	1468731	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE7	clust_0223
+BRE8|SEQ01297	VBIBifBre176493_1297	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625189	1514060	1515166	-	1107	murX	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE8	clust_0223
+BRE9|SEQ01354	VBIBifBre30019_1354	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446833	1570525	1571631	-	1107	murX	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	BRE9	clust_0223
+INF1|SEQ01358	VBIBifLon182273_1358	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886720	1541118	1542224	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	INF1	clust_0223
+LON1|SEQ00171	VBIBifLon107831_0171	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117377	198650	199756	+	1107	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	LON1	clust_0223
+LON2|SEQ00216	VBIBifLon171405_0217	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579935	242557	243663	+	1107	rfe1	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	LON2	clust_0223
+LON3|SEQ01905	VBIBifLon156230_1908	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767002	815559	816665	+	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	LON3	clust_0223
+LON4|SEQ01322	VBIBifLon48544_1322	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890988	1496918	1498024	-	1107		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	LON4	clust_0223
+THE1|SEQ00613	VBIBifThe274299_0613	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734404	774510	775613	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	THE1	clust_0223

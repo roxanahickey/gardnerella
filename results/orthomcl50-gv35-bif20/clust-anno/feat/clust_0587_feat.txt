@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00742	VBIGarVag247323_0742	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495646	24430	25449	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV01	clust_0587
+GV02|SEQ01019	VBIGarVag242669_1019	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498893	24677	25696	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV02	clust_0587
+GV03|SEQ00444	VBIGarVag247424_0444	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500294	73144	74157	+	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV03	clust_0587
+GV04|SEQ01194	VBIGarVag246433_1194	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482317	27515	28534	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV04	clust_0587
+GV05|SEQ00133	VBIGarVag174900_0133	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52545974	19805	20818	-	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV05	clust_0587
+GV06|SEQ00506	VBIGarVag244004_0506	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489771	15417	16436	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV06	clust_0587
+GV07|SEQ01064	VBIGarVag249177_1064	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493814	72645	73658	+	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV07	clust_0587
+GV08|SEQ00576	VBIGarVag251521_0576	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475567	23893	24912	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV08	clust_0587
+GV09|SEQ01023	VBIGarVag169280_1023	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261267	27433	28452	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV09	clust_0587
+GV10|SEQ01151	VBIGarVag136958_1151	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148400	1559146	1560159	+	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV10	clust_0587
+GV11|SEQ00021	VBIGarVag171052_0021	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548304	31829	32848	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV11	clust_0587
+GV12|SEQ00054	VBIGarVag144721_0054	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852758	69007	70020	+	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV12	clust_0587
+GV13|SEQ01211	VBIGarVag244533_1211	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488474	25802	26821	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV13	clust_0587
+GV14|SEQ00898	VBIGarVag244375_0898	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503690	16879	17892	-	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV14	clust_0587
+GV15|SEQ00018	VBIGarVag249709_0018	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483522	16777	17790	-	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV15	clust_0587
+GV16|SEQ00028	VBIGarVag246379_0028	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477160	27652	28671	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV16	clust_0587
+GV17|SEQ00051	VBIGarVag146634_0051	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850098	69031	70044	+	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV17	clust_0587
+GV18|SEQ00768	VBIGarVag4823_0768	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070327	14383	14892	-	510		MSM (multiple sugar metabolism) operon regulatory protein	GV18	clust_0587
+GV19|SEQ00227	VBIGarVag39333_0227	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627307	268477	269496	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV19	clust_0587
+GV20|SEQ00108	VBIGarVag188338_0108	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189000	131062	132081	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV20	clust_0587
+GV21|SEQ00645	VBIGarVag274454_0646	Gardnerella vaginalis JCP7275	ATJS01000039	PATRIC	CDS	183967984	18058	19077	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV21	clust_0587
+GV22|SEQ00795	VBIGarVag276801_0796	Gardnerella vaginalis JCP7276	ATJR01000038	PATRIC	CDS	183971050	4550	5569	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV22	clust_0587
+GV23|SEQ00030	VBIGarVag276017_0030	Gardnerella vaginalis JCP7659	ATJQ01000005	PATRIC	CDS	183972349	3982	5001	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV23	clust_0587
+GV24|SEQ00486	VBIGarVag268944_0487	Gardnerella vaginalis JCP7672	ATJP01000024	PATRIC	CDS	183976109	4544	5563	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV24	clust_0587
+GV25|SEQ00489	VBIGarVag270495_0489	Gardnerella vaginalis JCP7719	ATJO01000040	PATRIC	CDS	183978911	2206	3225	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV25	clust_0587
+GV26|SEQ01289	VBIGarVag272749_1289	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983560	14976	15995	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV26	clust_0587
+GV27|SEQ01289	VBIGarVag276930_1289	Gardnerella vaginalis JCP8017B	ATJM01000158	PATRIC	CDS	183986511	14127	15146	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV27	clust_0587
+GV28|SEQ00011	VBIGarVag271349_0011	Gardnerella vaginalis JCP8066	ATJL01000004	PATRIC	CDS	183986668	9300	10319	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV28	clust_0587
+GV29|SEQ00673	VBIGarVag265473_0673	Gardnerella vaginalis JCP8070	ATJK01000042	PATRIC	CDS	183990796	2204	3223	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV29	clust_0587
+GV30|SEQ00151	VBIGarVag267667_0151	Gardnerella vaginalis JCP8108	ATJJ01000004	PATRIC	CDS	183992347	9919	10938	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV30	clust_0587
+GV31|SEQ00631	VBIGarVag264983_0631	Gardnerella vaginalis JCP8151A	ATJI01000029	PATRIC	CDS	183996348	8529	9548	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV31	clust_0587
+GV32|SEQ00720	VBIGarVag277040_0720	Gardnerella vaginalis JCP8151B	ATJH01000048	PATRIC	CDS	183999360	3991	5010	-	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV32	clust_0587
+GV33|SEQ00783	VBIGarVag265557_0783	Gardnerella vaginalis JCP8481A	ATJG01000081	PATRIC	CDS	184002352	4174	5286	-	1113		MSM (multiple sugar metabolism) operon regulatory protein	GV33	clust_0587
+GV34|SEQ00969	VBIGarVag270440_0969	Gardnerella vaginalis JCP8481B	ATJF01000110	PATRIC	CDS	184005611	16532	17545	-	1014		MSM (multiple sugar metabolism) operon regulatory protein	GV34	clust_0587
+GV35|SEQ01064	VBIGarVag272169_1064	Gardnerella vaginalis JCP8522	ATJE01000153	PATRIC	CDS	184008627	14907	15926	+	1020		MSM (multiple sugar metabolism) operon regulatory protein	GV35	clust_0587
+ADO1|SEQ02026	VBIBifAdo136061_2026	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190437	599264	600190	+	927		MSM (multiple sugar metabolism) operon regulatory protein	ADO1	clust_0587
+ANI1|SEQ01547	VBIBifAni240121_1547	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848117	1853466	1854476	+	1011		MSM (multiple sugar metabolism) operon regulatory protein	ANI1	clust_0587
+ANI2|SEQ01545	VBIBifAni235968_1545	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851466	1853687	1854697	+	1011		MSM (multiple sugar metabolism) operon regulatory protein	ANI2	clust_0587
+ANI3|SEQ01556	VBIBifAni108068_1557	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765488	1858918	1859928	+	1011		MSM (multiple sugar metabolism) operon regulatory protein	ANI3	clust_0587
+BRE1|SEQ01823	VBIBifBre340958_1824	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605707	2137819	2138835	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE1	clust_0587
+BRE2|SEQ01923	VBIBifBre337368_1923	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609882	2236126	2237142	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE2	clust_0587
+BRE3|SEQ01895	VBIBifBre167886_1895	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195575	2215696	2216712	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE3	clust_0587
+BRE4|SEQ01873	VBIBifBre327712_1873	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613924	2181934	2182950	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE4	clust_0587
+BRE5|SEQ02001	VBIBifBre336369_2002	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618232	2261542	2262558	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE5	clust_0587
+BRE6|SEQ00137	VBIBifBre268992_0137	Bifidobacterium breve JCP7499	AWSX01000010	PATRIC	CDS	177653377	11575	12591	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE6	clust_0587
+BRE7|SEQ01910	VBIBifBre340732_1910	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622354	2211700	2212716	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE7	clust_0587
+BRE8|SEQ01868	VBIBifBre176493_1868	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626383	2183139	2184155	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE8	clust_0587
+BRE9|SEQ01989	VBIBifBre30019_1989	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448152	2304325	2305341	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	BRE9	clust_0587
+INF1|SEQ01966	VBIBifLon182273_1966	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887992	2278009	2279025	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	INF1	clust_0587
+LON1|SEQ01439	VBIBifLon107831_1440	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120005	1730137	1731153	-	1017		MSM (multiple sugar metabolism) operon regulatory protein	LON1	clust_0587
+LON2|SEQ01486	VBIBifLon171405_1489	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582565	1746319	1747335	-	1017		MSM (multiple sugar metabolism) operon regulatory protein	LON2	clust_0587
+LON3|SEQ01867	VBIBifLon156230_1870	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766926	770448	771464	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	LON3	clust_0587
+LON4|SEQ01923	VBIBifLon48544_1923	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892251	2268974	2269990	+	1017		MSM (multiple sugar metabolism) operon regulatory protein	LON4	clust_0587
+THE1|SEQ01688	VBIBifThe274299_1688	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736645	2095520	2096542	+	1023		MSM (multiple sugar metabolism) operon regulatory protein	THE1	clust_0587

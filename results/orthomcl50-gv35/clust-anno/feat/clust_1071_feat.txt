@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00890	VBIGarVag247323_0890	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495955	112460	115219	+	2760		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV01	clust_1071
+GV02|SEQ01171	VBIGarVag242669_1171	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499213	146346	149105	-	2760		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV02	clust_1071
+GV03|SEQ00311	VBIGarVag247424_0311	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500013	269534	272335	+	2802		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV03	clust_1071
+GV04|SEQ01341	VBIGarVag246433_1341	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482633	20390	23134	+	2745		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV04	clust_1071
+GV05|SEQ00412	VBIGarVag174900_0412	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546555	267383	270175	+	2793		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV05	clust_1071
+GV06|SEQ00534	VBIGarVag244004_0534	Gardnerella vaginalis 1400E	ADER01000016	PATRIC	CDS	85489830	6004	8745	-	2742		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV06	clust_1071
+GV07|SEQ01128	VBIGarVag249177_1128	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493951	22674	25466	-	2793		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV07	clust_1071
+GV08|SEQ00187	VBIGarVag251521_0187	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474758	19862	22606	+	2745		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV08	clust_1071
+GV09|SEQ00627	VBIGarVag169280_0627	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260443	390159	392894	-	2736	gpsI	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV09	clust_1071
+GV10|SEQ00193	VBIGarVag136958_0193	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146408	236259	239039	+	2781	gpsI	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV10	clust_1071
+GV11|SEQ01108	VBIGarVag171052_1108	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550607	50758	53502	-	2745		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV11	clust_1071
+GV12|SEQ00731	VBIGarVag144721_0731	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854167	272228	275008	+	2781		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV12	clust_1071
+GV13|SEQ00546	VBIGarVag244533_0546	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487062	44896	47640	+	2745		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV13	clust_1071
+GV14|SEQ00141	VBIGarVag244375_0141	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502109	132043	134835	-	2793		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV14	clust_1071
+GV15|SEQ00476	VBIGarVag249709_0476	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484482	213778	216540	-	2763		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV15	clust_1071
+GV16|SEQ01279	VBIGarVag246379_1279	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479759	1504157	1506901	-	2745		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV16	clust_1071
+GV17|SEQ00399	VBIGarVag146634_0399	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850825	386157	388919	-	2763		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV17	clust_1071
+GV18|SEQ00803	VBIGarVag4823_0803	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000129	PATRIC	CDS	42070403	9655	12399	+	2745		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV18	clust_1071
+GV19|SEQ00331	VBIGarVag39333_0332	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627525	406060	408804	+	2745	pnp	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV19	clust_1071
+GV20|SEQ01185	VBIGarVag188338_1185	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191236	1477629	1480373	-	2745	gpsI	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	GV20	clust_1071

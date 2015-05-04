@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00032	VBIGarVag247323_0032	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494158	36081	36734	-	654		Substrate-specific component BioY of biotin ECF transporter	GV01	clust_0756
+GV02|SEQ00753	VBIGarVag242669_0753	Gardnerella vaginalis 00703C2mash	ADEU01000015	PATRIC	CDS	85498341	15739	16404	+	666		Substrate-specific component BioY of biotin ECF transporter	GV02	clust_0756
+GV03|SEQ00054	VBIGarVag247424_0054	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499473	87766	88422	+	657		Substrate-specific component BioY of biotin ECF transporter	GV03	clust_0756
+GV04|SEQ00333	VBIGarVag246433_0333	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480531	15105	15770	-	666		Substrate-specific component BioY of biotin ECF transporter	GV04	clust_0756
+GV05|SEQ01099	VBIGarVag174900_1099	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52547984	42071	42727	-	657		Substrate-specific component BioY of biotin ECF transporter	GV05	clust_0756
+GV06|SEQ00365	VBIGarVag244004_0365	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489473	29302	29979	+	678		Substrate-specific component BioY of biotin ECF transporter	GV06	clust_0756
+GV07|SEQ00728	VBIGarVag249177_0728	Gardnerella vaginalis 1500E	ADES01000013	PATRIC	CDS	85493109	24597	25250	+	654		Substrate-specific component BioY of biotin ECF transporter	GV07	clust_0756
+GV08|SEQ01246	VBIGarVag251521_1246	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476955	366208	366873	-	666		Substrate-specific component BioY of biotin ECF transporter	GV08	clust_0756
+GV09|SEQ01273	VBIGarVag169280_1273	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261789	142411	143064	-	654		Substrate-specific component BioY of biotin ECF transporter	GV09	clust_0756
+GV10|SEQ01054	VBIGarVag136958_1054	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148198	1426244	1426894	+	651		Substrate-specific component BioY of biotin ECF transporter	GV10	clust_0756
+GV11|SEQ00505	VBIGarVag171052_0505	Gardnerella vaginalis 41V	AEJE01000031	PATRIC	CDS	52549335	2782	3447	+	666		Substrate-specific component BioY of biotin ECF transporter	GV11	clust_0756
+GV12|SEQ00462	VBIGarVag144721_0462	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853605	534735	535385	+	651		Substrate-specific component BioY of biotin ECF transporter	GV12	clust_0756
+GV13|SEQ00386	VBIGarVag244533_0386	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486731	19216	19893	+	678		Substrate-specific component BioY of biotin ECF transporter	GV13	clust_0756
+GV14|SEQ01180	VBIGarVag244375_1180	Gardnerella vaginalis 6119V5	ADEW01000012	PATRIC	CDS	85504286	6402	7055	-	654		Substrate-specific component BioY of biotin ECF transporter	GV14	clust_0756
+GV15|SEQ00085	VBIGarVag249709_0085	Gardnerella vaginalis 6420B	ADEP01000002	PATRIC	CDS	85483657	10848	11498	-	651		Substrate-specific component BioY of biotin ECF transporter	GV15	clust_0756
+GV16|SEQ00401	VBIGarVag246379_0401	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477936	370869	371534	-	666		Substrate-specific component BioY of biotin ECF transporter	GV16	clust_0756
+GV17|SEQ00696	VBIGarVag146634_0696	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851455	51967	52617	-	651		Substrate-specific component BioY of biotin ECF transporter	GV17	clust_0756
+GV18|SEQ00670	VBIGarVag4823_0670	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000120	PATRIC	CDS	42070111	8452	9117	-	666		Substrate-specific component BioY of biotin ECF transporter	GV18	clust_0756
+GV19|SEQ01211	VBIGarVag39333_1213	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629345	1527182	1527847	+	666		Substrate-specific component BioY of biotin ECF transporter	GV19	clust_0756
+GV20|SEQ00296	VBIGarVag188338_0296	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189393	336364	337017	-	654		Substrate-specific component BioY of biotin ECF transporter	GV20	clust_0756
+GV22|SEQ00194	VBIGarVag276801_0194	Gardnerella vaginalis JCP7276	ATJR01000004	PATRIC	CDS	183969782	636	1289	+	654		Substrate-specific component BioY of biotin ECF transporter	GV22	clust_0756
+GV23|SEQ01129	VBIGarVag276017_1129	Gardnerella vaginalis JCP7659	ATJQ01000141	PATRIC	CDS	183974756	206	859	-	654		Substrate-specific component BioY of biotin ECF transporter	GV23	clust_0756
+GV24|SEQ00499	VBIGarVag268944_0500	Gardnerella vaginalis JCP7672	ATJP01000025	PATRIC	CDS	183976136	1902	2555	-	654		Substrate-specific component BioY of biotin ECF transporter	GV24	clust_0756
+GV25|SEQ01182	VBIGarVag270495_1182	Gardnerella vaginalis JCP7719	ATJO01000136	PATRIC	CDS	183980430	170	817	-	648		Substrate-specific component BioY of biotin ECF transporter	GV25	clust_0756
+GV26|SEQ01272	VBIGarVag272749_1272	Gardnerella vaginalis JCP8017A	ATJN01000154	PATRIC	CDS	183983516	2808	3461	+	654		Substrate-specific component BioY of biotin ECF transporter	GV26	clust_0756
+GV27|SEQ01150	VBIGarVag276930_1150	Gardnerella vaginalis JCP8017B	ATJM01000108	PATRIC	CDS	183986175	202	855	-	654		Substrate-specific component BioY of biotin ECF transporter	GV27	clust_0756
+GV28|SEQ00976	VBIGarVag271349_0976	Gardnerella vaginalis JCP8066	ATJL01000104	PATRIC	CDS	183988766	207	872	-	666		Substrate-specific component BioY of biotin ECF transporter	GV28	clust_0756
+GV29|SEQ01027	VBIGarVag265473_1027	Gardnerella vaginalis JCP8070	ATJK01000101	PATRIC	CDS	183991577	7896	8549	+	654		Substrate-specific component BioY of biotin ECF transporter	GV29	clust_0756
+GV30|SEQ00384	VBIGarVag267667_0385	Gardnerella vaginalis JCP8108	ATJJ01000015	PATRIC	CDS	183992836	652	1317	+	666		Substrate-specific component BioY of biotin ECF transporter	GV30	clust_0756
+GV31|SEQ01103	VBIGarVag264983_1103	Gardnerella vaginalis JCP8151A	ATJI01000111	PATRIC	CDS	183997411	139	804	-	666		Substrate-specific component BioY of biotin ECF transporter	GV31	clust_0756
+GV32|SEQ00963	VBIGarVag277040_0963	Gardnerella vaginalis JCP8151B	ATJH01000105	PATRIC	CDS	183999928	518	1183	+	666		Substrate-specific component BioY of biotin ECF transporter	GV32	clust_0756
+GV33|SEQ01030	VBIGarVag265557_1030	Gardnerella vaginalis JCP8481A	ATJG01000125	PATRIC	CDS	184002916	120	773	-	654		Substrate-specific component BioY of biotin ECF transporter	GV33	clust_0756
+GV34|SEQ01226	VBIGarVag270440_1226	Gardnerella vaginalis JCP8481B	ATJF01000159	PATRIC	CDS	184006193	120	773	-	654		Substrate-specific component BioY of biotin ECF transporter	GV34	clust_0756
+GV35|SEQ01040	VBIGarVag272169_1040	Gardnerella vaginalis JCP8522	ATJE01000144	PATRIC	CDS	184008570	173	838	-	666		Substrate-specific component BioY of biotin ECF transporter	GV35	clust_0756

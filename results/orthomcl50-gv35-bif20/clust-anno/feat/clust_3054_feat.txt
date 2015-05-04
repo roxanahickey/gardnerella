@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00042	VBIBifAni240121_0042	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844981	50497	50943	-	447		Probable aminoglycoside 3'-phosphotransferase (EC 2.7.1.95) (Kanamycin kinase)	ANI1	clust_3054
+ANI2|SEQ00042	VBIBifAni235968_0042	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848336	50497	50943	-	447		Probable aminoglycoside 3'-phosphotransferase (EC 2.7.1.95) (Kanamycin kinase)	ANI2	clust_3054
+ANI3|SEQ00044	VBIBifAni108068_0044	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762352	50497	50943	-	447		Probable aminoglycoside 3'-phosphotransferase (EC 2.7.1.95) (Kanamycin kinase)	ANI3	clust_3054
+BIF1|SEQ01793	VBIBifBif87902_1793	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886218	2160092	2160883	+	792	ymdC	contains aminoglycoside phosphotransferase domain	BIF1	clust_3054

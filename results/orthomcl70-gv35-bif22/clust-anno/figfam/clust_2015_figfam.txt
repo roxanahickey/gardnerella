@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01662	27189695	VBIBifAdo136061_1662	SEQ01662	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+BRE1|SEQ01491	268605014	VBIBifBre340958_1492	SEQ01491	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+BRE2|SEQ01601	268609210	VBIBifBre337368_1601	SEQ01601	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+BRE3|SEQ01556	54194871	VBIBifBre167886_1556	SEQ01556	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+BRE4|SEQ01530	268613208	VBIBifBre327712_1530	SEQ01530	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+BRE7|SEQ01574	268621655	VBIBifBre340732_1574	SEQ01574	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+BRE8|SEQ01106	268624798	VBIBifBre176493_1106	SEQ01106	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Antirestriction protein	FIG00514391	figfam	clust_2015
+BRE9|SEQ01650	58447447	VBIBifBre30019_1650	SEQ01650	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2015
+LON1|SEQ00325	21117691	VBIBifLon107831_0325	SEQ00325	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Antirestriction protein	FIG00514391	figfam	clust_2015
+LON3|SEQ00189	42767311	VBIBifLon156230_0189	SEQ00189	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Antirestriction protein	FIG00514391	figfam	clust_2015

@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00893	VBIBifAdo136061_0893	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188096	793997	794797	-	801		2-keto-3-deoxy-6-phosphogluconate aldolase	ADO1	clust_2979
+INF1|SEQ00562	VBIBifLon182273_0562	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885068	702611	703354	-	744		2-keto-3-deoxy-6-phosphogluconate aldolase	INF1	clust_2979
+LON1|SEQ00793	VBIBifLon107831_0794	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118659	920767	921510	+	744		2-keto-3-deoxy-6-phosphogluconate aldolase	LON1	clust_2979
+LON3|SEQ00663	VBIBifLon156230_0663	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768295	1535477	1536220	+	744		2-keto-3-deoxy-6-phosphogluconate aldolase	LON3	clust_2979

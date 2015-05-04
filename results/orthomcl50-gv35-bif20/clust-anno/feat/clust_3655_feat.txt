@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01556	VBIBifAni240121_1556	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848142	1868234	1868770	+	537		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI1	clust_3655
+ANI2|SEQ01553	VBIBifAni235968_1553	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851488	1868456	1868992	+	537		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI2	clust_3655
+ANI3|SEQ01564	VBIBifAni108068_1565	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765510	1873687	1874223	+	537		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI3	clust_3655

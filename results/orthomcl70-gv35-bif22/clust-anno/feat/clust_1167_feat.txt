@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01097	VBIBifAdo136061_1097	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188517	4753	5703	+	951		Choloylglycine hydrolase (EC 3.5.1.24)	ADO1	clust_1167
+ANI1|SEQ00854	VBIBifAni240121_0854	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846680	991395	992339	-	945		Choloylglycine hydrolase (EC 3.5.1.24)	ANI1	clust_1167
+ANI2|SEQ00853	VBIBifAni235968_0853	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850031	991398	992342	-	945		Choloylglycine hydrolase (EC 3.5.1.24)	ANI2	clust_1167
+ANI3|SEQ00856	VBIBifAni108068_0856	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764045	991400	992344	-	945	bsh	Choloylglycine hydrolase (EC 3.5.1.24)	ANI3	clust_1167
+BIF1|SEQ00843	VBIBifBif87902_0843	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884235	1030575	1031525	+	951	cbh	Choloylglycine hydrolase (EC 3.5.1.24)	BIF1	clust_1167
+BRE1|SEQ00916	VBIBifBre340958_0916	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603818	1087991	1088944	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE1	clust_1167
+BRE2|SEQ01008	VBIBifBre337368_1008	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607975	1183082	1184035	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE2	clust_1167
+BRE3|SEQ00874	VBIBifBre167886_0874	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193458	1035896	1036849	-	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE3	clust_1167
+BRE4|SEQ01045	VBIBifBre327712_1045	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612207	1214558	1215511	-	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE4	clust_1167
+BRE5|SEQ01060	VBIBifBre336369_1061	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616277	1194719	1195672	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE5	clust_1167
+BRE6|SEQ00614	VBIBifBre268992_0614	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654377	13932	14885	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE6	clust_1167
+BRE7|SEQ00960	VBIBifBre340732_0960	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620381	1128947	1129900	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	BRE7	clust_1167
+BRE8|SEQ00977	VBIBifBre176493_0977	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624522	1165188	1166141	+	954	cbh	Choloylglycine hydrolase (EC 3.5.1.24)	BRE8	clust_1167
+BRE9|SEQ01043	VBIBifBre30019_1043	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446184	1228259	1229212	+	954	cbh	Choloylglycine hydrolase (EC 3.5.1.24)	BRE9	clust_1167
+DEN1|SEQ01575	VBIBifDen165269_1576	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460298	853708	854658	-	951	cbh	Choloylglycine hydrolase (EC 3.5.1.24)	DEN1	clust_1167
+DEN2|SEQ00059	VBIBifDen39005_0059	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108412	637	1587	+	951		Choloylglycine hydrolase (EC 3.5.1.24)	DEN2	clust_1167
+INF1|SEQ00964	VBIBifLon182273_0964	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885908	1121778	1122731	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	INF1	clust_1167
+LON1|SEQ00496	VBIBifLon107831_0497	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118047	577729	578682	-	954		Choloylglycine hydrolase (EC 3.5.1.24)	LON1	clust_1167
+LON2|SEQ00551	VBIBifLon171405_0552	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580626	612358	613311	-	954	cbaH	Choloylglycine hydrolase (EC 3.5.1.24)	LON2	clust_1167
+LON3|SEQ00363	VBIBifLon156230_0363	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767676	1190157	1191110	-	954		Choloylglycine hydrolase (EC 3.5.1.24)	LON3	clust_1167
+LON4|SEQ00853	VBIBifLon48544_0853	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889979	1020761	1021714	+	954		Choloylglycine hydrolase (EC 3.5.1.24)	LON4	clust_1167
+THE1|SEQ00402	VBIBifThe274299_0402	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733979	489000	490124	+	1125		Choloylglycine hydrolase (EC 3.5.1.24)	THE1	clust_1167

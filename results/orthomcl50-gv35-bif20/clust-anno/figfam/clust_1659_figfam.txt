@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01664	27189699	VBIBifAdo136061_1664	SEQ01664	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1659
+ADO1|SEQ01674	27189719	VBIBifAdo136061_1674	SEQ01674	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1659
+BIF1|SEQ00161	86882827	VBIBifBif87902_0161	SEQ00161	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1659
+BRE8|SEQ00870	268624305	VBIBifBre176493_0870	SEQ00870	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1659
+LON1|SEQ00960	21118997	VBIBifLon107831_0961	SEQ00960	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1659

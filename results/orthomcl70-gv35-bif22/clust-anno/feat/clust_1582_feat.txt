@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00340	VBIBifBre340958_0340	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602624	423563	423991	+	429		MerR-type transcriptional regulator	BRE1	clust_1582
+BRE2|SEQ00401	VBIBifBre337368_0401	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606722	477902	478330	+	429		MerR-type transcriptional regulator	BRE2	clust_1582
+BRE3|SEQ00399	VBIBifBre167886_0399	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192466	490790	491218	+	429		MerR-type transcriptional regulator	BRE3	clust_1582
+BRE4|SEQ00350	VBIBifBre327712_0350	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610762	435460	435888	+	429		MerR-type transcriptional regulator	BRE4	clust_1582
+BRE5|SEQ00377	VBIBifBre336369_0378	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614865	437014	437442	+	429		MerR-type transcriptional regulator	BRE5	clust_1582
+BRE6|SEQ00863	VBIBifBre268992_0863	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654911	20215	20643	-	429		MerR-type transcriptional regulator	BRE6	clust_1582
+BRE7|SEQ00373	VBIBifBre340732_0373	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619164	457943	458371	+	429		MerR-type transcriptional regulator	BRE7	clust_1582
+BRE8|SEQ00404	VBIBifBre176493_0404	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623340	498107	498535	+	429		MerR-type transcriptional regulator	BRE8	clust_1582
+BRE9|SEQ00440	VBIBifBre30019_0440	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444937	529236	529664	+	429		MerR-type transcriptional regulator	BRE9	clust_1582
+DEN1|SEQ00376	VBIBifDen165269_0377	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462039	1754209	1754631	-	423		MerR-type transcriptional regulator	DEN1	clust_1582
+DEN2|SEQ02142	VBIBifDen39005_2144	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112724	50983	51405	+	423		MerR-type transcriptional regulator	DEN2	clust_1582
+INF1|SEQ00327	VBIBifLon182273_0327	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884584	405982	406410	+	429		MerR-type transcriptional regulator	INF1	clust_1582
+LON1|SEQ01024	VBIBifLon107831_1025	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119131	1212503	1212931	-	429		MerR-type transcriptional regulator	LON1	clust_1582
+LON2|SEQ01080	VBIBifLon171405_1082	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581713	1241359	1241787	-	429		MerR-type transcriptional regulator	LON2	clust_1582
+LON3|SEQ00891	VBIBifLon156230_0892	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768763	1823070	1823498	-	429		MerR-type transcriptional regulator	LON3	clust_1582
+LON4|SEQ00335	VBIBifLon48544_0335	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888902	408701	409129	+	429		MerR-type transcriptional regulator	LON4	clust_1582

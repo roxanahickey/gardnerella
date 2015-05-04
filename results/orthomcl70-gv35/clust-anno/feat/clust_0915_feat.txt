@@ -1,0 +1,30 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01159	VBIGarVag247323_1159	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496520	171469	172569	+	1101		Daunorubicin resistance ATP-binding protein drrA	GV01	clust_0915
+GV03|SEQ00703	VBIGarVag247424_0703	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500830	76748	77854	-	1107		Daunorubicin resistance ATP-binding protein drrA	GV03	clust_0915
+GV04|SEQ00814	VBIGarVag246433_0814	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481527	144029	145135	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV04	clust_0915
+GV05|SEQ00734	VBIGarVag174900_0734	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547227	352627	353733	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV05	clust_0915
+GV06|SEQ00028	VBIGarVag244004_0028	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488761	30327	31436	+	1110		Daunorubicin resistance ATP-binding protein drrA	GV06	clust_0915
+GV07|SEQ00698	VBIGarVag249177_0698	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493048	77504	78613	-	1110		Daunorubicin resistance ATP-binding protein drrA	GV07	clust_0915
+GV08|SEQ00725	VBIGarVag251521_0725	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475876	79799	80905	-	1107		Daunorubicin resistance ATP-binding protein drrA	GV08	clust_0915
+GV09|SEQ00672	VBIGarVag169280_0672	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260539	11667	12773	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV09	clust_0915
+GV10|SEQ00462	VBIGarVag136958_0462	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146976	562361	563467	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV10	clust_0915
+GV12|SEQ01037	VBIGarVag144721_1037	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854811	8793	9899	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV12	clust_0915
+GV13|SEQ00950	VBIGarVag244533_0950	Gardnerella vaginalis 55152	ADEQ01000013	PATRIC	CDS	85487909	16817	17926	+	1110		Daunorubicin resistance ATP-binding protein drrA	GV13	clust_0915
+GV15|SEQ00272	VBIGarVag249709_0272	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85484052	107840	108949	+	1110		Daunorubicin resistance ATP-binding protein drrA	GV15	clust_0915
+GV16|SEQ00608	VBIGarVag246379_0608	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478364	658404	659510	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV16	clust_0915
+GV17|SEQ00070	VBIGarVag146634_0070	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850137	2512	3621	-	1110		Daunorubicin resistance ATP-binding protein drrA	GV17	clust_0915
+GV18|SEQ00080	VBIGarVag4823_0080	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000041	PATRIC	CDS	42068825	1300	2406	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV18	clust_0915
+GV19|SEQ01025	VBIGarVag39333_1026	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628961	1259739	1260845	-	1107	drrA	Daunorubicin resistance ATP-binding protein drrA	GV19	clust_0915
+GV20|SEQ00537	VBIGarVag188338_0537	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189888	643222	644328	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV20	clust_0915
+GV21|SEQ00336	VBIGarVag274454_0336	Gardnerella vaginalis JCP7275	ATJS01000012	PATRIC	CDS	183967327	18427	19533	-	1107		Daunorubicin resistance ATP-binding protein drrA	GV21	clust_0915
+GV22|SEQ00301	VBIGarVag276801_0302	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970019	12853	13959	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV22	clust_0915
+GV23|SEQ00154	VBIGarVag276017_0154	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972609	7178	8281	-	1104		Daunorubicin resistance ATP-binding protein drrA	GV23	clust_0915
+GV25|SEQ01227	VBIGarVag270495_1227	Gardnerella vaginalis JCP7719	ATJO01000166	PATRIC	CDS	183980552	6980	8080	-	1101		Daunorubicin resistance ATP-binding protein drrA	GV25	clust_0915
+GV26|SEQ00701	VBIGarVag272749_0701	Gardnerella vaginalis JCP8017A	ATJN01000034	PATRIC	CDS	183982207	6694	7794	-	1101		Daunorubicin resistance ATP-binding protein drrA	GV26	clust_0915
+GV27|SEQ00585	VBIGarVag276930_0585	Gardnerella vaginalis JCP8017B	ATJM01000024	PATRIC	CDS	183984940	6692	7792	-	1101		Daunorubicin resistance ATP-binding protein drrA	GV27	clust_0915
+GV28|SEQ00093	VBIGarVag271349_0093	Gardnerella vaginalis JCP8066	ATJL01000009	PATRIC	CDS	183986839	4476	5582	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV28	clust_0915
+GV29|SEQ00247	VBIGarVag265473_0247	Gardnerella vaginalis JCP8070	ATJK01000010	PATRIC	CDS	183989871	1067	2158	+	1092		Daunorubicin resistance ATP-binding protein drrA	GV29	clust_0915
+GV30|SEQ00516	VBIGarVag267667_0517	Gardnerella vaginalis JCP8108	ATJJ01000027	PATRIC	CDS	183993128	14877	15473	+	597		Daunorubicin resistance ATP-binding protein drrA	GV30	clust_0915
+GV31|SEQ00914	VBIGarVag264983_0914	Gardnerella vaginalis JCP8151A	ATJI01000064	PATRIC	CDS	183996970	3854	4966	-	1113		Daunorubicin resistance ATP-binding protein drrA	GV31	clust_0915
+GV32|SEQ00106	VBIGarVag277040_0106	Gardnerella vaginalis JCP8151B	ATJH01000006	PATRIC	CDS	183998046	6825	7937	+	1113		Daunorubicin resistance ATP-binding protein drrA	GV32	clust_0915
+GV35|SEQ00312	VBIGarVag272169_0312	Gardnerella vaginalis JCP8522	ATJE01000014	PATRIC	CDS	184006924	1130	2236	+	1107		Daunorubicin resistance ATP-binding protein drrA	GV35	clust_0915

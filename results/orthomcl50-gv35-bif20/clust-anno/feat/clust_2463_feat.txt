@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00246	VBIBifBre337368_0246	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606404	320011	320715	-	705		ABC transporter, ATP-binding protein	BRE2	clust_2463
+BRE3|SEQ00266	VBIBifBre167886_0266	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192193	343995	344699	-	705		ABC transporter, ATP-binding protein	BRE3	clust_2463
+BRE5|SEQ00249	VBIBifBre336369_0250	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614601	305479	306183	-	705		ABC transporter, ATP-binding protein	BRE5	clust_2463
+BRE7|SEQ00242	VBIBifBre340732_0242	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618896	315587	316291	-	705		ABC transporter, ATP-binding protein	BRE7	clust_2463
+BRE8|SEQ00269	VBIBifBre176493_0269	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623063	347073	347777	-	705		ABC transporter, ATP-binding protein	BRE8	clust_2463
+BRE9|SEQ00279	VBIBifBre30019_0279	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444603	360873	361577	-	705		ABC transporter, ATP-binding protein	BRE9	clust_2463

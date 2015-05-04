@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01368	VBIBifAdo136061_1368	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189088	27312	28919	-	1608		COG0477: Permeases of the major facilitator superfamily	ADO1	clust_0639
+ANI1|SEQ01382	VBIBifAni240121_1382	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847771	1633447	1635171	+	1725		COG0477: Permeases of the major facilitator superfamily	ANI1	clust_0639
+ANI2|SEQ01382	VBIBifAni235968_1382	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851124	1633665	1635389	+	1725		COG0477: Permeases of the major facilitator superfamily	ANI2	clust_0639
+ANI3|SEQ01391	VBIBifAni108068_1391	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765142	1638896	1640620	+	1725		COG0477: Permeases of the major facilitator superfamily	ANI3	clust_0639
+BIF1|SEQ00357	VBIBifBif87902_0357	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883245	434452	436119	-	1668	yhcA	COG0477: Permeases of the major facilitator superfamily	BIF1	clust_0639
+BRE1|SEQ00370	VBIBifBre340958_0370	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602689	462089	463687	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE1	clust_0639
+BRE2|SEQ00432	VBIBifBre337368_0432	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606788	518197	519795	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE2	clust_0639
+BRE3|SEQ00429	VBIBifBre167886_0429	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192531	530863	532461	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE3	clust_0639
+BRE4|SEQ00379	VBIBifBre327712_0379	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610824	475557	477155	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE4	clust_0639
+BRE5|SEQ00403	VBIBifBre336369_0404	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614921	472944	474542	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE5	clust_0639
+BRE6|SEQ00343	VBIBifBre268992_0343	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653807	10406	11095	-	690		COG0477: Permeases of the major facilitator superfamily	BRE6	clust_0639
+BRE6|SEQ00344	VBIBifBre268992_0344	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653809	11089	11931	-	843		COG0477: Permeases of the major facilitator superfamily	BRE6	clust_0639
+BRE7|SEQ00405	VBIBifBre340732_0405	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619232	498120	499718	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE7	clust_0639
+BRE8|SEQ00432	VBIBifBre176493_0432	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623400	536508	538106	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE8	clust_0639
+BRE9|SEQ00473	VBIBifBre30019_0473	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445008	569338	570936	-	1599		COG0477: Permeases of the major facilitator superfamily	BRE9	clust_0639
+DEN1|SEQ00921	VBIBifDen165269_0922	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458965	61458	63038	+	1581		COG0477: Permeases of the major facilitator superfamily	DEN1	clust_0639
+DEN2|SEQ01546	VBIBifDen39005_1547	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111481	162691	164271	-	1581		COG0477: Permeases of the major facilitator superfamily	DEN2	clust_0639
+GV01|SEQ01012	VBIGarVag247323_1012	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496213	244577	246235	+	1659		COG0477: Permeases of the major facilitator superfamily	GV01	clust_0639
+GV02|SEQ01057	VBIGarVag242669_1057	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498970	15593	17251	-	1659		COG0477: Permeases of the major facilitator superfamily	GV02	clust_0639
+GV03|SEQ01114	VBIGarVag247424_1114	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501694	48449	50053	-	1605		COG0477: Permeases of the major facilitator superfamily	GV03	clust_0639
+GV04|SEQ00527	VBIGarVag246433_0527	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480946	181651	183309	-	1659		COG0477: Permeases of the major facilitator superfamily	GV04	clust_0639
+GV05|SEQ00053	VBIGarVag174900_0053	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545811	68452	70056	-	1605		COG0477: Permeases of the major facilitator superfamily	GV05	clust_0639
+GV06|SEQ01075	VBIGarVag244004_1075	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490976	35725	37383	-	1659		COG0477: Permeases of the major facilitator superfamily	GV06	clust_0639
+GV07|SEQ00427	VBIGarVag249177_0427	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492480	61598	63202	+	1605		COG0477: Permeases of the major facilitator superfamily	GV07	clust_0639
+GV08|SEQ00269	VBIGarVag251521_0269	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474923	61539	63197	+	1659		COG0477: Permeases of the major facilitator superfamily	GV08	clust_0639
+GV09|SEQ00544	VBIGarVag169280_0544	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260277	293088	294746	-	1659		COG0477: Permeases of the major facilitator superfamily	GV09	clust_0639
+GV10|SEQ00328	VBIGarVag136958_0328	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146692	382036	383265	-	1230		COG0477: Permeases of the major facilitator superfamily	GV10	clust_0639
+GV11|SEQ00190	VBIGarVag171052_0190	Gardnerella vaginalis 41V	AEJE01000010	PATRIC	CDS	52548664	20682	22340	-	1659		COG0477: Permeases of the major facilitator superfamily	GV11	clust_0639
+GV12|SEQ00871	VBIGarVag144721_0871	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854461	418769	420367	-	1599		COG0477: Permeases of the major facilitator superfamily	GV12	clust_0639
+GV13|SEQ01303	VBIGarVag244533_1303	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488660	36162	37820	+	1659		COG0477: Permeases of the major facilitator superfamily	GV13	clust_0639
+GV14|SEQ00755	VBIGarVag244375_0755	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503396	118570	120174	-	1605		COG0477: Permeases of the major facilitator superfamily	GV14	clust_0639
+GV15|SEQ00341	VBIGarVag249709_0341	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484197	67566	69161	+	1596		COG0477: Permeases of the major facilitator superfamily	GV15	clust_0639
+GV16|SEQ01193	VBIGarVag246379_1193	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479586	1406410	1408068	-	1659		COG0477: Permeases of the major facilitator superfamily	GV16	clust_0639
+GV17|SEQ00265	VBIGarVag146634_0265	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850543	240524	242119	+	1596		COG0477: Permeases of the major facilitator superfamily	GV17	clust_0639
+GV18|SEQ00410	VBIGarVag4823_0410	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000095	PATRIC	CDS	42069550	5584	7242	+	1659		COG0477: Permeases of the major facilitator superfamily	GV18	clust_0639
+GV19|SEQ00416	VBIGarVag39333_0417	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627695	504102	505760	+	1659		COG0477: Permeases of the major facilitator superfamily	GV19	clust_0639
+GV20|SEQ01101	VBIGarVag188338_1101	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191068	1380950	1382608	-	1659		COG0477: Permeases of the major facilitator superfamily	GV20	clust_0639
+GV21|SEQ00653	VBIGarVag274454_0654	Gardnerella vaginalis JCP7275	ATJS01000040	PATRIC	CDS	183968001	225	1883	-	1659		COG0477: Permeases of the major facilitator superfamily	GV21	clust_0639
+GV22|SEQ01197	VBIGarVag276801_1198	Gardnerella vaginalis JCP7276	ATJR01000158	PATRIC	CDS	183972015	328	1986	-	1659		COG0477: Permeases of the major facilitator superfamily	GV22	clust_0639
+GV24|SEQ01251	VBIGarVag268944_1252	Gardnerella vaginalis JCP7672	ATJP01000169	PATRIC	CDS	183977856	23207	24865	+	1659		COG0477: Permeases of the major facilitator superfamily	GV24	clust_0639
+GV25|SEQ00397	VBIGarVag270495_0397	Gardnerella vaginalis JCP7719	ATJO01000026	PATRIC	CDS	183978705	17081	18739	+	1659		COG0477: Permeases of the major facilitator superfamily	GV25	clust_0639
+GV26|SEQ01056	VBIGarVag272749_1056	Gardnerella vaginalis JCP8017A	ATJN01000074	PATRIC	CDS	183982993	10315	11973	+	1659		COG0477: Permeases of the major facilitator superfamily	GV26	clust_0639
+GV27|SEQ00017	VBIGarVag276930_0017	Gardnerella vaginalis JCP8017B	ATJM01000001	PATRIC	CDS	183983738	19668	21326	+	1659		COG0477: Permeases of the major facilitator superfamily	GV27	clust_0639
+GV29|SEQ01033	VBIGarVag265473_1033	Gardnerella vaginalis JCP8070	ATJK01000104	PATRIC	CDS	183991594	1708	3366	-	1659		COG0477: Permeases of the major facilitator superfamily	GV29	clust_0639
+GV30|SEQ00660	VBIGarVag267667_0661	Gardnerella vaginalis JCP8108	ATJJ01000041	PATRIC	CDS	183993447	41	1699	-	1659		COG0477: Permeases of the major facilitator superfamily	GV30	clust_0639
+GV31|SEQ00850	VBIGarVag264983_0850	Gardnerella vaginalis JCP8151A	ATJI01000057	PATRIC	CDS	183996835	1195	2853	-	1659		COG0477: Permeases of the major facilitator superfamily	GV31	clust_0639
+GV32|SEQ01177	VBIGarVag277040_1177	Gardnerella vaginalis JCP8151B	ATJH01000152	PATRIC	CDS	184000417	24413	26071	+	1659		COG0477: Permeases of the major facilitator superfamily	GV32	clust_0639
+GV33|SEQ01133	VBIGarVag265557_1133	Gardnerella vaginalis JCP8481A	ATJG01000155	PATRIC	CDS	184003162	13848	15452	-	1605		COG0477: Permeases of the major facilitator superfamily	GV33	clust_0639
+GV34|SEQ00216	VBIGarVag270440_0216	Gardnerella vaginalis JCP8481B	ATJF01000014	PATRIC	CDS	184003953	3800	5404	+	1605		COG0477: Permeases of the major facilitator superfamily	GV34	clust_0639
+GV35|SEQ01088	VBIGarVag272169_1088	Gardnerella vaginalis JCP8522	ATJE01000156	PATRIC	CDS	184008678	13744	15402	+	1659		COG0477: Permeases of the major facilitator superfamily	GV35	clust_0639
+INF1|SEQ00369	VBIBifLon182273_0369	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884674	460011	461600	-	1590		COG0477: Permeases of the major facilitator superfamily	INF1	clust_0639
+LON1|SEQ00986	VBIBifLon107831_0987	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119049	1160623	1162140	+	1518		COG0477: Permeases of the major facilitator superfamily	LON1	clust_0639
+LON2|SEQ01042	VBIBifLon171405_1043	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581631	1189629	1191224	+	1596		COG0477: Permeases of the major facilitator superfamily	LON2	clust_0639
+LON3|SEQ00849	VBIBifLon156230_0849	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768673	1765518	1767107	+	1590		COG0477: Permeases of the major facilitator superfamily	LON3	clust_0639
+LON4|SEQ00372	VBIBifLon48544_0372	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888982	457726	459315	-	1590		COG0477: Permeases of the major facilitator superfamily	LON4	clust_0639
+THE1|SEQ00345	VBIBifThe274299_0345	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733864	404337	406277	-	1941		COG0477: Permeases of the major facilitator superfamily	THE1	clust_0639

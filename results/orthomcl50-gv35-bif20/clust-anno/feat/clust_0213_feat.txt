@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00354	VBIGarVag247323_0354	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494847	65096	66625	+	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV01	clust_0213
+GV02|SEQ00701	VBIGarVag242669_0701	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498226	18600	20144	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV02	clust_0213
+GV03|SEQ01159	VBIGarVag247424_1159	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501786	101824	103368	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV03	clust_0213
+GV04|SEQ00892	VBIGarVag246433_0892	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481690	238792	240321	+	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV04	clust_0213
+GV05|SEQ00099	VBIGarVag174900_0099	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545905	122073	123617	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV05	clust_0213
+GV06|SEQ01360	VBIGarVag244004_1360	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491553	249798	251327	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV06	clust_0213
+GV07|SEQ00388	VBIGarVag249177_0388	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492400	12245	13789	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV07	clust_0213
+GV08|SEQ00644	VBIGarVag251521_0644	Gardnerella vaginalis 284V	ADEL01000008	PATRIC	CDS	85475707	12576	14120	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV08	clust_0213
+GV09|SEQ00748	VBIGarVag169280_0748	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260697	108253	109782	+	1530	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV09	clust_0213
+GV10|SEQ00947	VBIGarVag136958_0947	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147976	1238495	1240039	-	1545	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV10	clust_0213
+GV11|SEQ00722	VBIGarVag171052_0722	Gardnerella vaginalis 41V	AEJE01000046	PATRIC	CDS	52549795	2896	4425	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV11	clust_0213
+GV12|SEQ00352	VBIGarVag144721_0352	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853377	347466	349010	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV12	clust_0213
+GV13|SEQ00008	VBIGarVag244533_0008	Gardnerella vaginalis 55152	ADEQ01000001	PATRIC	CDS	85485943	14331	15860	+	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV13	clust_0213
+GV14|SEQ00794	VBIGarVag244375_0794	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503476	167420	168964	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV14	clust_0213
+GV15|SEQ00927	VBIGarVag249709_0927	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485430	89863	91407	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV15	clust_0213
+GV16|SEQ00685	VBIGarVag246379_0685	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478525	753875	755419	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV16	clust_0213
+GV17|SEQ01100	VBIGarVag146634_1100	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852295	27412	28956	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV17	clust_0213
+GV18|SEQ00786	VBIGarVag4823_0786	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000128	PATRIC	CDS	42070366	5670	7199	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV18	clust_0213
+GV19|SEQ00933	VBIGarVag39333_0934	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628771	1154491	1156020	-	1530	guaB2	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV19	clust_0213
+GV20|SEQ00618	VBIGarVag188338_0618	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190057	745565	747109	+	1545	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV20	clust_0213
+GV21|SEQ01186	VBIGarVag274454_1187	Gardnerella vaginalis JCP7275	ATJS01000172	PATRIC	CDS	183969255	2541	4070	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV21	clust_0213
+GV22|SEQ00819	VBIGarVag276801_0820	Gardnerella vaginalis JCP7276	ATJR01000041	PATRIC	CDS	183971105	1368	1913	-	546		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV22	clust_0213
+GV23|SEQ00533	VBIGarVag276017_0533	Gardnerella vaginalis JCP7659	ATJQ01000040	PATRIC	CDS	183973422	13577	15106	+	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV23	clust_0213
+GV24|SEQ00655	VBIGarVag268944_0656	Gardnerella vaginalis JCP7672	ATJP01000048	PATRIC	CDS	183976487	7676	9205	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV24	clust_0213
+GV25|SEQ01162	VBIGarVag270495_1162	Gardnerella vaginalis JCP7719	ATJO01000131	PATRIC	CDS	183980385	3541	5070	+	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV25	clust_0213
+GV26|SEQ00880	VBIGarVag272749_0880	Gardnerella vaginalis JCP8017A	ATJN01000051	PATRIC	CDS	183982606	18837	20366	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV26	clust_0213
+GV27|SEQ00792	VBIGarVag276930_0792	Gardnerella vaginalis JCP8017B	ATJM01000039	PATRIC	CDS	183985379	18835	20364	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV27	clust_0213
+GV28|SEQ01005	VBIGarVag271349_1005	Gardnerella vaginalis JCP8066	ATJL01000115	PATRIC	CDS	183988835	2942	4486	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV28	clust_0213
+GV29|SEQ00983	VBIGarVag265473_0983	Gardnerella vaginalis JCP8070	ATJK01000084	PATRIC	CDS	183991470	3514	5058	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV29	clust_0213
+GV30|SEQ00392	VBIGarVag267667_0393	Gardnerella vaginalis JCP8108	ATJJ01000018	PATRIC	CDS	183992855	1555	3084	-	1530		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV30	clust_0213
+GV31|SEQ00464	VBIGarVag264983_0464	Gardnerella vaginalis JCP8151A	ATJI01000016	PATRIC	CDS	183995994	8065	9609	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV31	clust_0213
+GV32|SEQ00911	VBIGarVag277040_0911	Gardnerella vaginalis JCP8151B	ATJH01000085	PATRIC	CDS	183999802	1121	2665	-	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV32	clust_0213
+GV33|SEQ00690	VBIGarVag265557_0690	Gardnerella vaginalis JCP8481A	ATJG01000065	PATRIC	CDS	184002144	923	2467	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV33	clust_0213
+GV34|SEQ00609	VBIGarVag270440_0609	Gardnerella vaginalis JCP8481B	ATJF01000058	PATRIC	CDS	184004818	2671	3216	-	546		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV34	clust_0213
+GV35|SEQ00713	VBIGarVag272169_0713	Gardnerella vaginalis JCP8522	ATJE01000062	PATRIC	CDS	184007804	3450	4994	+	1545		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	GV35	clust_0213
+ADO1|SEQ00768	VBIBifAdo136061_0768	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187836	645100	646626	+	1527		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	ADO1	clust_0213
+ANI1|SEQ00528	VBIBifAni240121_0528	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845999	627289	628824	+	1536		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	ANI1	clust_0213
+ANI2|SEQ00528	VBIBifAni235968_0528	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849353	627290	628825	+	1536		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	ANI2	clust_0213
+ANI3|SEQ00530	VBIBifAni108068_0530	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763366	627292	628827	+	1536		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	ANI3	clust_0213
+BIF1|SEQ01357	VBIBifBif87902_1357	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885301	1641861	1643405	-	1545	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BIF1	clust_0213
+BRE1|SEQ01419	VBIBifBre340958_1420	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604858	1683449	1685002	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE1	clust_0213
+BRE2|SEQ01541	VBIBifBre337368_1541	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609079	1795521	1797074	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE2	clust_0213
+BRE3|SEQ01495	VBIBifBre167886_1495	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194738	1754457	1755920	-	1464	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE3	clust_0213
+BRE4|SEQ01466	VBIBifBre327712_1466	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613069	1726140	1727693	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE4	clust_0213
+BRE5|SEQ01613	VBIBifBre336369_1614	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617418	1821418	1822971	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE5	clust_0213
+BRE6|SEQ00955	VBIBifBre268992_0955	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655101	87226	88779	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE6	clust_0213
+BRE7|SEQ01491	VBIBifBre340732_1491	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621478	1732323	1733876	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE7	clust_0213
+BRE8|SEQ01513	VBIBifBre176493_1513	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625635	1773615	1775168	-	1554	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE8	clust_0213
+BRE9|SEQ01576	VBIBifBre30019_1576	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447287	1837161	1838714	-	1554	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	BRE9	clust_0213
+INF1|SEQ01638	VBIBifLon182273_1638	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887293	1873158	1874711	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	INF1	clust_0213
+LON1|SEQ01775	VBIBifLon107831_1776	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120714	2141535	2143088	+	1554	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	LON1	clust_0213
+LON2|SEQ01812	VBIBifLon171405_1815	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583253	2167628	2169181	+	1554	guaB	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	LON2	clust_0213
+LON3|SEQ01128	VBIBifLon156230_1130	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766130	302491	304044	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	LON3	clust_0213
+LON4|SEQ01596	VBIBifLon48544_1596	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891552	1842602	1844155	-	1554		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	LON4	clust_0213
+THE1|SEQ01287	VBIBifThe274299_1287	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735796	1600696	1602243	-	1548		Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)	THE1	clust_0213

@@ -1,0 +1,23 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00160	27186536	VBIBifAdo136061_0160	SEQ00160	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+ANI1|SEQ01394	86847795	VBIBifAni240121_1394	SEQ01394	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+ANI2|SEQ01393	86851146	VBIBifAni235968_1393	SEQ01393	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+ANI3|SEQ01403	42765166	VBIBifAni108068_1403	SEQ01403	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE1|SEQ00371	268602691	VBIBifBre340958_0371	SEQ00371	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE2|SEQ00433	268606790	VBIBifBre337368_0433	SEQ00433	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE3|SEQ00430	54192533	VBIBifBre167886_0430	SEQ00430	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE4|SEQ00380	268610826	VBIBifBre327712_0380	SEQ00380	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE5|SEQ00404	268614923	VBIBifBre336369_0405	SEQ00404	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE6|SEQ00345	177653811	VBIBifBre268992_0345	SEQ00345	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE7|SEQ00406	268619234	VBIBifBre340732_0406	SEQ00406	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE8|SEQ00433	268623402	VBIBifBre176493_0433	SEQ00433	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+BRE9|SEQ00474	58445010	VBIBifBre30019_0474	SEQ00474	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+INF1|SEQ00370	46884676	VBIBifLon182273_0370	SEQ00370	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+INF1|SEQ00371	46884678	VBIBifLon182273_0371	SEQ00371	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+INF1|SEQ00564	46885073	VBIBifLon182273_0564	SEQ00564	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Methyl-accepting chemotaxis protein	FIG01954797	figfam	clust_1147
+LON1|SEQ00791	21118655	VBIBifLon107831_0792	SEQ00791	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Methyl-accepting chemotaxis protein	FIG01954797	figfam	clust_1147
+LON1|SEQ00985	21119047	VBIBifLon107831_0986	SEQ00985	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147
+LON2|SEQ01040	42581627	VBIBifLon171405_1041	SEQ01040	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00425345: hypothetical protein	FIG01743075	figfam	clust_1147
+LON3|SEQ00661	42768291	VBIBifLon156230_0661	SEQ00661	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Methyl-accepting chemotaxis protein	FIG01954797	figfam	clust_1147
+LON4|SEQ00375	46888988	VBIBifLon48544_0375	SEQ00375	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00425345: hypothetical protein	FIG01743075	figfam	clust_1147
+THE1|SEQ00336	124733846	VBIBifThe274299_0336	SEQ00336	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1147

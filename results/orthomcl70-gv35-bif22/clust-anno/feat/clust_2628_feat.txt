@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00025	VBIBifAni240121_0025	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844946	31962	32285	-	324	mazG	hypothetical protein	ANI1	clust_2628
+ANI2|SEQ00026	VBIBifAni235968_0026	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848303	31962	32285	-	324		hypothetical protein	ANI2	clust_2628
+ANI3|SEQ00026	VBIBifAni108068_0026	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762316	31962	32285	-	324		hypothetical protein	ANI3	clust_2628
+DEN1|SEQ01356	VBIBifDen165269_1357	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459841	608276	608599	-	324		hypothetical protein	DEN1	clust_2628
+DEN2|SEQ00288	VBIBifDen39005_0288	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108897	246658	246981	+	324		hypothetical protein	DEN2	clust_2628
+INF1|SEQ00948	VBIBifLon182273_0948	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885876	1103687	1104067	-	381		COG1694: Predicted pyrophosphatase	INF1	clust_2628

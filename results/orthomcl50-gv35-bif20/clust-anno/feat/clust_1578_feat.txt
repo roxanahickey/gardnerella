@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01930	VBIBifAdo136061_1930	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190233	468453	469691	-	1239		probable glucosyl transferase	ADO1	clust_1578
+BRE1|SEQ01387	VBIBifBre340958_1388	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604791	1637742	1638947	-	1206		probable glucosyl transferase	BRE1	clust_1578
+BRE2|SEQ01492	VBIBifBre337368_1492	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608978	1725818	1727023	-	1206		probable glucosyl transferase	BRE2	clust_1578
+BRE3|SEQ01462	VBIBifBre167886_1462	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194668	1708766	1709980	-	1215		probable glucosyl transferase	BRE3	clust_1578
+BRE4|SEQ01428	VBIBifBre327712_1428	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612990	1668086	1669291	-	1206		probable glucosyl transferase	BRE4	clust_1578
+BRE5|SEQ01554	VBIBifBre336369_1555	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617297	1749084	1750298	-	1215		probable glucosyl transferase	BRE5	clust_1578
+BRE6|SEQ00902	VBIBifBre268992_0902	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177654992	21158	22435	-	1278		probable glucosyl transferase	BRE6	clust_1578
+BRE7|SEQ01457	VBIBifBre340732_1457	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621407	1686550	1687818	-	1269		probable glucosyl transferase	BRE7	clust_1578
+BRE8|SEQ01480	VBIBifBre176493_1480	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625566	1727909	1729114	-	1206		probable glucosyl transferase	BRE8	clust_1578
+BRE9|SEQ01544	VBIBifBre30019_1544	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447220	1791453	1792667	-	1215		probable glucosyl transferase	BRE9	clust_1578
+INF1|SEQ01596	VBIBifLon182273_1596	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887206	1822094	1823308	-	1215		probable glucosyl transferase	INF1	clust_1578
+LON1|SEQ01815	VBIBifLon107831_1816	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120796	2192691	2193854	+	1164		probable glucosyl transferase	LON1	clust_1578
+LON2|SEQ01853	VBIBifLon171405_1856	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583337	2223748	2225085	+	1338	bglC	probable glucosyl transferase	LON2	clust_1578
+LON3|SEQ01088	VBIBifLon156230_1090	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766048	251927	253090	-	1164		probable glucosyl transferase	LON3	clust_1578
+LON4|SEQ01554	VBIBifLon48544_1554	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891466	1786140	1787303	-	1164		probable glucosyl transferase	LON4	clust_1578
+THE1|SEQ00067	VBIBifThe274299_0067	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733295	85400	86521	-	1122		probable glucosyl transferase	THE1	clust_1578

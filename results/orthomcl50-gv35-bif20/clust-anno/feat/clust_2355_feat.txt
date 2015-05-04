@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01483	VBIBifBre340958_1484	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604998	1752080	1753375	+	1296		Mobile element protein	BRE1	clust_2355
+BRE2|SEQ01595	VBIBifBre337368_1595	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609198	1858235	1859530	+	1296		Methyl-accepting chemotaxis protein	BRE2	clust_2355
+BRE3|SEQ01550	VBIBifBre167886_1550	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194859	1817033	1818328	+	1296		COG0443: Molecular chaperone	BRE3	clust_2355
+BRE4|SEQ01524	VBIBifBre327712_1524	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613196	1788864	1790180	+	1317		Methyl-accepting chemotaxis protein	BRE4	clust_2355
+BRE7|SEQ01561	VBIBifBre340732_1561	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621629	1805340	1806608	+	1269		hypothetical protein	BRE7	clust_2355
+BRE9|SEQ01642	VBIBifBre30019_1642	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447431	1905339	1906634	+	1296		COG0443: Molecular chaperone	BRE9	clust_2355
+LON3|SEQ01565	VBIBifLon156230_1568	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766298	394082	395350	+	1269		hypothetical protein	LON3	clust_2355

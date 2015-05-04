@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV05|SEQ00704	VBIGarVag174900_0704	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547167	320150	320557	+	408		hypothetical protein	GV05	clust_3423
+GV22|SEQ01239	VBIGarVag276801_1240	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972115	3103	3510	-	408		Zinc-finger protein	GV22	clust_3423
+GV25|SEQ00030	VBIGarVag270495_0030	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977919	3548	3955	-	408		Zinc-finger protein	GV25	clust_3423

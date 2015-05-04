@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00820	VBIBifAni240121_0820	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846601	952595	953590	-	996		Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)	ANI1	clust_3072
+ANI2|SEQ00819	VBIBifAni235968_0819	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849952	952598	953593	-	996		Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)	ANI2	clust_3072
+ANI3|SEQ00822	VBIBifAni108068_0822	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763966	952600	953595	-	996		Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)	ANI3	clust_3072
+THE1|SEQ01051	VBIBifThe274299_1051	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735302	1307749	1308774	-	1026		Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)	THE1	clust_3072

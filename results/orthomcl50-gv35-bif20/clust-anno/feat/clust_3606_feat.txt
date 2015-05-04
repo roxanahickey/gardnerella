@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01289	VBIBifAni240121_1289	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847583	1500043	1500426	+	384		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI1	clust_3606
+ANI2|SEQ01289	VBIBifAni235968_1289	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850936	1500049	1500432	+	384		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI2	clust_3606
+ANI3|SEQ01298	VBIBifAni108068_1298	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764954	1505495	1505878	+	384		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI3	clust_3606

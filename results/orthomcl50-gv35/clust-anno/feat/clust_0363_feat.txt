@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00632	VBIGarVag247323_0632	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495415	44734	45861	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV01	clust_0363
+GV02|SEQ00115	VBIGarVag242669_0115	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496990	79496	80623	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV02	clust_0363
+GV03|SEQ00169	VBIGarVag247424_0169	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499716	111044	112171	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV03	clust_0363
+GV04|SEQ00226	VBIGarVag246433_0226	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480306	97692	98819	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV04	clust_0363
+GV05|SEQ00271	VBIGarVag174900_0271	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546262	110985	112112	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV05	clust_0363
+GV06|SEQ00150	VBIGarVag244004_0150	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489013	61623	62750	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV06	clust_0363
+GV07|SEQ00079	VBIGarVag249177_0079	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491737	84396	85523	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV07	clust_0363
+GV08|SEQ01015	VBIGarVag251521_1015	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476475	112570	113697	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV08	clust_0363
+GV09|SEQ00085	VBIGarVag169280_0085	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259315	47003	48130	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV09	clust_0363
+GV10|SEQ00062	VBIGarVag136958_0062	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146136	80685	81812	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV10	clust_0363
+GV11|SEQ00915	VBIGarVag171052_0915	Gardnerella vaginalis 41V	AEJE01000052	PATRIC	CDS	52550199	26083	27210	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV11	clust_0363
+GV12|SEQ00594	VBIGarVag144721_0594	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853883	109098	110225	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV12	clust_0363
+GV13|SEQ00109	VBIGarVag244533_0109	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486156	116594	117721	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV13	clust_0363
+GV14|SEQ00587	VBIGarVag244375_0587	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503036	90604	91731	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV14	clust_0363
+GV15|SEQ00807	VBIGarVag249709_0807	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485175	25908	27035	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV15	clust_0363
+GV16|SEQ00183	VBIGarVag246379_0183	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477482	121117	122244	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV16	clust_0363
+GV17|SEQ00540	VBIGarVag146634_0540	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851117	547688	548815	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV17	clust_0363
+GV18|SEQ00300	VBIGarVag4823_0300	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000082	PATRIC	CDS	42069311	10011	10418	-	408		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV18	clust_0363
+GV19|SEQ00101	VBIGarVag39333_0101	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627038	114449	115576	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV19	clust_0363
+GV20|SEQ01358	VBIGarVag188338_1358	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191594	1701929	1703056	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV20	clust_0363
+GV21|SEQ00380	VBIGarVag274454_0380	Gardnerella vaginalis JCP7275	ATJS01000017	PATRIC	CDS	183967420	3278	4405	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV21	clust_0363
+GV22|SEQ00244	VBIGarVag276801_0245	Gardnerella vaginalis JCP7276	ATJR01000007	PATRIC	CDS	183969901	24135	25262	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV22	clust_0363
+GV23|SEQ00048	VBIGarVag276017_0048	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972389	5340	6467	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV23	clust_0363
+GV24|SEQ00034	VBIGarVag268944_0035	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975160	18419	19546	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV24	clust_0363
+GV25|SEQ00139	VBIGarVag270495_0139	Gardnerella vaginalis JCP7719	ATJO01000011	PATRIC	CDS	183978153	9949	11076	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV25	clust_0363
+GV26|SEQ00225	VBIGarVag272749_0225	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981204	52334	53461	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV26	clust_0363
+GV27|SEQ00317	VBIGarVag276930_0317	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984371	80650	81777	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV27	clust_0363
+GV28|SEQ00366	VBIGarVag271349_0366	Gardnerella vaginalis JCP8066	ATJL01000020	PATRIC	CDS	183987408	9890	11017	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV28	clust_0363
+GV29|SEQ00431	VBIGarVag265473_0431	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	183990268	23235	24362	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV29	clust_0363
+GV30|SEQ00539	VBIGarVag267667_0540	Gardnerella vaginalis JCP8108	ATJJ01000029	PATRIC	CDS	183993176	6101	7228	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV30	clust_0363
+GV31|SEQ00364	VBIGarVag264983_0364	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995779	34202	35329	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV31	clust_0363
+GV32|SEQ00043	VBIGarVag277040_0043	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997916	19470	20597	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV32	clust_0363
+GV33|SEQ00206	VBIGarVag265557_0206	Gardnerella vaginalis JCP8481A	ATJG01000017	PATRIC	CDS	184001105	22517	23644	+	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV33	clust_0363
+GV34|SEQ00996	VBIGarVag270440_0996	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005672	1817	2944	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV34	clust_0363
+GV35|SEQ00249	VBIGarVag272169_0249	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006788	9967	11094	-	1128		Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)	GV35	clust_0363

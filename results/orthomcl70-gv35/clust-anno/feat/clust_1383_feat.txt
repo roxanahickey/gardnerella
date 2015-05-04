@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00397	VBIGarVag244004_0397	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489537	69457	70422	-	966		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV06	clust_1383
+GV09|SEQ01255	VBIGarVag169280_1255	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261753	118602	119567	+	966		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV09	clust_1383
+GV13|SEQ00406	VBIGarVag244533_0406	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486771	47219	48184	-	966		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV13	clust_1383
+GV16|SEQ00378	VBIGarVag246379_0378	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477890	342203	342967	+	765		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV16	clust_1383
+GV18|SEQ00247	VBIGarVag4823_0247	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069197	61	711	+	651		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV18	clust_1383
+GV19|SEQ01231	VBIGarVag39333_1233	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629385	1553497	1554261	-	765	togM	N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV19	clust_1383
+GV20|SEQ00263	VBIGarVag188338_0263	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189327	297204	298169	+	966		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV20	clust_1383
+GV30|SEQ00019	VBIGarVag267667_0019	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992074	23111	24076	-	966		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	GV30	clust_1383

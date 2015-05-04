@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+DEN1|SEQ02058	43463095	VBIBifDen165269_2060	SEQ02058	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	NA	N-acetylmannosamine kinase (EC 2.7.1.60)	2.7.1.60	N-acylmannosamine kinase	ec	clust_1387
+DEN2|SEQ01227	42110833	VBIBifDen39005_1228	SEQ01227	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	NA	N-acetylmannosamine kinase (EC 2.7.1.60)	2.7.1.60	N-acylmannosamine kinase	ec	clust_1387

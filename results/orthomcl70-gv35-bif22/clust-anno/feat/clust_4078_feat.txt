@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE8|SEQ00399	VBIBifBre176493_0399	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623330	491903	493006	+	1104		Conservative hypothetical protein probably involved in hydantoin, pyrimidine utilization / coupled to 3.5.2.14 or similar function	BRE8	clust_4078
+BRE8|SEQ00400	VBIBifBre176493_0400	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623332	493171	494172	+	1002		Conservative hypothetical protein probably involved in hydantoin, pyrimidine utilization	BRE8	clust_4078

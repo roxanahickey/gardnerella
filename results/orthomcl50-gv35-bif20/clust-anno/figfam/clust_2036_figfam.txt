@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ00201	268606305	VBIBifBre337368_0201	SEQ00201	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		DNA-cytosine methyltransferase	FIG01480747	figfam	clust_2036
+BRE3|SEQ00219	54192090	VBIBifBre167886_0219	SEQ00219	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		DNA-cytosine methyltransferase	FIG01480747	figfam	clust_2036
+BRE6|SEQ02058	177657446	VBIBifBre268992_2058	SEQ02058	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS		DNA-cytosine methyltransferase	FIG01480747	figfam	clust_2036
+BRE7|SEQ00196	268618795	VBIBifBre340732_0196	SEQ00196	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		DNA-cytosine methyltransferase	FIG01480747	figfam	clust_2036
+BRE8|SEQ00223	268622962	VBIBifBre176493_0223	SEQ00223	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	bbrUIM	DNA-cytosine methyltransferase	FIG01480747	figfam	clust_2036
+BRE9|SEQ00232	58444500	VBIBifBre30019_0232	SEQ00232	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		DNA-cytosine methyltransferase	FIG01480747	figfam	clust_2036
+GV22|SEQ00121	183969631	VBIGarVag276801_0121	SEQ00121	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	NA	DNA-cytosine methyltransferase (EC 2.1.1.37)	FIG00003334	figfam	clust_2036
+GV28|SEQ00044	183986738	VBIGarVag271349_0044	SEQ00044	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000006	PATRIC	CDS	NA	DNA-cytosine methyltransferase (EC 2.1.1.37)	FIG00003334	figfam	clust_2036
+LON1|SEQ00336	21117713	VBIBifLon107831_0336	SEQ00336	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		DNA-cytosine methyltransferase (EC 2.1.1.37)	FIG00003334	figfam	clust_2036

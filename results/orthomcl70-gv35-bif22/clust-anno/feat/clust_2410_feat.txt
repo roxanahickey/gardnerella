@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01903	VBIBifAdo136061_1903	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190179	422605	423549	-	945		Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	ADO1	clust_2410
+BIF1|SEQ01120	VBIBifBif87902_1120	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884808	1341435	1342376	+	942	iaaA	Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	BIF1	clust_2410
+INF1|SEQ00501	VBIBifLon182273_0501	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884942	633853	634785	+	933		Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	INF1	clust_2410
+LON1|SEQ00852	VBIBifLon107831_0853	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118781	988104	989036	-	933		Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	LON1	clust_2410
+LON2|SEQ00932	VBIBifLon171405_0933	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581410	1040854	1041786	-	933		Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	LON2	clust_2410
+LON3|SEQ00724	VBIBifLon156230_0724	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768421	1603213	1604145	-	933		Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	LON3	clust_2410
+LON4|SEQ00487	VBIBifLon48544_0487	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889215	609289	610221	+	933		Isoaspartyl aminopeptidase (EC 3.4.19.5) @ Asp-X dipeptidase	LON4	clust_2410

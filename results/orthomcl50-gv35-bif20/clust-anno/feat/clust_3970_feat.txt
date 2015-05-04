@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01812	VBIBifLon182273_1812	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887670	2058306	2058455	+	150		Methionine gamma-lyase (EC 4.4.1.11)	INF1	clust_3970
+LON4|SEQ01761	VBIBifLon48544_1761	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891913	2018811	2018960	+	150		Methionine gamma-lyase (EC 4.4.1.11)	LON4	clust_3970

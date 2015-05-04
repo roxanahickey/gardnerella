@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00387	VBIGarVag244004_0387	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489517	55450	57021	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV06	clust_1505
+GV16|SEQ00388	VBIGarVag246379_0388	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477910	355392	356963	+	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV16	clust_1505
+GV18|SEQ00074	VBIGarVag4823_0074	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000039	PATRIC	CDS	42068811	2977	4548	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV18	clust_1505
+GV19|SEQ01221	VBIGarVag39333_1223	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629365	1539501	1541072	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV19	clust_1505
+GV20|SEQ00273	VBIGarVag188338_0273	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189347	310594	312165	+	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV20	clust_1505
+GV30|SEQ00009	VBIGarVag267667_0009	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992054	9104	10675	-	1572		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	GV30	clust_1505

@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV06|SEQ00382	85489507	VBIGarVag244004_0382	SEQ00382	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	NA	Ferric iron ABC transporter, permease protein	GO:0016020	membrane	go	clust_4111
+GV06|SEQ00382	85489507	VBIGarVag244004_0382	SEQ00382	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	NA	Ferric iron ABC transporter, permease protein	GO:0006810	transport	go	clust_4111
+GV06|SEQ00382	85489507	VBIGarVag244004_0382	SEQ00382	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	NA	Ferric iron ABC transporter, permease protein	GO:0005215	transporter activity	go	clust_4111
+GV30|SEQ00004	183992044	VBIGarVag267667_0004	SEQ00004	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	NA	Ferric iron ABC transporter, permease protein	GO:0005215	transporter activity	go	clust_4111
+GV30|SEQ00004	183992044	VBIGarVag267667_0004	SEQ00004	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	NA	Ferric iron ABC transporter, permease protein	GO:0016020	membrane	go	clust_4111
+GV30|SEQ00004	183992044	VBIGarVag267667_0004	SEQ00004	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	NA	Ferric iron ABC transporter, permease protein	GO:0006810	transport	go	clust_4111

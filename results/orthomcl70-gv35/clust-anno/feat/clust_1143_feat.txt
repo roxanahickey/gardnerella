@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00219	VBIGarVag246433_0219	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480292	87142	88461	+	1320		ABC transporter, solute-binding protein	GV04	clust_1143
+GV06|SEQ00159	VBIGarVag244004_0159	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489031	76259	77578	-	1320		ABC transporter, solute-binding protein	GV06	clust_1143
+GV08|SEQ01024	VBIGarVag251521_1024	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476493	127228	128547	-	1320		ABC transporter, solute-binding protein	GV08	clust_1143
+GV09|SEQ00077	VBIGarVag169280_0077	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259299	32152	33471	+	1320		ABC transporter, solute-binding protein	GV09	clust_1143
+GV11|SEQ00895	VBIGarVag171052_0895	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550155	80812	82131	+	1320		ABC transporter, solute-binding protein	GV11	clust_1143
+GV13|SEQ00118	VBIGarVag244533_0118	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486174	131230	132549	-	1320		ABC transporter, solute-binding protein	GV13	clust_1143
+GV16|SEQ00192	VBIGarVag246379_0192	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477500	135782	137101	-	1320		ABC transporter, solute-binding protein	GV16	clust_1143
+GV18|SEQ00293	VBIGarVag4823_0293	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000082	PATRIC	CDS	42069297	61	780	+	720		ABC transporter, solute-binding protein	GV18	clust_1143
+GV19|SEQ00094	VBIGarVag39333_0094	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627024	103899	105218	+	1320		ABC transporter, solute-binding protein	GV19	clust_1143
+GV20|SEQ01349	VBIGarVag188338_1349	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191576	1687079	1688398	+	1320		ABC transporter, solute-binding protein	GV20	clust_1143
+GV21|SEQ00387	VBIGarVag274454_0387	Gardnerella vaginalis JCP7275	ATJS01000017	PATRIC	CDS	183967434	13621	14940	-	1320		ABC transporter, solute-binding protein	GV21	clust_1143
+GV22|SEQ00235	VBIGarVag276801_0236	Gardnerella vaginalis JCP7276	ATJR01000007	PATRIC	CDS	183969883	9423	10742	+	1320		ABC transporter, solute-binding protein	GV22	clust_1143
+GV24|SEQ00025	VBIGarVag268944_0026	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975142	3707	5026	+	1320		ABC transporter, solute-binding protein	GV24	clust_1143
+GV30|SEQ00703	VBIGarVag267667_0704	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993535	7250	8569	-	1320		ABC transporter, solute-binding protein	GV30	clust_1143

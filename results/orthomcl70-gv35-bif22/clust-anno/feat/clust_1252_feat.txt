@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01210	VBIBifAdo136061_1210	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188759	130323	131870	-	1548		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	ADO1	clust_1252
+ANI1|SEQ00882	VBIBifAni240121_0882	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846736	1022326	1023861	-	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	ANI1	clust_1252
+ANI2|SEQ00881	VBIBifAni235968_0881	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850087	1022329	1023864	-	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	ANI2	clust_1252
+ANI3|SEQ00884	VBIBifAni108068_0884	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764101	1022330	1023865	-	1536	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	ANI3	clust_1252
+BIF1|SEQ00836	VBIBifBif87902_0836	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884221	1023978	1025510	+	1533	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BIF1	clust_1252
+BRE1|SEQ00895	VBIBifBre340958_0895	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603776	1066104	1067639	+	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE1	clust_1252
+BRE2|SEQ00977	VBIBifBre337368_0977	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607912	1147944	1149479	+	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE2	clust_1252
+BRE3|SEQ00902	VBIBifBre167886_0902	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193514	1064112	1065647	-	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE3	clust_1252
+BRE4|SEQ01066	VBIBifBre327712_1066	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612249	1236004	1237539	-	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE4	clust_1252
+BRE5|SEQ01035	VBIBifBre336369_1036	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616227	1164828	1166366	+	1539		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE5	clust_1252
+BRE6|SEQ00183	VBIBifBre268992_0183	Bifidobacterium breve JCP7499	AWSX01000012	PATRIC	CDS	177653475	7764	9302	+	1539		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE6	clust_1252
+BRE7|SEQ00927	VBIBifBre340732_0927	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620313	1095782	1097320	+	1539		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE7	clust_1252
+BRE8|SEQ00957	VBIBifBre176493_0957	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624482	1142211	1143749	+	1539	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE8	clust_1252
+BRE9|SEQ01011	VBIBifBre30019_1011	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446120	1195359	1196897	+	1539	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	BRE9	clust_1252
+DEN1|SEQ01599	VBIBifDen165269_1600	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460351	883948	885495	-	1548	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	DEN1	clust_1252
+DEN2|SEQ00605	VBIBifDen39005_0605	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109540	256785	258185	+	1401		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	DEN2	clust_1252
+INF1|SEQ00936	VBIBifLon182273_0936	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885851	1091302	1092837	+	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	INF1	clust_1252
+LON1|SEQ00523	VBIBifLon107831_0524	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118101	609703	611238	-	1536	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	LON1	clust_1252
+LON2|SEQ00585	VBIBifLon171405_0586	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580694	646300	647838	-	1539	gltD1	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	LON2	clust_1252
+LON3|SEQ00392	VBIBifLon156230_0392	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767734	1221493	1223028	-	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	LON3	clust_1252
+LON4|SEQ00820	VBIBifLon48544_0820	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889913	984626	986161	+	1536		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	LON4	clust_1252
+THE1|SEQ00994	VBIBifThe274299_0994	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735185	1250768	1252294	+	1527	gltD	Glutamate synthase [NADPH] small chain (EC 1.4.1.13)	THE1	clust_1252

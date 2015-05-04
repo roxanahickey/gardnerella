@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00121	VBIBifAni240121_0121	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845143	141044	142360	-	1317		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	ANI1	clust_2445
+ANI2|SEQ00121	VBIBifAni235968_0121	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848498	141044	142360	-	1317		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	ANI2	clust_2445
+ANI3|SEQ00123	VBIBifAni108068_0123	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762514	141044	142360	-	1317		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	ANI3	clust_2445
+BIF1|SEQ00127	VBIBifBif87902_0127	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882758	154974	156221	-	1248	nodB	Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	BIF1	clust_2445
+DEN1|SEQ00607	VBIBifDen165269_0608	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462508	2052594	2053790	-	1197	pgdA	Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	DEN1	clust_2445
+DEN2|SEQ01645	VBIBifDen39005_1646	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111682	125069	126265	-	1197		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	DEN2	clust_2445
+THE1|SEQ00096	VBIBifThe274299_0096	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733355	111452	112696	+	1245		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	THE1	clust_2445

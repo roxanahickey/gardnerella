@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00885	VBIBifAdo136061_0885	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188080	785318	786028	+	711		possible alpha beta hydrolase	ADO1	clust_1507
+BIF1|SEQ00608	VBIBifBif87902_0608	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883753	750494	751198	+	705		possible alpha beta hydrolase	BIF1	clust_1507
+BRE1|SEQ01362	VBIBifBre340958_1363	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604741	1601186	1601890	+	705		possible alpha beta hydrolase	BRE1	clust_1507
+BRE2|SEQ01449	VBIBifBre337368_1449	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608891	1675744	1676448	+	705		possible alpha beta hydrolase	BRE2	clust_1507
+BRE3|SEQ00462	VBIBifBre167886_0462	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192599	568453	569157	-	705		possible alpha beta hydrolase	BRE3	clust_1507
+BRE4|SEQ01394	VBIBifBre327712_1394	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612920	1625783	1626487	+	705		possible alpha beta hydrolase	BRE4	clust_1507
+BRE5|SEQ01527	VBIBifBre336369_1528	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617243	1712401	1713105	+	705		possible alpha beta hydrolase	BRE5	clust_1507
+BRE6|SEQ00283	VBIBifBre268992_0283	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653677	61086	61790	+	705		possible alpha beta hydrolase	BRE6	clust_1507
+BRE7|SEQ01409	VBIBifBre340732_1409	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621311	1628798	1629502	+	705		possible alpha beta hydrolase	BRE7	clust_1507
+BRE8|SEQ01429	VBIBifBre176493_1429	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625461	1671258	1671962	+	705		possible alpha beta hydrolase	BRE8	clust_1507
+BRE9|SEQ01494	VBIBifBre30019_1494	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447120	1732043	1732747	+	705		possible alpha beta hydrolase	BRE9	clust_1507
+INF1|SEQ01557	VBIBifLon182273_1557	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887128	1771248	1771952	+	705		possible alpha beta hydrolase	INF1	clust_1507
+LON1|SEQ01842	VBIBifLon107831_1843	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120850	2230705	2231409	-	705		possible alpha beta hydrolase	LON1	clust_1507
+LON2|SEQ00018	VBIBifLon171405_0018	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579529	17707	18411	-	705		possible alpha beta hydrolase	LON2	clust_1507
+LON3|SEQ01055	VBIBifLon156230_1057	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765981	209853	210557	+	705		possible alpha beta hydrolase	LON3	clust_1507
+LON4|SEQ01529	VBIBifLon48544_1529	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891415	1747510	1748214	+	705		possible alpha beta hydrolase	LON4	clust_1507
+THE1|SEQ01148	VBIBifThe274299_1148	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735513	1427048	1427755	-	708		possible alpha beta hydrolase	THE1	clust_1507

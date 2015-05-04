@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00096	VBIGarVag247323_0096	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494292	127403	127957	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV01	clust_0242
+GV02|SEQ00583	VBIGarVag242669_0583	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497976	213691	214245	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV02	clust_0242
+GV03|SEQ00009	VBIGarVag247424_0009	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499379	9268	9762	-	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV03	clust_0242
+GV04|SEQ00506	VBIGarVag246433_0506	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480898	153039	153593	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV04	clust_0242
+GV05|SEQ00010	VBIGarVag174900_0010	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545720	10449	10943	+	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV05	clust_0242
+GV06|SEQ01055	VBIGarVag244004_1055	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490930	7310	7864	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV06	clust_0242
+GV07|SEQ00465	VBIGarVag249177_0465	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492560	120908	121402	-	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV07	clust_0242
+GV08|SEQ00291	VBIGarVag251521_0291	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474973	90638	91192	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV08	clust_0242
+GV09|SEQ00520	VBIGarVag169280_0520	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260222	264351	264905	-	555	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV09	clust_0242
+GV10|SEQ00995	VBIGarVag136958_0995	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148076	1307308	1307802	-	495	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV10	clust_0242
+GV11|SEQ00627	VBIGarVag171052_0627	Gardnerella vaginalis 41V	AEJE01000040	PATRIC	CDS	52549595	8703	9257	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV11	clust_0242
+GV12|SEQ00398	VBIGarVag144721_0398	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853473	415865	416359	-	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV12	clust_0242
+GV13|SEQ01156	VBIGarVag244533_1156	Gardnerella vaginalis 55152	ADEQ01000021	PATRIC	CDS	85488361	287	841	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV13	clust_0242
+GV14|SEQ00713	VBIGarVag244375_0713	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503308	61055	61549	+	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV14	clust_0242
+GV15|SEQ00975	VBIGarVag249709_0975	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485530	158964	159458	-	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV15	clust_0242
+GV16|SEQ01170	VBIGarVag246379_1170	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479534	1377776	1378330	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV16	clust_0242
+GV17|SEQ01147	VBIGarVag146634_1147	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852393	97019	97513	-	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV17	clust_0242
+GV18|SEQ00699	VBIGarVag4823_0699	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000122	PATRIC	CDS	42070171	985	1539	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV18	clust_0242
+GV19|SEQ00439	VBIGarVag39333_0440	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627747	533171	533725	+	555	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV19	clust_0242
+GV20|SEQ01079	VBIGarVag188338_1079	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191018	1352202	1352756	-	555	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV20	clust_0242
+GV21|SEQ00594	VBIGarVag274454_0595	Gardnerella vaginalis JCP7275	ATJS01000034	PATRIC	CDS	183967871	1297	1851	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV21	clust_0242
+GV22|SEQ00285	VBIGarVag276801_0286	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969986	53309	53863	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV22	clust_0242
+GV23|SEQ01183	VBIGarVag276017_1183	Gardnerella vaginalis JCP7659	ATJQ01000171	PATRIC	CDS	183974904	220	774	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV23	clust_0242
+GV24|SEQ00728	VBIGarVag268944_0729	Gardnerella vaginalis JCP7672	ATJP01000059	PATRIC	CDS	183976644	1582	2136	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV24	clust_0242
+GV25|SEQ00985	VBIGarVag270495_0985	Gardnerella vaginalis JCP7719	ATJO01000115	PATRIC	CDS	183980009	2377	2931	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV25	clust_0242
+GV26|SEQ00912	VBIGarVag272749_0912	Gardnerella vaginalis JCP8017A	ATJN01000054	PATRIC	CDS	183982675	5308	5862	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV26	clust_0242
+GV27|SEQ00922	VBIGarVag276930_0922	Gardnerella vaginalis JCP8017B	ATJM01000054	PATRIC	CDS	183985658	2036	2590	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV27	clust_0242
+GV28|SEQ00924	VBIGarVag271349_0924	Gardnerella vaginalis JCP8066	ATJL01000083	PATRIC	CDS	183988635	25247	25801	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV28	clust_0242
+GV29|SEQ01094	VBIGarVag265473_1094	Gardnerella vaginalis JCP8070	ATJK01000117	PATRIC	CDS	183991737	1177	1731	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV29	clust_0242
+GV30|SEQ01152	VBIGarVag267667_1154	Gardnerella vaginalis JCP8108	ATJJ01000116	PATRIC	CDS	183994540	14417	14971	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV30	clust_0242
+GV31|SEQ01148	VBIGarVag264983_1148	Gardnerella vaginalis JCP8151A	ATJI01000131	PATRIC	CDS	183997527	12504	13058	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV31	clust_0242
+GV32|SEQ00923	VBIGarVag277040_0923	Gardnerella vaginalis JCP8151B	ATJH01000088	PATRIC	CDS	183999829	1916	2470	+	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV32	clust_0242
+GV33|SEQ00211	VBIGarVag265557_0211	Gardnerella vaginalis JCP8481A	ATJG01000018	PATRIC	CDS	184001116	4734	5228	+	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV33	clust_0242
+GV34|SEQ00472	VBIGarVag270440_0472	Gardnerella vaginalis JCP8481B	ATJF01000037	PATRIC	CDS	184004520	4746	5240	+	495		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV34	clust_0242
+GV35|SEQ00884	VBIGarVag272169_0884	Gardnerella vaginalis JCP8522	ATJE01000090	PATRIC	CDS	184008190	3106	3660	-	555		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	GV35	clust_0242
+ADO1|SEQ00714	VBIBifAdo136061_0714	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187726	586900	587463	+	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	ADO1	clust_0242
+ANI1|SEQ00497	VBIBifAni240121_0497	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845935	591428	591991	+	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	ANI1	clust_0242
+ANI2|SEQ00497	VBIBifAni235968_0497	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849289	591429	591992	+	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	ANI2	clust_0242
+ANI3|SEQ00499	VBIBifAni108068_0499	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763302	591431	591994	+	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	ANI3	clust_0242
+BIF1|SEQ01408	VBIBifBif87902_1408	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885408	1693607	1694164	-	558	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BIF1	clust_0242
+BRE1|SEQ01447	VBIBifBre340958_1448	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604918	1712404	1712967	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE1	clust_0242
+BRE2|SEQ01569	VBIBifBre337368_1569	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609139	1824535	1825098	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE2	clust_0242
+BRE3|SEQ01523	VBIBifBre167886_1523	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194798	1783264	1783827	-	564	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE3	clust_0242
+BRE4|SEQ01496	VBIBifBre327712_1496	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613133	1755139	1755702	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE4	clust_0242
+BRE5|SEQ01644	VBIBifBre336369_1645	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617484	1850346	1850909	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE5	clust_0242
+BRE6|SEQ00982	VBIBifBre268992_0982	Bifidobacterium breve JCP7499	AWSX01000050	PATRIC	CDS	177655160	16730	17293	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE6	clust_0242
+BRE7|SEQ01519	VBIBifBre340732_1519	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621538	1761339	1761902	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE7	clust_0242
+BRE8|SEQ01541	VBIBifBre176493_1541	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625695	1802616	1803179	-	564	hprT	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE8	clust_0242
+BRE9|SEQ01603	VBIBifBre30019_1603	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447345	1866119	1866682	-	564	hprT	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	BRE9	clust_0242
+INF1|SEQ01687	VBIBifLon182273_1687	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887395	1925746	1926309	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	INF1	clust_0242
+LON1|SEQ01735	VBIBifLon107831_1736	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120630	2101019	2101582	+	564	hprT	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	LON1	clust_0242
+LON2|SEQ01770	VBIBifLon171405_1773	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583165	2125894	2126457	+	564	hpt	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	LON2	clust_0242
+LON3|SEQ01176	VBIBifLon156230_1178	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766230	355196	355759	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	LON3	clust_0242
+LON4|SEQ01637	VBIBifLon48544_1637	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891639	1885342	1885905	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	LON4	clust_0242
+THE1|SEQ01333	VBIBifThe274299_1333	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735893	1657116	1657679	-	564		Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	THE1	clust_0242

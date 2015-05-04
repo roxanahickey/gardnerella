@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01566	VBIBifAni240121_1566	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848168	1888203	1890095	-	1893		hypothetical protein	ANI1	clust_2018
+ANI2|SEQ01563	VBIBifAni235968_1563	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851514	1888427	1890319	-	1893		hypothetical protein	ANI2	clust_2018
+ANI3|SEQ01575	VBIBifAni108068_1576	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765538	1893659	1895269	-	1611		hypothetical protein	ANI3	clust_2018
+BRE1|SEQ01834	VBIBifBre340958_1836	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605735	2158882	2160744	-	1863		hypothetical protein	BRE1	clust_2018
+BRE5|SEQ02012	VBIBifBre336369_2013	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618260	2282666	2284528	-	1863		hypothetical protein	BRE5	clust_2018
+BRE9|SEQ02000	VBIBifBre30019_2000	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448180	2325349	2327211	-	1863		hypothetical protein	BRE9	clust_2018
+LON2|SEQ01476	VBIBifLon171405_1479	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582539	1724033	1725895	+	1863	galA2	hypothetical protein	LON2	clust_2018
+LON3|SEQ01560	VBIBifLon156230_1563	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769741	2378504	2380366	+	1863		hypothetical protein	LON3	clust_2018
+LON4|SEQ01938	VBIBifLon48544_1939	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892293	2300612	2302474	-	1863		hypothetical protein	LON4	clust_2018
+THE1|SEQ01791	VBIBifThe274299_1791	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736872	2229422	2231242	-	1821		hypothetical protein	THE1	clust_2018

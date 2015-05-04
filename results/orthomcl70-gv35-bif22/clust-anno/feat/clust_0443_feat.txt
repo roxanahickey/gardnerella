@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00696	VBIBifAdo136061_0696	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187682	568040	569116	+	1077		histidine kinase sensor of two component system	ADO1	clust_0443
+ANI1|SEQ00453	VBIBifAni240121_0453	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845838	536293	537681	-	1389		histidine kinase sensor of two component system	ANI1	clust_0443
+ANI2|SEQ00453	VBIBifAni235968_0453	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849193	536295	537683	-	1389		histidine kinase sensor of two component system	ANI2	clust_0443
+ANI3|SEQ00455	VBIBifAni108068_0455	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763206	536296	537684	-	1389		histidine kinase sensor of two component system	ANI3	clust_0443
+BIF1|SEQ01451	VBIBifBif87902_1451	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885500	1739226	1740446	-	1221	senX	histidine kinase sensor of two component system	BIF1	clust_0443
+BRE1|SEQ01527	VBIBifBre340958_1528	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605087	1798432	1799625	-	1194		histidine kinase sensor of two component system	BRE1	clust_0443
+BRE2|SEQ01636	VBIBifBre337368_1636	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609281	1901009	1902202	-	1194		histidine kinase sensor of two component system	BRE2	clust_0443
+BRE3|SEQ01591	VBIBifBre167886_1591	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194941	1858194	1859387	-	1194		histidine kinase sensor of two component system	BRE3	clust_0443
+BRE4|SEQ01569	VBIBifBre327712_1569	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613287	1833317	1834510	-	1194		histidine kinase sensor of two component system	BRE4	clust_0443
+BRE5|SEQ01693	VBIBifBre336369_1694	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617589	1903928	1905121	-	1194		histidine kinase sensor of two component system	BRE5	clust_0443
+BRE6|SEQ02000	VBIBifBre268992_2000	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657318	20060	21253	-	1194		histidine kinase sensor of two component system	BRE6	clust_0443
+BRE7|SEQ01625	VBIBifBre340732_1625	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621757	1875823	1877016	-	1194		histidine kinase sensor of two component system	BRE7	clust_0443
+BRE8|SEQ01575	VBIBifBre176493_1575	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625769	1842971	1844164	-	1194	bbukinI	histidine kinase sensor of two component system	BRE8	clust_0443
+BRE9|SEQ01687	VBIBifBre30019_1687	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447521	1953245	1954429	-	1185	bbkinL	histidine kinase sensor of two component system	BRE9	clust_0443
+DEN1|SEQ00189	VBIBifDen165269_0190	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461643	1544406	1545599	-	1194		histidine kinase sensor of two component system	DEN1	clust_0443
+DEN2|SEQ01981	VBIBifDen39005_1983	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112392	213898	215091	-	1194		histidine kinase sensor of two component system	DEN2	clust_0443
+GV01|SEQ00209	VBIGarVag247323_0209	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494532	86594	88015	-	1422		histidine kinase sensor of two component system	GV01	clust_0443
+GV02|SEQ00481	VBIGarVag242669_0481	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497757	76789	78210	-	1422		histidine kinase sensor of two component system	GV02	clust_0443
+GV03|SEQ00550	VBIGarVag247424_0550	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500509	106450	107757	+	1308		histidine kinase sensor of two component system	GV03	clust_0443
+GV04|SEQ00411	VBIGarVag246433_0411	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480700	19908	21335	-	1428		histidine kinase sensor of two component system	GV04	clust_0443
+GV05|SEQ00571	VBIGarVag174900_0571	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546888	167793	169103	+	1311		histidine kinase sensor of two component system	GV05	clust_0443
+GV06|SEQ00826	VBIGarVag244004_0826	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490450	179569	181008	+	1440		histidine kinase sensor of two component system	GV06	clust_0443
+GV07|SEQ00835	VBIGarVag249177_0835	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493339	106703	107977	-	1275		histidine kinase sensor of two component system	GV07	clust_0443
+GV08|SEQ00386	VBIGarVag251521_0386	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475171	227291	228718	+	1428		histidine kinase sensor of two component system	GV08	clust_0443
+GV09|SEQ00425	VBIGarVag169280_0425	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260024	127653	129119	-	1467		histidine kinase sensor of two component system	GV09	clust_0443
+GV10|SEQ00366	VBIGarVag136958_0366	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146772	426187	427455	+	1269		histidine kinase sensor of two component system	GV10	clust_0443
+GV11|SEQ01323	VBIGarVag171052_1323	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551081	100263	101690	-	1428		histidine kinase sensor of two component system	GV11	clust_0443
+GV12|SEQ00908	VBIGarVag144721_0908	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854539	462792	464060	+	1269		histidine kinase sensor of two component system	GV12	clust_0443
+GV13|SEQ00769	VBIGarVag244533_0769	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487530	233575	235002	-	1428		histidine kinase sensor of two component system	GV13	clust_0443
+GV14|SEQ00857	VBIGarVag244375_0857	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503605	52910	54205	+	1296		histidine kinase sensor of two component system	GV14	clust_0443
+GV15|SEQ00294	VBIGarVag249709_0294	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484099	17575	18843	-	1269		histidine kinase sensor of two component system	GV15	clust_0443
+GV16|SEQ01074	VBIGarVag246379_1074	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479334	1244681	1246108	-	1428		histidine kinase sensor of two component system	GV16	clust_0443
+GV17|SEQ00227	VBIGarVag146634_0227	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850463	196253	197533	-	1281		histidine kinase sensor of two component system	GV17	clust_0443
+GV18|SEQ01216	VBIGarVag4823_1216	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071270	29869	31254	+	1386		histidine kinase sensor of two component system	GV18	clust_0443
+GV19|SEQ00537	VBIGarVag39333_0538	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627951	666994	668421	+	1428	senX3	histidine kinase sensor of two component system	GV19	clust_0443
+GV20|SEQ00986	VBIGarVag188338_0986	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190824	1217323	1218750	-	1428		histidine kinase sensor of two component system	GV20	clust_0443
+GV21|SEQ00687	VBIGarVag274454_0688	Gardnerella vaginalis JCP7275	ATJS01000044	PATRIC	CDS	183968073	1536	2975	+	1440		histidine kinase sensor of two component system	GV21	clust_0443
+GV22|SEQ00880	VBIGarVag276801_0881	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971247	41865	43292	-	1428		histidine kinase sensor of two component system	GV22	clust_0443
+GV23|SEQ00743	VBIGarVag276017_0743	Gardnerella vaginalis JCP7659	ATJQ01000055	PATRIC	CDS	183973866	7316	8737	+	1422		histidine kinase sensor of two component system	GV23	clust_0443
+GV24|SEQ00791	VBIGarVag268944_0792	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976781	51635	53101	-	1467		histidine kinase sensor of two component system	GV24	clust_0443
+GV25|SEQ00288	VBIGarVag270495_0288	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978469	43684	45105	-	1422		histidine kinase sensor of two component system	GV25	clust_0443
+GV26|SEQ00889	VBIGarVag272749_0889	Gardnerella vaginalis JCP8017A	ATJN01000052	PATRIC	CDS	183982625	2859	4280	+	1422		histidine kinase sensor of two component system	GV26	clust_0443
+GV27|SEQ00690	VBIGarVag276930_0690	Gardnerella vaginalis JCP8017B	ATJM01000030	PATRIC	CDS	183985160	15051	16472	-	1422		histidine kinase sensor of two component system	GV27	clust_0443
+GV28|SEQ00618	VBIGarVag271349_0618	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987959	61345	62775	+	1431		histidine kinase sensor of two component system	GV28	clust_0443
+GV29|SEQ00232	VBIGarVag265473_0232	Gardnerella vaginalis JCP8070	ATJK01000009	PATRIC	CDS	183989838	11893	13323	+	1431		histidine kinase sensor of two component system	GV29	clust_0443
+GV30|SEQ00431	VBIGarVag267667_0432	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992940	46892	48319	-	1428		histidine kinase sensor of two component system	GV30	clust_0443
+GV31|SEQ00542	VBIGarVag264983_0542	Gardnerella vaginalis JCP8151A	ATJI01000021	PATRIC	CDS	183996157	2862	4292	+	1431		histidine kinase sensor of two component system	GV31	clust_0443
+GV32|SEQ00455	VBIGarVag277040_0455	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998784	61532	62962	+	1431		histidine kinase sensor of two component system	GV32	clust_0443
+GV33|SEQ00379	VBIGarVag265557_0379	Gardnerella vaginalis JCP8481A	ATJG01000033	PATRIC	CDS	184001479	2051	3340	+	1290		histidine kinase sensor of two component system	GV33	clust_0443
+GV34|SEQ00846	VBIGarVag270440_0846	Gardnerella vaginalis JCP8481B	ATJF01000085	PATRIC	CDS	184005329	5262	6551	-	1290		histidine kinase sensor of two component system	GV34	clust_0443
+GV35|SEQ00731	VBIGarVag272169_0731	Gardnerella vaginalis JCP8522	ATJE01000064	PATRIC	CDS	184007842	2902	4332	+	1431		histidine kinase sensor of two component system	GV35	clust_0443
+INF1|SEQ01713	VBIBifLon182273_1713	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887454	1953222	1954415	-	1194		histidine kinase sensor of two component system	INF1	clust_0443
+LON1|SEQ01711	VBIBifLon107831_1712	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120576	2073760	2074845	+	1086		histidine kinase sensor of two component system	LON1	clust_0443
+LON2|SEQ01745	VBIBifLon171405_1748	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583109	2097646	2098830	+	1185		histidine kinase sensor of two component system	LON2	clust_0443
+LON3|SEQ01580	VBIBifLon156230_1583	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766328	412737	413930	-	1194		histidine kinase sensor of two component system	LON3	clust_0443
+LON4|SEQ01662	VBIBifLon48544_1662	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891696	1912968	1914161	-	1194		histidine kinase sensor of two component system	LON4	clust_0443
+THE1|SEQ01357	VBIBifThe274299_1357	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735948	1684641	1685966	-	1326		histidine kinase sensor of two component system	THE1	clust_0443

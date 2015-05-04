@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00946	VBIGarVag244004_0946	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490700	338341	342417	+	4077		Type II restriction endonuclease	GV06	clust_2331
+GV10|SEQ00658	VBIGarVag136958_0658	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147376	847311	851432	+	4122		hypothetical protein	GV10	clust_2331
+GV11|SEQ00568	VBIGarVag171052_0568	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549468	53664	57764	+	4101		hypothetical protein	GV11	clust_2331
+GV13|SEQ00653	VBIGarVag244533_0653	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487287	79344	83420	-	4077		Type II restriction endonuclease	GV13	clust_2331
+GV15|SEQ00706	VBIGarVag249709_0706	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484959	173285	177361	+	4077		type II restriction endonuclease, putative	GV15	clust_2331
+BRE1|SEQ00724	VBIBifBre340958_0724	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603424	874953	877685	-	2733		type III restriction system endonuclease, putative	BRE1	clust_2331
+BRE2|SEQ00820	VBIBifBre337368_0820	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607586	971802	974534	-	2733		type III restriction system endonuclease, putative	BRE2	clust_2331

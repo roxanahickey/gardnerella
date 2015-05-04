@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00535	VBIGarVag247323_0535	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495215	284914	285165	+	252		prevent-host-death family protein	GV01	clust_1076
+GV01|SEQ01147	VBIGarVag247323_1147	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496496	161479	161730	-	252		prevent-host-death family protein	GV01	clust_1076
+GV03|SEQ00710	VBIGarVag247424_0710	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500844	85368	85619	+	252		prevent-host-death family protein	GV03	clust_1076
+GV05|SEQ00729	VBIGarVag174900_0729	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547217	344870	345121	-	252		prevent-host-death family protein	GV05	clust_1076
+GV09|SEQ00904	VBIGarVag169280_0904	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261015	307219	307491	+	273		prevent-host-death family protein	GV09	clust_1076
+GV12|SEQ01027	VBIGarVag144721_1027	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854791	3221	3475	-	255		prevent-host-death family protein	GV12	clust_1076
+GV14|SEQ01154	VBIGarVag244375_1154	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504227	265617	265874	+	258		prevent-host-death family protein	GV14	clust_1076
+GV17|SEQ00080	VBIGarVag146634_0080	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850157	13209	13463	+	255		prevent-host-death family protein	GV17	clust_1076
+GV18|SEQ01144	VBIGarVag4823_1144	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071118	33238	33495	-	258		prevent-host-death family protein	GV18	clust_1076
+GV19|SEQ01043	VBIGarVag39333_1044	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628997	1277388	1277645	+	258		prevent-host-death family protein	GV19	clust_1076
+GV21|SEQ00926	VBIGarVag274454_0927	Gardnerella vaginalis JCP7275	ATJS01000076	PATRIC	CDS	183968621	37	309	+	273		prevent-host-death family protein	GV21	clust_1076
+GV25|SEQ00874	VBIGarVag270495_0874	Gardnerella vaginalis JCP7719	ATJO01000077	PATRIC	CDS	183979732	2252	2506	-	255		prevent-host-death family protein	GV25	clust_1076
+GV28|SEQ01011	VBIGarVag271349_1011	Gardnerella vaginalis JCP8066	ATJL01000119	PATRIC	CDS	183988851	105	356	+	252		prevent-host-death family protein	GV28	clust_1076
+GV29|SEQ01170	VBIGarVag265473_1170	Gardnerella vaginalis JCP8070	ATJK01000155	PATRIC	CDS	183991935	6831	7103	-	273		prevent-host-death family protein	GV29	clust_1076
+GV31|SEQ01033	VBIGarVag264983_1033	Gardnerella vaginalis JCP8151A	ATJI01000090	PATRIC	CDS	183997236	1607	1861	-	255		prevent-host-death family protein	GV31	clust_1076
+GV32|SEQ00480	VBIGarVag277040_0480	Gardnerella vaginalis JCP8151B	ATJH01000026	PATRIC	CDS	183998840	1590	1862	-	273		prevent-host-death family protein	GV32	clust_1076
+GV33|SEQ00419	VBIGarVag265557_0419	Gardnerella vaginalis JCP8481A	ATJG01000035	PATRIC	CDS	184001561	385	657	-	273		prevent-host-death family protein	GV33	clust_1076
+GV34|SEQ00742	VBIGarVag270440_0742	Gardnerella vaginalis JCP8481B	ATJF01000076	PATRIC	CDS	184005108	387	659	-	273		prevent-host-death family protein	GV34	clust_1076
+GV35|SEQ00389	VBIGarVag272169_0389	Gardnerella vaginalis JCP8522	ATJE01000019	PATRIC	CDS	184007085	1655	1927	-	273		prevent-host-death family protein	GV35	clust_1076

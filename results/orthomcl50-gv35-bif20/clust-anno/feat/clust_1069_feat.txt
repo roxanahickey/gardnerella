@@ -1,0 +1,27 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00038	VBIGarVag246433_0038	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479912	32718	33986	-	1269		hypothetical protein	GV04	clust_1069
+GV16|SEQ00338	VBIGarVag246379_0338	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477808	306473	307741	+	1269		hypothetical protein	GV16	clust_1069
+ADO1|SEQ01926	VBIBifAdo136061_1926	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190225	463194	464534	+	1341		hypothetical protein	ADO1	clust_1069
+ADO1|SEQ01936	VBIBifAdo136061_1936	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190245	475695	477020	-	1326		hypothetical protein	ADO1	clust_1069
+ANI1|SEQ00048	VBIBifAni240121_0048	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844993	57776	59035	+	1260		Glycoside-Pentoside-Hexuronide (GPH):Cation symporter family protein	ANI1	clust_1069
+ANI2|SEQ00048	VBIBifAni235968_0048	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848348	57776	59035	+	1260		Glycoside-Pentoside-Hexuronide (GPH):Cation symporter family protein	ANI2	clust_1069
+ANI3|SEQ00050	VBIBifAni108068_0050	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762364	57887	59035	+	1149		Glycoside-Pentoside-Hexuronide (GPH):Cation symporter family protein	ANI3	clust_1069
+BRE1|SEQ01007	VBIBifBre340958_1007	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604014	1187622	1188407	+	786		Permeases of the major facilitator superfamily	BRE1	clust_1069
+BRE2|SEQ01126	VBIBifBre337368_1126	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608226	1298102	1298542	+	441		Permeases of the major facilitator superfamily	BRE2	clust_1069
+BRE2|SEQ01538	VBIBifBre337368_1538	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609073	1785849	1787105	+	1257		hypothetical protein	BRE2	clust_1069
+BRE3|SEQ00772	VBIBifBre167886_0772	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193237	932836	933183	-	348		Permeases of the major facilitator superfamily	BRE3	clust_1069
+BRE4|SEQ01082	VBIBifBre327712_1082	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612281	1256335	1257120	+	786		Permeases of the major facilitator superfamily	BRE4	clust_1069
+BRE4|SEQ01463	VBIBifBre327712_1463	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613063	1716468	1717724	+	1257		hypothetical protein	BRE4	clust_1069
+BRE5|SEQ01175	VBIBifBre336369_1176	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616522	1307199	1307684	+	486		Permeases of the major facilitator superfamily	BRE5	clust_1069
+BRE5|SEQ01560	VBIBifBre336369_1561	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617309	1755363	1756640	+	1278		hypothetical protein	BRE5	clust_1069
+BRE5|SEQ01568	VBIBifBre336369_1569	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617325	1761687	1762970	-	1284		hypothetical protein	BRE5	clust_1069
+BRE6|SEQ00908	VBIBifBre268992_0908	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655004	27489	28766	+	1278		hypothetical protein	BRE6	clust_1069
+BRE6|SEQ01061	VBIBifBre268992_1061	Bifidobacterium breve JCP7499	AWSX01000055	PATRIC	CDS	177655330	23773	24051	-	279		Permeases of the major facilitator superfamily	BRE6	clust_1069
+BRE7|SEQ01085	VBIBifBre340732_1085	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620647	1251210	1251650	+	441		Permeases of the major facilitator superfamily	BRE7	clust_1069
+BRE8|SEQ01074	VBIBifBre176493_1074	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624731	1265262	1265885	+	624		Permeases of the major facilitator superfamily	BRE8	clust_1069
+BRE9|SEQ01171	VBIBifBre30019_1171	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446459	1352391	1352831	+	441		Permeases of the major facilitator superfamily	BRE9	clust_1069
+INF1|SEQ00984	VBIBifLon182273_0984	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885949	1144793	1145425	-	633		Permeases of the major facilitator superfamily	INF1	clust_1069
+LON1|SEQ00476	VBIBifLon107831_0477	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118007	555036	555668	+	633		Permeases of the major facilitator superfamily	LON1	clust_1069
+LON2|SEQ00524	VBIBifLon171405_0525	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580571	585615	586247	+	633		Permeases of the major facilitator superfamily	LON2	clust_1069
+LON3|SEQ00343	VBIBifLon156230_0343	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767636	1167464	1168096	+	633		Permeases of the major facilitator superfamily	LON3	clust_1069
+LON4|SEQ00877	VBIBifLon48544_0877	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890029	1046330	1046962	-	633		Permeases of the major facilitator superfamily	LON4	clust_1069

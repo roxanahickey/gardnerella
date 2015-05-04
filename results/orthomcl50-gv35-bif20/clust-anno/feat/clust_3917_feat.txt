@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00545	VBIBifBre337368_0545	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607018	677597	678991	-	1395		D-mannonate oxidoreductase (EC 1.1.1.57)	BRE2	clust_3917
+BRE6|SEQ00441	VBIBifBre268992_0441	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	177654011	22225	23619	+	1395		D-mannonate oxidoreductase (EC 1.1.1.57)	BRE6	clust_3917

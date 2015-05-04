@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01032	268604066	VBIBifBre340958_1032	SEQ01032	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+BRE2|SEQ01151	268608280	VBIBifBre337368_1151	SEQ01151	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+BRE3|SEQ00747	54193184	VBIBifBre167886_0747	SEQ00747	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+BRE4|SEQ01106	268612331	VBIBifBre327712_1106	SEQ01106	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+BRE6|SEQ01035	177655276	VBIBifBre268992_1035	SEQ01035	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000054	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+BRE7|SEQ01110	268620700	VBIBifBre340732_1110	SEQ01110	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+BRE8|SEQ01099	268624784	VBIBifBre176493_1099	SEQ01099	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+GV12|SEQ00984	37854703	VBIGarVag144721_0984	SEQ00984	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	NA	phage integrase family protein	FIG01326760	figfam	clust_1975
+LON1|SEQ00318	21117677	VBIBifLon107831_0318	SEQ00318	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975
+LON3|SEQ00182	42767297	VBIBifLon156230_0182	SEQ00182	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_1975

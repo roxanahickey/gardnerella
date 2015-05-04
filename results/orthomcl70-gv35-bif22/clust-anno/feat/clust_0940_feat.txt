@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00582	VBIGarVag247323_0582	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495310	339310	339750	+	441		conserved hypothetical protein	GV01	clust_0940
+GV02|SEQ00796	VBIGarVag242669_0796	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498434	7449	7889	-	441		conserved hypothetical protein	GV02	clust_0940
+GV03|SEQ01017	VBIGarVag247424_1017	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501480	386235	386690	+	456		conserved hypothetical protein	GV03	clust_0940
+GV04|SEQ00673	VBIGarVag246433_0673	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481239	99958	100398	+	441		conserved hypothetical protein	GV04	clust_0940
+GV05|SEQ01060	VBIGarVag174900_1060	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547901	794404	794862	+	459		conserved hypothetical protein	GV05	clust_0940
+GV06|SEQ00239	VBIGarVag244004_0239	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489198	6981	7409	-	429		conserved hypothetical protein	GV06	clust_0940
+GV07|SEQ00271	VBIGarVag249177_0271	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492159	64150	64605	-	456		conserved hypothetical protein	GV07	clust_0940
+GV08|SEQ00118	VBIGarVag251521_0118	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474603	139930	140370	+	441		conserved hypothetical protein	GV08	clust_0940
+GV09|SEQ00947	VBIGarVag169280_0947	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261102	359325	359765	+	441		conserved hypothetical protein	GV09	clust_0940
+GV11|SEQ00751	VBIGarVag171052_0751	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549855	27790	28218	+	429		conserved hypothetical protein	GV11	clust_0940
+GV12|SEQ00277	VBIGarVag144721_0277	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853217	247775	248113	+	339		conserved hypothetical protein	GV12	clust_0940
+GV13|SEQ00929	VBIGarVag244533_0929	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487864	49472	49900	+	429		conserved hypothetical protein	GV13	clust_0940
+GV14|SEQ01116	VBIGarVag244375_1116	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504143	210989	211444	+	456		conserved hypothetical protein	GV14	clust_0940
+GV15|SEQ00178	VBIGarVag249709_0178	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483847	118658	119098	+	441		conserved hypothetical protein	GV15	clust_0940
+GV16|SEQ00894	VBIGarVag246379_0894	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478951	1009472	1009912	+	441		conserved hypothetical protein	GV16	clust_0940
+GV17|SEQ00725	VBIGarVag146634_0725	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851522	24726	25166	-	441		conserved hypothetical protein	GV17	clust_0940
+GV18|SEQ00504	VBIGarVag4823_0504	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000104	PATRIC	CDS	42069755	422	862	-	441		conserved hypothetical protein	GV18	clust_0940
+GV19|SEQ00724	VBIGarVag39333_0725	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628346	905011	905451	-	441		conserved hypothetical protein	GV19	clust_0940
+GV20|SEQ00817	VBIGarVag188338_0817	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190464	992611	993051	+	441		conserved hypothetical protein	GV20	clust_0940
+GV21|SEQ00270	VBIGarVag274454_0270	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967188	46663	47091	+	429		conserved hypothetical protein	GV21	clust_0940
+GV22|SEQ00097	VBIGarVag276801_0097	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969583	127006	127446	-	441		conserved hypothetical protein	GV22	clust_0940
+GV23|SEQ00191	VBIGarVag276017_0191	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972686	7127	7567	-	441		conserved hypothetical protein	GV23	clust_0940
+GV24|SEQ00975	VBIGarVag268944_0976	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977177	48202	48642	+	441		conserved hypothetical protein	GV24	clust_0940
+GV25|SEQ00757	VBIGarVag270495_0757	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979485	70135	70575	-	441		conserved hypothetical protein	GV25	clust_0940
+GV26|SEQ01000	VBIGarVag272749_1000	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982880	7125	7565	-	441		conserved hypothetical protein	GV26	clust_0940
+GV27|SEQ01115	VBIGarVag276930_1115	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986090	50317	50757	+	441		conserved hypothetical protein	GV27	clust_0940
+GV28|SEQ00288	VBIGarVag271349_0288	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987243	66078	66518	-	441		conserved hypothetical protein	GV28	clust_0940
+GV29|SEQ00902	VBIGarVag265473_0902	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991297	63554	63994	-	441		conserved hypothetical protein	GV29	clust_0940
+GV30|SEQ00244	VBIGarVag267667_0244	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992542	1205	1633	+	429		conserved hypothetical protein	GV30	clust_0940
+GV31|SEQ00534	VBIGarVag264983_0534	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996138	45307	45747	+	441		conserved hypothetical protein	GV31	clust_0940
+GV32|SEQ00300	VBIGarVag277040_0300	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998452	139658	140098	-	441		conserved hypothetical protein	GV32	clust_0940
+GV33|SEQ00674	VBIGarVag265557_0674	Gardnerella vaginalis JCP8481A	ATJG01000063	PATRIC	CDS	184002106	7522	7962	-	441		conserved hypothetical protein	GV33	clust_0940
+GV34|SEQ00438	VBIGarVag270440_0438	Gardnerella vaginalis JCP8481B	ATJF01000032	PATRIC	CDS	184004443	7522	7962	-	441		conserved hypothetical protein	GV34	clust_0940
+GV35|SEQ00175	VBIGarVag272169_0175	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006633	76560	77000	-	441		conserved hypothetical protein	GV35	clust_0940

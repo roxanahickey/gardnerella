@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00073	VBIBifAdo136061_0073	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186338	81649	82947	-	1299		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	ADO1	clust_1860
+BRE1|SEQ01624	VBIBifBre340958_1625	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605288	1897391	1898686	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE1	clust_1860
+BRE2|SEQ01732	VBIBifBre337368_1732	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609480	1999925	2001220	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE2	clust_1860
+BRE3|SEQ01685	VBIBifBre167886_1685	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195136	1957169	1958464	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE3	clust_1860
+BRE4|SEQ01666	VBIBifBre327712_1666	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613489	1932077	1933372	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE4	clust_1860
+BRE5|SEQ01788	VBIBifBre336369_1789	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617786	2002807	2004102	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE5	clust_1860
+BRE6|SEQ01403	VBIBifBre268992_1403	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656056	12434	13729	+	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE6	clust_1860
+BRE7|SEQ01713	VBIBifBre340732_1713	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621940	1968612	1969907	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE7	clust_1860
+BRE8|SEQ01670	VBIBifBre176493_1670	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625966	1941994	1943289	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE8	clust_1860
+BRE9|SEQ01778	VBIBifBre30019_1778	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447710	2046049	2047344	-	1296		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE9	clust_1860
+DEN1|SEQ01751	VBIBifDen165269_1752	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460659	1063405	1064703	+	1299		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	DEN1	clust_1860
+DEN2|SEQ00448	VBIBifDen39005_0448	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109222	77586	78884	-	1299		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	DEN2	clust_1860

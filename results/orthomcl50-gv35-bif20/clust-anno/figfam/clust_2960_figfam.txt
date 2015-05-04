@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00286	86883099	VBIBifBif87902_0286	SEQ00286	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Putative methyltransferase (EC 2.1.1.72)	FIG01327965	figfam	clust_2960
+GV10|SEQ00469	32146990	VBIGarVag136958_0469	SEQ00469	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Adenine-specific methyltransferase (EC 2.1.1.72)	FIG00001670	figfam	clust_2960
+GV12|SEQ01044	37854825	VBIGarVag144721_1044	SEQ01044	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	NA	Adenine-specific methyltransferase (EC 2.1.1.72)	FIG00001670	figfam	clust_2960

@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01321	VBIBifBre340958_1322	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604659	1556109	1557611	-	1503		Regulator of polyketide synthase expression	BRE1	clust_2146
+BRE5|SEQ01485	VBIBifBre336369_1486	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617159	1667209	1668711	-	1503		Regulator of polyketide synthase expression	BRE5	clust_2146
+BRE7|SEQ01368	VBIBifBre340732_1368	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621229	1583726	1585228	-	1503		Regulator of polyketide synthase expression	BRE7	clust_2146
+BRE9|SEQ01451	VBIBifBre30019_1451	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447034	1686872	1688374	-	1503		Regulator of polyketide synthase expression	BRE9	clust_2146
+INF1|SEQ01521	VBIBifLon182273_1521	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887056	1731225	1732727	-	1503		Regulator of polyketide synthase expression	INF1	clust_2146
+LON1|SEQ00012	VBIBifLon107831_0012	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117051	13298	14800	+	1503		Regulator of polyketide synthase expression	LON1	clust_2146
+LON2|SEQ00054	VBIBifLon171405_0055	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579601	56960	58462	+	1503		Regulator of polyketide synthase expression	LON2	clust_2146
+LON3|SEQ01020	VBIBifLon156230_1021	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765911	169821	171323	-	1503		Regulator of polyketide synthase expression	LON3	clust_2146
+LON4|SEQ01493	VBIBifLon48544_1493	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891342	1707480	1708982	-	1503		Regulator of polyketide synthase expression	LON4	clust_2146

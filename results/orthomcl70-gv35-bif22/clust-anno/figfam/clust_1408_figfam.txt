@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00690	27187668	VBIBifAdo136061_0690	SEQ00690	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+ANI1|SEQ00103	86845107	VBIBifAni240121_0103	SEQ00103	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+ANI2|SEQ00103	86848462	VBIBifAni235968_0103	SEQ00103	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+ANI3|SEQ00105	42762478	VBIBifAni108068_0105	SEQ00105	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BIF1|SEQ01457	86885514	VBIBifBif87902_1457	SEQ01457	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE1|SEQ01534	268605103	VBIBifBre340958_1535	SEQ01534	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE2|SEQ01643	268609297	VBIBifBre337368_1643	SEQ01643	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE3|SEQ01596	54194953	VBIBifBre167886_1596	SEQ01596	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE4|SEQ01575	268613301	VBIBifBre327712_1575	SEQ01575	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE5|SEQ01698	268617601	VBIBifBre336369_1699	SEQ01698	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE6|SEQ02007	177657334	VBIBifBre268992_2007	SEQ02007	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE7|SEQ01631	268621771	VBIBifBre340732_1631	SEQ01631	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE8|SEQ01581	268625783	VBIBifBre176493_1581	SEQ01581	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+BRE9|SEQ01694	58447537	VBIBifBre30019_1694	SEQ01694	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+DEN1|SEQ00199	43461665	VBIBifDen165269_0200	SEQ00199	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+DEN2|SEQ01991	42112414	VBIBifDen39005_1993	SEQ01991	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+INF1|SEQ01718	46887466	VBIBifLon182273_1718	SEQ01718	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+LON1|SEQ01706	21120564	VBIBifLon107831_1707	SEQ01706	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+LON2|SEQ01740	42583097	VBIBifLon171405_1743	SEQ01740	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408
+LON3|SEQ01585	42766340	VBIBifLon156230_1588	SEQ01585	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Protein AraJ precursor	FIG00004917	figfam	clust_1408

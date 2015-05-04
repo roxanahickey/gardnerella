@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00286	VBIBifBre340958_0286	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602514	362313	362447	-	135		hypothetical protein	BRE1	clust_1921
+BRE2|SEQ00349	VBIBifBre337368_0349	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606614	418615	418773	-	159		Mobile element protein	BRE2	clust_1921
+BRE3|SEQ00338	VBIBifBre167886_0338	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192341	422914	423072	-	159		Transposase and inactivated derivatives	BRE3	clust_1921
+BRE4|SEQ00303	VBIBifBre327712_0303	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610663	384644	384802	-	159		Mobile element protein	BRE4	clust_1921
+BRE5|SEQ00326	VBIBifBre336369_0327	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614760	386723	386881	-	159		hypothetical protein	BRE5	clust_1921
+BRE6|SEQ01345	VBIBifBre268992_1345	Bifidobacterium breve JCP7499	AWSX01000065	PATRIC	CDS	177655924	12594	12734	-	141		hypothetical protein	BRE6	clust_1921
+BRE7|SEQ00315	VBIBifBre340732_0315	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619046	395853	396011	-	159		Mobile element protein	BRE7	clust_1921
+BRE8|SEQ00341	VBIBifBre176493_0341	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623211	427352	427510	-	159		Mobile element protein	BRE8	clust_1921
+BRE9|SEQ00389	VBIBifBre30019_0389	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444832	469373	469531	-	159		Transposase and inactivated derivatives	BRE9	clust_1921
+BRE9|SEQ01981	VBIBifBre30019_1981	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448136	2292382	2292699	-	318		Mobile element protein	BRE9	clust_1921
+LON1|SEQ01513	VBIBifLon107831_1514	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120156	1834929	1835072	+	144		hypothetical protein	LON1	clust_1921

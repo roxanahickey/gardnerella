@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00643	VBIBifBre337368_0643	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607218	772022	773017	-	996		SN-glycerol-3-phosphate transport system permease protein ugpA (TC 3.A.1.1.3)	BRE2	clust_2938
+BRE4|SEQ00584	VBIBifBre327712_0584	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611243	719005	720000	-	996		SN-glycerol-3-phosphate transport system permease protein ugpA (TC 3.A.1.1.3)	BRE4	clust_2938
+BRE7|SEQ00596	VBIBifBre340732_0596	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619626	722063	723058	-	996		SN-glycerol-3-phosphate transport system permease protein ugpA (TC 3.A.1.1.3)	BRE7	clust_2938
+BRE8|SEQ00618	VBIBifBre176493_0618	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623779	763318	764313	-	996		SN-glycerol-3-phosphate transport system permease protein ugpA (TC 3.A.1.1.3)	BRE8	clust_2938

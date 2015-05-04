@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ00964	VBIGarVag144721_0964	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854663	542406	543155	+	750		Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)	GV12	clust_2612
+BRE2|SEQ00993	VBIBifBre337368_0993	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607945	1167414	1168148	-	735		hypothetical protein	BRE2	clust_2612
+BRE3|SEQ00889	VBIBifBre167886_0889	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193488	1051729	1052463	+	735		YfbU family protein	BRE3	clust_2612
+BRE9|SEQ01028	VBIBifBre30019_1028	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446154	1212581	1213126	-	546		YfbU family protein	BRE9	clust_2612
+LON1|SEQ00509	VBIBifLon107831_0510	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118073	594707	595252	+	546		YfbU family protein	LON1	clust_2612

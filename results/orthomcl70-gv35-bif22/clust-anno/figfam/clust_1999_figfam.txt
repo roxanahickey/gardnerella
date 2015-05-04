@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00508	268602973	VBIBifBre340958_0508	SEQ00508	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE2|SEQ00585	268607100	VBIBifBre337368_0585	SEQ00585	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE3|SEQ01298	54194334	VBIBifBre167886_1298	SEQ01298	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE4|SEQ00529	268611130	VBIBifBre327712_0529	SEQ00529	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE6|SEQ00403	177653932	VBIBifBre268992_0403	SEQ00403	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE7|SEQ00539	268619507	VBIBifBre340732_0539	SEQ00539	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE8|SEQ00566	268623673	VBIBifBre176493_0566	SEQ00566	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+BRE9|SEQ00622	58445312	VBIBifBre30019_0622	SEQ00622	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1999
+DEN1|SEQ01578	43460309	VBIBifDen165269_1579	SEQ01578	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_1999
+DEN2|SEQ00627	42109584	VBIBifDen39005_0627	SEQ00627	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_1999

@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00444	VBIBifBre337368_0444	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606812	534775	535842	+	1068		Acyltransferase 3	BRE2	clust_2715
+BRE4|SEQ00404	VBIBifBre327712_0404	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610875	504811	505878	+	1068		Acyltransferase 3	BRE4	clust_2715
+BRE6|SEQ00027	VBIBifBre268992_0027	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS	177653143	2090	3157	-	1068		Acyltransferase 3	BRE6	clust_2715
+BRE8|SEQ00445	VBIBifBre176493_0445	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623426	553089	554156	+	1068		Acyltransferase 3	BRE8	clust_2715
+BRE9|SEQ00497	VBIBifBre30019_0497	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445056	597657	598724	+	1068		Acyltransferase 3	BRE9	clust_2715

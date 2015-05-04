@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00626	VBIBifAdo136061_0626	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187536	497540	499885	-	2346		Glycogen debranching enzyme (EC 3.2.1.-)	ADO1	clust_1342
+ANI1|SEQ00380	VBIBifAni240121_0380	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845684	459344	462040	-	2697		Glycogen debranching enzyme (EC 3.2.1.-)	ANI1	clust_1342
+ANI2|SEQ00380	VBIBifAni235968_0380	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849039	459346	462042	-	2697		Glycogen debranching enzyme (EC 3.2.1.-)	ANI2	clust_1342
+ANI3|SEQ00381	VBIBifAni108068_0381	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763052	459347	462043	-	2697		Glycogen debranching enzyme (EC 3.2.1.-)	ANI3	clust_1342
+BIF1|SEQ01531	VBIBifBif87902_1531	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885667	1839182	1841767	+	2586	glgX	Glycogen debranching enzyme (EC 3.2.1.-)	BIF1	clust_1342
+BRE1|SEQ01613	VBIBifBre340958_1614	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605266	1884546	1886993	+	2448		Glycogen debranching enzyme (EC 3.2.1.-)	BRE1	clust_1342
+BRE2|SEQ01721	VBIBifBre337368_1721	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609458	1987182	1989527	+	2346		Glycogen debranching enzyme (EC 3.2.1.-)	BRE2	clust_1342
+BRE3|SEQ01674	VBIBifBre167886_1674	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195114	1944426	1946771	+	2346	glgX_2	Glycogen debranching enzyme (EC 3.2.1.-)	BRE3	clust_1342
+BRE4|SEQ01655	VBIBifBre327712_1655	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613467	1919232	1921679	+	2448		Glycogen debranching enzyme (EC 3.2.1.-)	BRE4	clust_1342
+BRE5|SEQ01776	VBIBifBre336369_1777	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617762	1989962	1992409	+	2448		Glycogen debranching enzyme (EC 3.2.1.-)	BRE5	clust_1342
+BRE6|SEQ01426	VBIBifBre268992_1426	Bifidobacterium breve JCP7499	AWSX01000070	PATRIC	CDS	177656104	6675	9200	-	2526		Glycogen debranching enzyme (EC 3.2.1.-)	BRE6	clust_1342
+BRE7|SEQ01702	VBIBifBre340732_1702	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621918	1954948	1957473	+	2526		Glycogen debranching enzyme (EC 3.2.1.-)	BRE7	clust_1342
+BRE8|SEQ01659	VBIBifBre176493_1659	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625944	1929146	1931593	+	2448	glgX2	Glycogen debranching enzyme (EC 3.2.1.-)	BRE8	clust_1342
+BRE9|SEQ01766	VBIBifBre30019_1766	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447686	2032391	2034916	+	2526	glgX2	Glycogen debranching enzyme (EC 3.2.1.-)	BRE9	clust_1342
+INF1|SEQ01795	VBIBifLon182273_1795	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887626	2039067	2041607	+	2541		Glycogen debranching enzyme (EC 3.2.1.-)	INF1	clust_1342
+LON1|SEQ01629	VBIBifLon107831_1630	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120406	1987447	1989873	-	2427		Glycogen debranching enzyme (EC 3.2.1.-)	LON1	clust_1342
+LON2|SEQ01664	VBIBifLon171405_1667	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582941	2011218	2013758	-	2541		Glycogen debranching enzyme (EC 3.2.1.-)	LON2	clust_1342
+LON3|SEQ01660	VBIBifLon156230_1663	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766494	499005	501545	+	2541		Glycogen debranching enzyme (EC 3.2.1.-)	LON3	clust_1342
+LON4|SEQ01744	VBIBifLon48544_1744	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891869	1999511	2002051	+	2541		Glycogen debranching enzyme (EC 3.2.1.-)	LON4	clust_1342
+THE1|SEQ01448	VBIBifThe274299_1448	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736136	1782114	1784765	+	2652		Glycogen debranching enzyme (EC 3.2.1.-)	THE1	clust_1342

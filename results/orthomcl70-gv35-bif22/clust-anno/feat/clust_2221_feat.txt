@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00159	VBIBifBif87902_0159	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882822	195675	197144	+	1470	qacA	putative transporter	BIF1	clust_2221
+BRE2|SEQ00192	VBIBifBre337368_0192	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606287	243696	245150	+	1455		putative transporter	BRE2	clust_2221
+BRE3|SEQ00210	VBIBifBre167886_0210	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192072	267672	269126	+	1455		putative transporter	BRE3	clust_2221
+BRE5|SEQ01249	VBIBifBre336369_1250	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616676	1388849	1390417	-	1569		putative transporter	BRE5	clust_2221
+BRE6|SEQ01767	VBIBifBre268992_1767	Bifidobacterium breve JCP7499	AWSX01000079	PATRIC	CDS	177656838	34	414	+	381		putative transporter	BRE6	clust_2221
+BRE7|SEQ00187	VBIBifBre340732_0187	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618777	239287	240741	+	1455		putative transporter	BRE7	clust_2221
+BRE8|SEQ00214	VBIBifBre176493_0214	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622944	270754	272208	+	1455		putative transporter	BRE8	clust_2221
+BRE9|SEQ00220	VBIBifBre30019_0220	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444476	283490	284944	+	1455		putative transporter	BRE9	clust_2221

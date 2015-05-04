@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ01109	268608192	VBIBifBre337368_1109	SEQ01109	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2941
+BRE4|SEQ00939	268611981	VBIBifBre327712_0939	SEQ00939	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2941
+BRE6|SEQ01764	177656831	VBIBifBre268992_1764	SEQ01764	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2941
+BRE9|SEQ01146	58446408	VBIBifBre30019_1146	SEQ01146	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2941

@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00663	VBIBifAdo136061_0663	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187610	527570	528370	+	801		Protein containing transglutaminase-like domain, putative cysteine protease	ADO1	clust_1587
+BIF1|SEQ01493	VBIBifBif87902_1493	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885590	1807466	1808266	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BIF1	clust_1587
+BRE1|SEQ01570	VBIBifBre340958_1571	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605179	1850850	1851650	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE1	clust_1587
+BRE2|SEQ01679	VBIBifBre337368_1679	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609373	1953423	1954223	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE2	clust_1587
+BRE3|SEQ01631	VBIBifBre167886_1631	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195027	1910610	1911410	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE3	clust_1587
+BRE4|SEQ01612	VBIBifBre327712_1612	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613380	1885633	1886433	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE4	clust_1587
+BRE5|SEQ01733	VBIBifBre336369_1734	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617675	1956349	1957149	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE5	clust_1587
+BRE6|SEQ01464	VBIBifBre268992_1464	Bifidobacterium breve JCP7499	AWSX01000070	PATRIC	CDS	177656181	35027	35827	+	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE6	clust_1587
+BRE7|SEQ01666	VBIBifBre340732_1666	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621845	1928223	1929023	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE7	clust_1587
+BRE8|SEQ01617	VBIBifBre176493_1617	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625859	1895391	1896191	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE8	clust_1587
+BRE9|SEQ01730	VBIBifBre30019_1730	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447613	2005668	2006468	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	BRE9	clust_1587
+INF1|SEQ01759	VBIBifLon182273_1759	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887553	2013625	2014425	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	INF1	clust_1587
+LON1|SEQ01665	VBIBifLon107831_1666	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120478	2014827	2015627	+	801		Protein containing transglutaminase-like domain, putative cysteine protease	LON1	clust_1587
+LON2|SEQ01700	VBIBifLon171405_1703	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583013	2038557	2039357	+	801		Protein containing transglutaminase-like domain, putative cysteine protease	LON2	clust_1587
+LON3|SEQ01624	VBIBifLon156230_1627	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766422	473510	474310	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	LON3	clust_1587
+LON4|SEQ01708	VBIBifLon48544_1708	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891796	1973860	1974660	-	801		Protein containing transglutaminase-like domain, putative cysteine protease	LON4	clust_1587

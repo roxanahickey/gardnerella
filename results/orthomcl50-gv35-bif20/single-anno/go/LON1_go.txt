@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+LON1|SEQ00731	21118535	VBIBifLon107831_0732	SEQ00731	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Formate efflux transporter (TC 2.A.44 family)	GO:0005215	transporter activity	go	NA
+LON1|SEQ00731	21118535	VBIBifLon107831_0732	SEQ00731	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Formate efflux transporter (TC 2.A.44 family)	GO:0006810	transport	go	NA
+LON1|SEQ00731	21118535	VBIBifLon107831_0732	SEQ00731	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Formate efflux transporter (TC 2.A.44 family)	GO:0016020	membrane	go	NA
+LON1|SEQ00783	21118639	VBIBifLon107831_0784	SEQ00783	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Beta-glucuronidase (EC 3.2.1.31)	GO:0004566	beta-glucuronidase activity	go	NA
+LON1|SEQ01261	21119627	VBIBifLon107831_1262	SEQ01261	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Maltodextrin glucosidase (EC 3.2.1.20)	GO:0004558	alpha-glucosidase activity	go	NA
+LON1|SEQ01510	21120150	VBIBifLon107831_1511	SEQ01510	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)	GO:0047348	glycerol-3-phosphate cytidylyltransferase activity	go	NA

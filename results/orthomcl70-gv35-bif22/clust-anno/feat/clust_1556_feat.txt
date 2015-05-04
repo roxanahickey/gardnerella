@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01021	VBIBifAni240121_1021	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847024	1180894	1181358	-	465		Nucleoside 2-deoxyribosyltransferase	ANI1	clust_1556
+ANI2|SEQ01021	VBIBifAni235968_1021	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850377	1180897	1181361	-	465		Nucleoside 2-deoxyribosyltransferase	ANI2	clust_1556
+ANI3|SEQ01025	VBIBifAni108068_1025	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764391	1180898	1181362	-	465		Nucleoside 2-deoxyribosyltransferase	ANI3	clust_1556
+BRE1|SEQ01401	VBIBifBre340958_1402	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604819	1659016	1659444	-	429		Nucleoside 2-deoxyribosyltransferase	BRE1	clust_1556
+BRE2|SEQ01517	VBIBifBre337368_1517	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609028	1758739	1759167	-	429		Nucleoside 2-deoxyribosyltransferase	BRE2	clust_1556
+BRE3|SEQ01476	VBIBifBre167886_1476	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194696	1730028	1730456	-	429		Nucleoside 2-deoxyribosyltransferase	BRE3	clust_1556
+BRE4|SEQ01442	VBIBifBre327712_1442	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613018	1689358	1689786	-	429		Nucleoside 2-deoxyribosyltransferase	BRE4	clust_1556
+BRE5|SEQ01594	VBIBifBre336369_1595	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617377	1794961	1795389	-	429		Nucleoside 2-deoxyribosyltransferase	BRE5	clust_1556
+BRE6|SEQ00937	VBIBifBre268992_0937	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655062	62784	63212	-	429		Nucleoside 2-deoxyribosyltransferase	BRE6	clust_1556
+BRE7|SEQ01471	VBIBifBre340732_1471	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621435	1707881	1708309	-	429		Nucleoside 2-deoxyribosyltransferase	BRE7	clust_1556
+BRE8|SEQ01494	VBIBifBre176493_1494	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625594	1749183	1749611	-	429		Nucleoside 2-deoxyribosyltransferase	BRE8	clust_1556
+BRE9|SEQ01558	VBIBifBre30019_1558	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447248	1812730	1813158	-	429		Nucleoside 2-deoxyribosyltransferase	BRE9	clust_1556
+INF1|SEQ01611	VBIBifLon182273_1611	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887236	1843584	1844012	-	429		Nucleoside 2-deoxyribosyltransferase	INF1	clust_1556
+LON1|SEQ01800	VBIBifLon107831_1801	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120766	2172009	2172437	+	429		Nucleoside 2-deoxyribosyltransferase	LON1	clust_1556
+LON2|SEQ01839	VBIBifLon171405_1842	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583309	2198327	2198755	+	429		Nucleoside 2-deoxyribosyltransferase	LON2	clust_1556
+LON3|SEQ01103	VBIBifLon156230_1105	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766078	273146	273574	-	429		Nucleoside 2-deoxyribosyltransferase	LON3	clust_1556
+LON4|SEQ01571	VBIBifLon48544_1571	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891500	1813251	1813679	-	429		Nucleoside 2-deoxyribosyltransferase	LON4	clust_1556

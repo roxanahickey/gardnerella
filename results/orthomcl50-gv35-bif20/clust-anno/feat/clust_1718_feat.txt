@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01432	VBIBifBre340958_1433	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604886	1695796	1696587	-	792		Putative uncharacterized protein	BRE1	clust_1718
+BRE2|SEQ01554	VBIBifBre337368_1554	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609107	1807868	1808659	-	792		Putative uncharacterized protein	BRE2	clust_1718
+BRE3|SEQ01508	VBIBifBre167886_1508	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194766	1766801	1767592	-	792		Putative uncharacterized protein	BRE3	clust_1718
+BRE4|SEQ01479	VBIBifBre327712_1479	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613097	1738489	1739280	-	792		Putative uncharacterized protein	BRE4	clust_1718
+BRE5|SEQ01627	VBIBifBre336369_1628	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617448	1833970	1834761	-	792		Putative uncharacterized protein	BRE5	clust_1718
+BRE6|SEQ00968	VBIBifBre268992_0968	Bifidobacterium breve JCP7499	AWSX01000050	PATRIC	CDS	177655130	63	854	-	792		Putative uncharacterized protein	BRE6	clust_1718
+BRE7|SEQ01504	VBIBifBre340732_1504	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621506	1744672	1745463	-	792		Putative uncharacterized protein	BRE7	clust_1718
+BRE8|SEQ01526	VBIBifBre176493_1526	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625663	1785964	1786755	-	792		Putative uncharacterized protein	BRE8	clust_1718
+BRE9|SEQ01589	VBIBifBre30019_1589	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447315	1849510	1850301	-	792		Putative uncharacterized protein	BRE9	clust_1718
+INF1|SEQ01669	VBIBifLon182273_1669	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887357	1905090	1905890	-	801		Putative uncharacterized protein	INF1	clust_1718
+LON1|SEQ01753	VBIBifLon107831_1754	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120668	2121539	2122339	+	801		Putative uncharacterized protein	LON1	clust_1718
+LON2|SEQ01789	VBIBifLon171405_1792	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583205	2147631	2148431	+	801		Putative uncharacterized protein	LON2	clust_1718
+LON3|SEQ01158	VBIBifLon156230_1160	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766192	334424	335224	-	801		Putative uncharacterized protein	LON3	clust_1718
+LON4|SEQ01618	VBIBifLon48544_1618	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891598	1863408	1864208	-	801		Putative uncharacterized protein	LON4	clust_1718

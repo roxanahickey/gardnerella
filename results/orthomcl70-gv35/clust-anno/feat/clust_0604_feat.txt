@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00146	VBIGarVag247323_0146	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494399	5351	6484	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV01	clust_0604
+GV02|SEQ00006	VBIGarVag242669_0006	Gardnerella vaginalis 00703C2mash	ADEU01000001	PATRIC	CDS	85496766	5478	6611	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV02	clust_0604
+GV03|SEQ00681	VBIGarVag247424_0681	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500786	50893	52017	+	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV03	clust_0604
+GV04|SEQ00835	VBIGarVag246433_0835	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481569	170099	171232	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV04	clust_0604
+GV05|SEQ00751	VBIGarVag174900_0751	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547261	374106	375230	-	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV05	clust_0604
+GV06|SEQ00061	VBIGarVag244004_0061	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488827	65376	66509	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV06	clust_0604
+GV07|SEQ00658	VBIGarVag249177_0658	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492968	37588	38712	+	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV07	clust_0604
+GV08|SEQ00700	VBIGarVag251521_0700	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475826	52762	53886	+	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV08	clust_0604
+GV09|SEQ00695	VBIGarVag169280_0695	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260585	39841	40974	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV09	clust_0604
+GV10|SEQ00491	VBIGarVag136958_0491	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147034	606851	607984	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV10	clust_0604
+GV11|SEQ00976	VBIGarVag171052_0976	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550332	60867	61991	+	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV11	clust_0604
+GV12|SEQ01070	VBIGarVag144721_1070	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854877	58327	59451	-	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV12	clust_0604
+GV13|SEQ01179	VBIGarVag244533_1179	Gardnerella vaginalis 55152	ADEQ01000023	PATRIC	CDS	85488409	16390	17523	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV13	clust_0604
+GV14|SEQ00503	VBIGarVag244375_0503	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502863	143396	144526	-	1131		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV14	clust_0604
+GV15|SEQ01142	VBIGarVag249709_1142	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485885	44417	45547	+	1131		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV15	clust_0604
+GV16|SEQ00629	VBIGarVag246379_0629	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478406	684416	685540	-	1125		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV16	clust_0604
+GV17|SEQ01058	VBIGarVag146634_1058	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852210	234312	235442	+	1131		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV17	clust_0604
+GV18|SEQ00147	VBIGarVag4823_0147	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000059	PATRIC	CDS	42068977	2972	4102	+	1131		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV18	clust_0604
+GV19|SEQ00998	VBIGarVag39333_0999	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628907	1231469	1232599	+	1131	4hbD	NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV19	clust_0604
+GV20|SEQ00562	VBIGarVag188338_0562	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189938	671262	672395	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV20	clust_0604
+GV21|SEQ00422	VBIGarVag274454_0423	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967511	9330	10463	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV21	clust_0604
+GV22|SEQ00323	VBIGarVag276801_0324	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970063	39021	40151	-	1131		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV22	clust_0604
+GV23|SEQ00509	VBIGarVag276017_0509	Gardnerella vaginalis JCP7659	ATJQ01000039	PATRIC	CDS	183973373	5370	6503	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV23	clust_0604
+GV24|SEQ00899	VBIGarVag268944_0900	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183977020	41815	42945	+	1131		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV24	clust_0604
+GV25|SEQ00835	VBIGarVag270495_0835	Gardnerella vaginalis JCP7719	ATJO01000068	PATRIC	CDS	183979645	22084	23217	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV25	clust_0604
+GV26|SEQ00267	VBIGarVag272749_0267	Gardnerella vaginalis JCP8017A	ATJN01000013	PATRIC	CDS	183981298	5966	7099	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV26	clust_0604
+GV27|SEQ00819	VBIGarVag276930_0819	Gardnerella vaginalis JCP8017B	ATJM01000041	PATRIC	CDS	183985435	7708	8841	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV27	clust_0604
+GV28|SEQ01148	VBIGarVag271349_1148	Gardnerella vaginalis JCP8066	ATJL01000175	PATRIC	CDS	183989195	26015	27148	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV28	clust_0604
+GV29|SEQ00718	VBIGarVag265473_0718	Gardnerella vaginalis JCP8070	ATJK01000046	PATRIC	CDS	183990894	26897	28030	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV29	clust_0604
+GV30|SEQ00989	VBIGarVag267667_0991	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994174	31837	32970	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV30	clust_0604
+GV31|SEQ00151	VBIGarVag264983_0151	Gardnerella vaginalis JCP8151A	ATJI01000007	PATRIC	CDS	183995335	29038	30171	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV31	clust_0604
+GV32|SEQ00144	VBIGarVag277040_0144	Gardnerella vaginalis JCP8151B	ATJH01000009	PATRIC	CDS	183998125	28956	30089	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV32	clust_0604
+GV33|SEQ01081	VBIGarVag265557_1081	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003040	17800	18933	-	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV33	clust_0604
+GV34|SEQ01137	VBIGarVag270440_1137	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005980	27196	28329	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV34	clust_0604
+GV35|SEQ00892	VBIGarVag272169_0892	Gardnerella vaginalis JCP8522	ATJE01000095	PATRIC	CDS	184008215	5709	6842	+	1134		NAD-dependent 4-hydroxybutyrate dehydrogenase (EC 1.1.1.61)	GV35	clust_0604

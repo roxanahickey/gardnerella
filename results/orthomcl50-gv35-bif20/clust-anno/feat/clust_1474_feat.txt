@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01738	VBIBifAdo136061_1738	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189847	233633	234376	-	744		Permease of the drug/metabolite transporter (DMT) superfamily	ADO1	clust_1474
+BIF1|SEQ01246	VBIBifBif87902_1246	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885067	1494489	1495481	-	993		Permease of the drug/metabolite transporter (DMT) superfamily	BIF1	clust_1474
+BRE1|SEQ01157	VBIBifBre340958_1157	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604322	1357693	1358640	-	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE1	clust_1474
+BRE2|SEQ01245	VBIBifBre337368_1245	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608472	1431996	1432943	-	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE2	clust_1474
+BRE3|SEQ00667	VBIBifBre167886_0667	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193018	811816	812763	+	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE3	clust_1474
+BRE4|SEQ01188	VBIBifBre327712_1188	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612499	1381424	1382371	-	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE4	clust_1474
+BRE5|SEQ01309	VBIBifBre336369_1310	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616797	1459620	1460567	-	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE5	clust_1474
+BRE6|SEQ01872	VBIBifBre268992_1872	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657056	52332	53285	-	954		Permease of the drug/metabolite transporter (DMT) superfamily	BRE6	clust_1474
+BRE7|SEQ01197	VBIBifBre340732_1197	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620878	1381404	1382351	-	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE7	clust_1474
+BRE8|SEQ01226	VBIBifBre176493_1226	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625046	1430607	1431554	-	948		Permease of the drug/metabolite transporter (DMT) superfamily	BRE8	clust_1474
+BRE9|SEQ01282	VBIBifBre30019_1282	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446687	1486813	1487784	-	972		Permease of the drug/metabolite transporter (DMT) superfamily	BRE9	clust_1474
+INF1|SEQ01268	VBIBifLon182273_1268	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886539	1427882	1428898	-	1017		Permease of the drug/metabolite transporter (DMT) superfamily	INF1	clust_1474
+LON1|SEQ00264	VBIBifLon107831_0264	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117565	315434	316237	+	804		Permease of the drug/metabolite transporter (DMT) superfamily	LON1	clust_1474
+LON2|SEQ00305	VBIBifLon171405_0306	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580113	357894	358934	+	1041	rhtA1	Permease of the drug/metabolite transporter (DMT) superfamily	LON2	clust_1474
+LON3|SEQ01993	VBIBifLon156230_1996	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767178	929805	930845	+	1041		Permease of the drug/metabolite transporter (DMT) superfamily	LON3	clust_1474
+LON4|SEQ01243	VBIBifLon48544_1243	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890828	1402477	1403493	-	1017		Permease of the drug/metabolite transporter (DMT) superfamily	LON4	clust_1474
+THE1|SEQ00710	VBIBifThe274299_0710	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734600	898909	899964	-	1056		Permease of the drug/metabolite transporter (DMT) superfamily	THE1	clust_1474

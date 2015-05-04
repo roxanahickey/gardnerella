@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01246	VBIBifAdo136061_1246	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188833	171482	172726	+	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	ADO1	clust_1403
+ANI1|SEQ00903	VBIBifAni240121_0903	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846780	1049431	1050678	+	1248		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	ANI1	clust_1403
+ANI2|SEQ00902	VBIBifAni235968_0902	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850131	1049434	1050681	+	1248		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	ANI2	clust_1403
+ANI3|SEQ00905	VBIBifAni108068_0905	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764145	1049435	1050682	+	1248	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	ANI3	clust_1403
+BIF1|SEQ00811	VBIBifBif87902_0811	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884169	992199	993446	-	1248	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BIF1	clust_1403
+BRE1|SEQ00870	VBIBifBre340958_0870	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603724	1035479	1036723	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE1	clust_1403
+BRE2|SEQ00952	VBIBifBre337368_0952	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607860	1117317	1118561	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE2	clust_1403
+BRE3|SEQ00926	VBIBifBre167886_0926	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193564	1094975	1096219	+	1245	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE3	clust_1403
+BRE4|SEQ00902	VBIBifBre327712_0902	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611903	1073226	1074470	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE4	clust_1403
+BRE5|SEQ00921	VBIBifBre336369_0922	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615989	1075681	1076925	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE5	clust_1403
+BRE6|SEQ00760	VBIBifBre268992_0760	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS	177654690	21560	22804	+	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE6	clust_1403
+BRE7|SEQ00902	VBIBifBre340732_0902	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620261	1065208	1066452	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE7	clust_1403
+BRE8|SEQ00932	VBIBifBre176493_0932	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624430	1111585	1112829	-	1245	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE8	clust_1403
+BRE9|SEQ00985	VBIBifBre30019_0985	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446066	1164785	1166029	-	1245	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	BRE9	clust_1403
+INF1|SEQ00814	VBIBifLon182273_0814	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885597	988718	989962	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	INF1	clust_1403
+LON1|SEQ00559	VBIBifLon107831_0560	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118175	649991	651235	+	1245	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	LON1	clust_1403
+LON2|SEQ00619	VBIBifLon171405_0620	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580764	685159	686403	+	1245	glgC	Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	LON2	clust_1403
+LON3|SEQ00426	VBIBifLon156230_0426	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767804	1260450	1261694	+	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	LON3	clust_1403
+LON4|SEQ00786	VBIBifLon48544_0786	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889843	946064	947308	-	1245		Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	LON4	clust_1403

@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01434	27189224	VBIBifAdo136061_1434	SEQ01434	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Phage major capsid protein	FIG00016372	figfam	clust_2278
+BRE6|SEQ01026	177655257	VBIBifBre268992_1026	SEQ01026	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000053	PATRIC	CDS		Phage major capsid protein	FIG00016372	figfam	clust_2278
+BRE9|SEQ00356	58444762	VBIBifBre30019_0356	SEQ00356	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Phage major capsid protein	FIG00016372	figfam	clust_2278
+GV26|SEQ00063	183980861	VBIGarVag272749_0063	SEQ00063	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	NA	Phage major capsid protein	FIG00016372	figfam	clust_2278
+GV27|SEQ00080	183983871	VBIGarVag276930_0080	SEQ00080	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	NA	Phage major capsid protein	FIG00016372	figfam	clust_2278
+GV31|SEQ00966	183997083	VBIGarVag264983_0966	SEQ00966	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	NA	Phage major capsid protein	FIG00016372	figfam	clust_2278
+GV32|SEQ00775	183999481	VBIGarVag277040_0775	SEQ00775	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	NA	Phage major capsid protein	FIG00016372	figfam	clust_2278
+LON3|SEQ01206	42769007	VBIBifLon156230_1208	SEQ01206	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Phage major capsid protein	FIG00016372	figfam	clust_2278

@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01359	VBIBifAdo136061_1359	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189070	7980	9161	+	1182		Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	ADO1	clust_2897
+DEN1|SEQ00954	VBIBifDen165269_0955	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459031	92549	93607	-	1059	rgpAc	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	DEN1	clust_2897
+DEN2|SEQ01513	VBIBifDen39005_1514	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111415	131955	133178	+	1224		Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	DEN2	clust_2897
+LON1|SEQ00969	VBIBifLon107831_0970	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119015	1143425	1144630	-	1206	cpsF	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	LON1	clust_2897
+LON4|SEQ00377	VBIBifLon48544_0377	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888992	466238	467446	+	1209		Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase (EC 2.4.1.-)	LON4	clust_2897

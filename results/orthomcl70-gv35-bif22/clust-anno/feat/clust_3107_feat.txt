@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00072	VBIBifBif87902_0072	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882642	90258	90602	-	345		IS1557 family transposase	BIF1	clust_3107
+BRE6|SEQ01326	VBIBifBre268992_1326	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655885	47371	47973	+	603		Transposase and inactivated derivatives	BRE6	clust_3107
+INF1|SEQ01253	VBIBifLon182273_1253	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886509	1410791	1410970	+	180		hypothetical protein	INF1	clust_3107
+LON4|SEQ01228	VBIBifLon48544_1228	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890797	1385386	1385565	+	180		hypothetical protein	LON4	clust_3107

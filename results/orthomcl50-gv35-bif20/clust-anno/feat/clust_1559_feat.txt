@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01749	VBIBifAdo136061_1749	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189869	246807	247199	+	393		Lactoylglutathione lyase and related lyases	ADO1	clust_1559
+BIF1|SEQ01275	VBIBifBif87902_1275	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885128	1536603	1536980	-	378		COG0346: Lactoylglutathione lyase and related lyases	BIF1	clust_1559
+BRE1|SEQ00814	VBIBifBre340958_0814	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603612	976714	977076	-	363		lactoylglutathione lyase	BRE1	clust_1559
+BRE2|SEQ00895	VBIBifBre337368_0895	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607746	1058779	1059141	-	363		lactoylglutathione lyase	BRE2	clust_1559
+BRE4|SEQ00842	VBIBifBre327712_0842	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611783	1015194	1015556	-	363		lactoylglutathione lyase	BRE4	clust_1559
+BRE5|SEQ00847	VBIBifBre336369_0848	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615839	1000195	1000557	-	363		lactoylglutathione lyase	BRE5	clust_1559
+BRE6|SEQ00817	VBIBifBre268992_0817	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654806	27033	27395	+	363		lactoylglutathione lyase	BRE6	clust_1559
+BRE7|SEQ00844	VBIBifBre340732_0844	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620145	1007220	1007582	-	363		lactoylglutathione lyase	BRE7	clust_1559
+BRE8|SEQ00874	VBIBifBre176493_0874	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624314	1052994	1053356	-	363		lactoylglutathione lyase	BRE8	clust_1559
+BRE9|SEQ00929	VBIBifBre30019_0929	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445954	1106191	1106553	-	363		lactoylglutathione lyase	BRE9	clust_1559
+INF1|SEQ00780	VBIBifLon182273_0780	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885529	952800	953201	+	402		Lactoylglutathione lyase and related lyases	INF1	clust_1559
+LON1|SEQ00593	VBIBifLon107831_0594	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118243	686543	686944	-	402		Lactoylglutathione lyase and related lyases	LON1	clust_1559
+LON2|SEQ00653	VBIBifLon171405_0654	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580832	721919	722320	-	402		Lactoylglutathione lyase and related lyases	LON2	clust_1559
+LON3|SEQ00460	VBIBifLon156230_0460	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767872	1297211	1297612	-	402		Lactoylglutathione lyase and related lyases	LON3	clust_1559
+LON4|SEQ00752	VBIBifLon48544_0752	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889775	910146	910547	+	402		Lactoylglutathione lyase and related lyases	LON4	clust_1559
+THE1|SEQ01297	VBIBifThe274299_1297	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735820	1610578	1610982	+	405		Lactoylglutathione lyase and related lyases	THE1	clust_1559

@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE1|SEQ01381	268604779	VBIBifBre340958_1382	SEQ01381	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	NA	GCN5-related N-acetyltransferase	GO:0008080	N-acetyltransferase activity	go	clust_2814
+BRE4|SEQ01422	268612978	VBIBifBre327712_1422	SEQ01422	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	NA	GCN5-related N-acetyltransferase	GO:0008080	N-acetyltransferase activity	go	clust_2814
+BRE5|SEQ01547	268617283	VBIBifBre336369_1548	SEQ01547	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	NA	GCN5-related N-acetyltransferase	GO:0008080	N-acetyltransferase activity	go	clust_2814
+LON1|SEQ01822	21120810	VBIBifLon107831_1823	SEQ01822	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	GCN5-related N-acetyltransferase	GO:0008080	N-acetyltransferase activity	go	clust_2814
+LON4|SEQ01548	46891454	VBIBifLon48544_1548	SEQ01548	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	GCN5-related N-acetyltransferase	GO:0008080	N-acetyltransferase activity	go	clust_2814

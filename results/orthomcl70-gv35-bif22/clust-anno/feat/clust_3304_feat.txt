@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ00393	VBIGarVag144721_0393	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853463	409440	409583	-	144		hypothetical protein	GV12	clust_3304
+GV15|SEQ00968	VBIGarVag249709_0968	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485516	152519	152638	-	120		hypothetical protein	GV15	clust_3304
+GV17|SEQ01142	VBIGarVag146634_1142	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852383	90574	90693	-	120		Peptidyl-prolyl cis-trans isomerase PpiC (EC 5.2.1.8)	GV17	clust_3304

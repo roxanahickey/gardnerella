@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ00667	VBIGarVag144721_0667	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854031	196543	197376	-	834		phage integrase family protein	GV12	clust_1687
+GV18|SEQ00358	VBIGarVag4823_0358	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000090	PATRIC	CDS	42069437	8633	9529	-	897		phage integrase family protein	GV18	clust_1687
+GV19|SEQ00010	VBIGarVag39333_0010	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626854	9188	10021	+	834		phage integrase family protein	GV19	clust_1687
+GV20|SEQ00126	VBIGarVag188338_0126	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189036	154920	155753	-	834		phage integrase family protein	GV20	clust_1687

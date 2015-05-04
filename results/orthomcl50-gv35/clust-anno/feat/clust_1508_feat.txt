@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00384	VBIGarVag244004_0384	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489511	52698	53252	-	555		6-phospho-3-hexuloisomerase	GV06	clust_1508
+GV16|SEQ00391	VBIGarVag246379_0391	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477916	359161	359715	+	555		6-phospho-3-hexuloisomerase	GV16	clust_1508
+GV18|SEQ00071	VBIGarVag4823_0071	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000039	PATRIC	CDS	42068805	225	779	-	555		6-phospho-3-hexuloisomerase	GV18	clust_1508
+GV19|SEQ01218	VBIGarVag39333_1220	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629359	1536749	1537303	-	555		6-phospho-3-hexuloisomerase	GV19	clust_1508
+GV20|SEQ00276	VBIGarVag188338_0276	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189353	314363	314917	+	555		6-phospho-3-hexuloisomerase	GV20	clust_1508
+GV30|SEQ00006	VBIGarVag267667_0006	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992048	6352	6906	-	555		6-phospho-3-hexuloisomerase	GV30	clust_1508

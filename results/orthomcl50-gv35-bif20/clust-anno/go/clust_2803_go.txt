@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BIF1|SEQ01290	86885158	VBIBifBif87902_1290	SEQ01290	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	LSU ribosomal protein L32p	GO:0003735	structural constituent of ribosome	go	clust_2803
+BIF1|SEQ01290	86885158	VBIBifBif87902_1290	SEQ01290	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	LSU ribosomal protein L32p	GO:0015934	large ribosomal subunit	go	clust_2803
+BIF1|SEQ01290	86885158	VBIBifBif87902_1290	SEQ01290	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	LSU ribosomal protein L32p	GO:0006412	translation	go	clust_2803

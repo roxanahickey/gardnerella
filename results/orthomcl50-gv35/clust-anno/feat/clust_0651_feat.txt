@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00177	VBIGarVag247323_0177	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494461	46668	48035	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV01	clust_0651
+GV02|SEQ00449	VBIGarVag242669_0449	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497687	36837	38204	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV02	clust_0651
+GV03|SEQ00751	VBIGarVag247424_0751	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500931	28888	30255	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV03	clust_0651
+GV04|SEQ01298	VBIGarVag246433_1298	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482536	50752	52122	-	1371		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV04	clust_0651
+GV05|SEQ00803	VBIGarVag174900_0803	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547370	455620	456987	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV05	clust_0651
+GV06|SEQ00859	VBIGarVag244004_0859	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490523	221124	222509	+	1386		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV06	clust_0651
+GV07|SEQ00563	VBIGarVag249177_0563	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492773	39015	40382	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV07	clust_0651
+GV08|SEQ00419	VBIGarVag251521_0419	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475244	268868	270238	+	1371		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV08	clust_0651
+GV09|SEQ00391	VBIGarVag169280_0391	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259949	86167	87534	-	1368	aroA	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV09	clust_0651
+GV10|SEQ00549	VBIGarVag136958_0549	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147154	689796	691181	+	1386	aroA	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV10	clust_0651
+GV11|SEQ01290	VBIGarVag171052_1290	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551008	58749	60116	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV11	clust_0651
+GV12|SEQ01177	VBIGarVag144721_1177	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855182	28254	29639	+	1386		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV12	clust_0651
+GV13|SEQ00736	VBIGarVag244533_0736	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487457	192043	193419	-	1377		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV13	clust_0651
+GV14|SEQ00266	VBIGarVag244375_0266	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502372	77197	78564	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV14	clust_0651
+GV15|SEQ00607	VBIGarVag249709_0607	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484757	35615	37000	+	1386		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV15	clust_0651
+GV16|SEQ01041	VBIGarVag246379_1041	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479261	1203175	1204551	-	1377		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV16	clust_0651
+GV17|SEQ01002	VBIGarVag146634_1002	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852094	151376	152737	-	1362		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV17	clust_0651
+GV18|SEQ01171	VBIGarVag4823_1171	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071177	19366	20748	+	1383		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV18	clust_0651
+GV19|SEQ00570	VBIGarVag39333_0571	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628023	708562	709932	+	1371	aroA	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV19	clust_0651
+GV20|SEQ00952	VBIGarVag188338_0952	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190749	1175825	1177195	-	1371	aroA	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV20	clust_0651
+GV21|SEQ00829	VBIGarVag274454_0830	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968393	22472	23848	+	1377		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV21	clust_0651
+GV22|SEQ00846	VBIGarVag276801_0847	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971173	368	1738	-	1371		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV22	clust_0651
+GV23|SEQ00416	VBIGarVag276017_0416	Gardnerella vaginalis JCP7659	ATJQ01000027	PATRIC	CDS	183973165	22506	23873	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV23	clust_0651
+GV24|SEQ00758	VBIGarVag268944_0759	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976709	10133	11503	-	1371		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV24	clust_0651
+GV25|SEQ00254	VBIGarVag270495_0254	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978395	3613	4980	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV25	clust_0651
+GV26|SEQ00101	VBIGarVag272749_0101	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980937	37964	39331	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV26	clust_0651
+GV27|SEQ00043	VBIGarVag276930_0043	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983797	22855	24222	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV27	clust_0651
+GV28|SEQ00489	VBIGarVag271349_0489	Gardnerella vaginalis JCP8066	ATJL01000029	PATRIC	CDS	183987675	8343	9722	-	1380		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV28	clust_0651
+GV29|SEQ01051	VBIGarVag265473_1051	Gardnerella vaginalis JCP8070	ATJK01000105	PATRIC	CDS	183991631	14248	15615	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV29	clust_0651
+GV30|SEQ00398	VBIGarVag267667_0399	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992868	5387	6772	-	1386		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV30	clust_0651
+GV31|SEQ00085	VBIGarVag264983_0085	Gardnerella vaginalis JCP8151A	ATJI01000003	PATRIC	CDS	183995197	22268	23635	+	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV31	clust_0651
+GV32|SEQ00010	VBIGarVag277040_0010	Gardnerella vaginalis JCP8151B	ATJH01000002	PATRIC	CDS	183997841	10311	11678	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV32	clust_0651
+GV33|SEQ00739	VBIGarVag265557_0739	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002254	25798	27240	+	1443		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV33	clust_0651
+GV34|SEQ00680	VBIGarVag270440_0680	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184004975	25798	27240	+	1443		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV34	clust_0651
+GV35|SEQ00436	VBIGarVag272169_0436	Gardnerella vaginalis JCP8522	ATJE01000025	PATRIC	CDS	184007187	4698	6065	-	1368		5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)	GV35	clust_0651

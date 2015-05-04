@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00619	VBIBifAdo136061_0619	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187522	490162	491349	+	1188		Capsule biosynthesis protein capA	ADO1	clust_1516
+BIF1|SEQ01538	VBIBifBif87902_1538	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885682	1846908	1848251	-	1344	capA	Capsule biosynthesis protein capA	BIF1	clust_1516
+BRE1|SEQ01620	VBIBifBre340958_1621	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605280	1892988	1893962	-	975		Capsule biosynthesis protein capA	BRE1	clust_1516
+BRE2|SEQ01728	VBIBifBre337368_1728	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609472	1995522	1996496	-	975		Capsule biosynthesis protein capA	BRE2	clust_1516
+BRE3|SEQ01681	VBIBifBre167886_1681	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195128	1952768	1953706	-	939		Capsule biosynthesis protein capA	BRE3	clust_1516
+BRE4|SEQ01662	VBIBifBre327712_1662	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613481	1927674	1928648	-	975		Capsule biosynthesis protein capA	BRE4	clust_1516
+BRE5|SEQ01783	VBIBifBre336369_1784	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617776	1998408	1999166	-	759		Capsule biosynthesis protein capA	BRE5	clust_1516
+BRE6|SEQ01407	VBIBifBre268992_1407	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656064	17158	18132	+	975		Capsule biosynthesis protein capA	BRE6	clust_1516
+BRE7|SEQ01709	VBIBifBre340732_1709	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621932	1964209	1965183	-	975		Capsule biosynthesis protein capA	BRE7	clust_1516
+BRE8|SEQ01666	VBIBifBre176493_1666	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625958	1937592	1938566	-	975		Capsule biosynthesis protein capA	BRE8	clust_1516
+BRE9|SEQ01773	VBIBifBre30019_1773	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447700	2041650	2042354	-	705		Capsule biosynthesis protein capA	BRE9	clust_1516
+DEN1|SEQ00290	VBIBifDen165269_0291	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461851	1650465	1651997	-	1533		Capsule biosynthesis protein capA	DEN1	clust_1516
+DEN2|SEQ02233	VBIBifDen39005_2236	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112923	153599	155131	+	1533		Capsule biosynthesis protein capA	DEN2	clust_1516
+INF1|SEQ01802	VBIBifLon182273_1802	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887640	2047936	2049279	-	1344		Capsule biosynthesis protein capA	INF1	clust_1516
+LON1|SEQ01622	VBIBifLon107831_1623	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120392	1979775	1981118	+	1344		Capsule biosynthesis protein capA	LON1	clust_1516
+LON2|SEQ01657	VBIBifLon171405_1660	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582927	2003546	2004889	+	1344		Capsule biosynthesis protein capA	LON2	clust_1516
+LON3|SEQ01667	VBIBifLon156230_1670	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766508	507874	509217	-	1344		Capsule biosynthesis protein capA	LON3	clust_1516
+LON4|SEQ01751	VBIBifLon48544_1751	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891883	2008380	2009723	-	1344		Capsule biosynthesis protein capA	LON4	clust_1516

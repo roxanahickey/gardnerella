@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00630	VBIBifBif87902_0630	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883797	773899	774087	+	189	cspA	Cold shock protein CspA	BIF1	clust_1792
+BRE1|SEQ01332	VBIBifBre340958_1333	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604681	1570628	1570867	-	240		Cold shock protein CspG	BRE1	clust_1792
+BRE3|SEQ00492	VBIBifBre167886_0492	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192659	599471	599710	+	240	cspA	Cold shock protein CspG	BRE3	clust_1792
+BRE5|SEQ01496	VBIBifBre336369_1497	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617181	1681787	1682026	-	240		Cold shock protein CspG	BRE5	clust_1792
+BRE6|SEQ00257	VBIBifBre268992_0257	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653625	34977	35216	-	240		Cold shock protein CspG	BRE6	clust_1792
+BRE7|SEQ01379	VBIBifBre340732_1379	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621251	1598246	1598485	-	240		Cold shock protein CspG	BRE7	clust_1792
+BRE9|SEQ01463	VBIBifBre30019_1463	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447058	1701391	1701630	-	240	cspA	Cold shock protein CspG	BRE9	clust_1792
+INF1|SEQ01532	VBIBifLon182273_1532	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887078	1745737	1745976	-	240		Cold shock protein CspG	INF1	clust_1792
+LON1|SEQ00001	VBIBifLon107831_0001	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117029	49	288	+	240	cspA	Cold shock protein CspG	LON1	clust_1792
+LON2|SEQ00042	VBIBifLon171405_0042	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579577	43710	43949	+	240	cspC1	Cold shock protein CspG	LON2	clust_1792
+LON3|SEQ01031	VBIBifLon156230_1033	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765933	184334	184573	-	240		Cold shock protein CspG	LON3	clust_1792
+LON4|SEQ01504	VBIBifLon48544_1504	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891364	1721992	1722231	-	240		Cold shock protein CspG	LON4	clust_1792
+THE1|SEQ01125	VBIBifThe274299_1125	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735467	1404099	1404311	-	213		Cold shock protein CspA	THE1	clust_1792

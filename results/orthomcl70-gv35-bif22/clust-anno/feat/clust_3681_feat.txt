@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00954	VBIBifAni240121_0954	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846884	1099248	1099820	-	573		DNA topology modulation protein	ANI1	clust_3681
+ANI2|SEQ00953	VBIBifAni235968_0953	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850235	1099251	1099823	-	573		DNA topology modulation protein	ANI2	clust_3681
+ANI3|SEQ00957	VBIBifAni108068_0957	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764249	1099252	1099824	-	573		DNA topology modulation protein	ANI3	clust_3681

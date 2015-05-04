@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01118	VBIGarVag247323_1118	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496437	124578	127889	+	3312		putative glycosyl transferase domain protein	GV01	clust_0061
+GV02|SEQ00319	VBIGarVag242669_0319	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497414	121527	124838	-	3312		putative glycosyl transferase domain protein	GV02	clust_0061
+GV03|SEQ00658	VBIGarVag247424_0658	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500740	17153	20548	-	3396		putative glycosyl transferase domain protein	GV03	clust_0061
+GV04|SEQ00845	VBIGarVag246433_0845	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481589	180998	184297	+	3300		putative glycosyl transferase domain protein	GV04	clust_0061
+GV05|SEQ00774	VBIGarVag174900_0774	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547307	405577	408972	+	3396		putative glycosyl transferase domain protein	GV05	clust_0061
+GV06|SEQ00071	VBIGarVag244004_0071	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488847	76275	79574	+	3300		putative glycosyl transferase domain protein	GV06	clust_0061
+GV07|SEQ00635	VBIGarVag249177_0635	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492922	3880	7275	-	3396		putative glycosyl transferase domain protein	GV07	clust_0061
+GV08|SEQ00690	VBIGarVag251521_0690	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475806	39798	43097	-	3300		putative glycosyl transferase domain protein	GV08	clust_0061
+GV09|SEQ00704	VBIGarVag169280_0704	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260603	49911	53210	+	3300		putative glycosyl transferase domain protein	GV09	clust_0061
+GV10|SEQ00518	VBIGarVag136958_0518	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147088	644347	647748	+	3402		putative glycosyl transferase domain protein	GV10	clust_0061
+GV11|SEQ00967	VBIGarVag171052_0967	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550314	47769	51068	-	3300		putative glycosyl transferase domain protein	GV11	clust_0061
+GV12|SEQ01096	VBIGarVag144721_1096	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854929	92904	96305	+	3402		putative glycosyl transferase domain protein	GV12	clust_0061
+GV13|SEQ00879	VBIGarVag244533_0879	Gardnerella vaginalis 55152	ADEQ01000011	PATRIC	CDS	85487759	8985	12284	-	3300		putative glycosyl transferase domain protein	GV13	clust_0061
+GV14|SEQ00237	VBIGarVag244375_0237	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502309	30577	33972	+	3396		putative glycosyl transferase domain protein	GV14	clust_0061
+GV15|SEQ01118	VBIGarVag249709_1118	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485837	9172	12573	-	3402		putative glycosyl transferase domain protein	GV15	clust_0061
+GV16|SEQ00641	VBIGarVag246379_0641	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478431	696024	699323	+	3300		putative glycosyl transferase domain protein	GV16	clust_0061
+GV17|SEQ01034	VBIGarVag146634_1034	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852162	197500	200799	-	3300		putative glycosyl transferase domain protein	GV17	clust_0061
+GV18|SEQ00749	VBIGarVag4823_0749	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000124	PATRIC	CDS	42070287	19351	22650	-	3300		putative glycosyl transferase domain protein	GV18	clust_0061
+GV19|SEQ00985	VBIGarVag39333_0986	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628881	1217703	1219466	-	1764		putative glycosyl transferase domain protein	GV19	clust_0061
+GV19|SEQ00986	VBIGarVag39333_0987	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628883	1219543	1221003	-	1461		putative glycosyl transferase domain protein	GV19	clust_0061
+GV20|SEQ00572	VBIGarVag188338_0572	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189958	681332	684631	+	3300		putative glycosyl transferase domain protein	GV20	clust_0061
+GV21|SEQ00431	VBIGarVag274454_0432	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967529	20248	23547	+	3300		putative glycosyl transferase domain protein	GV21	clust_0061
+GV22|SEQ00334	VBIGarVag276801_0335	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970085	50637	53936	+	3300		putative glycosyl transferase domain protein	GV22	clust_0061
+GV23|SEQ00560	VBIGarVag276017_0560	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973479	20045	23356	-	3312		putative glycosyl transferase domain protein	GV23	clust_0061
+GV24|SEQ00889	VBIGarVag268944_0890	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183977000	28043	31342	-	3300		putative glycosyl transferase domain protein	GV24	clust_0061
+GV25|SEQ00535	VBIGarVag270495_0535	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183979006	19553	22864	-	3312		putative glycosyl transferase domain protein	GV25	clust_0061
+GV26|SEQ01205	VBIGarVag272749_1205	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983354	19488	22799	+	3312		putative glycosyl transferase domain protein	GV26	clust_0061
+GV27|SEQ00228	VBIGarVag276930_0228	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984183	19480	22791	-	3312		putative glycosyl transferase domain protein	GV27	clust_0061
+GV28|SEQ00067	VBIGarVag271349_0067	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986786	17915	21226	+	3312		putative glycosyl transferase domain protein	GV28	clust_0061
+GV29|SEQ00503	VBIGarVag265473_0503	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990418	17693	21004	+	3312		putative glycosyl transferase domain protein	GV29	clust_0061
+GV30|SEQ00979	VBIGarVag267667_0981	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994154	18752	22051	-	3300		putative glycosyl transferase domain protein	GV30	clust_0061
+GV31|SEQ00051	VBIGarVag264983_0051	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995123	18085	21396	+	3312		putative glycosyl transferase domain protein	GV31	clust_0061
+GV32|SEQ00699	VBIGarVag277040_0699	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999316	20290	23601	-	3312		putative glycosyl transferase domain protein	GV32	clust_0061
+GV33|SEQ00397	VBIGarVag265557_0397	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001516	12773	16177	-	3405		putative glycosyl transferase domain protein	GV33	clust_0061
+GV34|SEQ00074	VBIGarVag270440_0074	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003640	20172	23576	-	3405		putative glycosyl transferase domain protein	GV34	clust_0061
+GV35|SEQ01020	VBIGarVag272169_1020	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008525	18355	21666	-	3312		putative glycosyl transferase domain protein	GV35	clust_0061
+ADO1|SEQ01306	VBIBifAdo136061_1306	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188957	247320	250337	-	3018		putative glycosyl transferase domain protein	ADO1	clust_0061
+ANI1|SEQ00990	VBIBifAni240121_0990	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846960	1144638	1147733	-	3096		putative glycosyl transferase domain protein	ANI1	clust_0061
+ANI2|SEQ00990	VBIBifAni235968_0990	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850313	1144641	1147736	-	3096		putative glycosyl transferase domain protein	ANI2	clust_0061
+ANI3|SEQ00994	VBIBifAni108068_0994	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764327	1144642	1147737	-	3096		putative glycosyl transferase domain protein	ANI3	clust_0061
+BIF1|SEQ00717	VBIBifBif87902_0717	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883974	879494	882643	+	3150		putative glycosyl transferase domain protein	BIF1	clust_0061
+BRE1|SEQ00684	VBIBifBre340958_0684	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603335	827921	831013	+	3093		putative glycosyl transferase domain protein	BRE1	clust_0061
+BRE2|SEQ00780	VBIBifBre337368_0780	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607497	924744	927836	+	3093		putative glycosyl transferase domain protein	BRE2	clust_0061
+BRE3|SEQ01091	VBIBifBre167886_1091	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193913	1278778	1281870	-	3093		putative glycosyl transferase domain protein	BRE3	clust_0061
+BRE4|SEQ00719	VBIBifBre327712_0719	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611519	868918	872010	+	3093		putative glycosyl transferase domain protein	BRE4	clust_0061
+BRE5|SEQ00735	VBIBifBre336369_0736	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615597	866200	869292	+	3093		putative glycosyl transferase domain protein	BRE5	clust_0061
+BRE6|SEQ00669	VBIBifBre268992_0669	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654502	35054	38146	-	3093		putative glycosyl transferase domain protein	BRE6	clust_0061
+BRE7|SEQ00729	VBIBifBre340732_0729	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619897	872020	875112	+	3093		putative glycosyl transferase domain protein	BRE7	clust_0061
+BRE8|SEQ00751	VBIBifBre176493_0751	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624050	912881	915973	+	3093		putative glycosyl transferase domain protein	BRE8	clust_0061
+BRE9|SEQ00802	VBIBifBre30019_0802	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445681	960443	963535	+	3093		putative glycosyl transferase domain protein	BRE9	clust_0061
+INF1|SEQ00647	VBIBifLon182273_0647	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885243	794848	797943	+	3096		putative glycosyl transferase domain protein	INF1	clust_0061
+LON1|SEQ00709	VBIBifLon107831_0710	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118489	826432	829260	-	2829		putative glycosyl transferase domain protein	LON1	clust_0061
+LON2|SEQ00775	VBIBifLon171405_0776	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581090	867427	870522	-	3096		putative glycosyl transferase domain protein	LON2	clust_0061
+LON3|SEQ00580	VBIBifLon156230_0580	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768127	1442045	1445140	-	3096		putative glycosyl transferase domain protein	LON3	clust_0061
+LON4|SEQ00640	VBIBifLon48544_0640	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889530	773441	776536	+	3096		putative glycosyl transferase domain protein	LON4	clust_0061
+THE1|SEQ00853	VBIBifThe274299_0853	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734892	1062531	1065677	+	3147		putative glycosyl transferase domain protein	THE1	clust_0061

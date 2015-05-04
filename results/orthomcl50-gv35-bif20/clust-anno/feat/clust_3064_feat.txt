@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00452	VBIBifAni240121_0452	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845836	534588	535958	-	1371		Mannose-6-phosphate isomerase (EC 5.3.1.8)	ANI1	clust_3064
+ANI2|SEQ00452	VBIBifAni235968_0452	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849191	534590	535960	-	1371		Mannose-6-phosphate isomerase (EC 5.3.1.8)	ANI2	clust_3064
+ANI3|SEQ00454	VBIBifAni108068_0454	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763204	534591	535961	-	1371		Mannose-6-phosphate isomerase (EC 5.3.1.8)	ANI3	clust_3064
+THE1|SEQ01355	VBIBifThe274299_1355	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735944	1682717	1684150	-	1434		Mannose-6-phosphate isomerase (EC 5.3.1.8)	THE1	clust_3064

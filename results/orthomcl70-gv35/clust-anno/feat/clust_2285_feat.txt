@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00039	VBIGarVag246433_0039	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479914	34008	35888	-	1881		Alpha-glucosidase (EC 3.2.1.20)	GV04	clust_2285
+GV16|SEQ00337	VBIGarVag246379_0337	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477806	304571	306451	+	1881		Alpha-glucosidase (EC 3.2.1.20)	GV16	clust_2285

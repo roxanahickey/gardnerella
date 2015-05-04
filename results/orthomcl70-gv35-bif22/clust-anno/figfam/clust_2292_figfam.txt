@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE7|SEQ01601	268621709	VBIBifBre340732_1601	SEQ01601	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2292
+GV22|SEQ00045	183969467	VBIGarVag276801_0045	SEQ00045	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2292
+INF1|SEQ00931	46885841	VBIBifLon182273_0931	SEQ00931	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00424523: hypothetical protein	FIG01322249	figfam	clust_2292
+LON1|SEQ00528	21118111	VBIBifLon107831_0529	SEQ00528	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00424523: hypothetical protein	FIG01322249	figfam	clust_2292
+LON2|SEQ00590	42580704	VBIBifLon171405_0591	SEQ00590	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00424523: hypothetical protein	FIG01322249	figfam	clust_2292
+LON3|SEQ00397	42767744	VBIBifLon156230_0397	SEQ00397	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00424523: hypothetical protein	FIG01322249	figfam	clust_2292
+LON4|SEQ00815	46889903	VBIBifLon48544_0815	SEQ00815	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00424523: hypothetical protein	FIG01322249	figfam	clust_2292
+THE1|SEQ00132	124733427	VBIBifThe274299_0132	SEQ00132	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2292

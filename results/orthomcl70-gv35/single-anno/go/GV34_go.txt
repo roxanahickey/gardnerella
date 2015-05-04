@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV34|SEQ01198	184006126	VBIGarVag270440_1198	SEQ01198	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0003735	structural constituent of ribosome	go	NA
+GV34|SEQ01198	184006126	VBIGarVag270440_1198	SEQ01198	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005840	ribosome	go	NA
+GV34|SEQ01198	184006126	VBIGarVag270440_1198	SEQ01198	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005622	intracellular	go	NA
+GV34|SEQ01198	184006126	VBIGarVag270440_1198	SEQ01198	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0006412	translation	go	NA

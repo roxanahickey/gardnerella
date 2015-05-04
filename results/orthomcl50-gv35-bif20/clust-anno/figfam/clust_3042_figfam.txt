@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01681	27189733	VBIBifAdo136061_1681	SEQ01681	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		FIG00512164: hypothetical protein	FIG00512163	figfam	clust_3042
+BRE8|SEQ01129	268624846	VBIBifBre176493_1129	SEQ01129	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		FIG00512164: hypothetical protein	FIG00512163	figfam	clust_3042
+LON1|SEQ00348	21117737	VBIBifLon107831_0348	SEQ00348	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00512164: hypothetical protein	FIG00512163	figfam	clust_3042
+LON3|SEQ00214	42767361	VBIBifLon156230_0214	SEQ00214	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00512164: hypothetical protein	FIG00512163	figfam	clust_3042

@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00289	VBIBifBre340958_0289	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602520	365224	366516	-	1293		Putative regulatory protein	BRE1	clust_1596
+BRE1|SEQ00810	VBIBifBre340958_0810	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603604	973333	974676	+	1344		Putative regulatory protein	BRE1	clust_1596
+BRE2|SEQ00351	VBIBifBre337368_0351	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606618	420084	421376	-	1293		Putative regulatory protein	BRE2	clust_1596
+BRE2|SEQ00891	VBIBifBre337368_0891	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607738	1055396	1056739	+	1344		Putative regulatory protein	BRE2	clust_1596
+BRE3|SEQ00340	VBIBifBre167886_0340	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192345	424382	425674	-	1293		Putative regulatory protein	BRE3	clust_1596
+BRE4|SEQ00838	VBIBifBre327712_0838	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611775	1011798	1013141	+	1344		Putative regulatory protein	BRE4	clust_1596
+BRE5|SEQ00840	VBIBifBre336369_0841	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615825	994540	995883	+	1344		Putative regulatory protein	BRE5	clust_1596
+BRE6|SEQ00476	VBIBifBre268992_0476	Bifidobacterium breve JCP7499	AWSX01000024	PATRIC	CDS	177654084	3945	5288	+	1344		Putative regulatory protein	BRE6	clust_1596
+BRE6|SEQ00522	VBIBifBre268992_0522	Bifidobacterium breve JCP7499	AWSX01000028	PATRIC	CDS	177654182	8123	9415	+	1293		Putative regulatory protein	BRE6	clust_1596
+BRE7|SEQ00317	VBIBifBre340732_0317	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619050	397321	398613	-	1293		Putative regulatory protein	BRE7	clust_1596
+BRE7|SEQ00840	VBIBifBre340732_0840	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620137	1003838	1005181	+	1344		Putative regulatory protein	BRE7	clust_1596
+BRE8|SEQ00343	VBIBifBre176493_0343	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623215	428820	430112	-	1293	atsB1	Putative regulatory protein	BRE8	clust_1596
+BRE8|SEQ00867	VBIBifBre176493_0867	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624299	1046952	1048295	+	1344	atsB2	Putative regulatory protein	BRE8	clust_1596
+BRE9|SEQ00391	VBIBifBre30019_0391	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444836	470841	472133	-	1293	atsB1	Putative regulatory protein	BRE9	clust_1596
+BRE9|SEQ00925	VBIBifBre30019_0925	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445946	1102808	1104151	+	1344	atsB2	Putative regulatory protein	BRE9	clust_1596

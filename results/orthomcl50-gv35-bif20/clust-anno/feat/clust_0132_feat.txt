@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00337	VBIGarVag247323_0337	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494813	35661	36821	-	1161		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV01	clust_0132
+GV02|SEQ00718	VBIGarVag242669_0718	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498260	48310	49476	+	1167		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV02	clust_0132
+GV03|SEQ00942	VBIGarVag247424_0942	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501327	285383	286426	+	1044		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV03	clust_0132
+GV04|SEQ00875	VBIGarVag246433_0875	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481656	214312	215496	-	1185		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV04	clust_0132
+GV05|SEQ00989	VBIGarVag174900_0989	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547756	698869	699915	+	1047		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV05	clust_0132
+GV06|SEQ00697	VBIGarVag244004_0697	Gardnerella vaginalis 1400E	ADER01000019	PATRIC	CDS	85490179	12132	13316	+	1185		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV06	clust_0132
+GV07|SEQ00341	VBIGarVag249177_0341	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492302	164370	165416	-	1047		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV07	clust_0132
+GV08|SEQ00660	VBIGarVag251521_0660	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475740	6209	7372	+	1164		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV08	clust_0132
+GV09|SEQ00732	VBIGarVag169280_0732	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260665	83218	84390	-	1173		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV09	clust_0132
+GV10|SEQ00758	VBIGarVag136958_0758	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147586	979737	980813	+	1077		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV10	clust_0132
+GV11|SEQ00939	VBIGarVag171052_0939	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550251	16973	18139	+	1167		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV11	clust_0132
+GV12|SEQ00200	VBIGarVag144721_0200	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853061	147067	148152	+	1086		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV12	clust_0132
+GV13|SEQ01129	VBIGarVag244533_1129	Gardnerella vaginalis 55152	ADEQ01000017	PATRIC	CDS	85488290	5894	7066	+	1173		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV13	clust_0132
+GV14|SEQ01045	VBIGarVag244375_1045	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503998	111344	112390	+	1047		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV14	clust_0132
+GV15|SEQ00110	VBIGarVag249709_0110	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483708	23149	24234	+	1086		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV15	clust_0132
+GV16|SEQ00670	VBIGarVag246379_0670	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478495	729295	730464	-	1170		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV16	clust_0132
+GV17|SEQ00793	VBIGarVag146634_0793	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851660	120204	121289	-	1086		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV17	clust_0132
+GV18|SEQ00551	VBIGarVag4823_0551	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000108	PATRIC	CDS	42069853	8851	10017	+	1167		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV18	clust_0132
+GV19|SEQ00954	VBIGarVag39333_0955	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628813	1185695	1186861	+	1167	sdhB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV19	clust_0132
+GV20|SEQ00601	VBIGarVag188338_0601	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190023	714591	715766	-	1176		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV20	clust_0132
+GV21|SEQ00877	VBIGarVag274454_0878	Gardnerella vaginalis JCP7275	ATJS01000064	PATRIC	CDS	183968501	4062	5225	+	1164		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV21	clust_0132
+GV22|SEQ01160	VBIGarVag276801_1161	Gardnerella vaginalis JCP7276	ATJR01000125	PATRIC	CDS	183971902	5094	6263	-	1170		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV22	clust_0132
+GV23|SEQ00767	VBIGarVag276017_0767	Gardnerella vaginalis JCP7659	ATJQ01000057	PATRIC	CDS	183973920	2586	3800	-	1215		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV23	clust_0132
+GV24|SEQ00018	VBIGarVag268944_0018	Gardnerella vaginalis JCP7672	ATJP01000002	PATRIC	CDS	183975123	4103	5293	+	1191		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV24	clust_0132
+GV25|SEQ00625	VBIGarVag270495_0625	Gardnerella vaginalis JCP7719	ATJO01000056	PATRIC	CDS	183979207	23204	24388	-	1185		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV25	clust_0132
+GV26|SEQ01338	VBIGarVag272749_1338	Gardnerella vaginalis JCP8017A	ATJN01000186	PATRIC	CDS	183983688	2561	3721	-	1161		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV26	clust_0132
+GV27|SEQ00917	VBIGarVag276930_0917	Gardnerella vaginalis JCP8017B	ATJM01000052	PATRIC	CDS	183985644	4141	5301	+	1161		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV27	clust_0132
+GV28|SEQ01173	VBIGarVag271349_1173	Gardnerella vaginalis JCP8066	ATJL01000176	PATRIC	CDS	183989252	5344	6519	-	1176		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV28	clust_0132
+GV29|SEQ01102	VBIGarVag265473_1102	Gardnerella vaginalis JCP8070	ATJK01000117	PATRIC	CDS	183991753	9369	10547	+	1179		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV29	clust_0132
+GV30|SEQ00947	VBIGarVag267667_0949	Gardnerella vaginalis JCP8108	ATJJ01000085	PATRIC	CDS	183994083	5941	7146	+	1206		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV30	clust_0132
+GV31|SEQ00747	VBIGarVag264983_0747	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996599	27369	28556	-	1188		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV31	clust_0132
+GV32|SEQ00740	VBIGarVag277040_0740	Gardnerella vaginalis JCP8151B	ATJH01000049	PATRIC	CDS	183999407	14694	15884	-	1191		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV32	clust_0132
+GV33|SEQ00865	VBIGarVag265557_0865	Gardnerella vaginalis JCP8481A	ATJG01000088	PATRIC	CDS	184002536	2483	3529	-	1047		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV33	clust_0132
+GV34|SEQ00851	VBIGarVag270440_0851	Gardnerella vaginalis JCP8481B	ATJF01000086	PATRIC	CDS	184005340	2483	3529	-	1047		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV34	clust_0132
+GV35|SEQ00619	VBIGarVag272169_0619	Gardnerella vaginalis JCP8522	ATJE01000044	PATRIC	CDS	184007590	4186	5364	+	1179		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	GV35	clust_0132
+ADO1|SEQ00937	VBIBifAdo136061_0937	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188188	843500	844417	-	918		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	ADO1	clust_0132
+ANI1|SEQ01058	VBIBifAni240121_1058	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847098	1226663	1227619	+	957		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	ANI1	clust_0132
+ANI2|SEQ01058	VBIBifAni235968_1058	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850451	1226667	1227623	+	957		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	ANI2	clust_0132
+ANI3|SEQ01062	VBIBifAni108068_1062	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764465	1226668	1227624	+	957		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	ANI3	clust_0132
+BIF1|SEQ01140	VBIBifBif87902_1140	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884848	1368791	1369834	+	1044	frdB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BIF1	clust_0132
+BRE1|SEQ00763	VBIBifBre340958_0763	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603510	918663	919613	-	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE1	clust_0132
+BRE2|SEQ00860	VBIBifBre337368_0860	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607676	1015521	1016471	-	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE2	clust_0132
+BRE3|SEQ01025	VBIBifBre167886_1025	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193762	1203588	1204538	+	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE3	clust_0132
+BRE4|SEQ00792	VBIBifBre327712_0792	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611683	957135	958085	-	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE4	clust_0132
+BRE5|SEQ00805	VBIBifBre336369_0806	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615755	950191	951141	-	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE5	clust_0132
+BRE6|SEQ01615	VBIBifBre268992_1615	Bifidobacterium breve JCP7499	AWSX01000075	PATRIC	CDS	177656502	6266	7216	+	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE6	clust_0132
+BRE7|SEQ00795	VBIBifBre340732_0795	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620046	949217	950167	-	951		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE7	clust_0132
+BRE8|SEQ00818	VBIBifBre176493_0818	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624201	992332	993282	-	951	sdhB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE8	clust_0132
+BRE9|SEQ00868	VBIBifBre30019_0868	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445830	1037680	1038630	-	951	sdhB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	BRE9	clust_0132
+INF1|SEQ00729	VBIBifLon182273_0729	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885427	891941	892906	-	966		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	INF1	clust_0132
+LON1|SEQ00640	VBIBifLon107831_0641	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118337	742746	743711	+	966		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	LON1	clust_0132
+LON2|SEQ00704	VBIBifLon171405_0705	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580934	780954	781919	+	966	frdB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	LON2	clust_0132
+LON3|SEQ00513	VBIBifLon156230_0513	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767978	1360390	1361355	+	966		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	LON3	clust_0132
+LON4|SEQ00707	VBIBifLon48544_0707	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889684	856927	857892	-	966		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	LON4	clust_0132
+THE1|SEQ00775	VBIBifThe274299_0775	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734733	974551	975507	-	957		Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)	THE1	clust_0132

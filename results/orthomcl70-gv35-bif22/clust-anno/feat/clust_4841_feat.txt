@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00965	VBIBifDen165269_0966	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459053	105653	106741	+	1089		possible Etk-like tyrosine kinase involved in Eps biosynthesis	DEN1	clust_4841
+DEN2|SEQ01502	VBIBifDen39005_1503	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111393	118985	120073	-	1089		possible Etk-like tyrosine kinase involved in Eps biosynthesis	DEN2	clust_4841

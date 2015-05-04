@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00481	VBIBifDen165269_0482	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462254	1881913	1885050	-	3138		Beta-glucosidase (EC 3.2.1.21)	DEN1	clust_4749
+DEN2|SEQ01317	VBIBifDen39005_1318	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111019	35619	38756	-	3138		Beta-glucosidase (EC 3.2.1.21)	DEN2	clust_4749

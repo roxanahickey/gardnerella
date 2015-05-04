@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01133	VBIGarVag247323_1133	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496468	143890	144432	+	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV01	clust_0544
+GV02|SEQ00304	VBIGarVag242669_0304	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497383	104944	105486	-	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV02	clust_0544
+GV03|SEQ00792	VBIGarVag247424_0792	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501017	96078	96623	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV03	clust_0544
+GV04|SEQ01285	VBIGarVag246433_1285	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482509	31492	32115	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV04	clust_0544
+GV05|SEQ00844	VBIGarVag174900_0844	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547456	517405	517950	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV05	clust_0544
+GV06|SEQ00872	VBIGarVag244004_0872	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490549	243267	243890	+	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV06	clust_0544
+GV07|SEQ00602	VBIGarVag249177_0602	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492855	99939	100484	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV07	clust_0544
+GV08|SEQ00431	VBIGarVag251521_0431	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475268	288881	289504	+	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV08	clust_0544
+GV09|SEQ00322	VBIGarVag169280_0322	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259811	28109	28732	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV09	clust_0544
+GV10|SEQ00592	VBIGarVag136958_0592	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147244	758594	759154	+	561		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV10	clust_0544
+GV11|SEQ01273	VBIGarVag171052_1273	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52550974	34823	35446	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV11	clust_0544
+GV12|SEQ01232	VBIGarVag144721_1232	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855296	109901	110440	+	540		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV12	clust_0544
+GV13|SEQ00724	VBIGarVag244533_0724	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487433	172719	173342	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV13	clust_0544
+GV14|SEQ00309	VBIGarVag244375_0309	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502462	140082	140627	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV14	clust_0544
+GV15|SEQ00654	VBIGarVag249709_0654	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484855	106833	107435	+	603		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV15	clust_0544
+GV16|SEQ01029	VBIGarVag246379_1029	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479237	1183868	1184491	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV16	clust_0544
+GV17|SEQ00957	VBIGarVag146634_0957	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852000	86692	87294	-	603		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV17	clust_0544
+GV18|SEQ01184	VBIGarVag4823_1184	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071203	39416	40039	+	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV18	clust_0544
+GV19|SEQ00583	VBIGarVag39333_0584	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628050	728597	729220	+	624	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV19	clust_0544
+GV20|SEQ00940	VBIGarVag188338_0940	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190725	1156546	1157169	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV20	clust_0544
+GV21|SEQ00841	VBIGarVag274454_0842	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968417	42576	43199	+	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV21	clust_0544
+GV22|SEQ00931	VBIGarVag276801_0932	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971355	18302	18925	+	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV22	clust_0544
+GV23|SEQ00546	VBIGarVag276017_0546	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973450	3284	3826	-	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV23	clust_0544
+GV24|SEQ00746	VBIGarVag268944_0747	Gardnerella vaginalis JCP7672	ATJP01000063	PATRIC	CDS	183976684	11966	12589	-	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV24	clust_0544
+GV25|SEQ00520	VBIGarVag270495_0520	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978976	3002	3544	-	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV25	clust_0544
+GV26|SEQ01220	VBIGarVag272749_1220	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983384	38785	39327	+	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV26	clust_0544
+GV27|SEQ00213	VBIGarVag276930_0213	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984153	2952	3494	-	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV27	clust_0544
+GV28|SEQ00082	VBIGarVag271349_0082	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986816	37418	37960	+	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV28	clust_0544
+GV29|SEQ00518	VBIGarVag265473_0518	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990448	37190	37732	+	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV29	clust_0544
+GV30|SEQ01022	VBIGarVag267667_1024	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994248	13297	13920	+	624		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV30	clust_0544
+GV31|SEQ00066	VBIGarVag264983_0066	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995153	37410	37952	+	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV31	clust_0544
+GV32|SEQ00684	VBIGarVag277040_0684	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999286	3555	4097	-	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV32	clust_0544
+GV33|SEQ00317	VBIGarVag265557_0317	Gardnerella vaginalis JCP8481A	ATJG01000025	PATRIC	CDS	184001337	26452	26997	-	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV33	clust_0544
+GV34|SEQ00760	VBIGarVag270440_0760	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005150	17668	18213	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV34	clust_0544
+GV35|SEQ01005	VBIGarVag272169_1005	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008495	1653	2195	-	543		Arginine pathway regulatory protein ArgR, repressor of arg regulon	GV35	clust_0544
+ADO1|SEQ01582	VBIBifAdo136061_1582	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189534	53194	53712	-	519		Arginine pathway regulatory protein ArgR, repressor of arg regulon	ADO1	clust_0544
+ANI1|SEQ00727	VBIBifAni240121_0727	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846403	855926	856471	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	ANI1	clust_0544
+ANI2|SEQ00727	VBIBifAni235968_0727	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849756	855929	856474	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	ANI2	clust_0544
+ANI3|SEQ00728	VBIBifAni108068_0728	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763766	855931	856476	+	546		Arginine pathway regulatory protein ArgR, repressor of arg regulon	ANI3	clust_0544
+BIF1|SEQ01070	VBIBifBif87902_1070	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884708	1292110	1292577	-	468	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	BIF1	clust_0544
+BRE1|SEQ00626	VBIBifBre340958_0626	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603216	771553	772065	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE1	clust_0544
+BRE2|SEQ00721	VBIBifBre337368_0721	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607377	865791	866303	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE2	clust_0544
+BRE3|SEQ01149	VBIBifBre167886_1149	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194031	1340363	1340875	-	513	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE3	clust_0544
+BRE4|SEQ00661	VBIBifBre327712_0661	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611400	812565	813077	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE4	clust_0544
+BRE5|SEQ00680	VBIBifBre336369_0681	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615485	811022	811534	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE5	clust_0544
+BRE6|SEQ01075	VBIBifBre268992_1075	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655359	3241	3753	-	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE6	clust_0544
+BRE7|SEQ00674	VBIBifBre340732_0674	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619784	815578	816090	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE7	clust_0544
+BRE8|SEQ00696	VBIBifBre176493_0696	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623937	856493	857005	+	513	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE8	clust_0544
+BRE9|SEQ00743	VBIBifBre30019_0743	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445560	900632	901144	+	513	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	BRE9	clust_0544
+INF1|SEQ00594	VBIBifLon182273_0594	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885134	736921	737433	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	INF1	clust_0544
+LON1|SEQ00765	VBIBifLon107831_0766	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118603	888456	888968	-	513	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	LON1	clust_0544
+LON2|SEQ00832	VBIBifLon171405_0833	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581206	932989	933501	-	513	argR	Arginine pathway regulatory protein ArgR, repressor of arg regulon	LON2	clust_0544
+LON3|SEQ00634	VBIBifLon156230_0634	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768237	1502439	1502951	-	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	LON3	clust_0544
+LON4|SEQ00587	VBIBifLon48544_0587	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889421	715504	716016	+	513		Arginine pathway regulatory protein ArgR, repressor of arg regulon	LON4	clust_0544
+THE1|SEQ01751	VBIBifThe274299_1751	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736786	2169840	2170358	-	519		Arginine pathway regulatory protein ArgR, repressor of arg regulon	THE1	clust_0544

@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01883	VBIBifAdo136061_1883	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190137	399353	400144	-	792		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	ADO1	clust_0462
+ANI1|SEQ01238	VBIBifAni240121_1238	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847468	1439295	1440071	-	777		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	ANI1	clust_0462
+ANI2|SEQ01238	VBIBifAni235968_1238	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850821	1439300	1440076	-	777		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	ANI2	clust_0462
+ANI3|SEQ01246	VBIBifAni108068_1246	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764838	1444746	1445522	-	777		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	ANI3	clust_0462
+BIF1|SEQ00485	VBIBifBif87902_0485	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883505	607610	608401	+	792	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BIF1	clust_0462
+BRE1|SEQ00598	VBIBifBre340958_0598	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603160	734858	735646	+	789		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE1	clust_0462
+BRE2|SEQ00693	VBIBifBre337368_0693	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607321	828949	829737	+	789		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE2	clust_0462
+BRE3|SEQ01177	VBIBifBre167886_1177	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194087	1376938	1377726	-	789	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE3	clust_0462
+BRE4|SEQ00633	VBIBifBre327712_0633	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611344	775973	776761	+	789		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE4	clust_0462
+BRE5|SEQ00652	VBIBifBre336369_0653	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615429	774374	775162	+	789		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE5	clust_0462
+BRE6|SEQ01103	VBIBifBre268992_1103	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655415	39555	40343	-	789		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE6	clust_0462
+BRE7|SEQ00646	VBIBifBre340732_0646	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619728	778988	779776	+	789		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE7	clust_0462
+BRE8|SEQ00668	VBIBifBre176493_0668	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623881	819900	820688	+	789	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE8	clust_0462
+BRE9|SEQ00715	VBIBifBre30019_0715	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445503	863774	864562	+	789	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	BRE9	clust_0462
+DEN1|SEQ01158	VBIBifDen165269_1159	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459445	364970	365761	+	792	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	DEN1	clust_0462
+DEN2|SEQ01370	VBIBifDen39005_1371	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS	42111128	21316	22107	+	792	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	DEN2	clust_0462
+GV01|SEQ00242	VBIGarVag247323_0242	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494600	126989	127783	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV01	clust_0462
+GV02|SEQ00514	VBIGarVag242669_0514	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497825	117179	117973	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV02	clust_0462
+GV03|SEQ00599	VBIGarVag247424_0599	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500615	168836	169630	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV03	clust_0462
+GV04|SEQ00440	VBIGarVag246433_0440	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480760	57984	58778	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV04	clust_0462
+GV05|SEQ00618	VBIGarVag174900_0618	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546990	229844	230638	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV05	clust_0462
+GV06|SEQ00796	VBIGarVag244004_0796	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490388	141442	142236	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV06	clust_0462
+GV07|SEQ00786	VBIGarVag249177_0786	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493233	43974	44768	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV07	clust_0462
+GV08|SEQ00357	VBIGarVag251521_0357	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475111	189850	190644	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV08	clust_0462
+GV09|SEQ00454	VBIGarVag169280_0454	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260084	165720	166514	-	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV09	clust_0462
+GV10|SEQ00408	VBIGarVag136958_0408	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146864	494973	495767	+	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV10	clust_0462
+GV11|SEQ00347	VBIGarVag171052_0347	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52548998	27873	28667	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV11	clust_0462
+GV12|SEQ00952	VBIGarVag144721_0952	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854635	527092	527886	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV12	clust_0462
+GV13|SEQ00811	VBIGarVag244533_0811	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487616	287220	288014	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV13	clust_0462
+GV14|SEQ00413	VBIGarVag244375_0413	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502678	49409	50203	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV14	clust_0462
+GV15|SEQ00212	VBIGarVag249709_0212	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483926	42918	43712	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV15	clust_0462
+GV16|SEQ01105	VBIGarVag246379_1105	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479398	1282720	1283514	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV16	clust_0462
+GV17|SEQ00181	VBIGarVag146634_0181	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850363	124781	125575	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV17	clust_0462
+GV18|SEQ00239	VBIGarVag4823_0239	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000073	PATRIC	CDS	42069178	640	1434	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV18	clust_0462
+GV19|SEQ00505	VBIGarVag39333_0506	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627885	629636	630430	+	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV19	clust_0462
+GV20|SEQ01015	VBIGarVag188338_1015	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190884	1255324	1256118	-	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV20	clust_0462
+GV21|SEQ00717	VBIGarVag274454_0718	Gardnerella vaginalis JCP7275	ATJS01000046	PATRIC	CDS	183968137	5936	6730	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV21	clust_0462
+GV22|SEQ00352	VBIGarVag276801_0353	Gardnerella vaginalis JCP7276	ATJR01000010	PATRIC	CDS	183970124	7132	7926	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV22	clust_0462
+GV23|SEQ00955	VBIGarVag276017_0955	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974346	27565	28359	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV23	clust_0462
+GV24|SEQ00517	VBIGarVag268944_0518	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976179	7131	7925	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV24	clust_0462
+GV25|SEQ00212	VBIGarVag270495_0212	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978304	31578	32372	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV25	clust_0462
+GV26|SEQ00026	VBIGarVag272749_0026	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980780	29382	30176	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV26	clust_0462
+GV27|SEQ00155	VBIGarVag276930_0155	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984031	35035	35829	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV27	clust_0462
+GV28|SEQ00586	VBIGarVag271349_0586	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987893	21176	21970	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV28	clust_0462
+GV29|SEQ00189	VBIGarVag265473_0189	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989748	21073	21867	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV29	clust_0462
+GV30|SEQ00639	VBIGarVag267667_0640	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	183993403	7940	8734	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV30	clust_0462
+GV31|SEQ00175	VBIGarVag264983_0175	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995388	21210	22004	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV31	clust_0462
+GV32|SEQ00423	VBIGarVag277040_0423	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998718	21503	22297	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV32	clust_0462
+GV33|SEQ00353	VBIGarVag265557_0353	Gardnerella vaginalis JCP8481A	ATJG01000030	PATRIC	CDS	184001422	16824	17618	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV33	clust_0462
+GV34|SEQ00451	VBIGarVag270440_0451	Gardnerella vaginalis JCP8481B	ATJF01000034	PATRIC	CDS	184004471	6305	7099	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV34	clust_0462
+GV35|SEQ00476	VBIGarVag272169_0476	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007272	29818	30612	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV35	clust_0462
+INF1|SEQ01425	VBIBifLon182273_1425	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886860	1621371	1622159	-	789		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	INF1	clust_0462
+LON1|SEQ00108	VBIBifLon107831_0108	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117245	122207	122995	+	789	uppS	Undecaprenyl diphosphate synthase (EC 2.5.1.31)	LON1	clust_0462
+LON2|SEQ00153	VBIBifLon171405_0154	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579803	166976	167764	+	789	uppS	Undecaprenyl diphosphate synthase (EC 2.5.1.31)	LON2	clust_0462
+LON3|SEQ00043	VBIBifLon156230_0043	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765709	59544	60332	-	789		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	LON3	clust_0462
+LON4|SEQ01397	VBIBifLon48544_1397	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891146	1594167	1594955	-	789		Undecaprenyl diphosphate synthase (EC 2.5.1.31)	LON4	clust_0462
+THE1|SEQ00552	VBIBifThe274299_0552	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734282	697499	698290	+	792		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	THE1	clust_0462

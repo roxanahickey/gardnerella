@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00232	VBIGarVag247323_0232	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494580	116760	117734	-	975		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV01	clust_0261
+GV02|SEQ00504	VBIGarVag242669_0504	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497805	106973	107929	-	957		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV02	clust_0261
+GV03|SEQ01089	VBIGarVag247424_1089	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501644	17802	18797	+	996		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV03	clust_0261
+GV04|SEQ00430	VBIGarVag246433_0430	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480740	48013	48945	-	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV04	clust_0261
+GV05|SEQ00028	VBIGarVag174900_0028	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545761	38063	39058	+	996		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV05	clust_0261
+GV06|SEQ00805	VBIGarVag244004_0805	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490406	150062	150922	+	861		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV06	clust_0261
+GV07|SEQ00450	VBIGarVag249177_0450	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492526	93249	94352	-	1104		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV07	clust_0261
+GV08|SEQ00367	VBIGarVag251521_0367	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475131	199754	200614	+	861		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV08	clust_0261
+GV09|SEQ00444	VBIGarVag169280_0444	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260064	155740	156672	-	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV09	clust_0261
+GV10|SEQ00980	VBIGarVag136958_0980	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148042	1285010	1285948	-	939		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV10	clust_0261
+GV11|SEQ00337	VBIGarVag171052_0337	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52548977	19205	20065	-	861		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV11	clust_0261
+GV12|SEQ00382	VBIGarVag144721_0382	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853437	393561	394427	-	867		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV12	clust_0261
+GV13|SEQ00801	VBIGarVag244533_0801	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487596	277250	278110	-	861		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV13	clust_0261
+GV14|SEQ00732	VBIGarVag244375_0732	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503350	88450	89445	+	996		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV14	clust_0261
+GV15|SEQ00957	VBIGarVag249709_0957	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485490	137140	138078	-	939		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV15	clust_0261
+GV16|SEQ01095	VBIGarVag246379_1095	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479378	1272750	1273682	-	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV16	clust_0261
+GV17|SEQ01131	VBIGarVag146634_1131	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852357	74532	75470	-	939		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV17	clust_0261
+GV18|SEQ01194	VBIGarVag4823_1194	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071224	2301	3233	+	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV18	clust_0261
+GV19|SEQ00515	VBIGarVag39333_0516	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627905	639471	640403	+	933	rluD	Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV19	clust_0261
+GV20|SEQ01005	VBIGarVag188338_1005	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190864	1245353	1246285	-	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV20	clust_0261
+GV21|SEQ00726	VBIGarVag274454_0727	Gardnerella vaginalis JCP7275	ATJS01000046	PATRIC	CDS	183968155	14477	15409	+	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV21	clust_0261
+GV22|SEQ00362	VBIGarVag276801_0363	Gardnerella vaginalis JCP7276	ATJR01000010	PATRIC	CDS	183970144	16965	17897	+	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV22	clust_0261
+GV23|SEQ00965	VBIGarVag276017_0965	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974366	37590	38564	+	975		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV23	clust_0261
+GV24|SEQ00527	VBIGarVag268944_0528	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976199	16963	17895	+	933		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV24	clust_0261
+GV25|SEQ00202	VBIGarVag270495_0202	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978284	21366	22334	-	969		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV25	clust_0261
+GV26|SEQ00016	VBIGarVag272749_0016	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980760	19170	20126	-	957		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV26	clust_0261
+GV27|SEQ00165	VBIGarVag276930_0165	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984051	45085	46041	+	957		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV27	clust_0261
+GV28|SEQ00596	VBIGarVag271349_0596	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987913	31220	32128	+	909		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV28	clust_0261
+GV29|SEQ00199	VBIGarVag265473_0199	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989768	31153	32049	+	897		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV29	clust_0261
+GV30|SEQ00648	VBIGarVag267667_0649	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	183993421	16564	17424	+	861		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV30	clust_0261
+GV31|SEQ00184	VBIGarVag264983_0184	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995406	30012	30896	+	885		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV31	clust_0261
+GV32|SEQ00433	VBIGarVag277040_0433	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998738	31565	32473	+	909		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV32	clust_0261
+GV33|SEQ01048	VBIGarVag265557_1048	Gardnerella vaginalis JCP8481A	ATJG01000132	PATRIC	CDS	184002959	6043	7026	-	984		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV33	clust_0261
+GV34|SEQ00944	VBIGarVag270440_0944	Gardnerella vaginalis JCP8481B	ATJF01000109	PATRIC	CDS	184005554	6043	7026	-	984		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV34	clust_0261
+GV35|SEQ00466	VBIGarVag272169_0466	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007252	19638	20534	-	897		Ribosomal large subunit pseudouridine synthase D (EC 4.2.1.70)	GV35	clust_0261

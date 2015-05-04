@@ -1,0 +1,27 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01581	VBIBifBif87902_1581	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885776	1900356	1900904	+	549		Mobile element protein	BIF1	clust_1065
+BRE4|SEQ00926	VBIBifBre327712_0926	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611954	1100549	1101061	-	513		Mobile element protein	BRE4	clust_1065
+BRE4|SEQ00927	VBIBifBre327712_0927	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611956	1101153	1101782	-	630		IS30 family transposase	BRE4	clust_1065
+BRE5|SEQ00868	VBIBifBre336369_0869	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615883	1021168	1021851	+	684		Mobile element protein	BRE5	clust_1065
+BRE5|SEQ01159	VBIBifBre336369_1160	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616490	1295861	1296373	+	513		Mobile element protein	BRE5	clust_1065
+BRE7|SEQ01071	VBIBifBre340732_1071	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620618	1241180	1241809	+	630		IS30 family transposase	BRE7	clust_1065
+BRE7|SEQ01072	VBIBifBre340732_1072	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620621	1241901	1242413	+	513		Mobile element protein	BRE7	clust_1065
+BRE9|SEQ01158	VBIBifBre30019_1158	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446433	1343078	1343590	+	513		Mobile element protein	BRE9	clust_1065
+INF1|SEQ00017	VBIBifLon182273_0017	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883935	22402	23706	-	1305		Mobile element protein	INF1	clust_1065
+INF1|SEQ00332	VBIBifLon182273_0332	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884594	409087	410358	+	1272		Mobile element protein	INF1	clust_1065
+INF1|SEQ00394	VBIBifLon182273_0394	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884725	489234	490505	-	1272		Mobile element protein	INF1	clust_1065
+INF1|SEQ00924	VBIBifLon182273_0924	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885827	1077058	1078362	-	1305		Mobile element protein	INF1	clust_1065
+INF1|SEQ01078	VBIBifLon182273_1078	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886152	1220166	1221470	+	1305		Mobile element protein	INF1	clust_1065
+INF1|SEQ01094	VBIBifLon182273_1094	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886184	1231912	1233216	-	1305		Mobile element protein	INF1	clust_1065
+INF1|SEQ01388	VBIBifLon182273_1388	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886780	1575089	1576360	-	1272		Mobile element protein	INF1	clust_1065
+INF1|SEQ01392	VBIBifLon182273_1392	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886794	1584261	1585565	-	1305		Mobile element protein	INF1	clust_1065
+LON1|SEQ00086	VBIBifLon107831_0086	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117199	99464	100651	-	1188		Mobile element protein	LON1	clust_1065
+LON1|SEQ00394	VBIBifLon107831_0394	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117831	467219	468406	-	1188		Mobile element protein	LON1	clust_1065
+LON2|SEQ00506	VBIBifLon171405_0507	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580534	574335	575000	+	666		Mobile element protein	LON2	clust_1065
+LON4|SEQ00017	VBIBifLon48544_0017	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888236	21387	22418	-	1032		Mobile element protein	LON4	clust_1065
+LON4|SEQ00365	VBIBifLon48544_0365	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888968	448496	449767	+	1272		Mobile element protein	LON4	clust_1065
+LON4|SEQ00373	VBIBifLon48544_0373	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888984	459626	460897	+	1272		Mobile element protein	LON4	clust_1065
+LON4|SEQ00479	VBIBifLon48544_0479	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889199	596803	598074	+	1272		Mobile element protein	LON4	clust_1065
+LON4|SEQ00937	VBIBifLon48544_0937	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890151	1090156	1091427	+	1272		Mobile element protein	LON4	clust_1065
+LON4|SEQ01691	VBIBifLon48544_1691	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891760	1951523	1952794	+	1272		Mobile element protein	LON4	clust_1065
+LON4|SEQ01934	VBIBifLon48544_1934	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892273	2282826	2283830	-	1005		Mobile element protein	LON4	clust_1065

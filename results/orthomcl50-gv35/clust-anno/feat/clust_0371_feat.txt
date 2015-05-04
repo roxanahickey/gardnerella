@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00623	VBIGarVag247323_0623	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495395	33458	34261	-	804		Putative amidotransferase similar to cobyric acid synthase	GV01	clust_0371
+GV02|SEQ00106	VBIGarVag242669_0106	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496970	68210	69016	-	807		Putative amidotransferase similar to cobyric acid synthase	GV02	clust_0371
+GV03|SEQ00177	VBIGarVag247424_0177	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499735	122173	122967	+	795		Putative amidotransferase similar to cobyric acid synthase	GV03	clust_0371
+GV04|SEQ00212	VBIGarVag246433_0212	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480276	76383	77189	-	807		Putative amidotransferase similar to cobyric acid synthase	GV04	clust_0371
+GV05|SEQ00279	VBIGarVag174900_0279	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546281	122114	122908	+	795		Putative amidotransferase similar to cobyric acid synthase	GV05	clust_0371
+GV06|SEQ00166	VBIGarVag244004_0166	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489047	87558	88364	+	807		Putative amidotransferase similar to cobyric acid synthase	GV06	clust_0371
+GV07|SEQ00071	VBIGarVag249177_0071	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491719	73632	74429	-	798		Putative amidotransferase similar to cobyric acid synthase	GV07	clust_0371
+GV08|SEQ01031	VBIGarVag251521_1031	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476509	138500	139306	+	807		Putative amidotransferase similar to cobyric acid synthase	GV08	clust_0371
+GV09|SEQ00070	VBIGarVag169280_0070	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259283	21410	22216	-	807		Putative amidotransferase similar to cobyric acid synthase	GV09	clust_0371
+GV10|SEQ00070	VBIGarVag136958_0070	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146154	92092	92886	+	795		Putative amidotransferase similar to cobyric acid synthase	GV10	clust_0371
+GV11|SEQ00888	VBIGarVag171052_0888	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550139	70003	70809	-	807		Putative amidotransferase similar to cobyric acid synthase	GV11	clust_0371
+GV12|SEQ00603	VBIGarVag144721_0603	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853903	120506	121300	+	795		Putative amidotransferase similar to cobyric acid synthase	GV12	clust_0371
+GV13|SEQ00125	VBIGarVag244533_0125	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486190	142547	143353	+	807		Putative amidotransferase similar to cobyric acid synthase	GV13	clust_0371
+GV14|SEQ00579	VBIGarVag244375_0579	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503018	79817	80611	-	795		Putative amidotransferase similar to cobyric acid synthase	GV14	clust_0371
+GV15|SEQ00799	VBIGarVag249709_0799	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485156	14841	15638	-	798		Putative amidotransferase similar to cobyric acid synthase	GV15	clust_0371
+GV16|SEQ00199	VBIGarVag246379_0199	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477516	147114	147920	+	807		Putative amidotransferase similar to cobyric acid synthase	GV16	clust_0371
+GV17|SEQ00532	VBIGarVag146634_0532	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851099	536611	537408	-	798		Putative amidotransferase similar to cobyric acid synthase	GV17	clust_0371
+GV18|SEQ00623	VBIGarVag4823_0623	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000116	PATRIC	CDS	42070011	10317	11123	+	807		Putative amidotransferase similar to cobyric acid synthase	GV18	clust_0371
+GV19|SEQ00087	VBIGarVag39333_0087	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627008	93083	93889	-	807		Putative amidotransferase similar to cobyric acid synthase	GV19	clust_0371
+GV20|SEQ01342	VBIGarVag188338_1342	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191560	1676302	1677108	-	807		Putative amidotransferase similar to cobyric acid synthase	GV20	clust_0371
+GV21|SEQ00558	VBIGarVag274454_0559	Gardnerella vaginalis JCP7275	ATJS01000029	PATRIC	CDS	183967794	7598	8404	-	807		Putative amidotransferase similar to cobyric acid synthase	GV21	clust_0371
+GV22|SEQ00517	VBIGarVag276801_0518	Gardnerella vaginalis JCP7276	ATJR01000015	PATRIC	CDS	183970467	494	1300	+	807		Putative amidotransferase similar to cobyric acid synthase	GV22	clust_0371
+GV23|SEQ00420	VBIGarVag276017_0420	Gardnerella vaginalis JCP7659	ATJQ01000028	PATRIC	CDS	183973174	783	962	-	180		Putative amidotransferase similar to cobyric acid synthase	GV23	clust_0371
+GV24|SEQ00161	VBIGarVag268944_0162	Gardnerella vaginalis JCP7672	ATJP01000006	PATRIC	CDS	183975425	11532	12338	-	807		Putative amidotransferase similar to cobyric acid synthase	GV24	clust_0371
+GV25|SEQ00926	VBIGarVag270495_0926	Gardnerella vaginalis JCP7719	ATJO01000092	PATRIC	CDS	183979863	506	1312	+	807		Putative amidotransferase similar to cobyric acid synthase	GV25	clust_0371
+GV26|SEQ00240	VBIGarVag272749_0240	Gardnerella vaginalis JCP8017A	ATJN01000011	PATRIC	CDS	183981242	27	206	+	180		Putative amidotransferase similar to cobyric acid synthase	GV26	clust_0371
+GV27|SEQ00494	VBIGarVag276930_0494	Gardnerella vaginalis JCP8017B	ATJM01000016	PATRIC	CDS	183984740	471	1277	+	807		Putative amidotransferase similar to cobyric acid synthase	GV27	clust_0371
+GV28|SEQ00557	VBIGarVag271349_0557	Gardnerella vaginalis JCP8066	ATJL01000039	PATRIC	CDS	183987829	476	1279	+	804		Putative amidotransferase similar to cobyric acid synthase	GV28	clust_0371
+GV29|SEQ00440	VBIGarVag265473_0440	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	183990288	34808	35614	+	807		Putative amidotransferase similar to cobyric acid synthase	GV29	clust_0371
+GV30|SEQ00710	VBIGarVag267667_0712	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993551	18553	19359	+	807		Putative amidotransferase similar to cobyric acid synthase	GV30	clust_0371
+GV31|SEQ00355	VBIGarVag264983_0355	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995759	22908	23711	-	804		Putative amidotransferase similar to cobyric acid synthase	GV31	clust_0371
+GV32|SEQ00034	VBIGarVag277040_0034	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997896	8238	9041	-	804		Putative amidotransferase similar to cobyric acid synthase	GV32	clust_0371
+GV33|SEQ00370	VBIGarVag265557_0370	Gardnerella vaginalis JCP8481A	ATJG01000031	PATRIC	CDS	184001457	13129	13926	-	798		Putative amidotransferase similar to cobyric acid synthase	GV33	clust_0371
+GV34|SEQ00307	VBIGarVag270440_0307	Gardnerella vaginalis JCP8481B	ATJF01000021	PATRIC	CDS	184004156	20883	21680	-	798		Putative amidotransferase similar to cobyric acid synthase	GV34	clust_0371
+GV35|SEQ00682	VBIGarVag272169_0682	Gardnerella vaginalis JCP8522	ATJE01000058	PATRIC	CDS	184007738	464	1267	+	804		Putative amidotransferase similar to cobyric acid synthase	GV35	clust_0371

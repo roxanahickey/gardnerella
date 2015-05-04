@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01012	VBIBifBif87902_1012	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884588	1233328	1233573	-	246		ADP-ribose pyrophosphatase	BIF1	clust_2416
+BRE5|SEQ01173	VBIBifBre336369_1174	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616518	1305572	1306192	-	621		ADP-ribose pyrophosphatase	BRE5	clust_2416
+INF1|SEQ00988	VBIBifLon182273_0988	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885958	1146620	1147237	+	618		ADP-ribose pyrophosphatase	INF1	clust_2416
+LON1|SEQ00472	VBIBifLon107831_0472	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117999	553224	553844	-	621		ADP-ribose pyrophosphatase	LON1	clust_2416
+LON2|SEQ00520	VBIBifLon171405_0521	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580562	583803	584423	-	621		ADP-ribose pyrophosphatase	LON2	clust_2416
+LON3|SEQ00339	VBIBifLon156230_0339	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767627	1165652	1166272	-	621		ADP-ribose pyrophosphatase	LON3	clust_2416
+LON4|SEQ00881	VBIBifLon48544_0881	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890038	1048157	1048774	+	618		ADP-ribose pyrophosphatase	LON4	clust_2416

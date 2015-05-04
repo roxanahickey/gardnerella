@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00393	VBIGarVag247323_0393	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494925	117054	118427	+	1374		Putative integral membrane protein	GV01	clust_0801
+GV02|SEQ00973	VBIGarVag242669_0973	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498795	222855	224228	-	1374		Putative integral membrane protein	GV02	clust_0801
+GV03|SEQ00756	VBIGarVag247424_0756	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500941	38673	40061	+	1389	ulaA	Putative integral membrane protein	GV03	clust_0801
+GV04|SEQ00939	VBIGarVag246433_0939	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481784	299947	301332	+	1386	ulaA	Putative integral membrane protein	GV04	clust_0801
+GV05|SEQ00808	VBIGarVag174900_0808	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547380	465405	466793	+	1389		Putative integral membrane protein	GV05	clust_0801
+GV06|SEQ01313	VBIGarVag244004_1313	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491459	187675	189060	-	1386	ulaA	Putative integral membrane protein	GV06	clust_0801
+GV08|SEQ00881	VBIGarVag251521_0881	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476192	52342	53727	+	1386	ulaA	Putative integral membrane protein	GV08	clust_0801
+GV09|SEQ00796	VBIGarVag169280_0796	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260793	169924	171309	+	1386		Putative integral membrane protein	GV09	clust_0801
+GV10|SEQ00555	VBIGarVag136958_0555	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147166	705121	706077	+	957		Putative integral membrane protein	GV10	clust_0801
+GV11|SEQ00161	VBIGarVag171052_0161	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548595	52143	53327	-	1185		Putative integral membrane protein	GV11	clust_0801
+GV12|SEQ01190	VBIGarVag144721_1190	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855208	48457	49845	+	1389		Putative integral membrane protein	GV12	clust_0801
+GV13|SEQ00326	VBIGarVag244533_0326	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486603	151461	152846	-	1386	ulaA	Putative integral membrane protein	GV13	clust_0801
+GV14|SEQ00271	VBIGarVag244375_0271	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502382	86987	88375	+	1389	ulaA	Putative integral membrane protein	GV14	clust_0801
+GV15|SEQ00613	VBIGarVag249709_0613	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484769	45414	46802	+	1389	ulaA	Putative integral membrane protein	GV15	clust_0801
+GV16|SEQ00731	VBIGarVag246379_0731	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478617	815613	816998	+	1386	ulaA	Putative integral membrane protein	GV16	clust_0801
+GV17|SEQ00996	VBIGarVag146634_0996	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852082	141598	142986	-	1389		Putative integral membrane protein	GV17	clust_0801
+GV18|SEQ00519	VBIGarVag4823_0519	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000105	PATRIC	CDS	42069786	9954	11339	-	1386	ulaA	Putative integral membrane protein	GV18	clust_0801
+GV19|SEQ00883	VBIGarVag39333_0884	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628671	1093494	1094879	-	1386		Putative integral membrane protein	GV19	clust_0801
+GV20|SEQ00667	VBIGarVag188338_0667	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190156	806456	807841	+	1386		Putative integral membrane protein	GV20	clust_0801
+GV21|SEQ00030	VBIGarVag274454_0030	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966692	33988	35373	+	1386		Putative integral membrane protein	GV21	clust_0801
+GV22|SEQ00417	VBIGarVag276801_0418	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970259	42715	44100	+	1386		Putative integral membrane protein	GV22	clust_0801
+GV23|SEQ00593	VBIGarVag276017_0593	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973547	28001	29374	+	1374		Putative integral membrane protein	GV23	clust_0801
+GV24|SEQ00135	VBIGarVag268944_0136	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975371	43847	45232	+	1386		Putative integral membrane protein	GV24	clust_0801
+GV25|SEQ01127	VBIGarVag270495_1127	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980306	33470	34843	-	1374		Putative integral membrane protein	GV25	clust_0801
+GV26|SEQ00478	VBIGarVag272749_0478	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981744	15125	16498	+	1374		Putative integral membrane protein	GV26	clust_0801
+GV27|SEQ00459	VBIGarVag276930_0459	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984665	157068	158441	-	1374		Putative integral membrane protein	GV27	clust_0801
+GV28|SEQ00456	VBIGarVag271349_0456	Gardnerella vaginalis JCP8066	ATJL01000026	PATRIC	CDS	183987606	3066	4487	-	1422		Putative integral membrane protein	GV28	clust_0801
+GV29|SEQ00583	VBIGarVag265473_0583	Gardnerella vaginalis JCP8070	ATJK01000034	PATRIC	CDS	183990594	3066	4487	-	1422		Putative integral membrane protein	GV29	clust_0801
+GV30|SEQ00121	VBIGarVag267667_0121	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992286	28531	29916	-	1386		Putative integral membrane protein	GV30	clust_0801
+GV31|SEQ00866	VBIGarVag264983_0866	Gardnerella vaginalis JCP8151A	ATJI01000058	PATRIC	CDS	183996868	7672	9093	-	1422		Putative integral membrane protein	GV31	clust_0801
+GV32|SEQ00091	VBIGarVag277040_0091	Gardnerella vaginalis JCP8151B	ATJH01000005	PATRIC	CDS	183998015	3065	4486	-	1422		Putative integral membrane protein	GV32	clust_0801
+GV33|SEQ00744	VBIGarVag265557_0744	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002264	35643	37031	+	1389		Putative integral membrane protein	GV33	clust_0801
+GV34|SEQ00685	VBIGarVag270440_0685	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184004985	35643	37031	+	1389		Putative integral membrane protein	GV34	clust_0801
+GV35|SEQ00328	VBIGarVag272169_0328	Gardnerella vaginalis JCP8522	ATJE01000015	PATRIC	CDS	184006957	3075	4496	-	1422		Putative integral membrane protein	GV35	clust_0801

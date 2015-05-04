@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01664	VBIBifAdo136061_1664	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189699	146768	147055	-	288		Mobile element protein	ADO1	clust_1679
+ADO1|SEQ01674	VBIBifAdo136061_1674	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189719	154505	154792	-	288		Mobile element protein	ADO1	clust_1679
+BIF1|SEQ00161	VBIBifBif87902_0161	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882827	198141	198428	-	288		Mobile element protein	BIF1	clust_1679
+BRE1|SEQ00493	VBIBifBre340958_0493	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602943	620666	620857	+	192		Mobile element protein	BRE1	clust_1679
+BRE2|SEQ00570	VBIBifBre337368_0570	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607070	702851	703033	+	183		hypothetical protein	BRE2	clust_1679
+BRE3|SEQ01313	VBIBifBre167886_1313	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194364	1517015	1517197	-	183		hypothetical protein	BRE3	clust_1679
+BRE4|SEQ00514	VBIBifBre327712_0514	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611100	652483	652665	+	183		hypothetical protein	BRE4	clust_1679
+BRE5|SEQ00532	VBIBifBre336369_0533	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615183	642972	643151	+	180		hypothetical protein	BRE5	clust_1679
+BRE6|SEQ00417	VBIBifBre268992_0417	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653960	20877	21083	-	207		Mobile element protein	BRE6	clust_1679
+BRE7|SEQ00524	VBIBifBre340732_0524	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619477	654808	654990	+	183		Mobile element protein	BRE7	clust_1679
+BRE8|SEQ00553	VBIBifBre176493_0553	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623647	697951	698157	+	207		Mobile element protein	BRE8	clust_1679
+BRE8|SEQ00870	VBIBifBre176493_0870	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624305	1049637	1049930	+	294		Mobile element protein	BRE8	clust_1679
+BRE9|SEQ00608	VBIBifBre30019_0608	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445284	748510	748692	+	183		hypothetical protein	BRE9	clust_1679
+LON1|SEQ00960	VBIBifLon107831_0961	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118997	1129649	1129936	-	288		Mobile element protein	LON1	clust_1679

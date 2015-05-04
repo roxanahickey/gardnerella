@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01164	VBIBifAdo136061_1164	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188663	78553	79404	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	ADO1	clust_1260
+ANI1|SEQ00791	VBIBifAni240121_0791	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846541	922665	923516	+	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	ANI1	clust_1260
+ANI2|SEQ00790	VBIBifAni235968_0790	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849892	922668	923519	+	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	ANI2	clust_1260
+ANI3|SEQ00792	VBIBifAni108068_0792	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763904	922670	923521	+	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	ANI3	clust_1260
+BIF1|SEQ00909	VBIBifBif87902_0909	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884370	1110011	1110862	-	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	BIF1	clust_1260
+BRE1|SEQ00986	VBIBifBre340958_0986	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603972	1169566	1170417	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE1	clust_1260
+BRE2|SEQ01079	VBIBifBre337368_1079	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608131	1263398	1264249	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE2	clust_1260
+BRE3|SEQ00801	VBIBifBre167886_0801	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193297	955450	956301	+	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE3	clust_1260
+BRE4|SEQ00973	VBIBifBre327712_0973	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612050	1134664	1135515	+	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE4	clust_1260
+BRE5|SEQ01132	VBIBifBre336369_1133	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616435	1275145	1275996	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE5	clust_1260
+BRE6|SEQ01735	VBIBifBre268992_1735	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656772	30686	31537	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE6	clust_1260
+BRE7|SEQ01029	VBIBifBre340732_1029	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620532	1209124	1209975	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE7	clust_1260
+BRE8|SEQ01049	VBIBifBre176493_1049	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624680	1245525	1246376	-	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE8	clust_1260
+BRE9|SEQ01114	VBIBifBre30019_1114	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446342	1308625	1309476	-	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	BRE9	clust_1260
+DEN1|SEQ01500	VBIBifDen165269_1501	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460136	773087	773938	+	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	DEN1	clust_1260
+DEN2|SEQ00139	VBIBifDen39005_0139	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108586	81358	82209	-	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	DEN2	clust_1260
+INF1|SEQ01026	VBIBifLon182273_1026	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886035	1173601	1174452	+	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	INF1	clust_1260
+LON1|SEQ00450	VBIBifLon107831_0450	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117955	534025	534876	-	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	LON1	clust_1260
+LON2|SEQ00478	VBIBifLon171405_0479	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580477	553100	553951	-	852	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	LON2	clust_1260
+LON3|SEQ00313	VBIBifLon156230_0313	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767574	1146452	1147303	-	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	LON3	clust_1260
+LON4|SEQ00905	VBIBifLon48544_0905	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890086	1067614	1068465	+	852		ATP phosphoribosyltransferase (EC 2.4.2.17)	LON4	clust_1260
+THE1|SEQ01019	VBIBifThe274299_1019	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735235	1275876	1276712	+	837	hisG	ATP phosphoribosyltransferase (EC 2.4.2.17)	THE1	clust_1260

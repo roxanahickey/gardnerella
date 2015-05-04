@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00009	VBIBifBre340958_0009	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268601932	11932	12219	-	288		Lactose and galactose permease, GPH translocator family	BRE1	clust_2071
+BRE2|SEQ00009	VBIBifBre337368_0009	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605902	11931	12332	-	402		Lactose and galactose permease, GPH translocator family	BRE2	clust_2071
+BRE3|SEQ00009	VBIBifBre167886_0009	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191651	12006	12407	-	402		Lactose and galactose permease, GPH translocator family	BRE3	clust_2071
+BRE4|SEQ00009	VBIBifBre327712_0009	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610045	11932	12333	-	402		Lactose and galactose permease, GPH translocator family	BRE4	clust_2071
+BRE5|SEQ00009	VBIBifBre336369_0009	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614094	11930	12331	-	402		Lactose and galactose permease, GPH translocator family	BRE5	clust_2071
+BRE6|SEQ01534	VBIBifBre268992_1534	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656329	39407	39694	-	288		Lactose and galactose permease, GPH translocator family	BRE6	clust_2071
+BRE7|SEQ00009	VBIBifBre340732_0009	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618404	11930	12217	-	288		Lactose and galactose permease, GPH translocator family	BRE7	clust_2071
+BRE8|SEQ00009	VBIBifBre176493_0009	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622517	11930	12331	-	402		Lactose and galactose permease, GPH translocator family	BRE8	clust_2071
+BRE9|SEQ00009	VBIBifBre30019_0009	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444033	11931	12332	-	402		Lactose and galactose permease, GPH translocator family	BRE9	clust_2071

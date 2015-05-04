@@ -1,0 +1,40 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00375	VBIBifAdo136061_0375	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187011	192260	193312	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	ADO1	clust_0857
+ADO1|SEQ00376	VBIBifAdo136061_0376	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187013	193509	194549	-	1041		Ketol-acid reductoisomerase (EC 1.1.1.86)	ADO1	clust_0857
+ANI1|SEQ00144	VBIBifAni240121_0144	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845189	166619	167671	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	ANI1	clust_0857
+ANI2|SEQ00144	VBIBifAni235968_0144	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848544	166619	167671	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	ANI2	clust_0857
+ANI3|SEQ00146	VBIBifAni108068_0146	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762560	166619	167671	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	ANI3	clust_0857
+BIF1|SEQ00136	VBIBifBif87902_0136	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882776	166103	167155	+	1053	ilvC	Ketol-acid reductoisomerase (EC 1.1.1.86)	BIF1	clust_0857
+BIF1|SEQ00138	VBIBifBif87902_0138	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882780	167574	168626	+	1053	ilvC	Ketol-acid reductoisomerase (EC 1.1.1.86)	BIF1	clust_0857
+BRE1|SEQ00104	VBIBifBre340958_0104	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602133	136115	137167	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE1	clust_0857
+BRE1|SEQ00106	VBIBifBre340958_0106	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602137	137595	138647	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE1	clust_0857
+BRE2|SEQ00097	VBIBifBre337368_0097	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606092	128780	129832	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE2	clust_0857
+BRE2|SEQ00099	VBIBifBre337368_0099	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606096	130260	131312	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE2	clust_0857
+BRE3|SEQ00101	VBIBifBre167886_0101	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191847	135056	136108	+	1053	ilvC_1	Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE3	clust_0857
+BRE3|SEQ00103	VBIBifBre167886_0103	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191851	136536	137588	+	1053	ilvC_2	Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE3	clust_0857
+BRE4|SEQ00118	VBIBifBre327712_0118	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610276	155216	156268	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE4	clust_0857
+BRE4|SEQ00124	VBIBifBre327712_0124	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610288	162962	164014	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE4	clust_0857
+BRE5|SEQ00107	VBIBifBre336369_0107	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614303	135563	136615	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE5	clust_0857
+BRE5|SEQ00109	VBIBifBre336369_0109	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614307	137043	138095	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE5	clust_0857
+BRE6|SEQ01254	VBIBifBre268992_1254	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655731	848	1900	-	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE6	clust_0857
+BRE7|SEQ00096	VBIBifBre340732_0096	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618590	126471	127523	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE7	clust_0857
+BRE7|SEQ00098	VBIBifBre340732_0098	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618594	127951	129003	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE7	clust_0857
+BRE8|SEQ00118	VBIBifBre176493_0118	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622747	151552	152604	+	1053	ilvC1	Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE8	clust_0857
+BRE8|SEQ00124	VBIBifBre176493_0124	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622759	159293	160345	+	1053	ilvC2	Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE8	clust_0857
+BRE9|SEQ00116	VBIBifBre30019_0116	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444262	151758	152810	+	1053	ilvC1	Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE9	clust_0857
+BRE9|SEQ00122	VBIBifBre30019_0122	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444274	159499	160551	+	1053	ilvC2	Ketol-acid reductoisomerase (EC 1.1.1.86)	BRE9	clust_0857
+DEN1|SEQ00576	VBIBifDen165269_0577	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462446	2015177	2016226	-	1050	ilvC	Ketol-acid reductoisomerase (EC 1.1.1.86)	DEN1	clust_0857
+DEN1|SEQ00577	VBIBifDen165269_0578	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462448	2016537	2017589	-	1053	ilvC2	Ketol-acid reductoisomerase (EC 1.1.1.86)	DEN1	clust_0857
+DEN2|SEQ01614	VBIBifDen39005_1615	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111620	87657	88706	-	1050	ilvC_1	Ketol-acid reductoisomerase (EC 1.1.1.86)	DEN2	clust_0857
+DEN2|SEQ01615	VBIBifDen39005_1616	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111622	89017	90069	-	1053	ilvC_2	Ketol-acid reductoisomerase (EC 1.1.1.86)	DEN2	clust_0857
+INF1|SEQ00104	VBIBifLon182273_0104	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884114	128883	129935	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	INF1	clust_0857
+INF1|SEQ00106	VBIBifLon182273_0106	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884118	130364	131416	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	INF1	clust_0857
+LON1|SEQ01269	VBIBifLon107831_1270	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119643	1496231	1497283	-	1053	ilvC1	Ketol-acid reductoisomerase (EC 1.1.1.86)	LON1	clust_0857
+LON1|SEQ01271	VBIBifLon107831_1272	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119647	1497712	1498764	-	1053	ilvC2	Ketol-acid reductoisomerase (EC 1.1.1.86)	LON1	clust_0857
+LON2|SEQ01296	VBIBifLon171405_1299	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582167	1502727	1503779	-	1053	ilvC1	Ketol-acid reductoisomerase (EC 1.1.1.86)	LON2	clust_0857
+LON2|SEQ01298	VBIBifLon171405_1301	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582171	1504208	1505260	-	1053	ilvC2	Ketol-acid reductoisomerase (EC 1.1.1.86)	LON2	clust_0857
+LON3|SEQ01373	VBIBifLon156230_1376	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769355	2132623	2133675	-	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	LON3	clust_0857
+LON3|SEQ01375	VBIBifLon156230_1378	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769359	2134103	2135155	-	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	LON3	clust_0857
+LON4|SEQ00113	VBIBifLon48544_0113	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888433	144378	145430	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	LON4	clust_0857
+LON4|SEQ00115	VBIBifLon48544_0115	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888437	145859	146911	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	LON4	clust_0857
+THE1|SEQ00118	VBIBifThe274299_0118	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733399	137394	138446	+	1053		Ketol-acid reductoisomerase (EC 1.1.1.86)	THE1	clust_0857

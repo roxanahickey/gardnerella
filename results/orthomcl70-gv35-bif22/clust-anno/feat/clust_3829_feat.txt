@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01122	VBIBifAdo136061_1122	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188569	35167	35424	+	258		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ADO1	clust_3829
+DEN1|SEQ01544	VBIBifDen165269_1545	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460234	819263	819520	-	258	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	DEN1	clust_3829
+DEN2|SEQ00094	VBIBifDen39005_0094	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108485	35829	36029	+	201	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	DEN2	clust_3829

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+LON3|SEQ00012	VBIBifLon156230_0012	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765647	23990	27286	-	3297		ATP-dependent nuclease, subunit B	LON3	clust_4550
+LON4|SEQ01366	VBIBifLon48544_1366	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891083	1558582	1561878	-	3297		ATP-dependent nuclease, subunit B	LON4	clust_4550

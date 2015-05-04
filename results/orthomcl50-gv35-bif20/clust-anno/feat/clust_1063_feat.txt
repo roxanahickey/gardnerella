@@ -1,0 +1,27 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00312	VBIGarVag246433_0312	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480488	208485	209978	+	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV04	clust_1063
+GV06|SEQ00411	VBIGarVag244004_0411	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489566	9645	11138	-	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV06	clust_1063
+GV09|SEQ00174	VBIGarVag169280_0174	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259503	157327	158820	+	1494	rbsA	ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV09	clust_1063
+GV10|SEQ01179	VBIGarVag136958_1179	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148462	1600164	1601594	-	1431		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV10	clust_1063
+GV11|SEQ00424	VBIGarVag171052_0424	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549163	4268	5761	-	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV11	clust_1063
+GV12|SEQ00516	VBIGarVag144721_0516	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853717	8662	10092	-	1431		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV12	clust_1063
+GV13|SEQ00028	VBIGarVag244533_0028	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485984	9560	11053	-	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV13	clust_1063
+GV15|SEQ01102	VBIGarVag249709_1102	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485804	80743	82236	+	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV15	clust_1063
+GV16|SEQ00096	VBIGarVag246379_0096	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477298	8697	10190	-	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV16	clust_1063
+GV17|SEQ00648	VBIGarVag146634_0648	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851356	78065	79495	+	1431		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV17	clust_1063
+GV18|SEQ00887	VBIGarVag4823_0887	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070574	9040	10533	-	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV18	clust_1063
+GV19|SEQ00191	VBIGarVag39333_0191	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627229	225017	226510	+	1494	rbsA	ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV19	clust_1063
+GV20|SEQ00071	VBIGarVag188338_0071	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188920	87476	88969	+	1494	rbsA_1	ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV20	clust_1063
+GV22|SEQ00374	VBIGarVag276801_0375	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970169	4438	5931	+	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV22	clust_1063
+GV24|SEQ00447	VBIGarVag268944_0448	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976025	5448	6941	+	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV24	clust_1063
+GV30|SEQ00610	VBIGarVag267667_0611	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993341	7221	8714	-	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV30	clust_1063
+GV33|SEQ00151	VBIGarVag265557_0151	Gardnerella vaginalis JCP8481A	ATJG01000012	PATRIC	CDS	184000986	3859	5352	+	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV33	clust_1063
+GV34|SEQ01075	VBIGarVag270440_1075	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005843	27948	29441	+	1494		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	GV34	clust_1063
+BRE1|SEQ01871	VBIBifBre340958_1873	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605809	2202524	2203939	+	1416		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE1	clust_1063
+BRE2|SEQ01466	VBIBifBre337368_1466	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608926	1695668	1697164	-	1497		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	BRE2	clust_1063
+BRE3|SEQ01435	VBIBifBre167886_1435	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194614	1678615	1680135	-	1521	rbsA_1	ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	BRE3	clust_1063
+BRE5|SEQ01990	VBIBifBre336369_1991	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618210	2244714	2246273	-	1560		hypothetical protein	BRE5	clust_1063
+BRE6|SEQ01341	VBIBifBre268992_1341	Bifidobacterium breve JCP7499	AWSX01000065	PATRIC	CDS	177655916	8210	9706	-	1497		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	BRE6	clust_1063
+BRE7|SEQ01436	VBIBifBre340732_1436	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621365	1661983	1663479	-	1497		ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	BRE7	clust_1063
+BRE8|SEQ01458	VBIBifBre176493_1458	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625522	1705085	1706581	-	1497	rbsA1	ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	BRE8	clust_1063
+BRE9|SEQ01524	VBIBifBre30019_1524	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447180	1768620	1770116	-	1497	rbsA1	ABC-type sugar transport system, ATP-binding protein (EC 3.6.3.17)	BRE9	clust_1063

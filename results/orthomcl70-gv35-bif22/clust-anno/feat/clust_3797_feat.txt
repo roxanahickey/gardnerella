@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ02097	VBIBifDen165269_2099	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463173	52474	53481	-	1008		nitroreductase	DEN1	clust_3797
+DEN2|SEQ01269	VBIBifDen39005_1270	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110917	52493	53500	-	1008		nitroreductase	DEN2	clust_3797
+THE1|SEQ00364	VBIBifThe274299_0364	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733903	425594	426526	+	933		nitroreductase	THE1	clust_3797

@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00729	VBIBifBre340958_0729	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603435	880135	881244	-	1110		Mobile element protein	BRE1	clust_2163
+BRE2|SEQ00825	VBIBifBre337368_0825	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607597	976984	978093	-	1110		Mobile element protein	BRE2	clust_2163
+BRE3|SEQ00163	VBIBifBre167886_0163	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191973	210360	211469	-	1110		Mobile element protein	BRE3	clust_2163
+BRE5|SEQ00407	VBIBifBre336369_0408	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614929	480076	481113	+	1038		Mobile element protein	BRE5	clust_2163
+BRE7|SEQ00422	VBIBifBre340732_0422	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619267	521059	522168	+	1110		Mobile element protein	BRE7	clust_2163
+BRE9|SEQ00171	VBIBifBre30019_0171	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444373	226165	227274	-	1110		Mobile element protein	BRE9	clust_2163
+BRE9|SEQ00332	VBIBifBre30019_0332	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444710	416651	417760	-	1110		Mobile element protein	BRE9	clust_2163
+THE1|SEQ00359	VBIBifThe274299_0359	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733893	420173	421372	-	1200		Mobile element protein	THE1	clust_2163

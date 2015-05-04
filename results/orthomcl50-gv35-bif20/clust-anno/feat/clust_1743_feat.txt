@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00606	VBIGarVag246433_0606	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481105	24269	25708	-	1440		DNA helicase, phage-associated	GV04	clust_1743
+GV05|SEQ00677	VBIGarVag174900_0677	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547113	294827	296266	+	1440		DNA helicase, phage-associated	GV05	clust_1743
+GV06|SEQ01167	VBIGarVag244004_1167	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491161	18023	19462	+	1440		DNA helicase, phage-associated	GV06	clust_1743
+GV12|SEQ01126	VBIGarVag144721_1126	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855074	9487	10926	+	1440		DNA helicase, phage-associated	GV12	clust_1743
+GV17|SEQ00120	VBIGarVag146634_0120	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850237	55656	57095	-	1440		DNA helicase, phage-associated	GV17	clust_1743
+GV20|SEQ00474	VBIGarVag188338_0474	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189762	587100	588539	+	1440		DNA helicase, phage-associated	GV20	clust_1743
+GV22|SEQ01272	VBIGarVag276801_1273	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972181	30352	31791	-	1440		DNA helicase, phage-associated	GV22	clust_1743
+GV23|SEQ00163	VBIGarVag276017_0163	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972627	15118	16557	-	1440		DNA helicase, phage-associated	GV23	clust_1743
+GV25|SEQ00060	VBIGarVag270495_0060	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977979	27958	29397	-	1440		DNA helicase, phage-associated	GV25	clust_1743
+GV26|SEQ00295	VBIGarVag272749_0295	Gardnerella vaginalis JCP8017A	ATJN01000015	PATRIC	CDS	183981356	3082	4521	-	1440		DNA helicase, phage-associated	GV26	clust_1743
+GV27|SEQ01216	VBIGarVag276930_1216	Gardnerella vaginalis JCP8017B	ATJM01000132	PATRIC	CDS	183986331	3530	4969	-	1440		DNA helicase, phage-associated	GV27	clust_1743
+GV30|SEQ01085	VBIGarVag267667_1087	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994391	15476	16915	+	1440		DNA helicase, phage-associated	GV30	clust_1743
+LON4|SEQ01110	VBIBifLon48544_1110	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890542	1243509	1244903	-	1395		hypothetical protein	LON4	clust_1743

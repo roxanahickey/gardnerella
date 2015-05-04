@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01200	VBIBifBif87902_1200	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884973	1439779	1440501	-	723		hypothetical protein	BIF1	clust_4135
+INF1|SEQ01182	VBIBifLon182273_1182	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886367	1326076	1326702	+	627		2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase (EC 4.1.2.-)	INF1	clust_4135

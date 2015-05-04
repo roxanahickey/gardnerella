@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01954	VBIBifAdo136061_1954	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190285	497770	498975	-	1206		Aspartate aminotransferase (EC 2.6.1.1)	ADO1	clust_1330
+ANI1|SEQ01309	VBIBifAni240121_1309	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847625	1529133	1530362	-	1230		Valine--pyruvate aminotransferase (EC 2.6.1.66)	ANI1	clust_1330
+ANI2|SEQ01309	VBIBifAni235968_1309	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850978	1529354	1530583	-	1230		Valine--pyruvate aminotransferase (EC 2.6.1.66)	ANI2	clust_1330
+ANI3|SEQ01318	VBIBifAni108068_1318	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764996	1534585	1535814	-	1230		Valine--pyruvate aminotransferase (EC 2.6.1.66)	ANI3	clust_1330
+BIF1|SEQ00418	VBIBifBif87902_0418	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883367	521938	523134	+	1197	aspC	Aspartate aminotransferase (EC 2.6.1.1)	BIF1	clust_1330
+BRE1|SEQ01404	VBIBifBre340958_1405	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604827	1661993	1663204	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE1	clust_1330
+BRE2|SEQ01520	VBIBifBre337368_1520	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609036	1761716	1762927	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE2	clust_1330
+BRE3|SEQ01479	VBIBifBre167886_1479	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194704	1733005	1734216	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE3	clust_1330
+BRE4|SEQ01445	VBIBifBre327712_1445	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613026	1692335	1693546	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE4	clust_1330
+BRE5|SEQ01597	VBIBifBre336369_1598	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617385	1798032	1799243	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE5	clust_1330
+BRE6|SEQ00940	VBIBifBre268992_0940	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655070	65761	66972	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE6	clust_1330
+BRE7|SEQ01474	VBIBifBre340732_1474	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621443	1710858	1712069	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE7	clust_1330
+BRE8|SEQ01497	VBIBifBre176493_1497	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625602	1752160	1753371	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE8	clust_1330
+BRE9|SEQ01561	VBIBifBre30019_1561	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447256	1815708	1816919	-	1212		Aspartate aminotransferase (EC 2.6.1.1)	BRE9	clust_1330
+INF1|SEQ01615	VBIBifLon182273_1615	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887246	1847341	1848513	-	1173		Aspartate aminotransferase (EC 2.6.1.1)	INF1	clust_1330
+LON1|SEQ01796	VBIBifLon107831_1797	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120756	2167740	2168912	+	1173		Aspartate aminotransferase (EC 2.6.1.1)	LON1	clust_1330
+LON2|SEQ01835	VBIBifLon171405_1838	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583299	2193865	2194998	+	1134		Aspartate aminotransferase (EC 2.6.1.1)	LON2	clust_1330
+LON3|SEQ01107	VBIBifLon156230_1109	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766088	276673	277845	-	1173		Aspartate aminotransferase (EC 2.6.1.1)	LON3	clust_1330
+LON4|SEQ01575	VBIBifLon48544_1575	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891510	1816778	1817911	-	1134		Aspartate aminotransferase (EC 2.6.1.1)	LON4	clust_1330
+THE1|SEQ01299	VBIBifThe274299_1299	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735824	1611758	1612885	-	1128		Aspartate aminotransferase (EC 2.6.1.1)	THE1	clust_1330

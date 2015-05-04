@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00129	VBIGarVag247323_0129	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494364	173770	174873	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV01	clust_0249
+GV02|SEQ00549	VBIGarVag242669_0549	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497901	166477	167580	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV02	clust_0249
+GV03|SEQ01101	VBIGarVag247424_1101	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501668	32398	33501	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV03	clust_0249
+GV04|SEQ00477	VBIGarVag246433_0477	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480840	112408	113511	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV04	clust_0249
+GV05|SEQ00040	VBIGarVag174900_0040	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545785	52572	53675	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV05	clust_0249
+GV06|SEQ00751	VBIGarVag244004_0751	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490292	81258	82361	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV06	clust_0249
+GV07|SEQ00440	VBIGarVag249177_0440	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492506	78470	79573	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV07	clust_0249
+GV08|SEQ00320	VBIGarVag251521_0320	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475031	132711	133814	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV08	clust_0249
+GV09|SEQ00491	VBIGarVag169280_0491	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260164	221758	222861	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV09	clust_0249
+GV10|SEQ00968	VBIGarVag136958_0968	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148018	1270055	1271131	-	1077	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV10	clust_0249
+GV11|SEQ00386	VBIGarVag171052_0386	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549082	78294	79397	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV11	clust_0249
+GV12|SEQ00371	VBIGarVag144721_0371	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853415	378792	379895	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV12	clust_0249
+GV13|SEQ00853	VBIGarVag244533_0853	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487706	346905	348008	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV13	clust_0249
+GV14|SEQ00742	VBIGarVag244375_0742	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503370	102846	103949	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV14	clust_0249
+GV15|SEQ00947	VBIGarVag249709_0947	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485470	121867	122970	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV15	clust_0249
+GV16|SEQ01141	VBIGarVag246379_1141	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479476	1337110	1338213	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV16	clust_0249
+GV17|SEQ01121	VBIGarVag146634_1121	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852337	59259	60362	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV17	clust_0249
+GV18|SEQ00935	VBIGarVag4823_0935	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	42070675	5953	6798	-	846	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV18	clust_0249
+GV19|SEQ00468	VBIGarVag39333_0469	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627805	573296	574399	+	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV19	clust_0249
+GV20|SEQ01051	VBIGarVag188338_1051	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190962	1311538	1312641	-	1104	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV20	clust_0249
+GV21|SEQ00088	VBIGarVag274454_0088	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	183966814	7929	9032	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV21	clust_0249
+GV22|SEQ00256	VBIGarVag276801_0257	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969928	10671	11774	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV22	clust_0249
+GV23|SEQ00314	VBIGarVag276017_0314	Gardnerella vaginalis JCP7659	ATJQ01000017	PATRIC	CDS	183972941	21485	22588	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV23	clust_0249
+GV24|SEQ00699	VBIGarVag268944_0700	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976584	11151	12254	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV24	clust_0249
+GV25|SEQ00316	VBIGarVag270495_0316	Gardnerella vaginalis JCP7719	ATJO01000019	PATRIC	CDS	183978531	21373	22476	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV25	clust_0249
+GV26|SEQ00763	VBIGarVag272749_0763	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	183982345	21498	22601	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV26	clust_0249
+GV27|SEQ00521	VBIGarVag276930_0521	Gardnerella vaginalis JCP8017B	ATJM01000017	PATRIC	CDS	183984795	11083	12186	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV27	clust_0249
+GV28|SEQ00341	VBIGarVag271349_0341	Gardnerella vaginalis JCP8066	ATJL01000019	PATRIC	CDS	183987351	11116	12219	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV28	clust_0249
+GV29|SEQ00381	VBIGarVag265473_0381	Gardnerella vaginalis JCP8070	ATJK01000018	PATRIC	CDS	183990154	11175	12278	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV29	clust_0249
+GV30|SEQ01202	VBIGarVag267667_1204	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	183994652	25797	26900	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV30	clust_0249
+GV31|SEQ00438	VBIGarVag264983_0438	Gardnerella vaginalis JCP8151A	ATJI01000014	PATRIC	CDS	183995936	11171	12274	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV31	clust_0249
+GV32|SEQ00174	VBIGarVag277040_0174	Gardnerella vaginalis JCP8151B	ATJH01000012	PATRIC	CDS	183998192	21448	22551	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV32	clust_0249
+GV33|SEQ00607	VBIGarVag265557_0607	Gardnerella vaginalis JCP8481A	ATJG01000055	PATRIC	CDS	184001960	7792	8895	-	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV33	clust_0249
+GV34|SEQ00583	VBIGarVag270440_0583	Gardnerella vaginalis JCP8481B	ATJF01000053	PATRIC	CDS	184004761	7420	8523	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV34	clust_0249
+GV35|SEQ00546	VBIGarVag272169_0546	Gardnerella vaginalis JCP8522	ATJE01000036	PATRIC	CDS	184007428	21447	22550	+	1104		Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	GV35	clust_0249

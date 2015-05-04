@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00677	VBIGarVag136958_0677	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147422	876593	877216	+	624	thiF	Sulfur carrier protein adenylyltransferase ThiF	GV10	clust_1673
+GV12|SEQ00113	VBIGarVag144721_0113	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852885	43749	44372	+	624		Sulfur carrier protein adenylyltransferase ThiF	GV12	clust_1673
+GV15|SEQ00720	VBIGarVag249709_0720	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484995	190909	191532	+	624		Sulfur carrier protein adenylyltransferase ThiF	GV15	clust_1673
+GV17|SEQ00883	VBIGarVag146634_0883	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851843	99528	100151	-	624		Sulfur carrier protein adenylyltransferase ThiF	GV17	clust_1673

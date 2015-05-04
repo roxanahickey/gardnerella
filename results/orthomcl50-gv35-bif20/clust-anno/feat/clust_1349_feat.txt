@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00578	VBIBifAdo136061_0578	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187432	444089	445654	+	1566		peptidase, U32 family large subunit [C1]	ADO1	clust_1349
+ANI1|SEQ00336	VBIBifAni240121_0336	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845588	411106	412641	+	1536		peptidase, U32 family large subunit [C1]	ANI1	clust_1349
+ANI2|SEQ00335	VBIBifAni235968_0335	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848941	411108	412643	+	1536		peptidase, U32 family large subunit [C1]	ANI2	clust_1349
+ANI3|SEQ00336	VBIBifAni108068_0336	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762954	411109	412644	+	1536		peptidase, U32 family large subunit [C1]	ANI3	clust_1349
+BIF1|SEQ01580	VBIBifBif87902_1580	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885774	1898082	1899674	-	1593	yegQ	peptidase, U32 family large subunit [C1]	BIF1	clust_1349
+BRE1|SEQ01666	VBIBifBre340958_1667	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605381	1941982	1943532	-	1551		peptidase, U32 family large subunit [C1]	BRE1	clust_1349
+BRE2|SEQ01771	VBIBifBre337368_1771	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609567	2042528	2044078	-	1551		peptidase, U32 family large subunit [C1]	BRE2	clust_1349
+BRE3|SEQ01735	VBIBifBre167886_1735	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195244	2014817	2016367	-	1551		peptidase, U32 family large subunit [C1]	BRE3	clust_1349
+BRE4|SEQ01705	VBIBifBre327712_1705	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613576	1974778	1976316	-	1539		peptidase, U32 family large subunit [C1]	BRE4	clust_1349
+BRE5|SEQ01827	VBIBifBre336369_1828	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617873	2045748	2047298	-	1551		peptidase, U32 family large subunit [C1]	BRE5	clust_1349
+BRE6|SEQ01364	VBIBifBre268992_1364	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177655968	12719	14257	+	1539		peptidase, U32 family large subunit [C1]	BRE6	clust_1349
+BRE7|SEQ01764	VBIBifBre340732_1764	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622051	2025875	2027413	-	1539		peptidase, U32 family large subunit [C1]	BRE7	clust_1349
+BRE8|SEQ01720	VBIBifBre176493_1720	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626075	1999345	2000883	-	1539		peptidase, U32 family large subunit [C1]	BRE8	clust_1349
+BRE9|SEQ01828	VBIBifBre30019_1828	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447819	2103321	2104859	-	1539		peptidase, U32 family large subunit [C1]	BRE9	clust_1349
+INF1|SEQ00276	VBIBifLon182273_0276	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884481	348653	350299	+	1647		peptidase, U32 family large subunit [C1]	INF1	clust_1349
+LON1|SEQ01064	VBIBifLon107831_1065	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119211	1253954	1255600	-	1647		peptidase, U32 family large subunit [C1]	LON1	clust_1349
+LON2|SEQ01122	VBIBifLon171405_1124	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581797	1282826	1284472	-	1647		peptidase, U32 family large subunit [C1]	LON2	clust_1349
+LON3|SEQ00938	VBIBifLon156230_0939	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768857	1873187	1874833	-	1647		peptidase, U32 family large subunit [C1]	LON3	clust_1349
+LON4|SEQ00295	VBIBifLon48544_0295	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888822	366016	367662	+	1647		peptidase, U32 family large subunit [C1]	LON4	clust_1349
+THE1|SEQ01497	VBIBifThe274299_1497	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736242	1840092	1841699	-	1608		peptidase, U32 family large subunit [C1]	THE1	clust_1349

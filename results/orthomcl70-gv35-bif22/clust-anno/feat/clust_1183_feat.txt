@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00419	VBIBifAdo136061_0419	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187101	249855	250193	+	339		Nitrogen regulatory protein P-II	ADO1	clust_1183
+ANI1|SEQ00188	VBIBifAni240121_0188	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845280	223110	223448	+	339		Nitrogen regulatory protein P-II	ANI1	clust_1183
+ANI2|SEQ00187	VBIBifAni235968_0187	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848633	223111	223449	+	339		Nitrogen regulatory protein P-II	ANI2	clust_1183
+ANI3|SEQ00190	VBIBifAni108068_0190	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762650	223111	223449	+	339		Nitrogen regulatory protein P-II	ANI3	clust_1183
+BIF1|SEQ01673	VBIBifBif87902_1673	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885966	2014478	2014816	-	339	glnB	Nitrogen regulatory protein P-II	BIF1	clust_1183
+BRE1|SEQ00208	VBIBifBre340958_0208	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602351	272498	272836	+	339		Nitrogen regulatory protein P-II	BRE1	clust_1183
+BRE2|SEQ00228	VBIBifBre337368_0228	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606364	299716	300054	+	339		Nitrogen regulatory protein P-II	BRE2	clust_1183
+BRE3|SEQ00247	VBIBifBre167886_0247	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192151	323698	324036	+	339		Nitrogen regulatory protein P-II	BRE3	clust_1183
+BRE4|SEQ00226	VBIBifBre327712_0226	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610502	297526	297864	+	339		Nitrogen regulatory protein P-II	BRE4	clust_1183
+BRE5|SEQ00229	VBIBifBre336369_0230	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614558	286945	287283	+	339		Nitrogen regulatory protein P-II	BRE5	clust_1183
+BRE6|SEQ02031	VBIBifBre268992_2031	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657387	11120	11458	-	339		Nitrogen regulatory protein P-II	BRE6	clust_1183
+BRE7|SEQ00223	VBIBifBre340732_0223	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618854	295303	295641	+	339		Nitrogen regulatory protein P-II	BRE7	clust_1183
+BRE8|SEQ00250	VBIBifBre176493_0250	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623021	326774	327112	+	339	glnB	Nitrogen regulatory protein P-II	BRE8	clust_1183
+BRE9|SEQ00258	VBIBifBre30019_0258	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444557	342051	342389	+	339	glnB	Nitrogen regulatory protein P-II	BRE9	clust_1183
+DEN1|SEQ00509	VBIBifDen165269_0510	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462310	1922913	1923251	-	339	glnB	Nitrogen regulatory protein P-II	DEN1	clust_1183
+DEN2|SEQ01346	VBIBifDen39005_1347	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111077	76611	76949	-	339		Nitrogen regulatory protein P-II	DEN2	clust_1183
+INF1|SEQ00186	VBIBifLon182273_0186	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884289	237503	237841	+	339		Nitrogen regulatory protein P-II	INF1	clust_1183
+LON1|SEQ01178	VBIBifLon107831_1179	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119451	1381827	1382165	-	339	glnB	Nitrogen regulatory protein P-II	LON1	clust_1183
+LON2|SEQ01213	VBIBifLon171405_1215	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581991	1396466	1396804	-	339	glnK	Nitrogen regulatory protein P-II	LON2	clust_1183
+LON3|SEQ01292	VBIBifLon156230_1294	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769183	2026310	2026648	-	339		Nitrogen regulatory protein P-II	LON3	clust_1183
+LON4|SEQ00206	VBIBifLon48544_0206	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888632	256777	257115	+	339		Nitrogen regulatory protein P-II	LON4	clust_1183
+THE1|SEQ00199	VBIBifThe274299_0199	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733563	236438	236776	+	339		Nitrogen regulatory protein P-II	THE1	clust_1183

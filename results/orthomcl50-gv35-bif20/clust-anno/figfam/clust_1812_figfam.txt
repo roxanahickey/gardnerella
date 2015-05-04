@@ -1,0 +1,13 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ01128	86884824	VBIBifBif87902_1128	SEQ01128	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV04|SEQ00602	85481097	VBIGarVag246433_0602	SEQ00602	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV05|SEQ00681	52547121	VBIGarVag174900_0681	SEQ00681	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV06|SEQ01172	85491171	VBIGarVag244004_1172	SEQ01172	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV12|SEQ01130	37855082	VBIGarVag144721_1130	SEQ01130	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV17|SEQ00116	37850229	VBIGarVag146634_0116	SEQ00116	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV20|SEQ00478	54189770	VBIGarVag188338_0478	SEQ00478	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV22|SEQ01267	183972171	VBIGarVag276801_1268	SEQ01267	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV25|SEQ00055	183977969	VBIGarVag270495_0055	SEQ00055	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV26|SEQ00967	183982792	VBIGarVag272749_0967	SEQ00967	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000061	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV27|SEQ01212	183986322	VBIGarVag276930_1212	SEQ01212	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000131	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812
+GV30|SEQ01089	183994399	VBIGarVag267667_1091	SEQ01089	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	NA	FIG00519798: hypothetical protein	FIG00519797	figfam	clust_1812

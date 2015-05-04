@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00272	VBIBifAdo136061_0272	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186792	63936	65963	+	2028		COG0515: Serine/threonine protein kinase	ADO1	clust_1464
+BIF1|SEQ01812	VBIBifBif87902_1812	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886262	2198188	2200659	+	2472	pkwA	COG0515: Serine/threonine protein kinase	BIF1	clust_1464
+BRE1|SEQ01890	VBIBifBre340958_1892	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605847	2220799	2222991	+	2193		COG0515: Serine/threonine protein kinase	BRE1	clust_1464
+BRE2|SEQ01974	VBIBifBre337368_1974	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609990	2307862	2310054	+	2193		COG0515: Serine/threonine protein kinase	BRE2	clust_1464
+BRE3|SEQ01955	VBIBifBre167886_1955	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195707	2303741	2305942	+	2202		COG0515: Serine/threonine protein kinase	BRE3	clust_1464
+BRE4|SEQ01927	VBIBifBre327712_1927	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614039	2265094	2267286	+	2193		COG0515: Serine/threonine protein kinase	BRE4	clust_1464
+BRE5|SEQ02056	VBIBifBre336369_2057	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618349	2335198	2337390	+	2193		COG0515: Serine/threonine protein kinase	BRE5	clust_1464
+BRE6|SEQ01508	VBIBifBre268992_1508	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656275	3647	5839	+	2193		COG0515: Serine/threonine protein kinase	BRE6	clust_1464
+BRE7|SEQ01961	VBIBifBre340732_1961	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622462	2292067	2294268	+	2202		putative serine/threonine protein kinase	BRE7	clust_1464
+BRE8|SEQ01931	VBIBifBre176493_1931	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626521	2270633	2272834	+	2202		COG0515: Serine/threonine protein kinase	BRE8	clust_1464
+BRE9|SEQ02053	VBIBifBre30019_2053	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448286	2398857	2401049	+	2193		COG0515: Serine/threonine protein kinase	BRE9	clust_1464
+DEN1|SEQ00708	VBIBifDen165269_0709	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462722	2181720	2183717	-	1998		COG0515: Serine/threonine protein kinase	DEN1	clust_1464
+DEN2|SEQ01173	VBIBifDen39005_1174	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000022	PATRIC	CDS	42110714	3507	5504	+	1998		COG0515: Serine/threonine protein kinase	DEN2	clust_1464
+INF1|SEQ02015	VBIBifLon182273_2015	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888103	2359827	2362046	+	2220		putative serine/threonine protein kinase	INF1	clust_1464
+LON1|SEQ01390	VBIBifLon107831_1391	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119895	1648197	1650416	-	2220		putative serine/threonine protein kinase	LON1	clust_1464
+LON2|SEQ01433	VBIBifLon171405_1436	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582453	1664196	1666415	-	2220		putative serine/threonine protein kinase	LON2	clust_1464
+LON3|SEQ01517	VBIBifLon156230_1520	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769655	2317572	2319851	-	2280		putative serine/threonine protein kinase	LON3	clust_1464
+LON4|SEQ01980	VBIBifLon48544_1981	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892377	2360513	2362732	+	2220		putative serine/threonine protein kinase	LON4	clust_1464
+THE1|SEQ01819	VBIBifThe274299_1819	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736928	2263223	2265475	+	2253		COG0515: Serine/threonine protein kinase	THE1	clust_1464

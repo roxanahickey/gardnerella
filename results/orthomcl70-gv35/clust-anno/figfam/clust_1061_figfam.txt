@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV01|SEQ00320	85494773	VBIGarVag247323_0320	SEQ00320	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV01|SEQ01145	85496492	VBIGarVag247323_1145	SEQ01145	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV02|SEQ00736	85498300	VBIGarVag242669_0736	SEQ00736	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000014	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV03|SEQ00704	85500832	VBIGarVag247424_0704	SEQ00704	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV05|SEQ00733	52547225	VBIGarVag174900_0733	SEQ00733	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV06|SEQ00027	85488759	VBIGarVag244004_0027	SEQ00027	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV13|SEQ00948	85487905	VBIGarVag244533_0948	SEQ00948	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000013	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV14|SEQ01029	85503966	VBIGarVag244375_1029	SEQ01029	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV15|SEQ00591	85484721	VBIGarVag249709_0591	SEQ00591	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV17|SEQ01019	37852132	VBIGarVag146634_1019	SEQ01019	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV23|SEQ00871	183974154	VBIGarVag276017_0871	SEQ00871	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000069	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV25|SEQ00606	183979163	VBIGarVag270495_0606	SEQ00606	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000056	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV25|SEQ00872	183979728	VBIGarVag270495_0872	SEQ00872	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000077	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV26|SEQ00857	183982558	VBIGarVag272749_0857	SEQ00857	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000049	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV27|SEQ00714	183985214	VBIGarVag276930_0714	SEQ00714	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000032	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV30|SEQ00513	183993122	VBIGarVag267667_0514	SEQ00513	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000027	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV31|SEQ00724	183996547	VBIGarVag264983_0724	SEQ00724	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV32|SEQ00594	183999095	VBIGarVag277040_0594	SEQ00594	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000041	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV33|SEQ00334	184001376	VBIGarVag265557_0334	SEQ00334	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000028	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061
+GV34|SEQ00914	184005487	VBIGarVag270440_0914	SEQ00914	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000102	PATRIC	CDS	NA	DNA-damage-inducible protein J	FIG00002504	figfam	clust_1061

@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01395	27189142	VBIBifAdo136061_1395	SEQ01395	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+ANI1|SEQ01403	86847813	VBIBifAni240121_1403	SEQ01403	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+ANI2|SEQ01402	86851164	VBIBifAni235968_1402	SEQ01402	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+ANI3|SEQ01412	42765184	VBIBifAni108068_1412	SEQ01412	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BIF1|SEQ00212	86882937	VBIBifBif87902_0212	SEQ00212	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE1|SEQ00274	268602490	VBIBifBre340958_0274	SEQ00274	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE2|SEQ00337	268606590	VBIBifBre337368_0337	SEQ00337	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE3|SEQ00326	54192317	VBIBifBre167886_0326	SEQ00326	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE4|SEQ00291	268610639	VBIBifBre327712_0291	SEQ00291	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE5|SEQ00314	268614736	VBIBifBre336369_0315	SEQ00314	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE6|SEQ00536	177654211	VBIBifBre268992_0536	SEQ00536	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE7|SEQ00303	268619022	VBIBifBre340732_0303	SEQ00303	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE8|SEQ00329	268623187	VBIBifBre176493_0329	SEQ00329	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	psp1	Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+BRE9|SEQ00378	58444810	VBIBifBre30019_0378	SEQ00378	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+INF1|SEQ00256	46884435	VBIBifLon182273_0256	SEQ00256	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Putative translation initiation inhibitor, yjgF family	FIG00538044	figfam	clust_1214
+LON1|SEQ01084	21119257	VBIBifLon107831_1085	SEQ01084	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Putative translation initiation inhibitor, yjgF family	FIG00538044	figfam	clust_1214
+LON2|SEQ01142	42581843	VBIBifLon171405_1144	SEQ01142	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+LON3|SEQ00968	42768923	VBIBifLon156230_0969	SEQ00968	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214
+LON4|SEQ00275	46888776	VBIBifLon48544_0275	SEQ00275	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Putative translation initiation inhibitor, yjgF family	FIG00538044	figfam	clust_1214
+THE1|SEQ01537	124736326	VBIBifThe274299_1537	SEQ01537	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Endoribonuclease L-PSP	FIG00002122	figfam	clust_1214

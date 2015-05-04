@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01851	VBIBifBre337368_1851	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609735	2140438	2141685	-	1248		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE2	clust_3078
+BRE7|SEQ01846	VBIBifBre340732_1846	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622223	2123486	2124733	-	1248		Sugar-binding periplasmic protein	BRE7	clust_3078
+DEN1|SEQ01447	VBIBifDen165269_1448	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460024	715136	716386	-	1251		hypothetical protein	DEN1	clust_3078
+DEN2|SEQ00193	VBIBifDen39005_0193	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108702	138907	140157	+	1251		hypothetical protein	DEN2	clust_3078

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00056	VBIGarVag247323_0056	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494210	74372	77938	+	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV01	clust_0283
+GV02|SEQ00624	VBIGarVag242669_0624	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498060	265810	269376	-	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV02	clust_0283
+GV03|SEQ00483	VBIGarVag247424_0483	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500373	22856	26422	+	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV03	clust_0283
+GV04|SEQ00357	VBIGarVag246433_0357	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480587	65516	68854	+	3339	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV04	clust_0283
+GV05|SEQ00509	VBIGarVag174900_0509	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546762	84232	87798	+	3567		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV05	clust_0283
+GV06|SEQ00305	VBIGarVag244004_0305	Gardnerella vaginalis 1400E	ADER01000007	PATRIC	CDS	85489335	6158	9496	-	3339	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV06	clust_0283
+GV07|SEQ00902	VBIGarVag249177_0902	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493475	190969	194535	-	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV07	clust_0283
+GV08|SEQ01271	VBIGarVag251521_1271	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85477013	417120	420563	+	3444	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV08	clust_0283
+GV09|SEQ01297	VBIGarVag169280_1297	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261845	192981	196547	+	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV09	clust_0283
+GV10|SEQ01027	VBIGarVag136958_1027	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148140	1368600	1372166	-	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV10	clust_0283
+GV11|SEQ01227	VBIGarVag171052_1227	Gardnerella vaginalis 41V	AEJE01000069	PATRIC	CDS	52550873	21095	24520	-	3426		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV11	clust_0283
+GV12|SEQ00433	VBIGarVag144721_0433	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853543	477380	480946	-	3567		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV12	clust_0283
+GV13|SEQ00972	VBIGarVag244533_0972	Gardnerella vaginalis 55152	ADEQ01000014	PATRIC	CDS	85487954	21588	25013	-	3426	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV13	clust_0283
+GV14|SEQ00045	VBIGarVag244375_0045	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501906	29388	32954	-	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV14	clust_0283
+GV15|SEQ01013	VBIGarVag249709_1013	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485606	221817	225383	-	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV15	clust_0283
+GV16|SEQ00423	VBIGarVag246379_0423	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477988	421102	424545	+	3444	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV16	clust_0283
+GV17|SEQ01180	VBIGarVag146634_1180	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852459	159484	163050	-	3567		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV17	clust_0283
+GV18|SEQ00076	VBIGarVag4823_0076	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000040	PATRIC	CDS	42068816	21	326	+	306	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV18	clust_0283
+GV19|SEQ01188	VBIGarVag39333_1190	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629291	1474740	1478165	-	3426	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV19	clust_0283
+GV20|SEQ00319	VBIGarVag188338_0319	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189447	388133	391699	+	3567	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV20	clust_0283
+GV21|SEQ00980	VBIGarVag274454_0981	Gardnerella vaginalis JCP7275	ATJS01000088	PATRIC	CDS	183968745	3002	6568	+	3567		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV21	clust_0283
+GV22|SEQ01213	VBIGarVag276801_1214	Gardnerella vaginalis JCP7276	ATJR01000160	PATRIC	CDS	183972049	6222	9560	-	3339		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV22	clust_0283
+GV23|SEQ00840	VBIGarVag276017_0840	Gardnerella vaginalis JCP7659	ATJQ01000066	PATRIC	CDS	183974083	845	1879	-	1035		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV23	clust_0283
+GV24|SEQ01202	VBIGarVag268944_1203	Gardnerella vaginalis JCP7672	ATJP01000153	PATRIC	CDS	183977740	3430	6873	+	3444		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV24	clust_0283
+GV25|SEQ00968	VBIGarVag270495_0968	Gardnerella vaginalis JCP7719	ATJO01000106	PATRIC	CDS	183979966	33	2939	+	2907		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV25	clust_0283
+GV26|SEQ01059	VBIGarVag272749_1059	Gardnerella vaginalis JCP8017A	ATJN01000075	PATRIC	CDS	183983000	3032	4147	-	1116		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV26	clust_0283
+GV27|SEQ00893	VBIGarVag276930_0893	Gardnerella vaginalis JCP8017B	ATJM01000045	PATRIC	CDS	183985587	2850	4037	-	1188		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV27	clust_0283
+GV28|SEQ00678	VBIGarVag271349_0678	Gardnerella vaginalis JCP8066	ATJL01000053	PATRIC	CDS	183988095	4	1062	+	1059		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV28	clust_0283
+GV29|SEQ01154	VBIGarVag265473_1154	Gardnerella vaginalis JCP8070	ATJK01000141	PATRIC	CDS	183991889	4239	5297	-	1059		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV29	clust_0283
+GV30|SEQ01338	VBIGarVag267667_1340	Gardnerella vaginalis JCP8108	ATJJ01000168	PATRIC	CDS	183994977	3215	6658	+	3444		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV30	clust_0283
+GV31|SEQ00814	VBIGarVag264983_0814	Gardnerella vaginalis JCP8151A	ATJI01000051	PATRIC	CDS	183996755	68	1255	+	1188		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV31	clust_0283
+GV32|SEQ00949	VBIGarVag277040_0949	Gardnerella vaginalis JCP8151B	ATJH01000098	PATRIC	CDS	183999891	67	1254	+	1188		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV32	clust_0283
+GV33|SEQ01109	VBIGarVag265557_1109	Gardnerella vaginalis JCP8481A	ATJG01000147	PATRIC	CDS	184003098	9	1043	+	1035		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV33	clust_0283
+GV34|SEQ01171	VBIGarVag270440_1171	Gardnerella vaginalis JCP8481B	ATJF01000134	PATRIC	CDS	184006054	14	1048	+	1035		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV34	clust_0283
+GV35|SEQ00708	VBIGarVag272169_0708	Gardnerella vaginalis JCP8522	ATJE01000061	PATRIC	CDS	184007793	3018	3977	-	960		DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	GV35	clust_0283

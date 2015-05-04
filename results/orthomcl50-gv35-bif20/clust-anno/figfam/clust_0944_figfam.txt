@@ -1,0 +1,36 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00555	86846053	VBIBifAni240121_0555	SEQ00555	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0944
+ANI2|SEQ00555	86849407	VBIBifAni235968_0555	SEQ00555	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0944
+ANI3|SEQ00557	42763420	VBIBifAni108068_0557	SEQ00557	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0944
+BIF1|SEQ01811	86886260	VBIBifBif87902_1811	SEQ01811	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_0944
+BRE1|SEQ00232	268602402	VBIBifBre340958_0232	SEQ00232	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE2|SEQ00265	268606442	VBIBifBre337368_0265	SEQ00265	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE3|SEQ00283	54192227	VBIBifBre167886_0283	SEQ00283	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE4|SEQ00249	268610551	VBIBifBre327712_0249	SEQ00249	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE5|SEQ00268	268614639	VBIBifBre336369_0269	SEQ00268	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE6|SEQ00316	177653749	VBIBifBre268992_0316	SEQ00316	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE7|SEQ00261	268618934	VBIBifBre340732_0261	SEQ00261	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE8|SEQ00287	268623099	VBIBifBre176493_0287	SEQ00287	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+BRE9|SEQ00297	58444639	VBIBifBre30019_0297	SEQ00297	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+GV03|SEQ00486	85500379	VBIGarVag247424_0486	SEQ00486	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV03|SEQ00970	85501386	VBIGarVag247424_0970	SEQ00970	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV05|SEQ00513	52546770	VBIGarVag174900_0513	SEQ00513	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV06|SEQ01370	85491574	VBIGarVag244004_1370	SEQ01370	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV07|SEQ00898	85493467	VBIGarVag249177_0898	SEQ00898	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV07|SEQ00899	85493469	VBIGarVag249177_0899	SEQ00899	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV08|SEQ00653	85475725	VBIGarVag251521_0653	SEQ00653	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000008	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV11|SEQ00930	52550233	VBIGarVag171052_0930	SEQ00930	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV14|SEQ01074	85504059	VBIGarVag244375_1074	SEQ01074	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV15|SEQ01010	85485600	VBIGarVag249709_1010	SEQ01010	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV17|SEQ01178	37852455	VBIGarVag146634_1178	SEQ01178	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV19|SEQ00943	42628791	VBIGarVag39333_0944	SEQ00943	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV19|SEQ00944	42628793	VBIGarVag39333_0945	SEQ00944	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV20|SEQ00609	54190039	VBIGarVag188338_0609	SEQ00609	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV22|SEQ01065	183971677	VBIGarVag276801_1066	SEQ01065	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000096	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV29|SEQ00739	183990940	VBIGarVag265473_0739	SEQ00739	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000050	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV31|SEQ00564	183996206	VBIGarVag264983_0564	SEQ00564	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000024	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+GV34|SEQ00600	184004798	VBIGarVag270440_0600	SEQ00600	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000056	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0944
+INF1|SEQ00217	46884353	VBIBifLon182273_0217	SEQ00217	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+INF1|SEQ01323	46886650	VBIBifLon182273_1323	SEQ01323	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+LON3|SEQ01937	42767066	VBIBifLon156230_1940	SEQ01937	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944
+LON4|SEQ01299	46890942	VBIBifLon48544_1299	SEQ01299	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_0944

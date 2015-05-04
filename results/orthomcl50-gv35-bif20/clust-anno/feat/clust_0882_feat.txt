@@ -1,0 +1,39 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00298	VBIGarVag247323_0298	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494719	41133	41942	-	810		Alkanesulfonates transport system permease protein	GV01	clust_0882
+GV02|SEQ00652	VBIGarVag242669_0652	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498121	9432	10241	+	810		Alkanesulfonates transport system permease protein	GV02	clust_0882
+GV03|SEQ00781	VBIGarVag247424_0781	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500993	77021	77854	-	834		Alkanesulfonates transport system permease protein	GV03	clust_0882
+GV04|SEQ01091	VBIGarVag246433_1091	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482103	49409	50206	-	798		Alkanesulfonates transport system permease protein	GV04	clust_0882
+GV05|SEQ00834	VBIGarVag174900_0834	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547434	503776	504609	-	834		Alkanesulfonates transport system permease protein	GV05	clust_0882
+GV06|SEQ00657	VBIGarVag244004_0657	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490098	9407	10204	+	798		Alkanesulfonates transport system permease protein	GV06	clust_0882
+GV07|SEQ00592	VBIGarVag249177_0592	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492833	86369	87190	-	822		Alkanesulfonates transport system permease protein	GV07	clust_0882
+GV08|SEQ00132	VBIGarVag251521_0132	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474635	157181	157978	+	798		Alkanesulfonates transport system permease protein	GV08	clust_0882
+GV09|SEQ00960	VBIGarVag169280_0960	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261132	376653	377450	+	798		Alkanesulfonates transport system permease protein	GV09	clust_0882
+GV10|SEQ00581	VBIGarVag136958_0581	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147220	744210	745025	-	816		Alkanesulfonates transport system permease protein	GV10	clust_0882
+GV11|SEQ00654	VBIGarVag171052_0654	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549655	8957	9754	+	798		Alkanesulfonates transport system permease protein	GV11	clust_0882
+GV12|SEQ01221	VBIGarVag144721_1221	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855272	95539	96105	-	567		Alkanesulfonates transport system permease protein	GV12	clust_0882
+GV13|SEQ00596	VBIGarVag244533_0596	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487165	9389	10186	+	798		Alkanesulfonates transport system permease protein	GV13	clust_0882
+GV14|SEQ00299	VBIGarVag244375_0299	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502440	126518	127339	-	822		Alkanesulfonates transport system permease protein	GV14	clust_0882
+GV15|SEQ00639	VBIGarVag249709_0639	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484823	85353	86168	-	816		Alkanesulfonates transport system permease protein	GV15	clust_0882
+GV16|SEQ00907	VBIGarVag246379_0907	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478981	1026726	1027523	+	798		Alkanesulfonates transport system permease protein	GV16	clust_0882
+GV17|SEQ00970	VBIGarVag146634_0970	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852028	102467	103033	+	567		Alkanesulfonates transport system permease protein	GV17	clust_0882
+GV18|SEQ00419	VBIGarVag4823_0419	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000096	PATRIC	CDS	42069569	1397	2194	+	798		Alkanesulfonates transport system permease protein	GV18	clust_0882
+GV19|SEQ00711	VBIGarVag39333_0712	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628316	887398	888195	-	798		Alkanesulfonates transport system permease protein	GV19	clust_0882
+GV20|SEQ00830	VBIGarVag188338_0830	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190494	1009934	1010731	+	798		Alkanesulfonates transport system permease protein	GV20	clust_0882
+GV21|SEQ00283	VBIGarVag274454_0283	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967218	63450	64247	+	798		Alkanesulfonates transport system permease protein	GV21	clust_0882
+GV22|SEQ00084	VBIGarVag276801_0084	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969553	109396	110193	-	798		Alkanesulfonates transport system permease protein	GV22	clust_0882
+GV23|SEQ00135	VBIGarVag276017_0135	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972567	39510	40319	-	810		Alkanesulfonates transport system permease protein	GV23	clust_0882
+GV24|SEQ00988	VBIGarVag268944_0989	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977207	65529	66326	+	798		Alkanesulfonates transport system permease protein	GV24	clust_0882
+GV25|SEQ00744	VBIGarVag270495_0744	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979455	52482	53291	-	810		Alkanesulfonates transport system permease protein	GV25	clust_0882
+GV26|SEQ00383	VBIGarVag272749_0383	Gardnerella vaginalis JCP8017A	ATJN01000024	PATRIC	CDS	183981545	13810	14619	-	810		Alkanesulfonates transport system permease protein	GV26	clust_0882
+GV27|SEQ00099	VBIGarVag276930_0099	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983912	9516	10325	+	810		Alkanesulfonates transport system permease protein	GV27	clust_0882
+GV28|SEQ00274	VBIGarVag271349_0274	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987211	48283	49092	-	810		Alkanesulfonates transport system permease protein	GV28	clust_0882
+GV29|SEQ00889	VBIGarVag265473_0889	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991267	45783	46592	-	810		Alkanesulfonates transport system permease protein	GV29	clust_0882
+GV30|SEQ00257	VBIGarVag267667_0258	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992572	18002	18799	+	798		Alkanesulfonates transport system permease protein	GV30	clust_0882
+GV31|SEQ00029	VBIGarVag264983_0029	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995076	38643	39452	-	810		Alkanesulfonates transport system permease protein	GV31	clust_0882
+GV32|SEQ00287	VBIGarVag277040_0287	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998422	121858	122667	-	810		Alkanesulfonates transport system permease protein	GV32	clust_0882
+GV33|SEQ01196	VBIGarVag265557_1196	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003325	6870	7691	+	822		Alkanesulfonates transport system permease protein	GV33	clust_0882
+GV34|SEQ00718	VBIGarVag270440_0718	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005055	24751	25572	-	822		Alkanesulfonates transport system permease protein	GV34	clust_0882
+GV35|SEQ00162	VBIGarVag272169_0162	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006603	58856	59665	-	810		Alkanesulfonates transport system permease protein	GV35	clust_0882
+ANI1|SEQ01006	VBIBifAni240121_1006	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846994	1163192	1164100	+	909		Alkanesulfonates transport system permease protein	ANI1	clust_0882
+ANI2|SEQ01006	VBIBifAni235968_1006	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850347	1163195	1164103	+	909		Alkanesulfonates transport system permease protein	ANI2	clust_0882
+ANI3|SEQ01010	VBIBifAni108068_1010	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764361	1163196	1164104	+	909		Alkanesulfonates transport system permease protein	ANI3	clust_0882

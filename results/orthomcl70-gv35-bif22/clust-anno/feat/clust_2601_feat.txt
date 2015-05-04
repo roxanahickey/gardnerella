@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01235	VBIGarVag247323_1235	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496675	2254	3513	+	1260		Exonuclease SbcC	GV01	clust_2601
+GV02|SEQ00038	VBIGarVag242669_0038	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496831	42032	43201	-	1170		Exonuclease SbcC	GV02	clust_2601
+GV25|SEQ01208	VBIGarVag270495_1208	Gardnerella vaginalis JCP7719	ATJO01000159	PATRIC	CDS	183980507	1789	2895	-	1107		Exonuclease SbcC	GV25	clust_2601
+GV28|SEQ01120	VBIGarVag271349_1120	Gardnerella vaginalis JCP8066	ATJL01000164	PATRIC	CDS	183989126	1868	3088	-	1221		Exonuclease SbcC	GV28	clust_2601
+GV29|SEQ01089	VBIGarVag265473_1089	Gardnerella vaginalis JCP8070	ATJK01000114	PATRIC	CDS	183991724	2219	3472	-	1254		Exonuclease SbcC	GV29	clust_2601
+GV35|SEQ01144	VBIGarVag272169_1144	Gardnerella vaginalis JCP8522	ATJE01000168	PATRIC	CDS	184008806	4014	5210	-	1197		hypothetical protein	GV35	clust_2601

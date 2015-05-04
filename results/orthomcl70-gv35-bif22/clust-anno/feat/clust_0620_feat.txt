@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00379	VBIBifAdo136061_0379	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187019	198683	201679	+	2997		large transmembrane protein possibly involved in transport	ADO1	clust_0620
+ANI1|SEQ00158	VBIBifAni240121_0158	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845217	184733	187687	+	2955		large transmembrane protein possibly involved in transport	ANI1	clust_0620
+ANI2|SEQ00158	VBIBifAni235968_0158	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848572	184734	187688	+	2955		large transmembrane protein possibly involved in transport	ANI2	clust_0620
+ANI3|SEQ00160	VBIBifAni108068_0160	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762588	184734	187688	+	2955		large transmembrane protein possibly involved in transport	ANI3	clust_0620
+BIF1|SEQ00145	VBIBifBif87902_0145	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882794	178251	181670	+	3420		large transmembrane protein possibly involved in transport	BIF1	clust_0620
+BRE1|SEQ01817	VBIBifBre340958_1818	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605695	2128522	2132187	-	3666		large transmembrane protein possibly involved in transport	BRE1	clust_0620
+BRE2|SEQ01917	VBIBifBre337368_1917	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609870	2226827	2230492	-	3666		large transmembrane protein possibly involved in transport	BRE2	clust_0620
+BRE3|SEQ01889	VBIBifBre167886_1889	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195563	2206400	2210062	-	3663		large transmembrane protein possibly involved in transport	BRE3	clust_0620
+BRE4|SEQ01867	VBIBifBre327712_1867	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613912	2172639	2176301	-	3663		large transmembrane protein possibly involved in transport	BRE4	clust_0620
+BRE5|SEQ01995	VBIBifBre336369_1996	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618220	2252192	2255857	-	3666		large transmembrane protein possibly involved in transport	BRE5	clust_0620
+BRE6|SEQ00131	VBIBifBre268992_0131	Bifidobacterium breve JCP7499	AWSX01000010	PATRIC	CDS	177653365	2277	5942	-	3666		large transmembrane protein possibly involved in transport	BRE6	clust_0620
+BRE7|SEQ01904	VBIBifBre340732_1904	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622342	2202401	2206066	-	3666		large transmembrane protein possibly involved in transport	BRE7	clust_0620
+BRE8|SEQ01862	VBIBifBre176493_1862	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626371	2173842	2177507	-	3666		large transmembrane protein possibly involved in transport	BRE8	clust_0620
+BRE9|SEQ01983	VBIBifBre30019_1983	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448140	2295026	2298691	-	3666		large transmembrane protein possibly involved in transport	BRE9	clust_0620
+DEN1|SEQ00557	VBIBifDen165269_0558	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462408	1986918	1990043	-	3126		large transmembrane protein possibly involved in transport	DEN1	clust_0620
+DEN2|SEQ01595	VBIBifDen39005_1596	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111582	59398	62523	-	3126		large transmembrane protein possibly involved in transport	DEN2	clust_0620
+GV01|SEQ00609	VBIGarVag247323_0609	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495367	16624	19446	+	2823		large transmembrane protein possibly involved in transport	GV01	clust_0620
+GV02|SEQ00092	VBIGarVag242669_0092	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496942	52727	55540	+	2814		large transmembrane protein possibly involved in transport	GV02	clust_0620
+GV03|SEQ00229	VBIGarVag247424_0229	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499839	178274	180955	+	2682		large transmembrane protein possibly involved in transport	GV03	clust_0620
+GV04|SEQ00153	VBIGarVag246433_0153	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480158	16316	19090	-	2775		large transmembrane protein possibly involved in transport	GV04	clust_0620
+GV05|SEQ00330	VBIGarVag174900_0330	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546383	176566	179247	+	2682		large transmembrane protein possibly involved in transport	GV05	clust_0620
+GV06|SEQ00217	VBIGarVag244004_0217	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489149	139317	142091	+	2775		large transmembrane protein possibly involved in transport	GV06	clust_0620
+GV07|SEQ00017	VBIGarVag249177_0017	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491611	17609	20290	-	2682		large transmembrane protein possibly involved in transport	GV07	clust_0620
+GV08|SEQ01090	VBIGarVag251521_1090	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476627	196649	199423	+	2775		large transmembrane protein possibly involved in transport	GV08	clust_0620
+GV09|SEQ00016	VBIGarVag169280_0016	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259173	16520	19297	-	2778		large transmembrane protein possibly involved in transport	GV09	clust_0620
+GV10|SEQ00123	VBIGarVag136958_0123	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146260	152276	155029	+	2754		large transmembrane protein possibly involved in transport	GV10	clust_0620
+GV11|SEQ00836	VBIGarVag171052_0836	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550035	15587	18361	-	2775		large transmembrane protein possibly involved in transport	GV11	clust_0620
+GV12|SEQ00654	VBIGarVag144721_0654	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854005	176292	179045	+	2754		large transmembrane protein possibly involved in transport	GV12	clust_0620
+GV13|SEQ00179	VBIGarVag244533_0179	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486298	194947	197721	+	2775		large transmembrane protein possibly involved in transport	GV13	clust_0620
+GV14|SEQ00521	VBIGarVag244375_0521	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502902	16087	18768	-	2682		large transmembrane protein possibly involved in transport	GV14	clust_0620
+GV15|SEQ00549	VBIGarVag249709_0549	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484636	296483	299236	-	2754		large transmembrane protein possibly involved in transport	GV15	clust_0620
+GV16|SEQ00250	VBIGarVag246379_0250	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477618	199288	202062	+	2775		large transmembrane protein possibly involved in transport	GV16	clust_0620
+GV17|SEQ00481	VBIGarVag146634_0481	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850997	482744	485497	-	2754		large transmembrane protein possibly involved in transport	GV17	clust_0620
+GV18|SEQ00974	VBIGarVag4823_0974	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000136	PATRIC	CDS	42070754	15114	15707	-	594		large transmembrane protein possibly involved in transport	GV18	clust_0620
+GV19|SEQ00033	VBIGarVag39333_0033	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626900	35394	38168	-	2775		large transmembrane protein possibly involved in transport	GV19	clust_0620
+GV20|SEQ01285	VBIGarVag188338_1285	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191446	1617074	1619851	-	2778		large transmembrane protein possibly involved in transport	GV20	clust_0620
+GV21|SEQ00138	VBIGarVag274454_0138	Gardnerella vaginalis JCP7275	ATJS01000007	PATRIC	CDS	183966916	25039	27816	+	2778		large transmembrane protein possibly involved in transport	GV21	clust_0620
+GV22|SEQ00675	VBIGarVag276801_0676	Gardnerella vaginalis JCP7276	ATJR01000026	PATRIC	CDS	183970794	2904	5678	+	2775		large transmembrane protein possibly involved in transport	GV22	clust_0620
+GV23|SEQ00100	VBIGarVag276017_0100	Gardnerella vaginalis JCP7659	ATJQ01000008	PATRIC	CDS	183972496	12475	15297	-	2823		large transmembrane protein possibly involved in transport	GV23	clust_0620
+GV24|SEQ00236	VBIGarVag268944_0237	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975578	40486	43260	+	2775		large transmembrane protein possibly involved in transport	GV24	clust_0620
+GV25|SEQ00511	VBIGarVag270495_0511	Gardnerella vaginalis JCP7719	ATJO01000042	PATRIC	CDS	183978957	2279	5071	-	2793		large transmembrane protein possibly involved in transport	GV25	clust_0620
+GV26|SEQ00635	VBIGarVag272749_0635	Gardnerella vaginalis JCP8017A	ATJN01000031	PATRIC	CDS	183982066	23068	25890	+	2823		large transmembrane protein possibly involved in transport	GV26	clust_0620
+GV27|SEQ00509	VBIGarVag276930_0509	Gardnerella vaginalis JCP8017B	ATJM01000016	PATRIC	CDS	183984770	17139	19961	-	2823		large transmembrane protein possibly involved in transport	GV27	clust_0620
+GV28|SEQ00511	VBIGarVag271349_0511	Gardnerella vaginalis JCP8066	ATJL01000032	PATRIC	CDS	183987726	4634	7399	-	2766		large transmembrane protein possibly involved in transport	GV28	clust_0620
+GV29|SEQ00848	VBIGarVag265473_0848	Gardnerella vaginalis JCP8070	ATJK01000071	PATRIC	CDS	183991183	3725	6478	+	2754		large transmembrane protein possibly involved in transport	GV29	clust_0620
+GV30|SEQ00882	VBIGarVag267667_0884	Gardnerella vaginalis JCP8108	ATJJ01000070	PATRIC	CDS	183993938	15486	18260	-	2775		large transmembrane protein possibly involved in transport	GV30	clust_0620
+GV31|SEQ00339	VBIGarVag264983_0339	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995727	1646	4399	+	2754		large transmembrane protein possibly involved in transport	GV31	clust_0620
+GV32|SEQ01190	VBIGarVag277040_1190	Gardnerella vaginalis JCP8151B	ATJH01000159	PATRIC	CDS	184000450	2240	4993	-	2754		large transmembrane protein possibly involved in transport	GV32	clust_0620
+GV33|SEQ00055	VBIGarVag265557_0055	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000769	34238	36919	+	2682		large transmembrane protein possibly involved in transport	GV33	clust_0620
+GV34|SEQ00048	VBIGarVag270440_0048	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003585	34239	36920	+	2682		large transmembrane protein possibly involved in transport	GV34	clust_0620
+GV35|SEQ00851	VBIGarVag272169_0851	Gardnerella vaginalis JCP8522	ATJE01000082	PATRIC	CDS	184008116	3736	6504	+	2769		large transmembrane protein possibly involved in transport	GV35	clust_0620
+INF1|SEQ01955	VBIBifLon182273_1955	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887970	2261635	2265318	-	3684		large transmembrane protein possibly involved in transport	INF1	clust_0620
+LON1|SEQ01454	VBIBifLon107831_1455	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120036	1746265	1750002	+	3738		large transmembrane protein possibly involved in transport	LON1	clust_0620
+LON2|SEQ01499	VBIBifLon171405_1502	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582591	1778102	1781824	+	3723		large transmembrane protein possibly involved in transport	LON2	clust_0620
+LON3|SEQ01855	VBIBifLon156230_1858	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766902	754081	757764	-	3684		large transmembrane protein possibly involved in transport	LON3	clust_0620
+LON4|SEQ01909	VBIBifLon48544_1909	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892223	2228150	2231833	-	3684		large transmembrane protein possibly involved in transport	LON4	clust_0620

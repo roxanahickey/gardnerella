@@ -1,0 +1,466 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00014	VBIBifLon182273_0014	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883925	19268	19603	+	336		FIG00427247: hypothetical protein	INF1	clust_2680
+INF1|SEQ00015	VBIBifLon182273_0015	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883927	19617	20465	+	849		FIG00423826: hypothetical protein	INF1	clust_2681
+INF1|SEQ00028	VBIBifLon182273_0028	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883957	35320	35466	+	147		FIG00426416: hypothetical protein	INF1	clust_2682
+INF1|SEQ00058	VBIBifLon182273_0058	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884018	72082	72471	+	390		COG0508: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	INF1	clust_2683
+INF1|SEQ00060	VBIBifLon182273_0060	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884022	73298	73423	-	126		FIG00426123: hypothetical protein	INF1	clust_2684
+INF1|SEQ00061	VBIBifLon182273_0061	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884024	73397	74251	+	855		TelA-like protein associated with cryptic tellurite resistance	INF1	clust_2685
+INF1|SEQ00110	VBIBifLon182273_0110	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884126	137382	137663	-	282		FIG00423788: hypothetical protein	INF1	clust_2686
+INF1|SEQ00111	VBIBifLon182273_0111	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884128	137708	138364	+	657		secreted alpha-amylase.	INF1	clust_2687
+INF1|SEQ00113	VBIBifLon182273_0113	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884133	139656	140372	+	717		ABC-type sugar transport system, permease component	INF1	clust_2688
+INF1|SEQ00120	VBIBifLon182273_0120	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884147	148666	150018	+	1353		Xanthine permease	INF1	clust_2689
+INF1|SEQ00121	VBIBifLon182273_0121	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884149	150055	151176	+	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	INF1	clust_2690
+INF1|SEQ00160	VBIBifLon182273_0160	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884227	197876	198052	+	177		FIG00425314: hypothetical protein	INF1	clust_2691
+INF1|SEQ00197	VBIBifLon182273_0197	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884311	251651	252469	+	819		ABC-type sugar transport system, permease component	INF1	clust_2605
+INF1|SEQ00201	VBIBifLon182273_0201	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884319	261229	264945	+	3717		FIG00427113: hypothetical protein	INF1	clust_2692
+INF1|SEQ00221	VBIBifLon182273_0221	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884361	284400	284636	-	237		FIG00424896: hypothetical protein	INF1	clust_2693
+INF1|SEQ00224	VBIBifLon182273_0224	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884367	286254	288122	+	1869		FIG00425074: hypothetical protein	INF1	clust_2694
+INF1|SEQ00227	VBIBifLon182273_0227	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884373	292336	292482	+	147		FIG00426120: hypothetical protein	INF1	clust_2695
+INF1|SEQ00238	VBIBifLon182273_0238	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884395	306227	306388	-	162		hypothetical protein	INF1	clust_2696
+INF1|SEQ00240	VBIBifLon182273_0240	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884399	308325	308498	-	174		hypothetical protein	INF1	clust_2697
+INF1|SEQ00294	VBIBifLon182273_0294	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884517	372257	372391	-	135		FIG00424813: hypothetical protein	INF1	clust_2698
+INF1|SEQ00337	VBIBifLon182273_0337	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884606	415465	416775	+	1311		Bifidobacterial FemAB-like protein type 2	INF1	clust_2699
+INF1|SEQ00338	VBIBifLon182273_0338	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884608	416825	418105	+	1281		Bifidobacterial FemAB-like protein type 3	INF1	clust_2700
+INF1|SEQ00419	VBIBifLon182273_0419	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884776	521576	521692	-	117		FIG00425325: hypothetical protein	INF1	clust_2701
+INF1|SEQ00450	VBIBifLon182273_0450	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884838	576095	576427	+	333		FIG00424882: hypothetical protein	INF1	clust_2702
+INF1|SEQ00452	VBIBifLon182273_0452	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884842	576696	576875	-	180		FIG00424744: hypothetical protein	INF1	clust_2703
+INF1|SEQ00468	VBIBifLon182273_0468	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884875	593214	593375	-	162		hypothetical protein	INF1	clust_2704
+INF1|SEQ00474	VBIBifLon182273_0474	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884887	600216	601916	-	1701		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	INF1	clust_2705
+INF1|SEQ00476	VBIBifLon182273_0476	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884891	602103	603455	+	1353		ABC-type sugar transport system, periplasmic component	INF1	clust_2706
+INF1|SEQ00502	VBIBifLon182273_0502	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884944	634815	634949	+	135		FIG00424838: hypothetical protein	INF1	clust_2707
+INF1|SEQ00505	VBIBifLon182273_0505	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884950	636546	636797	-	252		FIG00424891: hypothetical protein	INF1	clust_2708
+INF1|SEQ00532	VBIBifLon182273_0532	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885006	669591	670568	-	978		voltage-gated potassium channel beta subunit	INF1	clust_2709
+INF1|SEQ00540	VBIBifLon182273_0540	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885022	681457	681579	-	123		FIG00425402: hypothetical protein	INF1	clust_2710
+INF1|SEQ00542	VBIBifLon182273_0542	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885026	683159	683317	+	159		FIG00424454: hypothetical protein	INF1	clust_2711
+INF1|SEQ00561	VBIBifLon182273_0561	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885066	701941	702594	-	654		Transcriptional regulator, MarR family	INF1	clust_2712
+INF1|SEQ00640	VBIBifLon182273_0640	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885229	788138	788710	+	573		hypothetical protein	INF1	clust_2714
+INF1|SEQ00707	VBIBifLon182273_0707	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885378	865564	865695	-	132		FIG00424890: hypothetical protein	INF1	clust_2715
+INF1|SEQ00804	VBIBifLon182273_0804	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885577	977076	978632	+	1557		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	INF1	clust_2716
+INF1|SEQ00805	VBIBifLon182273_0805	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885579	978691	978825	-	135		FIG00424795: hypothetical protein	INF1	clust_2717
+INF1|SEQ00922	VBIBifLon182273_0922	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885823	1074539	1075639	-	1101		LacI-type transcriptional regulator	INF1	clust_2718
+INF1|SEQ00925	VBIBifLon182273_0925	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885829	1078484	1078603	+	120		FIG00425692: hypothetical protein	INF1	clust_2719
+INF1|SEQ00926	VBIBifLon182273_0926	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885831	1078737	1080101	-	1365		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	INF1	clust_2720
+INF1|SEQ00927	VBIBifLon182273_0927	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885833	1080468	1080596	-	129		FIG00425926: hypothetical protein	INF1	clust_2721
+INF1|SEQ00982	VBIBifLon182273_0982	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885945	1142044	1142694	+	651		Signal peptidase I (EC 3.4.21.89)	INF1	clust_2724
+INF1|SEQ00986	VBIBifLon182273_0986	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885953	1145620	1145841	+	222		Inner membrane protein translocase component YidC, short form OxaI-like	INF1	clust_2725
+INF1|SEQ01144	VBIBifLon182273_1144	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886284	1285561	1285716	+	156		Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)	INF1	clust_2727
+INF1|SEQ01167	VBIBifLon182273_1167	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886337	1309134	1310480	-	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	INF1	clust_2728
+INF1|SEQ01275	VBIBifLon182273_1275	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886553	1436226	1436717	-	492		FIG00424864: hypothetical protein	INF1	clust_2729
+INF1|SEQ01276	VBIBifLon182273_1276	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886555	1436717	1437079	-	363		DNA-damage-inducible protein J	INF1	clust_2730
+INF1|SEQ01308	VBIBifLon182273_1308	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886620	1475613	1475741	+	129		FIG00424504: hypothetical protein	INF1	clust_2731
+INF1|SEQ01373	VBIBifLon182273_1373	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886750	1558090	1558329	-	240		FIG00424211: hypothetical protein	INF1	clust_2732
+INF1|SEQ01409	VBIBifLon182273_1409	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886828	1602958	1603221	+	264		FIG00426426: hypothetical protein	INF1	clust_2733
+INF1|SEQ01412	VBIBifLon182273_1412	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886834	1607195	1607461	-	267		Cell division protein FtsH (EC 3.4.24.-)	INF1	clust_2734
+INF1|SEQ01443	VBIBifLon182273_1443	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886898	1642268	1642537	-	270		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	INF1	clust_2735
+INF1|SEQ01444	VBIBifLon182273_1444	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886900	1642601	1642924	-	324		Methionine ABC transporter ATP-binding protein	INF1	clust_2736
+INF1|SEQ01466	VBIBifLon182273_1466	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886945	1664014	1664343	-	330		narrowly conserved hypothetical protein	INF1	clust_2738
+INF1|SEQ01468	VBIBifLon182273_1468	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886949	1664683	1665657	-	975		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	INF1	clust_2739
+INF1|SEQ01473	VBIBifLon182273_1473	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886959	1671297	1671560	+	264		FIG00426202: hypothetical protein	INF1	clust_2741
+INF1|SEQ01495	VBIBifLon182273_1495	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887003	1700330	1701400	-	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	INF1	clust_2742
+INF1|SEQ01498	VBIBifLon182273_1498	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887009	1704383	1706104	-	1722		LpqB	INF1	clust_2743
+INF1|SEQ01500	VBIBifLon182273_1500	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887013	1707804	1708526	-	723		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	INF1	clust_2744
+INF1|SEQ01512	VBIBifLon182273_1512	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887038	1720104	1720223	-	120		FIG00425096: hypothetical protein	INF1	clust_2745
+INF1|SEQ01513	VBIBifLon182273_1513	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887040	1720437	1721390	+	954		narrowly conserved hypothetical protein	INF1	clust_2625
+INF1|SEQ01542	VBIBifLon182273_1542	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887098	1753264	1753584	+	321		FIG00424677: hypothetical protein	INF1	clust_2746
+INF1|SEQ01570	VBIBifLon182273_1570	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887154	1792340	1792780	+	441		FIG00426188: hypothetical protein	INF1	clust_2747
+INF1|SEQ01619	VBIBifLon182273_1619	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887254	1850833	1851321	-	489		FIG00425838: hypothetical protein	INF1	clust_2748
+INF1|SEQ01626	VBIBifLon182273_1626	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887268	1860687	1860851	+	165		FIG00424014: hypothetical protein	INF1	clust_2749
+INF1|SEQ01631	VBIBifLon182273_1631	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887278	1867493	1867849	+	357		FIG00425533: hypothetical protein	INF1	clust_2750
+INF1|SEQ01637	VBIBifLon182273_1637	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887291	1873009	1873143	+	135		FIG00424669: hypothetical protein	INF1	clust_2751
+INF1|SEQ01653	VBIBifLon182273_1653	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887325	1888901	1889248	+	348		FIG00425524: hypothetical protein	INF1	clust_2752
+INF1|SEQ01654	VBIBifLon182273_1654	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887327	1889258	1889602	+	345		FIG00424156: hypothetical protein	INF1	clust_2753
+INF1|SEQ01668	VBIBifLon182273_1668	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887355	1904763	1905080	+	318		Permeases of the major facilitator superfamily	INF1	clust_2754
+INF1|SEQ01722	VBIBifLon182273_1722	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887474	1965853	1966560	-	708		FIG00423922: hypothetical protein	INF1	clust_2755
+INF1|SEQ01746	VBIBifLon182273_1746	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887525	1996479	1996775	-	297		FIG00425012: hypothetical protein	INF1	clust_2756
+INF1|SEQ01804	VBIBifLon182273_1804	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887647	2050833	2050952	+	120		FIG00426440: hypothetical protein	INF1	clust_2757
+INF1|SEQ01830	VBIBifLon182273_1830	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887706	2081343	2083823	-	2481		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	INF1	clust_2758
+INF1|SEQ01839	VBIBifLon182273_1839	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887725	2091113	2091232	+	120		FIG00427659: hypothetical protein	INF1	clust_2759
+INF1|SEQ01841	VBIBifLon182273_1841	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887729	2092389	2093633	-	1245		possible cell surface protein	INF1	clust_2760
+INF1|SEQ01852	VBIBifLon182273_1852	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887753	2116666	2117418	-	753		Transcriptional regulator, IclR family	INF1	clust_2761
+INF1|SEQ01881	VBIBifLon182273_1881	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887819	2154792	2155724	+	933		probable LysR-type transcriptional regulator	INF1	clust_2762
+INF1|SEQ01890	VBIBifLon182273_1890	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887837	2165712	2165861	+	150		FIG00425387: hypothetical protein	INF1	clust_2764
+INF1|SEQ01893	VBIBifLon182273_1893	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887843	2168457	2168639	-	183		FIG00424999: hypothetical protein	INF1	clust_2765
+INF1|SEQ01897	VBIBifLon182273_1897	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887851	2173257	2174567	-	1311		FIG00424980: hypothetical protein	INF1	clust_2766
+INF1|SEQ01903	VBIBifLon182273_1903	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887863	2181514	2183067	-	1554		Histidine ammonia-lyase (EC 4.3.1.3)	INF1	clust_2767
+INF1|SEQ01904	VBIBifLon182273_1904	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887865	2183313	2184188	+	876		Transcriptional regulator, IclR family	INF1	clust_2768
+INF1|SEQ01905	VBIBifLon182273_1905	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887867	2184185	2184361	+	177		FIG00425206: hypothetical protein	INF1	clust_2769
+INF1|SEQ01907	VBIBifLon182273_1907	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887871	2185358	2186596	-	1239		FIG00424956: hypothetical protein	INF1	clust_2770
+INF1|SEQ01922	VBIBifLon182273_1922	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887902	2207407	2207562	+	156		FIG00425658: hypothetical protein	INF1	clust_2771
+INF1|SEQ01934	VBIBifLon182273_1934	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887926	2225115	2226479	-	1365		Alpha-galactosidase precursor (EC 3.2.1.22)	INF1	clust_2772
+INF1|SEQ01936	VBIBifLon182273_1936	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887930	2228227	2229108	-	882		Arabinose operon regulatory protein	INF1	clust_2773
+INF1|SEQ01939	VBIBifLon182273_1939	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887936	2233653	2234561	+	909		hypothetical protein with similarity to family of proteins in M. tuberculosis	INF1	clust_2774
+INF1|SEQ01943	VBIBifLon182273_1943	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887944	2238618	2238737	-	120		FIG00426631: hypothetical protein	INF1	clust_2775
+INF1|SEQ01952	VBIBifLon182273_1952	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887964	2253242	2257783	-	4542		narrowly conserved hypothetical protein	INF1	clust_2776
+INF1|SEQ01962	VBIBifLon182273_1962	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887984	2271585	2274782	-	3198		Bacterial surface proteins containing Ig-like domains	INF1	clust_2777
+LON1|SEQ00020	VBIBifLon107831_0020	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117067	24634	25587	-	954		narrowly conserved hypothetical protein	LON1	clust_2625
+LON1|SEQ00021	VBIBifLon107831_0021	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117069	25801	25920	+	120		FIG00425096: hypothetical protein	LON1	clust_2745
+LON1|SEQ00032	VBIBifLon107831_0032	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117091	37493	38215	+	723		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON1	clust_2744
+LON1|SEQ00034	VBIBifLon107831_0034	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117095	39915	41636	+	1722		LpqB	LON1	clust_2743
+LON1|SEQ00037	VBIBifLon107831_0037	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117101	44619	45689	+	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON1	clust_2742
+LON1|SEQ00057	VBIBifLon107831_0057	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117141	72429	72692	-	264		FIG00426202: hypothetical protein	LON1	clust_2741
+LON1|SEQ00063	VBIBifLon107831_0063	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117153	76775	77680	+	906		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON1	clust_2739
+LON1|SEQ00064	VBIBifLon107831_0064	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117155	77880	78968	+	1089		narrowly conserved hypothetical protein	LON1	clust_2738
+LON1|SEQ00089	VBIBifLon107831_0089	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117205	101440	101661	+	222		Methionine ABC transporter ATP-binding protein	LON1	clust_2736
+LON1|SEQ00090	VBIBifLon107831_0090	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117207	101827	102096	+	270		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	LON1	clust_2735
+LON1|SEQ00121	VBIBifLon107831_0121	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117271	136880	137092	+	213		Cell division protein FtsH (EC 3.4.24.-)	LON1	clust_2734
+LON1|SEQ00124	VBIBifLon107831_0124	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117277	141066	141329	-	264		FIG00426426: hypothetical protein	LON1	clust_2733
+LON1|SEQ00156	VBIBifLon107831_0156	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117347	182545	182784	+	240		FIG00424211: hypothetical protein	LON1	clust_2732
+LON1|SEQ00224	VBIBifLon107831_0224	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117485	268333	268461	-	129		FIG00424504: hypothetical protein	LON1	clust_2731
+LON1|SEQ00256	VBIBifLon107831_0256	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117549	307038	307400	+	363		DNA-damage-inducible protein J	LON1	clust_2730
+LON1|SEQ00257	VBIBifLon107831_0257	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117551	307400	307891	+	492		FIG00424864: hypothetical protein	LON1	clust_2729
+LON1|SEQ00312	VBIBifLon107831_0312	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117661	377133	378479	+	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON1	clust_2728
+LON1|SEQ00386	VBIBifLon107831_0386	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117815	460316	460471	-	156		Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)	LON1	clust_2727
+LON1|SEQ00474	VBIBifLon107831_0475	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118003	554620	554841	-	222		Inner membrane protein translocase component YidC, short form OxaI-like	LON1	clust_2725
+LON1|SEQ00478	VBIBifLon107831_0479	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118011	557767	558417	-	651	sipY	Signal peptidase I (EC 3.4.21.89)	LON1	clust_2724
+LON1|SEQ00533	VBIBifLon107831_0534	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118121	621941	622069	+	129		FIG00425926: hypothetical protein	LON1	clust_2721
+LON1|SEQ00534	VBIBifLon107831_0535	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118123	622436	623134	+	699		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	LON1	clust_2720
+LON1|SEQ00537	VBIBifLon107831_0538	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118129	625308	625427	-	120		FIG00425692: hypothetical protein	LON1	clust_2719
+LON1|SEQ00539	VBIBifLon107831_0540	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118133	626869	627969	+	1101		LacI-type transcriptional regulator	LON1	clust_2718
+LON1|SEQ00568	VBIBifLon107831_0569	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118193	661128	661262	+	135		FIG00424795: hypothetical protein	LON1	clust_2717
+LON1|SEQ00569	VBIBifLon107831_0570	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118195	661321	662691	-	1371		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON1	clust_2716
+LON1|SEQ00662	VBIBifLon107831_0663	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118385	769964	770095	+	132		FIG00424890: hypothetical protein	LON1	clust_2715
+LON1|SEQ00716	VBIBifLon107831_0717	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118503	835665	836321	-	657		hypothetical protein	LON1	clust_2714
+LON1|SEQ00794	VBIBifLon107831_0795	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118661	921527	922180	+	654		Transcriptional regulator, MarR family	LON1	clust_2712
+LON1|SEQ00811	VBIBifLon107831_0812	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118697	939571	939729	-	159		FIG00424454: hypothetical protein	LON1	clust_2711
+LON1|SEQ00813	VBIBifLon107831_0814	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118701	941309	941431	+	123		FIG00425402: hypothetical protein	LON1	clust_2710
+LON1|SEQ00821	VBIBifLon107831_0822	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118717	952320	953297	+	978		voltage-gated potassium channel beta subunit	LON1	clust_2709
+LON1|SEQ00848	VBIBifLon107831_0849	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118773	986082	986342	+	261		FIG00424891: hypothetical protein	LON1	clust_2708
+LON1|SEQ00851	VBIBifLon107831_0852	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118779	987939	988073	-	135		FIG00424838: hypothetical protein	LON1	clust_2707
+LON1|SEQ00874	VBIBifLon107831_0875	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118825	1017342	1018694	-	1353		ABC-type sugar transport system, periplasmic component	LON1	clust_2706
+LON1|SEQ00875	VBIBifLon107831_0876	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118827	1018854	1020554	+	1701	abfA2	Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON1	clust_2705
+LON1|SEQ00882	VBIBifLon107831_0883	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118841	1027493	1027732	+	240		hypothetical protein	LON1	clust_2704
+LON1|SEQ00900	VBIBifLon107831_0901	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118877	1045408	1045587	+	180		FIG00424744: hypothetical protein	LON1	clust_2703
+LON1|SEQ00901	VBIBifLon107831_0902	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118879	1045856	1046188	-	333		FIG00424882: hypothetical protein	LON1	clust_2702
+LON1|SEQ00931	VBIBifLon107831_0932	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118939	1100572	1100688	+	117		FIG00425325: hypothetical protein	LON1	clust_2701
+LON1|SEQ01017	VBIBifLon107831_1018	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119115	1203950	1205230	-	1281		Bifidobacterial FemAB-like protein type 3	LON1	clust_2700
+LON1|SEQ01018	VBIBifLon107831_1019	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119117	1205280	1206590	-	1311		Bifidobacterial FemAB-like protein type 2	LON1	clust_2699
+LON1|SEQ01057	VBIBifLon107831_1058	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119197	1246491	1246625	+	135		FIG00424813: hypothetical protein	LON1	clust_2698
+LON1|SEQ01126	VBIBifLon107831_1127	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119345	1313181	1313354	+	174		hypothetical protein	LON1	clust_2697
+LON1|SEQ01128	VBIBifLon107831_1129	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119349	1315291	1315452	+	162		hypothetical protein	LON1	clust_2696
+LON1|SEQ01139	VBIBifLon107831_1140	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119371	1329152	1329298	-	147		FIG00426120: hypothetical protein	LON1	clust_2695
+LON1|SEQ01142	VBIBifLon107831_1143	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119377	1333512	1335365	-	1854		FIG00425074: hypothetical protein	LON1	clust_2694
+LON1|SEQ01145	VBIBifLon107831_1146	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119383	1336998	1337234	+	237		FIG00424896: hypothetical protein	LON1	clust_2693
+LON1|SEQ01164	VBIBifLon107831_1165	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119423	1354874	1358590	-	3717		FIG00427113: hypothetical protein	LON1	clust_2692
+LON1|SEQ01167	VBIBifLon107831_1168	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119429	1367198	1368016	-	819		ABC-type sugar transport system, permease component	LON1	clust_2605
+LON1|SEQ01212	VBIBifLon107831_1213	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119529	1427345	1427521	-	177		FIG00425314: hypothetical protein	LON1	clust_2691
+LON1|SEQ01253	VBIBifLon107831_1254	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119611	1476719	1477840	-	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON1	clust_2690
+LON1|SEQ01254	VBIBifLon107831_1255	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119613	1477877	1479229	-	1353		Xanthine permease	LON1	clust_2689
+LON1|SEQ01262	VBIBifLon107831_1263	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119629	1487523	1488239	-	717		ABC-type sugar transport system, permease component	LON1	clust_2688
+LON1|SEQ01264	VBIBifLon107831_1265	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119633	1489531	1490187	-	657		secreted alpha-amylase.	LON1	clust_2687
+LON1|SEQ01265	VBIBifLon107831_1266	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119635	1490232	1490513	+	282		FIG00423788: hypothetical protein	LON1	clust_2686
+LON1|SEQ01315	VBIBifLon107831_1316	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119739	1552010	1552864	-	855		TelA-like protein associated with cryptic tellurite resistance	LON1	clust_2685
+LON1|SEQ01316	VBIBifLon107831_1317	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119741	1552838	1552963	+	126		FIG00426123: hypothetical protein	LON1	clust_2684
+LON1|SEQ01318	VBIBifLon107831_1319	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119745	1553785	1554504	-	720		FIG00423825: hypothetical protein	LON1	clust_2683
+LON1|SEQ01346	VBIBifLon107831_1347	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119801	1594080	1594226	-	147		FIG00426416: hypothetical protein	LON1	clust_2682
+LON1|SEQ01358	VBIBifLon107831_1359	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119829	1607067	1607747	-	681		FIG00423826: hypothetical protein	LON1	clust_2681
+LON1|SEQ01359	VBIBifLon107831_1360	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119831	1607929	1608264	-	336		FIG00427247: hypothetical protein	LON1	clust_2680
+LON1|SEQ01443	VBIBifLon107831_1444	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120013	1734235	1737111	+	2877		Bacterial surface proteins containing Ig-like domains	LON1	clust_2777
+LON1|SEQ01456	VBIBifLon107831_1457	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120040	1752368	1756909	+	4542		narrowly conserved hypothetical protein	LON1	clust_2776
+LON1|SEQ01467	VBIBifLon107831_1468	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120064	1771593	1771712	+	120		FIG00426631: hypothetical protein	LON1	clust_2775
+LON1|SEQ01470	VBIBifLon107831_1471	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120070	1775626	1776702	-	1077		hypothetical protein with similarity to family of proteins in M. tuberculosis	LON1	clust_2774
+LON1|SEQ01473	VBIBifLon107831_1474	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120076	1780947	1781852	+	906		Arabinose operon regulatory protein	LON1	clust_2773
+LON1|SEQ01475	VBIBifLon107831_1476	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120080	1783600	1784964	+	1365		Alpha-galactosidase precursor (EC 3.2.1.22)	LON1	clust_2772
+LON1|SEQ01501	VBIBifLon107831_1502	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120132	1819227	1819652	-	426		FIG00425658: hypothetical protein	LON1	clust_2771
+LON1|SEQ01529	VBIBifLon107831_1530	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120188	1850842	1851567	+	726		FIG00424956: hypothetical protein	LON1	clust_2770
+LON1|SEQ01531	VBIBifLon107831_1532	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120192	1852564	1852740	-	177		FIG00425206: hypothetical protein	LON1	clust_2769
+LON1|SEQ01532	VBIBifLon107831_1533	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120194	1852737	1853612	-	876		Transcriptional regulator, IclR family	LON1	clust_2768
+LON1|SEQ01533	VBIBifLon107831_1534	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120196	1853858	1855411	+	1554	hutH	Histidine ammonia-lyase (EC 4.3.1.3)	LON1	clust_2767
+LON1|SEQ01539	VBIBifLon107831_1540	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120208	1862358	1863668	+	1311		FIG00424980: hypothetical protein	LON1	clust_2766
+LON1|SEQ01543	VBIBifLon107831_1544	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120216	1868285	1868467	+	183		FIG00424999: hypothetical protein	LON1	clust_2765
+LON1|SEQ01546	VBIBifLon107831_1547	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120222	1871069	1871218	-	150		FIG00425387: hypothetical protein	LON1	clust_2764
+LON1|SEQ01555	VBIBifLon107831_1556	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120240	1881209	1882141	-	933		probable LysR-type transcriptional regulator	LON1	clust_2762
+LON1|SEQ01577	VBIBifLon107831_1578	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120292	1915465	1916217	+	753		Transcriptional regulator, IclR family	LON1	clust_2761
+LON1|SEQ01588	VBIBifLon107831_1589	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120316	1939306	1940550	+	1245		possible cell surface protein	LON1	clust_2760
+LON1|SEQ01590	VBIBifLon107831_1591	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120320	1941706	1941825	-	120		FIG00427659: hypothetical protein	LON1	clust_2759
+LON1|SEQ01594	VBIBifLon107831_1595	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120328	1944912	1946918	+	2007	xynD	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON1	clust_2758
+LON1|SEQ01620	VBIBifLon107831_1621	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120386	1978102	1978221	-	120		FIG00426440: hypothetical protein	LON1	clust_2757
+LON1|SEQ01679	VBIBifLon107831_1680	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120508	2032560	2032712	+	153		FIG00425012: hypothetical protein	LON1	clust_2756
+LON1|SEQ01702	VBIBifLon107831_1703	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120556	2061505	2062212	+	708		FIG00423922: hypothetical protein	LON1	clust_2755
+LON1|SEQ01754	VBIBifLon107831_1755	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120670	2122349	2122666	-	318		Permeases of the major facilitator superfamily	LON1	clust_2754
+LON1|SEQ01759	VBIBifLon107831_1760	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120680	2126644	2126901	-	258		FIG00424156: hypothetical protein	LON1	clust_2753
+LON1|SEQ01760	VBIBifLon107831_1761	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120682	2126998	2127345	-	348		FIG00425524: hypothetical protein	LON1	clust_2752
+LON1|SEQ01776	VBIBifLon107831_1777	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120716	2143103	2143237	-	135		FIG00424669: hypothetical protein	LON1	clust_2751
+LON1|SEQ01781	VBIBifLon107831_1782	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120726	2148397	2148597	-	201		large integral membrane protein	LON1	clust_2750
+LON1|SEQ01786	VBIBifLon107831_1787	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120736	2155402	2155566	-	165		FIG00424014: hypothetical protein	LON1	clust_2749
+LON1|SEQ01792	VBIBifLon107831_1793	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120748	2165085	2165420	+	336		hypothetical protein	LON1	clust_2748
+LON1|SEQ01830	VBIBifLon107831_1831	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120826	2209934	2210374	-	441		FIG00426188: hypothetical protein	LON1	clust_2747
+LON1|SEQ01857	VBIBifLon107831_1858	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120880	2249083	2249403	-	321		FIG00424677: hypothetical protein	LON1	clust_2746
+LON2|SEQ00033	VBIBifLon171405_0033	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579559	36103	36423	-	321		FIG00424677: hypothetical protein	LON2	clust_2746
+LON2|SEQ00062	VBIBifLon171405_0063	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579617	68296	69249	-	954		narrowly conserved hypothetical protein	LON2	clust_2625
+LON2|SEQ00063	VBIBifLon171405_0064	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579619	69463	69582	+	120		FIG00425096: hypothetical protein	LON2	clust_2745
+LON2|SEQ00075	VBIBifLon171405_0076	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579644	81160	81882	+	723		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON2	clust_2744
+LON2|SEQ00077	VBIBifLon171405_0078	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579648	83582	85303	+	1722		LpqB	LON2	clust_2743
+LON2|SEQ00080	VBIBifLon171405_0081	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579654	88286	89356	+	1071	araH1	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON2	clust_2742
+LON2|SEQ00103	VBIBifLon171405_0104	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579700	116683	116946	-	264		FIG00426202: hypothetical protein	LON2	clust_2741
+LON2|SEQ00108	VBIBifLon171405_0109	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579710	122674	123636	+	963	fadB1	3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON2	clust_2739
+LON2|SEQ00110	VBIBifLon171405_0111	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579714	123976	124305	+	330		narrowly conserved hypothetical protein	LON2	clust_2738
+LON2|SEQ00134	VBIBifLon171405_0135	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579763	146215	146436	+	222	abcC1	Methionine ABC transporter ATP-binding protein	LON2	clust_2736
+LON2|SEQ00135	VBIBifLon171405_0136	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579765	146602	146871	+	270	metC2	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	LON2	clust_2735
+LON2|SEQ00167	VBIBifLon171405_0168	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579831	181616	181828	+	213		Cell division protein FtsH (EC 3.4.24.-)	LON2	clust_2734
+LON2|SEQ00170	VBIBifLon171405_0171	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579837	185802	186065	-	264		FIG00426426: hypothetical protein	LON2	clust_2733
+LON2|SEQ00201	VBIBifLon171405_0202	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579905	226452	226691	+	240		FIG00424211: hypothetical protein	LON2	clust_2732
+LON2|SEQ00264	VBIBifLon171405_0265	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580031	311043	311171	-	129		FIG00424504: hypothetical protein	LON2	clust_2731
+LON2|SEQ00297	VBIBifLon171405_0298	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580097	349720	350112	+	393	relB	DNA-damage-inducible protein J	LON2	clust_2730
+LON2|SEQ00298	VBIBifLon171405_0299	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580099	350109	350600	+	492		FIG00424864: hypothetical protein	LON2	clust_2729
+LON2|SEQ00371	VBIBifLon171405_0372	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580248	434322	435668	+	1347	hutI	possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON2	clust_2728
+LON2|SEQ00394	VBIBifLon171405_0395	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580296	458854	459162	-	309		FIG00628423: hypothetical protein	LON2	clust_2727
+LON2|SEQ00522	VBIBifLon171405_0523	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580567	585199	585420	-	222		Inner membrane protein translocase component YidC, short form OxaI-like	LON2	clust_2725
+LON2|SEQ00526	VBIBifLon171405_0527	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580575	588346	588996	-	651	lepB1	Signal peptidase I (EC 3.4.21.89)	LON2	clust_2724
+LON2|SEQ00595	VBIBifLon171405_0596	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580714	658542	658670	+	129		FIG00425926: hypothetical protein	LON2	clust_2721
+LON2|SEQ00596	VBIBifLon171405_0597	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580716	659037	660401	+	1365	norM1	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	LON2	clust_2720
+LON2|SEQ00597	VBIBifLon171405_0598	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580718	660535	660654	-	120		FIG00425692: hypothetical protein	LON2	clust_2719
+LON2|SEQ00599	VBIBifLon171405_0600	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580722	662095	663195	+	1101		LacI-type transcriptional regulator	LON2	clust_2718
+LON2|SEQ00628	VBIBifLon171405_0629	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580782	696296	696430	+	135		FIG00424795: hypothetical protein	LON2	clust_2717
+LON2|SEQ00629	VBIBifLon171405_0630	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580784	696489	698045	-	1557	pepV	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON2	clust_2716
+LON2|SEQ00726	VBIBifLon171405_0727	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580982	808174	808305	+	132		FIG00424890: hypothetical protein	LON2	clust_2715
+LON2|SEQ00781	VBIBifLon171405_0782	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581102	876660	877433	-	774		hypothetical protein	LON2	clust_2714
+LON2|SEQ00859	VBIBifLon171405_0860	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581260	961392	961562	+	171		possible MarR-type transcriptional regulator	LON2	clust_2712
+LON2|SEQ00878	VBIBifLon171405_0879	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581300	978272	978430	-	159		FIG00424454: hypothetical protein	LON2	clust_2711
+LON2|SEQ00880	VBIBifLon171405_0881	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581304	980010	980132	+	123		FIG00425402: hypothetical protein	LON2	clust_2710
+LON2|SEQ00888	VBIBifLon171405_0889	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581320	991022	991999	+	978	tas2	voltage-gated potassium channel beta subunit	LON2	clust_2709
+LON2|SEQ00915	VBIBifLon171405_0916	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581376	1024832	1025083	+	252		FIG00424891: hypothetical protein	LON2	clust_2708
+LON2|SEQ00931	VBIBifLon171405_0932	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581408	1040689	1040823	-	135		FIG00424838: hypothetical protein	LON2	clust_2707
+LON2|SEQ00956	VBIBifLon171405_0957	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581458	1071685	1073037	-	1353		ABC-type sugar transport system, periplasmic component	LON2	clust_2706
+LON2|SEQ00957	VBIBifLon171405_0958	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581460	1073197	1074897	+	1701	abfA2	Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON2	clust_2705
+LON2|SEQ00963	VBIBifLon171405_0964	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581472	1081734	1081895	+	162		hypothetical protein	LON2	clust_2704
+LON2|SEQ00979	VBIBifLon171405_0980	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581504	1098287	1098466	+	180		FIG00424744: hypothetical protein	LON2	clust_2703
+LON2|SEQ00981	VBIBifLon171405_0982	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581508	1098735	1099067	-	333		FIG00424882: hypothetical protein	LON2	clust_2702
+LON2|SEQ01012	VBIBifLon171405_1013	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581571	1153435	1153551	+	117		FIG00425325: hypothetical protein	LON2	clust_2701
+LON2|SEQ01073	VBIBifLon171405_1075	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581697	1232806	1234086	-	1281		Bifidobacterial FemAB-like protein type 3	LON2	clust_2700
+LON2|SEQ01074	VBIBifLon171405_1076	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581699	1234136	1235446	-	1311		Bifidobacterial FemAB-like protein type 2	LON2	clust_2699
+LON2|SEQ01115	VBIBifLon171405_1117	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581783	1275360	1275494	+	135		FIG00424813: hypothetical protein	LON2	clust_2698
+LON2|SEQ01158	VBIBifLon171405_1160	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581879	1324651	1324824	+	174		hypothetical protein	LON2	clust_2697
+LON2|SEQ01160	VBIBifLon171405_1162	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581883	1326761	1326922	+	162		hypothetical protein	LON2	clust_2696
+LON2|SEQ01171	VBIBifLon171405_1173	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581905	1340667	1340813	-	147		FIG00426120: hypothetical protein	LON2	clust_2695
+LON2|SEQ01174	VBIBifLon171405_1176	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581911	1345027	1346880	-	1854		FIG00425074: hypothetical protein	LON2	clust_2694
+LON2|SEQ01177	VBIBifLon171405_1179	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581917	1348513	1348689	+	177		FIG00424896: hypothetical protein	LON2	clust_2693
+LON2|SEQ01198	VBIBifLon171405_1200	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581961	1367614	1371330	-	3717		FIG00427113: hypothetical protein	LON2	clust_2692
+LON2|SEQ01202	VBIBifLon171405_1204	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581969	1381836	1382654	-	819		ABC-type sugar transport system, permease component	LON2	clust_2605
+LON2|SEQ01239	VBIBifLon171405_1241	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582053	1436325	1436459	-	135		FIG00425314: hypothetical protein	LON2	clust_2691
+LON2|SEQ01281	VBIBifLon171405_1283	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582137	1483112	1484233	-	1122	paaK	Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON2	clust_2690
+LON2|SEQ01282	VBIBifLon171405_1284	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582139	1484270	1485622	-	1353	uraA3	Xanthine-uracil permease	LON2	clust_2689
+LON2|SEQ01289	VBIBifLon171405_1292	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582153	1493916	1494632	-	717		ABC-type sugar transport system, permease component	LON2	clust_2688
+LON2|SEQ01291	VBIBifLon171405_1294	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582157	1495924	1496580	-	657		secreted alpha-amylase.	LON2	clust_2687
+LON2|SEQ01292	VBIBifLon171405_1295	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582159	1496625	1496906	+	282		FIG00423788: hypothetical protein	LON2	clust_2686
+LON2|SEQ01347	VBIBifLon171405_1350	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582274	1558846	1559700	-	855	telA	TelA-like protein associated with cryptic tellurite resistance	LON2	clust_2685
+LON2|SEQ01348	VBIBifLon171405_1351	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582276	1559674	1559799	+	126		FIG00426123: hypothetical protein	LON2	clust_2684
+LON2|SEQ01350	VBIBifLon171405_1353	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582280	1560621	1561340	-	720		FIG00423825: hypothetical protein	LON2	clust_2683
+LON2|SEQ01385	VBIBifLon171405_1388	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582350	1606672	1606818	-	147		FIG00426416: hypothetical protein	LON2	clust_2682
+LON2|SEQ01399	VBIBifLon171405_1402	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582382	1622319	1623167	-	849		FIG00423826: hypothetical protein	LON2	clust_2681
+LON2|SEQ01400	VBIBifLon171405_1403	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582384	1623181	1623516	-	336		FIG00427247: hypothetical protein	LON2	clust_2680
+LON2|SEQ01490	VBIBifLon171405_1493	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582573	1750415	1753612	+	3198		Bacterial surface proteins containing Ig-like domains	LON2	clust_2777
+LON2|SEQ01502	VBIBifLon171405_1505	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582597	1785675	1790216	+	4542		narrowly conserved hypothetical protein	LON2	clust_2776
+LON2|SEQ01511	VBIBifLon171405_1514	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582617	1804728	1804847	+	120		FIG00426631: hypothetical protein	LON2	clust_2775
+LON2|SEQ01514	VBIBifLon171405_1517	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582623	1808698	1809774	-	1077		hypothetical protein with similarity to family of proteins in M. tuberculosis	LON2	clust_2774
+LON2|SEQ01518	VBIBifLon171405_1521	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582631	1814019	1814924	+	906		Arabinose operon regulatory protein	LON2	clust_2773
+LON2|SEQ01520	VBIBifLon171405_1523	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582635	1816504	1818036	+	1533	galA3	Alpha-galactosidase precursor (EC 3.2.1.22)	LON2	clust_2772
+LON2|SEQ01532	VBIBifLon171405_1535	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582659	1835547	1835702	-	156		FIG00425658: hypothetical protein	LON2	clust_2771
+LON2|SEQ01553	VBIBifLon171405_1556	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582701	1862335	1863573	+	1239		FIG00424956: hypothetical protein	LON2	clust_2770
+LON2|SEQ01555	VBIBifLon171405_1558	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582705	1864570	1864746	-	177		FIG00425206: hypothetical protein	LON2	clust_2769
+LON2|SEQ01556	VBIBifLon171405_1559	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582707	1864743	1865618	-	876		Transcriptional regulator, IclR family	LON2	clust_2768
+LON2|SEQ01557	VBIBifLon171405_1560	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582709	1865864	1867417	+	1554	hutH	Histidine ammonia-lyase (EC 4.3.1.3)	LON2	clust_2767
+LON2|SEQ01563	VBIBifLon171405_1566	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582721	1874364	1875674	+	1311		FIG00424980: hypothetical protein	LON2	clust_2766
+LON2|SEQ01567	VBIBifLon171405_1570	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582729	1880292	1880510	+	219		FIG00424999: hypothetical protein	LON2	clust_2765
+LON2|SEQ01570	VBIBifLon171405_1573	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582735	1883093	1883209	-	117		FIG00425387: hypothetical protein	LON2	clust_2764
+LON2|SEQ01579	VBIBifLon171405_1582	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582753	1891682	1892614	-	933	fhuR3	probable LysR-type transcriptional regulator	LON2	clust_2762
+LON2|SEQ01603	VBIBifLon171405_1606	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582809	1925955	1926707	+	753		Transcriptional regulator, IclR family	LON2	clust_2761
+LON2|SEQ01615	VBIBifLon171405_1618	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582835	1952370	1953614	+	1245		possible cell surface protein	LON2	clust_2760
+LON2|SEQ01617	VBIBifLon171405_1620	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582839	1954769	1954888	-	120		FIG00427659: hypothetical protein	LON2	clust_2759
+LON2|SEQ01625	VBIBifLon171405_1628	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582855	1961856	1964210	+	2355		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON2	clust_2758
+LON2|SEQ01655	VBIBifLon171405_1658	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582921	2001875	2001994	-	120		FIG00426440: hypothetical protein	LON2	clust_2757
+LON2|SEQ01714	VBIBifLon171405_1717	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583043	2056352	2056504	+	153		FIG00425012: hypothetical protein	LON2	clust_2756
+LON2|SEQ01736	VBIBifLon171405_1739	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583089	2085458	2086198	+	741		FIG00423922: hypothetical protein	LON2	clust_2755
+LON2|SEQ01790	VBIBifLon171405_1793	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583207	2148441	2148758	-	318		Permeases of the major facilitator superfamily	LON2	clust_2754
+LON2|SEQ01796	VBIBifLon171405_1799	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583219	2152737	2153081	-	345		FIG00424156: hypothetical protein	LON2	clust_2753
+LON2|SEQ01797	VBIBifLon171405_1800	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583221	2153091	2153438	-	348		FIG00425524: hypothetical protein	LON2	clust_2752
+LON2|SEQ01813	VBIBifLon171405_1816	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583255	2169196	2169330	-	135		FIG00424669: hypothetical protein	LON2	clust_2751
+LON2|SEQ01818	VBIBifLon171405_1821	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583265	2174490	2174690	-	201		large integral membrane protein	LON2	clust_2750
+LON2|SEQ01824	VBIBifLon171405_1827	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583277	2181488	2181652	-	165		FIG00424014: hypothetical protein	LON2	clust_2749
+LON2|SEQ01831	VBIBifLon171405_1834	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583291	2191018	2191506	+	489		FIG00425838: hypothetical protein	LON2	clust_2748
+LON2|SEQ01875	VBIBifLon171405_1879	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583381	2251117	2251692	-	576		FIG00426188: hypothetical protein	LON2	clust_2747
+LON3|SEQ00026	VBIBifLon156230_0026	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765675	41245	41508	+	264		FIG00426426: hypothetical protein	LON3	clust_2733
+LON3|SEQ00029	VBIBifLon156230_0029	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765681	45482	45694	-	213		Cell division protein FtsH (EC 3.4.24.-)	LON3	clust_2734
+LON3|SEQ00061	VBIBifLon156230_0061	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765747	80442	80711	-	270		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	LON3	clust_2735
+LON3|SEQ00062	VBIBifLon156230_0062	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765749	80775	81098	-	324		Methionine ABC transporter ATP-binding protein	LON3	clust_2736
+LON3|SEQ00087	VBIBifLon156230_0087	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765800	102681	103010	-	330		narrowly conserved hypothetical protein	LON3	clust_2738
+LON3|SEQ00088	VBIBifLon156230_0088	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765802	103350	104324	-	975		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON3	clust_2739
+LON3|SEQ00093	VBIBifLon156230_0093	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765812	109964	110227	+	264		FIG00426202: hypothetical protein	LON3	clust_2741
+LON3|SEQ00117	VBIBifLon156230_0117	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765861	138944	140014	-	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON3	clust_2742
+LON3|SEQ00120	VBIBifLon156230_0120	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765867	142997	144718	-	1722		LpqB	LON3	clust_2743
+LON3|SEQ00122	VBIBifLon156230_0122	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765871	146418	147140	-	723		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON3	clust_2744
+LON3|SEQ00176	VBIBifLon156230_0176	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767281	995989	997335	+	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON3	clust_2728
+LON3|SEQ00251	VBIBifLon156230_0251	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767437	1074317	1074472	-	156		Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)	LON3	clust_2727
+LON3|SEQ00341	VBIBifLon156230_0341	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767632	1167048	1167269	-	222		Inner membrane protein translocase component YidC, short form OxaI-like	LON3	clust_2725
+LON3|SEQ00345	VBIBifLon156230_0345	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767640	1170195	1170845	-	651		Signal peptidase I (EC 3.4.21.89)	LON3	clust_2724
+LON3|SEQ00402	VBIBifLon156230_0402	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767754	1233792	1233920	+	129		FIG00425926: hypothetical protein	LON3	clust_2721
+LON3|SEQ00403	VBIBifLon156230_0403	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767756	1234287	1235651	+	1365		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	LON3	clust_2720
+LON3|SEQ00404	VBIBifLon156230_0404	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767758	1235785	1235904	-	120		FIG00425692: hypothetical protein	LON3	clust_2719
+LON3|SEQ00406	VBIBifLon156230_0406	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767762	1237346	1238446	+	1101		LacI-type transcriptional regulator	LON3	clust_2718
+LON3|SEQ00435	VBIBifLon156230_0435	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767822	1271587	1271721	+	135		FIG00424795: hypothetical protein	LON3	clust_2717
+LON3|SEQ00436	VBIBifLon156230_0436	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767824	1271780	1273336	-	1557		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON3	clust_2716
+LON3|SEQ00535	VBIBifLon156230_0535	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768026	1387608	1387739	+	132		FIG00424890: hypothetical protein	LON3	clust_2715
+LON3|SEQ00587	VBIBifLon156230_0587	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768141	1451280	1452053	-	774		hypothetical protein	LON3	clust_2714
+LON3|SEQ00664	VBIBifLon156230_0664	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768297	1536237	1536890	+	654		Transcriptional regulator, MarR family	LON3	clust_2712
+LON3|SEQ00683	VBIBifLon156230_0683	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768337	1554656	1554814	-	159		FIG00424454: hypothetical protein	LON3	clust_2711
+LON3|SEQ00685	VBIBifLon156230_0685	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768341	1556394	1556516	+	123		FIG00425402: hypothetical protein	LON3	clust_2710
+LON3|SEQ00693	VBIBifLon156230_0693	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768357	1567406	1568383	+	978		voltage-gated potassium channel beta subunit	LON3	clust_2709
+LON3|SEQ00720	VBIBifLon156230_0720	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768413	1601192	1601452	+	261		FIG00424891: hypothetical protein	LON3	clust_2708
+LON3|SEQ00723	VBIBifLon156230_0723	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768419	1603049	1603183	-	135		FIG00424838: hypothetical protein	LON3	clust_2707
+LON3|SEQ00749	VBIBifLon156230_0749	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768472	1634129	1635481	-	1353		ABC-type sugar transport system, periplasmic component	LON3	clust_2706
+LON3|SEQ00750	VBIBifLon156230_0750	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768474	1635641	1637341	+	1701		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON3	clust_2705
+LON3|SEQ00755	VBIBifLon156230_0755	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768484	1643664	1643825	+	162		hypothetical protein	LON3	clust_2704
+LON3|SEQ00772	VBIBifLon156230_0772	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768518	1660797	1660976	+	180		FIG00424744: hypothetical protein	LON3	clust_2703
+LON3|SEQ00774	VBIBifLon156230_0774	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768522	1661245	1661577	-	333		FIG00424882: hypothetical protein	LON3	clust_2702
+LON3|SEQ00804	VBIBifLon156230_0804	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768582	1715913	1716029	+	117		FIG00425325: hypothetical protein	LON3	clust_2701
+LON3|SEQ00882	VBIBifLon156230_0883	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768743	1812823	1814103	-	1281		Bifidobacterial FemAB-like protein type 3	LON3	clust_2700
+LON3|SEQ00883	VBIBifLon156230_0884	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768745	1814153	1815463	-	1311		Bifidobacterial FemAB-like protein type 2	LON3	clust_2699
+LON3|SEQ00931	VBIBifLon156230_0932	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768843	1865696	1865830	+	135		FIG00424813: hypothetical protein	LON3	clust_2698
+LON3|SEQ01011	VBIBifLon156230_1012	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765893	158701	158820	-	120		FIG00425096: hypothetical protein	LON3	clust_2745
+LON3|SEQ01012	VBIBifLon156230_1013	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765895	159034	159987	+	954		narrowly conserved hypothetical protein	LON3	clust_2625
+LON3|SEQ01040	VBIBifLon156230_1042	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765951	191860	192180	+	321		FIG00424677: hypothetical protein	LON3	clust_2746
+LON3|SEQ01067	VBIBifLon156230_1069	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766005	228996	229451	+	456		FIG00426188: hypothetical protein	LON3	clust_2747
+LON3|SEQ01111	VBIBifLon156230_1113	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766096	280165	280653	-	489		FIG00425838: hypothetical protein	LON3	clust_2748
+LON3|SEQ01117	VBIBifLon156230_1119	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766108	290019	290183	+	165		FIG00424014: hypothetical protein	LON3	clust_2749
+LON3|SEQ01122	VBIBifLon156230_1124	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766118	296826	297182	+	357		FIG00425533: hypothetical protein	LON3	clust_2750
+LON3|SEQ01127	VBIBifLon156230_1129	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766128	302342	302476	+	135		FIG00424669: hypothetical protein	LON3	clust_2751
+LON3|SEQ01143	VBIBifLon156230_1145	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766162	318235	318582	+	348		FIG00425524: hypothetical protein	LON3	clust_2752
+LON3|SEQ01144	VBIBifLon156230_1146	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766164	318592	318936	+	345		FIG00424156: hypothetical protein	LON3	clust_2753
+LON3|SEQ01157	VBIBifLon156230_1159	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766190	334097	334414	+	318		Permeases of the major facilitator superfamily	LON3	clust_2754
+LON3|SEQ01239	VBIBifLon156230_1241	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769075	1957462	1957635	+	174		hypothetical protein	LON3	clust_2697
+LON3|SEQ01241	VBIBifLon156230_1243	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769079	1959572	1959733	+	162		hypothetical protein	LON3	clust_2696
+LON3|SEQ01252	VBIBifLon156230_1254	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769101	1973469	1973615	-	147		FIG00426120: hypothetical protein	LON3	clust_2695
+LON3|SEQ01255	VBIBifLon156230_1257	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769107	1977828	1979681	-	1854		FIG00425074: hypothetical protein	LON3	clust_2694
+LON3|SEQ01258	VBIBifLon156230_1260	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769113	1981314	1981550	+	237		FIG00424896: hypothetical protein	LON3	clust_2693
+LON3|SEQ01277	VBIBifLon156230_1279	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769153	1999191	2002907	-	3717		FIG00427113: hypothetical protein	LON3	clust_2692
+LON3|SEQ01281	VBIBifLon156230_1283	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769161	2011680	2012498	-	819		ABC-type sugar transport system, permease component	LON3	clust_2605
+LON3|SEQ01319	VBIBifLon156230_1321	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769247	2066196	2066330	-	135		FIG00425314: hypothetical protein	LON3	clust_2691
+LON3|SEQ01358	VBIBifLon156230_1360	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769325	2112970	2114091	-	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON3	clust_2690
+LON3|SEQ01359	VBIBifLon156230_1361	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769327	2114128	2115480	-	1353		Xanthine-uracil permease	LON3	clust_2689
+LON3|SEQ01366	VBIBifLon156230_1369	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769341	2123634	2124350	-	717		ABC-type sugar transport system, permease component	LON3	clust_2688
+LON3|SEQ01368	VBIBifLon156230_1371	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769345	2125642	2126298	-	657		secreted alpha-amylase.	LON3	clust_2687
+LON3|SEQ01369	VBIBifLon156230_1372	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769347	2126343	2126624	+	282		FIG00423788: hypothetical protein	LON3	clust_2686
+LON3|SEQ01426	VBIBifLon156230_1429	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769465	2200384	2201238	-	855		TelA-like protein associated with cryptic tellurite resistance	LON3	clust_2685
+LON3|SEQ01427	VBIBifLon156230_1430	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769467	2201212	2201337	+	126		FIG00426123: hypothetical protein	LON3	clust_2684
+LON3|SEQ01429	VBIBifLon156230_1432	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769473	2202160	2202549	-	390		COG0508: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	LON3	clust_2683
+LON3|SEQ01464	VBIBifLon156230_1467	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769543	2250528	2250674	-	147		FIG00426416: hypothetical protein	LON3	clust_2682
+LON3|SEQ01478	VBIBifLon156230_1481	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769575	2266161	2267009	-	849		FIG00423826: hypothetical protein	LON3	clust_2681
+LON3|SEQ01479	VBIBifLon156230_1482	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769577	2267023	2267358	-	336		FIG00427247: hypothetical protein	LON3	clust_2680
+LON3|SEQ01589	VBIBifLon156230_1592	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766348	425368	426108	-	741		FIG00423922: hypothetical protein	LON3	clust_2755
+LON3|SEQ01610	VBIBifLon156230_1613	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766392	456364	456660	-	297		FIG00425012: hypothetical protein	LON3	clust_2756
+LON3|SEQ01669	VBIBifLon156230_1672	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766514	510771	510890	+	120		FIG00426440: hypothetical protein	LON3	clust_2757
+LON3|SEQ01694	VBIBifLon156230_1697	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766570	541351	543357	-	2007		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON3	clust_2758
+LON3|SEQ01697	VBIBifLon156230_1700	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766576	547473	547592	+	120		FIG00427659: hypothetical protein	LON3	clust_2759
+LON3|SEQ01699	VBIBifLon156230_1702	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766580	548749	549993	-	1245		possible cell surface protein	LON3	clust_2760
+LON3|SEQ01712	VBIBifLon156230_1715	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766608	575843	576595	-	753		Transcriptional regulator, IclR family	LON3	clust_2761
+LON3|SEQ01756	VBIBifLon156230_1759	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766699	623775	624707	+	933		probable LysR-type transcriptional regulator	LON3	clust_2762
+LON3|SEQ01765	VBIBifLon156230_1768	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766717	634712	634861	+	150		FIG00425387: hypothetical protein	LON3	clust_2764
+LON3|SEQ01768	VBIBifLon156230_1771	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766723	637589	637771	-	183		FIG00424999: hypothetical protein	LON3	clust_2765
+LON3|SEQ01772	VBIBifLon156230_1775	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766731	642389	643597	-	1209		FIG00424980: hypothetical protein	LON3	clust_2766
+LON3|SEQ01778	VBIBifLon156230_1781	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766743	650634	652187	-	1554		Histidine ammonia-lyase (EC 4.3.1.3)	LON3	clust_2767
+LON3|SEQ01779	VBIBifLon156230_1782	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766745	652433	653308	+	876		Transcriptional regulator, IclR family	LON3	clust_2768
+LON3|SEQ01780	VBIBifLon156230_1783	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766747	653305	653481	+	177		FIG00425206: hypothetical protein	LON3	clust_2769
+LON3|SEQ01782	VBIBifLon156230_1785	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766751	654478	655257	-	780		FIG00424956: hypothetical protein	LON3	clust_2770
+LON3|SEQ01806	VBIBifLon156230_1809	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766801	682934	683359	+	426		FIG00425658: hypothetical protein	LON3	clust_2771
+LON3|SEQ01834	VBIBifLon156230_1837	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766858	717920	719452	-	1533		Alpha-galactosidase precursor (EC 3.2.1.22)	LON3	clust_2772
+LON3|SEQ01836	VBIBifLon156230_1839	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766862	721032	721937	-	906		Arabinose operon regulatory protein	LON3	clust_2773
+LON3|SEQ01839	VBIBifLon156230_1842	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766868	726182	727258	+	1077		hypothetical protein with similarity to family of proteins in M. tuberculosis	LON3	clust_2774
+LON3|SEQ01842	VBIBifLon156230_1845	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766874	731173	731292	-	120		FIG00426631: hypothetical protein	LON3	clust_2775
+LON3|SEQ01852	VBIBifLon156230_1855	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766896	745689	750230	-	4542		narrowly conserved hypothetical protein	LON3	clust_2776
+LON3|SEQ01863	VBIBifLon156230_1866	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766918	764025	767222	-	3198		Bacterial surface proteins containing Ig-like domains	LON3	clust_2777
+LON3|SEQ01890	VBIBifLon156230_1893	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766972	799456	799695	+	240		FIG00424211: hypothetical protein	LON3	clust_2732
+LON3|SEQ01952	VBIBifLon156230_1955	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767096	883001	883129	-	129		FIG00424504: hypothetical protein	LON3	clust_2731
+LON3|SEQ01985	VBIBifLon156230_1988	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767162	921661	922023	+	363		DNA-damage-inducible protein J	LON3	clust_2730
+LON3|SEQ01986	VBIBifLon156230_1989	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767164	922023	922514	+	492		FIG00424864: hypothetical protein	LON3	clust_2729
+LON4|SEQ00013	VBIBifLon48544_0013	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888224	18250	18585	+	336		FIG00427247: hypothetical protein	LON4	clust_2680
+LON4|SEQ00014	VBIBifLon48544_0014	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888226	18599	19447	+	849		FIG00423826: hypothetical protein	LON4	clust_2681
+LON4|SEQ00031	VBIBifLon48544_0031	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888265	36747	36893	+	147		FIG00426416: hypothetical protein	LON4	clust_2682
+LON4|SEQ00066	VBIBifLon48544_0066	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888335	84527	85246	+	720		FIG00423825: hypothetical protein	LON4	clust_2683
+LON4|SEQ00067	VBIBifLon48544_0067	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888337	86069	86194	-	126		FIG00426123: hypothetical protein	LON4	clust_2684
+LON4|SEQ00068	VBIBifLon48544_0068	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888339	86168	87022	+	855		TelA-like protein associated with cryptic tellurite resistance	LON4	clust_2685
+LON4|SEQ00119	VBIBifLon48544_0119	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888445	152732	153013	-	282		FIG00423788: hypothetical protein	LON4	clust_2686
+LON4|SEQ00120	VBIBifLon48544_0120	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888447	153058	153714	+	657		secreted alpha-amylase.	LON4	clust_2687
+LON4|SEQ00122	VBIBifLon48544_0122	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888452	155006	155722	+	717		ABC-type sugar transport system, permease component	LON4	clust_2688
+LON4|SEQ00130	VBIBifLon48544_0130	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888468	163875	165227	+	1353		Xanthine permease	LON4	clust_2689
+LON4|SEQ00131	VBIBifLon48544_0131	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888470	165264	166385	+	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON4	clust_2690
+LON4|SEQ00171	VBIBifLon48544_0171	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888550	212878	213054	+	177		FIG00425314: hypothetical protein	LON4	clust_2691
+LON4|SEQ00217	VBIBifLon48544_0217	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888654	270929	271747	+	819		ABC-type sugar transport system, permease component	LON4	clust_2605
+LON4|SEQ00220	VBIBifLon48544_0220	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888660	280361	284077	+	3717		FIG00427113: hypothetical protein	LON4	clust_2692
+LON4|SEQ00239	VBIBifLon48544_0239	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888700	301717	301953	-	237		FIG00424896: hypothetical protein	LON4	clust_2693
+LON4|SEQ00242	VBIBifLon48544_0242	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888706	303586	305439	+	1854		FIG00425074: hypothetical protein	LON4	clust_2694
+LON4|SEQ00245	VBIBifLon48544_0245	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888712	309653	309799	+	147		FIG00426120: hypothetical protein	LON4	clust_2695
+LON4|SEQ00256	VBIBifLon48544_0256	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888734	323544	323705	-	162		hypothetical protein	LON4	clust_2696
+LON4|SEQ00258	VBIBifLon48544_0258	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888738	325642	325815	-	174		hypothetical protein	LON4	clust_2697
+LON4|SEQ00302	VBIBifLon48544_0302	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888836	374977	375111	-	135		FIG00424813: hypothetical protein	LON4	clust_2698
+LON4|SEQ00342	VBIBifLon48544_0342	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888918	415058	416368	+	1311		Bifidobacterial FemAB-like protein type 2	LON4	clust_2699
+LON4|SEQ00343	VBIBifLon48544_0343	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888920	416418	417698	+	1281		Bifidobacterial FemAB-like protein type 3	LON4	clust_2700
+LON4|SEQ00406	VBIBifLon48544_0406	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889050	496049	496165	-	117		FIG00425325: hypothetical protein	LON4	clust_2701
+LON4|SEQ00437	VBIBifLon48544_0437	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889113	550567	550899	+	333		FIG00424882: hypothetical protein	LON4	clust_2702
+LON4|SEQ00439	VBIBifLon48544_0439	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889117	551168	551347	-	180		FIG00424744: hypothetical protein	LON4	clust_2703
+LON4|SEQ00455	VBIBifLon48544_0455	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889149	567680	567841	-	162		hypothetical protein	LON4	clust_2704
+LON4|SEQ00461	VBIBifLon48544_0461	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889161	574684	576384	-	1701		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON4	clust_2705
+LON4|SEQ00462	VBIBifLon48544_0462	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889163	576544	577896	+	1353		ABC-type sugar transport system, periplasmic component	LON4	clust_2706
+LON4|SEQ00488	VBIBifLon48544_0488	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889217	610251	610385	+	135		FIG00424838: hypothetical protein	LON4	clust_2707
+LON4|SEQ00491	VBIBifLon48544_0491	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889223	611982	612242	-	261		FIG00424891: hypothetical protein	LON4	clust_2708
+LON4|SEQ00518	VBIBifLon48544_0518	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889279	644993	645970	-	978		voltage-gated potassium channel beta subunit	LON4	clust_2709
+LON4|SEQ00526	VBIBifLon48544_0526	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889296	656860	656982	-	123		FIG00425402: hypothetical protein	LON4	clust_2710
+LON4|SEQ00528	VBIBifLon48544_0528	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889300	658562	658720	+	159		FIG00424454: hypothetical protein	LON4	clust_2711
+LON4|SEQ00547	VBIBifLon48544_0547	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889340	676092	676262	-	171		possible MarR-type transcriptional regulator	LON4	clust_2712
+LON4|SEQ00633	VBIBifLon48544_0633	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889516	766647	767303	+	657		hypothetical protein	LON4	clust_2714
+LON4|SEQ00685	VBIBifLon48544_0685	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889635	830486	830617	-	132		FIG00424890: hypothetical protein	LON4	clust_2715
+LON4|SEQ00776	VBIBifLon48544_0776	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889823	934421	935977	+	1557		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON4	clust_2716
+LON4|SEQ00777	VBIBifLon48544_0777	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889825	936036	936170	-	135		FIG00424795: hypothetical protein	LON4	clust_2717
+LON4|SEQ00806	VBIBifLon48544_0806	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889885	969269	970369	-	1101		LacI-type transcriptional regulator	LON4	clust_2718
+LON4|SEQ00808	VBIBifLon48544_0808	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889889	971811	971930	+	120		FIG00425692: hypothetical protein	LON4	clust_2719
+LON4|SEQ00809	VBIBifLon48544_0809	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889891	972064	973428	-	1365		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	LON4	clust_2720
+LON4|SEQ00810	VBIBifLon48544_0810	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889893	973795	973923	-	129		FIG00425926: hypothetical protein	LON4	clust_2721
+LON4|SEQ00875	VBIBifLon48544_0875	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890025	1042791	1043441	+	651		Signal peptidase I (EC 3.4.21.89)	LON4	clust_2724
+LON4|SEQ00879	VBIBifLon48544_0879	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890033	1047157	1047378	+	222		Inner membrane protein translocase component YidC, short form OxaI-like	LON4	clust_2725
+LON4|SEQ01167	VBIBifLon48544_1167	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890668	1313225	1313380	+	156		Pyrrolidone-carboxylate peptidase (EC 3.4.19.3)	LON4	clust_2727
+LON4|SEQ01190	VBIBifLon48544_1190	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890721	1336806	1338152	-	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON4	clust_2728
+LON4|SEQ01250	VBIBifLon48544_1250	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890842	1410827	1411318	-	492		FIG00424864: hypothetical protein	LON4	clust_2729
+LON4|SEQ01251	VBIBifLon48544_1251	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890844	1411315	1411707	-	393		DNA-damage-inducible protein J	LON4	clust_2730
+LON4|SEQ01284	VBIBifLon48544_1284	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890912	1450312	1450440	+	129		FIG00424504: hypothetical protein	LON4	clust_2731
+LON4|SEQ01339	VBIBifLon48544_1339	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891023	1516340	1516579	-	240		FIG00424211: hypothetical protein	LON4	clust_2732
+LON4|SEQ01380	VBIBifLon48544_1380	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891111	1575837	1576100	+	264		FIG00426426: hypothetical protein	LON4	clust_2733
+LON4|SEQ01383	VBIBifLon48544_1383	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891117	1580074	1580286	-	213		Cell division protein FtsH (EC 3.4.24.-)	LON4	clust_2734
+LON4|SEQ01415	VBIBifLon48544_1415	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891184	1615069	1615338	-	270		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	LON4	clust_2735
+LON4|SEQ01416	VBIBifLon48544_1416	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891186	1615402	1615725	-	324		Methionine ABC transporter ATP-binding protein	LON4	clust_2736
+LON4|SEQ01438	VBIBifLon48544_1438	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891232	1637308	1637637	-	330		narrowly conserved hypothetical protein	LON4	clust_2738
+LON4|SEQ01440	VBIBifLon48544_1440	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891236	1637977	1638951	-	975		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON4	clust_2739
+LON4|SEQ01445	VBIBifLon48544_1445	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891246	1644591	1644827	+	237		FIG00426202: hypothetical protein	LON4	clust_2741
+LON4|SEQ01467	VBIBifLon48544_1467	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891290	1672233	1673303	-	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON4	clust_2742
+LON4|SEQ01470	VBIBifLon48544_1470	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891296	1676286	1678016	-	1731		LpqB	LON4	clust_2743
+LON4|SEQ01472	VBIBifLon48544_1472	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891300	1679707	1680429	-	723		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON4	clust_2744
+LON4|SEQ01484	VBIBifLon48544_1484	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891324	1696356	1696475	-	120		FIG00425096: hypothetical protein	LON4	clust_2745
+LON4|SEQ01485	VBIBifLon48544_1485	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891326	1696689	1697726	+	1038		narrowly conserved hypothetical protein	LON4	clust_2625
+LON4|SEQ01513	VBIBifLon48544_1513	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891382	1729518	1729838	+	321		FIG00424677: hypothetical protein	LON4	clust_2746
+LON4|SEQ01539	VBIBifLon48544_1539	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891435	1765156	1765731	+	576		FIG00426188: hypothetical protein	LON4	clust_2747
+LON4|SEQ01579	VBIBifLon48544_1579	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891518	1820270	1820758	-	489		FIG00425838: hypothetical protein	LON4	clust_2748
+LON4|SEQ01585	VBIBifLon48544_1585	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891530	1830124	1830288	+	165		FIG00424014: hypothetical protein	LON4	clust_2749
+LON4|SEQ01590	VBIBifLon48544_1590	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891540	1836937	1837293	+	357		FIG00425533: hypothetical protein	LON4	clust_2750
+LON4|SEQ01595	VBIBifLon48544_1595	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891550	1842453	1842587	+	135		FIG00424669: hypothetical protein	LON4	clust_2751
+LON4|SEQ01611	VBIBifLon48544_1611	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891584	1858346	1858702	+	357		FIG00425524: hypothetical protein	LON4	clust_2752
+LON4|SEQ01612	VBIBifLon48544_1612	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891586	1858760	1859104	+	345		FIG00424156: hypothetical protein	LON4	clust_2753
+LON4|SEQ01617	VBIBifLon48544_1617	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891596	1863081	1863398	+	318		Permeases of the major facilitator superfamily	LON4	clust_2754
+LON4|SEQ01672	VBIBifLon48544_1672	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891719	1925584	1926291	-	708		FIG00423922: hypothetical protein	LON4	clust_2755
+LON4|SEQ01695	VBIBifLon48544_1695	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891768	1956678	1956830	-	153		FIG00425012: hypothetical protein	LON4	clust_2756
+LON4|SEQ01753	VBIBifLon48544_1753	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891890	2011275	2011394	+	120		FIG00426440: hypothetical protein	LON4	clust_2757
+LON4|SEQ01779	VBIBifLon48544_1779	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891950	2041854	2044406	-	2553		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON4	clust_2758
+LON4|SEQ01784	VBIBifLon48544_1784	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891960	2048633	2048752	+	120		FIG00427659: hypothetical protein	LON4	clust_2759
+LON4|SEQ01786	VBIBifLon48544_1786	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891964	2049909	2051153	-	1245		possible cell surface protein	LON4	clust_2760
+LON4|SEQ01798	VBIBifLon48544_1798	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891990	2076861	2077613	-	753		Transcriptional regulator, IclR family	LON4	clust_2761
+LON4|SEQ01822	VBIBifLon48544_1822	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892046	2110861	2111793	+	933		probable LysR-type transcriptional regulator	LON4	clust_2762
+LON4|SEQ01830	VBIBifLon48544_1830	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892062	2120229	2120378	+	150		FIG00425387: hypothetical protein	LON4	clust_2764
+LON4|SEQ01833	VBIBifLon48544_1833	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892068	2122992	2123174	-	183		FIG00424999: hypothetical protein	LON4	clust_2765
+LON4|SEQ01837	VBIBifLon48544_1837	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892076	2127791	2129101	-	1311		FIG00424980: hypothetical protein	LON4	clust_2766
+LON4|SEQ01843	VBIBifLon48544_1843	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892088	2136048	2137601	-	1554		Histidine ammonia-lyase (EC 4.3.1.3)	LON4	clust_2767
+LON4|SEQ01844	VBIBifLon48544_1844	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892090	2137847	2138722	+	876		Transcriptional regulator, IclR family	LON4	clust_2768
+LON4|SEQ01845	VBIBifLon48544_1845	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892092	2138719	2138895	+	177		FIG00425206: hypothetical protein	LON4	clust_2769
+LON4|SEQ01847	VBIBifLon48544_1847	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892096	2139877	2141085	-	1209		FIG00424956: hypothetical protein	LON4	clust_2770
+LON4|SEQ01874	VBIBifLon48544_1874	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892151	2174049	2174204	+	156		FIG00425658: hypothetical protein	LON4	clust_2771
+LON4|SEQ01887	VBIBifLon48544_1887	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892177	2191789	2193153	-	1365		Alpha-galactosidase precursor (EC 3.2.1.22)	LON4	clust_2772
+LON4|SEQ01889	VBIBifLon48544_1889	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892181	2194901	2195806	-	906		Arabinose operon regulatory protein	LON4	clust_2773
+LON4|SEQ01893	VBIBifLon48544_1893	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892189	2200051	2201127	+	1077		hypothetical protein with similarity to family of proteins in M. tuberculosis	LON4	clust_2774
+LON4|SEQ01896	VBIBifLon48544_1896	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892195	2205041	2205160	-	120		FIG00426631: hypothetical protein	LON4	clust_2775
+LON4|SEQ01906	VBIBifLon48544_1906	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892217	2219758	2224299	-	4542		narrowly conserved hypothetical protein	LON4	clust_2776
+LON4|SEQ01919	VBIBifLon48544_1919	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892243	2262549	2265746	-	3198		Bacterial surface proteins containing Ig-like domains	LON4	clust_2777

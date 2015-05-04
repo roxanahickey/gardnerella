@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ02090	VBIBifDen165269_2092	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463159	44171	44959	+	789	cpsE	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	DEN1	clust_3746
+DEN2|SEQ01262	VBIBifDen39005_1263	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110903	44190	44978	+	789		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	DEN2	clust_3746
+THE1|SEQ00346	VBIBifThe274299_0346	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733866	406636	407166	-	531		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	THE1	clust_3746

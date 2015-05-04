@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ02007	VBIBifAdo136061_2007	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190399	574353	575918	-	1566		Cell wall surface anchor family protein	ADO1	clust_1877
+BIF1|SEQ01807	VBIBifBif87902_1807	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886252	2184457	2186061	-	1605		Cell wall surface anchor family protein	BIF1	clust_1877
+BRE4|SEQ01907	VBIBifBre327712_1907	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613998	2232875	2234500	-	1626		Cell wall surface anchor family protein	BRE4	clust_1877
+BRE7|SEQ01944	VBIBifBre340732_1944	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622428	2262537	2264138	-	1602		Cell wall surface anchor family protein	BRE7	clust_1877
+BRE9|SEQ02033	VBIBifBre30019_2033	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448246	2366620	2368218	-	1599		Cell wall surface anchor family protein	BRE9	clust_1877
+DEN1|SEQ02228	VBIBifDen165269_2230	Bifidobacterium dentium ATCC 27679	NZ_GL405229	PATRIC	CDS	43463446	360	1841	+	1482		Cell wall surface anchor family protein	DEN1	clust_1877
+DEN2|SEQ01289	VBIBifDen39005_1290	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000025	PATRIC	CDS	42110961	1562	3043	-	1482		Cell wall surface anchor family protein	DEN2	clust_1877
+INF1|SEQ02000	VBIBifLon182273_2000	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888073	2336013	2337590	-	1578		Cell wall surface anchor family protein	INF1	clust_1877
+LON1|SEQ01403	VBIBifLon107831_1404	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119921	1670848	1672425	+	1578		Cell wall surface anchor family protein	LON1	clust_1877
+LON2|SEQ01447	VBIBifLon171405_1450	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582481	1687178	1688755	+	1578		Cell wall surface anchor family protein	LON2	clust_1877
+LON3|SEQ01530	VBIBifLon156230_1533	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769681	2340951	2342570	+	1620		Cell wall surface anchor family protein	LON3	clust_1877
+LON4|SEQ01967	VBIBifLon48544_1968	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892351	2338212	2339801	-	1590		Cell wall surface anchor family protein	LON4	clust_1877

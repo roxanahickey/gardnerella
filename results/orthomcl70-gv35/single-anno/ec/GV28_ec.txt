@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+GV28|SEQ00043	183986736	VBIGarVag271349_0043	SEQ00043	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000006	PATRIC	CDS	NA	Type II restriction enzyme NlaIV (EC 3.1.21.4)	3.1.21.4	Type II site-specific deoxyribonuclease	ec	NA
+GV28|SEQ00046	183986742	VBIGarVag271349_0046	SEQ00046	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000006	PATRIC	CDS	NA	Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)	2.1.1.72	Site-specific DNA-methyltransferase (adenine-specific)	ec	NA
+GV28|SEQ00654	183988040	VBIGarVag271349_0654	SEQ00654	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000048	PATRIC	CDS	NA	Pullulanase (EC 3.2.1.41)	3.2.1.41	Pullulanase	ec	NA
+GV28|SEQ00933	183988656	VBIGarVag271349_0933	SEQ00933	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000086	PATRIC	CDS	NA	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	2.7.7.8	Polyribonucleotide nucleotidyltransferase	ec	NA

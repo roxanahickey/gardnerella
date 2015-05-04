@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00686	VBIBifAdo136061_0686	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187660	552955	554454	-	1500		possible histidine kinase sensor of two component system	ADO1	clust_1340
+ANI1|SEQ00433	VBIBifAni240121_0433	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845795	509388	510848	-	1461		possible histidine kinase sensor of two component system	ANI1	clust_1340
+ANI2|SEQ00433	VBIBifAni235968_0433	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849150	509390	510850	-	1461		possible histidine kinase sensor of two component system	ANI2	clust_1340
+ANI3|SEQ00435	VBIBifAni108068_0435	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763164	509391	510851	-	1461		possible histidine kinase sensor of two component system	ANI3	clust_1340
+BIF1|SEQ01462	VBIBifBif87902_1462	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885524	1752952	1754397	+	1446		possible histidine kinase sensor of two component system	BIF1	clust_1340
+BRE1|SEQ01540	VBIBifBre340958_1541	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605115	1813801	1815087	+	1287		possible histidine kinase sensor of two component system	BRE1	clust_1340
+BRE2|SEQ01649	VBIBifBre337368_1649	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609309	1916377	1917663	+	1287		possible histidine kinase sensor of two component system	BRE2	clust_1340
+BRE3|SEQ01602	VBIBifBre167886_1602	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194965	1873561	1874847	+	1287		possible histidine kinase sensor of two component system	BRE3	clust_1340
+BRE4|SEQ01581	VBIBifBre327712_1581	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613313	1848685	1849971	+	1287		possible histidine kinase sensor of two component system	BRE4	clust_1340
+BRE5|SEQ01704	VBIBifBre336369_1705	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617613	1919299	1920585	+	1287		possible histidine kinase sensor of two component system	BRE5	clust_1340
+BRE6|SEQ02013	VBIBifBre268992_2013	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657346	35429	36715	+	1287		possible histidine kinase sensor of two component system	BRE6	clust_1340
+BRE7|SEQ01637	VBIBifBre340732_1637	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621783	1891173	1892459	+	1287		possible histidine kinase sensor of two component system	BRE7	clust_1340
+BRE8|SEQ01587	VBIBifBre176493_1587	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625795	1858339	1859625	+	1287	bbukinH	possible histidine kinase sensor of two component system	BRE8	clust_1340
+BRE9|SEQ01700	VBIBifBre30019_1700	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447549	1968613	1969899	+	1287		possible histidine kinase sensor of two component system	BRE9	clust_1340
+INF1|SEQ01724	VBIBifLon182273_1724	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887478	1968413	1969696	+	1284		possible histidine kinase sensor of two component system	INF1	clust_1340
+LON1|SEQ01700	VBIBifLon107831_1701	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120552	2058333	2059616	-	1284		possible histidine kinase sensor of two component system	LON1	clust_1340
+LON2|SEQ01734	VBIBifLon171405_1737	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583085	2082343	2083626	-	1284		possible histidine kinase sensor of two component system	LON2	clust_1340
+LON3|SEQ01591	VBIBifLon156230_1594	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766352	427928	429211	+	1284		possible histidine kinase sensor of two component system	LON3	clust_1340
+LON4|SEQ01674	VBIBifLon48544_1674	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891723	1928156	1929439	+	1284		possible histidine kinase sensor of two component system	LON4	clust_1340
+THE1|SEQ01371	VBIBifThe274299_1371	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735978	1705257	1706966	+	1710		possible histidine kinase sensor of two component system	THE1	clust_1340

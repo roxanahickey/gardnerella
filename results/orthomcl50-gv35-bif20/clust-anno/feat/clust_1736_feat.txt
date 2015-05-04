@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00831	VBIBifAdo136061_0831	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187970	719073	719381	-	309		LacI-type transcriptional regulator	ADO1	clust_1736
+ANI1|SEQ01561	VBIBifAni240121_1561	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848158	1880902	1881762	+	861		Transcriptional regulator	ANI1	clust_1736
+ANI2|SEQ01558	VBIBifAni235968_1558	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851504	1881125	1881985	+	861		Transcriptional regulator	ANI2	clust_1736
+ANI3|SEQ01569	VBIBifAni108068_1570	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765526	1886357	1887217	+	861		Transcriptional regulator	ANI3	clust_1736
+BRE1|SEQ00216	VBIBifBre340958_0216	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602368	282840	283343	-	504		LacI-type transcriptional regulator	BRE1	clust_1736
+BRE5|SEQ00238	VBIBifBre336369_0239	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614577	297430	297837	-	408		LacI-type transcriptional regulator	BRE5	clust_1736
+BRE6|SEQ02022	VBIBifBre268992_2022	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657368	88	1110	+	1023		LacI-type transcriptional regulator	BRE6	clust_1736
+BRE9|SEQ00267	VBIBifBre30019_0267	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444576	352576	353028	-	453		LacI-type transcriptional regulator	BRE9	clust_1736
+INF1|SEQ00194	VBIBifLon182273_0194	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884305	247583	248605	-	1023		LacI-type transcriptional regulator	INF1	clust_1736
+LON1|SEQ01170	VBIBifLon107831_1171	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119435	1371062	1372084	+	1023		LacI-type transcriptional regulator	LON1	clust_1736
+LON2|SEQ01205	VBIBifLon171405_1207	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581975	1385700	1386722	+	1023		LacI-type transcriptional regulator	LON2	clust_1736
+LON3|SEQ01284	VBIBifLon156230_1286	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769167	2015544	2016566	+	1023		LacI-type transcriptional regulator	LON3	clust_1736
+LON4|SEQ00214	VBIBifLon48544_0214	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888648	266861	267883	-	1023		LacI-type transcriptional regulator	LON4	clust_1736

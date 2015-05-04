@@ -1,0 +1,17 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00310	27186876	VBIBifAdo136061_0310	SEQ00310	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE1|SEQ00045	268602008	VBIBifBre340958_0045	SEQ00045	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE2|SEQ00037	268605963	VBIBifBre337368_0037	SEQ00037	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE3|SEQ00043	54191723	VBIBifBre167886_0043	SEQ00043	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE4|SEQ00059	268610151	VBIBifBre327712_0059	SEQ00059	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE5|SEQ00046	268614172	VBIBifBre336369_0046	SEQ00046	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE6|SEQ01585	177656439	VBIBifBre268992_1585	SEQ01585	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE7|SEQ00039	268618469	VBIBifBre340732_0039	SEQ00039	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE8|SEQ00062	268622629	VBIBifBre176493_0062	SEQ00062	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	putP	Sodium/proline symporter	FIG01356222	figfam	clust_1535
+BRE9|SEQ00062	58444148	VBIBifBre30019_0062	SEQ00062	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+INF1|SEQ00033	46883967	VBIBifLon182273_0033	SEQ00033	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+LON1|SEQ01340	21119789	VBIBifLon107831_1341	SEQ01340	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+LON2|SEQ01373	42582326	VBIBifLon171405_1376	SEQ01373	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+LON3|SEQ01454	42769523	VBIBifLon156230_1457	SEQ01454	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+LON4|SEQ00042	46888287	VBIBifLon48544_0042	SEQ00042	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Sodium/proline symporter	FIG01356222	figfam	clust_1535
+THE1|SEQ01286	124735794	VBIBifThe274299_1286	SEQ01286	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter	FIG00034981	figfam	clust_1535

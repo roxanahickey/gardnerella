@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00322	VBIGarVag246433_0322	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480509	1749	2735	-	987		periplasmic binding protein/LacI transcriptional regulator	GV04	clust_1908
+GV06|SEQ00369	VBIGarVag244004_0369	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489481	33489	34475	+	987		periplasmic binding protein/LacI transcriptional regulator	GV06	clust_1908
+GV08|SEQ01235	VBIGarVag251521_1235	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476933	352855	353841	-	987		periplasmic binding protein/LacI transcriptional regulator	GV08	clust_1908
+GV11|SEQ00509	VBIGarVag171052_0509	Gardnerella vaginalis 41V	AEJE01000031	PATRIC	CDS	52549343	7221	8207	+	987		periplasmic binding protein/LacI transcriptional regulator	GV11	clust_1908
+GV13|SEQ00390	VBIGarVag244533_0390	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486739	23682	24668	+	987		periplasmic binding protein/LacI transcriptional regulator	GV13	clust_1908
+GV16|SEQ00397	VBIGarVag246379_0397	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477928	366495	367481	-	987		periplasmic binding protein/LacI transcriptional regulator	GV16	clust_1908
+GV18|SEQ00666	VBIGarVag4823_0666	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000120	PATRIC	CDS	42070103	4010	4996	-	987		periplasmic binding protein/LacI transcriptional regulator	GV18	clust_1908
+GV19|SEQ01215	VBIGarVag39333_1217	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629353	1531303	1532289	+	987		periplasmic binding protein/LacI transcriptional regulator	GV19	clust_1908
+GV20|SEQ00284	VBIGarVag188338_0284	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189369	323043	324029	-	987		periplasmic binding protein/LacI transcriptional regulator	GV20	clust_1908
+GV21|SEQ00591	VBIGarVag274454_0592	Gardnerella vaginalis JCP7275	ATJS01000032	PATRIC	CDS	183967863	10599	11585	+	987		periplasmic binding protein/LacI transcriptional regulator	GV21	clust_1908
+GV24|SEQ00004	VBIGarVag268944_0004	Gardnerella vaginalis JCP7672	ATJP01000001	PATRIC	CDS	183975094	3273	4259	-	987		periplasmic binding protein/LacI transcriptional regulator	GV24	clust_1908

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV31|SEQ00159	VBIGarVag264983_0159	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995354	1597	1791	-	195		FIG022160: hypothetical toxin	GV31	clust_1835
+GV33|SEQ00340	VBIGarVag265557_0340	Gardnerella vaginalis JCP8481A	ATJG01000030	PATRIC	CDS	184001394	722	916	-	195		FIG022160: hypothetical toxin	GV33	clust_1835
+GV34|SEQ00464	VBIGarVag270440_0464	Gardnerella vaginalis JCP8481B	ATJF01000034	PATRIC	CDS	184004499	23007	23201	+	195		FIG022160: hypothetical toxin	GV34	clust_1835

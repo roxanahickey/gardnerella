@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01011	27188336	VBIBifAdo136061_1011	SEQ01011	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		branched-chain amino acid transport	FIG01348015	figfam	clust_2029
+BIF1|SEQ01440	86885478	VBIBifBif87902_1440	SEQ01440	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		branched-chain amino acid permease	FIG01364108	figfam	clust_2029
+DEN1|SEQ01932	43461031	VBIBifDen165269_1933	SEQ01932	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		branched-chain amino acid transport	FIG01348015	figfam	clust_2029
+DEN2|SEQ00897	42110146	VBIBifDen39005_0897	SEQ00897	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS		branched-chain amino acid transport	FIG01348015	figfam	clust_2029
+INF1|SEQ01701	46887429	VBIBifLon182273_1701	SEQ01701	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		branched-chain amino acid permease	FIG01364108	figfam	clust_2029
+LON1|SEQ01722	21120598	VBIBifLon107831_1723	SEQ01722	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		branched-chain amino acid permease	FIG01364108	figfam	clust_2029
+LON2|SEQ01756	42583131	VBIBifLon171405_1759	SEQ01756	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		branched-chain amino acid permease	FIG01364108	figfam	clust_2029
+LON3|SEQ01569	42766306	VBIBifLon156230_1572	SEQ01569	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		branched-chain amino acid permease	FIG01364108	figfam	clust_2029
+LON4|SEQ01651	46891673	VBIBifLon48544_1651	SEQ01651	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		branched-chain amino acid permease	FIG01364108	figfam	clust_2029

@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00086	VBIBifAdo136061_0086	Bifidobacterium adolescentis L2-32	NZ_DS264428	PATRIC	CDS	27186376	144	623	+	480		S1D (lysyl endopeptidase) subfamily C-terminal domain protein	ADO1	clust_1837
+BRE2|SEQ01191	VBIBifBre337368_1191	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608363	1360859	1362316	-	1458		hypothetical protein	BRE2	clust_1837
+BRE4|SEQ01138	VBIBifBre327712_1138	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612398	1312640	1315948	-	3309		"Endo-beta-N-acetylglucosaminidase "	BRE4	clust_1837
+BRE5|SEQ01233	VBIBifBre336369_1234	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616644	1364209	1366992	-	2784		Endo-beta-N-acetylglucosaminidase	BRE5	clust_1837
+BRE6|SEQ01811	VBIBifBre268992_1811	Bifidobacterium breve JCP7499	AWSX01000084	PATRIC	CDS	177656931	15251	18034	-	2784		Endo-beta-N-acetylglucosaminidase	BRE6	clust_1837
+BRE7|SEQ01144	VBIBifBre340732_1144	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620771	1307483	1310266	-	2784		Endo-beta-N-acetylglucosaminidase	BRE7	clust_1837
+BRE8|SEQ01170	VBIBifBre176493_1170	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624933	1359639	1361360	-	1722		Endo-beta-N-acetylglucosaminidase	BRE8	clust_1837
+BRE9|SEQ01229	VBIBifBre30019_1229	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446581	1412868	1415651	-	2784		Endo-beta-N-acetylglucosaminidase	BRE9	clust_1837
+INF1|SEQ01340	VBIBifLon182273_1340	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886684	1515364	1516587	-	1224		hypothetical protein	INF1	clust_1837
+LON1|SEQ00192	VBIBifLon107831_0192	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117421	226514	229297	+	2784		Endo-beta-N-acetylglucosaminidase	LON1	clust_1837
+LON2|SEQ00232	VBIBifLon171405_0233	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579967	267647	270937	+	3291		Endo-beta-N-acetylglucosaminidase (EC 3.2.1.96)	LON2	clust_1837
+LON3|SEQ01921	VBIBifLon156230_1924	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767034	840630	843929	+	3300		Endo-beta-N-acetylglucosaminidase (EC 3.2.1.96)	LON3	clust_1837

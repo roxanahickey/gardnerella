@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01370	VBIBifAdo136061_1370	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189092	30620	31903	-	1284		Manganese transport protein MntH	ADO1	clust_1221
+ANI1|SEQ01383	VBIBifAni240121_1383	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847773	1635309	1636667	-	1359	mntH	Manganese transport protein MntH	ANI1	clust_1221
+ANI2|SEQ01383	VBIBifAni235968_1383	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851126	1635527	1636885	-	1359	mntH	Manganese transport protein MntH	ANI2	clust_1221
+ANI3|SEQ01392	VBIBifAni108068_1392	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765144	1640758	1642116	-	1359		Manganese transport protein MntH	ANI3	clust_1221
+BIF1|SEQ00356	VBIBifBif87902_0356	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883243	432819	434123	+	1305	mntH	Manganese transport protein MntH	BIF1	clust_1221
+BRE1|SEQ00369	VBIBifBre340958_0369	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602687	460723	462048	+	1326		Manganese transport protein MntH	BRE1	clust_1221
+BRE2|SEQ00431	VBIBifBre337368_0431	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606786	516831	518156	+	1326		Manganese transport protein MntH	BRE2	clust_1221
+BRE3|SEQ00428	VBIBifBre167886_0428	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192528	529497	530822	+	1326		Manganese transport protein MntH	BRE3	clust_1221
+BRE4|SEQ00378	VBIBifBre327712_0378	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610822	474191	475516	+	1326		Manganese transport protein MntH	BRE4	clust_1221
+BRE5|SEQ00402	VBIBifBre336369_0403	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614919	471578	472903	+	1326		Manganese transport protein MntH	BRE5	clust_1221
+BRE6|SEQ00342	VBIBifBre268992_0342	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653804	9040	10365	+	1326		Manganese transport protein MntH	BRE6	clust_1221
+BRE7|SEQ00404	VBIBifBre340732_0404	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619230	496730	498079	+	1350		Manganese transport protein MntH	BRE7	clust_1221
+BRE8|SEQ00431	VBIBifBre176493_0431	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623398	535142	536467	+	1326	mntH	Manganese transport protein MntH	BRE8	clust_1221
+BRE9|SEQ00472	VBIBifBre30019_0472	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445006	567972	569297	+	1326	mntH	Manganese transport protein MntH	BRE9	clust_1221
+INF1|SEQ00368	VBIBifLon182273_0368	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884672	458521	459912	+	1392		Manganese transport protein MntH	INF1	clust_1221
+LON1|SEQ00987	VBIBifLon107831_0988	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119051	1162240	1163607	-	1368	mntH	Manganese transport protein MntH	LON1	clust_1221
+LON2|SEQ01043	VBIBifLon171405_1044	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581633	1191324	1192691	-	1368	mntH	Manganese transport protein MntH	LON2	clust_1221
+LON3|SEQ00850	VBIBifLon156230_0850	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768675	1767207	1768574	-	1368		Manganese transport protein MntH	LON3	clust_1221
+LON4|SEQ00371	VBIBifLon48544_0371	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888980	456259	457626	+	1368		Manganese transport protein MntH	LON4	clust_1221
+THE1|SEQ00344	VBIBifThe274299_0344	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733862	402519	403919	+	1401		Manganese transport protein MntH	THE1	clust_1221

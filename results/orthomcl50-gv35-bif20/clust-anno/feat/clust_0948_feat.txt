@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00782	VBIGarVag247323_0782	Gardnerella vaginalis 00703Bmash	ADET01000011	PATRIC	CDS	85495730	5259	6443	+	1185		Putative ABC transport system exported protein	GV01	clust_0948
+GV02|SEQ00212	VBIGarVag242669_0212	Gardnerella vaginalis 00703C2mash	ADEU01000005	PATRIC	CDS	85497196	5147	6331	+	1185		Putative ABC transport system exported protein	GV02	clust_0948
+GV03|SEQ00922	VBIGarVag247424_0922	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501287	261079	262260	-	1182		Manganese ABC transporter, periplasmic-binding protein SitA	GV03	clust_0948
+GV04|SEQ01060	VBIGarVag246433_1060	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482041	5187	6371	+	1185		Putative ABC transport system exported protein	GV04	clust_0948
+GV05|SEQ00970	VBIGarVag174900_0970	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547718	674327	675508	-	1182		Manganese ABC transporter, periplasmic-binding protein SitA	GV05	clust_0948
+GV06|SEQ00347	VBIGarVag244004_0347	Gardnerella vaginalis 1400E	ADER01000010	PATRIC	CDS	85489422	12988	14172	-	1185		Putative ABC transport system exported protein	GV06	clust_0948
+GV07|SEQ00997	VBIGarVag249177_0997	Gardnerella vaginalis 1500E	ADES01000019	PATRIC	CDS	85493679	12285	13466	+	1182		Manganese ABC transporter, periplasmic-binding protein SitA	GV07	clust_0948
+GV08|SEQ00163	VBIGarVag251521_0163	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474697	200976	202160	-	1185		Putative ABC transport system exported protein	GV08	clust_0948
+GV09|SEQ00991	VBIGarVag169280_0991	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261194	420435	421619	-	1185		Putative ABC transport system exported protein	GV09	clust_0948
+GV10|SEQ00740	VBIGarVag136958_0740	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147550	956996	958177	-	1182		Putative ABC transport system exported protein	GV10	clust_0948
+GV11|SEQ01207	VBIGarVag171052_1207	Gardnerella vaginalis 41V	AEJE01000068	PATRIC	CDS	52550824	5531	6715	-	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV11	clust_0948
+GV12|SEQ00179	VBIGarVag144721_0179	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853019	124143	125324	-	1182		Putative ABC transport system exported protein	GV12	clust_0948
+GV13|SEQ00642	VBIGarVag244533_0642	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487257	63752	64936	-	1185		Putative ABC transport system exported protein	GV13	clust_0948
+GV14|SEQ01022	VBIGarVag244375_1022	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503952	85216	86397	-	1182		Manganese ABC transporter, periplasmic-binding protein SitA	GV14	clust_0948
+GV16|SEQ00938	VBIGarVag246379_0938	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479043	1070489	1071673	-	1185		Putative ABC transport system exported protein	GV16	clust_0948
+GV17|SEQ00815	VBIGarVag146634_0815	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851705	15822	17003	+	1182		Putative ABC transport system exported protein	GV17	clust_0948
+GV18|SEQ00178	VBIGarVag4823_0178	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000065	PATRIC	CDS	42069045	7073	8257	-	1185		Putative ABC transport system exported protein	GV18	clust_0948
+GV19|SEQ00679	VBIGarVag39333_0680	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628252	843255	844439	+	1185		Putative ABC transport system exported protein	GV19	clust_0948
+GV20|SEQ00861	VBIGarVag188338_0861	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190556	1053760	1054944	-	1185		Putative ABC transport system exported protein	GV20	clust_0948
+GV21|SEQ00314	VBIGarVag274454_0314	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967280	107407	108591	-	1185		Manganese ABC transporter substrate-binding lipoprotein precursor	GV21	clust_0948
+GV22|SEQ00053	VBIGarVag276801_0053	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969491	65242	66426	+	1185		Putative ABC transport system exported protein	GV22	clust_0948
+GV23|SEQ00997	VBIGarVag276017_0997	Gardnerella vaginalis JCP7659	ATJQ01000097	PATRIC	CDS	183974438	4960	6144	-	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV23	clust_0948
+GV24|SEQ01019	VBIGarVag268944_1020	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977269	109285	110469	-	1185		Putative ABC transport system exported protein	GV24	clust_0948
+GV25|SEQ00712	VBIGarVag270495_0712	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979391	9915	11099	+	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV25	clust_0948
+GV26|SEQ00461	VBIGarVag272749_0461	Gardnerella vaginalis JCP8017A	ATJN01000028	PATRIC	CDS	183981709	3647	4831	+	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV26	clust_0948
+GV27|SEQ01010	VBIGarVag276930_1010	Gardnerella vaginalis JCP8017B	ATJM01000076	PATRIC	CDS	183985858	3645	4829	+	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV27	clust_0948
+GV28|SEQ00242	VBIGarVag271349_0242	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987147	3955	5139	+	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV28	clust_0948
+GV29|SEQ00857	VBIGarVag265473_0857	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991203	3303	4487	+	1185		Manganese ABC transporter substrate-binding lipoprotein precursor	GV29	clust_0948
+GV30|SEQ00842	VBIGarVag267667_0844	Gardnerella vaginalis JCP8108	ATJJ01000065	PATRIC	CDS	183993851	18515	19699	+	1185		Manganese ABC transporter substrate-binding lipoprotein precursor	GV30	clust_0948
+GV31|SEQ00617	VBIGarVag264983_0617	Gardnerella vaginalis JCP8151A	ATJI01000028	PATRIC	CDS	183996319	6583	7767	-	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV31	clust_0948
+GV32|SEQ00256	VBIGarVag277040_0256	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998360	79306	80490	+	1185		Manganese ABC transporter, periplasmic-binding protein SitA	GV32	clust_0948
+GV33|SEQ00499	VBIGarVag265557_0499	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	184001735	8014	9195	+	1182		Manganese ABC transporter, periplasmic-binding protein SitA	GV33	clust_0948
+GV34|SEQ00198	VBIGarVag270440_0198	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	184003908	27458	28639	-	1182		Manganese ABC transporter, periplasmic-binding protein SitA	GV34	clust_0948
+GV35|SEQ00129	VBIGarVag272169_0129	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006537	14517	15701	+	1185		Manganese ABC transporter substrate-binding lipoprotein precursor	GV35	clust_0948

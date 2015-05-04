@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01490	VBIBifAni240121_1490	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847999	1782679	1783548	-	870		1,4-beta-N-acetylmuramidase	ANI1	clust_3642
+ANI2|SEQ01488	VBIBifAni235968_1488	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851348	1782899	1783768	-	870		1,4-beta-N-acetylmuramidase	ANI2	clust_3642
+ANI3|SEQ01499	VBIBifAni108068_1499	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765370	1788130	1788909	-	780		1,4-beta-N-acetylmuramidase	ANI3	clust_3642

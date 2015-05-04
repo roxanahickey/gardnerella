@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01111	VBIBifAdo136061_1111	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188547	17365	18843	+	1479		CBSS-498211.3.peg.1514: hypothetical protein	ADO1	clust_1806
+ANI1|SEQ00473	VBIBifAni240121_0473	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845880	557033	558607	+	1575		CBSS-498211.3.peg.1514: hypothetical protein	ANI1	clust_1806
+ANI2|SEQ00473	VBIBifAni235968_0473	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849235	557035	558609	+	1575		CBSS-498211.3.peg.1514: hypothetical protein	ANI2	clust_1806
+ANI3|SEQ00475	VBIBifAni108068_0475	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763248	557036	558610	+	1575		CBSS-498211.3.peg.1514: hypothetical protein	ANI3	clust_1806
+BIF1|SEQ01007	VBIBifBif87902_1007	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884578	1228150	1229670	-	1521		CBSS-498211.3.peg.1514: hypothetical protein	BIF1	clust_1806
+DEN1|SEQ01554	VBIBifDen165269_1555	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460254	834521	836053	-	1533		CBSS-498211.3.peg.1514: hypothetical protein	DEN1	clust_1806
+DEN2|SEQ00081	VBIBifDen39005_0081	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108458	19240	20772	+	1533		CBSS-498211.3.peg.1514: hypothetical protein	DEN2	clust_1806
+INF1|SEQ01136	VBIBifLon182273_1136	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886268	1277159	1278790	-	1632		Methyl-accepting chemotaxis protein	INF1	clust_1806
+LON1|SEQ00396	VBIBifLon107831_0396	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117835	468648	470279	+	1632		Methyl-accepting chemotaxis protein	LON1	clust_1806
+LON2|SEQ00402	VBIBifLon171405_0403	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580312	465909	467540	+	1632		CBSS-498211.3.peg.1514: hypothetical protein	LON2	clust_1806
+LON3|SEQ00259	VBIBifLon156230_0259	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767453	1081241	1082872	+	1632		Methyl-accepting chemotaxis protein	LON3	clust_1806
+LON4|SEQ01159	VBIBifLon48544_1159	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890652	1304823	1306454	-	1632		CBSS-498211.3.peg.1514: hypothetical protein	LON4	clust_1806
+THE1|SEQ01634	VBIBifThe274299_1634	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736533	2025043	2026572	+	1530		CBSS-498211.3.peg.1514: hypothetical protein	THE1	clust_1806

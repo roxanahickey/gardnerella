@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01023	VBIBifAni240121_1023	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847028	1181535	1183004	+	1470		Aspartate ammonia-lyase (EC 4.3.1.1)	ANI1	clust_1390
+ANI2|SEQ01023	VBIBifAni235968_1023	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850381	1181538	1183007	+	1470		Aspartate ammonia-lyase (EC 4.3.1.1)	ANI2	clust_1390
+ANI3|SEQ01027	VBIBifAni108068_1027	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764395	1181539	1183008	+	1470	aspA	Aspartate ammonia-lyase (EC 4.3.1.1)	ANI3	clust_1390
+BIF1|SEQ01222	VBIBifBif87902_1222	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885018	1464383	1465822	+	1440	aspA	Aspartate ammonia-lyase (EC 4.3.1.1)	BIF1	clust_1390
+BRE1|SEQ00285	VBIBifBre340958_0285	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602512	360748	362181	-	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE1	clust_1390
+BRE2|SEQ00348	VBIBifBre337368_0348	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606612	417050	418483	-	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE2	clust_1390
+BRE3|SEQ00337	VBIBifBre167886_0337	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192339	421349	422782	-	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE3	clust_1390
+BRE4|SEQ00302	VBIBifBre327712_0302	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610661	383079	384512	-	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE4	clust_1390
+BRE5|SEQ00325	VBIBifBre336369_0326	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614758	385158	386591	-	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE5	clust_1390
+BRE6|SEQ00525	VBIBifBre268992_0525	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS	177654189	275	1708	+	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE6	clust_1390
+BRE7|SEQ00314	VBIBifBre340732_0314	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619044	394288	395721	-	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	BRE7	clust_1390
+BRE8|SEQ00340	VBIBifBre176493_0340	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623209	425787	427220	-	1434	ansB	Aspartate ammonia-lyase (EC 4.3.1.1)	BRE8	clust_1390
+BRE9|SEQ00388	VBIBifBre30019_0388	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444830	467808	469241	-	1434	ansB	Aspartate ammonia-lyase (EC 4.3.1.1)	BRE9	clust_1390
+INF1|SEQ00266	VBIBifLon182273_0266	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884455	334704	336176	-	1473		Aspartate ammonia-lyase (EC 4.3.1.1)	INF1	clust_1390
+LON1|SEQ01074	VBIBifLon107831_1075	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119237	1268078	1269550	+	1473	aspA	Aspartate ammonia-lyase (EC 4.3.1.1)	LON1	clust_1390
+LON2|SEQ01132	VBIBifLon171405_1134	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581823	1296950	1298422	+	1473	aspA	Aspartate ammonia-lyase (EC 4.3.1.1)	LON2	clust_1390
+LON3|SEQ00958	VBIBifLon156230_0959	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768903	1892302	1893735	+	1434		Aspartate ammonia-lyase (EC 4.3.1.1)	LON3	clust_1390
+LON4|SEQ00285	VBIBifLon48544_0285	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888796	352052	353524	-	1473		Aspartate ammonia-lyase (EC 4.3.1.1)	LON4	clust_1390
+THE1|SEQ00286	VBIBifThe274299_0286	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733742	334966	336585	-	1620	aspA	Aspartate ammonia-lyase (EC 4.3.1.1)	THE1	clust_1390

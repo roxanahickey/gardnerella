@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ01490	268608974	VBIBifBre337368_1490	SEQ01490	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2736
+BRE3|SEQ01460	54194664	VBIBifBre167886_1460	SEQ01460	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2736
+DEN1|SEQ01074	43459273	VBIBifDen165269_1075	SEQ01074	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		COG1309: Transcriptional regulator	FIG00781363	figfam	clust_2736
+DEN2|SEQ02035	42112507	VBIBifDen39005_2037	SEQ02035	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS		COG1309: Transcriptional regulator	FIG00781363	figfam	clust_2736
+INF1|SEQ01594	46887202	VBIBifLon182273_1594	SEQ01594	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2736

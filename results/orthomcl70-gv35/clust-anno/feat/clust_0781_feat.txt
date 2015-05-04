@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01053	VBIGarVag247323_1053	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496304	49825	51219	+	1395		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV01	clust_0781
+GV02|SEQ00390	VBIGarVag242669_0390	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497559	201533	202939	-	1407		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV02	clust_0781
+GV03|SEQ01129	VBIGarVag247424_1129	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501726	64523	65860	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV03	clust_0781
+GV04|SEQ00716	VBIGarVag246433_0716	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481328	44528	45934	-	1407		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV04	clust_0781
+GV05|SEQ00068	VBIGarVag174900_0068	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545843	84575	85912	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV05	clust_0781
+GV06|SEQ01010	VBIGarVag244004_1010	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490833	42983	44380	-	1398		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV06	clust_0781
+GV07|SEQ00412	VBIGarVag249177_0412	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492448	46248	47585	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV07	clust_0781
+GV08|SEQ00819	VBIGarVag251521_0819	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476067	182860	184269	+	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV08	clust_0781
+GV09|SEQ00266	VBIGarVag169280_0266	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259698	91129	92538	+	1410	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV09	clust_0781
+GV10|SEQ00309	VBIGarVag136958_0309	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146650	359229	360566	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV10	clust_0781
+GV11|SEQ00987	VBIGarVag171052_0987	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550355	3017	4414	+	1398		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV11	clust_0781
+GV12|SEQ00851	VBIGarVag144721_0851	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854417	395476	396813	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV12	clust_0781
+GV13|SEQ00467	VBIGarVag244533_0467	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486897	59857	61254	+	1398		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV13	clust_0781
+GV14|SEQ00769	VBIGarVag244375_0769	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503426	133780	135117	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV14	clust_0781
+GV15|SEQ00362	VBIGarVag249709_0362	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484243	91195	92532	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV15	clust_0781
+GV16|SEQ00491	VBIGarVag246379_0491	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478126	531110	532519	-	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV16	clust_0781
+GV17|SEQ00284	VBIGarVag146634_0284	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850585	263599	264936	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV17	clust_0781
+GV18|SEQ01263	VBIGarVag4823_1263	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071367	36765	38174	-	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV18	clust_0781
+GV19|SEQ01114	VBIGarVag39333_1116	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629141	1358164	1359573	+	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV19	clust_0781
+GV20|SEQ00393	VBIGarVag188338_0393	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189597	496758	498167	-	1410	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV20	clust_0781
+GV21|SEQ01115	VBIGarVag274454_1116	Gardnerella vaginalis JCP7275	ATJS01000144	PATRIC	CDS	183969085	1253	1831	-	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV21	clust_0781
+GV22|SEQ01170	VBIGarVag276801_1171	Gardnerella vaginalis JCP7276	ATJR01000133	PATRIC	CDS	183971932	1299	1877	-	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV22	clust_0781
+GV24|SEQ01122	VBIGarVag268944_1123	Gardnerella vaginalis JCP7672	ATJP01000120	PATRIC	CDS	183977529	155	835	+	681		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV24	clust_0781
+GV25|SEQ00583	VBIGarVag270495_0583	Gardnerella vaginalis JCP7719	ATJO01000051	PATRIC	CDS	183979112	1680	2222	-	543		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV25	clust_0781
+GV26|SEQ01169	VBIGarVag272749_1169	Gardnerella vaginalis JCP8017A	ATJN01000119	PATRIC	CDS	183983267	6	584	+	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV26	clust_0781
+GV27|SEQ01047	VBIGarVag276930_1047	Gardnerella vaginalis JCP8017B	ATJM01000087	PATRIC	CDS	183985944	76	822	+	747		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV27	clust_0781
+GV28|SEQ01083	VBIGarVag271349_1083	Gardnerella vaginalis JCP8066	ATJL01000142	PATRIC	CDS	183989026	20	583	+	564		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV28	clust_0781
+GV29|SEQ00831	VBIGarVag265473_0831	Gardnerella vaginalis JCP8070	ATJK01000069	PATRIC	CDS	183991147	37	612	+	576		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV29	clust_0781
+GV30|SEQ01318	VBIGarVag267667_1320	Gardnerella vaginalis JCP8108	ATJJ01000164	PATRIC	CDS	183994930	151	729	-	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV30	clust_0781
+GV31|SEQ01181	VBIGarVag264983_1181	Gardnerella vaginalis JCP8151A	ATJI01000151	PATRIC	CDS	183997613	52	567	+	516		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV31	clust_0781
+GV32|SEQ00916	VBIGarVag277040_0916	Gardnerella vaginalis JCP8151B	ATJH01000087	PATRIC	CDS	183999814	16	591	+	576		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV32	clust_0781
+GV33|SEQ00244	VBIGarVag265557_0244	Gardnerella vaginalis JCP8481A	ATJG01000021	PATRIC	CDS	184001187	8457	9794	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV33	clust_0781
+GV34|SEQ01202	VBIGarVag270440_1202	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	184006134	8222	9559	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV34	clust_0781
+GV35|SEQ00963	VBIGarVag272169_0963	Gardnerella vaginalis JCP8522	ATJE01000117	PATRIC	CDS	184008385	52	555	+	504		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV35	clust_0781

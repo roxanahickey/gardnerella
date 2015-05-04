@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00694	VBIBifAdo136061_0694	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187678	564863	566743	-	1881		putative 67 kDa myosin-crossreactive streptococcal antigen	ADO1	clust_1284
+ANI1|SEQ00449	VBIBifAni240121_0449	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845830	531275	533401	+	2127		putative 67 kDa myosin-crossreactive streptococcal antigen	ANI1	clust_1284
+ANI2|SEQ00449	VBIBifAni235968_0449	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849185	531277	533403	+	2127		putative 67 kDa myosin-crossreactive streptococcal antigen	ANI2	clust_1284
+ANI3|SEQ00451	VBIBifAni108068_0451	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763198	531278	533404	+	2127		putative 67 kDa myosin-crossreactive streptococcal antigen	ANI3	clust_1284
+BIF1|SEQ00492	VBIBifBif87902_0492	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883519	615768	617645	+	1878		67 kDa Myosin-crossreactive streptococcal antigen	BIF1	clust_1284
+BRE1|SEQ01262	VBIBifBre340958_1263	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604540	1487429	1489306	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE1	clust_1284
+BRE2|SEQ01352	VBIBifBre337368_1352	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608694	1563706	1565583	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE2	clust_1284
+BRE3|SEQ00559	VBIBifBre167886_0559	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192793	679304	681181	+	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE3	clust_1284
+BRE4|SEQ01293	VBIBifBre327712_1293	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612717	1510764	1512641	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE4	clust_1284
+BRE5|SEQ01420	VBIBifBre336369_1421	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617028	1595929	1597806	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE5	clust_1284
+BRE6|SEQ00191	VBIBifBre268992_0191	Bifidobacterium breve JCP7499	AWSX01000013	PATRIC	CDS	177653492	357	2234	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE6	clust_1284
+BRE7|SEQ01303	VBIBifBre340732_1303	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621097	1512119	1513996	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE7	clust_1284
+BRE8|SEQ01331	VBIBifBre176493_1331	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625263	1559232	1561109	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE8	clust_1284
+BRE9|SEQ01387	VBIBifBre30019_1387	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446905	1615702	1617579	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	BRE9	clust_1284
+DEN1|SEQ00191	VBIBifDen165269_0192	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461647	1546649	1548529	+	1881	mycA	putative 67 kDa myosin-crossreactive streptococcal antigen	DEN1	clust_1284
+DEN2|SEQ01983	VBIBifDen39005_1985	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112396	216388	218022	+	1635		putative 67 kDa myosin-crossreactive streptococcal antigen	DEN2	clust_1284
+INF1|SEQ01393	VBIBifLon182273_1393	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886796	1585620	1587497	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	INF1	clust_1284
+LON1|SEQ00139	VBIBifLon107831_0139	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117307	156152	158029	+	1878		67 kDa Myosin-crossreactive streptococcal antigen	LON1	clust_1284
+LON2|SEQ00184	VBIBifLon171405_0185	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579865	200376	202253	+	1878		67 kDa Myosin-crossreactive streptococcal antigen	LON2	clust_1284
+LON3|SEQ00002	VBIBifLon156230_0002	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765627	6503	8380	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	LON3	clust_1284
+LON4|SEQ01356	VBIBifLon48544_1356	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891063	1541073	1542950	-	1878		67 kDa Myosin-crossreactive streptococcal antigen	LON4	clust_1284
+THE1|SEQ00703	VBIBifThe274299_0703	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734586	884995	886773	+	1779		putative 67 kDa myosin-crossreactive streptococcal antigen	THE1	clust_1284

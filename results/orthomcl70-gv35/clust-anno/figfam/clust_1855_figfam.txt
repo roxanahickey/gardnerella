@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV06|SEQ00089	85488883	VBIGarVag244004_0089	SEQ00089	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	NA	ATP-dependent DNA helicase	FIG01349536	figfam	clust_1855
+GV21|SEQ00523	183967720	VBIGarVag274454_0524	SEQ00523	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000025	PATRIC	CDS	NA	ATP-dependent DNA helicase	FIG01349536	figfam	clust_1855
+GV30|SEQ00959	183994113	VBIGarVag267667_0961	SEQ00959	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000085	PATRIC	CDS	NA	ATP-dependent DNA helicase	FIG01349536	figfam	clust_1855

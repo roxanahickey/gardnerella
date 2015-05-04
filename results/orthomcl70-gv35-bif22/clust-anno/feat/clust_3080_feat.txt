@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01972	VBIBifBre337368_1972	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609986	2303751	2304317	+	567		Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family	BRE2	clust_3080
+BRE3|SEQ01953	VBIBifBre167886_1953	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195703	2299639	2300205	+	567		Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family	BRE3	clust_3080
+BRE4|SEQ01925	VBIBifBre327712_1925	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614035	2261044	2261610	+	567		Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family	BRE4	clust_3080
+BRE9|SEQ02051	VBIBifBre30019_2051	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448282	2394746	2395312	+	567		Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family	BRE9	clust_3080

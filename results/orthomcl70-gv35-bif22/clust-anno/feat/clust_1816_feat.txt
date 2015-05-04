@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01356	VBIBifAdo136061_1356	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189064	5006	6454	+	1449		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	ADO1	clust_1816
+ANI1|SEQ01369	VBIBifAni240121_1369	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847745	1617914	1619365	-	1452		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	ANI1	clust_1816
+ANI2|SEQ01369	VBIBifAni235968_1369	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851098	1618132	1619583	-	1452		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	ANI2	clust_1816
+ANI3|SEQ01379	VBIBifAni108068_1379	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765118	1623363	1624814	-	1452		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	ANI3	clust_1816
+BRE1|SEQ00380	VBIBifBre340958_0380	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602709	476080	477540	+	1461		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	BRE1	clust_1816
+BRE3|SEQ00441	VBIBifBre167886_0441	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192555	547483	548862	+	1380		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	BRE3	clust_1816
+BRE4|SEQ00390	VBIBifBre327712_0390	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610847	487125	488588	-	1464		hypothetical protein	BRE4	clust_1816
+BRE5|SEQ00411	VBIBifBre336369_0412	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614937	483615	485084	-	1470		hypothetical protein	BRE5	clust_1816
+BRE5|SEQ00425	VBIBifBre336369_0426	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614965	501874	503337	+	1464		hypothetical protein	BRE5	clust_1816
+BRE7|SEQ00415	VBIBifBre340732_0415	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619252	512269	513714	+	1446		hypothetical protein	BRE7	clust_1816
+BRE9|SEQ00482	VBIBifBre30019_0482	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445026	579997	581460	-	1464		hypothetical protein	BRE9	clust_1816
+LON3|SEQ00837	VBIBifLon156230_0837	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768648	1752111	1753571	-	1461		Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	LON3	clust_1816

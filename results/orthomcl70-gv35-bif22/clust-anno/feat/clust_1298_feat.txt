@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01955	VBIBifAdo136061_1955	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190287	499019	499534	-	516		Very-short-patch mismatch repair endonuclease (G-T specific)	ADO1	clust_1298
+ANI1|SEQ01310	VBIBifAni240121_1310	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847627	1530388	1530921	-	534		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI1	clust_1298
+ANI2|SEQ01310	VBIBifAni235968_1310	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850980	1530609	1531142	-	534		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI2	clust_1298
+ANI3|SEQ01319	VBIBifAni108068_1319	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764998	1535840	1536373	-	534		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI3	clust_1298
+BIF1|SEQ00417	VBIBifBif87902_0417	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883365	521155	521811	+	657	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	BIF1	clust_1298
+BRE1|SEQ01406	VBIBifBre340958_1407	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604832	1664438	1664854	-	417		Very-short-patch mismatch repair endonuclease (G-T specific)	BRE1	clust_1298
+BRE2|SEQ01522	VBIBifBre337368_1522	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609041	1764161	1764577	-	417		Very-short-patch mismatch repair endonuclease (G-T specific)	BRE2	clust_1298
+BRE3|SEQ01481	VBIBifBre167886_1481	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194709	1735450	1735902	-	453	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	BRE3	clust_1298
+BRE4|SEQ01447	VBIBifBre327712_1447	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613031	1694780	1695232	-	453		Very-short-patch mismatch repair endonuclease (G-T specific)	BRE4	clust_1298
+BRE5|SEQ01599	VBIBifBre336369_1600	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617390	1800476	1800928	-	453		Very-short-patch mismatch repair endonuclease (G-T specific)	BRE5	clust_1298
+BRE6|SEQ00942	VBIBifBre268992_0942	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655075	68206	68622	-	417		Very-short-patch mismatch repair endonuclease (G-T specific)	BRE6	clust_1298
+BRE7|SEQ01476	VBIBifBre340732_1476	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621448	1713303	1713755	-	453		Very-short-patch mismatch repair endonuclease (G-T specific)	BRE7	clust_1298
+BRE8|SEQ01499	VBIBifBre176493_1499	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625607	1754605	1755057	-	453	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	BRE8	clust_1298
+BRE9|SEQ01563	VBIBifBre30019_1563	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447261	1818153	1818605	-	453	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	BRE9	clust_1298
+DEN1|SEQ01063	VBIBifDen165269_1064	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459249	238382	238882	+	501	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	DEN1	clust_1298
+DEN2|SEQ02024	VBIBifDen39005_2026	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112483	10334	10783	+	450	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	DEN2	clust_1298
+INF1|SEQ01617	VBIBifLon182273_1617	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887250	1849744	1850199	-	456		Very-short-patch mismatch repair endonuclease (G-T specific)	INF1	clust_1298
+LON1|SEQ01794	VBIBifLon107831_1795	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120752	2166054	2166509	+	456	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	LON1	clust_1298
+LON2|SEQ01833	VBIBifLon171405_1836	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583295	2192140	2192595	+	456	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)	LON2	clust_1298
+LON3|SEQ01109	VBIBifLon156230_1111	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766092	279076	279531	-	456		Very-short-patch mismatch repair endonuclease (G-T specific)	LON3	clust_1298
+LON4|SEQ01577	VBIBifLon48544_1577	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891514	1819181	1819636	-	456		Very-short-patch mismatch repair endonuclease (G-T specific)	LON4	clust_1298
+THE1|SEQ01300	VBIBifThe274299_1300	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735826	1613429	1614169	-	741		Very-short-patch mismatch repair endonuclease (G-T specific)	THE1	clust_1298

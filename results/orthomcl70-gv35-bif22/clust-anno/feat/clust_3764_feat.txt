@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01453	VBIBifAni240121_1453	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847917	1735980	1736786	-	807		ABC transporter, integral membrane subunit	ANI1	clust_3764
+ANI2|SEQ01452	VBIBifAni235968_1452	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851268	1736200	1737006	-	807		ABC transporter, integral membrane subunit	ANI2	clust_3764
+ANI3|SEQ01462	VBIBifAni108068_1462	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765288	1741431	1742228	-	798		ABC transporter, integral membrane subunit	ANI3	clust_3764

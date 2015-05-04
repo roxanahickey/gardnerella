@@ -1,0 +1,56 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01315	27188975	VBIBifAdo136061_1315	SEQ01315	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+ANI1|SEQ00998	86846976	VBIBifAni240121_0998	SEQ00998	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+ANI2|SEQ00998	86850329	VBIBifAni235968_0998	SEQ00998	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+ANI3|SEQ01002	42764343	VBIBifAni108068_1002	SEQ01002	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BIF1|SEQ00706	86883952	VBIBifBif87902_0706	SEQ00706	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE1|SEQ00675	268603317	VBIBifBre340958_0675	SEQ00675	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE2|SEQ00771	268607479	VBIBifBre337368_0771	SEQ00771	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE3|SEQ01100	54193931	VBIBifBre167886_1100	SEQ01100	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE4|SEQ00710	268611501	VBIBifBre327712_0710	SEQ00710	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE5|SEQ00726	268615579	VBIBifBre336369_0727	SEQ00726	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE6|SEQ00678	177654520	VBIBifBre268992_0678	SEQ00678	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE7|SEQ00720	268619879	VBIBifBre340732_0720	SEQ00720	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE8|SEQ00742	268624032	VBIBifBre176493_0742	SEQ00742	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	fkbP	Fk506-binding protein	FIG00672394	figfam	clust_0490
+BRE9|SEQ00793	58445663	VBIBifBre30019_0793	SEQ00793	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV01|SEQ00117	85494340	VBIGarVag247323_0117	SEQ00117	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV02|SEQ00562	85497927	VBIGarVag242669_0562	SEQ00562	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV03|SEQ00675	85500774	VBIGarVag247424_0675	SEQ00675	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV04|SEQ00489	85480864	VBIGarVag246433_0489	SEQ00489	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV05|SEQ00757	52547273	VBIGarVag174900_0757	SEQ00757	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV06|SEQ00738	85490266	VBIGarVag244004_0738	SEQ00738	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV07|SEQ00652	85492956	VBIGarVag249177_0652	SEQ00652	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV08|SEQ00307	85475005	VBIGarVag251521_0307	SEQ00307	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV09|SEQ00504	55260190	VBIGarVag169280_0504	SEQ00504	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV10|SEQ00499	32147050	VBIGarVag136958_0499	SEQ00499	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV11|SEQ00399	52549108	VBIGarVag171052_0399	SEQ00399	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV12|SEQ01075	37854887	VBIGarVag144721_1075	SEQ01075	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV13|SEQ00866	85487732	VBIGarVag244533_0866	SEQ00866	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV14|SEQ00220	85502275	VBIGarVag244375_0220	SEQ00220	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV15|SEQ01135	85485871	VBIGarVag249709_1135	SEQ01135	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV16|SEQ01154	85479502	VBIGarVag246379_1154	SEQ01154	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV17|SEQ01051	37852196	VBIGarVag146634_1051	SEQ01051	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV18|SEQ00949	42070703	VBIGarVag4823_0949	SEQ00949	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV19|SEQ00454	42627777	VBIGarVag39333_0455	SEQ00454	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV20|SEQ01064	54190988	VBIGarVag188338_1064	SEQ01064	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV21|SEQ00101	183966840	VBIGarVag274454_0101	SEQ00101	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV22|SEQ00269	183969954	VBIGarVag276801_0270	SEQ00269	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV23|SEQ00300	183972913	VBIGarVag276017_0300	SEQ00300	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000017	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV24|SEQ00712	183976610	VBIGarVag268944_0713	SEQ00712	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV25|SEQ00302	183978503	VBIGarVag270495_0302	SEQ00302	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000019	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV26|SEQ00749	183982317	VBIGarVag272749_0749	SEQ00749	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV27|SEQ00535	183984823	VBIGarVag276930_0535	SEQ00535	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000017	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV28|SEQ00353	183987375	VBIGarVag271349_0353	SEQ00353	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000019	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV29|SEQ00393	183990178	VBIGarVag265473_0393	SEQ00393	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000018	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV30|SEQ01189	183994626	VBIGarVag267667_1191	SEQ01189	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV31|SEQ00450	183995960	VBIGarVag264983_0450	SEQ00450	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000014	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV32|SEQ00162	183998168	VBIGarVag277040_0162	SEQ00162	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000012	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV33|SEQ01088	184003054	VBIGarVag265557_1088	SEQ01088	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV34|SEQ01130	184005966	VBIGarVag270440_1130	SEQ01130	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+GV35|SEQ00534	184007404	VBIGarVag272169_0534	SEQ00534	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000036	PATRIC	CDS	NA	Fk506-binding protein	FIG00672394	figfam	clust_0490
+INF1|SEQ00637	46885223	VBIBifLon182273_0637	SEQ00637	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+LON1|SEQ00719	21118509	VBIBifLon107831_0720	SEQ00719	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+LON2|SEQ00784	42581108	VBIBifLon171405_0785	SEQ00784	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+LON3|SEQ00590	42768147	VBIBifLon156230_0590	SEQ00590	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+LON4|SEQ00630	46889510	VBIBifLon48544_0630	SEQ00630	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490
+THE1|SEQ00842	124734870	VBIBifThe274299_0842	SEQ00842	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Fk506-binding protein	FIG00672394	figfam	clust_0490

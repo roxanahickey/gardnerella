@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00119	VBIBifAni240121_0119	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845139	138893	139951	-	1059		Alcohol dehydrogenase (EC 1.1.1.1)	ANI1	clust_1355
+ANI2|SEQ00119	VBIBifAni235968_0119	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848494	138893	139951	-	1059		Alcohol dehydrogenase (EC 1.1.1.1)	ANI2	clust_1355
+ANI3|SEQ00121	VBIBifAni108068_0121	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762510	138893	139951	-	1059		Alcohol dehydrogenase (EC 1.1.1.1)	ANI3	clust_1355
+BIF1|SEQ00870	VBIBifBif87902_0870	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884289	1073740	1074783	+	1044	adh	Threonine dehydrogenase and related Zn-dependent dehydrogenases	BIF1	clust_1355
+BRE1|SEQ00548	VBIBifBre340958_0548	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603056	676809	677852	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE1	clust_1355
+BRE2|SEQ00637	VBIBifBre337368_0637	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607206	765225	766268	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE2	clust_1355
+BRE3|SEQ01245	VBIBifBre167886_1245	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194226	1453518	1454561	-	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE3	clust_1355
+BRE4|SEQ00578	VBIBifBre327712_0578	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611231	712212	713255	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE4	clust_1355
+BRE5|SEQ00585	VBIBifBre336369_0586	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615291	699648	700691	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE5	clust_1355
+BRE6|SEQ01153	VBIBifBre268992_1153	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655519	94419	95462	-	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE6	clust_1355
+BRE7|SEQ00590	VBIBifBre340732_0590	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619614	715265	716308	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE7	clust_1355
+BRE8|SEQ00612	VBIBifBre176493_0612	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623767	756522	757565	+	1044	adh1	Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE8	clust_1355
+BRE9|SEQ00667	VBIBifBre30019_0667	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445405	808730	809773	+	1044	adh1	Threonine dehydrogenase and related Zn-dependent dehydrogenases	BRE9	clust_1355
+DEN1|SEQ01572	VBIBifDen165269_1573	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460292	851905	852951	-	1047	fdh	Threonine dehydrogenase and related Zn-dependent dehydrogenases	DEN1	clust_1355
+DEN2|SEQ00062	VBIBifDen39005_0062	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108418	2344	3390	+	1047		Threonine dehydrogenase and related Zn-dependent dehydrogenases	DEN2	clust_1355
+INF1|SEQ00558	VBIBifLon182273_0558	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885060	698588	699631	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	INF1	clust_1355
+LON1|SEQ00796	VBIBifLon107831_0797	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118665	924491	925534	-	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	LON1	clust_1355
+LON2|SEQ00863	VBIBifLon171405_0864	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581268	963788	964831	-	1044	tdh1	Threonine dehydrogenase and related Zn-dependent dehydrogenases	LON2	clust_1355
+LON3|SEQ00667	VBIBifLon156230_0667	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768303	1539201	1540244	-	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	LON3	clust_1355
+LON4|SEQ00543	VBIBifLon48544_0543	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889332	672823	673866	+	1044		Threonine dehydrogenase and related Zn-dependent dehydrogenases	LON4	clust_1355
+THE1|SEQ01389	VBIBifThe274299_1389	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736016	1728379	1729470	-	1092		Threonine dehydrogenase and related Zn-dependent dehydrogenases	THE1	clust_1355

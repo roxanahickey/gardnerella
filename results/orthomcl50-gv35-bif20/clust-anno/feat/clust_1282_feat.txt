@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01235	VBIBifAdo136061_1235	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188809	159372	160817	-	1446		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	ADO1	clust_1282
+ANI1|SEQ00891	VBIBifAni240121_0891	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846754	1036585	1038000	-	1416		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	ANI1	clust_1282
+ANI2|SEQ00890	VBIBifAni235968_0890	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850105	1036588	1038003	-	1416		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	ANI2	clust_1282
+ANI3|SEQ00893	VBIBifAni108068_0893	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764119	1036589	1038004	-	1416		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	ANI3	clust_1282
+BIF1|SEQ00822	VBIBifBif87902_0822	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884193	1004013	1005458	+	1446	pntB	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BIF1	clust_1282
+BRE1|SEQ00881	VBIBifBre340958_0881	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603748	1047489	1048913	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE1	clust_1282
+BRE2|SEQ00963	VBIBifBre337368_0963	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607884	1129327	1130751	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE2	clust_1282
+BRE3|SEQ00916	VBIBifBre167886_0916	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193542	1082786	1084210	-	1425	pntB	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE3	clust_1282
+BRE4|SEQ00913	VBIBifBre327712_0913	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611927	1085236	1086660	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE4	clust_1282
+BRE5|SEQ01022	VBIBifBre336369_1023	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616201	1146706	1148130	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE5	clust_1282
+BRE6|SEQ00749	VBIBifBre268992_0749	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS	177654666	9370	10794	-	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE6	clust_1282
+BRE7|SEQ00913	VBIBifBre340732_0913	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620285	1077218	1078642	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE7	clust_1282
+BRE8|SEQ00943	VBIBifBre176493_0943	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624454	1123595	1125019	+	1425	pntB	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE8	clust_1282
+BRE9|SEQ00996	VBIBifBre30019_0996	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446090	1176797	1178221	+	1425	pntB	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	BRE9	clust_1282
+INF1|SEQ00825	VBIBifLon182273_0825	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885621	1000765	1002189	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	INF1	clust_1282
+LON1|SEQ00548	VBIBifLon107831_0549	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118151	637764	639188	-	1425	pntB	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	LON1	clust_1282
+LON2|SEQ00608	VBIBifLon171405_0609	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580740	672932	674356	-	1425	pntB	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	LON2	clust_1282
+LON3|SEQ00415	VBIBifLon156230_0415	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767780	1248201	1249625	-	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	LON3	clust_1282
+LON4|SEQ00797	VBIBifLon48544_0797	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889867	958111	959535	+	1425		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	LON4	clust_1282
+THE1|SEQ00979	VBIBifThe274299_0979	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735155	1228498	1229907	+	1410		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)	THE1	clust_1282

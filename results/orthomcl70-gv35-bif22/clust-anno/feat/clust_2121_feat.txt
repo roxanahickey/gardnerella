@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00208	VBIBifBif87902_0208	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882929	259740	260114	+	375	menC	L-fuconate dehydratase (EC 4.2.1.68)	BIF1	clust_2121
+BRE1|SEQ01261	VBIBifBre340958_1261	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604532	1480437	1481348	-	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE1	clust_2121
+BRE2|SEQ01351	VBIBifBre337368_1351	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608686	1556717	1557628	-	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE2	clust_2121
+BRE3|SEQ00560	VBIBifBre167886_0560	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192801	687256	688167	+	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE3	clust_2121
+BRE4|SEQ01292	VBIBifBre327712_1292	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612709	1503785	1504696	-	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE4	clust_2121
+BRE6|SEQ01977	VBIBifBre268992_1977	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657268	176344	177255	-	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE6	clust_2121
+BRE7|SEQ01302	VBIBifBre340732_1302	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621089	1505126	1506037	-	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE7	clust_2121
+BRE8|SEQ01330	VBIBifBre176493_1330	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625255	1552240	1553151	-	912		L-fuconate dehydratase (EC 4.2.1.68)	BRE8	clust_2121
+BRE9|SEQ01386	VBIBifBre30019_1386	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446897	1608709	1609413	-	705		L-fuconate dehydratase (EC 4.2.1.68)	BRE9	clust_2121

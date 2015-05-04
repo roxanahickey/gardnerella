@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE5|SEQ01244	VBIBifBre336369_1245	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616666	1384977	1385591	-	615		hypothetical protein	BRE5	clust_3128
+LON2|SEQ00223	VBIBifLon171405_0224	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579949	252264	252950	+	687		hypothetical protein	LON2	clust_3128
+LON3|SEQ01912	VBIBifLon156230_1915	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767016	825257	825943	+	687		hypothetical protein	LON3	clust_3128
+LON4|SEQ01315	VBIBifLon48544_1315	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890974	1487640	1488326	-	687		hypothetical protein	LON4	clust_3128

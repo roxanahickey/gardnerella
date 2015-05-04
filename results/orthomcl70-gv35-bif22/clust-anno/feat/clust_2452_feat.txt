@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01101	VBIBifAdo136061_1101	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188525	8607	9632	+	1026		cation transporter	ADO1	clust_2452
+ANI1|SEQ00852	VBIBifAni240121_0852	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846676	989380	990450	-	1071		cation transporter	ANI1	clust_2452
+ANI2|SEQ00851	VBIBifAni235968_0851	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850027	989383	990453	-	1071		cation transporter	ANI2	clust_2452
+ANI3|SEQ00854	VBIBifAni108068_0854	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764041	989385	990455	-	1071		cation transporter	ANI3	clust_2452
+DEN1|SEQ01567	VBIBifDen165269_1568	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460282	847838	848863	-	1026		cation transporter	DEN1	clust_2452
+DEN2|SEQ00067	VBIBifDen39005_0067	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108428	6432	7457	+	1026		cation transporter	DEN2	clust_2452
+THE1|SEQ01633	VBIBifThe274299_1633	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736531	2023728	2024855	-	1128		cation transporter	THE1	clust_2452

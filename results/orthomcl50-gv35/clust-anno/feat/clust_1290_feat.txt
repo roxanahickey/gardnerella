@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00615	VBIGarVag247424_0615	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500651	187144	187716	+	573		RNA polymerase sigma-54 factor RpoN	GV03	clust_1290
+GV05|SEQ00634	VBIGarVag174900_0634	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547026	248169	248741	+	573		RNA polymerase sigma-54 factor RpoN	GV05	clust_1290
+GV07|SEQ00771	VBIGarVag249177_0771	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493199	26182	26754	-	573		RNA polymerase sigma-54 factor RpoN	GV07	clust_1290
+GV10|SEQ00424	VBIGarVag136958_0424	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146900	514166	514813	+	648		RNA polymerase sigma-54 factor RpoN	GV10	clust_1290
+GV12|SEQ00992	VBIGarVag144721_0992	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854719	578119	578823	+	705		RNA polymerase sigma-54 factor RpoN	GV12	clust_1290
+GV14|SEQ00430	VBIGarVag244375_0430	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502716	68999	69571	+	573		RNA polymerase sigma-54 factor RpoN	GV14	clust_1290
+GV15|SEQ00228	VBIGarVag249709_0228	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483962	62019	62723	+	705		RNA polymerase sigma-54 factor RpoN	GV15	clust_1290
+GV17|SEQ00165	VBIGarVag146634_0165	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850327	105589	106266	-	678		RNA polymerase sigma-54 factor RpoN	GV17	clust_1290
+GV33|SEQ01148	VBIGarVag265557_1148	Gardnerella vaginalis JCP8481A	ATJG01000157	PATRIC	CDS	184003198	9174	9863	-	690		RNA polymerase sigma-54 factor RpoN	GV33	clust_1290
+GV34|SEQ01183	VBIGarVag270440_1183	Gardnerella vaginalis JCP8481B	ATJF01000139	PATRIC	CDS	184006085	9824	10513	+	690		RNA polymerase sigma-54 factor RpoN	GV34	clust_1290

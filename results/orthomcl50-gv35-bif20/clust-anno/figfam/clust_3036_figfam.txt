@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+LON1|SEQ00088	21117203	VBIBifLon107831_0088	SEQ00088	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3036
+LON2|SEQ00133	42579761	VBIBifLon171405_0134	SEQ00133	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3036
+LON3|SEQ00063	42765751	VBIBifLon156230_0063	SEQ00063	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3036
+THE1|SEQ00699	124734578	VBIBifThe274299_0699	SEQ00699	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Quinone oxidoreductase (EC 1.6.5.5)	FIG00002982	figfam	clust_3036

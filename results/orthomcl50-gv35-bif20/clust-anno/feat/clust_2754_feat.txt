@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01668	VBIBifLon182273_1668	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887355	1904763	1905080	+	318		Permeases of the major facilitator superfamily	INF1	clust_2754
+LON1|SEQ01754	VBIBifLon107831_1755	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120670	2122349	2122666	-	318		Permeases of the major facilitator superfamily	LON1	clust_2754
+LON2|SEQ01790	VBIBifLon171405_1793	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583207	2148441	2148758	-	318		Permeases of the major facilitator superfamily	LON2	clust_2754
+LON3|SEQ01157	VBIBifLon156230_1159	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766190	334097	334414	+	318		Permeases of the major facilitator superfamily	LON3	clust_2754
+LON4|SEQ01617	VBIBifLon48544_1617	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891596	1863081	1863398	+	318		Permeases of the major facilitator superfamily	LON4	clust_2754

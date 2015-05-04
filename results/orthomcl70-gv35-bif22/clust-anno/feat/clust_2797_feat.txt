@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00804	VBIBifLon182273_0804	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885577	977076	978632	+	1557		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	INF1	clust_2797
+LON1|SEQ00569	VBIBifLon107831_0570	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118195	661321	662691	-	1371		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON1	clust_2797
+LON2|SEQ00629	VBIBifLon171405_0630	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580784	696489	698045	-	1557	pepV	Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON2	clust_2797
+LON3|SEQ00436	VBIBifLon156230_0436	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767824	1271780	1273336	-	1557		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON3	clust_2797
+LON4|SEQ00776	VBIBifLon48544_0776	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889823	934421	935977	+	1557		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases	LON4	clust_2797

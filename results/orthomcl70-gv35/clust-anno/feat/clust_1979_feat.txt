@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV16|SEQ01021	VBIGarVag246379_1021	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479221	1174401	1174634	-	234		DNA repair protein RecN	GV16	clust_1979
+GV19|SEQ00591	VBIGarVag39333_0592	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628066	738451	738684	+	234		DNA repair protein RecN	GV19	clust_1979

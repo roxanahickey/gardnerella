@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00291	VBIBifBre340958_0291	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602524	367699	369180	-	1482		Arylsulfatase (EC 3.1.6.1)	BRE1	clust_2323
+BRE2|SEQ00353	VBIBifBre337368_0353	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606622	422559	424040	-	1482		Arylsulfatase (EC 3.1.6.1)	BRE2	clust_2323
+BRE3|SEQ00342	VBIBifBre167886_0342	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192349	426857	428338	-	1482		Arylsulfatase (EC 3.1.6.1)	BRE3	clust_2323
+BRE6|SEQ00520	VBIBifBre268992_0520	Bifidobacterium breve JCP7499	AWSX01000028	PATRIC	CDS	177654178	5459	6940	+	1482		Arylsulfatase (EC 3.1.6.1)	BRE6	clust_2323
+BRE7|SEQ00319	VBIBifBre340732_0319	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619054	399796	401277	-	1482		Arylsulfatase (EC 3.1.6.1)	BRE7	clust_2323
+BRE8|SEQ00345	VBIBifBre176493_0345	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623219	431295	432776	-	1482	atsA1	Arylsulfatase (EC 3.1.6.1)	BRE8	clust_2323
+BRE9|SEQ00393	VBIBifBre30019_0393	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444840	473316	474797	-	1482	atsA1	Arylsulfatase (EC 3.1.6.1)	BRE9	clust_2323

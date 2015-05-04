@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00297	VBIBifAdo136061_0297	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186844	90392	91603	+	1212		DNA recombination and repair protein RecF	ADO1	clust_0295
+ANI1|SEQ00003	VBIBifAni240121_0003	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844898	3659	5086	+	1428	recF	DNA recombination and repair protein RecF	ANI1	clust_0295
+ANI2|SEQ00003	VBIBifAni235968_0003	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848253	3659	5086	+	1428	recF	DNA recombination and repair protein RecF	ANI2	clust_0295
+ANI3|SEQ00003	VBIBifAni108068_0003	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762266	3659	5086	+	1428		DNA recombination and repair protein RecF	ANI3	clust_0295
+BIF1|SEQ00004	VBIBifBif87902_0004	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882501	3403	4716	+	1314	recF	DNA recombination and repair protein RecF	BIF1	clust_0295
+BRE1|SEQ00003	VBIBifBre340958_0003	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268601920	3244	4350	+	1107		DNA recombination and repair protein RecF	BRE1	clust_0295
+BRE2|SEQ00003	VBIBifBre337368_0003	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605890	3193	4350	+	1158		DNA recombination and repair protein RecF	BRE2	clust_0295
+BRE3|SEQ00003	VBIBifBre167886_0003	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191639	3318	4424	+	1107	recF	DNA recombination and repair protein RecF	BRE3	clust_0295
+BRE4|SEQ00003	VBIBifBre327712_0003	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610033	3244	4350	+	1107		DNA recombination and repair protein RecF	BRE4	clust_0295
+BRE5|SEQ00003	VBIBifBre336369_0003	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614082	3243	4349	+	1107		DNA recombination and repair protein RecF	BRE5	clust_0295
+BRE6|SEQ01528	VBIBifBre268992_1528	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656317	30669	31826	+	1158		DNA recombination and repair protein RecF	BRE6	clust_0295
+BRE7|SEQ00003	VBIBifBre340732_0003	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618392	3192	4349	+	1158		DNA recombination and repair protein RecF	BRE7	clust_0295
+BRE8|SEQ00003	VBIBifBre176493_0003	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622505	3192	4349	+	1158	recF	DNA recombination and repair protein RecF	BRE8	clust_0295
+BRE9|SEQ00003	VBIBifBre30019_0003	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444021	3243	4349	+	1107	recF	DNA recombination and repair protein RecF	BRE9	clust_0295
+DEN1|SEQ00686	VBIBifDen165269_0687	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462676	2154069	2155259	-	1191	recF	DNA recombination and repair protein RecF	DEN1	clust_0295
+DEN2|SEQ01196	VBIBifDen39005_1197	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000022	PATRIC	CDS	42110762	31963	33153	+	1191	recF	DNA recombination and repair protein RecF	DEN2	clust_0295
+GV01|SEQ00653	VBIGarVag247323_0653	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495459	72985	74280	+	1296		DNA recombination and repair protein RecF	GV01	clust_0295
+GV02|SEQ00138	VBIGarVag242669_0138	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497038	107690	109036	+	1347		DNA recombination and repair protein RecF	GV02	clust_0295
+GV03|SEQ00146	VBIGarVag247424_0146	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499668	80465	81673	-	1209		DNA recombination and repair protein RecF	GV03	clust_0295
+GV04|SEQ00247	VBIGarVag246433_0247	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480350	125564	126832	+	1269		DNA recombination and repair protein RecF	GV04	clust_0295
+GV05|SEQ00248	VBIGarVag174900_0248	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546214	80548	81756	-	1209		DNA recombination and repair protein RecF	GV05	clust_0295
+GV06|SEQ00129	VBIGarVag244004_0129	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488969	33585	34853	-	1269		DNA recombination and repair protein RecF	GV06	clust_0295
+GV07|SEQ00101	VBIGarVag249177_0101	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491783	112655	113863	+	1209		DNA recombination and repair protein RecF	GV07	clust_0295
+GV08|SEQ00994	VBIGarVag251521_0994	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476431	84540	85808	-	1269		DNA recombination and repair protein RecF	GV08	clust_0295
+GV09|SEQ00106	VBIGarVag169280_0106	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259359	74875	76143	+	1269		DNA recombination and repair protein RecF	GV09	clust_0295
+GV10|SEQ00039	VBIGarVag136958_0039	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146088	50911	52212	-	1302	recF	DNA recombination and repair protein RecF	GV10	clust_0295
+GV11|SEQ00522	VBIGarVag171052_0522	Gardnerella vaginalis 41V	AEJE01000032	PATRIC	CDS	52549370	6447	7715	-	1269		DNA recombination and repair protein RecF	GV11	clust_0295
+GV12|SEQ00570	VBIGarVag144721_0570	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853833	79330	80631	-	1302		DNA recombination and repair protein RecF	GV12	clust_0295
+GV13|SEQ00088	VBIGarVag244533_0088	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486112	88506	89774	-	1269		DNA recombination and repair protein RecF	GV13	clust_0295
+GV14|SEQ00610	VBIGarVag244375_0610	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503084	119112	120320	+	1209		DNA recombination and repair protein RecF	GV14	clust_0295
+GV15|SEQ01049	VBIGarVag249709_1049	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485689	10869	12170	+	1302		DNA recombination and repair protein RecF	GV15	clust_0295
+GV16|SEQ00162	VBIGarVag246379_0162	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477438	93104	94372	-	1269		DNA recombination and repair protein RecF	GV16	clust_0295
+GV17|SEQ00598	VBIGarVag146634_0598	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851248	10799	12100	+	1302		DNA recombination and repair protein RecF	GV17	clust_0295
+GV18|SEQ00914	VBIGarVag4823_0914	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000133	PATRIC	CDS	42070631	13906	15174	+	1269		DNA recombination and repair protein RecF	GV18	clust_0295
+GV19|SEQ00124	VBIGarVag39333_0124	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627086	142322	143590	+	1269	recF	DNA recombination and repair protein RecF	GV19	clust_0295
+GV20|SEQ00003	VBIGarVag188338_0003	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188776	3282	4259	+	978		DNA recombination and repair protein RecF	GV20	clust_0295
+GV21|SEQ00228	VBIGarVag274454_0228	Gardnerella vaginalis JCP7275	ATJS01000010	PATRIC	CDS	183967103	24755	26023	-	1269		DNA recombination and repair protein RecF	GV21	clust_0295
+GV22|SEQ00157	VBIGarVag276801_0157	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969704	21519	22787	+	1269		DNA recombination and repair protein RecF	GV22	clust_0295
+GV23|SEQ00070	VBIGarVag276017_0070	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972435	33505	34863	+	1359		DNA recombination and repair protein RecF	GV23	clust_0295
+GV24|SEQ00055	VBIGarVag268944_0056	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975204	46291	47571	+	1281		DNA recombination and repair protein RecF	GV24	clust_0295
+GV25|SEQ00021	VBIGarVag270495_0021	Gardnerella vaginalis JCP7719	ATJO01000001	PATRIC	CDS	183977899	23951	25246	-	1296		DNA recombination and repair protein RecF	GV25	clust_0295
+GV26|SEQ00203	VBIGarVag272749_0203	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981158	23939	25297	-	1359		DNA recombination and repair protein RecF	GV26	clust_0295
+GV27|SEQ00294	VBIGarVag276930_0294	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984323	52255	53613	-	1359		DNA recombination and repair protein RecF	GV27	clust_0295
+GV28|SEQ00198	VBIGarVag271349_0198	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987057	25211	26581	-	1371		DNA recombination and repair protein RecF	GV28	clust_0295
+GV29|SEQ00262	VBIGarVag265473_0262	Gardnerella vaginalis JCP8070	ATJK01000011	PATRIC	CDS	183989902	3806	5164	+	1359		DNA recombination and repair protein RecF	GV29	clust_0295
+GV30|SEQ00190	VBIGarVag267667_0190	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992430	19507	20775	+	1269		DNA recombination and repair protein RecF	GV30	clust_0295
+GV31|SEQ00387	VBIGarVag264983_0387	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995827	62370	63740	+	1371		DNA recombination and repair protein RecF	GV31	clust_0295
+GV32|SEQ00067	VBIGarVag277040_0067	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997966	47606	48964	+	1359		DNA recombination and repair protein RecF	GV32	clust_0295
+GV33|SEQ00096	VBIGarVag265557_0096	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000865	7929	9227	+	1299		DNA recombination and repair protein RecF	GV33	clust_0295
+GV34|SEQ01020	VBIGarVag270440_1020	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005722	33359	34657	+	1299		DNA recombination and repair protein RecF	GV34	clust_0295
+GV35|SEQ00272	VBIGarVag272169_0272	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006836	38182	39552	+	1371		DNA recombination and repair protein RecF	GV35	clust_0295
+INF1|SEQ00003	VBIBifLon182273_0003	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883903	3391	4629	+	1239		DNA recombination and repair protein RecF	INF1	clust_0295
+LON1|SEQ01368	VBIBifLon107831_1369	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119849	1621137	1622375	-	1239	recF	DNA recombination and repair protein RecF	LON1	clust_0295
+LON2|SEQ01410	VBIBifLon171405_1413	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582404	1637135	1638373	-	1239	recF	DNA recombination and repair protein RecF	LON2	clust_0295
+LON3|SEQ01490	VBIBifLon156230_1493	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769599	2281999	2283237	-	1239		DNA recombination and repair protein RecF	LON3	clust_0295
+LON4|SEQ00003	VBIBifLon48544_0003	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888204	3391	4629	+	1239		DNA recombination and repair protein RecF	LON4	clust_0295
+THE1|SEQ00003	VBIBifThe274299_0003	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733161	4149	5642	+	1494		DNA recombination and repair protein RecF	THE1	clust_0295

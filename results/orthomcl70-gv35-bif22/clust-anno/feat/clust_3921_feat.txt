@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00790	VBIBifAdo136061_0790	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187880	670818	671747	+	930		probable solute binding protein of ABC transporter system	ADO1	clust_3921
+DEN1|SEQ00099	VBIBifDen165269_0099	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461451	1441607	1442578	-	972		probable solute binding protein of ABC transporter system	DEN1	clust_3921
+DEN2|SEQ01887	VBIBifDen39005_1888	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112190	111108	112079	-	972		probable solute binding protein of ABC transporter system	DEN2	clust_3921

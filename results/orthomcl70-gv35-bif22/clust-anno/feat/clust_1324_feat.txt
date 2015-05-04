@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01969	VBIBifAdo136061_1969	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190321	524410	525810	+	1401		ABC-type antimicrobial peptide transport system, permease component	ADO1	clust_1324
+ANI1|SEQ01507	VBIBifAni240121_1507	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848035	1801609	1802949	+	1341		ABC-type antimicrobial peptide transport system, permease component	ANI1	clust_1324
+ANI2|SEQ01505	VBIBifAni235968_1505	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851384	1801829	1803169	+	1341		ABC-type antimicrobial peptide transport system, permease component	ANI2	clust_1324
+ANI3|SEQ01516	VBIBifAni108068_1516	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765406	1806835	1808400	+	1566		ABC-type antimicrobial peptide transport system, permease component	ANI3	clust_1324
+BIF1|SEQ01757	VBIBifBif87902_1757	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886138	2114083	2115516	+	1434		ABC-type antimicrobial peptide transport system, permease component	BIF1	clust_1324
+BRE1|SEQ01785	VBIBifBre340958_1786	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605629	2086696	2088156	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE1	clust_1324
+BRE2|SEQ01888	VBIBifBre337368_1888	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609810	2189444	2190904	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE2	clust_1324
+BRE3|SEQ01850	VBIBifBre167886_1850	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195483	2156827	2158287	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE3	clust_1324
+BRE4|SEQ01829	VBIBifBre327712_1829	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613834	2123065	2124525	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE4	clust_1324
+BRE5|SEQ01951	VBIBifBre336369_1952	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618130	2198188	2199648	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE5	clust_1324
+BRE6|SEQ01297	VBIBifBre268992_1297	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655825	10524	11984	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE6	clust_1324
+BRE7|SEQ01875	VBIBifBre340732_1875	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622282	2163441	2164901	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE7	clust_1324
+BRE8|SEQ01837	VBIBifBre176493_1837	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626319	2141236	2142696	+	1461		ABC-type antimicrobial peptide transport system, permease component	BRE8	clust_1324
+BRE9|SEQ01936	VBIBifBre30019_1936	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448044	2240007	2241434	+	1428		ABC-type antimicrobial peptide transport system, permease component	BRE9	clust_1324
+DEN1|SEQ00888	VBIBifDen165269_0889	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463084	2429937	2431334	-	1398		ABC-type antimicrobial peptide transport system, permease component	DEN1	clust_1324
+DEN2|SEQ00289	VBIBifDen39005_0289	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108901	397	1794	+	1398		ABC-type antimicrobial peptide transport system, permease component	DEN2	clust_1324
+INF1|SEQ01925	VBIBifLon182273_1925	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887908	2211294	2212700	+	1407		ABC-type antimicrobial peptide transport system, permease component	INF1	clust_1324
+LON1|SEQ01498	VBIBifLon107831_1499	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120126	1814077	1815483	-	1407		ABC-type antimicrobial peptide transport system, permease component	LON1	clust_1324
+LON2|SEQ01529	VBIBifLon171405_1532	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582653	1830454	1831860	-	1407		ABC-type antimicrobial peptide transport system, permease component	LON2	clust_1324
+LON3|SEQ01809	VBIBifLon156230_1812	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766807	687133	688539	+	1407		ABC-type antimicrobial peptide transport system, permease component	LON3	clust_1324
+LON4|SEQ01877	VBIBifLon48544_1877	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892157	2177936	2179342	+	1407		ABC-type antimicrobial peptide transport system, permease component	LON4	clust_1324
+THE1|SEQ01643	VBIBifThe274299_1643	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736553	2037429	2038883	+	1455		hypothetical protein	THE1	clust_1324

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01467	VBIBifLon182273_1467	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886947	1664561	1664686	-	126		narrowly conserved hypothetical protein	INF1	clust_3384
+LON2|SEQ00109	VBIBifLon171405_0110	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579712	123633	123758	+	126	fadB2	narrowly conserved hypothetical protein	LON2	clust_3384
+LON4|SEQ01439	VBIBifLon48544_1439	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891234	1637855	1637980	-	126		narrowly conserved hypothetical protein	LON4	clust_3384

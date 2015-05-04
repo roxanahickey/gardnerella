@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00473	VBIGarVag247424_0473	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500353	8337	9284	+	948		"Alpha/beta hydrolase fold "	GV03	clust_1529
+GV05|SEQ00499	VBIGarVag174900_0499	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546742	69877	70824	+	948		alpha/beta hydrolase fold	GV05	clust_1529
+GV07|SEQ00912	VBIGarVag249177_0912	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493495	208119	209066	-	948		"Alpha/beta hydrolase fold "	GV07	clust_1529
+GV14|SEQ00056	VBIGarVag244375_0056	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501928	46760	47719	-	960		"Alpha/beta hydrolase fold "	GV14	clust_1529
+GV33|SEQ00483	VBIGarVag265557_0483	Gardnerella vaginalis JCP8481A	ATJG01000045	PATRIC	CDS	184001702	1886	2815	+	930		alpha/beta hydrolase fold	GV33	clust_1529
+GV34|SEQ00630	VBIGarVag270440_0630	Gardnerella vaginalis JCP8481B	ATJF01000063	PATRIC	CDS	184004865	1830	2759	+	930		alpha/beta hydrolase fold	GV34	clust_1529

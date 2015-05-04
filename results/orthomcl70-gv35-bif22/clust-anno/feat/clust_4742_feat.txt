@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00446	VBIBifDen165269_0447	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462184	1836138	1836662	-	525	ptsI2	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	DEN1	clust_4742
+DEN2|SEQ01104	VBIBifDen39005_1104	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000019	PATRIC	CDS	42110573	28885	29409	-	525		Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)	DEN2	clust_4742

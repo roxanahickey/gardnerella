@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00445	VBIBifAni240121_0445	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845822	525399	526892	+	1494		peptidase S10, serine carboxypeptidase	ANI1	clust_3063
+ANI2|SEQ00445	VBIBifAni235968_0445	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849177	525401	526894	+	1494		peptidase S10, serine carboxypeptidase	ANI2	clust_3063
+ANI3|SEQ00447	VBIBifAni108068_0447	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763190	525402	526895	+	1494		peptidase S10, serine carboxypeptidase	ANI3	clust_3063
+BIF1|SEQ01004	VBIBifBif87902_1004	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884572	1221860	1223434	-	1575		Carboxypeptidase-related protein	BIF1	clust_3063

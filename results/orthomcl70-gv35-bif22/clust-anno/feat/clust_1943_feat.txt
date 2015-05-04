@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00290	VBIBifBif87902_0290	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883107	353949	354692	+	744	tipA	Transcriptional regulator, MerR family	BIF1	clust_1943
+BRE1|SEQ01673	VBIBifBre340958_1674	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605395	1951446	1952189	-	744		Transcriptional regulator, MerR family	BRE1	clust_1943
+BRE2|SEQ01778	VBIBifBre337368_1778	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609581	2051985	2052728	-	744		Transcriptional regulator, MerR family	BRE2	clust_1943
+BRE3|SEQ01742	VBIBifBre167886_1742	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195258	2024266	2024754	-	489		Transcriptional regulator, MerR family	BRE3	clust_1943
+BRE4|SEQ01712	VBIBifBre327712_1712	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613590	1984224	1984967	-	744		Transcriptional regulator, MerR family	BRE4	clust_1943
+BRE5|SEQ01835	VBIBifBre336369_1836	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617889	2055213	2055956	-	744		Transcriptional regulator, MerR family	BRE5	clust_1943
+BRE6|SEQ01357	VBIBifBre268992_1357	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177655954	4137	4811	+	675		Transcriptional regulator, MerR family	BRE6	clust_1943
+BRE7|SEQ01771	VBIBifBre340732_1771	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622065	2035320	2035808	-	489		Transcriptional regulator, MerR family	BRE7	clust_1943
+BRE8|SEQ01727	VBIBifBre176493_1727	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626089	2008781	2009269	-	489		Transcriptional regulator, MerR family	BRE8	clust_1943
+BRE9|SEQ01835	VBIBifBre30019_1835	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447833	2112757	2113245	-	489		Transcriptional regulator, MerR family	BRE9	clust_1943
+LON3|SEQ00945	VBIBifLon156230_0946	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768871	1882610	1883353	-	744		Transcriptional regulator, MerR family	LON3	clust_1943

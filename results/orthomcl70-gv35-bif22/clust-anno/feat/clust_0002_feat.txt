@@ -1,0 +1,114 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00917	VBIBifAdo136061_0917	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188144	817633	820227	+	2595		ATP-dependent Clp protease ATP-binding subunit ClpA	ADO1	clust_0002
+ADO1|SEQ01493	VBIBifAdo136061_1493	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189344	150095	152824	-	2730		ClpB protein	ADO1	clust_0002
+ANI1|SEQ00670	VBIBifAni240121_0670	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846289	781402	783954	+	2553	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	ANI1	clust_0002
+ANI1|SEQ01458	VBIBifAni240121_1458	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847927	1741094	1743781	-	2688	clpB	ClpB protein	ANI1	clust_0002
+ANI2|SEQ00670	VBIBifAni235968_0670	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849642	781405	783957	+	2553		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	ANI2	clust_0002
+ANI2|SEQ01457	VBIBifAni235968_1457	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851278	1741314	1744001	-	2688	clpB	ClpB protein	ANI2	clust_0002
+ANI3|SEQ00672	VBIBifAni108068_0672	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763654	781407	783959	+	2553	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	ANI3	clust_0002
+ANI3|SEQ01467	VBIBifAni108068_1467	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765298	1746545	1749232	-	2688	clpB	ClpB protein	ANI3	clust_0002
+BIF1|SEQ00266	VBIBifBif87902_0266	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883049	332307	334970	+	2664	clpB	ClpB protein	BIF1	clust_0002
+BIF1|SEQ00639	VBIBifBif87902_0639	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883815	783246	785822	+	2577	clpA	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BIF1	clust_0002
+BRE1|SEQ01323	VBIBifBre340958_1324	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604663	1559233	1561842	-	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE1	clust_0002
+BRE1|SEQ01750	VBIBifBre340958_1751	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605557	2042568	2045252	-	2685		ClpB protein	BRE1	clust_0002
+BRE2|SEQ01411	VBIBifBre337368_1411	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608814	1633806	1636397	-	2592		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE2	clust_0002
+BRE2|SEQ01858	VBIBifBre337368_1858	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609749	2147630	2150314	-	2685		ClpB protein	BRE2	clust_0002
+BRE3|SEQ00501	VBIBifBre167886_0501	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192677	608498	611089	+	2592	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE3	clust_0002
+BRE3|SEQ01819	VBIBifBre167886_1819	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195420	2115015	2117699	-	2685	clpB	ClpB protein	BRE3	clust_0002
+BRE4|SEQ01356	VBIBifBre327712_1356	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612844	1583849	1586440	-	2592		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE4	clust_0002
+BRE4|SEQ01791	VBIBifBre327712_1791	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613756	2075396	2078080	-	2685		ClpB protein	BRE4	clust_0002
+BRE5|SEQ01487	VBIBifBre336369_1488	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617163	1670333	1672942	-	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE5	clust_0002
+BRE5|SEQ01916	VBIBifBre336369_1917	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618060	2148743	2151427	-	2685		ClpB protein	BRE5	clust_0002
+BRE6|SEQ00248	VBIBifBre268992_0248	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653607	23598	26189	-	2592		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE6	clust_0002
+BRE6|SEQ01195	VBIBifBre268992_1195	Bifidobacterium breve JCP7499	AWSX01000058	PATRIC	CDS	177655609	20204	22888	+	2685		ClpB protein	BRE6	clust_0002
+BRE7|SEQ01370	VBIBifBre340732_1370	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621233	1586850	1589459	-	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE7	clust_0002
+BRE7|SEQ01853	VBIBifBre340732_1853	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622237	2130679	2133363	-	2685		ClpB protein	BRE7	clust_0002
+BRE8|SEQ01389	VBIBifBre176493_1389	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625380	1629227	1631818	-	2592	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE8	clust_0002
+BRE8|SEQ01807	VBIBifBre176493_1807	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626258	2099556	2102240	-	2685	clpB	ClpB protein	BRE8	clust_0002
+BRE9|SEQ01453	VBIBifBre30019_1453	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447038	1689996	1692605	-	2610	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	BRE9	clust_0002
+BRE9|SEQ01914	VBIBifBre30019_1914	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447999	2206099	2208783	-	2685	clpB	ClpB protein	BRE9	clust_0002
+DEN1|SEQ02020	VBIBifDen165269_2021	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461211	1308430	1311021	-	2592	clpC	ATP-dependent Clp protease ATP-binding subunit ClpA	DEN1	clust_0002
+DEN1|SEQ02140	VBIBifDen165269_2142	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463269	14240	16993	+	2754	clpB	ClpB protein	DEN1	clust_0002
+DEN1|SEQ02141	VBIBifDen165269_2143	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463271	14357	16993	+	2637	clpB	ClpB protein	DEN1	clust_0002
+DEN2|SEQ00998	VBIBifDen39005_0998	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110349	98955	101708	-	2754	clpB	ClpB protein	DEN2	clust_0002
+DEN2|SEQ01135	VBIBifDen39005_1135	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000021	PATRIC	CDS	42110637	24215	26806	-	2592	clpC	ATP-dependent Clp protease ATP-binding subunit ClpA	DEN2	clust_0002
+GV01|SEQ00426	VBIGarVag247323_0426	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494991	151684	154281	+	2598		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV01	clust_0002
+GV01|SEQ00806	VBIGarVag247323_0806	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495779	19575	22169	-	2595		ClpB protein	GV01	clust_0002
+GV02|SEQ00054	VBIGarVag242669_0054	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496866	13994	16588	+	2595		ClpB protein	GV02	clust_0002
+GV02|SEQ00940	VBIGarVag242669_0940	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498729	187029	189626	-	2598		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV02	clust_0002
+GV03|SEQ00189	VBIGarVag247424_0189	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499759	136390	138984	+	2595		ClpB protein	GV03	clust_0002
+GV03|SEQ00849	VBIGarVag247424_0849	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501131	168258	170864	+	2607		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV03	clust_0002
+GV04|SEQ00193	VBIGarVag246433_0193	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480238	57554	60148	-	2595		ClpB protein	GV04	clust_0002
+GV04|SEQ01110	VBIGarVag246433_1110	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482144	15372	17861	-	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV04	clust_0002
+GV05|SEQ00289	VBIGarVag174900_0289	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546301	134736	137330	+	2595		ClpB protein	GV05	clust_0002
+GV05|SEQ00892	VBIGarVag174900_0892	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547552	578420	581029	+	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV05	clust_0002
+GV06|SEQ00177	VBIGarVag244004_0177	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489069	98294	100888	+	2595		ClpB protein	GV06	clust_0002
+GV06|SEQ00944	VBIGarVag244004_0944	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490696	334190	336679	+	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV06	clust_0002
+GV07|SEQ00057	VBIGarVag249177_0057	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491691	59578	62172	-	2595		ClpB protein	GV07	clust_0002
+GV07|SEQ00511	VBIGarVag249177_0511	Gardnerella vaginalis 1500E	ADES01000009	PATRIC	CDS	85492662	21553	24192	+	2640		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV07	clust_0002
+GV08|SEQ00499	VBIGarVag251521_0499	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475406	375813	378302	+	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV08	clust_0002
+GV08|SEQ01050	VBIGarVag251521_1050	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476547	155581	158175	+	2595		ClpB protein	GV08	clust_0002
+GV09|SEQ00055	VBIGarVag169280_0055	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259252	5688	8282	-	2595	clpB	ClpB protein	GV09	clust_0002
+GV09|SEQ01092	VBIGarVag169280_1092	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261407	15437	17926	-	2490	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV09	clust_0002
+GV10|SEQ00084	VBIGarVag136958_0084	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146182	109250	111844	+	2595	clpB	ClpB protein	GV10	clust_0002
+GV10|SEQ00640	VBIGarVag136958_0640	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147340	820852	823440	+	2589	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV10	clust_0002
+GV11|SEQ00566	VBIGarVag171052_0566	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549464	49509	51998	+	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV11	clust_0002
+GV11|SEQ00876	VBIGarVag171052_0876	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550115	56812	59406	-	2595		ClpB protein	GV11	clust_0002
+GV12|SEQ00618	VBIGarVag144721_0618	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853933	136976	139570	+	2595		ClpB protein	GV12	clust_0002
+GV12|SEQ01283	VBIGarVag144721_1283	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855398	172131	174722	+	2592		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV12	clust_0002
+GV13|SEQ00138	VBIGarVag244533_0138	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486216	153982	156576	+	2595		ClpB protein	GV13	clust_0002
+GV13|SEQ00655	VBIGarVag244533_0655	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487291	85100	87589	-	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV13	clust_0002
+GV14|SEQ00366	VBIGarVag244375_0366	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502576	208756	211404	+	2649		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV14	clust_0002
+GV14|SEQ00562	VBIGarVag244375_0562	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502984	57988	60582	-	2595		ClpB protein	GV14	clust_0002
+GV15|SEQ00702	VBIGarVag249709_0702	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484951	167748	170351	+	2604		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV15	clust_0002
+GV15|SEQ00790	VBIGarVag249709_0790	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485138	2201	4795	-	2595		ClpB protein	GV15	clust_0002
+GV16|SEQ00214	VBIGarVag246379_0214	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477546	161712	164306	+	2595		ClpB protein	GV16	clust_0002
+GV16|SEQ00959	VBIGarVag246379_0959	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479093	1092163	1094652	-	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV16	clust_0002
+GV17|SEQ00522	VBIGarVag146634_0522	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851079	523972	526566	-	2595		ClpB protein	GV17	clust_0002
+GV17|SEQ00908	VBIGarVag146634_0908	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851902	23788	26409	-	2622		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV17	clust_0002
+GV18|SEQ00117	VBIGarVag4823_0117	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000051	PATRIC	CDS	42068909	4135	5397	-	1263		ClpB protein	GV18	clust_0002
+GV18|SEQ00439	VBIGarVag4823_0439	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000097	PATRIC	CDS	42069610	13584	16034	-	2451		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV18	clust_0002
+GV19|SEQ00074	VBIGarVag39333_0074	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626982	76671	79265	-	2595	clpB	ClpB protein	GV19	clust_0002
+GV19|SEQ00658	VBIGarVag39333_0659	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628202	818696	821185	+	2490	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV19	clust_0002
+GV20|SEQ00869	VBIGarVag188338_0869	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190580	1064656	1067145	-	2490	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV20	clust_0002
+GV20|SEQ01325	VBIGarVag188338_1325	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191526	1658303	1660897	-	2595	clpB	ClpB protein	GV20	clust_0002
+GV21|SEQ00479	VBIGarVag274454_0480	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967627	30455	32944	-	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV21	clust_0002
+GV22|SEQ00042	VBIGarVag276801_0042	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969461	49251	51740	+	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV22	clust_0002
+GV23|SEQ00626	VBIGarVag276017_0626	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973613	62616	65174	+	2559		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV23	clust_0002
+GV23|SEQ00896	VBIGarVag276017_0896	Gardnerella vaginalis JCP7659	ATJQ01000078	PATRIC	CDS	183974213	49	2073	+	2025		ClpB protein	GV23	clust_0002
+GV24|SEQ00196	VBIGarVag268944_0197	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975498	11	2035	+	2025		ClpB protein	GV24	clust_0002
+GV24|SEQ00319	VBIGarVag268944_0320	Gardnerella vaginalis JCP7672	ATJP01000016	PATRIC	CDS	183975757	15363	17486	-	2124		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV24	clust_0002
+GV25|SEQ00573	VBIGarVag270495_0573	Gardnerella vaginalis JCP7719	ATJO01000050	PATRIC	CDS	183979091	9997	12594	-	2598		ClpB protein	GV25	clust_0002
+GV25|SEQ01094	VBIGarVag270495_1094	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980239	120109	122562	-	2454		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV25	clust_0002
+GV26|SEQ00511	VBIGarVag272749_0511	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981810	49717	52275	+	2559		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV26	clust_0002
+GV26|SEQ01100	VBIGarVag272749_1100	Gardnerella vaginalis JCP8017A	ATJN01000093	PATRIC	CDS	183983101	1794	4388	+	2595		ClpB protein	GV26	clust_0002
+GV27|SEQ00426	VBIGarVag276930_0426	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984599	121291	123888	-	2598		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV27	clust_0002
+GV27|SEQ01029	VBIGarVag276930_1029	Gardnerella vaginalis JCP8017B	ATJM01000078	PATRIC	CDS	183985898	9972	12026	-	2055		ClpB protein	GV27	clust_0002
+GV28|SEQ00424	VBIGarVag271349_0424	Gardnerella vaginalis JCP8066	ATJL01000025	PATRIC	CDS	183987541	7570	10164	+	2595		ClpB protein	GV28	clust_0002
+GV28|SEQ00816	VBIGarVag271349_0816	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988393	117317	119770	-	2454		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV28	clust_0002
+GV29|SEQ00136	VBIGarVag265473_0136	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989637	120593	123151	-	2559		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV29	clust_0002
+GV29|SEQ00291	VBIGarVag265473_0291	Gardnerella vaginalis JCP8070	ATJK01000012	PATRIC	CDS	183989961	7983	10577	-	2595		ClpB protein	GV29	clust_0002
+GV30|SEQ00314	VBIGarVag267667_0315	Gardnerella vaginalis JCP8108	ATJJ01000011	PATRIC	CDS	183992688	29	796	+	768		ClpB protein	GV30	clust_0002
+GV30|SEQ00379	VBIGarVag267667_0380	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992824	49293	51782	+	2490		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV30	clust_0002
+GV31|SEQ00309	VBIGarVag264983_0309	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995665	121305	123536	-	2232		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV31	clust_0002
+GV31|SEQ00986	VBIGarVag264983_0986	Gardnerella vaginalis JCP8151A	ATJI01000076	PATRIC	CDS	183997126	7144	9738	+	2595		ClpB protein	GV31	clust_0002
+GV32|SEQ00591	VBIGarVag277040_0591	Gardnerella vaginalis JCP8151B	ATJH01000040	PATRIC	CDS	183999088	29777	31834	-	2058		ClpB protein	GV32	clust_0002
+GV32|SEQ01054	VBIGarVag277040_1054	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000148	28402	30774	+	2373		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV32	clust_0002
+GV33|SEQ00166	VBIGarVag265557_0166	Gardnerella vaginalis JCP8481A	ATJG01000013	PATRIC	CDS	184001017	5699	7723	-	2025		ClpB protein	GV33	clust_0002
+GV33|SEQ00266	VBIGarVag265557_0266	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001234	4322	6901	-	2580		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV33	clust_0002
+GV34|SEQ00296	VBIGarVag270440_0296	Gardnerella vaginalis JCP8481B	ATJF01000021	PATRIC	CDS	184004134	5700	8294	-	2595		ClpB protein	GV34	clust_0002
+GV34|SEQ00810	VBIGarVag270440_0810	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005250	79340	81919	+	2580		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV34	clust_0002
+GV35|SEQ00013	VBIGarVag272169_0013	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006297	52	2283	+	2232		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	GV35	clust_0002
+GV35|SEQ00874	VBIGarVag272169_0874	Gardnerella vaginalis JCP8522	ATJE01000086	PATRIC	CDS	184008166	7962	10556	-	2595		ClpB protein	GV35	clust_0002
+INF1|SEQ01523	VBIBifLon182273_1523	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887060	1734369	1736978	-	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	INF1	clust_0002
+INF1|SEQ01902	VBIBifLon182273_1902	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887861	2178626	2181310	-	2685		ClpB protein	INF1	clust_0002
+LON1|SEQ00010	VBIBifLon107831_0010	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117047	9047	11656	+	2610	clpC	ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	LON1	clust_0002
+LON1|SEQ01534	VBIBifLon107831_1535	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120198	1855630	1858299	+	2670	clpB	ClpB protein	LON1	clust_0002
+LON2|SEQ00052	VBIBifLon171405_0052	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579597	52709	55318	+	2610	clpA1	ATP-dependent Clp protease ATP-binding subunit ClpA	LON2	clust_0002
+LON2|SEQ01558	VBIBifLon171405_1561	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582711	1867636	1870305	+	2670	clpA2	ClpB protein	LON2	clust_0002
+LON3|SEQ01022	VBIBifLon156230_1023	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765915	172966	175575	-	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	LON3	clust_0002
+LON3|SEQ01777	VBIBifLon156230_1780	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766741	647746	650415	-	2670		ClpB protein	LON3	clust_0002
+LON4|SEQ01495	VBIBifLon48544_1495	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891346	1710624	1713233	-	2610		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	LON4	clust_0002
+LON4|SEQ01842	VBIBifLon48544_1842	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892086	2133160	2135829	-	2670		ClpB protein	LON4	clust_0002
+THE1|SEQ01116	VBIBifThe274299_1116	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735449	1391363	1393969	-	2607		ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB	THE1	clust_0002
+THE1|SEQ01586	VBIBifThe274299_1586	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736429	1965370	1968057	-	2688		ClpB protein	THE1	clust_0002

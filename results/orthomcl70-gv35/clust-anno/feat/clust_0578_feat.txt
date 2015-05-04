@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00071	VBIGarVag247323_0071	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494240	102704	103600	+	897		Sugar kinases, ribokinase family	GV01	clust_0578
+GV02|SEQ00608	VBIGarVag242669_0608	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498028	239683	240579	-	897		Sugar kinases, ribokinase family	GV02	clust_0578
+GV03|SEQ00607	VBIGarVag247424_0607	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500635	177732	178628	-	897		Sugar kinases, ribokinase family	GV03	clust_0578
+GV04|SEQ00377	VBIGarVag246433_0377	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480627	118443	119339	+	897		Sugar kinases, ribokinase family	GV04	clust_0578
+GV05|SEQ00626	VBIGarVag174900_0626	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547010	238759	239655	-	897		Sugar kinases, ribokinase family	GV05	clust_0578
+GV06|SEQ00715	VBIGarVag244004_0715	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490218	34302	35198	+	897		Sugar kinases, ribokinase family	GV06	clust_0578
+GV07|SEQ00778	VBIGarVag249177_0778	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493213	34958	35854	+	897		Sugar kinases, ribokinase family	GV07	clust_0578
+GV08|SEQ00627	VBIGarVag251521_0627	Gardnerella vaginalis 284V	ADEL01000007	PATRIC	CDS	85475672	41310	42206	-	897		Sugar kinases, ribokinase family	GV08	clust_0578
+GV09|SEQ01311	VBIGarVag169280_1311	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261873	232589	233485	+	897		Sugar kinases, ribokinase family	GV09	clust_0578
+GV10|SEQ00417	VBIGarVag136958_0417	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146886	504699	505601	-	903		Sugar kinases, ribokinase family	GV10	clust_0578
+GV11|SEQ00638	VBIGarVag171052_0638	Gardnerella vaginalis 41V	AEJE01000041	PATRIC	CDS	52549620	3899	4795	-	897		Sugar kinases, ribokinase family	GV11	clust_0578
+GV12|SEQ00985	VBIGarVag144721_0985	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854705	568715	569617	-	903		Sugar kinases, ribokinase family	GV12	clust_0578
+GV13|SEQ00995	VBIGarVag244533_0995	Gardnerella vaginalis 55152	ADEQ01000015	PATRIC	CDS	85488004	19585	20241	+	657		Sugar kinases, ribokinase family	GV13	clust_0578
+GV14|SEQ00422	VBIGarVag244375_0422	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502700	59589	60566	-	978		Sugar kinases, ribokinase family	GV14	clust_0578
+GV15|SEQ00221	VBIGarVag249709_0221	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483948	52630	53532	-	903		Sugar kinases, ribokinase family	GV15	clust_0578
+GV16|SEQ00443	VBIGarVag246379_0443	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478028	473758	474654	+	897		Sugar kinases, ribokinase family	GV16	clust_0578
+GV17|SEQ00172	VBIGarVag146634_0172	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850341	114795	115697	+	903		Sugar kinases, ribokinase family	GV17	clust_0578
+GV18|SEQ00211	VBIGarVag4823_0211	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000069	PATRIC	CDS	42069116	8347	9297	+	951		Sugar kinases, ribokinase family	GV18	clust_0578
+GV19|SEQ01167	VBIGarVag39333_1169	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629249	1424076	1424972	-	897		Sugar kinases, ribokinase family	GV19	clust_0578
+GV20|SEQ00341	VBIGarVag188338_0341	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189491	440974	441870	+	897		Sugar kinases, ribokinase family	GV20	clust_0578
+GV21|SEQ00985	VBIGarVag274454_0986	Gardnerella vaginalis JCP7275	ATJS01000090	PATRIC	CDS	183968759	1777	2727	-	951		Sugar kinases, ribokinase family	GV21	clust_0578
+GV22|SEQ00179	VBIGarVag276801_0179	Gardnerella vaginalis JCP7276	ATJR01000003	PATRIC	CDS	183969749	602	1498	+	897		Sugar kinases, ribokinase family	GV22	clust_0578
+GV23|SEQ00467	VBIGarVag276017_0467	Gardnerella vaginalis JCP7659	ATJQ01000035	PATRIC	CDS	183973283	20121	21017	-	897		Sugar kinases, ribokinase family	GV23	clust_0578
+GV24|SEQ00465	VBIGarVag268944_0466	Gardnerella vaginalis JCP7672	ATJP01000023	PATRIC	CDS	183976063	8672	9568	+	897		Sugar kinases, ribokinase family	GV24	clust_0578
+GV25|SEQ01267	VBIGarVag270495_1267	Gardnerella vaginalis JCP7719	ATJO01000183	PATRIC	CDS	183980651	1250	2146	+	897		Sugar kinases, ribokinase family	GV25	clust_0578
+GV26|SEQ00137	VBIGarVag272749_0137	Gardnerella vaginalis JCP8017A	ATJN01000004	PATRIC	CDS	183981019	12001	12897	-	897		Sugar kinases, ribokinase family	GV26	clust_0578
+GV27|SEQ00931	VBIGarVag276930_0931	Gardnerella vaginalis JCP8017B	ATJM01000057	PATRIC	CDS	183985679	8954	9850	+	897		Sugar kinases, ribokinase family	GV27	clust_0578
+GV28|SEQ00901	VBIGarVag271349_0901	Gardnerella vaginalis JCP8066	ATJL01000083	PATRIC	CDS	183988587	1242	2138	+	897		Sugar kinases, ribokinase family	GV28	clust_0578
+GV29|SEQ00823	VBIGarVag265473_0823	Gardnerella vaginalis JCP8070	ATJK01000067	PATRIC	CDS	183991129	22743	23639	-	897		Sugar kinases, ribokinase family	GV29	clust_0578
+GV30|SEQ00766	VBIGarVag267667_0768	Gardnerella vaginalis JCP8108	ATJJ01000048	PATRIC	CDS	183993670	18182	19078	-	897		Sugar kinases, ribokinase family	GV30	clust_0578
+GV31|SEQ00682	VBIGarVag264983_0682	Gardnerella vaginalis JCP8151A	ATJI01000034	PATRIC	CDS	183996456	1270	2166	+	897		Sugar kinases, ribokinase family	GV31	clust_0578
+GV32|SEQ01204	VBIGarVag277040_1204	Gardnerella vaginalis JCP8151B	ATJH01000165	PATRIC	CDS	184000484	1311	2207	+	897		Sugar kinases, ribokinase family	GV32	clust_0578
+GV33|SEQ01155	VBIGarVag265557_1155	Gardnerella vaginalis JCP8481A	ATJG01000157	PATRIC	CDS	184003212	18514	19410	+	897		Sugar kinases, ribokinase family	GV33	clust_0578
+GV34|SEQ01176	VBIGarVag270440_1176	Gardnerella vaginalis JCP8481B	ATJF01000139	PATRIC	CDS	184006071	277	1173	-	897		Sugar kinases, ribokinase family	GV34	clust_0578
+GV35|SEQ01105	VBIGarVag272169_1105	Gardnerella vaginalis JCP8522	ATJE01000162	PATRIC	CDS	184008718	8908	9804	+	897		Sugar kinases, ribokinase family	GV35	clust_0578

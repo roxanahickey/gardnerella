@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00383	86845690	VBIBifAni240121_0383	SEQ00383	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_3571
+ANI2|SEQ00383	86849045	VBIBifAni235968_0383	SEQ00383	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_3571
+ANI3|SEQ00384	42763058	VBIBifAni108068_0384	SEQ00384	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_3571

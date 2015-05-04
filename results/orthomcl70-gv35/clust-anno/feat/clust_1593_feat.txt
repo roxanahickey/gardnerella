@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00269	VBIGarVag247323_0269	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494661	343	1800	+	1458		hypothetical protein, putative adhesion or S- layer protein	GV01	clust_1593
+GV02|SEQ00683	VBIGarVag242669_0683	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498183	49519	50976	-	1458		hypothetical protein	GV02	clust_1593
+GV07|SEQ00722	VBIGarVag249177_0722	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493096	102194	103633	-	1440		Outer membrane autotransporter barrel	GV07	clust_1593
+GV11|SEQ00117	VBIGarVag171052_0117	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548502	20764	22506	-	1743		hypothetical protein, putative adhesion or S- layer protein	GV11	clust_1593
+GV27|SEQ00129	VBIGarVag276930_0129	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983972	49647	51116	-	1470		Proline-rich protein	GV27	clust_1593

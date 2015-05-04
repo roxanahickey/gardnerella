@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01475	VBIBifAdo136061_1475	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189308	128419	129966	+	1548		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	ADO1	clust_0352
+ANI1|SEQ01441	VBIBifAni240121_1441	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847893	1719008	1720543	+	1536		hypothetical protein	ANI1	clust_0352
+ANI2|SEQ01440	VBIBifAni235968_1440	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851244	1719228	1720763	+	1536		hypothetical protein	ANI2	clust_0352
+ANI3|SEQ01450	VBIBifAni108068_1450	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765264	1724459	1725994	+	1536		hypothetical protein	ANI3	clust_0352
+BIF1|SEQ01645	VBIBifBif87902_1645	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885909	1978355	1979911	+	1557	ddpA	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BIF1	clust_0352
+BRE1|SEQ00251	VBIBifBre340958_0251	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602440	324337	325833	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE1	clust_0352
+BRE2|SEQ00283	VBIBifBre337368_0283	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606478	362455	363951	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE2	clust_0352
+BRE3|SEQ00302	VBIBifBre167886_0302	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192265	385000	386496	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE3	clust_0352
+BRE4|SEQ00267	VBIBifBre327712_0267	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610587	346741	348237	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE4	clust_0352
+BRE5|SEQ00289	VBIBifBre336369_0290	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614682	348902	350398	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE5	clust_0352
+BRE6|SEQ00359	VBIBifBre268992_0359	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653840	30704	32200	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE6	clust_0352
+BRE7|SEQ00279	VBIBifBre340732_0279	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618970	357971	359467	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE7	clust_0352
+BRE8|SEQ00305	VBIBifBre176493_0305	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623135	389462	390958	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE8	clust_0352
+BRE9|SEQ00317	VBIBifBre30019_0317	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444679	403366	404862	-	1497		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE9	clust_0352
+DEN1|SEQ02160	VBIBifDen165269_2162	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463309	40503	42047	-	1545		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	DEN1	clust_0352
+DEN2|SEQ00977	VBIBifDen39005_0977	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110307	73898	75442	+	1545		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	DEN2	clust_0352
+GV01|SEQ00873	VBIGarVag247323_0873	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495915	91120	92703	+	1584		FIG00672070: hypothetical protein	GV01	clust_0352
+GV02|SEQ01186	VBIGarVag242669_1186	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499249	169113	170696	-	1584		FIG00672070: hypothetical protein	GV02	clust_0352
+GV03|SEQ00286	VBIGarVag247424_0286	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499955	239130	240620	+	1491		FIG00672070: hypothetical protein	GV03	clust_0352
+GV04|SEQ00064	VBIGarVag246433_0064	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479976	65166	66713	-	1548		FIG00672070: hypothetical protein	GV04	clust_0352
+GV05|SEQ00387	VBIGarVag174900_0387	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546499	237628	239118	+	1491		FIG00672070: hypothetical protein	GV05	clust_0352
+GV06|SEQ00612	VBIGarVag244004_0612	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490005	59950	61533	-	1584		FIG00672070: hypothetical protein	GV06	clust_0352
+GV07|SEQ01153	VBIGarVag249177_1153	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494007	58562	60034	-	1473		FIG00672070: hypothetical protein	GV07	clust_0352
+GV08|SEQ01161	VBIGarVag251521_1161	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476771	269521	271104	+	1584		FIG00672070: hypothetical protein	GV08	clust_0352
+GV09|SEQ01193	VBIGarVag169280_1193	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261615	56073	57620	+	1548		FIG00672070: hypothetical protein	GV09	clust_0352
+GV10|SEQ00176	VBIGarVag136958_0176	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146368	212358	213932	+	1575		FIG00672070: hypothetical protein	GV10	clust_0352
+GV11|SEQ01164	VBIGarVag171052_1164	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550737	36663	38246	-	1584		FIG00672070: hypothetical protein	GV11	clust_0352
+GV12|SEQ00714	VBIGarVag144721_0714	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854127	248483	249922	+	1440		FIG00672070: hypothetical protein	GV12	clust_0352
+GV13|SEQ01061	VBIGarVag244533_1061	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488139	53549	55132	+	1584		FIG00672070: hypothetical protein	GV13	clust_0352
+GV14|SEQ00165	VBIGarVag244375_0165	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502164	163196	164686	-	1491		FIG00672070: hypothetical protein	GV14	clust_0352
+GV15|SEQ00494	VBIGarVag249709_0494	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484524	241426	243000	-	1575		FIG00672070: hypothetical protein	GV15	clust_0352
+GV16|SEQ00313	VBIGarVag246379_0313	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477746	273726	275273	+	1548		FIG00672070: hypothetical protein	GV16	clust_0352
+GV17|SEQ00420	VBIGarVag146634_0420	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850873	416527	418032	-	1506		FIG00672070: hypothetical protein	GV17	clust_0352
+GV18|SEQ01033	VBIGarVag4823_1033	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070889	25076	26623	-	1548		FIG00672070: hypothetical protein	GV18	clust_0352
+GV19|SEQ01299	VBIGarVag39333_1302	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629535	1618561	1620108	-	1548		FIG00672070: hypothetical protein	GV19	clust_0352
+GV20|SEQ00197	VBIGarVag188338_0197	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189180	227893	229440	+	1548		FIG00672070: hypothetical protein	GV20	clust_0352
+GV21|SEQ01122	VBIGarVag274454_1123	Gardnerella vaginalis JCP7275	ATJS01000149	PATRIC	CDS	183969104	451	1998	-	1548		FIG00672070: hypothetical protein	GV21	clust_0352
+GV22|SEQ00770	VBIGarVag276801_0771	Gardnerella vaginalis JCP7276	ATJR01000035	PATRIC	CDS	183970997	1326	2873	-	1548		FIG00672070: hypothetical protein	GV22	clust_0352
+GV23|SEQ00891	VBIGarVag276017_0891	Gardnerella vaginalis JCP7659	ATJQ01000076	PATRIC	CDS	183974201	6701	8284	+	1584		FIG00672070: hypothetical protein	GV23	clust_0352
+GV24|SEQ00553	VBIGarVag268944_0554	Gardnerella vaginalis JCP7672	ATJP01000032	PATRIC	CDS	183976257	3580	5127	-	1548		FIG00672070: hypothetical protein	GV24	clust_0352
+GV25|SEQ00379	VBIGarVag270495_0379	Gardnerella vaginalis JCP7719	ATJO01000025	PATRIC	CDS	183978664	14775	16358	+	1584		FIG00672070: hypothetical protein	GV25	clust_0352
+GV26|SEQ00678	VBIGarVag272749_0678	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982153	34253	35836	+	1584		FIG00672070: hypothetical protein	GV26	clust_0352
+GV27|SEQ00595	VBIGarVag276930_0595	Gardnerella vaginalis JCP8017B	ATJM01000026	PATRIC	CDS	183984962	3788	5371	-	1584		FIG00672070: hypothetical protein	GV27	clust_0352
+GV28|SEQ00724	VBIGarVag271349_0724	Gardnerella vaginalis JCP8066	ATJL01000064	PATRIC	CDS	183988202	5850	7433	+	1584		FIG00672070: hypothetical protein	GV28	clust_0352
+GV29|SEQ00752	VBIGarVag265473_0752	Gardnerella vaginalis JCP8070	ATJK01000051	PATRIC	CDS	183990967	10734	12317	+	1584		FIG00672070: hypothetical protein	GV29	clust_0352
+GV30|SEQ00920	VBIGarVag267667_0922	Gardnerella vaginalis JCP8108	ATJJ01000074	PATRIC	CDS	183994018	3765	5348	-	1584		FIG00672070: hypothetical protein	GV30	clust_0352
+GV31|SEQ00668	VBIGarVag264983_0668	Gardnerella vaginalis JCP8151A	ATJI01000032	PATRIC	CDS	183996426	8415	9998	-	1584		FIG00672070: hypothetical protein	GV31	clust_0352
+GV32|SEQ00671	VBIGarVag277040_0671	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999255	18099	19682	+	1584		FIG00672070: hypothetical protein	GV32	clust_0352
+GV33|SEQ00597	VBIGarVag265557_0597	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001938	47782	49356	+	1575		FIG00672070: hypothetical protein	GV33	clust_0352
+GV34|SEQ00370	VBIGarVag270440_0370	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004297	19278	20852	-	1575		FIG00672070: hypothetical protein	GV34	clust_0352
+GV35|SEQ00768	VBIGarVag272169_0768	Gardnerella vaginalis JCP8522	ATJE01000072	PATRIC	CDS	184007926	6116	7699	+	1584		FIG00672070: hypothetical protein	GV35	clust_0352
+INF1|SEQ00231	VBIBifLon182273_0231	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884381	298237	299703	-	1467		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	INF1	clust_0352
+LON1|SEQ01135	VBIBifLon107831_1136	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119363	1321916	1323442	+	1527		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	LON1	clust_0352
+LON2|SEQ01167	VBIBifLon171405_1169	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581897	1333386	1334912	+	1527	ddpA3	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	LON2	clust_0352
+LON3|SEQ01248	VBIBifLon156230_1250	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769093	1966197	1967723	+	1527		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	LON3	clust_0352
+LON4|SEQ00249	VBIBifLon48544_0249	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888720	315554	317020	-	1467		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	LON4	clust_0352
+THE1|SEQ01567	VBIBifThe274299_1567	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736390	1935952	1937511	+	1560		probable solute binding protein of ABC transporter system	THE1	clust_0352

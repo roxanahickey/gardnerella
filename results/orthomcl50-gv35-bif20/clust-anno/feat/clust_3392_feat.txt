@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00037	VBIBifAni240121_0037	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844970	45695	45859	+	165		hypothetical protein	ANI1	clust_3392
+ANI2|SEQ00037	VBIBifAni235968_0037	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848325	45695	45859	+	165		hypothetical protein	ANI2	clust_3392
+ANI3|SEQ00039	VBIBifAni108068_0039	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762342	45476	45859	+	384		hypothetical protein	ANI3	clust_3392

@@ -1,0 +1,13 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ00439	268606802	VBIBifBre337368_0439	SEQ00439	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+BRE4|SEQ00398	268610863	VBIBifBre327712_0398	SEQ00398	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+BRE6|SEQ00033	177653155	VBIBifBre268992_0033	SEQ00033	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+BRE8|SEQ00439	268623414	VBIBifBre176493_0439	SEQ00439	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+BRE9|SEQ00491	58445044	VBIBifBre30019_0491	SEQ00491	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+DEN1|SEQ00947	43459017	VBIBifDen165269_0948	SEQ00947	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+DEN1|SEQ02096	43463171	VBIBifDen165269_2098	SEQ02096	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+DEN2|SEQ01268	42110915	VBIBifDen39005_1269	SEQ01268	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+DEN2|SEQ01520	42111429	VBIBifDen39005_1521	SEQ01520	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+LON1|SEQ00965	21119007	VBIBifLon107831_0966	SEQ00965	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Polysaccharide biosynthesis protein	FIG00936696	figfam	clust_1844
+LON2|SEQ01032	42581611	VBIBifLon171405_1033	SEQ01032	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844
+THE1|SEQ00362	124733899	VBIBifThe274299_0362	SEQ00362	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1844

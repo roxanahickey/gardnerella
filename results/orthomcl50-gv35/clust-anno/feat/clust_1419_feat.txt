@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00812	VBIGarVag247323_0812	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495791	26270	26416	+	147		hypothetical protein	GV01	clust_1419
+GV02|SEQ00049	VBIGarVag242669_0049	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496856	9789	9938	-	150		hypothetical protein	GV02	clust_1419
+GV23|SEQ00470	VBIGarVag276017_0470	Gardnerella vaginalis JCP7659	ATJQ01000036	PATRIC	CDS	183973290	1307	1453	+	147		hypothetical protein	GV23	clust_1419
+GV25|SEQ00578	VBIGarVag270495_0578	Gardnerella vaginalis JCP7719	ATJO01000050	PATRIC	CDS	183979101	16640	16813	+	174		hypothetical protein	GV25	clust_1419
+GV26|SEQ00775	VBIGarVag272749_0775	Gardnerella vaginalis JCP8017A	ATJN01000041	PATRIC	CDS	183982370	2344	2490	-	147		hypothetical protein	GV26	clust_1419
+GV27|SEQ00205	VBIGarVag276930_0205	Gardnerella vaginalis JCP8017B	ATJM01000007	PATRIC	CDS	183984135	2738	2884	-	147		hypothetical protein	GV27	clust_1419
+GV29|SEQ00297	VBIGarVag265473_0297	Gardnerella vaginalis JCP8070	ATJK01000012	PATRIC	CDS	183989973	14706	14879	+	174		hypothetical protein	GV29	clust_1419
+GV32|SEQ00623	VBIGarVag277040_0623	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999156	26366	26551	-	186		hypothetical protein	GV32	clust_1419

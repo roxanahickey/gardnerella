@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV14|SEQ00455	VBIGarVag244375_0455	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502767	94789	96816	+	2028		type IIS restriction enzyme	GV14	clust_1862
+GV31|SEQ00732	VBIGarVag264983_0732	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996563	10211	12238	+	2028		type IIS restriction enzyme	GV31	clust_1862
+GV32|SEQ00553	VBIGarVag277040_0553	Gardnerella vaginalis JCP8151B	ATJH01000037	PATRIC	CDS	183999009	1249	3276	+	2028		type IIS restriction enzyme	GV32	clust_1862

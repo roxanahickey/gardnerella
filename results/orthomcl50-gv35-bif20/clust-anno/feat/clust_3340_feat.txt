@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ00855	VBIBifBre167886_0855	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193419	1016436	1016744	+	309		Transmembrane component BL0694 of energizing module of predicted ECF transporter	BRE3	clust_3340
+BRE6|SEQ01681	VBIBifBre268992_1681	Bifidobacterium breve JCP7499	AWSX01000077	PATRIC	CDS	177656652	11704	12012	-	309		Transmembrane component BL0694 of energizing module of predicted ECF transporter	BRE6	clust_3340
+BRE8|SEQ00996	VBIBifBre176493_0996	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624562	1185272	1185580	-	309		Transmembrane component BL0694 of energizing module of predicted ECF transporter	BRE8	clust_3340

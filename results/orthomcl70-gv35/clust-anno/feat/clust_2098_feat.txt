@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ01126	VBIGarVag244004_1126	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491078	96501	97772	-	1272		Exonuclease SbcC	GV06	clust_2098
+GV13|SEQ00575	VBIGarVag244533_0575	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487120	80003	81283	+	1281		Exonuclease SbcC	GV13	clust_2098

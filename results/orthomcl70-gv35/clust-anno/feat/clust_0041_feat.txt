@@ -1,0 +1,37 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01055	VBIGarVag247323_1055	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496308	52068	52619	+	552	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV01	clust_0041
+GV02|SEQ00387	VBIGarVag242669_0387	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497553	200161	200712	-	552	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV02	clust_0041
+GV03|SEQ01131	VBIGarVag247424_1131	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501730	66455	67009	+	555	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV03	clust_0041
+GV04|SEQ00717	VBIGarVag246433_0717	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481330	46271	46840	+	570	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV04	clust_0041
+GV05|SEQ00070	VBIGarVag174900_0070	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545847	86478	87056	+	579		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV05	clust_0041
+GV06|SEQ01011	VBIGarVag244004_1011	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490835	44812	45264	+	453	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV06	clust_0041
+GV07|SEQ00410	VBIGarVag249177_0410	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492444	45067	45645	-	579	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV07	clust_0041
+GV08|SEQ00818	VBIGarVag251521_0818	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476065	182012	182491	-	480	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV08	clust_0041
+GV09|SEQ00265	VBIGarVag169280_0265	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259696	90257	90811	-	555	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV09	clust_0041
+GV10|SEQ00311	VBIGarVag136958_0311	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146654	361353	361805	+	453	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV10	clust_0041
+GV11|SEQ00986	VBIGarVag171052_0986	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550353	2111	2578	-	468		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV11	clust_0041
+GV12|SEQ00853	VBIGarVag144721_0853	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854421	397504	398052	+	549		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV12	clust_0041
+GV13|SEQ00466	VBIGarVag244533_0466	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486895	58984	59436	-	453	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV13	clust_0041
+GV14|SEQ00771	VBIGarVag244375_0771	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503430	135702	136268	+	567	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV14	clust_0041
+GV15|SEQ00359	VBIGarVag249709_0359	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484237	89967	90419	-	453	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV15	clust_0041
+GV16|SEQ00492	VBIGarVag246379_0492	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478128	532787	533356	+	570	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV16	clust_0041
+GV17|SEQ00282	VBIGarVag146634_0282	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850581	262360	262908	-	549		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV17	clust_0041
+GV18|SEQ01264	VBIGarVag4823_1264	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071369	38494	39063	+	570	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV18	clust_0041
+GV19|SEQ01112	VBIGarVag39333_1114	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629137	1357276	1357482	-	207	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV19	clust_0041
+GV19|SEQ01113	VBIGarVag39333_1115	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629139	1357662	1357844	-	183		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV19	clust_0041
+GV20|SEQ00394	VBIGarVag188338_0394	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189599	498589	499056	+	468	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV20	clust_0041
+GV21|SEQ01215	VBIGarVag274454_1216	Gardnerella vaginalis JCP7275	ATJS01000190	PATRIC	CDS	183969331	1879	2448	-	570		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV21	clust_0041
+GV22|SEQ01185	VBIGarVag276801_1186	Gardnerella vaginalis JCP7276	ATJR01000150	PATRIC	CDS	183971983	887	1354	+	468		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV22	clust_0041
+GV23|SEQ01221	VBIGarVag276017_1221	Gardnerella vaginalis JCP7659	ATJQ01000201	PATRIC	CDS	183975012	126	677	+	552		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV23	clust_0041
+GV24|SEQ00734	VBIGarVag268944_0735	Gardnerella vaginalis JCP7672	ATJP01000060	PATRIC	CDS	183976657	1702	2172	-	471		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV24	clust_0041
+GV25|SEQ00581	VBIGarVag270495_0581	Gardnerella vaginalis JCP7719	ATJO01000051	PATRIC	CDS	183979108	403	957	-	555		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV25	clust_0041
+GV26|SEQ00938	VBIGarVag272749_0938	Gardnerella vaginalis JCP8017A	ATJN01000060	PATRIC	CDS	183982733	223	720	+	498		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV26	clust_0041
+GV27|SEQ00925	VBIGarVag276930_0925	Gardnerella vaginalis JCP8017B	ATJM01000055	PATRIC	CDS	183985665	1907	2332	-	426		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV27	clust_0041
+GV28|SEQ01085	VBIGarVag271349_1085	Gardnerella vaginalis JCP8066	ATJL01000143	PATRIC	CDS	183989031	121	675	+	555		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV28	clust_0041
+GV29|SEQ00833	VBIGarVag265473_0833	Gardnerella vaginalis JCP8070	ATJK01000069	PATRIC	CDS	183991151	1344	1898	+	555		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV29	clust_0041
+GV30|SEQ00784	VBIGarVag267667_0786	Gardnerella vaginalis JCP8108	ATJJ01000053	PATRIC	CDS	183993711	1746	2225	-	480		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV30	clust_0041
+GV31|SEQ01138	VBIGarVag264983_1138	Gardnerella vaginalis JCP8151A	ATJI01000126	PATRIC	CDS	183997498	2295	2867	-	573		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV31	clust_0041
+GV32|SEQ00918	VBIGarVag277040_0918	Gardnerella vaginalis JCP8151B	ATJH01000087	PATRIC	CDS	183999818	1603	2028	+	426		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV32	clust_0041
+GV33|SEQ00242	VBIGarVag265557_0242	Gardnerella vaginalis JCP8481A	ATJG01000021	PATRIC	CDS	184001183	7206	7784	-	579		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV33	clust_0041
+GV34|SEQ01204	VBIGarVag270440_1204	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	184006138	10232	10810	+	579		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV34	clust_0041
+GV35|SEQ00809	VBIGarVag272169_0809	Gardnerella vaginalis JCP8522	ATJE01000077	PATRIC	CDS	184008019	2206	2649	-	444		Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	GV35	clust_0041

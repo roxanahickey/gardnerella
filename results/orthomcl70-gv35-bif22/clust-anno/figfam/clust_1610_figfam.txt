@@ -1,0 +1,15 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00823	86846607	VBIBifAni240121_0823	SEQ00823	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+ANI2|SEQ00822	86849958	VBIBifAni235968_0822	SEQ00822	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+ANI3|SEQ00825	42763972	VBIBifAni108068_0825	SEQ00825	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+BIF1|SEQ01388	86885366	VBIBifBif87902_1388	SEQ01388	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+BRE1|SEQ01466	268604963	VBIBifBre340958_1467	SEQ01466	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+BRE2|SEQ01586	268609180	VBIBifBre337368_1586	SEQ01586	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+BRE3|SEQ01540	54194839	VBIBifBre167886_1540	SEQ01540	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+BRE4|SEQ01513	268613174	VBIBifBre327712_1513	SEQ01513	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+BRE9|SEQ01625	58447396	VBIBifBre30019_1625	SEQ01625	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		ABC transporter related	FIG01124919	figfam	clust_1610
+DEN1|SEQ01561	43460270	VBIBifDen165269_1562	SEQ01561	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Glutathione-regulated potassium-efflux system ATP-binding protein	FIG00001955	figfam	clust_1610
+DEN1|SEQ01562	43460272	VBIBifDen165269_1563	SEQ01562	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Glutathione-regulated potassium-efflux system ATP-binding protein	FIG00001955	figfam	clust_1610
+DEN2|SEQ00072	42108438	VBIBifDen39005_0072	SEQ00072	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		Glutathione-regulated potassium-efflux system ATP-binding protein	FIG00001955	figfam	clust_1610
+DEN2|SEQ00074	42108442	VBIBifDen39005_0074	SEQ00074	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		Glutathione-regulated potassium-efflux system ATP-binding protein	FIG00001955	figfam	clust_1610
+THE1|SEQ00926	124735046	VBIBifThe274299_0926	SEQ00926	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1610

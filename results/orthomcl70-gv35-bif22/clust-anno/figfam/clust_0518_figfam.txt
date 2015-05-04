@@ -1,0 +1,51 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00941	27188196	VBIBifAdo136061_0941	SEQ00941	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+ANI1|SEQ01054	86847090	VBIBifAni240121_1054	SEQ01054	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+ANI2|SEQ01054	86850443	VBIBifAni235968_1054	SEQ01054	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+ANI3|SEQ01058	42764457	VBIBifAni108068_1058	SEQ01058	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BIF1|SEQ01139	86884846	VBIBifBif87902_1139	SEQ01139	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE1|SEQ00767	268603518	VBIBifBre340958_0767	SEQ00767	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE2|SEQ00864	268607684	VBIBifBre337368_0864	SEQ00864	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE3|SEQ01021	54193754	VBIBifBre167886_1021	SEQ01021	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE4|SEQ00796	268611691	VBIBifBre327712_0796	SEQ00796	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE5|SEQ00809	268615763	VBIBifBre336369_0810	SEQ00809	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE6|SEQ01611	177656494	VBIBifBre268992_1611	SEQ01611	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000075	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE7|SEQ00799	268620054	VBIBifBre340732_0799	SEQ00799	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE8|SEQ00822	268624209	VBIBifBre176493_0822	SEQ00822	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+BRE9|SEQ00872	58445838	VBIBifBre30019_0872	SEQ00872	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+DEN1|SEQ01993	43461153	VBIBifDen165269_1994	SEQ01993	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+DEN2|SEQ00834	42110017	VBIBifDen39005_0834	SEQ00834	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+GV01|SEQ00184	85494478	VBIGarVag247323_0184	SEQ00184	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV02|SEQ00456	85497703	VBIGarVag242669_0456	SEQ00456	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV04|SEQ01304	85482550	VBIGarVag246433_1304	SEQ01304	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV06|SEQ00853	85490508	VBIGarVag244004_0853	SEQ00853	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV08|SEQ00413	85475229	VBIGarVag251521_0413	SEQ00413	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV09|SEQ00397	55259964	VBIGarVag169280_0397	SEQ00397	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV10|SEQ00560	32147178	VBIGarVag136958_0560	SEQ00560	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Endonuclease (EC 3.1.-.-)	FIG00617435	figfam	clust_0518
+GV11|SEQ01296	52551023	VBIGarVag171052_1296	SEQ01296	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV12|SEQ01195	37855220	VBIGarVag144721_1195	SEQ01195	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	NA	Endonuclease (EC 3.1.-.-)	FIG00617435	figfam	clust_0518
+GV13|SEQ00742	85487472	VBIGarVag244533_0742	SEQ00742	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV16|SEQ01047	85479276	VBIGarVag246379_1047	SEQ01047	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV17|SEQ00991	37852070	VBIGarVag146634_0991	SEQ00991	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	Endonuclease (EC 3.1.-.-)	FIG00617435	figfam	clust_0518
+GV18|SEQ01165	42071163	VBIGarVag4823_1165	SEQ01165	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV19|SEQ00564	42628009	VBIGarVag39333_0565	SEQ00564	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV20|SEQ00958	54190764	VBIGarVag188338_0958	SEQ00958	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV21|SEQ00823	183968379	VBIGarVag274454_0824	SEQ00823	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV22|SEQ00852	183971187	VBIGarVag276801_0853	SEQ00852	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV23|SEQ00410	183973151	VBIGarVag276017_0410	SEQ00410	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000027	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV24|SEQ00764	183976723	VBIGarVag268944_0765	SEQ00764	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV25|SEQ00261	183978411	VBIGarVag270495_0261	SEQ00261	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV26|SEQ00107	183980951	VBIGarVag272749_0107	SEQ00107	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV27|SEQ00036	183983781	VBIGarVag276930_0036	SEQ00036	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV28|SEQ00495	183987689	VBIGarVag271349_0495	SEQ00495	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000029	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV29|SEQ01057	183991645	VBIGarVag265473_1057	SEQ01057	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000105	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV30|SEQ00404	183992882	VBIGarVag267667_0405	SEQ00404	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV31|SEQ00079	183995183	VBIGarVag264983_0079	SEQ00079	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000003	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV32|SEQ00016	183997855	VBIGarVag277040_0016	SEQ00016	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000002	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+GV35|SEQ00442	184007201	VBIGarVag272169_0442	SEQ00442	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000025	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_0518
+INF1|SEQ00733	46885435	VBIBifLon182273_0733	SEQ00733	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+LON1|SEQ00636	21118329	VBIBifLon107831_0637	SEQ00636	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+LON2|SEQ00700	42580926	VBIBifLon171405_0701	SEQ00700	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+LON3|SEQ00509	42767970	VBIBifLon156230_0509	SEQ00509	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+LON4|SEQ00711	46889692	VBIBifLon48544_0711	SEQ00711	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518
+THE1|SEQ00780	124734743	VBIBifThe274299_0780	SEQ00780	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0518

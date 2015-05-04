@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00745	27187788	VBIBifAdo136061_0745	SEQ00745	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		binding-protein-dependent transport systems inner membrane component	FIG01956044	figfam	clust_2965
+BRE5|SEQ00870	268615887	VBIBifBre336369_0871	SEQ00870	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Probable ABC transporter permease protein ytcP	FIG00627572	figfam	clust_2965
+BRE9|SEQ00336	58444718	VBIBifBre30019_0336	SEQ00336	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Probable ABC transporter permease protein ytcP	FIG00627572	figfam	clust_2965
+DEN1|SEQ00822	43462952	VBIBifDen165269_0823	SEQ00822	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		binding-protein-dependent transport systems inner membrane component	FIG01956044	figfam	clust_2965
+DEN2|SEQ00358	42109039	VBIBifDen39005_0358	SEQ00358	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS		binding-protein-dependent transport systems inner membrane component	FIG01956044	figfam	clust_2965

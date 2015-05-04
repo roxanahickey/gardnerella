@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00529	VBIBifAdo136061_0529	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187325	380555	381109	-	555		Acetolactate synthase small subunit (EC 2.2.1.6)	ADO1	clust_1218
+ANI1|SEQ00279	VBIBifAni240121_0279	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845466	342688	343242	-	555		Acetolactate synthase small subunit (EC 2.2.1.6)	ANI1	clust_1218
+ANI2|SEQ00278	VBIBifAni235968_0278	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848819	342690	343244	-	555		Acetolactate synthase small subunit (EC 2.2.1.6)	ANI2	clust_1218
+ANI3|SEQ00279	VBIBifAni108068_0279	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762832	342691	343245	-	555	ilvH	Acetolactate synthase small subunit (EC 2.2.1.6)	ANI3	clust_1218
+BIF1|SEQ00323	VBIBifBif87902_0323	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883173	391868	392422	+	555	ilvN	Acetolactate synthase small subunit (EC 2.2.1.6)	BIF1	clust_1218
+BRE1|SEQ00331	VBIBifBre340958_0331	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602606	415787	416266	-	480		Acetolactate synthase small subunit (EC 2.2.1.6)	BRE1	clust_1218
+BRE2|SEQ00392	VBIBifBre337368_0392	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606703	470131	470610	-	480		Acetolactate synthase small subunit (EC 2.2.1.6)	BRE2	clust_1218
+BRE3|SEQ00390	VBIBifBre167886_0390	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192448	483017	483496	-	480	ilvN	Acetolactate synthase small subunit (EC 2.2.1.6)	BRE3	clust_1218
+BRE4|SEQ00341	VBIBifBre327712_0341	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610743	427678	428157	-	480		Acetolactate synthase small subunit (EC 2.2.1.6)	BRE4	clust_1218
+BRE5|SEQ00368	VBIBifBre336369_0369	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614846	429196	429675	-	480		Acetolactate synthase small subunit (EC 2.2.1.6)	BRE5	clust_1218
+BRE6|SEQ00872	VBIBifBre268992_0872	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654930	27938	28417	+	480		Acetolactate synthase small subunit (EC 2.2.1.6)	BRE6	clust_1218
+BRE7|SEQ00364	VBIBifBre340732_0364	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619146	450156	450635	-	480		Acetolactate synthase small subunit (EC 2.2.1.6)	BRE7	clust_1218
+BRE8|SEQ00388	VBIBifBre176493_0388	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623307	481457	482014	-	558	ilvN	Acetolactate synthase small subunit (EC 2.2.1.6)	BRE8	clust_1218
+BRE9|SEQ00431	VBIBifBre30019_0431	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444918	521463	521942	-	480	ilvN	Acetolactate synthase small subunit (EC 2.2.1.6)	BRE9	clust_1218
+INF1|SEQ00318	VBIBifLon182273_0318	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884565	398205	398759	-	555		Acetolactate synthase small subunit (EC 2.2.1.6)	INF1	clust_1218
+LON1|SEQ01033	VBIBifLon107831_1034	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119149	1220144	1220698	+	555	ilvH	Acetolactate synthase small subunit (EC 2.2.1.6)	LON1	clust_1218
+LON2|SEQ01090	VBIBifLon171405_1092	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581733	1249006	1249560	+	555	ilvH	Acetolactate synthase small subunit (EC 2.2.1.6)	LON2	clust_1218
+LON3|SEQ00901	VBIBifLon156230_0902	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768783	1830711	1831265	+	555		Acetolactate synthase small subunit (EC 2.2.1.6)	LON3	clust_1218
+LON4|SEQ00326	VBIBifLon48544_0326	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888884	400934	401488	-	555		Acetolactate synthase small subunit (EC 2.2.1.6)	LON4	clust_1218
+THE1|SEQ00305	VBIBifThe274299_0305	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733780	357138	357692	-	555	ilvH	Acetolactate synthase small subunit (EC 2.2.1.6)	THE1	clust_1218

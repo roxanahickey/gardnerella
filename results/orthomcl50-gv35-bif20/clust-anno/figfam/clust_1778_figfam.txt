@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ01030	86884624	VBIBifBif87902_1030	SEQ01030	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1778
+BRE1|SEQ01013	268604026	VBIBifBre340958_1013	SEQ01013	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1778
+BRE5|SEQ01182	268616537	VBIBifBre336369_1183	SEQ01182	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1778
+LON2|SEQ00530	42580583	VBIBifLon171405_0531	SEQ00530	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00427397: hypothetical protein	FIG01355759	figfam	clust_1778
+LON4|SEQ00871	46890017	VBIBifLon48544_0871	SEQ00871	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00427397: hypothetical protein	FIG01355759	figfam	clust_1778
+THE1|SEQ00808	124734800	VBIBifThe274299_0808	SEQ00808	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1778

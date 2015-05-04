@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01467	VBIBifAdo136061_1467	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189292	121099	121299	+	201		COG1396: Predicted transcriptional regulators	ADO1	clust_4596
+LON3|SEQ01238	VBIBifLon156230_1240	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769073	1956876	1957226	+	351		COG1396: Predicted transcriptional regulators	LON3	clust_4596

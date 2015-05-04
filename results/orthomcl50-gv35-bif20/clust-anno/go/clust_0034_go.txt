@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE2|SEQ01369	268608728	VBIBifBre337368_1369	SEQ01369	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	NA	Phosphomethylpyrimidine kinase (EC 2.7.4.7)	GO:0008972	phosphomethylpyrimidine kinase activity	go	clust_0034
+BRE3|SEQ00542	54192759	VBIBifBre167886_0542	SEQ00542	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Phosphomethylpyrimidine kinase (EC 2.7.4.7)	GO:0008972	phosphomethylpyrimidine kinase activity	go	clust_0034
+BRE8|SEQ01348	268625297	VBIBifBre176493_1348	SEQ01348	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	NA	Phosphomethylpyrimidine kinase (EC 2.7.4.7)	GO:0008972	phosphomethylpyrimidine kinase activity	go	clust_0034

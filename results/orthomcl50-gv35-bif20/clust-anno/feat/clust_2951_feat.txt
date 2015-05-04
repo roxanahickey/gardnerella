@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01499	VBIBifBre337368_1499	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608992	1731632	1732615	-	984		(GlcNAc)2 ABC transporter, permease component 1	BRE2	clust_2951
+BRE3|SEQ01236	VBIBifBre167886_1236	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194208	1443158	1444147	-	990		Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)	BRE3	clust_2951
+BRE5|SEQ00594	VBIBifBre336369_0595	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615310	709926	710915	+	990		Dipeptide transport system permease protein DppB (TC 3.A.1.5.2)	BRE5	clust_2951
+BRE6|SEQ00919	VBIBifBre268992_0919	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655026	35676	36659	-	984		(GlcNAc)2 ABC transporter, permease component 1	BRE6	clust_2951

@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00492	VBIGarVag247323_0492	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495129	231317	232258	-	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV01	clust_0094
+GV02|SEQ00879	VBIGarVag242669_0879	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498600	113276	114217	+	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV02	clust_0094
+GV03|SEQ00881	VBIGarVag247424_0881	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501205	210050	211075	-	1026		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV03	clust_0094
+GV04|SEQ01018	VBIGarVag246433_1018	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481948	399684	400724	-	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV04	clust_0094
+GV05|SEQ00926	VBIGarVag174900_0926	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547630	623256	624281	-	1026		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV05	clust_0094
+GV06|SEQ01231	VBIGarVag244004_1231	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491289	84971	86011	+	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV06	clust_0094
+GV07|SEQ00200	VBIGarVag249177_0200	Gardnerella vaginalis 1500E	ADES01000004	PATRIC	CDS	85491996	9677	10702	+	1026		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV07	clust_0094
+GV08|SEQ00036	VBIGarVag251521_0036	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474437	45847	46887	-	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV08	clust_0094
+GV09|SEQ00875	VBIGarVag169280_0875	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260957	269662	270702	-	1041	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV09	clust_0094
+GV10|SEQ00702	VBIGarVag136958_0702	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147474	908887	909918	-	1032	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV10	clust_0094
+GV11|SEQ00802	VBIGarVag171052_0802	Gardnerella vaginalis 41V	AEJE01000050	PATRIC	CDS	52549962	33556	34596	-	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV11	clust_0094
+GV12|SEQ00140	VBIGarVag144721_0140	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852941	76041	77072	-	1032		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV12	clust_0094
+GV13|SEQ00245	VBIGarVag244533_0245	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486434	52193	53233	+	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV13	clust_0094
+GV14|SEQ00977	VBIGarVag244375_0977	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503861	30970	31995	-	1026		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV14	clust_0094
+GV15|SEQ00747	VBIGarVag249709_0747	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485051	222778	223809	-	1032		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV15	clust_0094
+GV16|SEQ00810	VBIGarVag246379_0810	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478781	915329	916369	-	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV16	clust_0094
+GV17|SEQ00856	VBIGarVag146634_0856	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851787	67240	68271	+	1032		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV17	clust_0094
+GV18|SEQ00056	VBIGarVag4823_0056	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000034	PATRIC	CDS	42068770	2852	3892	-	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV18	clust_0094
+GV19|SEQ00800	VBIGarVag39333_0801	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628498	994097	995137	+	1041	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV19	clust_0094
+GV20|SEQ00747	VBIGarVag188338_0747	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190323	906190	907230	-	1041	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV20	clust_0094
+GV21|SEQ00170	VBIGarVag274454_0170	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183966983	26794	27834	+	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV21	clust_0094
+GV22|SEQ00495	VBIGarVag276801_0496	Gardnerella vaginalis JCP7276	ATJR01000014	PATRIC	CDS	183970422	17701	18741	-	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV22	clust_0094
+GV23|SEQ00692	VBIGarVag276017_0692	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973751	142301	143242	-	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV23	clust_0094
+GV24|SEQ00366	VBIGarVag268944_0367	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975856	26903	27943	+	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV24	clust_0094
+GV25|SEQ01034	VBIGarVag270495_1034	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980113	46323	47264	+	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV25	clust_0094
+GV26|SEQ00572	VBIGarVag272749_0572	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981938	125032	125973	-	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV26	clust_0094
+GV27|SEQ00366	VBIGarVag276930_0366	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984473	47593	48534	+	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV27	clust_0094
+GV28|SEQ00755	VBIGarVag271349_0755	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988265	43650	44591	+	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV28	clust_0094
+GV29|SEQ00074	VBIGarVag265473_0074	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989507	46859	47800	+	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV29	clust_0094
+GV30|SEQ00042	VBIGarVag267667_0042	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992121	26969	28009	+	1041		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV30	clust_0094
+GV31|SEQ00247	VBIGarVag264983_0247	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995535	47549	48490	+	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV31	clust_0094
+GV32|SEQ01117	VBIGarVag277040_1117	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000281	31020	31961	-	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV32	clust_0094
+GV33|SEQ00829	VBIGarVag265557_0829	Gardnerella vaginalis JCP8481A	ATJG01000087	PATRIC	CDS	184002453	26468	27490	+	1023		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV33	clust_0094
+GV34|SEQ00155	VBIGarVag270440_0155	Gardnerella vaginalis JCP8481B	ATJF01000010	PATRIC	CDS	184003821	42439	43461	-	1023		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV34	clust_0094
+GV35|SEQ00074	VBIGarVag272169_0074	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006425	75120	76061	-	942		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	GV35	clust_0094
+ADO1|SEQ01174	VBIBifAdo136061_1174	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188683	88654	89640	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	ADO1	clust_0094
+ANI1|SEQ00775	VBIBifAni240121_0775	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846509	908438	909406	+	969		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	ANI1	clust_0094
+ANI2|SEQ00774	VBIBifAni235968_0774	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849860	908453	909409	+	957		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	ANI2	clust_0094
+ANI3|SEQ00776	VBIBifAni108068_0776	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763872	908443	909411	+	969		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	ANI3	clust_0094
+BIF1|SEQ00978	VBIBifBif87902_0978	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884518	1191843	1192838	-	996	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BIF1	clust_0094
+BRE1|SEQ01020	VBIBifBre340958_1020	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604040	1199055	1200041	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE1	clust_0094
+BRE2|SEQ01139	VBIBifBre337368_1139	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608254	1309257	1310243	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE2	clust_0094
+BRE3|SEQ00759	VBIBifBre167886_0759	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193211	921496	922482	+	987	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE3	clust_0094
+BRE4|SEQ01094	VBIBifBre327712_1094	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612305	1267499	1268485	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE4	clust_0094
+BRE5|SEQ01188	VBIBifBre336369_1189	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616549	1318662	1319648	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE5	clust_0094
+BRE6|SEQ01047	VBIBifBre268992_1047	Bifidobacterium breve JCP7499	AWSX01000055	PATRIC	CDS	177655301	12070	13056	+	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE6	clust_0094
+BRE7|SEQ01098	VBIBifBre340732_1098	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620674	1262383	1263369	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE7	clust_0094
+BRE8|SEQ01087	VBIBifBre176493_1087	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624758	1276274	1277260	-	987	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE8	clust_0094
+BRE9|SEQ01184	VBIBifBre30019_1184	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446486	1363546	1364532	-	987	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	BRE9	clust_0094
+INF1|SEQ01150	VBIBifLon182273_1150	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886296	1290821	1291807	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	INF1	clust_0094
+LON1|SEQ00379	VBIBifLon107831_0379	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117801	452851	453837	+	987	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	LON1	clust_0094
+LON2|SEQ00388	VBIBifLon171405_0389	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580284	452763	453749	+	987	cdsA	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	LON2	clust_0094
+LON3|SEQ00245	VBIBifLon156230_0245	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767425	1068226	1069212	+	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	LON3	clust_0094
+LON4|SEQ01173	VBIBifLon48544_1173	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890680	1318485	1319471	-	987		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	LON4	clust_0094
+THE1|SEQ01008	VBIBifThe274299_1008	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735213	1265153	1266142	+	990		Phosphatidate cytidylyltransferase (EC 2.7.7.41)	THE1	clust_0094

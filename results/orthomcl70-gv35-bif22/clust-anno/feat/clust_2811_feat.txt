@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01276	VBIBifLon182273_1276	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886555	1436717	1437079	-	363		DNA-damage-inducible protein J	INF1	clust_2811
+LON1|SEQ00256	VBIBifLon107831_0256	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117549	307038	307400	+	363		DNA-damage-inducible protein J	LON1	clust_2811
+LON2|SEQ00297	VBIBifLon171405_0298	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580097	349720	350112	+	393	relB	DNA-damage-inducible protein J	LON2	clust_2811
+LON3|SEQ01985	VBIBifLon156230_1988	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767162	921661	922023	+	363		DNA-damage-inducible protein J	LON3	clust_2811
+LON4|SEQ01251	VBIBifLon48544_1251	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890844	1411315	1411707	-	393		DNA-damage-inducible protein J	LON4	clust_2811

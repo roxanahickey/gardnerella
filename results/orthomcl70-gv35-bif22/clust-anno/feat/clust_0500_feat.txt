@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01300	VBIBifAdo136061_1300	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188945	241993	242646	+	654		Response regulator receiver:Transcriptional regulatory protein, C-terminal	ADO1	clust_0500
+ANI1|SEQ00984	VBIBifAni240121_0984	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846948	1139084	1139803	+	720		Response regulator receiver:Transcriptional regulatory protein, C-terminal	ANI1	clust_0500
+ANI2|SEQ00984	VBIBifAni235968_0984	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850301	1139087	1139806	+	720		Response regulator receiver:Transcriptional regulatory protein, C-terminal	ANI2	clust_0500
+ANI3|SEQ00988	VBIBifAni108068_0988	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764315	1139088	1139807	+	720		Response regulator receiver:Transcriptional regulatory protein, C-terminal	ANI3	clust_0500
+BIF1|SEQ00724	VBIBifBif87902_0724	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883989	887955	888674	-	720	mtrA	Response regulator receiver:Transcriptional regulatory protein, C-terminal	BIF1	clust_0500
+BRE1|SEQ00690	VBIBifBre340958_0690	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603348	835767	836489	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE1	clust_0500
+BRE2|SEQ00786	VBIBifBre337368_0786	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607510	932590	933312	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE2	clust_0500
+BRE3|SEQ01085	VBIBifBre167886_1085	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193900	1273302	1274024	+	723	mtrA	Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE3	clust_0500
+BRE4|SEQ00725	VBIBifBre327712_0725	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611532	876764	877486	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE4	clust_0500
+BRE5|SEQ00741	VBIBifBre336369_0742	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615610	874046	874768	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE5	clust_0500
+BRE6|SEQ00663	VBIBifBre268992_0663	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654489	29578	30300	+	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE6	clust_0500
+BRE7|SEQ00735	VBIBifBre340732_0735	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619910	879866	880588	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE7	clust_0500
+BRE8|SEQ00757	VBIBifBre176493_0757	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624063	920727	921449	-	723	bbukinC	Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE8	clust_0500
+BRE9|SEQ00808	VBIBifBre30019_0808	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445694	968289	969011	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	BRE9	clust_0500
+DEN1|SEQ01814	VBIBifDen165269_1815	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460787	1122061	1122783	+	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	DEN1	clust_0500
+DEN2|SEQ00383	VBIBifDen39005_0383	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109090	19505	20227	-	723	mtrA	Response regulator receiver:Transcriptional regulatory protein, C-terminal	DEN2	clust_0500
+GV01|SEQ01124	VBIGarVag247323_1124	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496450	132984	133730	-	747		putative two-component system response regulator	GV01	clust_0500
+GV02|SEQ00313	VBIGarVag242669_0313	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497401	115708	116454	+	747		putative two-component system response regulator	GV02	clust_0500
+GV03|SEQ00652	VBIGarVag247424_0652	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500728	11253	12005	+	753		putative two-component system response regulator	GV03	clust_0500
+GV04|SEQ00851	VBIGarVag246433_0851	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481601	189404	190144	-	741		putative two-component system response regulator	GV04	clust_0500
+GV05|SEQ00780	VBIGarVag174900_0780	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547319	414120	414872	-	753		putative two-component system response regulator	GV05	clust_0500
+GV06|SEQ00077	VBIGarVag244004_0077	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488859	84730	85470	-	741		putative two-component system response regulator	GV06	clust_0500
+GV07|SEQ00539	VBIGarVag249177_0539	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492720	1271	2023	-	753		putative two-component system response regulator	GV07	clust_0500
+GV08|SEQ00684	VBIGarVag251521_0684	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475794	33951	34691	+	741		putative two-component system response regulator	GV08	clust_0500
+GV09|SEQ00710	VBIGarVag169280_0710	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260615	58317	59057	-	741	phoP	putative two-component system response regulator	GV09	clust_0500
+GV10|SEQ00524	VBIGarVag136958_0524	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147100	653012	653764	-	753		putative two-component system response regulator	GV10	clust_0500
+GV11|SEQ00961	VBIGarVag171052_0961	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550302	41910	42650	+	741		putative two-component system response regulator	GV11	clust_0500
+GV12|SEQ01102	VBIGarVag144721_1102	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854941	101543	102295	-	753		putative two-component system response regulator	GV12	clust_0500
+GV13|SEQ00873	VBIGarVag244533_0873	Gardnerella vaginalis 55152	ADEQ01000011	PATRIC	CDS	85487747	3114	3854	+	741		putative two-component system response regulator	GV13	clust_0500
+GV14|SEQ00243	VBIGarVag244375_0243	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502321	39122	39874	-	753		putative two-component system response regulator	GV14	clust_0500
+GV15|SEQ01112	VBIGarVag249709_1112	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485825	3182	3934	+	753		putative two-component system response regulator	GV15	clust_0500
+GV16|SEQ00647	VBIGarVag246379_0647	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478443	704430	705170	-	741		putative two-component system response regulator	GV16	clust_0500
+GV17|SEQ01028	VBIGarVag146634_1028	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852150	191510	192262	+	753		putative two-component system response regulator	GV17	clust_0500
+GV18|SEQ00743	VBIGarVag4823_0743	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000124	PATRIC	CDS	42070275	13492	14232	+	741		putative two-component system response regulator	GV18	clust_0500
+GV19|SEQ00979	VBIGarVag39333_0980	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628869	1211847	1212584	+	738		putative two-component system response regulator	GV19	clust_0500
+GV20|SEQ00578	VBIGarVag188338_0578	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189970	689750	690490	-	741	phoP_1	putative two-component system response regulator	GV20	clust_0500
+GV21|SEQ00437	VBIGarVag274454_0438	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967541	28667	29407	-	741		putative two-component system response regulator	GV21	clust_0500
+GV22|SEQ00340	VBIGarVag276801_0341	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970097	59043	59783	-	741		putative two-component system response regulator	GV22	clust_0500
+GV23|SEQ00554	VBIGarVag276017_0554	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973466	14228	14974	+	747		putative two-component system response regulator	GV23	clust_0500
+GV24|SEQ00883	VBIGarVag268944_0884	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183976988	22184	22924	+	741		putative two-component system response regulator	GV24	clust_0500
+GV25|SEQ00528	VBIGarVag270495_0528	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978992	13711	14457	+	747		putative two-component system response regulator	GV25	clust_0500
+GV26|SEQ01211	VBIGarVag272749_1211	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983366	27872	28618	-	747		putative two-component system response regulator	GV26	clust_0500
+GV27|SEQ00222	VBIGarVag276930_0222	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984171	13661	14407	+	747		putative two-component system response regulator	GV27	clust_0500
+GV28|SEQ00074	VBIGarVag271349_0074	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986800	26335	27081	-	747		putative two-component system response regulator	GV28	clust_0500
+GV29|SEQ00510	VBIGarVag265473_0510	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990432	26100	26846	-	747		putative two-component system response regulator	GV29	clust_0500
+GV30|SEQ00973	VBIGarVag267667_0975	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994142	12849	13589	+	741		putative two-component system response regulator	GV30	clust_0500
+GV31|SEQ00058	VBIGarVag264983_0058	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995137	26495	27241	-	747		putative two-component system response regulator	GV31	clust_0500
+GV32|SEQ00692	VBIGarVag277040_0692	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999302	14461	15207	+	747		putative two-component system response regulator	GV32	clust_0500
+GV33|SEQ00390	VBIGarVag265557_0390	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001502	5797	6549	+	753		putative two-component system response regulator	GV33	clust_0500
+GV34|SEQ00067	VBIGarVag270440_0067	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003626	13196	13948	+	753		putative two-component system response regulator	GV34	clust_0500
+GV35|SEQ01013	VBIGarVag272169_1013	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008511	12525	13271	+	747		putative two-component system response regulator	GV35	clust_0500
+INF1|SEQ00654	VBIBifLon182273_0654	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885258	803082	803804	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	INF1	clust_0500
+LON1|SEQ00702	VBIBifLon107831_0703	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118475	820571	821293	+	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	LON1	clust_0500
+LON2|SEQ00768	VBIBifLon171405_0769	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581076	861566	862288	+	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	LON2	clust_0500
+LON3|SEQ00573	VBIBifLon156230_0573	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768113	1436184	1436906	+	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	LON3	clust_0500
+LON4|SEQ00646	VBIBifLon48544_0646	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889543	781675	782397	-	723		Response regulator receiver:Transcriptional regulatory protein, C-terminal	LON4	clust_0500
+THE1|SEQ00861	VBIBifThe274299_0861	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734909	1073100	1073855	-	756		Response regulator receiver:Transcriptional regulatory protein, C-terminal	THE1	clust_0500

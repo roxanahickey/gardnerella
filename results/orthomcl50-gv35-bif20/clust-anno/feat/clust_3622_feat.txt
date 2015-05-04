@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01375	VBIBifAni240121_1375	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847757	1624321	1625205	-	885	rfbN	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	ANI1	clust_3622
+ANI2|SEQ01375	VBIBifAni235968_1375	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851110	1624539	1625423	-	885	rfbN	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	ANI2	clust_3622
+ANI3|SEQ01385	VBIBifAni108068_1385	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765130	1629770	1630654	-	885		O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	ANI3	clust_3622

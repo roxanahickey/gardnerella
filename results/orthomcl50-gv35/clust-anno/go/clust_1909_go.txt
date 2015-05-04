@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV10|SEQ00872	32147818	VBIGarVag136958_0872	SEQ00872	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Translation elongation factor Ts	GO:0003746	translation elongation factor activity	go	clust_1909
+GV10|SEQ00872	32147818	VBIGarVag136958_0872	SEQ00872	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Translation elongation factor Ts	GO:0006414	translational elongation	go	clust_1909

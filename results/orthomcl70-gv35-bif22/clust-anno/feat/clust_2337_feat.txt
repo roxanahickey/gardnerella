@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01373	VBIBifBre340958_1374	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604763	1617253	1618371	-	1119		Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	BRE1	clust_2337
+BRE3|SEQ00159	VBIBifBre167886_0159	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191964	206462	207580	+	1119	potA	Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	BRE3	clust_2337
+BRE6|SEQ00368	VBIBifBre268992_0368	Bifidobacterium breve JCP7499	AWSX01000019	PATRIC	CDS	177653859	1609	2727	-	1119		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE6	clust_2337
+BRE6|SEQ01424	VBIBifBre268992_1424	Bifidobacterium breve JCP7499	AWSX01000070	PATRIC	CDS	177656100	3430	4548	+	1119		Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	BRE6	clust_2337
+BRE9|SEQ00168	VBIBifBre30019_0168	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444366	222267	223385	+	1119		"Sulfate and thiosulfate import ATP-binding protein CysA "	BRE9	clust_2337
+GV06|SEQ00381	VBIGarVag244004_0381	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489505	48501	49661	-	1161		Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	GV06	clust_2337
+GV30|SEQ00003	VBIGarVag267667_0003	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992042	2155	3315	-	1161		Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)	GV30	clust_2337

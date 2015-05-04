@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+INF1|SEQ00892	46885763	VBIBifLon182273_0892	SEQ00892	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3956
+LON3|SEQ01217	42769031	VBIBifLon156230_1219	SEQ01217	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		WhiB-type transcriptional regulator	FIG00068527	figfam	clust_3956

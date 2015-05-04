@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00377	VBIBifAdo136061_0377	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187015	194823	196670	+	1848		hypothetical protein	ADO1	clust_2178
+ANI1|SEQ00145	VBIBifAni240121_0145	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845191	168306	170003	-	1698		hypothetical protein	ANI1	clust_2178
+ANI2|SEQ00145	VBIBifAni235968_0145	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848546	168306	170003	-	1698		hypothetical protein	ANI2	clust_2178
+ANI3|SEQ00147	VBIBifAni108068_0147	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762562	168306	170003	-	1698		hypothetical protein	ANI3	clust_2178
+BRE3|SEQ01241	VBIBifBre167886_1241	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194218	1449000	1450904	+	1905		sialic acid-specific 9-O-acetylesterase	BRE3	clust_2178
+BRE5|SEQ00589	VBIBifBre336369_0590	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615300	703170	705074	-	1905		sialic acid-specific 9-O-acetylesterase	BRE5	clust_2178
+DEN1|SEQ00575	VBIBifDen165269_0576	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462444	2013073	2014875	-	1803		hypothetical protein	DEN1	clust_2178
+DEN2|SEQ01613	VBIBifDen39005_1614	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111618	85553	87355	-	1803		hypothetical protein	DEN2	clust_2178
+THE1|SEQ00120	VBIBifThe274299_0120	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733403	139175	139561	-	387		hypothetical protein	THE1	clust_2178

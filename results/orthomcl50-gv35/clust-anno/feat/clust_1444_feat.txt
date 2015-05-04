@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00767	VBIGarVag136958_0767	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147604	994984	996636	+	1653		Site-specific recombinase	GV10	clust_1444
+GV13|SEQ00773	VBIGarVag244533_0773	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487538	238738	239625	-	888		Site-specific recombinase	GV13	clust_1444
+GV13|SEQ00774	VBIGarVag244533_0774	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487540	239627	240391	-	765		Site-specific recombinase	GV13	clust_1444
+GV21|SEQ00469	VBIGarVag274454_0470	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967607	14515	16167	-	1653		Site-specific recombinase	GV21	clust_1444
+GV28|SEQ00524	VBIGarVag271349_0524	Gardnerella vaginalis JCP8066	ATJL01000034	PATRIC	CDS	183987754	4223	5875	+	1653		Site-specific recombinase	GV28	clust_1444
+GV33|SEQ00182	VBIGarVag265557_0182	Gardnerella vaginalis JCP8481A	ATJG01000016	PATRIC	CDS	184001054	121	1773	-	1653		Site-specific recombinase	GV33	clust_1444
+GV34|SEQ01159	VBIGarVag270440_1159	Gardnerella vaginalis JCP8481B	ATJF01000129	PATRIC	CDS	184006025	12480	14132	+	1653		Site-specific recombinase	GV34	clust_1444

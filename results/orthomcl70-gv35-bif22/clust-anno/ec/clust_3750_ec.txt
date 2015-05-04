@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+ANI1|SEQ01375	86847757	VBIBifAni240121_1375	SEQ01375	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3750
+ANI2|SEQ01375	86851110	VBIBifAni235968_1375	SEQ01375	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3750
+ANI3|SEQ01385	42765130	VBIBifAni108068_1385	SEQ01385	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3750

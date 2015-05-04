@@ -1,0 +1,23 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00540	27187352	VBIBifAdo136061_0540	SEQ00540	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+ANI1|SEQ00293	86845494	VBIBifAni240121_0293	SEQ00293	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+ANI2|SEQ00292	86848847	VBIBifAni235968_0292	SEQ00292	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+ANI3|SEQ00293	42762860	VBIBifAni108068_0293	SEQ00293	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BIF1|SEQ00327	86883181	VBIBifBif87902_0327	SEQ00327	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE1|SEQ00345	268602634	VBIBifBre340958_0345	SEQ00345	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE2|SEQ00406	268606732	VBIBifBre337368_0406	SEQ00406	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE3|SEQ00404	54192476	VBIBifBre167886_0404	SEQ00404	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE4|SEQ00355	268610772	VBIBifBre327712_0355	SEQ00355	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE5|SEQ00382	268614875	VBIBifBre336369_0383	SEQ00382	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE6|SEQ00858	177654901	VBIBifBre268992_0858	SEQ00858	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE7|SEQ00378	268619174	VBIBifBre340732_0378	SEQ00378	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE8|SEQ00409	268623350	VBIBifBre176493_0409	SEQ00409	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+BRE9|SEQ00445	58444947	VBIBifBre30019_0445	SEQ00445	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+DEN1|SEQ00371	43462029	VBIBifDen165269_0372	SEQ00371	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+DEN2|SEQ02147	42112734	VBIBifDen39005_2149	SEQ02147	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+INF1|SEQ00339	46884610	VBIBifLon182273_0339	SEQ00339	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+LON1|SEQ01016	21119113	VBIBifLon107831_1017	SEQ01016	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+LON2|SEQ01072	42581695	VBIBifLon171405_1074	SEQ01072	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+LON3|SEQ00881	42768741	VBIBifLon156230_0882	SEQ00881	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+LON4|SEQ00344	46888922	VBIBifLon48544_0344	SEQ00344	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193
+THE1|SEQ00318	124733806	VBIBifThe274299_0318	SEQ00318	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Transporter	FIG00450284	figfam	clust_1193

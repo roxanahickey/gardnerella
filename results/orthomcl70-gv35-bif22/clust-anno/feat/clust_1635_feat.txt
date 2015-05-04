@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00862	VBIBifAni240121_0862	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846696	1001231	1001575	+	345		Transcriptional regulator, HxlR family	ANI1	clust_1635
+ANI2|SEQ00861	VBIBifAni235968_0861	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850047	1001234	1001578	+	345		Transcriptional regulator, HxlR family	ANI2	clust_1635
+ANI3|SEQ00864	VBIBifAni108068_0864	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764061	1001236	1001580	+	345		Transcriptional regulator, HxlR family	ANI3	clust_1635
+BRE2|SEQ00188	VBIBifBre337368_0188	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606279	239798	240157	-	360		Transcriptional regulator, HxlR family	BRE2	clust_1635
+BRE3|SEQ00207	VBIBifBre167886_0207	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192066	263776	264135	-	360	hxlR	Transcriptional regulator, HxlR family	BRE3	clust_1635
+BRE5|SEQ02038	VBIBifBre336369_2039	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618312	2316103	2316258	-	156		Transcriptional regulator, HxlR family	BRE5	clust_1635
+BRE6|SEQ00149	VBIBifBre268992_0149	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653402	4576	4935	+	360		Transcriptional regulator, HxlR family	BRE6	clust_1635
+BRE7|SEQ00184	VBIBifBre340732_0184	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618771	235390	235749	-	360		Transcriptional regulator, HxlR family	BRE7	clust_1635
+BRE8|SEQ00210	VBIBifBre176493_0210	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622936	266857	267216	-	360		Transcriptional regulator, HxlR family	BRE8	clust_1635
+BRE9|SEQ00217	VBIBifBre30019_0217	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444470	279593	279952	-	360		Transcriptional regulator, HxlR family	BRE9	clust_1635
+DEN1|SEQ00637	VBIBifDen165269_0638	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462572	2094446	2094769	-	324		Transcriptional regulator, HxlR family	DEN1	clust_1635
+DEN2|SEQ01679	VBIBifDen39005_1680	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111754	166929	167252	-	324	hxlR	Transcriptional regulator, HxlR family	DEN2	clust_1635
+LON1|SEQ01201	VBIBifLon107831_1202	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119501	1412020	1412316	+	297		Transcriptional regulator, HxlR family	LON1	clust_1635
+LON4|SEQ00183	VBIBifLon48544_0183	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888582	226648	227007	-	360		Transcriptional regulator, HxlR family	LON4	clust_1635
+THE1|SEQ01650	VBIBifThe274299_1650	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736567	2048555	2048911	-	357		Transcriptional regulator, HxlR family	THE1	clust_1635

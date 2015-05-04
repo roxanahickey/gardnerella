@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01124	VBIGarVag247323_1124	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496450	132984	133730	-	747		putative two-component system response regulator	GV01	clust_0638
+GV02|SEQ00313	VBIGarVag242669_0313	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497401	115708	116454	+	747		putative two-component system response regulator	GV02	clust_0638
+GV03|SEQ00652	VBIGarVag247424_0652	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500728	11253	12005	+	753		putative two-component system response regulator	GV03	clust_0638
+GV04|SEQ00851	VBIGarVag246433_0851	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481601	189404	190144	-	741		putative two-component system response regulator	GV04	clust_0638
+GV05|SEQ00780	VBIGarVag174900_0780	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547319	414120	414872	-	753		putative two-component system response regulator	GV05	clust_0638
+GV06|SEQ00077	VBIGarVag244004_0077	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488859	84730	85470	-	741		putative two-component system response regulator	GV06	clust_0638
+GV07|SEQ00539	VBIGarVag249177_0539	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492720	1271	2023	-	753		putative two-component system response regulator	GV07	clust_0638
+GV08|SEQ00684	VBIGarVag251521_0684	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475794	33951	34691	+	741		putative two-component system response regulator	GV08	clust_0638
+GV09|SEQ00710	VBIGarVag169280_0710	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260615	58317	59057	-	741	phoP	putative two-component system response regulator	GV09	clust_0638
+GV10|SEQ00524	VBIGarVag136958_0524	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147100	653012	653764	-	753		putative two-component system response regulator	GV10	clust_0638
+GV11|SEQ00961	VBIGarVag171052_0961	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550302	41910	42650	+	741		putative two-component system response regulator	GV11	clust_0638
+GV12|SEQ01102	VBIGarVag144721_1102	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854941	101543	102295	-	753		putative two-component system response regulator	GV12	clust_0638
+GV13|SEQ00873	VBIGarVag244533_0873	Gardnerella vaginalis 55152	ADEQ01000011	PATRIC	CDS	85487747	3114	3854	+	741		putative two-component system response regulator	GV13	clust_0638
+GV14|SEQ00243	VBIGarVag244375_0243	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502321	39122	39874	-	753		putative two-component system response regulator	GV14	clust_0638
+GV15|SEQ01112	VBIGarVag249709_1112	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485825	3182	3934	+	753		putative two-component system response regulator	GV15	clust_0638
+GV16|SEQ00647	VBIGarVag246379_0647	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478443	704430	705170	-	741		putative two-component system response regulator	GV16	clust_0638
+GV17|SEQ01028	VBIGarVag146634_1028	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852150	191510	192262	+	753		putative two-component system response regulator	GV17	clust_0638
+GV18|SEQ00743	VBIGarVag4823_0743	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000124	PATRIC	CDS	42070275	13492	14232	+	741		putative two-component system response regulator	GV18	clust_0638
+GV19|SEQ00979	VBIGarVag39333_0980	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628869	1211847	1212584	+	738		putative two-component system response regulator	GV19	clust_0638
+GV20|SEQ00578	VBIGarVag188338_0578	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189970	689750	690490	-	741	phoP_1	putative two-component system response regulator	GV20	clust_0638
+GV21|SEQ00437	VBIGarVag274454_0438	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967541	28667	29407	-	741		putative two-component system response regulator	GV21	clust_0638
+GV22|SEQ00340	VBIGarVag276801_0341	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970097	59043	59783	-	741		putative two-component system response regulator	GV22	clust_0638
+GV23|SEQ00554	VBIGarVag276017_0554	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973466	14228	14974	+	747		putative two-component system response regulator	GV23	clust_0638
+GV24|SEQ00883	VBIGarVag268944_0884	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183976988	22184	22924	+	741		putative two-component system response regulator	GV24	clust_0638
+GV25|SEQ00528	VBIGarVag270495_0528	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978992	13711	14457	+	747		putative two-component system response regulator	GV25	clust_0638
+GV26|SEQ01211	VBIGarVag272749_1211	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983366	27872	28618	-	747		putative two-component system response regulator	GV26	clust_0638
+GV27|SEQ00222	VBIGarVag276930_0222	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984171	13661	14407	+	747		putative two-component system response regulator	GV27	clust_0638
+GV28|SEQ00074	VBIGarVag271349_0074	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986800	26335	27081	-	747		putative two-component system response regulator	GV28	clust_0638
+GV29|SEQ00510	VBIGarVag265473_0510	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990432	26100	26846	-	747		putative two-component system response regulator	GV29	clust_0638
+GV30|SEQ00973	VBIGarVag267667_0975	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994142	12849	13589	+	741		putative two-component system response regulator	GV30	clust_0638
+GV31|SEQ00058	VBIGarVag264983_0058	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995137	26495	27241	-	747		putative two-component system response regulator	GV31	clust_0638
+GV32|SEQ00692	VBIGarVag277040_0692	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999302	14461	15207	+	747		putative two-component system response regulator	GV32	clust_0638
+GV33|SEQ00390	VBIGarVag265557_0390	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001502	5797	6549	+	753		putative two-component system response regulator	GV33	clust_0638
+GV34|SEQ00067	VBIGarVag270440_0067	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003626	13196	13948	+	753		putative two-component system response regulator	GV34	clust_0638
+GV35|SEQ01013	VBIGarVag272169_1013	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008511	12525	13271	+	747		putative two-component system response regulator	GV35	clust_0638

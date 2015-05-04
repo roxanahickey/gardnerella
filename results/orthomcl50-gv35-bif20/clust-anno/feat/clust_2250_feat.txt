@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00289	VBIGarVag244004_0289	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489300	64679	65056	-	378		Death on curing protein, Doc toxin	GV06	clust_2250
+GV07|SEQ00708	VBIGarVag249177_0708	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493068	86948	87325	+	378		Death on curing protein, Doc toxin	GV07	clust_2250
+GV11|SEQ00100	VBIGarVag171052_0100	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548468	4568	4945	+	378		Death on curing protein, Doc toxin	GV11	clust_2250
+GV13|SEQ00211	VBIGarVag244533_0211	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486365	15806	16183	-	378		Death on curing protein, Doc toxin	GV13	clust_2250
+GV17|SEQ00085	VBIGarVag146634_0085	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850167	17153	17530	+	378		Death on curing protein, Doc toxin	GV17	clust_2250
+GV30|SEQ00243	VBIGarVag267667_0243	Gardnerella vaginalis JCP8108	ATJJ01000008	PATRIC	CDS	183992539	7690	8067	+	378		Death on curing protein, Doc toxin	GV30	clust_2250
+GV33|SEQ00996	VBIGarVag265557_0996	Gardnerella vaginalis JCP8481A	ATJG01000120	PATRIC	CDS	184002842	3307	3684	-	378		Death on curing protein, Doc toxin	GV33	clust_2250
+GV34|SEQ00924	VBIGarVag270440_0924	Gardnerella vaginalis JCP8481B	ATJF01000103	PATRIC	CDS	184005508	5458	5835	+	378		Death on curing protein, Doc toxin	GV34	clust_2250

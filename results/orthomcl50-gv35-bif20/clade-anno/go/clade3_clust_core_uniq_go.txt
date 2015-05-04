@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE1|SEQ00247	268602432	VBIBifBre340958_0247	SEQ00247	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	NA	Alpha-galactosidase (EC 3.2.1.22)	GO:0004557	alpha-galactosidase activity	go	clust_2202
+BRE6|SEQ00353	177653828	VBIBifBre268992_0353	SEQ00353	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	NA	Alpha-galactosidase (EC 3.2.1.22)	GO:0004557	alpha-galactosidase activity	go	clust_2202

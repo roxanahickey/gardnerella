@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01426	86847863	VBIBifAni240121_1426	SEQ01426	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2508
+ANI2|SEQ01425	86851214	VBIBifAni235968_1425	SEQ01425	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2508
+ANI3|SEQ01435	42765234	VBIBifAni108068_1435	SEQ01435	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2508
+GV21|SEQ00612	183967912	VBIGarVag274454_0613	SEQ00612	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000037	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2508
+LON4|SEQ01082	46890485	VBIBifLon48544_1082	SEQ01082	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2508

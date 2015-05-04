@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV31|SEQ00886	VBIGarVag264983_0886	Gardnerella vaginalis JCP8151A	ATJI01000058	PATRIC	CDS	183996908	37058	37231	-	174		ABC-type amino acid transport system, permease component	GV31	clust_5240
+GV32|SEQ00391	VBIGarVag277040_0391	Gardnerella vaginalis JCP8151B	ATJH01000019	PATRIC	CDS	183998647	18585	18758	-	174		ABC-type amino acid transport system, permease component	GV32	clust_5240

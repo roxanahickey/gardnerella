@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01550	VBIBifAdo136061_1550	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189470	12958	13641	-	684		hypothetical protein	ADO1	clust_3184
+THE1|SEQ01604	VBIBifThe274299_1604	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736471	1992883	1993560	+	678		hypothetical protein	THE1	clust_3184
+THE1|SEQ01611	VBIBifThe274299_1611	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736485	2000567	2001244	+	678		hypothetical protein	THE1	clust_3184

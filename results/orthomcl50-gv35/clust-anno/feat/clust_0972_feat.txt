@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01153	VBIGarVag247323_1153	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496508	168749	169045	+	297		Plasmid stabilization system antitoxin protein	GV01	clust_0972
+GV02|SEQ00292	VBIGarVag242669_0292	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497359	91010	91306	-	297		Plasmid stabilization system antitoxin protein	GV02	clust_0972
+GV03|SEQ00716	VBIGarVag247424_0716	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500856	89035	89340	-	306		Plasmid stabilization system antitoxin protein	GV03	clust_0972
+GV05|SEQ00725	VBIGarVag174900_0725	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547209	341177	341482	+	306		Plasmid stabilization system antitoxin protein	GV05	clust_0972
+GV06|SEQ00007	VBIGarVag244004_0007	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488719	7100	7396	+	297		Plasmid stabilization system antitoxin protein	GV06	clust_0972
+GV09|SEQ00189	VBIGarVag169280_0189	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259541	6866	7162	-	297		Plasmid stabilization system antitoxin protein	GV09	clust_0972
+GV10|SEQ00460	VBIGarVag136958_0460	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146972	559651	559947	+	297		Plasmid stabilization system antitoxin protein	GV10	clust_0972
+GV11|SEQ00301	VBIGarVag171052_0301	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548903	1472	1777	-	306		Plasmid stabilization system antitoxin protein	GV11	clust_0972
+GV11|SEQ01028	VBIGarVag171052_1028	Gardnerella vaginalis 41V	AEJE01000059	PATRIC	CDS	52550439	2484	2780	+	297		Plasmid stabilization system antitoxin protein	GV11	clust_0972
+GV12|SEQ01032	VBIGarVag144721_1032	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854801	6080	6376	+	297		Plasmid stabilization system antitoxin protein	GV12	clust_0972
+GV13|SEQ00410	VBIGarVag244533_0410	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486780	1328	1633	-	306		Plasmid stabilization system antitoxin protein	GV13	clust_0972
+GV14|SEQ00479	VBIGarVag244375_0479	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502815	115774	116070	+	297		Plasmid stabilization system antitoxin protein	GV14	clust_0972
+GV17|SEQ00082	VBIGarVag146634_0082	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850161	14875	15180	-	306		Plasmid stabilization system antitoxin protein	GV17	clust_0972
+GV21|SEQ00567	VBIGarVag274454_0568	Gardnerella vaginalis JCP7275	ATJS01000030	PATRIC	CDS	183967813	7312	7608	-	297		Plasmid stabilization system antitoxin protein	GV21	clust_0972
+GV23|SEQ00159	VBIGarVag276017_0159	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972619	10683	10979	-	297		Plasmid stabilization system antitoxin protein	GV23	clust_0972
+GV25|SEQ00407	VBIGarVag270495_0407	Gardnerella vaginalis JCP7719	ATJO01000029	PATRIC	CDS	183978728	172	468	+	297		Plasmid stabilization system antitoxin protein	GV25	clust_0972
+GV26|SEQ00707	VBIGarVag272749_0707	Gardnerella vaginalis JCP8017A	ATJN01000034	PATRIC	CDS	183982219	10231	10527	-	297		Plasmid stabilization system antitoxin protein	GV26	clust_0972
+GV27|SEQ00591	VBIGarVag276930_0591	Gardnerella vaginalis JCP8017B	ATJM01000024	PATRIC	CDS	183984952	10229	10525	-	297		Plasmid stabilization system antitoxin protein	GV27	clust_0972
+GV28|SEQ00670	VBIGarVag271349_0670	Gardnerella vaginalis JCP8066	ATJL01000050	PATRIC	CDS	183988076	186	482	-	297		Plasmid stabilization system antitoxin protein	GV28	clust_0972
+GV29|SEQ00606	VBIGarVag265473_0606	Gardnerella vaginalis JCP8070	ATJK01000035	PATRIC	CDS	183990641	1280	1576	-	297		Plasmid stabilization system antitoxin protein	GV29	clust_0972
+GV30|SEQ00436	VBIGarVag267667_0437	Gardnerella vaginalis JCP8108	ATJJ01000021	PATRIC	CDS	183992952	391	696	-	306		Plasmid stabilization system antitoxin protein	GV30	clust_0972
+GV31|SEQ00919	VBIGarVag264983_0919	Gardnerella vaginalis JCP8151A	ATJI01000065	PATRIC	CDS	183996981	86	382	-	297		Plasmid stabilization system antitoxin protein	GV31	clust_0972
+GV32|SEQ00102	VBIGarVag277040_0102	Gardnerella vaginalis JCP8151B	ATJH01000006	PATRIC	CDS	183998038	4109	4405	+	297		Plasmid stabilization system antitoxin protein	GV32	clust_0972
+GV33|SEQ00429	VBIGarVag265557_0429	Gardnerella vaginalis JCP8481A	ATJG01000037	PATRIC	CDS	184001583	195	491	-	297		Plasmid stabilization system antitoxin protein	GV33	clust_0972
+GV34|SEQ00430	VBIGarVag270440_0430	Gardnerella vaginalis JCP8481B	ATJF01000031	PATRIC	CDS	184004424	387	683	+	297		Plasmid stabilization system antitoxin protein	GV34	clust_0972

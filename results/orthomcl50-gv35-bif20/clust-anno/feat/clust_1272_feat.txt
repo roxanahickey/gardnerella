@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00936	VBIBifAdo136061_0936	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188186	842827	843498	-	672		probable methyltransferase	ADO1	clust_1272
+ANI1|SEQ01059	VBIBifAni240121_1059	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847100	1227632	1228303	+	672		probable methyltransferase	ANI1	clust_1272
+ANI2|SEQ01059	VBIBifAni235968_1059	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850453	1227636	1228307	+	672		probable methyltransferase	ANI2	clust_1272
+ANI3|SEQ01063	VBIBifAni108068_1063	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764467	1227637	1228308	+	672		probable methyltransferase	ANI3	clust_1272
+BIF1|SEQ01141	VBIBifBif87902_1141	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884850	1369880	1370551	+	672	mdmC	probable methyltransferase	BIF1	clust_1272
+BRE1|SEQ00762	VBIBifBre340958_0762	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603508	917935	918600	-	666		probable methyltransferase	BRE1	clust_1272
+BRE2|SEQ00859	VBIBifBre337368_0859	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607674	1014793	1015458	-	666		probable methyltransferase	BRE2	clust_1272
+BRE3|SEQ01026	VBIBifBre167886_1026	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193764	1204601	1205266	+	666		probable methyltransferase	BRE3	clust_1272
+BRE4|SEQ00791	VBIBifBre327712_0791	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611681	956407	957072	-	666		probable methyltransferase	BRE4	clust_1272
+BRE5|SEQ00804	VBIBifBre336369_0805	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615753	949463	950128	-	666		probable methyltransferase	BRE5	clust_1272
+BRE6|SEQ01616	VBIBifBre268992_1616	Bifidobacterium breve JCP7499	AWSX01000075	PATRIC	CDS	177656504	7279	7944	+	666		probable methyltransferase	BRE6	clust_1272
+BRE7|SEQ00794	VBIBifBre340732_0794	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620044	948489	949154	-	666		probable methyltransferase	BRE7	clust_1272
+BRE8|SEQ00817	VBIBifBre176493_0817	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624199	991604	992269	-	666	safC	probable methyltransferase	BRE8	clust_1272
+BRE9|SEQ00867	VBIBifBre30019_0867	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445828	1036952	1037617	-	666	safC	probable methyltransferase	BRE9	clust_1272
+INF1|SEQ00728	VBIBifLon182273_0728	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885425	891182	891862	-	681		probable methyltransferase	INF1	clust_1272
+LON1|SEQ00641	VBIBifLon107831_0642	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118339	743805	744470	+	666	safC	probable methyltransferase	LON1	clust_1272
+LON2|SEQ00705	VBIBifLon171405_0706	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580936	781965	782678	+	714		probable methyltransferase	LON2	clust_1272
+LON3|SEQ00514	VBIBifLon156230_0514	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767980	1361401	1362114	+	714		probable methyltransferase	LON3	clust_1272
+LON4|SEQ00706	VBIBifLon48544_0706	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889682	856168	856881	-	714		probable methyltransferase	LON4	clust_1272
+THE1|SEQ00774	VBIBifThe274299_0774	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734731	973777	974463	-	687		probable methyltransferase	THE1	clust_1272

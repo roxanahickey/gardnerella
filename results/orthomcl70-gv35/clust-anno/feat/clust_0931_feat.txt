@@ -1,0 +1,29 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00702	VBIGarVag247323_0702	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495563	134126	135385	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV01	clust_0931
+GV02|SEQ00186	VBIGarVag242669_0186	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497140	168844	170103	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV02	clust_0931
+GV03|SEQ00101	VBIGarVag247424_0101	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499570	16616	17875	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV03	clust_0931
+GV04|SEQ00296	VBIGarVag246433_0296	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480454	187913	189172	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV04	clust_0931
+GV05|SEQ00203	VBIGarVag174900_0203	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546116	16626	17885	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV05	clust_0931
+GV06|SEQ00425	VBIGarVag244004_0425	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489596	29841	31100	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV06	clust_0931
+GV07|SEQ00160	VBIGarVag249177_0160	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491909	188628	189887	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV07	clust_0931
+GV08|SEQ00944	VBIGarVag251521_0944	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476325	22160	23419	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV08	clust_0931
+GV09|SEQ00158	VBIGarVag169280_0158	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259469	137249	138508	+	1260	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV09	clust_0931
+GV11|SEQ00439	VBIGarVag171052_0439	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549195	24299	25558	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV11	clust_0931
+GV13|SEQ00041	VBIGarVag244533_0041	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486012	30189	31448	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV13	clust_0931
+GV14|SEQ00657	VBIGarVag244375_0657	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503186	182771	184030	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV14	clust_0931
+GV16|SEQ00112	VBIGarVag246379_0112	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477332	28850	30109	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV16	clust_0931
+GV18|SEQ00260	VBIGarVag4823_0260	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000075	PATRIC	CDS	42069224	6003	7262	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV18	clust_0931
+GV19|SEQ00175	VBIGarVag39333_0175	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627195	204683	205942	+	1260	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV19	clust_0931
+GV20|SEQ00056	VBIGarVag188338_0056	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188888	67585	68844	+	1260	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV20	clust_0931
+GV21|SEQ01135	VBIGarVag274454_1136	Gardnerella vaginalis JCP7275	ATJS01000152	PATRIC	CDS	183969133	1808	3067	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV21	clust_0931
+GV22|SEQ00985	VBIGarVag276801_0986	Gardnerella vaginalis JCP7276	ATJR01000068	PATRIC	CDS	183971479	451	1710	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV22	clust_0931
+GV23|SEQ01105	VBIGarVag276017_1105	Gardnerella vaginalis JCP7659	ATJQ01000127	PATRIC	CDS	183974690	9974	11233	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV23	clust_0931
+GV24|SEQ00102	VBIGarVag268944_0103	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975304	104720	105979	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV24	clust_0931
+GV25|SEQ00882	VBIGarVag270495_0882	Gardnerella vaginalis JCP7719	ATJO01000079	PATRIC	CDS	183979750	62	298	+	237		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV25	clust_0931
+GV26|SEQ00801	VBIGarVag272749_0801	Gardnerella vaginalis JCP8017A	ATJN01000043	PATRIC	CDS	183982430	8077	9336	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV26	clust_0931
+GV27|SEQ00547	VBIGarVag276930_0547	Gardnerella vaginalis JCP8017B	ATJM01000018	PATRIC	CDS	183984852	8075	9334	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV27	clust_0931
+GV28|SEQ01064	VBIGarVag271349_1064	Gardnerella vaginalis JCP8066	ATJL01000134	PATRIC	CDS	183988976	8092	9351	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV28	clust_0931
+GV29|SEQ00987	VBIGarVag265473_0987	Gardnerella vaginalis JCP8070	ATJK01000085	PATRIC	CDS	183991479	2720	3451	-	732		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV29	clust_0931
+GV30|SEQ00551	VBIGarVag267667_0552	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993206	4233	5492	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV30	clust_0931
+GV31|SEQ01089	VBIGarVag264983_1089	Gardnerella vaginalis JCP8151A	ATJI01000105	PATRIC	CDS	183997377	2693	3952	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV31	clust_0931
+GV32|SEQ01254	VBIGarVag277040_1254	Gardnerella vaginalis JCP8151B	ATJH01000171	PATRIC	CDS	184000596	4102	5361	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV32	clust_0931

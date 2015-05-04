@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00048	VBIBifAdo136061_0048	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186288	47956	50391	-	2436		Beta-glucosidase (EC 3.2.1.21)	ADO1	clust_2001
+BRE2|SEQ01969	VBIBifBre337368_1969	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609980	2299443	2301944	-	2502		Beta-glucosidase (EC 3.2.1.21)	BRE2	clust_2001
+BRE3|SEQ01950	VBIBifBre167886_1950	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195697	2295331	2297832	-	2502		Beta-glucosidase (EC 3.2.1.21)	BRE3	clust_2001
+BRE4|SEQ01922	VBIBifBre327712_1922	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614029	2256736	2259237	-	2502		Beta-glucosidase (EC 3.2.1.21)	BRE4	clust_2001
+BRE6|SEQ01504	VBIBifBre268992_1504	Bifidobacterium breve JCP7499	AWSX01000071	PATRIC	CDS	177656266	12727	15228	-	2502		Beta-glucosidase (EC 3.2.1.21)	BRE6	clust_2001
+BRE7|SEQ01957	VBIBifBre340732_1957	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622454	2284229	2286730	-	2502		Beta-glucosidase (EC 3.2.1.21)	BRE7	clust_2001
+BRE8|SEQ01926	VBIBifBre176493_1926	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626511	2262795	2265296	-	2502	bgl4	Beta-glucosidase (EC 3.2.1.21)	BRE8	clust_2001
+BRE9|SEQ02048	VBIBifBre30019_2048	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448276	2390438	2392939	-	2502	bgl4	Beta-glucosidase (EC 3.2.1.21)	BRE9	clust_2001
+INF1|SEQ02008	VBIBifLon182273_2008	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888089	2353736	2355397	-	1662		Beta-glucosidase (EC 3.2.1.21)	INF1	clust_2001
+LON3|SEQ01522	VBIBifLon156230_1525	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769665	2323050	2324711	+	1662		Beta-glucosidase (EC 3.2.1.21)	LON3	clust_2001

@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00044	VBIGarVag247424_0044	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499451	62856	64646	+	1791		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV03	clust_1886
+GV05|SEQ01108	VBIGarVag174900_1108	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548004	65487	67277	-	1791		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV05	clust_1886
+GV07|SEQ00376	VBIGarVag249177_0376	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492375	37881	39671	+	1791		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV07	clust_1886
+GV10|SEQ01046	VBIGarVag136958_1046	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148180	1393954	1395585	-	1632		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV10	clust_1886
+GV12|SEQ00453	VBIGarVag144721_0453	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853585	502819	504678	-	1860		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV12	clust_1886
+GV14|SEQ00676	VBIGarVag244375_0676	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503232	5826	7616	-	1791		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV14	clust_1886
+GV15|SEQ01031	VBIGarVag249709_1031	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485644	246225	248021	-	1797		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV15	clust_1886
+GV17|SEQ01198	VBIGarVag146634_1198	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852497	183715	185511	-	1797		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV17	clust_1886
+GV33|SEQ01250	VBIGarVag265557_1250	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003446	11862	13670	-	1809		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV33	clust_1886
+GV34|SEQ00104	VBIGarVag270440_0104	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003701	11892	13700	-	1809		Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)	GV34	clust_1886
+THE1|SEQ01382	VBIBifThe274299_1382	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736002	1720585	1721550	-	966		hypothetical protein	THE1	clust_1886

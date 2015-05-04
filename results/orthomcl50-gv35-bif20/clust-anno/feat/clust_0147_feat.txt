@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00541	VBIGarVag247323_0541	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495227	290301	291137	-	837		Hydrolase, haloacid dehalogenase-like family	GV01	clust_0147
+GV02|SEQ00834	VBIGarVag242669_0834	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498510	55931	56767	+	837		Hydrolase, haloacid dehalogenase-like family	GV02	clust_0147
+GV03|SEQ00972	VBIGarVag247424_0972	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501390	328909	329745	-	837		Hydrolase, haloacid dehalogenase-like family	GV03	clust_0147
+GV04|SEQ00637	VBIGarVag246433_0637	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481167	54682	55518	-	837		Hydrolase, haloacid dehalogenase-like family	GV04	clust_0147
+GV05|SEQ01018	VBIGarVag174900_1018	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547817	741365	742204	-	840		Hydrolase, haloacid dehalogenase-like family	GV05	clust_0147
+GV06|SEQ00275	VBIGarVag244004_0275	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489272	51848	52684	+	837		Hydrolase, haloacid dehalogenase-like family	GV06	clust_0147
+GV07|SEQ00312	VBIGarVag249177_0312	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492241	121200	122039	+	840		Hydrolase, haloacid dehalogenase-like family	GV07	clust_0147
+GV08|SEQ00082	VBIGarVag251521_0082	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474529	94636	95472	-	837		Hydrolase, haloacid dehalogenase-like family	GV08	clust_0147
+GV09|SEQ00911	VBIGarVag169280_0911	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261029	314043	314879	-	837		Hydrolase, haloacid dehalogenase-like family	GV09	clust_0147
+GV10|SEQ00792	VBIGarVag136958_0792	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147656	1033506	1034333	-	828		Hydrolase, haloacid dehalogenase-like family	GV10	clust_0147
+GV11|SEQ00072	VBIGarVag171052_0072	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548409	1198	2034	-	837		Hydrolase, haloacid dehalogenase-like family	GV11	clust_0147
+GV12|SEQ00234	VBIGarVag144721_0234	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853131	191809	192252	-	444		Hydrolase, haloacid dehalogenase-like family	GV12	clust_0147
+GV13|SEQ00892	VBIGarVag244533_0892	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487787	4203	5039	-	837		Hydrolase, haloacid dehalogenase-like family	GV13	clust_0147
+GV14|SEQ01075	VBIGarVag244375_1075	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504061	154365	155270	-	906		Hydrolase, haloacid dehalogenase-like family	GV14	clust_0147
+GV15|SEQ00137	VBIGarVag249709_0137	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483765	63316	64143	-	828		Hydrolase, haloacid dehalogenase-like family	GV15	clust_0147
+GV16|SEQ00858	VBIGarVag246379_0858	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478877	964238	965074	-	837		Hydrolase, haloacid dehalogenase-like family	GV16	clust_0147
+GV17|SEQ00766	VBIGarVag146634_0766	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851604	80126	80953	+	828		Hydrolase, haloacid dehalogenase-like family	GV17	clust_0147
+GV18|SEQ01122	VBIGarVag4823_1122	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071074	13199	14035	+	837		Hydrolase, haloacid dehalogenase-like family	GV18	clust_0147
+GV19|SEQ00762	VBIGarVag39333_0763	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628422	949890	950726	+	837		Hydrolase, haloacid dehalogenase-like family	GV19	clust_0147
+GV20|SEQ00780	VBIGarVag188338_0780	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190389	947330	948166	-	837		Hydrolase, haloacid dehalogenase-like family	GV20	clust_0147
+GV21|SEQ00234	VBIGarVag274454_0234	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967116	1406	2242	-	837		Hydrolase, haloacid dehalogenase-like family	GV21	clust_0147
+GV22|SEQ00136	VBIGarVag276801_0136	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969661	177087	177923	+	837		Hydrolase, haloacid dehalogenase-like family	GV22	clust_0147
+GV23|SEQ00232	VBIGarVag276017_0232	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972768	55701	56537	+	837		Hydrolase, haloacid dehalogenase-like family	GV23	clust_0147
+GV24|SEQ00939	VBIGarVag268944_0940	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977105	2930	3766	-	837		Hydrolase, haloacid dehalogenase-like family	GV24	clust_0147
+GV25|SEQ00796	VBIGarVag270495_0796	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979563	118521	119360	+	840		Hydrolase, haloacid dehalogenase-like family	GV25	clust_0147
+GV26|SEQ01040	VBIGarVag272749_1040	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982960	55471	56310	+	840		Hydrolase, haloacid dehalogenase-like family	GV26	clust_0147
+GV27|SEQ01074	VBIGarVag276930_1074	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986008	1572	2411	-	840		Hydrolase, haloacid dehalogenase-like family	GV27	clust_0147
+GV28|SEQ00329	VBIGarVag271349_0329	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987325	114609	115448	+	840		Hydrolase, haloacid dehalogenase-like family	GV28	clust_0147
+GV29|SEQ00942	VBIGarVag265473_0942	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991377	111884	112672	+	789		Hydrolase, haloacid dehalogenase-like family	GV29	clust_0147
+GV30|SEQ01282	VBIGarVag267667_1284	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994837	43212	44048	+	837		Hydrolase, haloacid dehalogenase-like family	GV30	clust_0147
+GV31|SEQ00208	VBIGarVag264983_0208	Gardnerella vaginalis JCP8151A	ATJI01000010	PATRIC	CDS	183995456	3206	4045	-	840		Hydrolase, haloacid dehalogenase-like family	GV31	clust_0147
+GV32|SEQ00341	VBIGarVag277040_0341	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998534	188134	188973	+	840		Hydrolase, haloacid dehalogenase-like family	GV32	clust_0147
+GV33|SEQ01241	VBIGarVag265557_1241	Gardnerella vaginalis JCP8481A	ATJG01000194	PATRIC	CDS	184003427	2313	2444	-	132		Hydrolase, haloacid dehalogenase-like family	GV33	clust_0147
+GV34|SEQ01088	VBIGarVag270440_1088	Gardnerella vaginalis JCP8481B	ATJF01000120	PATRIC	CDS	184005870	2020	2847	+	828		Hydrolase, haloacid dehalogenase-like family	GV34	clust_0147
+GV35|SEQ00214	VBIGarVag272169_0214	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006711	124444	125232	+	789		Hydrolase, haloacid dehalogenase-like family	GV35	clust_0147
+ADO1|SEQ01123	VBIBifAdo136061_1123	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188571	35512	36360	+	849		Hydrolase, haloacid dehalogenase-like family	ADO1	clust_0147
+ANI1|SEQ00838	VBIBifAni240121_0838	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846647	973096	973926	-	831		Hydrolase, haloacid dehalogenase-like family	ANI1	clust_0147
+ANI2|SEQ00837	VBIBifAni235968_0837	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849998	973099	973929	-	831		Hydrolase, haloacid dehalogenase-like family	ANI2	clust_0147
+ANI3|SEQ00840	VBIBifAni108068_0840	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764012	973101	973931	-	831		Hydrolase, haloacid dehalogenase-like family	ANI3	clust_0147
+BIF1|SEQ00946	VBIBifBif87902_0946	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884454	1154730	1155566	-	837		Hydrolase, haloacid dehalogenase-like family	BIF1	clust_0147
+BRE1|SEQ00944	VBIBifBre340958_0944	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603875	1122196	1123047	+	852		Hydrolase, haloacid dehalogenase-like family	BRE1	clust_0147
+BRE2|SEQ01038	VBIBifBre337368_1038	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608037	1217682	1218533	+	852		Hydrolase, haloacid dehalogenase-like family	BRE2	clust_0147
+BRE3|SEQ00842	VBIBifBre167886_0842	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193392	1001397	1002248	-	852		Hydrolase, haloacid dehalogenase-like family	BRE3	clust_0147
+BRE4|SEQ01015	VBIBifBre327712_1015	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612146	1180608	1181459	-	852		Hydrolase, haloacid dehalogenase-like family	BRE4	clust_0147
+BRE5|SEQ01091	VBIBifBre336369_1092	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616340	1229399	1230250	+	852		Hydrolase, haloacid dehalogenase-like family	BRE5	clust_0147
+BRE6|SEQ01693	VBIBifBre268992_1693	Bifidobacterium breve JCP7499	AWSX01000077	PATRIC	CDS	177656676	26198	27049	+	852		Hydrolase, haloacid dehalogenase-like family	BRE6	clust_0147
+BRE7|SEQ00988	VBIBifBre340732_0988	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620438	1163177	1164028	+	852		Hydrolase, haloacid dehalogenase-like family	BRE7	clust_0147
+BRE8|SEQ01008	VBIBifBre176493_1008	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624586	1199770	1200621	+	852		Hydrolase, haloacid dehalogenase-like family	BRE8	clust_0147
+BRE9|SEQ01072	VBIBifBre30019_1072	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446244	1262892	1263743	+	852		Hydrolase, haloacid dehalogenase-like family	BRE9	clust_0147
+INF1|SEQ01122	VBIBifLon182273_1122	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886240	1257469	1258320	-	852		Hydrolase, haloacid dehalogenase-like family	INF1	clust_0147
+LON1|SEQ00410	VBIBifLon107831_0410	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117863	489112	489963	+	852		Hydrolase, haloacid dehalogenase-like family	LON1	clust_0147
+LON2|SEQ00416	VBIBifLon171405_0417	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580340	486369	487220	+	852		Hydrolase, haloacid dehalogenase-like family	LON2	clust_0147
+LON3|SEQ00273	VBIBifLon156230_0273	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767481	1101697	1102548	+	852		Hydrolase, haloacid dehalogenase-like family	LON3	clust_0147
+LON4|SEQ01145	VBIBifLon48544_1145	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890624	1285140	1285991	-	852		Hydrolase, haloacid dehalogenase-like family	LON4	clust_0147
+THE1|SEQ01065	VBIBifThe274299_1065	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735340	1325161	1326111	-	951		Hydrolase, haloacid dehalogenase-like family	THE1	clust_0147

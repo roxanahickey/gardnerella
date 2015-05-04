@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01110	VBIBifAni240121_1110	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847207	1296756	1297781	+	1026		COG family: dihydrodipicolinate reductase	ANI1	clust_2260
+ANI2|SEQ01110	VBIBifAni235968_1110	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850560	1296760	1297785	+	1026		COG family: dihydrodipicolinate reductase	ANI2	clust_2260
+ANI3|SEQ01116	VBIBifAni108068_1116	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764577	1296761	1297786	+	1026		COG family: dihydrodipicolinate reductase	ANI3	clust_2260
+INF1|SEQ00932	VBIBifLon182273_0932	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885843	1085022	1086047	+	1026		COG family: dihydrodipicolinate reductase	INF1	clust_2260
+LON1|SEQ00527	VBIBifLon107831_0528	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118109	616492	617517	-	1026		COG family: dihydrodipicolinate reductase	LON1	clust_2260
+LON2|SEQ00589	VBIBifLon171405_0590	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580702	653092	654117	-	1026		COG family: dihydrodipicolinate reductase	LON2	clust_2260
+LON3|SEQ00396	VBIBifLon156230_0396	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767742	1228282	1229307	-	1026		COG family: dihydrodipicolinate reductase	LON3	clust_2260
+LON4|SEQ00816	VBIBifLon48544_0816	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889905	978347	979372	+	1026		COG family: dihydrodipicolinate reductase	LON4	clust_2260

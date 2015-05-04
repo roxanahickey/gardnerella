@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01610	VBIBifAdo136061_1610	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189591	88358	89167	+	810		ATP binding protein of ABC transporter	ADO1	clust_1221
+ANI1|SEQ00697	VBIBifAni240121_0697	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846343	815643	816458	-	816		ATP binding protein of ABC transporter	ANI1	clust_1221
+ANI2|SEQ00697	VBIBifAni235968_0697	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849696	815646	816461	-	816		ATP binding protein of ABC transporter	ANI2	clust_1221
+ANI3|SEQ00699	VBIBifAni108068_0699	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763708	815648	816463	-	816		ATP binding protein of ABC transporter	ANI3	clust_1221
+BIF1|SEQ00661	VBIBifBif87902_0661	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883859	809710	810498	-	789		ATP binding protein of ABC transporter	BIF1	clust_1221
+BRE1|SEQ00602	VBIBifBre340958_0602	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603168	739148	739942	+	795		ATP binding protein of ABC transporter	BRE1	clust_1221
+BRE2|SEQ00697	VBIBifBre337368_0697	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607329	833239	834033	+	795		ATP binding protein of ABC transporter	BRE2	clust_1221
+BRE3|SEQ01173	VBIBifBre167886_1173	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194079	1372642	1373436	-	795		ATP binding protein of ABC transporter	BRE3	clust_1221
+BRE4|SEQ00637	VBIBifBre327712_0637	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611352	780263	781057	+	795		ATP binding protein of ABC transporter	BRE4	clust_1221
+BRE5|SEQ00656	VBIBifBre336369_0657	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615437	778665	779459	+	795		ATP binding protein of ABC transporter	BRE5	clust_1221
+BRE6|SEQ01099	VBIBifBre268992_1099	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655407	35259	36053	-	795		ATP binding protein of ABC transporter	BRE6	clust_1221
+BRE7|SEQ00650	VBIBifBre340732_0650	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619736	783277	784071	+	795		ATP binding protein of ABC transporter	BRE7	clust_1221
+BRE8|SEQ00672	VBIBifBre176493_0672	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623889	824190	824984	+	795		ATP binding protein of ABC transporter	BRE8	clust_1221
+BRE9|SEQ00719	VBIBifBre30019_0719	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445511	868064	868858	+	795		ATP binding protein of ABC transporter	BRE9	clust_1221
+DEN1|SEQ01386	VBIBifDen165269_1387	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459902	642511	643362	-	852		ATP binding protein of ABC transporter	DEN1	clust_1221
+DEN2|SEQ00258	VBIBifDen39005_0258	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108836	211954	212742	+	789		ATP binding protein of ABC transporter	DEN2	clust_1221
+INF1|SEQ01481	VBIBifLon182273_1481	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886975	1685115	1685939	-	825		ATP binding protein of ABC transporter	INF1	clust_1221
+LON1|SEQ00051	VBIBifLon107831_0051	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117129	60156	60848	+	693		ATP binding protein of ABC transporter	LON1	clust_1221
+LON2|SEQ00094	VBIBifLon171405_0095	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579682	103734	104519	+	786	cbiO1	ATP binding protein of ABC transporter	LON2	clust_1221
+LON3|SEQ00103	VBIBifLon156230_0103	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765833	123781	124605	-	825		ATP binding protein of ABC transporter	LON3	clust_1221
+LON4|SEQ01453	VBIBifLon48544_1453	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891262	1657018	1657842	-	825		ATP binding protein of ABC transporter	LON4	clust_1221
+THE1|SEQ01778	VBIBifThe274299_1778	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736840	2207629	2208420	+	792		ATP binding protein of ABC transporter	THE1	clust_1221

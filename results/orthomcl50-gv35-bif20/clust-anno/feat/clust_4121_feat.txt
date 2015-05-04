@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00301	VBIBifBif87902_0301	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883129	369330	369956	+	627		Nitroreductase family protein	BIF1	clust_4121
+THE1|SEQ00292	VBIBifThe274299_0292	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733754	344397	344999	+	603		Nitroreductase family protein	THE1	clust_4121

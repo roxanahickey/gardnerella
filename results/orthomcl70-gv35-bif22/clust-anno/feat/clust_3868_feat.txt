@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+LON2|SEQ01376	VBIBifLon171405_1379	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582332	1597827	1598051	+	225		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON2	clust_3868
+LON3|SEQ01460	VBIBifLon156230_1463	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769535	2247039	2247263	+	225		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON3	clust_3868
+LON4|SEQ00035	VBIBifLon48544_0035	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888273	40158	40382	-	225		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON4	clust_3868

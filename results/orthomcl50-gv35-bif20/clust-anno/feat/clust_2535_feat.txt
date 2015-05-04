@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01923	VBIBifAdo136061_1923	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190219	460174	461556	-	1383		hypothetical protein	ADO1	clust_2535
+INF1|SEQ01671	VBIBifLon182273_1671	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887361	1907242	1907664	-	423		Permeases of the major facilitator superfamily	INF1	clust_2535
+LON1|SEQ01751	VBIBifLon107831_1752	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120664	2119767	2120189	+	423		Permeases of the major facilitator superfamily	LON1	clust_2535
+LON2|SEQ01786	VBIBifLon171405_1789	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583199	2144583	2145353	+	771		Permeases of the major facilitator superfamily	LON2	clust_2535
+LON3|SEQ01160	VBIBifLon156230_1162	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766196	336575	336997	-	423		Permeases of the major facilitator superfamily	LON3	clust_2535
+LON4|SEQ01621	VBIBifLon48544_1621	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891604	1866485	1867279	-	795		Permeases of the major facilitator superfamily	LON4	clust_2535

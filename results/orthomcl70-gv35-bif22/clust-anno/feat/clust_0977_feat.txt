@@ -1,0 +1,33 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01458	VBIBifAdo136061_1458	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189274	116962	117498	-	537		Single-stranded DNA-binding protein	ADO1	clust_0977
+ANI1|SEQ01474	VBIBifAni240121_1474	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847961	1758406	1759038	-	633		Single-stranded DNA-binding protein	ANI1	clust_0977
+ANI2|SEQ01473	VBIBifAni235968_1473	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851312	1758626	1759258	-	633		Single-stranded DNA-binding protein	ANI2	clust_0977
+ANI3|SEQ01484	VBIBifAni108068_1484	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765334	1763857	1764489	-	633		Single-stranded DNA-binding protein	ANI3	clust_0977
+BIF1|SEQ00250	VBIBifBif87902_0250	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883015	312672	313355	+	684	ssb	Single-stranded DNA-binding protein	BIF1	clust_0977
+BRE1|SEQ00221	VBIBifBre340958_0221	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602378	288037	288681	+	645		Single-stranded DNA-binding protein	BRE1	clust_0977
+BRE2|SEQ00241	VBIBifBre337368_0241	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606392	315431	316075	+	645		Single-stranded DNA-binding protein	BRE2	clust_0977
+BRE3|SEQ00260	VBIBifBre167886_0260	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192179	339416	340060	+	645	ssb_1	Single-stranded DNA-binding protein	BRE3	clust_0977
+BRE4|SEQ00238	VBIBifBre327712_0238	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610527	310439	311083	+	645		Single-stranded DNA-binding protein	BRE4	clust_0977
+BRE5|SEQ00245	VBIBifBre336369_0246	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614591	302528	303172	+	645		Single-stranded DNA-binding protein	BRE5	clust_0977
+BRE6|SEQ00329	VBIBifBre268992_0329	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS	177653777	25000	25626	-	627		Single-stranded DNA-binding protein	BRE6	clust_0977
+BRE7|SEQ00236	VBIBifBre340732_0236	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618882	311008	311652	+	645		Single-stranded DNA-binding protein	BRE7	clust_0977
+BRE8|SEQ00264	VBIBifBre176493_0264	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623051	342492	343136	+	645	ssb	Single-stranded DNA-binding protein	BRE8	clust_0977
+BRE9|SEQ00275	VBIBifBre30019_0275	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444593	357922	358566	+	645	ssb	Single-stranded DNA-binding protein	BRE9	clust_0977
+DEN1|SEQ02110	VBIBifDen165269_2112	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463199	69809	70465	+	657	ssb4	Single-stranded DNA-binding protein	DEN1	clust_0977
+DEN2|SEQ01282	VBIBifDen39005_1283	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110943	69828	70484	+	657		Single-stranded DNA-binding protein	DEN2	clust_0977
+GV03|SEQ00511	VBIGarVag247424_0511	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500429	64954	65562	+	609		Single-stranded DNA-binding protein	GV03	clust_0977
+GV05|SEQ00534	VBIGarVag174900_0534	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546812	126468	127076	+	609		Single-stranded DNA-binding protein	GV05	clust_0977
+GV07|SEQ00879	VBIGarVag249177_0879	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493429	154566	155249	-	684		Single-stranded DNA-binding protein	GV07	clust_0977
+GV10|SEQ00843	VBIGarVag136958_0843	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147760	1105750	1106247	+	498		Single-stranded DNA-binding protein	GV10	clust_0977
+GV12|SEQ00831	VBIGarVag144721_0831	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854377	373630	374211	+	582		Single-stranded DNA-binding protein	GV12	clust_0977
+GV14|SEQ00819	VBIGarVag244375_0819	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503527	10905	11510	+	606		Single-stranded DNA-binding protein	GV14	clust_0977
+GV15|SEQ00381	VBIGarVag249709_0381	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484281	113808	114389	-	582		Single-stranded DNA-binding protein	GV15	clust_0977
+GV17|SEQ00303	VBIGarVag146634_0303	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850623	285911	286492	-	582		Single-stranded DNA-binding protein	GV17	clust_0977
+GV33|SEQ00988	VBIGarVag265557_0988	Gardnerella vaginalis JCP8481A	ATJG01000118	PATRIC	CDS	184002824	1708	2319	-	612		Single-stranded DNA-binding protein	GV33	clust_0977
+GV34|SEQ00605	VBIGarVag270440_0605	Gardnerella vaginalis JCP8481B	ATJF01000057	PATRIC	CDS	184004809	1710	2321	-	612		Single-stranded DNA-binding protein	GV34	clust_0977
+INF1|SEQ00206	VBIBifLon182273_0206	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884329	268111	268767	+	657		Single-stranded DNA-binding protein	INF1	clust_0977
+LON1|SEQ01159	VBIBifLon107831_1160	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119413	1351049	1351705	-	657	ssb	Single-stranded DNA-binding protein	LON1	clust_0977
+LON2|SEQ01191	VBIBifLon171405_1193	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581947	1362503	1363159	-	657	ssb2	Single-stranded DNA-binding protein	LON2	clust_0977
+LON3|SEQ01230	VBIBifLon156230_1232	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769057	1952954	1953484	-	531		Single-stranded DNA-binding protein	LON3	clust_0977
+LON4|SEQ00225	VBIBifLon48544_0225	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888670	287246	287902	+	657		Single-stranded DNA-binding protein	LON4	clust_0977
+THE1|SEQ00231	VBIBifThe274299_0231	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733627	271582	272226	+	645		Single-stranded DNA-binding protein	THE1	clust_0977

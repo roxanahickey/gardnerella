@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00454	VBIBifAdo136061_0454	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187171	291325	292398	+	1074		Transcriptional regulators	ADO1	clust_3372
+LON1|SEQ01483	VBIBifLon107831_1484	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120096	1798384	1799442	+	1059		Transcriptional regulators	LON1	clust_3372
+LON3|SEQ01823	VBIBifLon156230_1826	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766835	703182	704240	-	1059		Transcriptional regulators	LON3	clust_3372

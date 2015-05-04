@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00836	86846643	VBIBifAni240121_0836	SEQ00836	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		putative transcriptional regulator, AsnC family	FIG01336450	figfam	clust_3655
+ANI2|SEQ00835	86849994	VBIBifAni235968_0835	SEQ00835	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		putative transcriptional regulator, AsnC family	FIG01336450	figfam	clust_3655
+ANI3|SEQ00838	42764008	VBIBifAni108068_0838	SEQ00838	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		putative transcriptional regulator, AsnC family	FIG01336450	figfam	clust_3655

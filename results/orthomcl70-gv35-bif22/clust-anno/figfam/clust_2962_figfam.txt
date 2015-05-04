@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE4|SEQ00120	268610280	VBIBifBre327712_0120	SEQ00120	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		putative sugar binding secreted protein	FIG01120947	figfam	clust_2962
+BRE8|SEQ00120	268622751	VBIBifBre176493_0120	SEQ00120	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	cldE	putative sugar binding secreted protein	FIG01120947	figfam	clust_2962
+BRE9|SEQ00118	58444266	VBIBifBre30019_0118	SEQ00118	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		putative sugar binding secreted protein	FIG01120947	figfam	clust_2962
+DEN1|SEQ00560	43462414	VBIBifDen165269_0561	SEQ00560	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		putative sugar binding secreted protein	FIG01120947	figfam	clust_2962
+DEN2|SEQ01598	42111588	VBIBifDen39005_1599	SEQ01598	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS		putative sugar binding secreted protein	FIG01120947	figfam	clust_2962

@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ01489	268608972	VBIBifBre337368_1489	SEQ01489	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		FIG00425697: hypothetical protein	FIG01640185	figfam	clust_2735
+BRE3|SEQ01459	54194662	VBIBifBre167886_1459	SEQ01459	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		FIG00425697: hypothetical protein	FIG01640185	figfam	clust_2735
+DEN1|SEQ01075	43459275	VBIBifDen165269_1076	SEQ01075	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		COG0477: Permeases of the major facilitator superfamily	FIG00672161	figfam	clust_2735
+DEN2|SEQ02036	42112509	VBIBifDen39005_2038	SEQ02036	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS		COG0477: Permeases of the major facilitator superfamily	FIG00672161	figfam	clust_2735
+INF1|SEQ01593	46887200	VBIBifLon182273_1593	SEQ01593	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00425697: hypothetical protein	FIG01640185	figfam	clust_2735

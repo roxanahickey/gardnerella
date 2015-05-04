@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV07|SEQ00377	VBIGarVag249177_0377	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492377	39691	40689	+	999		Choline permease LicB	GV07	clust_1577
+GV10|SEQ01045	VBIGarVag136958_1045	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148178	1393012	1393950	-	939		Choline permease LicB	GV10	clust_1577
+GV12|SEQ00452	VBIGarVag144721_0452	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853583	501877	502815	-	939		Choline permease LicB	GV12	clust_1577
+GV33|SEQ01249	VBIGarVag265557_1249	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003444	10852	11787	-	936		Choline permease LicB	GV33	clust_1577
+GV34|SEQ00103	VBIGarVag270440_0103	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003699	10882	11817	-	936		Choline permease LicB	GV34	clust_1577

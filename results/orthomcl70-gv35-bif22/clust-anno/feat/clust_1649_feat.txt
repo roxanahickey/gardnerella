@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00762	VBIBifBif87902_0762	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884070	942222	942845	+	624		Phosphate transport regulator (distant homolog of PhoU)	BIF1	clust_1649
+BRE1|SEQ00823	VBIBifBre340958_0823	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603630	986866	987489	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE1	clust_1649
+BRE2|SEQ00904	VBIBifBre337368_0904	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607764	1068939	1069562	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE2	clust_1649
+BRE3|SEQ00977	VBIBifBre167886_0977	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193666	1145966	1146589	-	624		Phosphate transport regulator (distant homolog of PhoU)	BRE3	clust_1649
+BRE4|SEQ00851	VBIBifBre327712_0851	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611801	1025420	1026043	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE4	clust_1649
+BRE5|SEQ00856	VBIBifBre336369_0857	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615858	1010410	1011033	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE5	clust_1649
+BRE6|SEQ00808	VBIBifBre268992_0808	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654788	16546	17169	-	624		Phosphate transport regulator (distant homolog of PhoU)	BRE6	clust_1649
+BRE7|SEQ00853	VBIBifBre340732_0853	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620163	1017448	1018071	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE7	clust_1649
+BRE8|SEQ00883	VBIBifBre176493_0883	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624332	1063221	1063844	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE8	clust_1649
+BRE9|SEQ00938	VBIBifBre30019_0938	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445972	1116420	1117043	+	624		Phosphate transport regulator (distant homolog of PhoU)	BRE9	clust_1649
+INF1|SEQ00769	VBIBifLon182273_0769	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885507	943385	944008	+	624		Phosphate transport regulator (distant homolog of PhoU)	INF1	clust_1649
+LON1|SEQ00604	VBIBifLon107831_0605	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118265	695748	696371	-	624		Phosphate transport regulator (distant homolog of PhoU)	LON1	clust_1649
+LON2|SEQ00664	VBIBifLon171405_0665	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580854	731111	731734	-	624		Phosphate transport regulator (distant homolog of PhoU)	LON2	clust_1649
+LON3|SEQ00471	VBIBifLon156230_0471	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767894	1306404	1307027	-	624		Phosphate transport regulator (distant homolog of PhoU)	LON3	clust_1649
+LON4|SEQ00741	VBIBifLon48544_0741	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889753	900719	901342	+	624		Phosphate transport regulator (distant homolog of PhoU)	LON4	clust_1649

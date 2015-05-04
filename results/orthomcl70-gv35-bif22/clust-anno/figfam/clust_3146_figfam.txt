@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE3|SEQ01936	54195669	VBIBifBre167886_1936	SEQ01936	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		possible cell surface protein with gram positive anchor domain	FIG01526206	figfam	clust_3146
+BRE6|SEQ01492	177656242	VBIBifBre268992_1492	SEQ01492	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000071	PATRIC	CDS		possible cell surface protein with gram positive anchor domain	FIG01526206	figfam	clust_3146
+BRE8|SEQ01912	268626483	VBIBifBre176493_1912	SEQ01912	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		possible cell surface protein with gram positive anchor domain	FIG01526206	figfam	clust_3146

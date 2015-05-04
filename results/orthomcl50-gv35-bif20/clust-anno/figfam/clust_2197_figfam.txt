@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00157	86882818	VBIBifBif87902_0157	SEQ00157	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		conserved hypothetical protein	FIG00629156	figfam	clust_2197
+BRE2|SEQ00198	268606299	VBIBifBre337368_0198	SEQ00198	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		conserved hypothetical protein	FIG00629156	figfam	clust_2197
+BRE3|SEQ00216	54192084	VBIBifBre167886_0216	SEQ00216	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		conserved hypothetical protein	FIG00629156	figfam	clust_2197
+BRE6|SEQ02062	177657456	VBIBifBre268992_2062	SEQ02062	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000096	PATRIC	CDS		conserved hypothetical protein	FIG00629156	figfam	clust_2197
+BRE7|SEQ00193	268618789	VBIBifBre340732_0193	SEQ00193	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		conserved hypothetical protein	FIG00629156	figfam	clust_2197
+BRE8|SEQ00220	268622956	VBIBifBre176493_0220	SEQ00220	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	bbrUIR	conserved hypothetical protein	FIG00629156	figfam	clust_2197
+BRE9|SEQ00229	58444494	VBIBifBre30019_0229	SEQ00229	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		conserved hypothetical protein	FIG00629156	figfam	clust_2197
+LON1|SEQ01304	21119717	VBIBifLon107831_1305	SEQ01304	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		possible restriction endonuclease	FIG01816019	figfam	clust_2197

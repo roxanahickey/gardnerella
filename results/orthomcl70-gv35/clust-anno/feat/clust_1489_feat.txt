@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00390	VBIGarVag247424_0390	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500183	347727	348761	+	1035		ADP-ribosylglycohydrolase YegU (EC 3.2.-.-)	GV03	clust_1489
+GV05|SEQ00488	VBIGarVag174900_0488	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546720	57549	58583	+	1035		ADP-ribosylglycohydrolase YegU (EC 3.2.-.-)	GV05	clust_1489
+GV10|SEQ00267	VBIGarVag136958_0267	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146566	310316	311266	+	951		ADP-ribosylglycohydrolase YegU (EC 3.2.-.-)	GV10	clust_1489
+GV12|SEQ00807	VBIGarVag144721_0807	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854329	346976	348019	+	1044		ADP-ribosylglycohydrolase YegU (EC 3.2.-.-)	GV12	clust_1489
+GV33|SEQ00530	VBIGarVag265557_0530	Gardnerella vaginalis JCP8481A	ATJG01000048	PATRIC	CDS	184001799	6050	7102	-	1053		ADP-ribosylglycohydrolase YegU (EC 3.2.-.-)	GV33	clust_1489
+GV34|SEQ00550	VBIGarVag270440_0550	Gardnerella vaginalis JCP8481B	ATJF01000049	PATRIC	CDS	184004691	6050	7102	-	1053		ADP-ribosylglycohydrolase YegU (EC 3.2.-.-)	GV34	clust_1489

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV21|SEQ00613	VBIGarVag274454_0614	Gardnerella vaginalis JCP7275	ATJS01000037	PATRIC	CDS	183967914	14834	15991	-	1158		Modification methylase EcoRI (EC 2.1.1.72)	GV21	clust_1996
+GV25|SEQ00700	VBIGarVag270495_0700	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979367	1350	2456	-	1107		Modification methylase EcoRI (EC 2.1.1.72)	GV25	clust_1996

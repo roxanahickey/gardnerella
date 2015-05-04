@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00395	VBIGarVag244004_0395	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489533	66237	68573	-	2337		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV06	clust_1750
+GV09|SEQ01257	VBIGarVag169280_1257	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261757	120453	122789	+	2337	kojP	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV09	clust_1750
+GV13|SEQ00404	VBIGarVag244533_0404	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486767	44000	46336	-	2337		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV13	clust_1750
+GV16|SEQ00380	VBIGarVag246379_0380	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477894	343853	346189	+	2337		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV16	clust_1750
+GV18|SEQ00249	VBIGarVag4823_0249	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069201	1597	3933	+	2337		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV18	clust_1750
+GV19|SEQ01229	VBIGarVag39333_1231	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629381	1550275	1552611	-	2337	kojP	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV19	clust_1750
+GV20|SEQ00265	VBIGarVag188338_0265	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189331	299055	301391	+	2337	kojP	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV20	clust_1750
+GV30|SEQ00017	VBIGarVag267667_0017	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992070	19891	22227	-	2337		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	GV30	clust_1750
+BRE3|SEQ01723	VBIBifBre167886_1723	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195220	1999498	2001831	-	2334	kojP	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	BRE3	clust_1750
+BRE7|SEQ01752	VBIBifBre340732_1752	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622027	2010860	2013193	-	2334		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	BRE7	clust_1750
+BRE8|SEQ01708	VBIBifBre176493_1708	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626051	1984330	1986663	-	2334	kojP	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	BRE8	clust_1750
+BRE9|SEQ01816	VBIBifBre30019_1816	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447795	2088306	2090639	-	2334	kojP	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	BRE9	clust_1750
+INF1|SEQ00288	VBIBifLon182273_0288	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884505	363158	365491	+	2334		Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)	INF1	clust_1750

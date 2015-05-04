@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ01006	27188326	VBIBifAdo136061_1006	SEQ01006	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Flavodoxin	GO:0010181	FMN binding	go	clust_2560
+ADO1|SEQ01006	27188326	VBIBifAdo136061_1006	SEQ01006	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Flavodoxin	GO:0016491	oxidoreductase activity	go	clust_2560
+LON1|SEQ01202	21119503	VBIBifLon107831_1203	SEQ01202	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Flavodoxin	GO:0010181	FMN binding	go	clust_2560
+LON1|SEQ01202	21119503	VBIBifLon107831_1203	SEQ01202	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Flavodoxin	GO:0016491	oxidoreductase activity	go	clust_2560
+LON4|SEQ00181	46888578	VBIBifLon48544_0181	SEQ00181	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Flavodoxin	GO:0016491	oxidoreductase activity	go	clust_2560
+LON4|SEQ00181	46888578	VBIBifLon48544_0181	SEQ00181	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Flavodoxin	GO:0010181	FMN binding	go	clust_2560

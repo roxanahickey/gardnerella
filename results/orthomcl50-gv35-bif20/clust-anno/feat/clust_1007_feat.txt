@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00041	VBIGarVag247424_0041	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499445	57984	58808	-	825		O-antigen export system, permease protein	GV03	clust_1007
+GV05|SEQ01111	VBIGarVag174900_1111	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548010	71356	72180	+	825		O-antigen export system, permease protein	GV05	clust_1007
+GV07|SEQ00373	VBIGarVag249177_0373	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492369	32977	33801	-	825		O-antigen export system, permease protein	GV07	clust_1007
+GV10|SEQ01041	VBIGarVag136958_1041	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148170	1387167	1388012	-	846		O-antigen export system, permease protein	GV10	clust_1007
+GV12|SEQ00448	VBIGarVag144721_0448	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853575	496032	496877	-	846		O-antigen export system, permease protein	GV12	clust_1007
+GV14|SEQ00679	VBIGarVag244375_0679	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503238	11572	12396	+	825		O-antigen export system, permease protein	GV14	clust_1007
+GV15|SEQ01027	VBIGarVag249709_1027	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485636	239203	240039	-	837		O-antigen export system, permease protein	GV15	clust_1007
+GV17|SEQ01193	VBIGarVag146634_1193	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852487	176695	177531	-	837		O-antigen export system, permease protein	GV17	clust_1007
+GV33|SEQ01245	VBIGarVag265557_1245	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003436	4919	5764	-	846		O-antigen export system, permease protein	GV33	clust_1007
+GV34|SEQ00099	VBIGarVag270440_0099	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003691	4949	5794	-	846		O-antigen export system, permease protein	GV34	clust_1007
+ADO1|SEQ01525	VBIBifAdo136061_1525	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189410	187822	188655	+	834		rhamnose-containing polysacharide translocation permease	ADO1	clust_1007
+ANI1|SEQ01500	VBIBifAni240121_1500	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848019	1791594	1792430	-	837		rhamnose-containing polysacharide translocation permease	ANI1	clust_1007
+ANI2|SEQ01498	VBIBifAni235968_1498	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851368	1791814	1792650	-	837		rhamnose-containing polysacharide translocation permease	ANI2	clust_1007
+ANI3|SEQ01509	VBIBifAni108068_1509	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765390	1797045	1797881	-	837		rhamnose-containing polysacharide translocation permease	ANI3	clust_1007
+BIF1|SEQ00060	VBIBifBif87902_0060	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882618	73959	74804	+	846	rfbA	O-antigen export system, permease protein	BIF1	clust_1007
+BRE1|SEQ01774	VBIBifBre340958_1775	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605606	2073045	2073872	-	828		rhamnose-containing polysacharide translocation permease	BRE1	clust_1007
+BRE2|SEQ01877	VBIBifBre337368_1877	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609787	2175793	2176620	-	828		rhamnose-containing polysacharide translocation permease	BRE2	clust_1007
+BRE3|SEQ01838	VBIBifBre167886_1838	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195458	2143177	2144004	-	828		rhamnose-containing polysacharide translocation permease	BRE3	clust_1007
+BRE4|SEQ01822	VBIBifBre327712_1822	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613820	2114051	2114875	-	825		O-antigen export system permease protein RfbD	BRE4	clust_1007
+BRE5|SEQ01941	VBIBifBre336369_1942	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618110	2180678	2181481	-	804		rhamnose-containing polysacharide translocation permease	BRE5	clust_1007
+BRE6|SEQ01290	VBIBifBre268992_1290	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655811	1510	2334	-	825		O-antigen export system permease protein RfbD	BRE6	clust_1007
+BRE7|SEQ01864	VBIBifBre340732_1864	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622259	2149791	2150618	-	828		rhamnose-containing polysacharide translocation permease	BRE7	clust_1007
+BRE8|SEQ01826	VBIBifBre176493_1826	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626296	2127718	2128545	-	828		rhamnose-containing polysacharide translocation permease	BRE8	clust_1007
+BRE9|SEQ01926	VBIBifBre30019_1926	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448023	2224996	2225691	-	696		O-antigen export system permease protein RfbD	BRE9	clust_1007
+INF1|SEQ01914	VBIBifLon182273_1914	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887885	2195574	2196407	-	834		O-antigen export system permease protein RfbD	INF1	clust_1007
+LON1|SEQ01508	VBIBifLon107831_1509	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120146	1828575	1828907	-	333		O-antigen export system, permease protein	LON1	clust_1007
+LON2|SEQ01545	VBIBifLon171405_1548	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582685	1851114	1851941	+	828	tagG	rhamnose-containing polysacharide translocation permease	LON2	clust_1007
+LON3|SEQ01793	VBIBifLon156230_1796	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766775	667008	667841	-	834		O-antigen export system permease protein RfbD	LON3	clust_1007
+LON4|SEQ01856	VBIBifLon48544_1856	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892114	2151915	2152742	+	828		rhamnose-containing polysacharide translocation permease	LON4	clust_1007
+THE1|SEQ00388	VBIBifThe274299_0388	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733951	464153	464986	+	834		rhamnose-containing polysacharide translocation permease	THE1	clust_1007

@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01696	VBIBifAdo136061_1696	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189763	182578	183195	-	618		Plasmid partitioning protein ParA	ADO1	clust_2955
+BRE8|SEQ01139	VBIBifBre176493_1139	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624868	1331026	1331619	-	594		Plasmid partitioning protein ParA	BRE8	clust_2955
+LON1|SEQ00361	VBIBifLon107831_0361	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117763	435463	436056	-	594		Plasmid partitioning protein ParA	LON1	clust_2955
+LON3|SEQ00226	VBIBifLon156230_0226	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767385	1050353	1050946	-	594		Plasmid partitioning protein ParA	LON3	clust_2955

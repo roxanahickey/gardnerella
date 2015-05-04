@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ00967	VBIGarVag144721_0967	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854669	550001	550267	+	267		COG0477: Permeases of the major facilitator superfamily	GV12	clust_1862
+BIF1|SEQ01196	VBIBifBif87902_1196	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884965	1432410	1432643	-	234		COG0477: Permeases of the major facilitator superfamily	BIF1	clust_1862
+BRE1|SEQ01108	VBIBifBre340958_1108	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604222	1294841	1295074	-	234		COG0477: Permeases of the major facilitator superfamily	BRE1	clust_1862
+BRE1|SEQ01478	VBIBifBre340958_1479	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604988	1746565	1746771	+	207		COG0477: Permeases of the major facilitator superfamily	BRE1	clust_1862
+BRE2|SEQ01590	VBIBifBre337368_1590	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609188	1852720	1852926	+	207		COG0477: Permeases of the major facilitator superfamily	BRE2	clust_1862
+BRE3|SEQ01545	VBIBifBre167886_1545	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194849	1811457	1811723	+	267		COG0477: Permeases of the major facilitator superfamily	BRE3	clust_1862
+BRE4|SEQ01519	VBIBifBre327712_1519	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613186	1783316	1783582	+	267		COG0477: Permeases of the major facilitator superfamily	BRE4	clust_1862
+BRE7|SEQ01555	VBIBifBre340732_1555	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621617	1799853	1800059	+	207		COG0477: Permeases of the major facilitator superfamily	BRE7	clust_1862
+BRE9|SEQ01638	VBIBifBre30019_1638	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447423	1902899	1903105	+	207		COG0477: Permeases of the major facilitator superfamily	BRE9	clust_1862
+INF1|SEQ01217	VBIBifLon182273_1217	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886437	1366321	1366557	-	237		COG0477: Permeases of the major facilitator superfamily	INF1	clust_1862
+LON3|SEQ01202	VBIBifLon156230_1204	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766288	388375	388581	+	207		COG0477: Permeases of the major facilitator superfamily	LON3	clust_1862

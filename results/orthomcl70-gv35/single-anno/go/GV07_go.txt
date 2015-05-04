@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV07|SEQ00266	85492147	VBIGarVag249177_0266	SEQ00266	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	NA	Translation initiation factor 2	GO:0005525	GTP binding	go	NA
+GV07|SEQ00266	85492147	VBIGarVag249177_0266	SEQ00266	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	NA	Translation initiation factor 2	GO:0003743	translation initiation factor activity	go	NA
+GV07|SEQ00266	85492147	VBIGarVag249177_0266	SEQ00266	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	NA	Translation initiation factor 2	GO:0006412	translation	go	NA
+GV07|SEQ00266	85492147	VBIGarVag249177_0266	SEQ00266	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	NA	Translation initiation factor 2	GO:0006413	translational initiation	go	NA
+GV07|SEQ00416	85492456	VBIGarVag249177_0416	SEQ00416	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0006412	translation	go	NA
+GV07|SEQ00416	85492456	VBIGarVag249177_0416	SEQ00416	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005840	ribosome	go	NA
+GV07|SEQ00416	85492456	VBIGarVag249177_0416	SEQ00416	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005622	intracellular	go	NA
+GV07|SEQ00416	85492456	VBIGarVag249177_0416	SEQ00416	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0003735	structural constituent of ribosome	go	NA

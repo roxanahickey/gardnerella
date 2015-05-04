@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ01293	VBIBifBre167886_1293	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194324	1499113	1499472	+	360		Candidate zinc-binding lipoprotein ZinT	BRE3	clust_3011
+BRE6|SEQ00398	VBIBifBre268992_0398	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653921	2976	3335	+	360		Candidate zinc-binding lipoprotein ZinT	BRE6	clust_3011
+BRE7|SEQ00544	VBIBifBre340732_0544	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619518	672531	672890	-	360		Candidate zinc-binding lipoprotein ZinT	BRE7	clust_3011
+BRE8|SEQ00571	VBIBifBre176493_0571	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623683	715701	716060	-	360		Candidate zinc-binding lipoprotein ZinT	BRE8	clust_3011

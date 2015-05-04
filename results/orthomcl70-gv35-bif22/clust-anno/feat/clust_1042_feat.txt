@@ -1,0 +1,29 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00195	VBIGarVag247323_0195	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494502	71124	71753	-	630		FIG00672016: hypothetical protein	GV01	clust_1042
+GV02|SEQ00467	VBIGarVag242669_0467	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497727	61347	61976	-	630		FIG00672016: hypothetical protein	GV02	clust_1042
+GV03|SEQ00743	VBIGarVag247424_0743	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500913	16339	16965	+	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV03	clust_1042
+GV04|SEQ00395	VBIGarVag246433_0395	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480666	2854	3480	-	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV04	clust_1042
+GV05|SEQ00795	VBIGarVag174900_0795	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547352	443071	443697	+	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV05	clust_1042
+GV06|SEQ00842	VBIGarVag244004_0842	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490484	197414	198040	+	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV06	clust_1042
+GV07|SEQ00555	VBIGarVag249177_0555	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492755	26382	27008	+	627		FIG00672016: hypothetical protein	GV07	clust_1042
+GV08|SEQ00402	VBIGarVag251521_0402	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475205	245113	245739	+	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV08	clust_1042
+GV09|SEQ00409	VBIGarVag169280_0409	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259990	110599	111225	-	627		FIG00672015: hypothetical protein	GV09	clust_1042
+GV10|SEQ00539	VBIGarVag136958_0539	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147132	675547	676173	+	627		FIG00672016: hypothetical protein	GV10	clust_1042
+GV11|SEQ01307	VBIGarVag171052_1307	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551047	83197	83823	-	627		FIG00672015: hypothetical protein	GV11	clust_1042
+GV12|SEQ01166	VBIGarVag144721_1166	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855158	14052	14678	+	627		FIG00672016: hypothetical protein	GV12	clust_1042
+GV13|SEQ00753	VBIGarVag244533_0753	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487496	216535	217161	-	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV13	clust_1042
+GV14|SEQ00258	VBIGarVag244375_0258	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502354	64574	65200	+	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV14	clust_1042
+GV15|SEQ00598	VBIGarVag249709_0598	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484737	22041	22667	+	627		FIG00672016: hypothetical protein	GV15	clust_1042
+GV16|SEQ01058	VBIGarVag246379_1058	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479300	1227627	1228253	-	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV16	clust_1042
+GV17|SEQ01012	VBIGarVag146634_1012	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852116	165709	166335	-	627		FIG00672016: hypothetical protein	GV17	clust_1042
+GV18|SEQ01232	VBIGarVag4823_1232	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071304	47681	48307	+	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV18	clust_1042
+GV19|SEQ00553	VBIGarVag39333_0554	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627985	684848	685474	+	627		FIG00672016: hypothetical protein	GV19	clust_1042
+GV20|SEQ00969	VBIGarVag188338_0969	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190788	1200270	1200896	-	627		FIG00672015: hypothetical protein	GV20	clust_1042
+GV22|SEQ00863	VBIGarVag276801_0864	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971211	24812	25438	-	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV22	clust_1042
+GV24|SEQ00775	VBIGarVag268944_0776	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976747	34579	35205	-	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV24	clust_1042
+GV25|SEQ00273	VBIGarVag270495_0273	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978437	28164	28793	-	630		Substrate-specific component TrpP of tryptophan ECF transporter	GV25	clust_1042
+GV26|SEQ01135	VBIGarVag272749_1135	Gardnerella vaginalis JCP8017A	ATJN01000099	PATRIC	CDS	183983177	224	721	-	498		Substrate-specific component TrpP of tryptophan ECF transporter	GV26	clust_1042
+GV27|SEQ01049	VBIGarVag276930_1049	Gardnerella vaginalis JCP8017B	ATJM01000088	PATRIC	CDS	183985949	245	742	-	498		Substrate-specific component TrpP of tryptophan ECF transporter	GV27	clust_1042
+GV30|SEQ00415	VBIGarVag267667_0416	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992906	29867	30493	-	627		Substrate-specific component TrpP of tryptophan ECF transporter	GV30	clust_1042
+GV33|SEQ00727	VBIGarVag265557_0727	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002228	8837	9466	+	630		Substrate-specific component TrpP of tryptophan ECF transporter	GV33	clust_1042
+GV34|SEQ00668	VBIGarVag270440_0668	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184004949	8837	9466	+	630		Substrate-specific component TrpP of tryptophan ECF transporter	GV34	clust_1042

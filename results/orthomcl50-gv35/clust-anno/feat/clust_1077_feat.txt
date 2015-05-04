@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00758	VBIGarVag247323_0758	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495678	44037	45425	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV01	clust_1077
+GV02|SEQ01034	VBIGarVag242669_1034	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498923	44180	45568	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV02	clust_1077
+GV04|SEQ01209	VBIGarVag246433_1209	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482347	47693	49081	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV04	clust_1077
+GV06|SEQ00492	VBIGarVag244004_0492	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489742	67542	68930	-	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV06	clust_1077
+GV10|SEQ01138	VBIGarVag136958_1138	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148374	1541622	1543007	-	1386		possible permease protein of ABC transporter system	GV10	clust_1077
+GV11|SEQ00008	VBIGarVag171052_0008	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548278	11176	12564	-	1389		possible permease protein of ABC transporter system	GV11	clust_1077
+GV15|SEQ00030	VBIGarVag249709_0030	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483546	33645	35030	+	1386		possible permease protein of ABC transporter system	GV15	clust_1077
+GV16|SEQ00042	VBIGarVag246379_0042	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477188	48227	49615	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV16	clust_1077
+GV18|SEQ00815	VBIGarVag4823_0815	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000130	PATRIC	CDS	42070428	186	1574	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV18	clust_1077
+GV19|SEQ00241	VBIGarVag39333_0241	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627335	288512	289900	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV19	clust_1077
+GV20|SEQ01268	VBIGarVag188338_1268	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191412	1596089	1597477	-	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV20	clust_1077
+GV22|SEQ00981	VBIGarVag276801_0982	Gardnerella vaginalis JCP7276	ATJR01000067	PATRIC	CDS	183971470	2345	3733	-	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV22	clust_1077
+GV23|SEQ00775	VBIGarVag276017_0775	Gardnerella vaginalis JCP7659	ATJQ01000058	PATRIC	CDS	183973937	1802	3190	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV23	clust_1077
+GV24|SEQ00677	VBIGarVag268944_0678	Gardnerella vaginalis JCP7672	ATJP01000054	PATRIC	CDS	183976537	1811	3199	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV24	clust_1077
+GV25|SEQ00461	VBIGarVag270495_0461	Gardnerella vaginalis JCP7719	ATJO01000037	PATRIC	CDS	183978852	2472	3860	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV25	clust_1077
+GV26|SEQ00972	VBIGarVag272749_0972	Gardnerella vaginalis JCP8017A	ATJN01000064	PATRIC	CDS	183982805	2937	4325	-	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV26	clust_1077
+GV27|SEQ00896	VBIGarVag276930_0896	Gardnerella vaginalis JCP8017B	ATJM01000046	PATRIC	CDS	183985594	2442	3830	-	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV27	clust_1077
+GV31|SEQ00846	VBIGarVag264983_0846	Gardnerella vaginalis JCP8151A	ATJI01000056	PATRIC	CDS	183996826	2456	3844	-	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV31	clust_1077
+GV32|SEQ00805	VBIGarVag277040_0805	Gardnerella vaginalis JCP8151B	ATJH01000057	PATRIC	CDS	183999547	1835	3223	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV32	clust_1077
+GV35|SEQ00759	VBIGarVag272169_0759	Gardnerella vaginalis JCP8522	ATJE01000070	PATRIC	CDS	184007906	1608	2996	+	1389		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV35	clust_1077

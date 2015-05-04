@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00407	VBIBifAdo136061_0407	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187075	231162	231677	-	516		Transcriptional regulator, TetR family	ADO1	clust_1387
+ANI1|SEQ00173	VBIBifAni240121_0173	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845248	203887	204540	-	654		Transcriptional regulator, TetR family	ANI1	clust_1387
+ANI2|SEQ00172	VBIBifAni235968_0172	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848601	203888	204541	-	654		Transcriptional regulator, TetR family	ANI2	clust_1387
+ANI3|SEQ00175	VBIBifAni108068_0175	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762618	203888	204541	-	654		Transcriptional regulator, TetR family	ANI3	clust_1387
+BRE1|SEQ00194	VBIBifBre340958_0194	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602321	250991	251563	-	573		Transcriptional regulator, TetR family	BRE1	clust_1387
+BRE2|SEQ00214	VBIBifBre337368_0214	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606334	278209	278781	-	573		Transcriptional regulator, TetR family	BRE2	clust_1387
+BRE3|SEQ00233	VBIBifBre167886_0233	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192121	302191	302763	-	573		Transcriptional regulator, TetR family	BRE3	clust_1387
+BRE4|SEQ00212	VBIBifBre327712_0212	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610472	276001	276573	-	573		Transcriptional regulator, TetR family	BRE4	clust_1387
+BRE5|SEQ00215	VBIBifBre336369_0216	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614528	265574	266146	-	573		Transcriptional regulator, TetR family	BRE5	clust_1387
+BRE6|SEQ02045	VBIBifBre268992_2045	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657417	32393	32965	+	573		Transcriptional regulator, TetR family	BRE6	clust_1387
+BRE7|SEQ00209	VBIBifBre340732_0209	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618824	273800	274327	-	528		Transcriptional regulator, TetR family	BRE7	clust_1387
+BRE8|SEQ00236	VBIBifBre176493_0236	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622991	305267	305839	-	573		Transcriptional regulator, TetR family	BRE8	clust_1387
+BRE9|SEQ00244	VBIBifBre30019_0244	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444527	320549	321121	-	573		Transcriptional regulator, TetR family	BRE9	clust_1387
+INF1|SEQ00173	VBIBifLon182273_0173	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884261	217989	218516	-	528		Transcriptional regulator, TetR family	INF1	clust_1387
+LON1|SEQ01191	VBIBifLon107831_1192	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119479	1401309	1401836	+	528		Transcriptional regulator, TetR family	LON1	clust_1387
+LON2|SEQ01226	VBIBifLon171405_1228	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582019	1415793	1416320	+	528		Transcriptional regulator, TetR family	LON2	clust_1387
+LON3|SEQ01306	VBIBifLon156230_1308	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769213	2045635	2046162	+	528		Transcriptional regulator, TetR family	LON3	clust_1387
+LON4|SEQ00193	VBIBifLon48544_0193	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888604	237106	237633	-	528		Transcriptional regulator, TetR family	LON4	clust_1387
+THE1|SEQ00167	VBIBifThe274299_0167	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733497	194742	195446	-	705		Transcriptional regulator, TetR family	THE1	clust_1387

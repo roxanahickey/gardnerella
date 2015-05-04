@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV01|SEQ01015	85496220	VBIGarVag247323_1015	SEQ01015	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_1961
+GV01|SEQ01015	85496220	VBIGarVag247323_1015	SEQ01015	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_1961
+GV01|SEQ01015	85496220	VBIGarVag247323_1015	SEQ01015	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_1961
+GV01|SEQ01272	85496750	VBIGarVag247323_1272	SEQ01272	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000015	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_1961
+GV01|SEQ01272	85496750	VBIGarVag247323_1272	SEQ01272	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000015	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_1961
+GV01|SEQ01272	85496750	VBIGarVag247323_1272	SEQ01272	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000015	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_1961

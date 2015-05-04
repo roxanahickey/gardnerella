@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00737	VBIBifAdo136061_0737	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187772	611214	612845	+	1632		Beta-xylosidase (EC 3.2.1.37)	ADO1	clust_2534
+ANI1|SEQ00516	VBIBifAni240121_0516	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845975	612754	614379	+	1626		Beta-xylosidase (EC 3.2.1.37)	ANI1	clust_2534
+ANI2|SEQ00516	VBIBifAni235968_0516	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849329	612755	614380	+	1626		Beta-xylosidase (EC 3.2.1.37)	ANI2	clust_2534
+ANI3|SEQ00518	VBIBifAni108068_0518	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763342	612757	614382	+	1626		Beta-xylosidase (EC 3.2.1.37)	ANI3	clust_2534
+INF1|SEQ01659	VBIBifLon182273_1659	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887337	1894834	1896453	-	1620		Beta-xylosidase (EC 3.2.1.37)	INF1	clust_2534
+LON3|SEQ01149	VBIBifLon156230_1151	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766174	324168	325787	-	1620		Beta-xylosidase (EC 3.2.1.37)	LON3	clust_2534

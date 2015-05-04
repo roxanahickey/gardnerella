@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01171	VBIBifAdo136061_1171	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188677	86112	86519	-	408		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	ADO1	clust_1264
+ANI1|SEQ00781	VBIBifAni240121_0781	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846521	913770	914183	+	414		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	ANI1	clust_1264
+ANI2|SEQ00780	VBIBifAni235968_0780	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849872	913773	914186	+	414		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	ANI2	clust_1264
+ANI3|SEQ00782	VBIBifAni108068_0782	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763884	913775	914188	+	414	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	ANI3	clust_1264
+BIF1|SEQ00975	VBIBifBif87902_0975	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884512	1189161	1189586	-	426	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BIF1	clust_1264
+BRE1|SEQ01016	VBIBifBre340958_1016	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604032	1195877	1196272	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE1	clust_1264
+BRE2|SEQ01135	VBIBifBre337368_1135	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608246	1306096	1306491	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE2	clust_1264
+BRE3|SEQ00763	VBIBifBre167886_0763	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193219	925266	925661	+	396	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE3	clust_1264
+BRE4|SEQ01090	VBIBifBre327712_1090	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612297	1264339	1264734	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE4	clust_1264
+BRE5|SEQ01184	VBIBifBre336369_1185	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616541	1315484	1315879	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE5	clust_1264
+BRE6|SEQ01051	VBIBifBre268992_1051	Bifidobacterium breve JCP7499	AWSX01000055	PATRIC	CDS	177655309	15822	16217	+	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE6	clust_1264
+BRE7|SEQ01094	VBIBifBre340732_1094	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620666	1259204	1259599	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE7	clust_1264
+BRE8|SEQ01083	VBIBifBre176493_1083	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624750	1273096	1273491	-	396	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE8	clust_1264
+BRE9|SEQ01180	VBIBifBre30019_1180	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446478	1360385	1360780	-	396	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	BRE9	clust_1264
+DEN1|SEQ01493	VBIBifDen165269_1494	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460122	765955	766362	+	408	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	DEN1	clust_1264
+DEN2|SEQ00146	VBIBifDen39005_0146	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108600	88934	89341	-	408	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	DEN2	clust_1264
+INF1|SEQ01146	VBIBifLon182273_1146	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886288	1287418	1287813	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	INF1	clust_1264
+LON1|SEQ00384	VBIBifLon107831_0384	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117811	458219	458614	+	396	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	LON1	clust_1264
+LON2|SEQ00392	VBIBifLon171405_0393	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580292	456757	457152	+	396	hisI1	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	LON2	clust_1264
+LON3|SEQ00249	VBIBifLon156230_0249	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767433	1072220	1072615	+	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	LON3	clust_1264
+LON4|SEQ01169	VBIBifLon48544_1169	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890672	1315082	1315477	-	396		Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	LON4	clust_1264
+THE1|SEQ01011	VBIBifThe274299_1011	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735219	1268511	1268933	+	423	hisI	Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	THE1	clust_1264

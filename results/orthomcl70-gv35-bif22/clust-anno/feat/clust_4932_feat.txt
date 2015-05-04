@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01398	VBIBifDen165269_1399	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459926	659760	659915	+	156		hypothetical protein	DEN1	clust_4932
+DEN2|SEQ00245	VBIBifDen39005_0245	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108809	195371	195526	-	156		hypothetical protein	DEN2	clust_4932

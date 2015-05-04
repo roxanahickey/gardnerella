@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ00716	VBIBifBre167886_0716	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193118	877079	877699	+	621		Mobile element protein	BRE3	clust_2635
+BRE4|SEQ01798	VBIBifBre327712_1798	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613770	2084477	2085199	+	723		Mobile element protein	BRE4	clust_2635
+BRE5|SEQ00327	VBIBifBre336369_0328	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614762	386975	387832	+	858		Mobile element protein	BRE5	clust_2635
+INF1|SEQ02027	VBIBifLon182273_2027	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888131	2378216	2378731	-	516		hypothetical protein	INF1	clust_2635
+LON3|SEQ01787	VBIBifLon156230_1790	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766762	660420	661040	+	621		Mobile element protein	LON3	clust_2635

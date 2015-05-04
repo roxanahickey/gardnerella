@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01963	VBIBifAdo136061_1963	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190303	509533	511215	-	1683		Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	ADO1	clust_2513
+INF1|SEQ00056	VBIBifLon182273_0056	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884013	70664	71752	+	1089		Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	INF1	clust_2513
+LON1|SEQ01319	VBIBifLon107831_1320	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119747	1554504	1555646	-	1143		Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	LON1	clust_2513
+LON2|SEQ01351	VBIBifLon171405_1354	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582282	1561340	1562428	-	1089		Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	LON2	clust_2513
+LON3|SEQ01431	VBIBifLon156230_1434	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769477	2202879	2203967	-	1089		Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	LON3	clust_2513
+LON4|SEQ00065	VBIBifLon48544_0065	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888333	83385	84527	+	1143		Uncharacterized protein containing a von Willebrand factor type A (vWA) domain	LON4	clust_2513

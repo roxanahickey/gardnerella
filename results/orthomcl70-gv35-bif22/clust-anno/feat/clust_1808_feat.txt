@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01800	VBIBifAdo136061_1800	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189971	304601	306226	-	1626		Probable solute-binding protein of ABC transporter for peptides	ADO1	clust_1808
+ANI1|SEQ01185	VBIBifAni240121_1185	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847359	1375713	1376942	-	1230	oppA	Probable solute-binding protein of ABC transporter for peptides	ANI1	clust_1808
+ANI2|SEQ01185	VBIBifAni235968_1185	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850712	1375717	1376946	-	1230	oppA	Probable solute-binding protein of ABC transporter for peptides	ANI2	clust_1808
+ANI3|SEQ01194	VBIBifAni108068_1194	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764733	1381165	1382394	-	1230		Probable solute-binding protein of ABC transporter for peptides	ANI3	clust_1808
+BIF1|SEQ00545	VBIBifBif87902_0545	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883625	677342	678970	+	1629		Probable solute-binding protein of ABC transporter for peptides	BIF1	clust_1808
+DEN1|SEQ01235	VBIBifDen165269_1236	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459599	461530	463158	+	1629		Probable solute-binding protein of ABC transporter for peptides	DEN1	clust_1808
+DEN2|SEQ01742	VBIBifDen39005_1743	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS	42111881	49391	51019	+	1629		Probable solute-binding protein of ABC transporter for peptides	DEN2	clust_1808
+INF1|SEQ01329	VBIBifLon182273_1329	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886662	1501463	1503097	-	1635		Probable solute-binding protein of ABC transporter for peptides	INF1	clust_1808
+LON1|SEQ00203	VBIBifLon107831_0203	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117443	240999	242633	+	1635		Probable solute-binding protein of ABC transporter for peptides	LON1	clust_1808
+LON2|SEQ00244	VBIBifLon171405_0245	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579991	283695	285329	+	1635	ddpA1	Probable solute-binding protein of ABC transporter for peptides	LON2	clust_1808
+LON3|SEQ01931	VBIBifLon156230_1934	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767054	855679	857313	+	1635		Probable solute-binding protein of ABC transporter for peptides	LON3	clust_1808
+LON4|SEQ01305	VBIBifLon48544_1305	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890954	1476160	1477794	-	1635		Probable solute-binding protein of ABC transporter for peptides	LON4	clust_1808
+THE1|SEQ00649	VBIBifThe274299_0649	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734476	823080	824702	+	1623		Probable solute-binding protein of ABC transporter for peptides	THE1	clust_1808

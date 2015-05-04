@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01528	86848079	VBIBifAni240121_1528	SEQ01528	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2834
+ANI2|SEQ01526	86851428	VBIBifAni235968_1526	SEQ01526	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2834
+ANI3|SEQ01537	42765450	VBIBifAni108068_1537	SEQ01537	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2834
+BRE9|SEQ00341	58444728	VBIBifBre30019_0341	SEQ00341	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2834

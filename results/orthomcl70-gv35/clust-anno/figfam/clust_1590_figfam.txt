@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV01|SEQ00713	85495587	VBIGarVag247323_0713	SEQ00713	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	NA	sensor protein fixL( EC:2.7.3.- )	FIG00670092	figfam	clust_1590
+GV29|SEQ00525	183990463	VBIGarVag265473_0525	SEQ00525	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000025	PATRIC	CDS	NA	sensor protein fixL( EC:2.7.3.- )	FIG00670092	figfam	clust_1590
+GV32|SEQ00185	183998215	VBIGarVag277040_0185	SEQ00185	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000013	PATRIC	CDS	NA	sensor protein fixL( EC:2.7.3.- )	FIG00670092	figfam	clust_1590
+GV35|SEQ00002	184006273	VBIGarVag272169_0002	SEQ00002	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000001	PATRIC	CDS	NA	sensor protein fixL( EC:2.7.3.- )	FIG00670092	figfam	clust_1590

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00108	86882715	VBIBifBif87902_0108	SEQ00108	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		phage integrase family protein	FIG01326760	figfam	clust_3818
+DEN1|SEQ01711	43460577	VBIBifDen165269_1712	SEQ01711	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_3818
+DEN2|SEQ00491	42109310	VBIBifDen39005_0491	SEQ00491	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS		Integrase	FIG01116662	figfam	clust_3818

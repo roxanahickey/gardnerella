@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01015	86847012	VBIBifAni240121_1015	SEQ01015	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+ANI2|SEQ01015	86850365	VBIBifAni235968_1015	SEQ01015	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+ANI3|SEQ01019	42764379	VBIBifAni108068_1019	SEQ01019	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+DEN1|SEQ01931	43461029	VBIBifDen165269_1932	SEQ01931	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+DEN2|SEQ00898	42110148	VBIBifDen39005_0898	SEQ00898	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+INF1|SEQ00766	46885501	VBIBifLon182273_0766	SEQ00766	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+LON1|SEQ00607	21118271	VBIBifLon107831_0608	SEQ00607	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+LON2|SEQ00667	42580860	VBIBifLon171405_0668	SEQ00667	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+LON3|SEQ00474	42767900	VBIBifLon156230_0474	SEQ00474	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025
+LON4|SEQ00738	46889747	VBIBifLon48544_0738	SEQ00738	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Carbon starvation protein A	FIG00001750	figfam	clust_2025

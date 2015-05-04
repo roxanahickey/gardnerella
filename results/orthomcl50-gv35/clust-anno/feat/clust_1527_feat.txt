@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00627	VBIGarVag244004_0627	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490035	78411	79220	+	810		Abortive infection protein AbiGII	GV06	clust_1527
+GV11|SEQ01179	VBIGarVag171052_1179	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550767	55160	55969	+	810		Abortive infection protein AbiGII	GV11	clust_1527
+GV25|SEQ00334	VBIGarVag270495_0334	Gardnerella vaginalis JCP7719	ATJO01000021	PATRIC	CDS	183978570	4246	4869	-	624		Abortive infection protein AbiGII	GV25	clust_1527
+GV28|SEQ00227	VBIGarVag271349_0227	Gardnerella vaginalis JCP8066	ATJL01000016	PATRIC	CDS	183987116	10839	11462	-	624		Abortive infection protein AbiGII	GV28	clust_1527
+GV29|SEQ00482	VBIGarVag265473_0482	Gardnerella vaginalis JCP8070	ATJK01000023	PATRIC	CDS	183990375	10125	10934	-	810		Abortive infection protein AbiGII	GV29	clust_1527
+GV35|SEQ00523	VBIGarVag272169_0523	Gardnerella vaginalis JCP8522	ATJE01000032	PATRIC	CDS	184007374	3390	4199	-	810		Abortive infection protein AbiGII	GV35	clust_1527

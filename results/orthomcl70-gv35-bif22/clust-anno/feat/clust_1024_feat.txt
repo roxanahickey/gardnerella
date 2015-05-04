@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00014	VBIBifAdo136061_0014	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186220	6550	7482	-	933		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	ADO1	clust_1024
+ANI1|SEQ01568	VBIBifAni240121_1568	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848172	1891958	1892950	-	993	msmF	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	ANI1	clust_1024
+ANI2|SEQ01565	VBIBifAni235968_1565	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851518	1892182	1893174	-	993	msmF	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	ANI2	clust_1024
+ANI3|SEQ01577	VBIBifAni108068_1578	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765542	1897413	1898405	-	993		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	ANI3	clust_1024
+BRE1|SEQ01845	VBIBifBre340958_1847	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605757	2171815	2172765	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE1	clust_1024
+BRE2|SEQ01935	VBIBifBre337368_1935	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609912	2258705	2259655	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE2	clust_1024
+BRE3|SEQ01907	VBIBifBre167886_1907	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195611	2244553	2245503	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE3	clust_1024
+BRE4|SEQ01885	VBIBifBre327712_1885	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613954	2204531	2205481	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE4	clust_1024
+BRE5|SEQ02023	VBIBifBre336369_2024	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618282	2295598	2296548	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE5	clust_1024
+BRE6|SEQ00478	VBIBifBre268992_0478	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654089	1774	2724	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE6	clust_1024
+BRE7|SEQ01922	VBIBifBre340732_1922	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622384	2234307	2235257	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE7	clust_1024
+BRE8|SEQ01881	VBIBifBre176493_1881	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626421	2212017	2212967	-	951		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE8	clust_1024
+BRE9|SEQ02011	VBIBifBre30019_2011	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448202	2338282	2339229	-	948		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	BRE9	clust_1024
+DEN1|SEQ00216	VBIBifDen165269_0217	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461699	1580146	1581087	-	942		binding-protein-dependent transport system permease	DEN1	clust_1024
+DEN1|SEQ00744	VBIBifDen165269_0745	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462794	2233154	2234068	+	915	rafF	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	DEN1	clust_1024
+DEN2|SEQ00011	VBIBifDen39005_0011	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS	42108303	11946	12860	-	915		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	DEN2	clust_1024
+DEN2|SEQ02008	VBIBifDen39005_2010	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112448	249638	250579	-	942		binding-protein-dependent transport system permease	DEN2	clust_1024
+GV04|SEQ00135	VBIGarVag246433_0135	Gardnerella vaginalis 0288E	ADEN01000002	PATRIC	CDS	85480119	14962	15849	-	888		binding-protein-dependent transport system permease	GV04	clust_1024
+GV08|SEQ01223	VBIGarVag251521_1223	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476909	333680	334546	+	867		binding-protein-dependent transport system permease	GV08	clust_1024
+GV11|SEQ00583	VBIGarVag171052_0583	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549501	14886	15773	-	888		binding-protein-dependent transport system permease	GV11	clust_1024
+GV21|SEQ00683	VBIGarVag274454_0684	Gardnerella vaginalis JCP7275	ATJS01000043	PATRIC	CDS	183968064	4505	5392	-	888		binding-protein-dependent transport system permease	GV21	clust_1024
+GV22|SEQ00606	VBIGarVag276801_0607	Gardnerella vaginalis JCP7276	ATJR01000019	PATRIC	CDS	183970649	14216	15103	-	888		binding-protein-dependent transport system permease	GV22	clust_1024
+GV24|SEQ00254	VBIGarVag268944_0255	Gardnerella vaginalis JCP7672	ATJP01000010	PATRIC	CDS	183975617	4310	5197	-	888		binding-protein-dependent transport system permease	GV24	clust_1024
+INF1|SEQ01982	VBIBifLon182273_1982	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888037	2311805	2312734	-	930		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	INF1	clust_1024
+LON1|SEQ01424	VBIBifLon107831_1425	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119963	1697841	1698770	+	930	msmF	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON1	clust_1024
+LON2|SEQ01465	VBIBifLon171405_1468	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582517	1712034	1712963	+	930		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON2	clust_1024
+LON2|SEQ01651	VBIBifLon171405_1654	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582913	1996604	1997515	+	912		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON2	clust_1024
+LON3|SEQ01549	VBIBifLon156230_1552	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769719	2366505	2367434	+	930		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON3	clust_1024
+LON4|SEQ01949	VBIBifLon48544_1950	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892315	2313545	2314474	-	930		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	LON4	clust_1024
+THE1|SEQ01794	VBIBifThe274299_1794	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736878	2233106	2234044	-	939		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	THE1	clust_1024

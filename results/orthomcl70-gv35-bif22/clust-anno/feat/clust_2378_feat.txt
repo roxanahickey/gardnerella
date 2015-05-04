@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00826	VBIBifBre340958_0826	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603636	989624	990511	+	888		cation-transporting ATPase, E1-E2 family	BRE1	clust_2378
+BRE2|SEQ00907	VBIBifBre337368_0907	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607770	1071633	1072583	+	951		Cation-transporting ATPase, E1-E2 family	BRE2	clust_2378
+BRE3|SEQ00974	VBIBifBre167886_0974	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193660	1142945	1143895	-	951		cation-transporting ATPase, E1-E2 family	BRE3	clust_2378
+BRE5|SEQ00859	VBIBifBre336369_0860	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615864	1013253	1013945	+	693		Cation-transporting ATPase, E1-E2 family	BRE5	clust_2378
+BRE6|SEQ00805	VBIBifBre268992_0805	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654782	13525	14412	-	888		cation-transporting ATPase, E1-E2 family	BRE6	clust_2378
+BRE8|SEQ00886	VBIBifBre176493_0886	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624338	1065978	1066865	+	888		cation-transporting ATPase, E1-E2 family	BRE8	clust_2378
+BRE9|SEQ00941	VBIBifBre30019_0941	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445978	1119114	1120064	+	951		cation-transporting ATPase, E1-E2 family	BRE9	clust_2378

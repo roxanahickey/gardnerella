@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01117	VBIBifBre337368_1117	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608208	1292086	1292961	-	876		putative integral membrane protein	BRE2	clust_2340
+BRE4|SEQ00931	VBIBifBre327712_0931	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611965	1104326	1105201	+	876		putative integral membrane protein	BRE4	clust_2340
+BRE5|SEQ01153	VBIBifBre336369_1154	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616477	1291720	1292595	-	876		putative integral membrane protein	BRE5	clust_2340
+BRE6|SEQ00841	VBIBifBre268992_0841	Bifidobacterium breve JCP7499	AWSX01000045	PATRIC	CDS	177654861	2943	3209	-	267		putative integral membrane protein	BRE6	clust_2340
+BRE7|SEQ01067	VBIBifBre340732_1067	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620610	1237764	1238639	-	876		putative integral membrane protein	BRE7	clust_2340
+BRE9|SEQ01154	VBIBifBre30019_1154	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446424	1338931	1339806	-	876		putative integral membrane protein	BRE9	clust_2340
+LON2|SEQ00501	VBIBifLon171405_0502	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580523	570639	571037	-	399		putative integral membrane protein	LON2	clust_2340

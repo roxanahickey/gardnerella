@@ -1,0 +1,111 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00623	VBIBifAdo136061_0623	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187530	493894	496056	+	2163		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ADO1	clust_0003
+ADO1|SEQ02020	VBIBifAdo136061_2020	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190425	591937	594105	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ADO1	clust_0003
+ANI1|SEQ00377	VBIBifAni240121_0377	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845678	455826	457994	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ANI1	clust_0003
+ANI1|SEQ01543	VBIBifAni240121_1543	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848109	1847722	1849920	+	2199		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ANI1	clust_0003
+ANI2|SEQ00377	VBIBifAni235968_0377	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849033	455828	457996	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ANI2	clust_0003
+ANI2|SEQ01541	VBIBifAni235968_1541	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851458	1847943	1850141	+	2199		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ANI2	clust_0003
+ANI3|SEQ00378	VBIBifAni108068_0378	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763046	455829	457997	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ANI3	clust_0003
+ANI3|SEQ01552	VBIBifAni108068_1552	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765480	1853174	1855372	+	2199		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	ANI3	clust_0003
+BIF1|SEQ01535	VBIBifBif87902_1535	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885675	1843015	1845240	-	2226	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BIF1	clust_0003
+BRE1|SEQ00112	VBIBifBre340958_0112	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602149	150685	152901	-	2217		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE1	clust_0003
+BRE1|SEQ01616	VBIBifBre340958_1617	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605272	1888328	1890493	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE1	clust_0003
+BRE2|SEQ00108	VBIBifBre337368_0108	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606114	145522	147726	-	2205		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE2	clust_0003
+BRE2|SEQ01724	VBIBifBre337368_1724	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609464	1990862	1993027	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE2	clust_0003
+BRE3|SEQ00111	VBIBifBre167886_0111	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191867	151797	154001	-	2205	malQ_1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE3	clust_0003
+BRE3|SEQ01677	VBIBifBre167886_1677	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195120	1948042	1950273	-	2232	malQ_2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE3	clust_0003
+BRE4|SEQ00132	VBIBifBre327712_0132	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610304	178212	180416	-	2205		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE4	clust_0003
+BRE4|SEQ01658	VBIBifBre327712_1658	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613473	1923014	1925179	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE4	clust_0003
+BRE5|SEQ00118	VBIBifBre336369_0118	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614325	152291	154495	-	2205		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE5	clust_0003
+BRE5|SEQ01779	VBIBifBre336369_1780	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617768	1993748	1995913	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE5	clust_0003
+BRE6|SEQ01246	VBIBifBre268992_1246	Bifidobacterium breve JCP7499	AWSX01000060	PATRIC	CDS	177655713	225	2441	+	2217		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE6	clust_0003
+BRE6|SEQ01411	VBIBifBre268992_1411	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656072	20627	22792	+	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE6	clust_0003
+BRE7|SEQ00104	VBIBifBre340732_0104	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618606	141074	143290	-	2217		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE7	clust_0003
+BRE7|SEQ01705	VBIBifBre340732_1705	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621924	1959549	1961714	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE7	clust_0003
+BRE8|SEQ00130	VBIBifBre176493_0130	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622771	172428	174632	-	2205	malQ1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE8	clust_0003
+BRE8|SEQ01662	VBIBifBre176493_1662	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625950	1932932	1935097	-	2166	malQ2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE8	clust_0003
+BRE9|SEQ00128	VBIBifBre30019_0128	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444286	172642	174846	-	2205	malQ1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE9	clust_0003
+BRE9|SEQ01769	VBIBifBre30019_1769	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447692	2036990	2039155	-	2166	malQ2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	BRE9	clust_0003
+DEN1|SEQ00286	VBIBifDen165269_0287	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461843	1645778	1647946	-	2169	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	DEN1	clust_0003
+DEN1|SEQ00770	VBIBifDen165269_0771	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462846	2268249	2270414	-	2166	malQ2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	DEN1	clust_0003
+DEN2|SEQ01030	VBIBifDen39005_1030	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110415	19233	21398	-	2166	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	DEN2	clust_0003
+DEN2|SEQ02237	VBIBifDen39005_2240	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112931	157650	159818	+	2169	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	DEN2	clust_0003
+GV01|SEQ00747	VBIGarVag247323_0747	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495656	28471	30735	-	2265		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV01	clust_0003
+GV01|SEQ00937	VBIGarVag247323_0937	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496057	165879	168047	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV01	clust_0003
+GV02|SEQ01025	VBIGarVag242669_1025	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498905	28718	30982	-	2265		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV02	clust_0003
+GV02|SEQ01129	VBIGarVag242669_1129	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499121	93861	96029	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV02	clust_0003
+GV03|SEQ00349	VBIGarVag247424_0349	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500098	313143	315308	+	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV03	clust_0003
+GV03|SEQ00440	VBIGarVag247424_0440	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500285	67963	70206	+	2244		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV03	clust_0003
+GV04|SEQ00032	VBIGarVag246433_0032	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479900	23304	25472	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV04	clust_0003
+GV04|SEQ01199	VBIGarVag246433_1199	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482327	31662	33914	-	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV04	clust_0003
+GV05|SEQ00139	VBIGarVag174900_0139	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52545987	27375	29618	-	2244		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV05	clust_0003
+GV05|SEQ00449	VBIGarVag174900_0449	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546638	24661	26766	+	2106		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV05	clust_0003
+GV06|SEQ00502	VBIGarVag244004_0502	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489763	10035	12287	+	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV06	clust_0003
+GV06|SEQ00584	VBIGarVag244004_0584	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489937	23808	25976	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV06	clust_0003
+GV07|SEQ00956	VBIGarVag249177_0956	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493586	248205	250382	-	2178		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV07	clust_0003
+GV07|SEQ01060	VBIGarVag249177_1060	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493806	67499	69742	+	2244		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV07	clust_0003
+GV08|SEQ00581	VBIGarVag251521_0581	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475577	28056	30305	-	2250		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV08	clust_0003
+GV08|SEQ01189	VBIGarVag251521_1189	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476839	305044	307212	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV08	clust_0003
+GV09|SEQ01028	VBIGarVag169280_1028	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261277	31580	33832	-	2253	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV09	clust_0003
+GV09|SEQ01220	VBIGarVag169280_1220	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261681	91503	93671	+	2169	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV09	clust_0003
+GV10|SEQ00226	VBIGarVag136958_0226	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146482	276708	278882	+	2175	malQ_1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV10	clust_0003
+GV10|SEQ01146	VBIGarVag136958_1146	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148390	1553648	1555897	+	2250	malQ_2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV10	clust_0003
+GV11|SEQ00017	VBIGarVag171052_0017	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548296	26448	28700	+	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV11	clust_0003
+GV11|SEQ00618	VBIGarVag171052_0618	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549574	42386	43990	-	1605		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV11	clust_0003
+GV12|SEQ00049	VBIGarVag144721_0049	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852748	63499	65748	+	2250		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV12	clust_0003
+GV12|SEQ00766	VBIGarVag144721_0766	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854245	313942	316116	+	2175		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV12	clust_0003
+GV13|SEQ01089	VBIGarVag244533_1089	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488207	89245	91413	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV13	clust_0003
+GV13|SEQ01216	VBIGarVag244533_1216	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488484	29954	32203	-	2250		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV13	clust_0003
+GV14|SEQ00104	VBIGarVag244375_0104	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502027	88065	90230	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV14	clust_0003
+GV14|SEQ00903	VBIGarVag244375_0903	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503701	20817	23060	-	2244		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV14	clust_0003
+GV15|SEQ00022	VBIGarVag249709_0022	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483530	20760	23009	-	2250		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV15	clust_0003
+GV15|SEQ00438	VBIGarVag249709_0438	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484398	169546	171711	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV15	clust_0003
+GV16|SEQ00033	VBIGarVag246379_0033	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477170	31799	34051	-	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV16	clust_0003
+GV16|SEQ00344	VBIGarVag246379_0344	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477820	314883	317051	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV16	clust_0003
+GV17|SEQ00047	VBIGarVag146634_0047	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850090	63811	66060	+	2250		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV17	clust_0003
+GV17|SEQ00362	VBIGarVag146634_0362	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850743	341963	344137	-	2175		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV17	clust_0003
+GV18|SEQ00774	VBIGarVag4823_0774	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070339	18592	20784	-	2193		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV18	clust_0003
+GV18|SEQ00873	VBIGarVag4823_0873	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000131	PATRIC	CDS	42070545	21560	23728	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV18	clust_0003
+GV19|SEQ00232	VBIGarVag39333_0232	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627317	272628	274877	-	2250	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV19	clust_0003
+GV19|SEQ01269	VBIGarVag39333_1272	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629463	1579352	1581520	-	2169	malQ2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV19	clust_0003
+GV20|SEQ00113	VBIGarVag188338_0113	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189010	135213	137462	-	2250	malQ_1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV20	clust_0003
+GV20|SEQ00228	VBIGarVag188338_0228	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189254	270130	272298	+	2169	malQ_2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV20	clust_0003
+GV21|SEQ00650	VBIGarVag274454_0651	Gardnerella vaginalis JCP7275	ATJS01000039	PATRIC	CDS	183967994	22210	24459	-	2250		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV21	clust_0003
+GV21|SEQ00810	VBIGarVag274454_0811	Gardnerella vaginalis JCP7275	ATJS01000057	PATRIC	CDS	183968350	12936	15104	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV21	clust_0003
+GV22|SEQ00199	VBIGarVag276801_0199	Gardnerella vaginalis JCP7276	ATJR01000005	PATRIC	CDS	183969793	4751	6919	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV22	clust_0003
+GV22|SEQ00800	VBIGarVag276801_0801	Gardnerella vaginalis JCP7276	ATJR01000038	PATRIC	CDS	183971060	8697	10949	-	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV22	clust_0003
+GV23|SEQ01164	VBIGarVag276017_1164	Gardnerella vaginalis JCP7659	ATJQ01000163	PATRIC	CDS	183974850	4817	6985	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV23	clust_0003
+GV24|SEQ00491	VBIGarVag268944_0492	Gardnerella vaginalis JCP7672	ATJP01000024	PATRIC	CDS	183976119	8691	10943	-	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV24	clust_0003
+GV24|SEQ00584	VBIGarVag268944_0585	Gardnerella vaginalis JCP7672	ATJP01000034	PATRIC	CDS	183976331	15047	17215	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV24	clust_0003
+GV25|SEQ00904	VBIGarVag270495_0904	Gardnerella vaginalis JCP7719	ATJO01000081	PATRIC	CDS	183979806	19418	21586	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV25	clust_0003
+GV26|SEQ01254	VBIGarVag272749_1254	Gardnerella vaginalis JCP8017A	ATJN01000152	PATRIC	CDS	183983470	7487	9664	-	2178		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV26	clust_0003
+GV26|SEQ01284	VBIGarVag272749_1284	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983550	9691	11955	+	2265		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV26	clust_0003
+GV27|SEQ01236	VBIGarVag276930_1236	Gardnerella vaginalis JCP8017B	ATJM01000139	PATRIC	CDS	183986378	7406	9574	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV27	clust_0003
+GV27|SEQ01284	VBIGarVag276930_1284	Gardnerella vaginalis JCP8017B	ATJM01000158	PATRIC	CDS	183986501	8842	11106	+	2265		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV27	clust_0003
+GV28|SEQ00006	VBIGarVag271349_0006	Gardnerella vaginalis JCP8066	ATJL01000004	PATRIC	CDS	183986658	4013	6274	+	2262		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV28	clust_0003
+GV28|SEQ00414	VBIGarVag271349_0414	Gardnerella vaginalis JCP8066	ATJL01000023	PATRIC	CDS	183987519	12843	15011	+	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV28	clust_0003
+GV29|SEQ00642	VBIGarVag265473_0642	Gardnerella vaginalis JCP8070	ATJK01000040	PATRIC	CDS	183990724	7284	9452	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV29	clust_0003
+GV29|SEQ00679	VBIGarVag265473_0679	Gardnerella vaginalis JCP8070	ATJK01000042	PATRIC	CDS	183990808	6245	8509	-	2265		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV29	clust_0003
+GV30|SEQ00147	VBIGarVag267667_0147	Gardnerella vaginalis JCP8108	ATJJ01000004	PATRIC	CDS	183992339	4489	6741	+	2253		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV30	clust_0003
+GV30|SEQ00446	VBIGarVag267667_0447	Gardnerella vaginalis JCP8108	ATJJ01000022	PATRIC	CDS	183992973	7180	9348	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV30	clust_0003
+GV31|SEQ00626	VBIGarVag264983_0626	Gardnerella vaginalis JCP8151A	ATJI01000029	PATRIC	CDS	183996338	3243	5504	+	2262		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV31	clust_0003
+GV31|SEQ00757	VBIGarVag264983_0757	Gardnerella vaginalis JCP8151A	ATJI01000041	PATRIC	CDS	183996621	4849	7026	-	2178		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV31	clust_0003
+GV32|SEQ00485	VBIGarVag277040_0485	Gardnerella vaginalis JCP8151B	ATJH01000027	PATRIC	CDS	183998851	4859	7027	-	2169		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV32	clust_0003
+GV33|SEQ00001	VBIGarVag265557_0001	Gardnerella vaginalis JCP8481A	ATJG01000001	PATRIC	CDS	184000657	283	2526	-	2244		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV33	clust_0003
+GV33|SEQ01184	VBIGarVag265557_1184	Gardnerella vaginalis JCP8481A	ATJG01000180	PATRIC	CDS	184003299	9810	11975	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV33	clust_0003
+GV34|SEQ00005	VBIGarVag270440_0005	Gardnerella vaginalis JCP8481B	ATJF01000001	PATRIC	CDS	184003498	3057	5222	+	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV34	clust_0003
+GV34|SEQ00290	VBIGarVag270440_0290	Gardnerella vaginalis JCP8481B	ATJF01000020	PATRIC	CDS	184004121	11055	13298	+	2244		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV34	clust_0003
+GV35|SEQ00418	VBIGarVag272169_0418	Gardnerella vaginalis JCP8522	ATJE01000022	PATRIC	CDS	184007148	1108	3285	-	2178		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV35	clust_0003
+GV35|SEQ01059	VBIGarVag272169_1059	Gardnerella vaginalis JCP8522	ATJE01000153	PATRIC	CDS	184008617	9620	11881	+	2262		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV35	clust_0003
+INF1|SEQ00109	VBIBifLon182273_0109	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884124	134884	137121	-	2238		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	INF1	clust_0003
+INF1|SEQ01798	VBIBifLon182273_1798	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887632	2043059	2045224	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	INF1	clust_0003
+LON1|SEQ01266	VBIBifLon107831_1267	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119637	1490774	1493011	+	2238	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON1	clust_0003
+LON1|SEQ01626	VBIBifLon107831_1627	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120400	1983830	1985995	+	2166	malQ1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON1	clust_0003
+LON2|SEQ01293	VBIBifLon171405_1296	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582161	1497167	1499404	+	2238	malQ1	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON2	clust_0003
+LON2|SEQ01661	VBIBifLon171405_1664	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582935	2007601	2009766	+	2166	malQ2	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON2	clust_0003
+LON3|SEQ01370	VBIBifLon156230_1373	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769349	2126885	2129122	+	2238		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON3	clust_0003
+LON3|SEQ01663	VBIBifLon156230_1666	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766500	502997	505162	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON3	clust_0003
+LON4|SEQ00118	VBIBifLon48544_0118	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888443	150234	152471	-	2238		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON4	clust_0003
+LON4|SEQ01747	VBIBifLon48544_1747	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891875	2003503	2005668	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	LON4	clust_0003
+THE1|SEQ01451	VBIBifThe274299_1451	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736142	1786127	1788292	-	2166		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	THE1	clust_0003
+THE1|SEQ01683	VBIBifThe274299_1683	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736635	2089825	2092038	+	2214		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	THE1	clust_0003

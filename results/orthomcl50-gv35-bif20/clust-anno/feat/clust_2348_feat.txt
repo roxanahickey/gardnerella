@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01044	VBIBifBre340958_1044	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604090	1221680	1222969	+	1290		two-component system sensor kinase	BRE1	clust_2348
+BRE2|SEQ01162	VBIBifBre337368_1162	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608302	1329753	1331042	+	1290		two-component system sensor kinase	BRE2	clust_2348
+BRE3|SEQ00737	VBIBifBre167886_0737	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193163	900582	901871	-	1290		two-component system sensor kinase	BRE3	clust_2348
+BRE4|SEQ01116	VBIBifBre327712_1116	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612351	1287782	1289071	+	1290		two-component system sensor kinase	BRE4	clust_2348
+BRE5|SEQ01210	VBIBifBre336369_1211	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616595	1339294	1340583	+	1290		two-component system sensor kinase	BRE5	clust_2348
+BRE6|SEQ00829	VBIBifBre268992_0829	Bifidobacterium breve JCP7499	AWSX01000042	PATRIC	CDS	177654834	8347	9636	-	1290		two-component system sensor kinase	BRE6	clust_2348
+BRE7|SEQ01121	VBIBifBre340732_1121	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620722	1282565	1283854	+	1290		two-component system sensor kinase	BRE7	clust_2348

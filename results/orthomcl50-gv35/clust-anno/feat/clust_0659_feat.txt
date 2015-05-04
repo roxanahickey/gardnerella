@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00280	VBIGarVag247323_0280	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494683	13757	14584	+	828		possible ATP binding protein of ABC transporter	GV01	clust_0659
+GV02|SEQ00671	VBIGarVag242669_0671	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498159	36748	37575	-	828		possible ATP binding protein of ABC transporter	GV02	clust_0659
+GV03|SEQ00762	VBIGarVag247424_0762	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500955	47493	48332	+	840		possible ATP binding protein of ABC transporter	GV03	clust_0659
+GV04|SEQ01072	VBIGarVag246433_1072	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482065	20320	21147	+	828		possible ATP binding protein of ABC transporter	GV04	clust_0659
+GV05|SEQ00815	VBIGarVag174900_0815	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547396	474225	475064	+	840		possible ATP binding protein of ABC transporter	GV05	clust_0659
+GV06|SEQ00676	VBIGarVag244004_0676	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490136	38444	39271	-	828		possible ATP binding protein of ABC transporter	GV06	clust_0659
+GV07|SEQ00574	VBIGarVag249177_0574	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492797	57388	58227	+	840		possible ATP binding protein of ABC transporter	GV07	clust_0659
+GV08|SEQ00151	VBIGarVag251521_0151	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474673	186201	187028	-	828		possible ATP binding protein of ABC transporter	GV08	clust_0659
+GV09|SEQ00979	VBIGarVag169280_0979	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261170	405608	406435	-	828		possible ATP binding protein of ABC transporter	GV09	clust_0659
+GV10|SEQ00562	VBIGarVag136958_0562	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147182	714952	715791	+	840		possible ATP binding protein of ABC transporter	GV10	clust_0659
+GV11|SEQ00674	VBIGarVag171052_0674	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549695	38001	38828	-	828		possible ATP binding protein of ABC transporter	GV11	clust_0659
+GV12|SEQ01197	VBIGarVag144721_1197	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855224	58724	59563	+	840		possible ATP binding protein of ABC transporter	GV12	clust_0659
+GV13|SEQ00616	VBIGarVag244533_0616	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487205	38458	39285	-	828		possible ATP binding protein of ABC transporter	GV13	clust_0659
+GV14|SEQ00279	VBIGarVag244375_0279	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502400	97446	98285	+	840		possible ATP binding protein of ABC transporter	GV14	clust_0659
+GV15|SEQ00620	VBIGarVag249709_0620	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484785	55690	56529	+	840		possible ATP binding protein of ABC transporter	GV15	clust_0659
+GV16|SEQ00926	VBIGarVag246379_0926	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479019	1055714	1056541	-	828		possible ATP binding protein of ABC transporter	GV16	clust_0659
+GV17|SEQ00989	VBIGarVag146634_0989	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852066	131871	132710	-	840		possible ATP binding protein of ABC transporter	GV17	clust_0659
+GV18|SEQ00533	VBIGarVag4823_0533	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069816	4628	5455	+	828		possible ATP binding protein of ABC transporter	GV18	clust_0659
+GV19|SEQ00691	VBIGarVag39333_0692	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628276	858388	859215	+	828		possible ATP binding protein of ABC transporter	GV19	clust_0659
+GV20|SEQ00849	VBIGarVag188338_0849	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190532	1038992	1039819	-	828		possible ATP binding protein of ABC transporter	GV20	clust_0659
+GV21|SEQ00302	VBIGarVag274454_0302	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967256	92510	93337	-	828		possible ATP binding protein of ABC transporter	GV21	clust_0659
+GV22|SEQ00065	VBIGarVag276801_0065	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969515	80405	81232	+	828		possible ATP binding protein of ABC transporter	GV22	clust_0659
+GV23|SEQ00117	VBIGarVag276017_0117	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972531	12147	12974	+	828		possible ATP binding protein of ABC transporter	GV23	clust_0659
+GV24|SEQ01007	VBIGarVag268944_1008	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977245	94508	95335	-	828		possible ATP binding protein of ABC transporter	GV24	clust_0659
+GV25|SEQ00725	VBIGarVag270495_0725	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979417	25160	25987	+	828		possible ATP binding protein of ABC transporter	GV25	clust_0659
+GV26|SEQ00365	VBIGarVag272749_0365	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981508	12163	12990	+	828		possible ATP binding protein of ABC transporter	GV26	clust_0659
+GV27|SEQ00117	VBIGarVag276930_0117	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983948	36868	37695	-	828		possible ATP binding protein of ABC transporter	GV27	clust_0659
+GV28|SEQ00255	VBIGarVag271349_0255	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987173	19139	19966	+	828		possible ATP binding protein of ABC transporter	GV28	clust_0659
+GV29|SEQ00870	VBIGarVag265473_0870	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991229	18478	19305	+	828		possible ATP binding protein of ABC transporter	GV29	clust_0659
+GV30|SEQ00276	VBIGarVag267667_0277	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992610	47062	47889	-	828		possible ATP binding protein of ABC transporter	GV30	clust_0659
+GV31|SEQ00010	VBIGarVag264983_0010	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995038	11304	12131	+	828		possible ATP binding protein of ABC transporter	GV31	clust_0659
+GV32|SEQ00269	VBIGarVag277040_0269	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998386	94587	95414	+	828		possible ATP binding protein of ABC transporter	GV32	clust_0659
+GV33|SEQ00751	VBIGarVag265557_0751	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002280	46163	47002	+	840		possible ATP binding protein of ABC transporter	GV33	clust_0659
+GV34|SEQ00692	VBIGarVag270440_0692	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184005001	46163	47002	+	840		possible ATP binding protein of ABC transporter	GV34	clust_0659
+GV35|SEQ00143	VBIGarVag272169_0143	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006565	29691	30518	+	828		possible ATP binding protein of ABC transporter	GV35	clust_0659

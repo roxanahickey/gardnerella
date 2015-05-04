@@ -1,0 +1,27 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ01029	VBIGarVag136958_1029	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148144	1373765	1374760	+	996		A/G-specific adenine glycosylase (EC 3.2.2.-)	GV10	clust_1062
+GV12|SEQ00437	VBIGarVag144721_0437	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853551	482567	483562	+	996		A/G-specific adenine glycosylase (EC 3.2.2.-)	GV12	clust_1062
+GV15|SEQ01016	VBIGarVag249709_1016	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485612	226400	227395	+	996		A/G-specific adenine glycosylase (EC 3.2.2.-)	GV15	clust_1062
+GV17|SEQ01182	VBIGarVag146634_1182	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852463	164067	165062	+	996		A/G-specific adenine glycosylase (EC 3.2.2.-)	GV17	clust_1062
+GV33|SEQ01057	VBIGarVag265557_1057	Gardnerella vaginalis JCP8481A	ATJG01000137	PATRIC	CDS	184002984	669	1607	+	939		A/G-specific adenine glycosylase (EC 3.2.2.-)	GV33	clust_1062
+GV34|SEQ00649	VBIGarVag270440_0649	Gardnerella vaginalis JCP8481B	ATJF01000065	PATRIC	CDS	184004905	107	1045	+	939		A/G-specific adenine glycosylase (EC 3.2.2.-)	GV34	clust_1062
+ADO1|SEQ00133	VBIBifAdo136061_0133	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186482	58562	59566	-	1005		A/G-specific adenine glycosylase (EC 3.2.2.-)	ADO1	clust_1062
+ANI1|SEQ01334	VBIBifAni240121_1334	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847675	1577399	1578388	-	990		A/G-specific adenine glycosylase (EC 3.2.2.-)	ANI1	clust_1062
+ANI2|SEQ01334	VBIBifAni235968_1334	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851028	1577620	1578609	-	990		A/G-specific adenine glycosylase (EC 3.2.2.-)	ANI2	clust_1062
+ANI3|SEQ01344	VBIBifAni108068_1344	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765048	1582851	1583840	-	990		A/G-specific adenine glycosylase (EC 3.2.2.-)	ANI3	clust_1062
+BIF1|SEQ00388	VBIBifBif87902_0388	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883307	470175	471272	+	1098	mutY	A/G-specific adenine glycosylase (EC 3.2.2.-)	BIF1	clust_1062
+BRE1|SEQ00424	VBIBifBre340958_0424	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602802	526512	527474	+	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE1	clust_1062
+BRE2|SEQ00481	VBIBifBre337368_0481	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606888	582278	583240	+	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE2	clust_1062
+BRE3|SEQ01380	VBIBifBre167886_1380	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194502	1610418	1611380	-	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE3	clust_1062
+BRE4|SEQ00447	VBIBifBre327712_0447	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610963	558299	559261	+	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE4	clust_1062
+BRE5|SEQ00458	VBIBifBre336369_0459	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615032	540218	541180	+	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE5	clust_1062
+BRE6|SEQ00724	VBIBifBre268992_0724	Bifidobacterium breve JCP7499	AWSX01000038	PATRIC	CDS	177654614	54548	55510	-	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE6	clust_1062
+BRE7|SEQ00454	VBIBifBre340732_0454	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619334	559915	560877	+	963		A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE7	clust_1062
+BRE8|SEQ00487	VBIBifBre176493_0487	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623512	603807	604769	+	963	mutY	A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE8	clust_1062
+BRE9|SEQ00540	VBIBifBre30019_0540	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445144	653605	654567	+	963	mutY	A/G-specific adenine glycosylase (EC 3.2.2.-)	BRE9	clust_1062
+INF1|SEQ00430	VBIBifLon182273_0430	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884798	533369	534355	+	987		A/G-specific adenine glycosylase (EC 3.2.2.-)	INF1	clust_1062
+LON1|SEQ00921	VBIBifLon107831_0922	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118919	1087900	1088886	-	987	mutY	A/G-specific adenine glycosylase (EC 3.2.2.-)	LON1	clust_1062
+LON2|SEQ01002	VBIBifLon171405_1003	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581551	1140763	1141749	-	987	mutY	A/G-specific adenine glycosylase (EC 3.2.2.-)	LON2	clust_1062
+LON3|SEQ00794	VBIBifLon156230_0794	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768562	1703280	1704236	-	957		A/G-specific adenine glycosylase (EC 3.2.2.-)	LON3	clust_1062
+LON4|SEQ00417	VBIBifLon48544_0417	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889073	507851	508837	+	987		A/G-specific adenine glycosylase (EC 3.2.2.-)	LON4	clust_1062
+THE1|SEQ00456	VBIBifThe274299_0456	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734088	567309	567908	+	600		A/G-specific adenine glycosylase (EC 3.2.2.-)	THE1	clust_1062

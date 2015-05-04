@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00399	VBIGarVag247323_0399	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494937	124138	125508	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV01	clust_0279
+GV02|SEQ00967	VBIGarVag242669_0967	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498783	215814	217184	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV02	clust_0279
+GV03|SEQ00019	VBIGarVag247424_0019	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499399	22549	23919	-	1371		ABC-type antimicrobial peptide transport system, permease component	GV03	clust_0279
+GV04|SEQ00945	VBIGarVag246433_0945	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481796	307176	308546	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV04	clust_0279
+GV05|SEQ01133	VBIGarVag174900_1133	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548056	106518	107888	+	1371		ABC-type antimicrobial peptide transport system, permease component	GV05	clust_0279
+GV06|SEQ01307	VBIGarVag244004_1307	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491447	180460	181830	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV06	clust_0279
+GV07|SEQ00475	VBIGarVag249177_0475	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492580	133826	135196	-	1371		ABC-type antimicrobial peptide transport system, permease component	GV07	clust_0279
+GV08|SEQ00887	VBIGarVag251521_0887	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476204	59563	60933	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV08	clust_0279
+GV09|SEQ00802	VBIGarVag169280_0802	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260805	177159	178529	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV09	clust_0279
+GV10|SEQ01005	VBIGarVag136958_1005	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148096	1320879	1322249	-	1371		ABC-type antimicrobial peptide transport system, permease component	GV10	clust_0279
+GV11|SEQ00155	VBIGarVag171052_0155	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548583	44928	46298	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV11	clust_0279
+GV12|SEQ00408	VBIGarVag144721_0408	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853493	429255	430535	-	1281		ABC-type antimicrobial peptide transport system, permease component	GV12	clust_0279
+GV13|SEQ00320	VBIGarVag244533_0320	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486591	144244	145614	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV13	clust_0279
+GV14|SEQ00703	VBIGarVag244375_0703	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503288	47284	48654	+	1371		ABC-type antimicrobial peptide transport system, permease component	GV14	clust_0279
+GV15|SEQ00985	VBIGarVag249709_0985	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485550	172488	173858	-	1371		ABC-type antimicrobial peptide transport system, permease component	GV15	clust_0279
+GV16|SEQ00737	VBIGarVag246379_0737	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478629	822852	824222	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV16	clust_0279
+GV17|SEQ01157	VBIGarVag146634_1157	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852413	109967	111247	-	1281		ABC-type antimicrobial peptide transport system, permease component	GV17	clust_0279
+GV18|SEQ00512	VBIGarVag4823_0512	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000105	PATRIC	CDS	42069772	2747	4117	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV18	clust_0279
+GV19|SEQ00876	VBIGarVag39333_0877	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628657	1086285	1087655	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV19	clust_0279
+GV20|SEQ00673	VBIGarVag188338_0673	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190168	813680	815050	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV20	clust_0279
+GV21|SEQ00036	VBIGarVag274454_0036	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966704	41226	42596	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV21	clust_0279
+GV22|SEQ00423	VBIGarVag276801_0424	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970271	49953	51323	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV22	clust_0279
+GV23|SEQ00599	VBIGarVag276017_0599	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973559	35045	36415	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV23	clust_0279
+GV24|SEQ00439	VBIGarVag268944_0440	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183976008	119058	120428	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV24	clust_0279
+GV25|SEQ01121	VBIGarVag270495_1121	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980294	26323	27693	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV25	clust_0279
+GV26|SEQ00484	VBIGarVag272749_0484	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981756	22181	23551	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV26	clust_0279
+GV27|SEQ00453	VBIGarVag276930_0453	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984653	150015	151385	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV27	clust_0279
+GV28|SEQ00844	VBIGarVag271349_0844	Gardnerella vaginalis JCP8066	ATJL01000066	PATRIC	CDS	183988450	26263	27633	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV28	clust_0279
+GV29|SEQ00163	VBIGarVag265473_0163	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989691	149323	150693	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV29	clust_0279
+GV30|SEQ00115	VBIGarVag267667_0115	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992274	21312	22682	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV30	clust_0279
+GV31|SEQ00335	VBIGarVag264983_0335	Gardnerella vaginalis JCP8151A	ATJI01000012	PATRIC	CDS	183995718	26462	27832	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV31	clust_0279
+GV32|SEQ01028	VBIGarVag277040_1028	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000096	894	2264	+	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV32	clust_0279
+GV33|SEQ00702	VBIGarVag265557_0702	Gardnerella vaginalis JCP8481A	ATJG01000070	PATRIC	CDS	184002173	454	1824	+	1371		ABC-type antimicrobial peptide transport system, permease component	GV33	clust_0279
+GV34|SEQ00651	VBIGarVag270440_0651	Gardnerella vaginalis JCP8481B	ATJF01000066	PATRIC	CDS	184004910	153	1523	+	1371		ABC-type antimicrobial peptide transport system, permease component	GV34	clust_0279
+GV35|SEQ00581	VBIGarVag272169_0581	Gardnerella vaginalis JCP8522	ATJE01000037	PATRIC	CDS	184007499	26252	27622	-	1371		ABC transporter membrane-spanning permease, Pep export, Vex3	GV35	clust_0279

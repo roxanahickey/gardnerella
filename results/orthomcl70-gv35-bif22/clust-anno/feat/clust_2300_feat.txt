@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01219	VBIBifAdo136061_1219	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188777	144497	144910	-	414		Histone acetyltransferase HPA2 and related acetyltransferases	ADO1	clust_2300
+DEN1|SEQ01608	VBIBifDen165269_1609	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460369	897991	898413	-	423		Histone acetyltransferase HPA2 and related acetyltransferases	DEN1	clust_2300
+DEN2|SEQ00596	VBIBifDen39005_0596	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109522	243867	244289	+	423		Histone acetyltransferase HPA2 and related acetyltransferases	DEN2	clust_2300
+INF1|SEQ01612	VBIBifLon182273_1612	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887238	1844178	1844582	-	405		Histone acetyltransferase HPA2 and related acetyltransferases	INF1	clust_2300
+LON1|SEQ01799	VBIBifLon107831_1800	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120764	2171669	2171887	+	219		Histone acetyltransferase HPA2 and related acetyltransferases	LON1	clust_2300
+LON2|SEQ01838	VBIBifLon171405_1841	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583307	2197757	2198161	+	405		Histone acetyltransferase HPA2 and related acetyltransferases	LON2	clust_2300
+LON3|SEQ01104	VBIBifLon156230_1106	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766080	273696	273914	-	219		Histone acetyltransferase HPA2 and related acetyltransferases	LON3	clust_2300
+LON4|SEQ01572	VBIBifLon48544_1572	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891502	1813801	1814019	-	219		Histone acetyltransferase HPA2 and related acetyltransferases	LON4	clust_2300

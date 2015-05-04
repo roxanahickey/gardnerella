@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00205	VBIGarVag247323_0205	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494524	82974	84017	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV01	clust_0563
+GV02|SEQ00477	VBIGarVag242669_0477	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497749	73214	74257	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV02	clust_0563
+GV03|SEQ00554	VBIGarVag247424_0554	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500517	110602	111627	+	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV03	clust_0563
+GV04|SEQ00407	VBIGarVag246433_0407	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480692	16254	17297	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV04	clust_0563
+GV05|SEQ00575	VBIGarVag174900_0575	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546896	171950	172975	+	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV05	clust_0563
+GV06|SEQ00830	VBIGarVag244004_0830	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490458	183633	184676	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV06	clust_0563
+GV07|SEQ00830	VBIGarVag249177_0830	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493329	102833	103858	-	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV07	clust_0563
+GV08|SEQ00390	VBIGarVag251521_0390	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475179	231343	232386	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV08	clust_0563
+GV09|SEQ00421	VBIGarVag169280_0421	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260016	123999	125042	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV09	clust_0563
+GV10|SEQ00370	VBIGarVag136958_0370	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146780	430089	431114	+	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV10	clust_0563
+GV11|SEQ01319	VBIGarVag171052_1319	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551073	96609	97652	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV11	clust_0563
+GV12|SEQ00912	VBIGarVag144721_0912	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854547	466687	467712	+	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV12	clust_0563
+GV13|SEQ00765	VBIGarVag244533_0765	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487522	229907	230950	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV13	clust_0563
+GV14|SEQ00862	VBIGarVag244375_0862	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503615	57025	58050	+	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV14	clust_0563
+GV15|SEQ00290	VBIGarVag249709_0290	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484091	13855	14880	-	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV15	clust_0563
+GV16|SEQ01070	VBIGarVag246379_1070	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479326	1241027	1242070	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV16	clust_0563
+GV17|SEQ00223	VBIGarVag146634_0223	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850455	192551	193576	-	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV17	clust_0563
+GV18|SEQ01220	VBIGarVag4823_1220	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071278	33865	34908	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV18	clust_0563
+GV19|SEQ00541	VBIGarVag39333_0542	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627959	671032	672075	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV19	clust_0563
+GV20|SEQ00982	VBIGarVag188338_0982	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190816	1213669	1214712	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV20	clust_0563
+GV21|SEQ00692	VBIGarVag274454_0693	Gardnerella vaginalis JCP7275	ATJS01000044	PATRIC	CDS	183968083	5600	6643	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV21	clust_0563
+GV22|SEQ00876	VBIGarVag276801_0877	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971239	38211	39254	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV22	clust_0563
+GV23|SEQ00747	VBIGarVag276017_0747	Gardnerella vaginalis JCP7659	ATJQ01000055	PATRIC	CDS	183973874	11290	12333	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV23	clust_0563
+GV24|SEQ00787	VBIGarVag268944_0788	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976773	47979	49022	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV24	clust_0563
+GV25|SEQ00284	VBIGarVag270495_0284	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978461	40065	41108	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV25	clust_0563
+GV26|SEQ00893	VBIGarVag272749_0893	Gardnerella vaginalis JCP8017A	ATJN01000052	PATRIC	CDS	183982633	6833	7876	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV26	clust_0563
+GV27|SEQ00686	VBIGarVag276930_0686	Gardnerella vaginalis JCP8017B	ATJM01000030	PATRIC	CDS	183985152	11455	12498	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV27	clust_0563
+GV28|SEQ00622	VBIGarVag271349_0622	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987967	65231	66274	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV28	clust_0563
+GV29|SEQ00236	VBIGarVag265473_0236	Gardnerella vaginalis JCP8070	ATJK01000009	PATRIC	CDS	183989846	15841	16884	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV29	clust_0563
+GV30|SEQ00427	VBIGarVag267667_0428	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992932	43224	44267	-	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV30	clust_0563
+GV31|SEQ00546	VBIGarVag264983_0546	Gardnerella vaginalis JCP8151A	ATJI01000021	PATRIC	CDS	183996165	6810	7853	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV31	clust_0563
+GV32|SEQ00459	VBIGarVag277040_0459	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998792	65430	66473	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV32	clust_0563
+GV33|SEQ00384	VBIGarVag265557_0384	Gardnerella vaginalis JCP8481A	ATJG01000033	PATRIC	CDS	184001489	5959	6984	+	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV33	clust_0563
+GV34|SEQ00841	VBIGarVag270440_0841	Gardnerella vaginalis JCP8481B	ATJF01000085	PATRIC	CDS	184005319	1618	2643	-	1026		Universal stress protein UspA and related nucleotide-binding proteins	GV34	clust_0563
+GV35|SEQ00735	VBIGarVag272169_0735	Gardnerella vaginalis JCP8522	ATJE01000064	PATRIC	CDS	184007850	6865	7908	+	1044		Universal stress protein UspA and related nucleotide-binding proteins	GV35	clust_0563

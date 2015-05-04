@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01114	VBIBifAdo136061_1114	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188553	23145	24377	+	1233		FIG005429: hypothetical protein	ADO1	clust_2028
+ANI1|SEQ00476	VBIBifAni240121_0476	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845886	562909	564129	+	1221		FIG005429: hypothetical protein	ANI1	clust_2028
+ANI2|SEQ00476	VBIBifAni235968_0476	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849241	562911	564131	+	1221		FIG005429: hypothetical protein	ANI2	clust_2028
+ANI3|SEQ00478	VBIBifAni108068_0478	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763254	562912	564132	+	1221		FIG005429: hypothetical protein	ANI3	clust_2028
+INF1|SEQ01133	VBIBifLon182273_1133	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886262	1271676	1272860	-	1185		FIG005429: hypothetical protein	INF1	clust_2028
+LON1|SEQ00399	VBIBifLon107831_0399	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117841	474569	475753	+	1185		FIG005429: hypothetical protein	LON1	clust_2028
+LON2|SEQ00405	VBIBifLon171405_0406	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580318	471830	473014	+	1185		FIG005429: hypothetical protein	LON2	clust_2028
+LON3|SEQ00262	VBIBifLon156230_0262	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767459	1087153	1088337	+	1185		FIG005429: hypothetical protein	LON3	clust_2028
+LON4|SEQ01156	VBIBifLon48544_1156	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890646	1299349	1300533	-	1185		FIG005429: hypothetical protein	LON4	clust_2028
+THE1|SEQ01637	VBIBifThe274299_1637	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736539	2031191	2032453	+	1263		FIG005429: hypothetical protein	THE1	clust_2028

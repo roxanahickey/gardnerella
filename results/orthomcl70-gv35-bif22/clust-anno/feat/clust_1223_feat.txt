@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01587	VBIBifAdo136061_1587	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189544	58144	59280	-	1137		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	ADO1	clust_1223
+ANI1|SEQ00722	VBIBifAni240121_0722	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846393	850373	851482	+	1110		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	ANI1	clust_1223
+ANI2|SEQ00722	VBIBifAni235968_0722	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849746	850376	851485	+	1110		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	ANI2	clust_1223
+ANI3|SEQ00723	VBIBifAni108068_0723	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763756	850378	851487	+	1110	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	ANI3	clust_1223
+BIF1|SEQ01075	VBIBifBif87902_1075	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884718	1297230	1298324	-	1095	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BIF1	clust_1223
+BRE1|SEQ00621	VBIBifBre340958_0621	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603206	765955	766920	+	966		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE1	clust_1223
+BRE2|SEQ00716	VBIBifBre337368_0716	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607367	860193	861158	+	966		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE2	clust_1223
+BRE3|SEQ01154	VBIBifBre167886_1154	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194041	1345508	1346473	-	966	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE3	clust_1223
+BRE4|SEQ00656	VBIBifBre327712_0656	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611390	806967	807932	+	966		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE4	clust_1223
+BRE5|SEQ00675	VBIBifBre336369_0676	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615475	805424	806389	+	966		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE5	clust_1223
+BRE6|SEQ01080	VBIBifBre268992_1080	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655369	8386	9351	-	966		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE6	clust_1223
+BRE7|SEQ00669	VBIBifBre340732_0669	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619774	809866	810945	+	1080		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE7	clust_1223
+BRE8|SEQ00691	VBIBifBre176493_0691	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623927	850895	851860	+	966	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE8	clust_1223
+BRE9|SEQ00738	VBIBifBre30019_0738	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445550	895034	895999	+	966	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	BRE9	clust_1223
+DEN1|SEQ01419	VBIBifDen165269_1420	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459968	685588	686682	+	1095	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	DEN1	clust_1223
+DEN2|SEQ00221	VBIBifDen39005_0221	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108759	168608	169228	-	621	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	DEN2	clust_1223
+INF1|SEQ00589	VBIBifLon182273_0589	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885124	731351	732430	+	1080		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	INF1	clust_1223
+LON1|SEQ00770	VBIBifLon107831_0771	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118613	893459	894559	-	1101	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	LON1	clust_1223
+LON2|SEQ00837	VBIBifLon171405_0838	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581216	937992	939092	-	1101	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	LON2	clust_1223
+LON3|SEQ00639	VBIBifLon156230_0639	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768247	1507507	1508607	-	1101		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	LON3	clust_1223
+LON4|SEQ00582	VBIBifLon48544_0582	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889411	709913	711013	+	1101		N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	LON4	clust_1223
+THE1|SEQ01756	VBIBifThe274299_1756	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736796	2174949	2176043	-	1095	argC	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	THE1	clust_1223

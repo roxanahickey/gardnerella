@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00155	VBIBifAdo136061_0155	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186526	95801	96412	-	612		ADP-ribose pyrophosphatase	ADO1	clust_1222
+ANI1|SEQ01357	VBIBifAni240121_1357	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847721	1603236	1603850	-	615		ADP-ribose pyrophosphatase	ANI1	clust_1222
+ANI2|SEQ01357	VBIBifAni235968_1357	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851074	1603454	1604056	-	603		ADP-ribose pyrophosphatase	ANI2	clust_1222
+ANI3|SEQ01367	VBIBifAni108068_1367	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765094	1608685	1609299	-	615		ADP-ribose pyrophosphatase	ANI3	clust_1222
+BIF1|SEQ00361	VBIBifBif87902_0361	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883253	440433	441050	+	618		ADP-ribose pyrophosphatase	BIF1	clust_1222
+BRE1|SEQ00406	VBIBifBre340958_0406	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602765	503049	503711	+	663		ADP-ribose pyrophosphatase	BRE1	clust_1222
+BRE2|SEQ00463	VBIBifBre337368_0463	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606850	559067	559690	+	624		ADP-ribose pyrophosphatase	BRE2	clust_1222
+BRE3|SEQ01398	VBIBifBre167886_1398	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194538	1634180	1634842	-	663		ADP-ribose pyrophosphatase	BRE3	clust_1222
+BRE4|SEQ00428	VBIBifBre327712_0428	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610924	534952	535614	+	663		ADP-ribose pyrophosphatase	BRE4	clust_1222
+BRE5|SEQ00439	VBIBifBre336369_0440	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614993	516570	517232	+	663		ADP-ribose pyrophosphatase	BRE5	clust_1222
+BRE6|SEQ01414	VBIBifBre268992_1414	Bifidobacterium breve JCP7499	AWSX01000069	PATRIC	CDS	177656079	98	760	-	663		ADP-ribose pyrophosphatase	BRE6	clust_1222
+BRE7|SEQ00436	VBIBifBre340732_0436	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619297	536567	537229	+	663		ADP-ribose pyrophosphatase	BRE7	clust_1222
+BRE8|SEQ00468	VBIBifBre176493_0468	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623473	580452	581114	+	663		ADP-ribose pyrophosphatase	BRE8	clust_1222
+BRE9|SEQ00522	VBIBifBre30019_0522	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445107	630263	630925	+	663		ADP-ribose pyrophosphatase	BRE9	clust_1222
+INF1|SEQ00410	VBIBifLon182273_0410	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884758	510991	511653	+	663		ADP-ribose pyrophosphatase	INF1	clust_1222
+LON1|SEQ00940	VBIBifLon107831_0941	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118957	1110610	1111272	-	663		ADP-ribose pyrophosphatase	LON1	clust_1222
+LON2|SEQ01021	VBIBifLon171405_1022	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581589	1163397	1164056	-	660		ADP-ribose pyrophosphatase	LON2	clust_1222
+LON3|SEQ00813	VBIBifLon156230_0813	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768600	1725936	1726598	-	663		ADP-ribose pyrophosphatase	LON3	clust_1222
+LON4|SEQ00397	VBIBifLon48544_0397	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889032	485502	486125	+	624		ADP-ribose pyrophosphatase	LON4	clust_1222
+THE1|SEQ00419	VBIBifThe274299_0419	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734013	515495	516139	+	645		ADP-ribose pyrophosphatase	THE1	clust_1222

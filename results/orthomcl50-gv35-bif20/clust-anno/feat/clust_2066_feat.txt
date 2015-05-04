@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00189	VBIBifBre337368_0189	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606281	240325	240786	+	462		Rrf2-linked NADH-flavin reductase	BRE2	clust_2066
+BRE3|SEQ00208	VBIBifBre167886_0208	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192068	264303	264764	+	462		Rrf2-linked NADH-flavin reductase	BRE3	clust_2066
+BRE6|SEQ00148	VBIBifBre268992_0148	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653400	3947	4408	-	462		Rrf2-linked NADH-flavin reductase	BRE6	clust_2066
+BRE7|SEQ00185	VBIBifBre340732_0185	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618773	235917	236378	+	462		Rrf2-linked NADH-flavin reductase	BRE7	clust_2066
+BRE8|SEQ00211	VBIBifBre176493_0211	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622938	267384	267845	+	462		Rrf2-linked NADH-flavin reductase	BRE8	clust_2066
+BRE9|SEQ00218	VBIBifBre30019_0218	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444472	280120	280581	+	462		Rrf2-linked NADH-flavin reductase	BRE9	clust_2066
+LON1|SEQ01200	VBIBifLon107831_1201	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119499	1411148	1411789	-	642		Rrf2-linked NADH-flavin reductase	LON1	clust_2066
+LON4|SEQ00184	VBIBifLon48544_0184	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888584	227175	227816	+	642		Rrf2-linked NADH-flavin reductase	LON4	clust_2066
+THE1|SEQ01651	VBIBifThe274299_1651	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736569	2049135	2049767	+	633		Rrf2-linked NADH-flavin reductase	THE1	clust_2066

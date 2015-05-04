@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00392	VBIBifAdo136061_0392	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187045	215488	215979	+	492		Transcriptional regulator, MarR family	ADO1	clust_1328
+ANI1|SEQ00164	VBIBifAni240121_0164	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845230	192730	193323	+	594		Transcriptional regulator, MarR family	ANI1	clust_1328
+ANI2|SEQ00164	VBIBifAni235968_0164	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848585	192731	193324	+	594		Transcriptional regulator, MarR family	ANI2	clust_1328
+ANI3|SEQ00166	VBIBifAni108068_0166	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762600	192731	193324	+	594		Transcriptional regulator, MarR family	ANI3	clust_1328
+BIF1|SEQ00166	VBIBifBif87902_0166	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882839	203895	204425	+	531		Transcriptional regulator, MarR family	BIF1	clust_1328
+BRE1|SEQ01815	VBIBifBre340958_1816	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605691	2125287	2125808	-	522		Transcriptional regulator, MarR family	BRE1	clust_1328
+BRE2|SEQ01915	VBIBifBre337368_1915	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609866	2223593	2224114	-	522		Transcriptional regulator, MarR family	BRE2	clust_1328
+BRE3|SEQ01887	VBIBifBre167886_1887	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195559	2203164	2203697	-	534		Transcriptional regulator, MarR family	BRE3	clust_1328
+BRE4|SEQ01865	VBIBifBre327712_1865	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613908	2169415	2169936	-	522		Transcriptional regulator, MarR family	BRE4	clust_1328
+BRE5|SEQ01979	VBIBifBre336369_1980	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618188	2235190	2235711	-	522		Transcriptional regulator, MarR family	BRE5	clust_1328
+BRE6|SEQ01323	VBIBifBre268992_1323	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655879	45234	45755	-	522		Transcriptional regulator, MarR family	BRE6	clust_1328
+BRE7|SEQ01902	VBIBifBre340732_1902	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622338	2199165	2199686	-	522		Transcriptional regulator, MarR family	BRE7	clust_1328
+BRE8|SEQ01860	VBIBifBre176493_1860	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626367	2170619	2171140	-	522		Transcriptional regulator, MarR family	BRE8	clust_1328
+BRE9|SEQ01962	VBIBifBre30019_1962	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448098	2275788	2276309	-	522		Transcriptional regulator, MarR family	BRE9	clust_1328
+DEN1|SEQ00545	VBIBifDen165269_0546	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462384	1972026	1972526	-	501		Transcriptional regulator, MarR family	DEN1	clust_1328
+DEN2|SEQ01582	VBIBifDen39005_1583	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111556	44508	45008	-	501		Transcriptional regulator, MarR family	DEN2	clust_1328
+INF1|SEQ01950	VBIBifLon182273_1950	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887960	2247475	2247873	-	399		Transcriptional regulator, MarR family	INF1	clust_1328
+LON1|SEQ01459	VBIBifLon107831_1460	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120046	1762501	1762908	+	408		Transcriptional regulator, MarR family	LON1	clust_1328
+LON2|SEQ01504	VBIBifLon171405_1507	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582601	1795585	1795983	+	399		Transcriptional regulator, MarR family	LON2	clust_1328
+LON3|SEQ01850	VBIBifLon156230_1853	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766892	739922	740320	-	399		Transcriptional regulator, MarR family	LON3	clust_1328
+LON4|SEQ01903	VBIBifLon48544_1903	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892211	2213778	2214176	-	399		Transcriptional regulator, MarR family	LON4	clust_1328
+THE1|SEQ00151	VBIBifThe274299_0151	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733465	175024	175653	+	630		Transcriptional regulator, MarR family	THE1	clust_1328

@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE3|SEQ01418	54194580	VBIBifBre167886_1418	SEQ01418	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Transcriptional regulator, ArsR family	GO:0005622	intracellular	go	clust_2595
+BRE3|SEQ01418	54194580	VBIBifBre167886_1418	SEQ01418	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Transcriptional regulator, ArsR family	GO:0003700	transcription factor activity	go	clust_2595
+BRE7|SEQ01421	268621335	VBIBifBre340732_1421	SEQ01421	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	NA	Transcriptional regulator, ArsR family	GO:0003700	transcription factor activity	go	clust_2595
+BRE7|SEQ01421	268621335	VBIBifBre340732_1421	SEQ01421	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	NA	Transcriptional regulator, ArsR family	GO:0005622	intracellular	go	clust_2595

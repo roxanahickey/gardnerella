@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV31|SEQ00426	VBIGarVag264983_0426	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995911	108480	111284	+	2805		Sialidase (EC 3.2.1.18)	GV31	clust_4046
+GV32|SEQ00802	VBIGarVag277040_0802	Gardnerella vaginalis JCP8151B	ATJH01000056	PATRIC	CDS	183999540	269	3073	+	2805		Sialidase (EC 3.2.1.18)	GV32	clust_4046
+GV35|SEQ00416	VBIGarVag272169_0416	Gardnerella vaginalis JCP8522	ATJE01000021	PATRIC	CDS	184007143	196	3000	-	2805		Sialidase (EC 3.2.1.18)	GV35	clust_4046

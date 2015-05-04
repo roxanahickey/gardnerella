@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ02197	43463383	VBIBifDen165269_2199	SEQ02197	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		ABC-type amino acid transport system, permease component	FIG00782350	figfam	clust_5138
+DEN2|SEQ00939	42110231	VBIBifDen39005_0939	SEQ00939	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		ABC-type amino acid transport system, permease component	FIG00782350	figfam	clust_5138

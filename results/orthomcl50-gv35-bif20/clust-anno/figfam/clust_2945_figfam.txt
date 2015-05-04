@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ01283	268608549	VBIBifBre337368_1283	SEQ01283	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		D-glycerate transporter (predicted)	FIG00028882	figfam	clust_2945
+BRE3|SEQ00629	54192941	VBIBifBre167886_0629	SEQ00629	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		D-glycerate transporter (predicted)	FIG00028882	figfam	clust_2945
+BRE6|SEQ01910	177657133	VBIBifBre268992_1910	SEQ01910	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS		D-glycerate transporter (predicted)	FIG00028882	figfam	clust_2945
+BRE7|SEQ01235	268620954	VBIBifBre340732_1235	SEQ01235	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		D-glycerate transporter (predicted)	FIG00028882	figfam	clust_2945

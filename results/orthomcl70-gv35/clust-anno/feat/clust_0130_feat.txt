@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00784	VBIGarVag247323_0784	Gardnerella vaginalis 00703Bmash	ADET01000011	PATRIC	CDS	85495734	7377	8309	+	933		Putative ABC transport system membrane protein	GV01	clust_0130
+GV02|SEQ00214	VBIGarVag242669_0214	Gardnerella vaginalis 00703C2mash	ADEU01000005	PATRIC	CDS	85497200	7207	8139	+	933		Putative ABC transport system membrane protein	GV02	clust_0130
+GV03|SEQ00920	VBIGarVag247424_0920	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501283	259346	260278	-	933		Putative ABC transport system membrane protein	GV03	clust_0130
+GV04|SEQ01062	VBIGarVag246433_1062	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482045	7268	8212	+	945		Putative ABC transport system membrane protein	GV04	clust_0130
+GV05|SEQ00968	VBIGarVag174900_0968	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547714	672577	673527	-	951		Putative ABC transport system membrane protein	GV05	clust_0130
+GV06|SEQ00345	VBIGarVag244004_0345	Gardnerella vaginalis 1400E	ADER01000010	PATRIC	CDS	85489418	11180	12112	-	933		Putative ABC transport system membrane protein	GV06	clust_0130
+GV07|SEQ00999	VBIGarVag249177_0999	Gardnerella vaginalis 1500E	ADES01000019	PATRIC	CDS	85493683	14266	15198	+	933		Putative ABC transport system membrane protein	GV07	clust_0130
+GV08|SEQ00161	VBIGarVag251521_0161	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474693	199134	200078	-	945		Putative ABC transport system membrane protein	GV08	clust_0130
+GV09|SEQ00989	VBIGarVag169280_0989	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261190	418594	419538	-	945		Putative ABC transport system membrane protein	GV09	clust_0130
+GV10|SEQ00738	VBIGarVag136958_0738	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147546	955166	956122	-	957		Putative ABC transport system membrane protein	GV10	clust_0130
+GV11|SEQ01205	VBIGarVag171052_1205	Gardnerella vaginalis 41V	AEJE01000068	PATRIC	CDS	52550820	3735	4667	-	933		Putative ABC transport system membrane protein	GV11	clust_0130
+GV12|SEQ00177	VBIGarVag144721_0177	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853015	122313	123269	-	957		Putative ABC transport system membrane protein	GV12	clust_0130
+GV13|SEQ00640	VBIGarVag244533_0640	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487253	61944	62876	-	933		Putative ABC transport system membrane protein	GV13	clust_0130
+GV14|SEQ01020	VBIGarVag244375_1020	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503948	83421	84353	-	933		Putative ABC transport system membrane protein	GV14	clust_0130
+GV15|SEQ00787	VBIGarVag249709_0787	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485131	272217	273173	-	957		Putative ABC transport system membrane protein	GV15	clust_0130
+GV16|SEQ00936	VBIGarVag246379_0936	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479039	1068648	1069592	-	945		Putative ABC transport system membrane protein	GV16	clust_0130
+GV17|SEQ00817	VBIGarVag146634_0817	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851709	17877	18833	+	957		Putative ABC transport system membrane protein	GV17	clust_0130
+GV18|SEQ00176	VBIGarVag4823_0176	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000065	PATRIC	CDS	42069041	5232	6176	-	945		Putative ABC transport system membrane protein	GV18	clust_0130
+GV19|SEQ00681	VBIGarVag39333_0682	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628256	845336	846280	+	945		Putative ABC transport system membrane protein	GV19	clust_0130
+GV20|SEQ00859	VBIGarVag188338_0859	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190552	1051919	1052863	-	945		Putative ABC transport system membrane protein	GV20	clust_0130
+GV21|SEQ00312	VBIGarVag274454_0312	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967276	105566	106510	-	945		Putative ABC transport system membrane protein	GV21	clust_0130
+GV22|SEQ00055	VBIGarVag276801_0055	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969495	67323	68267	+	945		Putative ABC transport system membrane protein	GV22	clust_0130
+GV23|SEQ00995	VBIGarVag276017_0995	Gardnerella vaginalis JCP7659	ATJQ01000097	PATRIC	CDS	183974434	3164	4096	-	933		Putative ABC transport system membrane protein	GV23	clust_0130
+GV24|SEQ01017	VBIGarVag268944_1018	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977265	107444	108388	-	945		Putative ABC transport system membrane protein	GV24	clust_0130
+GV25|SEQ00714	VBIGarVag270495_0714	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979395	12045	12977	+	933		Putative ABC transport system membrane protein	GV25	clust_0130
+GV26|SEQ00463	VBIGarVag272749_0463	Gardnerella vaginalis JCP8017A	ATJN01000028	PATRIC	CDS	183981713	5695	6627	+	933		Putative ABC transport system membrane protein	GV26	clust_0130
+GV27|SEQ01012	VBIGarVag276930_1012	Gardnerella vaginalis JCP8017B	ATJM01000076	PATRIC	CDS	183985862	5693	6625	+	933		Putative ABC transport system membrane protein	GV27	clust_0130
+GV28|SEQ00244	VBIGarVag271349_0244	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987151	6039	6995	+	957		Putative ABC transport system membrane protein	GV28	clust_0130
+GV29|SEQ00859	VBIGarVag265473_0859	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991207	5375	6331	+	957		Putative ABC transport system membrane protein	GV29	clust_0130
+GV30|SEQ00844	VBIGarVag267667_0846	Gardnerella vaginalis JCP8108	ATJJ01000065	PATRIC	CDS	183993855	20563	21507	+	945		Putative ABC transport system membrane protein	GV30	clust_0130
+GV31|SEQ00615	VBIGarVag264983_0615	Gardnerella vaginalis JCP8151A	ATJI01000028	PATRIC	CDS	183996315	4751	5683	-	933		Putative ABC transport system membrane protein	GV31	clust_0130
+GV32|SEQ00258	VBIGarVag277040_0258	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998364	81402	82346	+	945		Putative ABC transport system membrane protein	GV32	clust_0130
+GV33|SEQ00501	VBIGarVag265557_0501	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	184001739	10066	11034	+	969		Putative ABC transport system membrane protein	GV33	clust_0130
+GV34|SEQ00196	VBIGarVag270440_0196	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	184003904	25619	26587	-	969		Putative ABC transport system membrane protein	GV34	clust_0130
+GV35|SEQ00131	VBIGarVag272169_0131	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006541	16613	17545	+	933		Putative ABC transport system membrane protein	GV35	clust_0130

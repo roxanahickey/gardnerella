@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00981	VBIBifAdo136061_0981	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188276	892513	893103	+	591		hypothetical protein	ADO1	clust_3930
+DEN1|SEQ01959	VBIBifDen165269_1960	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461085	1242729	1243304	-	576		hypothetical protein	DEN1	clust_3930
+DEN2|SEQ00869	VBIBifDen39005_0869	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110088	40756	41331	+	576		hypothetical protein	DEN2	clust_3930

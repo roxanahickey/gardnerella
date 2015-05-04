@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01119	VBIBifAdo136061_1119	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188563	31870	32820	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	ADO1	clust_0154
+ANI1|SEQ00842	VBIBifAni240121_0842	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846656	976574	977536	-	963		Cytoplasmic hypothetical protein DUF199, a subgroup	ANI1	clust_0154
+ANI2|SEQ00841	VBIBifAni235968_0841	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850007	976577	977539	-	963		Cytoplasmic hypothetical protein DUF199, a subgroup	ANI2	clust_0154
+ANI3|SEQ00844	VBIBifAni108068_0844	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764021	976579	977541	-	963		Cytoplasmic hypothetical protein DUF199, a subgroup	ANI3	clust_0154
+BIF1|SEQ00951	VBIBifBif87902_0951	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884464	1159231	1160202	-	972	whiA	Cytoplasmic hypothetical protein DUF199, a subgroup	BIF1	clust_0154
+BRE1|SEQ00939	VBIBifBre340958_0939	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603865	1117579	1118529	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE1	clust_0154
+BRE2|SEQ01033	VBIBifBre337368_1033	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608027	1213687	1214013	+	327		FIG001886: Cytoplasmic hypothetical protein	BRE2	clust_0154
+BRE3|SEQ00847	VBIBifBre167886_0847	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193402	1005917	1006867	-	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE3	clust_0154
+BRE4|SEQ01020	VBIBifBre327712_1020	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612156	1185127	1186077	-	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE4	clust_0154
+BRE5|SEQ01086	VBIBifBre336369_1087	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616330	1224781	1225731	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE5	clust_0154
+BRE6|SEQ01688	VBIBifBre268992_1688	Bifidobacterium breve JCP7499	AWSX01000077	PATRIC	CDS	177656666	21581	22531	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE6	clust_0154
+BRE7|SEQ00983	VBIBifBre340732_0983	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620428	1158557	1159507	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE7	clust_0154
+BRE8|SEQ01003	VBIBifBre176493_1003	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624576	1195149	1196099	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE8	clust_0154
+BRE9|SEQ01067	VBIBifBre30019_1067	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446234	1258273	1259223	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	BRE9	clust_0154
+DEN1|SEQ01547	VBIBifDen165269_1548	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460240	821879	822829	-	951		Cytoplasmic hypothetical protein DUF199, a subgroup	DEN1	clust_0154
+DEN2|SEQ00090	VBIBifDen39005_0090	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108477	32947	33414	+	468		Cytoplasmic hypothetical protein DUF199, a subgroup	DEN2	clust_0154
+GV01|SEQ00546	VBIGarVag247323_0546	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495238	294010	294948	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV01	clust_0154
+GV02|SEQ00829	VBIGarVag242669_0829	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498500	52118	53056	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV02	clust_0154
+GV03|SEQ00977	VBIGarVag247424_0977	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501400	332993	333940	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV03	clust_0154
+GV04|SEQ00641	VBIGarVag246433_0641	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481175	58282	59220	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV04	clust_0154
+GV05|SEQ01024	VBIGarVag174900_1024	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547829	745456	746403	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV05	clust_0154
+GV06|SEQ00271	VBIGarVag244004_0271	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489263	48148	49086	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV06	clust_0154
+GV07|SEQ00307	VBIGarVag249177_0307	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492231	117384	118331	+	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV07	clust_0154
+GV08|SEQ00086	VBIGarVag251521_0086	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474538	98236	99174	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV08	clust_0154
+GV09|SEQ00915	VBIGarVag169280_0915	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261037	317643	318581	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV09	clust_0154
+GV10|SEQ00797	VBIGarVag136958_0797	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147666	1037935	1038882	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV10	clust_0154
+GV11|SEQ00076	VBIGarVag171052_0076	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548418	4795	5733	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV11	clust_0154
+GV12|SEQ00239	VBIGarVag144721_0239	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853141	195955	196902	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV12	clust_0154
+GV13|SEQ00896	VBIGarVag244533_0896	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487796	7802	8740	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV13	clust_0154
+GV14|SEQ01079	VBIGarVag244375_1079	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504069	158018	158965	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV14	clust_0154
+GV15|SEQ00141	VBIGarVag249709_0141	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483773	67632	68579	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV15	clust_0154
+GV16|SEQ00862	VBIGarVag246379_0862	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478886	967840	968778	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV16	clust_0154
+GV17|SEQ00762	VBIGarVag146634_0762	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851596	75693	76640	+	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV17	clust_0154
+GV18|SEQ01118	VBIGarVag4823_1118	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071066	9498	10436	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV18	clust_0154
+GV19|SEQ00758	VBIGarVag39333_0759	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628414	946189	947127	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV19	clust_0154
+GV20|SEQ00784	VBIGarVag188338_0784	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190397	950929	951867	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV20	clust_0154
+GV21|SEQ00238	VBIGarVag274454_0238	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967124	5009	5947	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV21	clust_0154
+GV22|SEQ00132	VBIGarVag276801_0132	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969653	173386	174324	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV22	clust_0154
+GV23|SEQ00227	VBIGarVag276017_0227	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972758	51912	52850	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV23	clust_0154
+GV24|SEQ00943	VBIGarVag268944_0944	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977113	6529	7467	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV24	clust_0154
+GV25|SEQ00791	VBIGarVag270495_0791	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979553	114720	115658	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV25	clust_0154
+GV26|SEQ01035	VBIGarVag272749_1035	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982950	51670	52608	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV26	clust_0154
+GV27|SEQ01079	VBIGarVag276930_1079	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986018	5274	6212	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV27	clust_0154
+GV28|SEQ00323	VBIGarVag271349_0323	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987313	110804	111742	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV28	clust_0154
+GV29|SEQ00937	VBIGarVag265473_0937	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991367	108096	109034	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV29	clust_0154
+GV30|SEQ01278	VBIGarVag267667_1280	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994829	39507	40445	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV30	clust_0154
+GV31|SEQ00499	VBIGarVag264983_0499	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996068	700	1638	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV31	clust_0154
+GV32|SEQ00336	VBIGarVag277040_0336	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998524	184332	185270	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV32	clust_0154
+GV33|SEQ01217	VBIGarVag265557_1217	Gardnerella vaginalis JCP8481A	ATJG01000186	PATRIC	CDS	184003371	186	1133	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV33	clust_0154
+GV34|SEQ01234	VBIGarVag270440_1234	Gardnerella vaginalis JCP8481B	ATJF01000164	PATRIC	CDS	184006214	186	1133	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV34	clust_0154
+GV35|SEQ00209	VBIGarVag272169_0209	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006701	120619	121557	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV35	clust_0154
+INF1|SEQ01127	VBIBifLon182273_1127	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886250	1261917	1262867	-	951		Cytoplasmic hypothetical protein DUF199, a subgroup	INF1	clust_0154
+LON1|SEQ00405	VBIBifLon107831_0405	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117853	484567	485517	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	LON1	clust_0154
+LON2|SEQ00411	VBIBifLon171405_0412	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580330	481823	482773	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	LON2	clust_0154
+LON3|SEQ00268	VBIBifLon156230_0268	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767471	1097149	1098099	+	951		Cytoplasmic hypothetical protein DUF199, a subgroup	LON3	clust_0154
+LON4|SEQ01150	VBIBifLon48544_1150	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890634	1289585	1290535	-	951		Cytoplasmic hypothetical protein DUF199, a subgroup	LON4	clust_0154
+THE1|SEQ01069	VBIBifThe274299_1069	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735348	1329094	1330116	-	1023		Cytoplasmic hypothetical protein DUF199, a subgroup	THE1	clust_0154

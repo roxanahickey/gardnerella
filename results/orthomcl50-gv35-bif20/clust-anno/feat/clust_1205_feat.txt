@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00452	VBIBifAdo136061_0452	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187167	287015	288925	+	1911		2-isopropylmalate synthase (EC 2.3.3.13)	ADO1	clust_1205
+ANI1|SEQ00219	VBIBifAni240121_0219	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845342	252413	254326	+	1914		2-isopropylmalate synthase (EC 2.3.3.13)	ANI1	clust_1205
+ANI2|SEQ00218	VBIBifAni235968_0218	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848695	252414	254327	+	1914		2-isopropylmalate synthase (EC 2.3.3.13)	ANI2	clust_1205
+ANI3|SEQ00220	VBIBifAni108068_0220	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762710	252414	254327	+	1914		2-isopropylmalate synthase (EC 2.3.3.13)	ANI3	clust_1205
+BIF1|SEQ01725	VBIBifBif87902_1725	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886073	2077364	2079274	-	1911	leuA	2-isopropylmalate synthase (EC 2.3.3.13)	BIF1	clust_1205
+BRE1|SEQ00161	VBIBifBre340958_0161	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602248	211550	213466	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	BRE1	clust_1205
+BRE2|SEQ00160	VBIBifBre337368_0160	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606219	206763	208679	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	BRE2	clust_1205
+BRE3|SEQ00180	VBIBifBre167886_0180	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192008	230777	232693	+	1917	leuA	2-isopropylmalate synthase (EC 2.3.3.13)	BRE3	clust_1205
+BRE4|SEQ00181	VBIBifBre327712_0181	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610403	236049	237965	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	BRE4	clust_1205
+BRE5|SEQ00175	VBIBifBre336369_0175	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614441	214651	216567	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	BRE5	clust_1205
+BRE6|SEQ01978	VBIBifBre268992_1978	Bifidobacterium breve JCP7499	AWSX01000087	PATRIC	CDS	177657271	197	2113	-	1917		2-isopropylmalate synthase (EC 2.3.3.13)	BRE6	clust_1205
+BRE7|SEQ00154	VBIBifBre340732_0154	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618707	202357	204273	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	BRE7	clust_1205
+BRE8|SEQ00182	VBIBifBre176493_0182	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622876	233749	235665	+	1917	leuA	2-isopropylmalate synthase (EC 2.3.3.13)	BRE8	clust_1205
+BRE9|SEQ00188	VBIBifBre30019_0188	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444408	246581	248497	+	1917	leuA	2-isopropylmalate synthase (EC 2.3.3.13)	BRE9	clust_1205
+INF1|SEQ00144	VBIBifLon182273_0144	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884195	175062	176978	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	INF1	clust_1205
+LON1|SEQ01231	VBIBifLon107831_1232	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119567	1450919	1452835	-	1917	leuA	2-isopropylmalate synthase (EC 2.3.3.13)	LON1	clust_1205
+LON2|SEQ01255	VBIBifLon171405_1257	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582085	1457359	1459275	-	1917	leuA	2-isopropylmalate synthase (EC 2.3.3.13)	LON2	clust_1205
+LON3|SEQ01335	VBIBifLon156230_1337	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769279	2087174	2089090	-	1917		2-isopropylmalate synthase (EC 2.3.3.13)	LON3	clust_1205
+LON4|SEQ00155	VBIBifLon48544_0155	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888518	190288	192204	+	1917		2-isopropylmalate synthase (EC 2.3.3.13)	LON4	clust_1205
+THE1|SEQ01627	VBIBifThe274299_1627	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736519	2018186	2020102	-	1917		2-isopropylmalate synthase (EC 2.3.3.13)	THE1	clust_1205

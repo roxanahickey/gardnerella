@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00036	VBIGarVag247323_0036	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494166	50542	51060	+	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV01	clust_0616
+GV02|SEQ00749	VBIGarVag242669_0749	Gardnerella vaginalis 00703C2mash	ADEU01000015	PATRIC	CDS	85498333	1469	1984	-	516		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV02	clust_0616
+GV03|SEQ00050	VBIGarVag247424_0050	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499465	73182	73772	+	591		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV03	clust_0616
+GV04|SEQ00341	VBIGarVag246433_0341	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480547	46724	47200	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV04	clust_0616
+GV05|SEQ01103	VBIGarVag174900_1103	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52547992	56334	56948	-	615		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV05	clust_0616
+GV06|SEQ00360	VBIGarVag244004_0360	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489463	15194	15670	-	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV06	clust_0616
+GV07|SEQ01104	VBIGarVag249177_1104	Gardnerella vaginalis 1500E	ADES01000026	PATRIC	CDS	85493900	412	1056	-	645		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV07	clust_0616
+GV08|SEQ01255	VBIGarVag251521_1255	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476973	397882	398358	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV08	clust_0616
+GV09|SEQ01282	VBIGarVag169280_1282	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261807	174341	174817	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV09	clust_0616
+GV11|SEQ01241	VBIGarVag171052_1241	Gardnerella vaginalis 41V	AEJE01000069	PATRIC	CDS	52550909	43393	43869	-	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV11	clust_0616
+GV12|SEQ00457	VBIGarVag144721_0457	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853595	510538	511020	-	483		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV12	clust_0616
+GV13|SEQ00380	VBIGarVag244533_0380	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486719	5075	5551	-	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV13	clust_0616
+GV14|SEQ01186	VBIGarVag244375_1186	Gardnerella vaginalis 6119V5	ADEW01000012	PATRIC	CDS	85504298	22605	23201	-	597		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV14	clust_0616
+GV15|SEQ00821	VBIGarVag249709_0821	Gardnerella vaginalis 6420B	ADEP01000008	PATRIC	CDS	85485208	1474	1974	-	501		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV15	clust_0616
+GV16|SEQ00409	VBIGarVag246379_0409	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477952	402454	402930	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV16	clust_0616
+GV17|SEQ00703	VBIGarVag146634_0703	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851469	77284	77766	+	483		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV17	clust_0616
+GV18|SEQ00719	VBIGarVag4823_0719	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000123	PATRIC	CDS	42070218	4018	4494	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV18	clust_0616
+GV19|SEQ01204	VBIGarVag39333_1206	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629331	1496050	1496526	-	477	acpS	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV19	clust_0616
+GV20|SEQ00304	VBIGarVag188338_0304	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189409	368325	368801	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV20	clust_0616
+GV21|SEQ01138	VBIGarVag274454_1139	Gardnerella vaginalis JCP7275	ATJS01000156	PATRIC	CDS	183969143	51	527	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV21	clust_0616
+GV22|SEQ01229	VBIGarVag276801_1230	Gardnerella vaginalis JCP7276	ATJR01000160	PATRIC	CDS	183972089	27903	28379	-	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV22	clust_0616
+GV23|SEQ01040	VBIGarVag276017_1040	Gardnerella vaginalis JCP7659	ATJQ01000106	PATRIC	CDS	183974537	19918	20436	-	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV23	clust_0616
+GV24|SEQ01180	VBIGarVag268944_1181	Gardnerella vaginalis JCP7672	ATJP01000152	PATRIC	CDS	183977687	346	822	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV24	clust_0616
+GV25|SEQ00948	VBIGarVag270495_0948	Gardnerella vaginalis JCP7719	ATJO01000103	PATRIC	CDS	183979919	63	536	+	474		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV25	clust_0616
+GV26|SEQ00826	VBIGarVag272749_0826	Gardnerella vaginalis JCP8017A	ATJN01000048	PATRIC	CDS	183982487	59	577	+	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV26	clust_0616
+GV27|SEQ01306	VBIGarVag276930_1306	Gardnerella vaginalis JCP8017B	ATJM01000172	PATRIC	CDS	183986561	57	575	+	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV27	clust_0616
+GV28|SEQ00655	VBIGarVag271349_0655	Gardnerella vaginalis JCP8066	ATJL01000048	PATRIC	CDS	183988042	815	1333	+	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV28	clust_0616
+GV29|SEQ00317	VBIGarVag265473_0317	Gardnerella vaginalis JCP8070	ATJK01000013	PATRIC	CDS	183990018	25403	25921	-	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV29	clust_0616
+GV30|SEQ01348	VBIGarVag267667_1350	Gardnerella vaginalis JCP8108	ATJJ01000169	PATRIC	CDS	183994998	384	860	+	477		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV30	clust_0616
+GV31|SEQ01060	VBIGarVag264983_1060	Gardnerella vaginalis JCP8151A	ATJI01000099	PATRIC	CDS	183997307	158	676	+	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV31	clust_0616
+GV32|SEQ00519	VBIGarVag277040_0519	Gardnerella vaginalis JCP8151B	ATJH01000028	PATRIC	CDS	183998932	19734	20252	-	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV32	clust_0616
+GV33|SEQ01255	VBIGarVag265557_1255	Gardnerella vaginalis JCP8481A	ATJG01000196	PATRIC	CDS	184003459	637	1173	+	537		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV33	clust_0616
+GV34|SEQ00109	VBIGarVag270440_0109	Gardnerella vaginalis JCP8481B	ATJF01000005	PATRIC	CDS	184003714	368	904	+	537		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV34	clust_0616
+GV35|SEQ00956	VBIGarVag272169_0956	Gardnerella vaginalis JCP8522	ATJE01000111	PATRIC	CDS	184008363	19773	20291	-	519		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	GV35	clust_0616
+ADO1|SEQ00566	VBIBifAdo136061_0566	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187406	430435	430893	+	459		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	ADO1	clust_0616
+ANI1|SEQ00324	VBIBifAni240121_0324	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845562	396588	397124	+	537		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	ANI1	clust_0616
+ANI2|SEQ00323	VBIBifAni235968_0323	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848915	396590	397126	+	537		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	ANI2	clust_0616
+ANI3|SEQ00324	VBIBifAni108068_0324	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762928	396591	397127	+	537		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	ANI3	clust_0616
+BIF1|SEQ01598	VBIBifBif87902_1598	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885813	1921170	1921733	-	564	acpS	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	BIF1	clust_0616
+BRE1|SEQ00301	VBIBifBre340958_0301	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602544	378187	378636	+	450		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE1	clust_0616
+BRE2|SEQ00362	VBIBifBre337368_0362	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606641	433046	433495	+	450		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE2	clust_0616
+BRE3|SEQ00352	VBIBifBre167886_0352	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192369	437345	437794	+	450		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE3	clust_0616
+BRE4|SEQ00310	VBIBifBre327712_0310	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610679	390080	390529	+	450		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE4	clust_0616
+BRE5|SEQ00333	VBIBifBre336369_0334	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614774	391610	392059	+	450		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE5	clust_0616
+BRE6|SEQ00024	VBIBifBre268992_0024	Bifidobacterium breve JCP7499	AWSX01000001	PATRIC	CDS	177653136	27737	28360	-	624		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE6	clust_0616
+BRE7|SEQ00329	VBIBifBre340732_0329	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619074	410109	410732	+	624		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE7	clust_0616
+BRE8|SEQ00355	VBIBifBre176493_0355	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623239	441608	442231	+	624		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE8	clust_0616
+BRE9|SEQ00403	VBIBifBre30019_0403	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444860	483844	484293	+	450		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	BRE9	clust_0616
+INF1|SEQ01844	VBIBifLon182273_1844	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887737	2097189	2097737	-	549		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	INF1	clust_0616
+LON1|SEQ01585	VBIBifLon107831_1586	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120308	1935190	1935750	+	561		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	LON1	clust_0616
+LON2|SEQ01612	VBIBifLon171405_1615	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582827	1946305	1946853	+	549	acpS	4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	LON2	clust_0616
+LON3|SEQ01702	VBIBifLon156230_1705	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766588	555404	555952	-	549		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	LON3	clust_0616
+LON4|SEQ01789	VBIBifLon48544_1789	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891972	2056670	2057218	-	549		4'-phosphopantetheinyl transferase of FASI (EC 2.7.8.7)	LON4	clust_0616
+THE1|SEQ01507	VBIBifThe274299_1507	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736264	1854760	1855353	-	594		Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)	THE1	clust_0616

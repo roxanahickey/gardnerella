@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01935	VBIBifDen165269_1936	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461037	1217966	1218550	+	585	maa	acetyltransferase	DEN1	clust_5088
+DEN2|SEQ00894	VBIBifDen39005_0894	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110140	65508	66092	-	585		acetyltransferase	DEN2	clust_5088

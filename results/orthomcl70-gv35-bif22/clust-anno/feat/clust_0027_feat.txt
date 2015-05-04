@@ -1,0 +1,61 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01797	VBIBifAdo136061_1797	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189965	300542	302254	-	1713		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ADO1	clust_0027
+ANI1|SEQ01181	VBIBifAni240121_1181	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847350	1371253	1372971	-	1719	dppD	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ANI1	clust_0027
+ANI2|SEQ01181	VBIBifAni235968_1181	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850703	1371257	1372975	-	1719	dppD	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ANI2	clust_0027
+ANI3|SEQ01190	VBIBifAni108068_1190	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764725	1376705	1378423	-	1719		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	ANI3	clust_0027
+BIF1|SEQ00549	VBIBifBif87902_0549	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883633	681359	683092	+	1734	gsiA	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	BIF1	clust_0027
+BIF1|SEQ00592	VBIBifBif87902_0592	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883721	725690	727906	+	2217		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BIF1	clust_0027
+BRE1|SEQ01801	VBIBifBre340958_1802	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605661	2107028	2109166	-	2139		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE1	clust_0027
+BRE2|SEQ01900	VBIBifBre337368_1900	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609834	2206441	2207496	-	1056		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE2	clust_0027
+BRE3|SEQ00039	VBIBifBre167886_0039	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191715	52279	52923	+	645	oppF_1	Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE3	clust_0027
+BRE3|SEQ01872	VBIBifBre167886_1872	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195527	2184948	2187086	-	2139	gsiA	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE3	clust_0027
+BRE4|SEQ01851	VBIBifBre327712_1851	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613878	2151186	2153324	-	2139		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE4	clust_0027
+BRE5|SEQ01415	VBIBifBre336369_1416	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617012	1583092	1585011	-	1920		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1)	BRE5	clust_0027
+BRE5|SEQ01965	VBIBifBre336369_1966	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618158	2216888	2219026	-	2139		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE5	clust_0027
+BRE6|SEQ01310	VBIBifBre268992_1310	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655851	28086	29141	-	1056		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE6	clust_0027
+BRE7|SEQ01888	VBIBifBre340732_1888	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622308	2180927	2183065	-	2139		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE7	clust_0027
+BRE9|SEQ01949	VBIBifBre30019_1949	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448070	2257551	2259689	-	2139	oppD3	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	BRE9	clust_0027
+DEN1|SEQ01238	VBIBifDen165269_1239	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459605	465504	467216	+	1713	dppD	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	DEN1	clust_0027
+DEN2|SEQ01745	VBIBifDen39005_1746	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS	42111887	53365	55077	+	1713		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	DEN2	clust_0027
+GV01|SEQ01255	VBIGarVag247323_1255	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496715	27967	29862	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV01	clust_0027
+GV02|SEQ00018	VBIGarVag242669_0018	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496791	14902	16797	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV02	clust_0027
+GV03|SEQ00398	VBIGarVag247424_0398	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500201	10668	12557	-	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV03	clust_0027
+GV04|SEQ01246	VBIGarVag246433_1246	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482421	100649	102544	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV04	clust_0027
+GV05|SEQ00182	VBIGarVag174900_0182	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546073	85267	87156	+	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV05	clust_0027
+GV06|SEQ00457	VBIGarVag244004_0457	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489672	14792	16687	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV06	clust_0027
+GV07|SEQ01018	VBIGarVag249177_1018	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493722	10634	12523	-	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV07	clust_0027
+GV08|SEQ00524	VBIGarVag251521_0524	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475462	14870	16765	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV08	clust_0027
+GV09|SEQ01068	VBIGarVag169280_1068	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261358	91835	93730	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV09	clust_0027
+GV10|SEQ01103	VBIGarVag136958_1103	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148304	1496049	1497938	-	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV10	clust_0027
+GV11|SEQ00768	VBIGarVag171052_0768	Gardnerella vaginalis 41V	AEJE01000048	PATRIC	CDS	52549892	14876	16771	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV11	clust_0027
+GV12|SEQ00008	VBIGarVag144721_0008	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852666	10636	12525	-	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV12	clust_0027
+GV13|SEQ01261	VBIGarVag244533_1261	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488574	94596	96491	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV13	clust_0027
+GV14|SEQ00943	VBIGarVag244375_0943	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503781	80389	82278	+	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV14	clust_0027
+GV15|SEQ00066	VBIGarVag249709_0066	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483618	78585	80474	+	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV15	clust_0027
+GV16|SEQ00077	VBIGarVag246379_0077	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477259	97429	99324	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV16	clust_0027
+GV17|SEQ00007	VBIGarVag146634_0007	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850010	10656	12545	-	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV17	clust_0027
+GV18|SEQ00272	VBIGarVag4823_0272	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000077	PATRIC	CDS	42069250	6472	7821	-	1350		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV18	clust_0027
+GV19|SEQ00281	VBIGarVag39333_0282	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627415	341598	343493	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV19	clust_0027
+GV20|SEQ01232	VBIGarVag188338_1232	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191340	1543668	1545563	-	1896	gsiA	Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV20	clust_0027
+GV21|SEQ00452	VBIGarVag274454_0453	Gardnerella vaginalis JCP7275	ATJS01000023	PATRIC	CDS	183967572	6291	8186	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV21	clust_0027
+GV22|SEQ00744	VBIGarVag276801_0745	Gardnerella vaginalis JCP7276	ATJR01000031	PATRIC	CDS	183970939	4152	6047	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV22	clust_0027
+GV23|SEQ00853	VBIGarVag276017_0853	Gardnerella vaginalis JCP7659	ATJQ01000067	PATRIC	CDS	183974112	15490	17385	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV23	clust_0027
+GV24|SEQ00177	VBIGarVag268944_0178	Gardnerella vaginalis JCP7672	ATJP01000007	PATRIC	CDS	183975458	14910	16805	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV24	clust_0027
+GV25|SEQ01247	VBIGarVag270495_1247	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980601	15594	17489	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV25	clust_0027
+GV26|SEQ00723	VBIGarVag272749_0723	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982255	15474	17369	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV26	clust_0027
+GV27|SEQ00759	VBIGarVag276930_0759	Gardnerella vaginalis JCP8017B	ATJM01000036	PATRIC	CDS	183985308	3276	5171	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV27	clust_0027
+GV28|SEQ01038	VBIGarVag271349_1038	Gardnerella vaginalis JCP8066	ATJL01000128	PATRIC	CDS	183988916	11466	13361	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV28	clust_0027
+GV29|SEQ01198	VBIGarVag265473_1198	Gardnerella vaginalis JCP8070	ATJK01000170	PATRIC	CDS	183992008	14922	16817	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV29	clust_0027
+GV30|SEQ01232	VBIGarVag267667_1234	Gardnerella vaginalis JCP8108	ATJJ01000138	PATRIC	CDS	183994724	15487	17382	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV30	clust_0027
+GV31|SEQ00829	VBIGarVag264983_0829	Gardnerella vaginalis JCP8151A	ATJI01000052	PATRIC	CDS	183996788	15689	17584	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV31	clust_0027
+GV32|SEQ01242	VBIGarVag277040_1242	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	184000568	15636	17531	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV32	clust_0027
+GV33|SEQ00715	VBIGarVag265557_0715	Gardnerella vaginalis JCP8481A	ATJG01000073	PATRIC	CDS	184002202	4217	6106	+	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV33	clust_0027
+GV34|SEQ00821	VBIGarVag270440_0821	Gardnerella vaginalis JCP8481B	ATJF01000082	PATRIC	CDS	184005274	4217	6106	+	1890		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV34	clust_0027
+GV35|SEQ00694	VBIGarVag272169_0694	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007763	8259	10154	+	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	GV35	clust_0027
+INF1|SEQ01326	VBIBifLon182273_1326	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886656	1497323	1499032	-	1710		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	INF1	clust_0027
+LON1|SEQ00206	VBIBifLon107831_0206	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117449	245064	246773	+	1710		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	LON1	clust_0027
+LON2|SEQ00247	VBIBifLon171405_0248	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579997	287759	289468	+	1710	appF1	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	LON2	clust_0027
+LON3|SEQ01934	VBIBifLon156230_1937	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767060	859746	861455	+	1710		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	LON3	clust_0027
+LON4|SEQ01302	VBIBifLon48544_1302	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890948	1472016	1473725	-	1710		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	LON4	clust_0027
+THE1|SEQ00652	VBIBifThe274299_0652	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734482	827182	828921	+	1740		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	THE1	clust_0027
+THE1|SEQ01400	VBIBifThe274299_1400	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736038	1740289	1742184	-	1896		Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)	THE1	clust_0027

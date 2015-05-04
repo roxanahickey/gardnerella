@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01388	VBIBifBre340958_1389	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604793	1638962	1639363	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE1	clust_1781
+BRE2|SEQ01493	VBIBifBre337368_1493	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608980	1727038	1727439	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE2	clust_1781
+BRE3|SEQ01463	VBIBifBre167886_1463	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194670	1709986	1710387	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE3	clust_1781
+BRE4|SEQ01429	VBIBifBre327712_1429	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612992	1669306	1669707	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE4	clust_1781
+BRE5|SEQ01555	VBIBifBre336369_1556	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617299	1750313	1750714	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE5	clust_1781
+BRE6|SEQ00903	VBIBifBre268992_0903	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177654994	22441	22842	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE6	clust_1781
+BRE7|SEQ01458	VBIBifBre340732_1458	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621409	1687833	1688234	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE7	clust_1781
+BRE8|SEQ01481	VBIBifBre176493_1481	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625568	1729129	1729530	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE8	clust_1781
+BRE9|SEQ01545	VBIBifBre30019_1545	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447222	1792673	1793074	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	BRE9	clust_1781
+INF1|SEQ01597	VBIBifLon182273_1597	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887208	1823314	1823715	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	INF1	clust_1781
+LON1|SEQ01814	VBIBifLon107831_1815	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120794	2192237	2192638	+	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	LON1	clust_1781
+LON3|SEQ01089	VBIBifLon156230_1091	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766050	253143	253544	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	LON3	clust_1781
+LON4|SEQ01555	VBIBifLon48544_1555	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891468	1787356	1787757	-	402		Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases	LON4	clust_1781

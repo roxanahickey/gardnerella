@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01258	VBIBifBre340958_1258	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604526	1477904	1478797	-	894		Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE1	clust_2227
+BRE2|SEQ01348	VBIBifBre337368_1348	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608680	1554184	1555077	-	894		Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE2	clust_2227
+BRE3|SEQ00563	VBIBifBre167886_0563	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192807	689803	690696	+	894		Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE3	clust_2227
+BRE4|SEQ01289	VBIBifBre327712_1289	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612703	1501252	1502145	-	894		Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE4	clust_2227
+BRE6|SEQ01974	VBIBifBre268992_1974	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657262	173811	174704	-	894		Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE6	clust_2227
+BRE7|SEQ01300	VBIBifBre340732_1300	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621085	1503278	1504171	-	894		Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE7	clust_2227
+BRE8|SEQ01327	VBIBifBre176493_1327	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625249	1549707	1550600	-	894	dapA3	Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE8	clust_2227
+BRE9|SEQ01383	VBIBifBre30019_1383	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446891	1606176	1607069	-	894	dapA3	Dihydrodipicolinate synthase (EC 4.2.1.52)	BRE9	clust_2227

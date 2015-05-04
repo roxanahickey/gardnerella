@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00522	VBIBifAdo136061_0522	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187311	370458	371186	+	729		Glutamine amidotransferase class-I (EC 6.3.5.2)	ADO1	clust_1190
+ANI1|SEQ00278	VBIBifAni240121_0278	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845464	341774	342511	-	738		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	ANI1	clust_1190
+ANI2|SEQ00277	VBIBifAni235968_0277	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848817	341776	342513	-	738		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	ANI2	clust_1190
+ANI3|SEQ00278	VBIBifAni108068_0278	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762830	341777	342514	-	738		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	ANI3	clust_1190
+BIF1|SEQ00314	VBIBifBif87902_0314	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883155	382866	383591	+	726	guaAA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	BIF1	clust_1190
+BRE1|SEQ00327	VBIBifBre340958_0327	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602598	411614	412342	+	729		"Glutamine amidotransferase class-I "	BRE1	clust_1190
+BRE2|SEQ00388	VBIBifBre337368_0388	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606695	465955	466683	+	729		"Glutamine amidotransferase class-I "	BRE2	clust_1190
+BRE3|SEQ00386	VBIBifBre167886_0386	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192440	478841	479569	+	729		"GMP synthase [glutamine-hydrolyzing] "	BRE3	clust_1190
+BRE4|SEQ00337	VBIBifBre327712_0337	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610735	423486	424214	+	729		"Glutamine amidotransferase class-I "	BRE4	clust_1190
+BRE5|SEQ00364	VBIBifBre336369_0365	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614838	425020	425748	+	729		"Glutamine amidotransferase class-I "	BRE5	clust_1190
+BRE6|SEQ00876	VBIBifBre268992_0876	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654938	31865	32593	-	729		"Glutamine amidotransferase class-I "	BRE6	clust_1190
+BRE7|SEQ00359	VBIBifBre340732_0359	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619136	443708	444436	+	729		"Glutamine amidotransferase class-I "	BRE7	clust_1190
+BRE8|SEQ00383	VBIBifBre176493_0383	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623297	475070	475738	+	669	guaA1	Glutamine amidotransferase class-I (EC 6.3.5.2)	BRE8	clust_1190
+BRE9|SEQ00427	VBIBifBre30019_0427	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444910	517268	517996	+	729	guaA1	possible amidotransferase	BRE9	clust_1190
+DEN1|SEQ00388	VBIBifDen165269_0389	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462063	1764992	1765720	-	729		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	DEN1	clust_1190
+DEN2|SEQ02130	VBIBifDen39005_2132	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112700	39894	40622	+	729		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	DEN2	clust_1190
+INF1|SEQ00314	VBIBifLon182273_0314	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884557	394297	394965	+	669		Glutamine amidotransferase class-I (EC 6.3.5.2)	INF1	clust_1190
+LON1|SEQ01037	VBIBifLon107831_1038	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119157	1223938	1224606	-	669		Glutamine amidotransferase class-I (EC 6.3.5.2)	LON1	clust_1190
+LON2|SEQ01094	VBIBifLon171405_1096	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581741	1252800	1253468	-	669	guaA2	Glutamine amidotransferase class-I (EC 6.3.5.2)	LON2	clust_1190
+LON3|SEQ00905	VBIBifLon156230_0906	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768791	1834505	1835173	-	669		Glutamine amidotransferase class-I (EC 6.3.5.2)	LON3	clust_1190
+LON4|SEQ00322	VBIBifLon48544_0322	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888876	397026	397694	+	669		Glutamine amidotransferase class-I (EC 6.3.5.2)	LON4	clust_1190
+THE1|SEQ00303	VBIBifThe274299_0303	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733776	353973	354707	+	735		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	THE1	clust_1190

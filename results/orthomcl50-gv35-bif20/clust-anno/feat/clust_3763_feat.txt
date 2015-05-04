@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00753	VBIBifAdo136061_0753	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187804	630719	631522	-	804		possible TetR-type transcriptional regulator	ADO1	clust_3763
+BRE5|SEQ01559	VBIBifBre336369_1560	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617307	1754396	1755082	-	687		Transcriptional regulator, TetR family	BRE5	clust_3763
+BRE6|SEQ00907	VBIBifBre268992_0907	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655002	26525	27211	-	687		Transcriptional regulator, TetR family	BRE6	clust_3763

@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+ADO1|SEQ00755	27187808	VBIBifAdo136061_0755	SEQ00755	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Cellobiose phosphorylase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3085
+ANI1|SEQ01405	86847817	VBIBifAni240121_1405	SEQ01405	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	Cellobiose phosphorylase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3085
+ANI2|SEQ01404	86851168	VBIBifAni235968_1404	SEQ01404	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	Cellobiose phosphorylase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3085
+ANI3|SEQ01414	42765188	VBIBifAni108068_1414	SEQ01414	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	Cellobiose phosphorylase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_3085

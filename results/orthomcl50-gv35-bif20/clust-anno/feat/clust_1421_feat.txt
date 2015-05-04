@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00017	VBIBifAdo136061_0017	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186226	9044	10201	+	1158		Xylose-responsive transcription regulator, ROK family	ADO1	clust_1421
+ANI1|SEQ01570	VBIBifAni240121_1570	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848176	1894428	1895636	+	1209		Xylose-responsive transcription regulator, ROK family	ANI1	clust_1421
+ANI2|SEQ01567	VBIBifAni235968_1567	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851522	1894655	1895863	+	1209		Xylose-responsive transcription regulator, ROK family	ANI2	clust_1421
+ANI3|SEQ01579	VBIBifAni108068_1580	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765546	1899883	1901091	+	1209		possible NagC/XylR-type transcriptional regulator	ANI3	clust_1421
+BRE1|SEQ01847	VBIBifBre340958_1849	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605761	2174249	2175457	+	1209		ROK	BRE1	clust_1421
+BRE2|SEQ01937	VBIBifBre337368_1937	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609916	2261139	2262347	+	1209		ROK	BRE2	clust_1421
+BRE3|SEQ01909	VBIBifBre167886_1909	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195615	2246987	2248195	+	1209		possible NagC/XylR-type transcriptional regulator	BRE3	clust_1421
+BRE4|SEQ01887	VBIBifBre327712_1887	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613958	2206965	2208173	+	1209		ROK	BRE4	clust_1421
+BRE5|SEQ02025	VBIBifBre336369_2026	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618286	2298033	2299241	+	1209		ROK	BRE5	clust_1421
+BRE6|SEQ00480	VBIBifBre268992_0480	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654093	4208	5416	+	1209		ROK	BRE6	clust_1421
+BRE7|SEQ01924	VBIBifBre340732_1924	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622388	2236742	2237950	+	1209		possible NagC/XylR-type transcriptional regulator	BRE7	clust_1421
+BRE8|SEQ01883	VBIBifBre176493_1883	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626425	2214451	2215659	+	1209		ROK	BRE8	clust_1421
+BRE9|SEQ02013	VBIBifBre30019_2013	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448206	2340713	2341921	+	1209		Xylose-responsive transcription regulator, ROK family	BRE9	clust_1421
+INF1|SEQ01984	VBIBifLon182273_1984	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888041	2314220	2315428	+	1209		Xylose-responsive transcription regulator, ROK family	INF1	clust_1421
+LON1|SEQ01422	VBIBifLon107831_1423	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119959	1695148	1696356	-	1209		Xylose-responsive transcription regulator, ROK family	LON1	clust_1421
+LON2|SEQ01463	VBIBifLon171405_1466	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582513	1709339	1710547	-	1209		Xylose-responsive transcription regulator, ROK family	LON2	clust_1421
+LON3|SEQ01547	VBIBifLon156230_1550	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769715	2363812	2365020	-	1209		Xylose-responsive transcription regulator, ROK family	LON3	clust_1421
+LON4|SEQ01951	VBIBifLon48544_1952	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892319	2315959	2317167	+	1209		Xylose-responsive transcription regulator, ROK family	LON4	clust_1421
+THE1|SEQ01796	VBIBifThe274299_1796	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736882	2235603	2236844	+	1242		hypothetical protein	THE1	clust_1421

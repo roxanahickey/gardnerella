@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00110	VBIGarVag247323_0110	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494320	149767	152055	+	2289		ABC transporter, ATP-binding/permease protein	GV01	clust_0261
+GV02|SEQ00570	VBIGarVag242669_0570	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497950	189231	191429	-	2199		ABC transporter, ATP-binding/permease protein	GV02	clust_0261
+GV03|SEQ01085	VBIGarVag247424_1085	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501632	12149	14182	+	2034		ABC transporter, ATP-binding/permease protein	GV03	clust_0261
+GV04|SEQ00519	VBIGarVag246433_0519	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480930	168812	170863	-	2052		ABC transporter, ATP-binding/permease protein	GV04	clust_0261
+GV05|SEQ00023	VBIGarVag174900_0023	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545747	32279	33955	+	1677		ABC transporter, ATP-binding/permease protein	GV05	clust_0261
+GV06|SEQ01066	VBIGarVag244004_1066	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490958	23174	25207	-	2034		ABC transporter, ATP-binding/permease protein	GV06	clust_0261
+GV07|SEQ00454	VBIGarVag249177_0454	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492538	97944	99977	-	2034		ABC transporter, ATP-binding/permease protein	GV07	clust_0261
+GV08|SEQ00278	VBIGarVag251521_0278	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474941	73849	75900	+	2052		ABC transporter, ATP-binding/permease protein	GV08	clust_0261
+GV09|SEQ00534	VBIGarVag169280_0534	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260257	280016	280819	-	804		ABC transporter, ATP-binding/permease protein	GV09	clust_0261
+GV09|SEQ00535	VBIGarVag169280_0535	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260259	280821	282068	-	1248		ABC transporter, ATP-binding/permease protein	GV09	clust_0261
+GV10|SEQ00985	VBIGarVag136958_0985	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148056	1289816	1290937	-	1122		ABC transporter, ATP-binding/permease protein	GV10	clust_0261
+GV11|SEQ00182	VBIGarVag171052_0182	Gardnerella vaginalis 41V	AEJE01000010	PATRIC	CDS	52548648	7657	9690	-	2034		ABC transporter, ATP-binding/permease protein	GV11	clust_0261
+GV12|SEQ00387	VBIGarVag144721_0387	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853451	398367	400418	-	2052		ABC transporter, ATP-binding/permease protein	GV12	clust_0261
+GV13|SEQ01312	VBIGarVag244533_1312	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488678	48378	50429	+	2052		ABC transporter, ATP-binding/permease protein	GV13	clust_0261
+GV14|SEQ00728	VBIGarVag244375_0728	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503338	82847	84880	+	2034		ABC transporter, ATP-binding/permease protein	GV14	clust_0261
+GV15|SEQ00962	VBIGarVag249709_0962	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485504	141947	143998	-	2052		ABC transporter, ATP-binding/permease protein	GV15	clust_0261
+GV16|SEQ01183	VBIGarVag246379_1183	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479566	1393450	1395501	-	2052		ABC transporter, ATP-binding/permease protein	GV16	clust_0261
+GV17|SEQ01136	VBIGarVag146634_1136	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852371	79339	81390	-	2052		ABC transporter, ATP-binding/permease protein	GV17	clust_0261
+GV18|SEQ00712	VBIGarVag4823_0712	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000122	PATRIC	CDS	42070203	16513	18564	-	2052		ABC transporter, ATP-binding/permease protein	GV18	clust_0261
+GV19|SEQ00427	VBIGarVag39333_0428	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627717	516147	518198	+	2052		ABC transporter, ATP-binding/permease protein	GV19	clust_0261
+GV20|SEQ01091	VBIGarVag188338_1091	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191048	1367755	1369806	-	2052		ABC transporter, ATP-binding/permease protein	GV20	clust_0261
+GV21|SEQ00935	VBIGarVag274454_0936	Gardnerella vaginalis JCP7275	ATJS01000079	PATRIC	CDS	183968642	6915	8966	+	2052		ABC transporter, ATP-binding/permease protein	GV21	clust_0261
+GV22|SEQ00761	VBIGarVag276801_0762	Gardnerella vaginalis JCP7276	ATJR01000033	PATRIC	CDS	183970977	149	2200	-	2052		ABC transporter, ATP-binding/permease protein	GV22	clust_0261
+GV23|SEQ01114	VBIGarVag276017_1114	Gardnerella vaginalis JCP7659	ATJQ01000130	PATRIC	CDS	183974715	8681	10879	+	2199		ABC transporter, ATP-binding/permease protein	GV23	clust_0261
+GV24|SEQ00597	VBIGarVag268944_0598	Gardnerella vaginalis JCP7672	ATJP01000035	PATRIC	CDS	183976358	6992	9043	+	2052		ABC transporter, ATP-binding/permease protein	GV24	clust_0261
+GV25|SEQ00593	VBIGarVag270495_0593	Gardnerella vaginalis JCP7719	ATJO01000053	PATRIC	CDS	183979134	6232	8490	+	2259		ABC transporter, ATP-binding/permease protein	GV25	clust_0261
+GV26|SEQ01165	VBIGarVag272749_1165	Gardnerella vaginalis JCP8017A	ATJN01000117	PATRIC	CDS	183983257	2057	4234	+	2178		ABC transporter, ATP-binding/permease protein	GV26	clust_0261
+GV27|SEQ01174	VBIGarVag276930_1174	Gardnerella vaginalis JCP8017B	ATJM01000125	PATRIC	CDS	183986240	168	2345	-	2178		ABC transporter, ATP-binding/permease protein	GV27	clust_0261
+GV28|SEQ00962	VBIGarVag271349_0962	Gardnerella vaginalis JCP8066	ATJL01000098	PATRIC	CDS	183988726	2038	4221	+	2184		ABC transporter, ATP-binding/permease protein	GV28	clust_0261
+GV29|SEQ01001	VBIGarVag265473_1001	Gardnerella vaginalis JCP8070	ATJK01000092	PATRIC	CDS	183991514	143	2317	-	2175		ABC transporter, ATP-binding/permease protein	GV29	clust_0261
+GV30|SEQ00737	VBIGarVag267667_0739	Gardnerella vaginalis JCP8108	ATJJ01000046	PATRIC	CDS	183993608	133	2166	-	2034		ABC transporter, ATP-binding/permease protein	GV30	clust_0261
+GV32|SEQ00982	VBIGarVag277040_0982	Gardnerella vaginalis JCP8151B	ATJH01000115	PATRIC	CDS	183999978	171	2321	-	2151		ABC transporter, ATP-binding/permease protein	GV32	clust_0261
+GV33|SEQ00225	VBIGarVag265557_0225	Gardnerella vaginalis JCP8481A	ATJG01000019	PATRIC	CDS	184001145	6452	8593	+	2142		ABC transporter, ATP-binding/permease protein	GV33	clust_0261
+GV34|SEQ00486	VBIGarVag270440_0486	Gardnerella vaginalis JCP8481B	ATJF01000038	PATRIC	CDS	184004549	6452	8593	+	2142		ABC transporter, ATP-binding/permease protein	GV34	clust_0261
+GV35|SEQ00994	VBIGarVag272169_0994	Gardnerella vaginalis JCP8522	ATJE01000132	PATRIC	CDS	184008466	143	1399	-	1257		ABC transporter, ATP-binding/permease protein	GV35	clust_0261

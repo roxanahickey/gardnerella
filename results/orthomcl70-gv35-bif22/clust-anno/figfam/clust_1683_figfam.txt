@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV12|SEQ00697	37854093	VBIGarVag144721_0697	SEQ00697	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	NA	FIG022160: hypothetical toxin	FIG00022160	figfam	clust_1683
+GV18|SEQ00960	42070726	VBIGarVag4823_0960	SEQ00960	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000136	PATRIC	CDS	NA	FIG022160: hypothetical toxin	FIG00022160	figfam	clust_1683
+GV19|SEQ00020	42626874	VBIGarVag39333_0020	SEQ00020	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Phage-related protein	FIG01226522	figfam	clust_1683
+GV20|SEQ00117	54189018	VBIGarVag188338_0117	SEQ00117	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Phage-related protein	FIG01226522	figfam	clust_1683
+LON1|SEQ00179	21117395	VBIBifLon107831_0179	SEQ00179	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Phage-related protein	FIG01226522	figfam	clust_1683

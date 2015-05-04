@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ01139	43459405	VBIBifDen165269_1140	SEQ01139	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		DNA-3-methyladenine glycosylase II (EC 3.2.2.21)	FIG00001134	figfam	clust_3312
+DEN2|SEQ01351	42111088	VBIBifDen39005_1352	SEQ01351	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS		DNA-3-methyladenine glycosylase II (EC 3.2.2.21)	FIG00001134	figfam	clust_3312
+THE1|SEQ00932	124735058	VBIBifThe274299_0932	SEQ00932	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		DNA-3-methyladenine glycosylase II (EC 3.2.2.21)	FIG00001134	figfam	clust_3312

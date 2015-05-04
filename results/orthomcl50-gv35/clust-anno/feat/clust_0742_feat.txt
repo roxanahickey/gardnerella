@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00438	VBIGarVag247323_0438	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495017	174938	175678	+	741		Protein Implicated in DNA repair function with RecA and MutS	GV01	clust_0742
+GV02|SEQ00928	VBIGarVag242669_0928	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498703	165630	166370	-	741		Protein Implicated in DNA repair function with RecA and MutS	GV02	clust_0742
+GV03|SEQ01038	VBIGarVag247424_1038	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501528	410108	410800	-	693		Protein Implicated in DNA repair function with RecA and MutS	GV03	clust_0742
+GV04|SEQ00962	VBIGarVag246433_0962	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481832	333541	334257	+	717		Protein Implicated in DNA repair function with RecA and MutS	GV04	clust_0742
+GV05|SEQ01151	VBIGarVag174900_1151	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548142	17055	17735	-	681		Protein Implicated in DNA repair function with RecA and MutS	GV05	clust_0742
+GV06|SEQ01290	VBIGarVag244004_1290	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491411	154801	155517	-	717		Protein Implicated in DNA repair function with RecA and MutS	GV06	clust_0742
+GV07|SEQ00250	VBIGarVag249177_0250	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492111	39719	40363	+	645		Protein Implicated in DNA repair function with RecA and MutS	GV07	clust_0742
+GV08|SEQ00904	VBIGarVag251521_0904	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476240	85920	86636	+	717		Protein Implicated in DNA repair function with RecA and MutS	GV08	clust_0742
+GV09|SEQ00819	VBIGarVag169280_0819	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260841	203498	204214	+	717		Protein Implicated in DNA repair function with RecA and MutS	GV09	clust_0742
+GV10|SEQ00889	VBIGarVag136958_0889	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147856	1152588	1153277	-	690		Protein Implicated in DNA repair function with RecA and MutS	GV10	clust_0742
+GV11|SEQ00138	VBIGarVag171052_0138	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548547	19236	19952	-	717		Protein Implicated in DNA repair function with RecA and MutS	GV11	clust_0742
+GV12|SEQ00299	VBIGarVag144721_0299	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853267	272693	273424	-	732		Protein Implicated in DNA repair function with RecA and MutS	GV12	clust_0742
+GV13|SEQ00302	VBIGarVag244533_0302	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486552	118596	119312	-	717		Protein Implicated in DNA repair function with RecA and MutS	GV13	clust_0742
+GV14|SEQ01137	VBIGarVag244375_1137	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504191	235059	235715	-	657		Protein Implicated in DNA repair function with RecA and MutS	GV14	clust_0742
+GV15|SEQ00870	VBIGarVag249709_0870	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485312	12930	13661	-	732		Protein Implicated in DNA repair function with RecA and MutS	GV15	clust_0742
+GV16|SEQ00754	VBIGarVag246379_0754	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478665	849196	849912	+	717		Protein Implicated in DNA repair function with RecA and MutS	GV16	clust_0742
+GV18|SEQ00648	VBIGarVag4823_0648	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000119	PATRIC	CDS	42070064	1739	2455	-	717		Protein Implicated in DNA repair function with RecA and MutS	GV18	clust_0742
+GV19|SEQ00857	VBIGarVag39333_0858	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628617	1060604	1061320	-	717	cinA	Protein Implicated in DNA repair function with RecA and MutS	GV19	clust_0742
+GV20|SEQ00690	VBIGarVag188338_0690	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190204	840041	840757	+	717	cinA	Protein Implicated in DNA repair function with RecA and MutS	GV20	clust_0742
+GV21|SEQ00053	VBIGarVag274454_0053	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966740	67572	68288	+	717		Protein Implicated in DNA repair function with RecA and MutS	GV21	clust_0742
+GV22|SEQ00440	VBIGarVag276801_0441	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970307	76299	77015	+	717		Protein Implicated in DNA repair function with RecA and MutS	GV22	clust_0742
+GV23|SEQ00638	VBIGarVag276017_0638	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973639	85869	86609	+	741		Protein Implicated in DNA repair function with RecA and MutS	GV23	clust_0742
+GV24|SEQ00422	VBIGarVag268944_0423	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975972	93373	94089	-	717		Protein Implicated in DNA repair function with RecA and MutS	GV24	clust_0742
+GV25|SEQ01082	VBIGarVag270495_1082	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980213	98719	99459	-	741		Protein Implicated in DNA repair function with RecA and MutS	GV25	clust_0742
+GV26|SEQ00523	VBIGarVag272749_0523	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981836	72899	73639	+	741		Protein Implicated in DNA repair function with RecA and MutS	GV26	clust_0742
+GV27|SEQ00414	VBIGarVag276930_0414	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984573	99927	100667	-	741		Protein Implicated in DNA repair function with RecA and MutS	GV27	clust_0742
+GV28|SEQ00804	VBIGarVag271349_0804	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988367	95920	96660	-	741		Protein Implicated in DNA repair function with RecA and MutS	GV28	clust_0742
+GV29|SEQ00124	VBIGarVag265473_0124	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989611	99230	99970	-	741		Protein Implicated in DNA repair function with RecA and MutS	GV29	clust_0742
+GV30|SEQ00098	VBIGarVag267667_0098	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992237	93301	94017	-	717		Protein Implicated in DNA repair function with RecA and MutS	GV30	clust_0742
+GV31|SEQ00296	VBIGarVag264983_0296	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995637	99932	100672	-	741		Protein Implicated in DNA repair function with RecA and MutS	GV31	clust_0742
+GV32|SEQ01066	VBIGarVag277040_1066	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000174	51395	52135	+	741		Protein Implicated in DNA repair function with RecA and MutS	GV32	clust_0742
+GV33|SEQ00911	VBIGarVag265557_0911	Gardnerella vaginalis JCP8481A	ATJG01000102	PATRIC	CDS	184002650	3867	4526	+	660		Protein Implicated in DNA repair function with RecA and MutS	GV33	clust_0742
+GV34|SEQ01097	VBIGarVag270440_1097	Gardnerella vaginalis JCP8481B	ATJF01000125	PATRIC	CDS	184005893	3867	4526	+	660		Protein Implicated in DNA repair function with RecA and MutS	GV34	clust_0742
+GV35|SEQ00025	VBIGarVag272169_0025	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006323	22913	23653	+	741		Protein Implicated in DNA repair function with RecA and MutS	GV35	clust_0742

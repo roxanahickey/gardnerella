@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+INF1|SEQ01311	46886626	VBIBifLon182273_1311	SEQ01311	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00425997: hypothetical protein	FIG01339429	figfam	clust_2986
+LON1|SEQ00221	21117479	VBIBifLon107831_0221	SEQ00221	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00425997: hypothetical protein	FIG01339429	figfam	clust_2986
+LON3|SEQ01949	42767090	VBIBifLon156230_1952	SEQ01949	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00425997: hypothetical protein	FIG01339429	figfam	clust_2986
+LON4|SEQ01287	46890918	VBIBifLon48544_1287	SEQ01287	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00425997: hypothetical protein	FIG01339429	figfam	clust_2986

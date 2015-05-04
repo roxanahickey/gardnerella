@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV12|SEQ00667	37854031	VBIGarVag144721_0667	SEQ00667	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	NA	phage integrase family protein	FIG01326760	figfam	clust_1687
+GV18|SEQ00358	42069437	VBIGarVag4823_0358	SEQ00358	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000090	PATRIC	CDS	NA	phage integrase family protein	FIG01326760	figfam	clust_1687
+GV19|SEQ00010	42626854	VBIGarVag39333_0010	SEQ00010	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	phage integrase family protein	FIG01326760	figfam	clust_1687
+GV20|SEQ00126	54189036	VBIGarVag188338_0126	SEQ00126	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	phage integrase family protein	FIG01326760	figfam	clust_1687

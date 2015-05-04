@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00414	VBIGarVag247424_0414	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500233	30090	31169	+	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV03	clust_1157
+GV05|SEQ00164	VBIGarVag174900_0164	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546037	66471	67550	-	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV05	clust_1157
+GV07|SEQ01035	VBIGarVag249177_1035	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493756	29973	31052	+	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV07	clust_1157
+GV10|SEQ01119	VBIGarVag136958_1119	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148336	1516460	1517539	+	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV10	clust_1157
+GV12|SEQ00025	VBIGarVag144721_0025	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852700	31081	32160	+	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV12	clust_1157
+GV14|SEQ00927	VBIGarVag244375_0927	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503749	61780	62859	-	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV14	clust_1157
+GV15|SEQ00049	VBIGarVag249709_0049	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483584	58956	60035	-	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV15	clust_1157
+GV17|SEQ00024	VBIGarVag146634_0024	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850044	31102	32181	+	1080		Galactose operon repressor, GalR-LacI family of transcriptional regulators	GV17	clust_1157
+ADO1|SEQ00470	VBIBifAdo136061_0470	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187203	310573	311628	-	1056		hypothetical protein	ADO1	clust_1157
+BIF1|SEQ00023	VBIBifBif87902_0023	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882543	29620	30672	-	1053	purR	Galactose operon repressor, GalR-LacI family of transcriptional regulators	BIF1	clust_1157
+BIF1|SEQ01715	VBIBifBif87902_1715	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886053	2059408	2060514	+	1107	malR	Ribose operon repressor	BIF1	clust_1157
+BRE1|SEQ00168	VBIBifBre340958_0168	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602262	222931	223560	-	630		transcriptional regulator	BRE1	clust_1157
+BRE2|SEQ00167	VBIBifBre337368_0167	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606233	218162	218791	-	630		transcriptional regulator	BRE2	clust_1157
+BRE3|SEQ00187	VBIBifBre167886_0187	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192022	242161	242790	-	630		transcriptional regulator	BRE3	clust_1157
+BRE4|SEQ00188	VBIBifBre327712_0188	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610417	247430	248059	-	630		transcriptional regulator	BRE4	clust_1157
+BRE5|SEQ00182	VBIBifBre336369_0182	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614455	226035	226664	-	630		transcriptional regulator	BRE5	clust_1157
+BRE6|SEQ00169	VBIBifBre268992_0169	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653446	25939	26568	+	630		transcriptional regulator	BRE6	clust_1157
+BRE7|SEQ00161	VBIBifBre340732_0161	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618721	213738	214367	-	630		transcriptional regulator	BRE7	clust_1157
+BRE8|SEQ00188	VBIBifBre176493_0188	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622888	245098	245727	-	630		transcriptional regulator	BRE8	clust_1157
+BRE9|SEQ00195	VBIBifBre30019_0195	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444422	257965	258594	-	630		transcriptional regulator	BRE9	clust_1157
+THE1|SEQ00244	VBIBifThe274299_0244	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733654	287737	288795	-	1059		Galactose operon repressor, GalR-LacI family of transcriptional regulators	THE1	clust_1157

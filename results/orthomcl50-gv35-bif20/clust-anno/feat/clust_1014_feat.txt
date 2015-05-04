@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00124	VBIGarVag246433_0124	Gardnerella vaginalis 0288E	ADEN01000002	PATRIC	CDS	85480097	1073	2308	-	1236		Xylose-responsive transcription regulator, ROK family	GV04	clust_1014
+GV06|SEQ00390	VBIGarVag244004_0390	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489523	59800	61101	+	1302		Xylose repressor XylR (ROK family)	GV06	clust_1014
+GV08|SEQ01232	VBIGarVag251521_1232	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476927	347034	348269	+	1236		Xylose-responsive transcription regulator, ROK family	GV08	clust_1014
+GV09|SEQ01269	VBIGarVag169280_1269	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261781	136362	137597	+	1236		Xylose-responsive transcription regulator, ROK family	GV09	clust_1014
+GV11|SEQ00574	VBIGarVag171052_0574	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549483	1164	2399	-	1236		Xylose-responsive transcription regulator, ROK family	GV11	clust_1014
+GV13|SEQ00393	VBIGarVag244533_0393	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486745	29211	30446	-	1236		Xylose-responsive transcription regulator, ROK family	GV13	clust_1014
+GV16|SEQ00385	VBIGarVag246379_0385	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477904	351311	352612	-	1302		Xylose repressor XylR (ROK family)	GV16	clust_1014
+GV18|SEQ00254	VBIGarVag4823_0254	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069211	9055	10347	-	1293		Xylose repressor XylR (ROK family)	GV18	clust_1014
+GV19|SEQ01224	VBIGarVag39333_1226	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629371	1543861	1545153	+	1293		Xylose repressor XylR (ROK family)	GV19	clust_1014
+GV20|SEQ00270	VBIGarVag188338_0270	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189341	306513	307718	-	1206		Xylose repressor XylR (ROK family)	GV20	clust_1014
+GV21|SEQ00352	VBIGarVag274454_0352	Gardnerella vaginalis JCP7275	ATJS01000013	PATRIC	CDS	183967360	8057	9292	+	1236		Xylose-responsive transcription regulator, ROK family	GV21	clust_1014
+GV22|SEQ00597	VBIGarVag276801_0598	Gardnerella vaginalis JCP7276	ATJR01000019	PATRIC	CDS	183970631	495	1730	-	1236		Xylose-responsive transcription regulator, ROK family	GV22	clust_1014
+GV24|SEQ00545	VBIGarVag268944_0546	Gardnerella vaginalis JCP7672	ATJP01000029	PATRIC	CDS	183976238	467	1702	-	1236		Xylose-responsive transcription regulator, ROK family	GV24	clust_1014
+GV30|SEQ00012	VBIGarVag267667_0012	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992060	13463	14755	+	1293		Xylose repressor XylR (ROK family)	GV30	clust_1014
+ADO1|SEQ00743	VBIBifAdo136061_0743	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187784	618909	620141	+	1233		Xylose-responsive transcription regulator, ROK family	ADO1	clust_1014
+ANI1|SEQ00522	VBIBifAni240121_0522	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845987	621176	622423	+	1248		Xylose-responsive transcription regulator, ROK family	ANI1	clust_1014
+ANI2|SEQ00522	VBIBifAni235968_0522	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849341	621177	622424	+	1248		Xylose-responsive transcription regulator, ROK family	ANI2	clust_1014
+ANI3|SEQ00524	VBIBifAni108068_0524	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763354	621179	622426	+	1248		Xylose-responsive transcription regulator, ROK family	ANI3	clust_1014
+BRE1|SEQ01767	VBIBifBre340958_1768	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605592	2060363	2061661	+	1299		Xylose repressor XylR (ROK family)	BRE1	clust_1014
+BRE2|SEQ01870	VBIBifBre337368_1870	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609773	2163110	2164408	+	1299		Xylose repressor XylR (ROK family)	BRE2	clust_1014
+BRE3|SEQ01831	VBIBifBre167886_1831	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195444	2130495	2131793	+	1299		Xylose repressor XylR (ROK family)	BRE3	clust_1014
+BRE4|SEQ01806	VBIBifBre327712_1806	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613787	2093166	2094464	+	1299		Xylose repressor XylR (ROK family)	BRE4	clust_1014
+BRE5|SEQ01931	VBIBifBre336369_1932	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618090	2167989	2169287	+	1299		Xylose repressor XylR (ROK family)	BRE5	clust_1014
+BRE6|SEQ01183	VBIBifBre268992_1183	Bifidobacterium breve JCP7499	AWSX01000058	PATRIC	CDS	177655585	6108	7406	-	1299		Xylose repressor XylR (ROK family)	BRE6	clust_1014
+BRE8|SEQ01819	VBIBifBre176493_1819	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626282	2115036	2116334	+	1299		Xylose repressor XylR (ROK family)	BRE8	clust_1014
+INF1|SEQ01651	VBIBifLon182273_1651	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887321	1885738	1886967	-	1230		Xylose-responsive transcription regulator, ROK family	INF1	clust_1014
+LON1|SEQ01762	VBIBifLon107831_1763	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120686	2129279	2130508	+	1230		Xylose-responsive transcription regulator, ROK family	LON1	clust_1014
+LON2|SEQ01799	VBIBifLon171405_1802	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583225	2155372	2156601	+	1230		Xylose-responsive transcription regulator, ROK family	LON2	clust_1014
+LON3|SEQ01141	VBIBifLon156230_1143	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766158	315071	316300	-	1230		Xylose-responsive transcription regulator, ROK family	LON3	clust_1014
+LON4|SEQ01609	VBIBifLon48544_1609	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891580	1855182	1856411	-	1230		Xylose-responsive transcription regulator, ROK family	LON4	clust_1014

@@ -1,0 +1,59 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01826	27190023	VBIBifAdo136061_1826	SEQ01826	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+ANI1|SEQ01208	86847407	VBIBifAni240121_1208	SEQ01208	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+ANI2|SEQ01208	86850760	VBIBifAni235968_1208	SEQ01208	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+ANI3|SEQ01216	42764778	VBIBifAni108068_1216	SEQ01216	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BIF1|SEQ00511	86883557	VBIBifBif87902_0511	SEQ00511	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE1|SEQ01245	268604500	VBIBifBre340958_1245	SEQ01245	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE2|SEQ01335	268608654	VBIBifBre337368_1335	SEQ01335	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE3|SEQ00577	54192836	VBIBifBre167886_0577	SEQ00577	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE4|SEQ01276	268612677	VBIBifBre327712_1276	SEQ01276	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE5|SEQ01399	268616980	VBIBifBre336369_1400	SEQ01399	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE6|SEQ01961	177657236	VBIBifBre268992_1961	SEQ01961	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE7|SEQ01287	268621059	VBIBifBre340732_1287	SEQ01287	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE8|SEQ01314	268625223	VBIBifBre176493_1314	SEQ01314	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	hrpA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+BRE9|SEQ01370	58446865	VBIBifBre30019_1370	SEQ01370	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+DEN1|SEQ01207	43459543	VBIBifDen165269_1208	SEQ01207	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+DEN2|SEQ01711	42111819	VBIBifDen39005_1712	SEQ01711	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+DEN2|SEQ01712	42111821	VBIBifDen39005_1713	SEQ01712	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV01|SEQ00222	85494560	VBIGarVag247323_0222	SEQ00222	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV02|SEQ00494	85497785	VBIGarVag242669_0494	SEQ00494	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV03|SEQ00667	85500758	VBIGarVag247424_0667	SEQ00667	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV04|SEQ00424	85480728	VBIGarVag246433_0424	SEQ00424	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV05|SEQ00765	52547289	VBIGarVag174900_0765	SEQ00765	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV06|SEQ00811	85490418	VBIGarVag244004_0811	SEQ00811	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV07|SEQ00644	85492940	VBIGarVag249177_0644	SEQ00644	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV08|SEQ00373	85475143	VBIGarVag251521_0373	SEQ00373	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV09|SEQ00438	55260052	VBIGarVag169280_0438	SEQ00438	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV10|SEQ00509	32147070	VBIGarVag136958_0509	SEQ00509	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV11|SEQ00331	52548965	VBIGarVag171052_0331	SEQ00331	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV12|SEQ01086	37854909	VBIGarVag144721_1086	SEQ01086	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV13|SEQ00795	85487584	VBIGarVag244533_0795	SEQ00795	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV14|SEQ00228	85502291	VBIGarVag244375_0228	SEQ00228	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV15|SEQ01127	85485855	VBIGarVag249709_1127	SEQ01127	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV16|SEQ01089	85479366	VBIGarVag246379_1089	SEQ01089	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV17|SEQ01043	37852180	VBIGarVag146634_1043	SEQ01043	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV18|SEQ01200	42071236	VBIGarVag4823_1200	SEQ01200	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV19|SEQ00521	42627917	VBIGarVag39333_0522	SEQ00521	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV20|SEQ00999	54190852	VBIGarVag188338_0999	SEQ00999	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV21|SEQ00732	183968167	VBIGarVag274454_0733	SEQ00732	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000046	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV22|SEQ00368	183970156	VBIGarVag276801_0369	SEQ00368	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000010	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV23|SEQ00975	183974386	VBIGarVag276017_0975	SEQ00975	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV24|SEQ00533	183976211	VBIGarVag268944_0534	SEQ00533	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV25|SEQ00192	183978264	VBIGarVag270495_0192	SEQ00192	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV26|SEQ00004	183980736	VBIGarVag272749_0004	SEQ00004	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV27|SEQ00176	183984073	VBIGarVag276930_0176	SEQ00176	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV28|SEQ00604	183987929	VBIGarVag271349_0604	SEQ00604	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV29|SEQ00207	183989784	VBIGarVag265473_0207	SEQ00207	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV30|SEQ00654	183993433	VBIGarVag267667_0655	SEQ00654	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV31|SEQ00192	183995422	VBIGarVag264983_0192	SEQ00192	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV32|SEQ00441	183998754	VBIGarVag277040_0441	SEQ00441	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV33|SEQ00407	184001536	VBIGarVag265557_0407	SEQ00407	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV34|SEQ00084	184003660	VBIGarVag270440_0084	SEQ00084	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+GV35|SEQ00458	184007236	VBIGarVag272169_0458	SEQ00458	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	NA	ATP-dependent helicase	FIG00995938	figfam	clust_0063
+INF1|SEQ01375	46886754	VBIBifLon182273_1375	SEQ01375	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+LON1|SEQ00154	21117343	VBIBifLon107831_0154	SEQ00154	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+LON2|SEQ00199	42579901	VBIBifLon171405_0200	SEQ00199	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+LON3|SEQ01888	42766968	VBIBifLon156230_1891	SEQ01888	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+LON4|SEQ01341	46891027	VBIBifLon48544_1341	SEQ01341	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063
+THE1|SEQ00597	124734372	VBIBifThe274299_0597	SEQ00597	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		ATP-dependent helicase	FIG00995938	figfam	clust_0063

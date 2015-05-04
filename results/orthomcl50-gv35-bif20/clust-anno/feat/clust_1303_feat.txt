@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01723	VBIBifAdo136061_1723	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189817	214177	215232	-	1056		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	ADO1	clust_1303
+ANI1|SEQ01096	VBIBifAni240121_1096	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847179	1279034	1280086	-	1053		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	ANI1	clust_1303
+ANI2|SEQ01096	VBIBifAni235968_1096	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850532	1279038	1280090	-	1053		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	ANI2	clust_1303
+ANI3|SEQ01102	VBIBifAni108068_1102	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764549	1279039	1280091	-	1053	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	ANI3	clust_1303
+BIF1|SEQ01230	VBIBifBif87902_1230	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885034	1475697	1476743	-	1047	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BIF1	clust_1303
+BRE1|SEQ01143	VBIBifBre340958_1143	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604293	1340225	1341271	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE1	clust_1303
+BRE2|SEQ01231	VBIBifBre337368_1231	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608444	1414623	1415669	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE2	clust_1303
+BRE3|SEQ00681	VBIBifBre167886_0681	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193046	829192	830238	+	1047	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE3	clust_1303
+BRE4|SEQ01174	VBIBifBre327712_1174	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612471	1363951	1364997	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE4	clust_1303
+BRE5|SEQ01295	VBIBifBre336369_1296	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616769	1442160	1443206	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE5	clust_1303
+BRE6|SEQ01858	VBIBifBre268992_1858	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657028	34859	35905	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE6	clust_1303
+BRE7|SEQ01183	VBIBifBre340732_1183	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620850	1363922	1364968	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE7	clust_1303
+BRE8|SEQ01212	VBIBifBre176493_1212	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625018	1413215	1414261	-	1047	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE8	clust_1303
+BRE9|SEQ01268	VBIBifBre30019_1268	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446659	1469421	1470467	-	1047	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	BRE9	clust_1303
+INF1|SEQ01252	VBIBifLon182273_1252	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886507	1409360	1410406	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	INF1	clust_1303
+LON1|SEQ00279	VBIBifLon107831_0279	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117595	333662	334759	+	1098	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	LON1	clust_1303
+LON2|SEQ00323	VBIBifLon171405_0324	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580149	376917	377963	+	1047	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	LON2	clust_1303
+LON3|SEQ00142	VBIBifLon156230_0142	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767212	949081	950127	+	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	LON3	clust_1303
+LON4|SEQ01227	VBIBifLon48544_1227	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890795	1383955	1385001	-	1047		Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	LON4	clust_1303
+THE1|SEQ00726	VBIBifThe274299_0726	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734632	918065	919114	+	1050	trpD	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	THE1	clust_1303

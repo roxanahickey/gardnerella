@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00360	VBIBifBre340958_0360	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602669	448701	448901	-	201		Arabinose-proton symporter	BRE1	clust_2091
+BRE2|SEQ00419	VBIBifBre337368_0419	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606762	503160	503318	-	159		Arabinose-proton symporter	BRE2	clust_2091
+BRE5|SEQ00394	VBIBifBre336369_0395	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614903	462354	462623	-	270		Arabinose-proton symporter	BRE5	clust_2091
+BRE7|SEQ00391	VBIBifBre340732_0391	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619204	483074	483232	-	159		Arabinose-proton symporter	BRE7	clust_2091
+BRE9|SEQ00460	VBIBifBre30019_0460	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444982	554365	554565	-	201		Arabinose-proton symporter	BRE9	clust_2091
+INF1|SEQ00357	VBIBifLon182273_0357	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884650	443702	443971	-	270		Arabinose-proton symporter	INF1	clust_2091
+LON1|SEQ00998	VBIBifLon107831_0999	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119073	1178207	1178476	+	270		Arabinose-proton symporter	LON1	clust_2091
+LON2|SEQ01055	VBIBifLon171405_1057	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581657	1207103	1207372	+	270	xylT	Arabinose-proton symporter	LON2	clust_2091
+LON3|SEQ00861	VBIBifLon156230_0862	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768697	1783181	1783450	+	270		Arabinose-proton symporter	LON3	clust_2091

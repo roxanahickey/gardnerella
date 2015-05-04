@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00313	27186882	VBIBifAdo136061_0313	SEQ00313	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		FIG00672454: hypothetical protein	FIG00672453	figfam	clust_2421
+ANI1|SEQ00068	86845033	VBIBifAni240121_0068	SEQ00068	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		FIG00672454: hypothetical protein	FIG00672453	figfam	clust_2421
+ANI2|SEQ00068	86848388	VBIBifAni235968_0068	SEQ00068	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		FIG00672454: hypothetical protein	FIG00672453	figfam	clust_2421
+ANI3|SEQ00070	42762404	VBIBifAni108068_0070	SEQ00070	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		FIG00672454: hypothetical protein	FIG00672453	figfam	clust_2421
+BIF1|SEQ00043	86882583	VBIBifBif87902_0043	SEQ00043	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		FIG00672454: hypothetical protein	FIG00672453	figfam	clust_2421
+THE1|SEQ00051	124733261	VBIBifThe274299_0051	SEQ00051	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		FIG00672454: hypothetical protein	FIG00672453	figfam	clust_2421

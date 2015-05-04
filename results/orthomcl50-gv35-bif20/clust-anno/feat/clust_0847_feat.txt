@@ -1,0 +1,42 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00278	VBIGarVag247323_0278	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494679	10817	11860	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV01	clust_0847
+GV02|SEQ00673	VBIGarVag242669_0673	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498163	39468	40511	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV02	clust_0847
+GV04|SEQ01070	VBIGarVag246433_1070	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482061	17421	18464	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV04	clust_0847
+GV06|SEQ00678	VBIGarVag244004_0678	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490140	41155	42198	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV06	clust_0847
+GV08|SEQ00153	VBIGarVag251521_0153	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474677	188884	189927	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV08	clust_0847
+GV09|SEQ00981	VBIGarVag169280_0981	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261174	408313	409356	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV09	clust_0847
+GV11|SEQ00676	VBIGarVag171052_0676	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549699	40712	41755	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV11	clust_0847
+GV13|SEQ00618	VBIGarVag244533_0618	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487209	41165	42208	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV13	clust_0847
+GV16|SEQ00928	VBIGarVag246379_0928	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479023	1058397	1059440	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV16	clust_0847
+GV18|SEQ00531	VBIGarVag4823_0531	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069812	1728	2771	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV18	clust_0847
+GV19|SEQ00689	VBIGarVag39333_0690	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628272	855488	856531	+	1044	purR	periplasmic binding protein/LacI transcriptional regulator	GV19	clust_0847
+GV20|SEQ00851	VBIGarVag188338_0851	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190536	1041675	1042718	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV20	clust_0847
+GV21|SEQ00304	VBIGarVag274454_0304	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967260	95224	96267	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV21	clust_0847
+GV22|SEQ00063	VBIGarVag276801_0063	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969511	77492	78535	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV22	clust_0847
+GV23|SEQ00113	VBIGarVag276017_0113	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972523	9211	10254	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV23	clust_0847
+GV24|SEQ01009	VBIGarVag268944_1010	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977249	97191	98234	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV24	clust_0847
+GV25|SEQ00723	VBIGarVag270495_0723	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979413	22220	23263	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV25	clust_0847
+GV26|SEQ00362	VBIGarVag272749_0362	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981502	9163	10254	+	1092		periplasmic binding protein/LacI transcriptional regulator	GV26	clust_0847
+GV27|SEQ00120	VBIGarVag276930_0120	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983954	39604	40695	-	1092		periplasmic binding protein/LacI transcriptional regulator	GV27	clust_0847
+GV28|SEQ00253	VBIGarVag271349_0253	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987169	16210	17253	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV28	clust_0847
+GV29|SEQ00868	VBIGarVag265473_0868	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991225	15559	16602	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV29	clust_0847
+GV30|SEQ00278	VBIGarVag267667_0279	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992614	49772	50815	-	1044		periplasmic binding protein/LacI transcriptional regulator	GV30	clust_0847
+GV31|SEQ00008	VBIGarVag264983_0008	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995034	8371	9414	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV31	clust_0847
+GV32|SEQ00267	VBIGarVag277040_0267	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998382	91654	92697	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV32	clust_0847
+GV35|SEQ00140	VBIGarVag272169_0140	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006559	26771	27814	+	1044		periplasmic binding protein/LacI transcriptional regulator	GV35	clust_0847
+ADO1|SEQ00731	VBIBifAdo136061_0731	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187760	606449	607468	-	1020		Maltose operon transcriptional repressor MalR, LacI family	ADO1	clust_0847
+ANI1|SEQ00512	VBIBifAni240121_0512	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845967	608026	609030	-	1005		Maltose operon transcriptional repressor MalR, LacI family	ANI1	clust_0847
+ANI2|SEQ00512	VBIBifAni235968_0512	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849321	608027	609031	-	1005	malR	Maltose operon transcriptional repressor MalR, LacI family	ANI2	clust_0847
+ANI3|SEQ00514	VBIBifAni108068_0514	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763334	608029	609033	-	1005		Maltose operon transcriptional repressor MalR, LacI family	ANI3	clust_0847
+BIF1|SEQ00206	VBIBifBif87902_0206	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882925	258140	259156	-	1017	cytR	LacI-family transcriptional regulator	BIF1	clust_0847
+BRE1|SEQ01712	VBIBifBre340958_1713	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605481	1999201	2000229	+	1029		LacI-family transcriptional regulator	BRE1	clust_0847
+BRE2|SEQ01816	VBIBifBre337368_1816	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609665	2099736	2100764	+	1029		LacI-family transcriptional regulator	BRE2	clust_0847
+BRE3|SEQ01780	VBIBifBre167886_1780	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195342	2071705	2072733	+	1029		LacI-family transcriptional regulator	BRE3	clust_0847
+BRE4|SEQ01752	VBIBifBre327712_1752	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613678	2032043	2033071	+	1029		LacI-family transcriptional regulator	BRE4	clust_0847
+BRE5|SEQ01873	VBIBifBre336369_1874	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617974	2102579	2103607	+	1029		LacI-family transcriptional regulator	BRE5	clust_0847
+BRE6|SEQ01234	VBIBifBre268992_1234	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS	177655688	38986	40014	-	1029		LacI-family transcriptional regulator	BRE6	clust_0847
+BRE7|SEQ01811	VBIBifBre340732_1811	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622153	2082787	2083815	+	1029		LacI-family transcriptional regulator	BRE7	clust_0847
+BRE8|SEQ01767	VBIBifBre176493_1767	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626178	2056298	2057326	+	1029		LacI-family transcriptional regulator	BRE8	clust_0847
+BRE9|SEQ01873	VBIBifBre30019_1873	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447917	2160284	2161312	+	1029		LacI-family transcriptional regulator	BRE9	clust_0847
+INF1|SEQ01663	VBIBifLon182273_1663	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887345	1900257	1901300	+	1044		Maltose operon transcriptional repressor MalR, LacI family	INF1	clust_0847
+LON3|SEQ01153	VBIBifLon156230_1155	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766182	329590	330633	+	1044		Maltose operon transcriptional repressor MalR, LacI family	LON3	clust_0847

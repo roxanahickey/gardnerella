@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00769	VBIGarVag247323_0769	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495700	64279	64887	+	609		HspR, transcriptional repressor of DnaK operon	GV01	clust_0726
+GV02|SEQ01042	VBIGarVag242669_1042	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498939	63121	63690	+	570		HspR, transcriptional repressor of DnaK operon	GV02	clust_0726
+GV03|SEQ00422	VBIGarVag247424_0422	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500249	41991	42587	-	597		HspR, transcriptional repressor of DnaK operon	GV03	clust_0726
+GV04|SEQ01224	VBIGarVag246433_1224	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482377	70171	70785	+	615		HspR, transcriptional repressor of DnaK operon	GV04	clust_0726
+GV05|SEQ00156	VBIGarVag174900_0156	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546021	55028	55624	+	597		HspR, transcriptional repressor of DnaK operon	GV05	clust_0726
+GV06|SEQ00480	VBIGarVag244004_0480	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489718	46243	46857	-	615		HspR, transcriptional repressor of DnaK operon	GV06	clust_0726
+GV07|SEQ01043	VBIGarVag249177_1043	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493772	41895	42491	-	597		HspR, transcriptional repressor of DnaK operon	GV07	clust_0726
+GV08|SEQ00544	VBIGarVag251521_0544	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475502	42340	42954	-	615		HspR, transcriptional repressor of DnaK operon	GV08	clust_0726
+GV09|SEQ01050	VBIGarVag169280_1050	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261321	65545	66159	+	615		HspR, transcriptional repressor of DnaK operon	GV09	clust_0726
+GV10|SEQ01127	VBIGarVag136958_1127	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148352	1528623	1529219	-	597		HspR, transcriptional repressor of DnaK operon	GV10	clust_0726
+GV11|SEQ00236	VBIGarVag171052_0236	Gardnerella vaginalis 41V	AEJE01000017	PATRIC	CDS	52548764	19560	20174	-	615		HspR, transcriptional repressor of DnaK operon	GV11	clust_0726
+GV12|SEQ00033	VBIGarVag144721_0033	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852716	43272	43868	-	597		HspR, transcriptional repressor of DnaK operon	GV12	clust_0726
+GV13|SEQ01238	VBIGarVag244533_1238	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488528	64951	65565	+	615		HspR, transcriptional repressor of DnaK operon	GV13	clust_0726
+GV14|SEQ00919	VBIGarVag244375_0919	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503733	50362	50958	+	597		HspR, transcriptional repressor of DnaK operon	GV14	clust_0726
+GV15|SEQ00041	VBIGarVag249709_0041	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483568	47264	47860	+	597		HspR, transcriptional repressor of DnaK operon	GV15	clust_0726
+GV16|SEQ00056	VBIGarVag246379_0056	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477216	70635	71249	+	615		HspR, transcriptional repressor of DnaK operon	GV16	clust_0726
+GV17|SEQ00032	VBIGarVag146634_0032	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850060	43296	43892	-	597		HspR, transcriptional repressor of DnaK operon	GV17	clust_0726
+GV18|SEQ00831	VBIGarVag4823_0831	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000130	PATRIC	CDS	42070460	22606	23220	+	615		HspR, transcriptional repressor of DnaK operon	GV18	clust_0726
+GV19|SEQ00256	VBIGarVag39333_0257	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627365	310931	311545	+	615	hspR	HspR, transcriptional repressor of DnaK operon	GV19	clust_0726
+GV20|SEQ01254	VBIGarVag188338_1254	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191384	1574616	1575230	-	615		HspR, transcriptional repressor of DnaK operon	GV20	clust_0726
+GV21|SEQ01080	VBIGarVag274454_1081	Gardnerella vaginalis JCP7275	ATJS01000126	PATRIC	CDS	183968995	6405	7019	+	615		HspR, transcriptional repressor of DnaK operon	GV21	clust_0726
+GV22|SEQ00533	VBIGarVag276801_0534	Gardnerella vaginalis JCP7276	ATJR01000016	PATRIC	CDS	183970500	905	1519	-	615		HspR, transcriptional repressor of DnaK operon	GV22	clust_0726
+GV24|SEQ00666	VBIGarVag268944_0667	Gardnerella vaginalis JCP7672	ATJP01000052	PATRIC	CDS	183976513	913	1527	-	615		HspR, transcriptional repressor of DnaK operon	GV24	clust_0726
+GV25|SEQ00979	VBIGarVag270495_0979	Gardnerella vaginalis JCP7719	ATJO01000113	PATRIC	CDS	183979995	233	802	-	570		HspR, transcriptional repressor of DnaK operon	GV25	clust_0726
+GV26|SEQ00915	VBIGarVag272749_0915	Gardnerella vaginalis JCP8017A	ATJN01000055	PATRIC	CDS	183982682	349	918	-	570		HspR, transcriptional repressor of DnaK operon	GV26	clust_0726
+GV27|SEQ00981	VBIGarVag276930_0981	Gardnerella vaginalis JCP8017B	ATJM01000069	PATRIC	CDS	183985793	725	1294	+	570		HspR, transcriptional repressor of DnaK operon	GV27	clust_0726
+GV28|SEQ01114	VBIGarVag271349_1114	Gardnerella vaginalis JCP8066	ATJL01000160	PATRIC	CDS	183989110	264	833	+	570		HspR, transcriptional repressor of DnaK operon	GV28	clust_0726
+GV29|SEQ00851	VBIGarVag265473_0851	Gardnerella vaginalis JCP8070	ATJK01000072	PATRIC	CDS	183991190	343	912	-	570		HspR, transcriptional repressor of DnaK operon	GV29	clust_0726
+GV30|SEQ01317	VBIGarVag267667_1319	Gardnerella vaginalis JCP8108	ATJJ01000162	PATRIC	CDS	183994926	7653	8267	+	615		HspR, transcriptional repressor of DnaK operon	GV30	clust_0726
+GV31|SEQ00705	VBIGarVag264983_0705	Gardnerella vaginalis JCP8151A	ATJI01000036	PATRIC	CDS	183996506	272	841	-	570		HspR, transcriptional repressor of DnaK operon	GV31	clust_0726
+GV32|SEQ01005	VBIGarVag277040_1005	Gardnerella vaginalis JCP8151B	ATJH01000127	PATRIC	CDS	184000036	1096	1704	-	609		HspR, transcriptional repressor of DnaK operon	GV32	clust_0726
+GV33|SEQ00769	VBIGarVag265557_0769	Gardnerella vaginalis JCP8481A	ATJG01000080	PATRIC	CDS	184002323	8953	9549	+	597		HspR, transcriptional repressor of DnaK operon	GV33	clust_0726
+GV34|SEQ00571	VBIGarVag270440_0571	Gardnerella vaginalis JCP8481B	ATJF01000052	PATRIC	CDS	184004736	8891	9487	+	597		HspR, transcriptional repressor of DnaK operon	GV34	clust_0726
+GV35|SEQ00307	VBIGarVag272169_0307	Gardnerella vaginalis JCP8522	ATJE01000011	PATRIC	CDS	184006911	423	713	-	291		HspR, transcriptional repressor of DnaK operon	GV35	clust_0726

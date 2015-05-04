@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00855	VBIBifDen165269_0856	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463018	2384233	2385237	+	1005		esterase/lipase/thioesterase	DEN1	clust_3064
+DEN2|SEQ00324	VBIBifDen39005_0324	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108971	46495	47499	-	1005		esterase/lipase/thioesterase	DEN2	clust_3064
+LON1|SEQ01484	VBIBifLon107831_1485	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120098	1799555	1800499	-	945		Esterase/lipase	LON1	clust_3064
+LON3|SEQ01822	VBIBifLon156230_1825	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766833	702125	703069	+	945		Esterase/lipase	LON3	clust_3064

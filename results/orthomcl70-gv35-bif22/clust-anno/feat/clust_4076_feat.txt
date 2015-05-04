@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00686	VBIBifBif87902_0686	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883909	846478	847599	-	1122	tarK	teichoic acid biosynthesis protein	BIF1	clust_4076
+BIF1|SEQ00687	VBIBifBif87902_0687	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883911	847721	849607	+	1887		Putative polyribitolphosphotransferase	BIF1	clust_4076

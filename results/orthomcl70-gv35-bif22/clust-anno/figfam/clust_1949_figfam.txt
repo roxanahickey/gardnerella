@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01743	268605543	VBIBifBre340958_1744	SEQ01743	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE2|SEQ01848	268609729	VBIBifBre337368_1848	SEQ01848	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE3|SEQ01812	54195406	VBIBifBre167886_1812	SEQ01812	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE4|SEQ01784	268613742	VBIBifBre327712_1784	SEQ01784	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE5|SEQ01909	268618046	VBIBifBre336369_1910	SEQ01909	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE6|SEQ01202	177655624	VBIBifBre268992_1202	SEQ01202	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE7|SEQ01843	268622217	VBIBifBre340732_1843	SEQ01843	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE8|SEQ01800	268626244	VBIBifBre176493_1800	SEQ01800	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+BRE9|SEQ01907	58447985	VBIBifBre30019_1907	SEQ01907	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+DEN1|SEQ01444	43460018	VBIBifDen165269_1445	SEQ01444	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949
+DEN2|SEQ00196	42108708	VBIBifDen39005_0196	SEQ00196	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		Glycogen debranching enzyme	FIG01388831	figfam	clust_1949

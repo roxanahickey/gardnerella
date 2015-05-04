@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00598	VBIGarVag246433_0598	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481089	15386	16021	-	636		virulence-related protein	GV04	clust_1235
+GV05|SEQ00684	VBIGarVag174900_0684	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547127	302829	303479	+	651		virulence-related protein	GV05	clust_1235
+GV06|SEQ01175	VBIGarVag244004_1175	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491177	26521	27171	+	651		virulence-related protein	GV06	clust_1235
+GV12|SEQ01133	VBIGarVag144721_1133	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855088	17541	18191	+	651		virulence-related protein	GV12	clust_1235
+GV17|SEQ00113	VBIGarVag146634_0113	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850223	48394	49044	-	651		virulence-related protein	GV17	clust_1235
+GV20|SEQ00481	VBIGarVag188338_0481	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189776	595307	595957	+	651		virulence-related protein	GV20	clust_1235
+GV22|SEQ01264	VBIGarVag276801_1265	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972165	23140	23790	-	651		virulence-related protein	GV22	clust_1235
+GV25|SEQ00052	VBIGarVag270495_0052	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977963	20746	21396	-	651		virulence-related protein	GV25	clust_1235
+GV26|SEQ00964	VBIGarVag272749_0964	Gardnerella vaginalis JCP8017A	ATJN01000061	PATRIC	CDS	183982786	19044	19694	-	651		virulence-related protein	GV26	clust_1235
+GV27|SEQ01209	VBIGarVag276930_1209	Gardnerella vaginalis JCP8017B	ATJM01000131	PATRIC	CDS	183986316	19255	19905	-	651		virulence-related protein	GV27	clust_1235
+GV30|SEQ01092	VBIGarVag267667_1094	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994405	23530	24180	+	651		virulence-related protein	GV30	clust_1235

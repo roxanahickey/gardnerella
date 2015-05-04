@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01107	VBIBifAdo136061_1107	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188537	14658	15668	+	1011		hypothetical protein	ADO1	clust_1566
+BIF1|SEQ01027	VBIBifBif87902_1027	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884618	1243659	1244678	-	1020	vanZ	hypothetical protein	BIF1	clust_1566
+BRE1|SEQ00996	VBIBifBre340958_0996	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603992	1180221	1181234	-	1014		Glycopeptide antibiotics resistance protein	BRE1	clust_1566
+BRE2|SEQ01089	VBIBifBre337368_1089	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608151	1274014	1275027	-	1014		Glycopeptide antibiotics resistance protein	BRE2	clust_1566
+BRE3|SEQ00791	VBIBifBre167886_0791	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193277	944672	945685	+	1014		Glycopeptide antibiotics resistance protein	BRE3	clust_1566
+BRE4|SEQ00962	VBIBifBre327712_0962	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612028	1123733	1124746	+	1014		Glycopeptide antibiotics resistance protein	BRE4	clust_1566
+BRE5|SEQ01142	VBIBifBre336369_1143	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616455	1285571	1286584	-	1014		Glycopeptide antibiotics resistance protein	BRE5	clust_1566
+BRE6|SEQ01745	VBIBifBre268992_1745	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656792	41302	42315	-	1014		Glycopeptide antibiotics resistance protein	BRE6	clust_1566
+BRE7|SEQ01040	VBIBifBre340732_1040	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620555	1219741	1220754	-	1014		Glycopeptide antibiotics resistance protein	BRE7	clust_1566
+BRE8|SEQ01059	VBIBifBre176493_1059	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624700	1256178	1257191	-	1014		Glycopeptide antibiotics resistance protein	BRE8	clust_1566
+BRE9|SEQ01124	VBIBifBre30019_1124	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446362	1319391	1320404	-	1014		Glycopeptide antibiotics resistance protein	BRE9	clust_1566
+INF1|SEQ01016	VBIBifLon182273_1016	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886015	1164852	1165865	+	1014		Glycopeptide antibiotics resistance protein	INF1	clust_1566
+LON1|SEQ00460	VBIBifLon107831_0460	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117975	543951	544964	-	1014		Glycopeptide antibiotics resistance protein	LON1	clust_1566
+LON2|SEQ00489	VBIBifLon171405_0490	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580499	561684	562697	-	1014	vanZ	Glycopeptide antibiotics resistance protein	LON2	clust_1566
+LON3|SEQ00323	VBIBifLon156230_0323	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767594	1156378	1157391	-	1014		Glycopeptide antibiotics resistance protein	LON3	clust_1566
+LON4|SEQ00894	VBIBifLon48544_0894	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890064	1057026	1058039	+	1014		Glycopeptide antibiotics resistance protein	LON4	clust_1566

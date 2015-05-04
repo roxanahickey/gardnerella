@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01001	VBIBifBre340958_1001	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604002	1183973	1184590	-	618		DUF1526 domain-containing protein	BRE1	clust_1850
+BRE2|SEQ01095	VBIBifBre337368_1095	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608163	1277814	1278431	-	618		DUF1526 domain-containing protein	BRE2	clust_1850
+BRE3|SEQ00786	VBIBifBre167886_0786	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193267	941315	941932	+	618		DUF1526 domain-containing protein	BRE3	clust_1850
+BRE4|SEQ00954	VBIBifBre327712_0954	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612012	1118845	1119477	+	633		DUF1526 domain-containing protein	BRE4	clust_1850
+BRE5|SEQ02037	VBIBifBre336369_2038	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618310	2315198	2315830	-	633		DUF1526 domain-containing protein	BRE5	clust_1850
+BRE6|SEQ01750	VBIBifBre268992_1750	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656802	45055	45672	-	618		DUF1526 domain-containing protein	BRE6	clust_1850
+BRE7|SEQ01045	VBIBifBre340732_1045	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620565	1223494	1224126	-	633		DUF1526 domain-containing protein	BRE7	clust_1850
+BRE8|SEQ01067	VBIBifBre176493_1067	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624716	1261449	1262066	-	618		DUF1526 domain-containing protein	BRE8	clust_1850
+INF1|SEQ01008	VBIBifLon182273_1008	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885999	1160256	1160873	+	618		DUF1526 domain-containing protein	INF1	clust_1850
+LON1|SEQ00467	VBIBifLon107831_0467	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117989	549225	549857	-	633		DUF1526 domain-containing protein	LON1	clust_1850
+LON3|SEQ00332	VBIBifLon156230_0332	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767613	1161652	1162284	-	633		DUF1526 domain-containing protein	LON3	clust_1850
+LON4|SEQ00887	VBIBifLon48544_0887	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890050	1052140	1052772	+	633		DUF1526 domain-containing protein	LON4	clust_1850

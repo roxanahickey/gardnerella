@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01004	VBIBifAdo136061_1004	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188322	924317	925111	-	795		Short-chain dehydrogenase/reductase SDR	ADO1	clust_2829
+ANI1|SEQ01036	VBIBifAni240121_1036	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847054	1197251	1198060	+	810		probable short-chain dehydrogenase	ANI1	clust_2829
+ANI2|SEQ01036	VBIBifAni235968_1036	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850407	1197254	1198063	+	810		probable short-chain dehydrogenase	ANI2	clust_2829
+ANI3|SEQ01040	VBIBifAni108068_1040	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764421	1197255	1198064	+	810		probable short-chain dehydrogenase	ANI3	clust_2829
+THE1|SEQ00796	VBIBifThe274299_0796	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734776	1002378	1002839	-	462		Short-chain dehydrogenase/reductase SDR	THE1	clust_2829

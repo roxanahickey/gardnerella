@@ -1,0 +1,20 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01922	27190217	VBIBifAdo136061_1922	SEQ01922	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BIF1|SEQ01337	86885261	VBIBifBif87902_1337	SEQ01337	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE1|SEQ01194	268604397	VBIBifBre340958_1194	SEQ01194	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE2|SEQ01282	268608547	VBIBifBre337368_1282	SEQ01282	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE3|SEQ00630	54192943	VBIBifBre167886_0630	SEQ00630	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE4|SEQ01226	268612576	VBIBifBre327712_1226	SEQ01226	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE5|SEQ01348	268616877	VBIBifBre336369_1349	SEQ01348	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE6|SEQ01909	177657131	VBIBifBre268992_1909	SEQ01909	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE7|SEQ01234	268620952	VBIBifBre340732_1234	SEQ01234	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE8|SEQ01263	268625120	VBIBifBre176493_1263	SEQ01263	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	glxK	Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+BRE9|SEQ01319	58446762	VBIBifBre30019_1319	SEQ01319	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+DEN1|SEQ01339	43459807	VBIBifDen165269_1340	SEQ01339	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+DEN2|SEQ00723	42109781	VBIBifDen39005_0723	SEQ00723	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+INF1|SEQ00923	46885825	VBIBifLon182273_0923	SEQ00923	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+LON1|SEQ00538	21118131	VBIBifLon107831_0539	SEQ00538	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+LON2|SEQ00598	42580720	VBIBifLon171405_0599	SEQ00598	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+LON3|SEQ00405	42767760	VBIBifLon156230_0405	SEQ00405	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+LON4|SEQ00807	46889887	VBIBifLon48544_0807	SEQ00807	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447
+THE1|SEQ00507	124734190	VBIBifThe274299_0507	SEQ00507	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Glycerate kinase (EC 2.7.1.31)	FIG00000456	figfam	clust_1447

@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00066	VBIBifAdo136061_0066	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186324	74737	75051	+	315		transcriptional regulator	ADO1	clust_2489
+BRE2|SEQ01410	VBIBifBre337368_1410	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608812	1632787	1633656	-	870		Two-component response regulator yesN	BRE2	clust_2489
+BRE3|SEQ00502	VBIBifBre167886_0502	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192679	611239	612108	+	870		Transcriptional regulator, AraC family	BRE3	clust_2489
+BRE4|SEQ01355	VBIBifBre327712_1355	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612842	1582830	1583699	-	870		Two-component response regulator yesN	BRE4	clust_2489
+BRE6|SEQ00247	VBIBifBre268992_0247	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653605	22579	23448	-	870		Two-component response regulator yesN	BRE6	clust_2489
+BRE8|SEQ01388	VBIBifBre176493_1388	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625378	1628208	1629077	-	870		Two-component response regulator yesN	BRE8	clust_2489

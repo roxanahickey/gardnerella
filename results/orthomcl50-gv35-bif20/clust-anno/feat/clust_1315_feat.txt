@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01842	VBIBifAdo136061_1842	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190055	351117	351842	-	726		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	ADO1	clust_1315
+ANI1|SEQ01214	VBIBifAni240121_1214	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847419	1411726	1412328	-	603		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	ANI1	clust_1315
+ANI2|SEQ01214	VBIBifAni235968_1214	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850772	1411730	1412332	-	603		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	ANI2	clust_1315
+ANI3|SEQ01222	VBIBifAni108068_1222	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764790	1417178	1417780	-	603		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	ANI3	clust_1315
+BIF1|SEQ00502	VBIBifBif87902_0502	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883539	627045	627647	+	603	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BIF1	clust_1315
+BRE1|SEQ01252	VBIBifBre340958_1252	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604514	1470802	1471401	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE1	clust_1315
+BRE2|SEQ01342	VBIBifBre337368_1342	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608668	1547083	1547682	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE2	clust_1315
+BRE3|SEQ00569	VBIBifBre167886_0569	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192819	697198	697797	+	600	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE3	clust_1315
+BRE4|SEQ01283	VBIBifBre327712_1283	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612691	1494150	1494749	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE4	clust_1315
+BRE5|SEQ01406	VBIBifBre336369_1407	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616994	1572996	1573595	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE5	clust_1315
+BRE6|SEQ01968	VBIBifBre268992_1968	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657250	166710	167309	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE6	clust_1315
+BRE7|SEQ01294	VBIBifBre340732_1294	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621073	1496177	1496776	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE7	clust_1315
+BRE8|SEQ01321	VBIBifBre176493_1321	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625237	1542605	1543204	-	600	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE8	clust_1315
+BRE9|SEQ01377	VBIBifBre30019_1377	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446879	1599075	1599674	-	600	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	BRE9	clust_1315
+INF1|SEQ01383	VBIBifLon182273_1383	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886770	1570049	1570648	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	INF1	clust_1315
+LON1|SEQ00146	VBIBifLon107831_0146	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117327	170202	170801	+	600	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	LON1	clust_1315
+LON2|SEQ00191	VBIBifLon171405_0192	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579885	214133	214732	+	600	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	LON2	clust_1315
+LON3|SEQ01879	VBIBifLon156230_1882	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766950	787138	787737	+	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	LON3	clust_1315
+LON4|SEQ01349	VBIBifLon48544_1349	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891043	1528299	1528898	-	600		Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	LON4	clust_1315
+THE1|SEQ00589	VBIBifThe274299_0589	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734356	744711	745310	+	600	hisB	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	THE1	clust_1315

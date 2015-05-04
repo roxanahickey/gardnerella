@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01528	VBIBifBre340958_1529	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605089	1799622	1799792	-	171		histidine kinase sensor of two component system	BRE1	clust_3467
+BRE6|SEQ02001	VBIBifBre268992_2001	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657320	21250	21420	-	171		histidine kinase sensor of two component system	BRE6	clust_3467
+BRE9|SEQ01688	VBIBifBre30019_1688	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447523	1954435	1954605	-	171		histidine kinase sensor of two component system	BRE9	clust_3467

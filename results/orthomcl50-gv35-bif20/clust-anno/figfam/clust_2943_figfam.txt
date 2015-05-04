@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ01183	268608347	VBIBifBre337368_1183	SEQ01183	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		putative transposon integrase; Tn916 ORF3-like	FIG01801698	figfam	clust_2943
+BRE4|SEQ01079	268612275	VBIBifBre327712_1079	SEQ01079	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_2943

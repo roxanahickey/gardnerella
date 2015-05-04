@@ -1,0 +1,24 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00072	VBIBifBif87902_0072	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882642	90258	90602	-	345		IS1557 family transposase	BIF1	clust_1127
+BIF1|SEQ00152	VBIBifBif87902_0152	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882808	185717	186451	-	735		hypothetical protein	BIF1	clust_1127
+BRE1|SEQ00242	VBIBifBre340958_0242	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602422	310582	311862	-	1281		Transposase and inactivated derivatives	BRE1	clust_1127
+BRE2|SEQ00274	VBIBifBre337368_0274	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606460	348696	349973	-	1278		Transposase and inactivated derivatives	BRE2	clust_1127
+BRE3|SEQ00292	VBIBifBre167886_0292	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192245	371314	372354	-	1041		Transposase and inactivated derivatives	BRE3	clust_1127
+BRE4|SEQ00258	VBIBifBre327712_0258	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610569	332980	334266	-	1287		Transposase and inactivated derivatives	BRE4	clust_1127
+BRE5|SEQ01982	VBIBifBre336369_1983	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618194	2237713	2238108	+	396		Transposase and inactivated derivatives	BRE5	clust_1127
+BRE5|SEQ01992	VBIBifBre336369_1993	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618214	2247802	2249169	-	1368		Transposase and inactivated derivatives	BRE5	clust_1127
+BRE6|SEQ00305	VBIBifBre268992_0305	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS	177653726	18	905	+	888		Transposase and inactivated derivatives	BRE6	clust_1127
+BRE6|SEQ01326	VBIBifBre268992_1326	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655885	47371	47973	+	603		Transposase and inactivated derivatives	BRE6	clust_1127
+BRE6|SEQ01343	VBIBifBre268992_1343	Bifidobacterium breve JCP7499	AWSX01000065	PATRIC	CDS	177655920	11154	11828	-	675		Transposase and inactivated derivatives	BRE6	clust_1127
+BRE7|SEQ00270	VBIBifBre340732_0270	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618952	344239	345228	-	990		Transposase and inactivated derivatives	BRE7	clust_1127
+BRE8|SEQ00296	VBIBifBre176493_0296	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623117	375730	376719	-	990		Transposase and inactivated derivatives	BRE8	clust_1127
+BRE9|SEQ01965	VBIBifBre30019_1965	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448104	2278302	2278517	+	216		Transposase and inactivated derivatives	BRE9	clust_1127
+BRE9|SEQ01976	VBIBifBre30019_1976	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448126	2288392	2288688	-	297		FIG00426715: hypothetical protein	BRE9	clust_1127
+BRE9|SEQ01980	VBIBifBre30019_1980	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448134	2291326	2291616	-	291		Transposase and inactivated derivatives	BRE9	clust_1127
+INF1|SEQ01253	VBIBifLon182273_1253	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886509	1410791	1410970	+	180		hypothetical protein	INF1	clust_1127
+INF1|SEQ01254	VBIBifLon182273_1254	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886511	1410996	1411349	+	354		Transposase and inactivated derivatives	INF1	clust_1127
+LON1|SEQ00278	VBIBifLon107831_0278	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117593	332770	333123	-	354		Transposase and inactivated derivatives	LON1	clust_1127
+LON2|SEQ00321	VBIBifLon171405_0322	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580145	375844	376194	-	351		Transposase and inactivated derivatives	LON2	clust_1127
+LON2|SEQ01547	VBIBifLon171405_1550	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582689	1853938	1854231	+	294		Transposase and inactivated derivatives	LON2	clust_1127
+LON3|SEQ00140	VBIBifLon156230_0140	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767208	948008	948358	-	351		Transposase and inactivated derivatives	LON3	clust_1127
+LON4|SEQ01228	VBIBifLon48544_1228	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890797	1385386	1385565	+	180		hypothetical protein	LON4	clust_1127

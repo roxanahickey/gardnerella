@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE5|SEQ00556	VBIBifBre336369_0557	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615231	668799	670181	+	1383		Na+/H+ antiporter NhaC	BRE5	clust_2518
+INF1|SEQ00534	VBIBifLon182273_0534	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885010	671860	673374	+	1515		Na+/H+ antiporter NhaC	INF1	clust_2518
+LON1|SEQ00819	VBIBifLon107831_0820	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118713	949514	951028	-	1515		Na+/H+ antiporter NhaC	LON1	clust_2518
+LON2|SEQ00886	VBIBifLon171405_0887	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581316	988216	989730	-	1515	nhaC	Na+/H+ antiporter NhaC	LON2	clust_2518
+LON3|SEQ00691	VBIBifLon156230_0691	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768353	1564600	1566114	-	1515		Na+/H+ antiporter NhaC	LON3	clust_2518
+LON4|SEQ00520	VBIBifLon48544_0520	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889283	647262	648776	+	1515		Na+/H+ antiporter NhaC	LON4	clust_2518

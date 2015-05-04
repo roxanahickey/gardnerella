@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ00121	VBIBifBre327712_0121	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610282	159114	160235	+	1122		sugar ABC transporter, permease protein	BRE4	clust_2708
+BRE8|SEQ00121	VBIBifBre176493_0121	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622753	155445	156566	+	1122	cldF	sugar ABC transporter, permease protein	BRE8	clust_2708
+BRE9|SEQ00119	VBIBifBre30019_0119	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444268	155804	156772	+	969	cldF	sugar ABC transporter, permease protein	BRE9	clust_2708
+DEN1|SEQ00559	VBIBifDen165269_0560	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462412	1991197	1992321	-	1125		sugar ABC transporter, permease protein	DEN1	clust_2708
+DEN2|SEQ01597	VBIBifDen39005_1598	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111586	63678	64802	-	1125		sugar ABC transporter, permease protein	DEN2	clust_2708

@@ -1,0 +1,67 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00741	VBIGarVag247323_0741	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495644	22851	24194	+	1344		FIG00672530: hypothetical protein	GV01	clust_0012
+GV02|SEQ01018	VBIGarVag242669_1018	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498891	23035	24378	+	1344		FIG00672530: hypothetical protein	GV02	clust_0012
+GV03|SEQ00445	VBIGarVag247424_0445	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500296	74396	75739	-	1344		Multiple sugar ABC transporter, substrate-binding protein	GV03	clust_0012
+GV03|SEQ00446	VBIGarVag247424_0446	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500298	76016	77428	-	1413		FIG00672327: hypothetical protein	GV03	clust_0012
+GV04|SEQ01193	VBIGarVag246433_1193	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482315	25920	27263	+	1344		FIG00672530: hypothetical protein	GV04	clust_0012
+GV05|SEQ00131	VBIGarVag174900_0131	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52545970	16540	17952	+	1413		FIG00672327: hypothetical protein	GV05	clust_0012
+GV05|SEQ00132	VBIGarVag174900_0132	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52545972	18229	19572	+	1344		Multiple sugar ABC transporter, substrate-binding protein	GV05	clust_0012
+GV06|SEQ00507	VBIGarVag244004_0507	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489773	16677	18020	-	1344		FIG00672530: hypothetical protein	GV06	clust_0012
+GV07|SEQ01065	VBIGarVag249177_1065	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493816	73830	75176	-	1347		Multiple sugar ABC transporter, substrate-binding protein	GV07	clust_0012
+GV07|SEQ01066	VBIGarVag249177_1066	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493818	75450	76880	-	1431		FIG00672327: hypothetical protein	GV07	clust_0012
+GV08|SEQ00575	VBIGarVag251521_0575	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475565	22282	23625	+	1344		FIG00672530: hypothetical protein	GV08	clust_0012
+GV09|SEQ01022	VBIGarVag169280_1022	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261265	25838	27181	+	1344		FIG00672529: hypothetical protein	GV09	clust_0012
+GV10|SEQ01152	VBIGarVag136958_1152	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148402	1560306	1561649	-	1344		FIG00672530: hypothetical protein	GV10	clust_0012
+GV10|SEQ01153	VBIGarVag136958_1153	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148404	1561922	1563337	-	1416		FIG00672327: hypothetical protein	GV10	clust_0012
+GV11|SEQ00022	VBIGarVag171052_0022	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548306	33089	34432	-	1344		Multiple sugar ABC transporter, substrate-binding protein	GV11	clust_0012
+GV12|SEQ00055	VBIGarVag144721_0055	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852760	70175	71515	-	1341		FIG00672530: hypothetical protein	GV12	clust_0012
+GV12|SEQ00056	VBIGarVag144721_0056	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852762	71788	73200	-	1413		FIG00672327: hypothetical protein	GV12	clust_0012
+GV13|SEQ01210	VBIGarVag244533_1210	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488472	24191	25534	+	1344		FIG00672530: hypothetical protein	GV13	clust_0012
+GV14|SEQ00896	VBIGarVag244375_0896	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503686	13677	15089	+	1413		FIG00672327: hypothetical protein	GV14	clust_0012
+GV14|SEQ00897	VBIGarVag244375_0897	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503688	15366	16709	+	1344		Multiple sugar ABC transporter, substrate-binding protein	GV14	clust_0012
+GV15|SEQ00016	VBIGarVag249709_0016	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483518	13586	14998	+	1413		FIG00672327: hypothetical protein	GV15	clust_0012
+GV15|SEQ00017	VBIGarVag249709_0017	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483520	15271	16614	+	1344		FIG00672530: hypothetical protein	GV15	clust_0012
+GV16|SEQ00027	VBIGarVag246379_0027	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477158	26057	27400	+	1344		FIG00672530: hypothetical protein	GV16	clust_0012
+GV17|SEQ00052	VBIGarVag146634_0052	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850100	70207	71550	-	1344		FIG00672530: hypothetical protein	GV17	clust_0012
+GV17|SEQ00053	VBIGarVag146634_0053	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850102	71823	73235	-	1413		FIG00672327: hypothetical protein	GV17	clust_0012
+GV18|SEQ00767	VBIGarVag4823_0767	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070324	12788	14131	+	1344		Multiple sugar ABC transporter, substrate-binding protein	GV18	clust_0012
+GV19|SEQ00226	VBIGarVag39333_0226	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627305	266882	268225	+	1344	amyE	FIG00672530: hypothetical protein	GV19	clust_0012
+GV20|SEQ00107	VBIGarVag188338_0107	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188998	129479	130822	+	1344		FIG00672529: hypothetical protein	GV20	clust_0012
+GV21|SEQ00644	VBIGarVag274454_0645	Gardnerella vaginalis JCP7275	ATJS01000039	PATRIC	CDS	183967982	16475	17818	+	1344		hypothetical protein	GV21	clust_0012
+GV22|SEQ00794	VBIGarVag276801_0795	Gardnerella vaginalis JCP7276	ATJR01000038	PATRIC	CDS	183971048	2967	4310	+	1344		hypothetical protein	GV22	clust_0012
+GV23|SEQ00031	VBIGarVag276017_0031	Gardnerella vaginalis JCP7659	ATJQ01000005	PATRIC	CDS	183972351	5237	6580	-	1344		hypothetical protein	GV23	clust_0012
+GV24|SEQ00485	VBIGarVag268944_0486	Gardnerella vaginalis JCP7672	ATJP01000024	PATRIC	CDS	183976107	2949	4292	+	1344		hypothetical protein	GV24	clust_0012
+GV25|SEQ00488	VBIGarVag270495_0488	Gardnerella vaginalis JCP7719	ATJO01000040	PATRIC	CDS	183978909	564	1907	+	1344		FIG00672530: hypothetical protein	GV25	clust_0012
+GV26|SEQ01290	VBIGarVag272749_1290	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983562	16231	17574	-	1344		FIG00672530: hypothetical protein	GV26	clust_0012
+GV27|SEQ01290	VBIGarVag276930_1290	Gardnerella vaginalis JCP8017B	ATJM01000158	PATRIC	CDS	183986513	15382	16725	-	1344		FIG00672530: hypothetical protein	GV27	clust_0012
+GV28|SEQ00012	VBIGarVag271349_0012	Gardnerella vaginalis JCP8066	ATJL01000004	PATRIC	CDS	183986670	10573	11916	-	1344		hypothetical protein	GV28	clust_0012
+GV29|SEQ00672	VBIGarVag265473_0672	Gardnerella vaginalis JCP8070	ATJK01000042	PATRIC	CDS	183990794	562	1905	+	1344		FIG00672530: hypothetical protein	GV29	clust_0012
+GV30|SEQ00152	VBIGarVag267667_0152	Gardnerella vaginalis JCP8108	ATJJ01000004	PATRIC	CDS	183992349	11206	12549	-	1344		hypothetical protein	GV30	clust_0012
+GV31|SEQ00632	VBIGarVag264983_0632	Gardnerella vaginalis JCP8151A	ATJI01000029	PATRIC	CDS	183996350	9784	11127	-	1344		hypothetical protein	GV31	clust_0012
+GV32|SEQ00719	VBIGarVag277040_0719	Gardnerella vaginalis JCP8151B	ATJH01000048	PATRIC	CDS	183999358	2368	3711	+	1344		hypothetical protein	GV32	clust_0012
+GV33|SEQ00782	VBIGarVag265557_0782	Gardnerella vaginalis JCP8481A	ATJG01000081	PATRIC	CDS	184002350	2510	3856	+	1347		hypothetical protein	GV33	clust_0012
+GV34|SEQ00968	VBIGarVag270440_0968	Gardnerella vaginalis JCP8481B	ATJF01000110	PATRIC	CDS	184005609	14868	16214	+	1347		hypothetical protein	GV34	clust_0012
+GV35|SEQ01065	VBIGarVag272169_1065	Gardnerella vaginalis JCP8522	ATJE01000153	PATRIC	CDS	184008629	16183	17526	-	1344		hypothetical protein	GV35	clust_0012
+ADO1|SEQ01539	VBIBifAdo136061_1539	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189448	782	1921	-	1140		Multiple sugar ABC transporter, substrate-binding protein	ADO1	clust_0012
+ADO1|SEQ02027	VBIBifAdo136061_2027	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190439	600382	601680	-	1299		Multiple sugar ABC transporter, substrate-binding protein	ADO1	clust_0012
+ANI1|SEQ01548	VBIBifAni240121_1548	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848119	1854828	1856162	-	1335		Multiple sugar ABC transporter, substrate-binding protein	ANI1	clust_0012
+ANI2|SEQ01546	VBIBifAni235968_1546	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851468	1855049	1856383	-	1335		Multiple sugar ABC transporter, substrate-binding protein	ANI2	clust_0012
+ANI3|SEQ01125	VBIBifAni108068_1125	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764595	1308153	1309484	+	1332		Multiple sugar ABC transporter, substrate-binding protein	ANI3	clust_0012
+ANI3|SEQ01557	VBIBifAni108068_1558	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765490	1860280	1861614	-	1335		Multiple sugar ABC transporter, substrate-binding protein	ANI3	clust_0012
+BRE1|SEQ01824	VBIBifBre340958_1825	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605709	2139043	2140389	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE1	clust_0012
+BRE2|SEQ01924	VBIBifBre337368_1924	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609884	2237350	2238696	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE2	clust_0012
+BRE3|SEQ01896	VBIBifBre167886_1896	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195577	2216920	2218266	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE3	clust_0012
+BRE4|SEQ01874	VBIBifBre327712_1874	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613926	2183158	2184483	-	1326		Multiple sugar ABC transporter, substrate-binding protein	BRE4	clust_0012
+BRE5|SEQ01579	VBIBifBre336369_1580	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617347	1772457	1773785	-	1329		Multiple sugar ABC transporter, substrate-binding protein	BRE5	clust_0012
+BRE5|SEQ02002	VBIBifBre336369_2003	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618234	2262766	2264112	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE5	clust_0012
+BRE6|SEQ00138	VBIBifBre268992_0138	Bifidobacterium breve JCP7499	AWSX01000010	PATRIC	CDS	177653379	12797	14125	-	1329		Multiple sugar ABC transporter, substrate-binding protein	BRE6	clust_0012
+BRE7|SEQ01911	VBIBifBre340732_1911	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622356	2212924	2214270	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE7	clust_0012
+BRE8|SEQ00036	VBIBifBre176493_0036	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622576	42035	43372	-	1338		Multiple sugar ABC transporter, substrate-binding protein	BRE8	clust_0012
+BRE8|SEQ01869	VBIBifBre176493_1869	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626385	2184363	2185709	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE8	clust_0012
+BRE9|SEQ01990	VBIBifBre30019_1990	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448154	2305549	2306895	-	1347		Multiple sugar ABC transporter, substrate-binding protein	BRE9	clust_0012
+INF1|SEQ01967	VBIBifLon182273_1967	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887994	2279280	2280626	-	1347		Multiple sugar ABC transporter, substrate-binding protein	INF1	clust_0012
+LON1|SEQ01438	VBIBifLon107831_1439	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120003	1728602	1729879	+	1278		Multiple sugar ABC transporter, substrate-binding protein	LON1	clust_0012
+LON2|SEQ01485	VBIBifLon171405_1488	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582563	1744718	1746064	+	1347		Multiple sugar ABC transporter, substrate-binding protein	LON2	clust_0012
+LON3|SEQ01868	VBIBifLon156230_1871	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766928	771719	773065	-	1347		Multiple sugar ABC transporter, substrate-binding protein	LON3	clust_0012
+LON4|SEQ01924	VBIBifLon48544_1924	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892253	2270245	2271591	-	1347		Multiple sugar ABC transporter, substrate-binding protein	LON4	clust_0012
+THE1|SEQ01689	VBIBifThe274299_1689	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736647	2096928	2098259	-	1332		Multiple sugar ABC transporter, substrate-binding protein	THE1	clust_0012

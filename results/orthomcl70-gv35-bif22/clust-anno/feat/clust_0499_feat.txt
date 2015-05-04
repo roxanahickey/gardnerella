@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01301	VBIBifAdo136061_1301	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188947	242671	243747	+	1077		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	ADO1	clust_0499
+ANI1|SEQ00985	VBIBifAni240121_0985	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846950	1139836	1140909	+	1074	kdpD	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	ANI1	clust_0499
+ANI2|SEQ00985	VBIBifAni235968_0985	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850303	1139839	1140912	+	1074	kdpD	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	ANI2	clust_0499
+ANI3|SEQ00989	VBIBifAni108068_0989	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764317	1139840	1140913	+	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	ANI3	clust_0499
+BIF1|SEQ00723	VBIBifBif87902_0723	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883987	886849	887955	-	1107	baeS	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BIF1	clust_0499
+BRE1|SEQ00689	VBIBifBre340958_0689	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603346	834694	835767	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE1	clust_0499
+BRE2|SEQ00785	VBIBifBre337368_0785	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607508	931517	932590	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE2	clust_0499
+BRE3|SEQ01086	VBIBifBre167886_1086	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193902	1274024	1275097	+	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE3	clust_0499
+BRE4|SEQ00724	VBIBifBre327712_0724	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611530	875691	876764	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE4	clust_0499
+BRE5|SEQ00740	VBIBifBre336369_0741	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615608	872973	874046	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE5	clust_0499
+BRE6|SEQ00664	VBIBifBre268992_0664	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654491	30300	31373	+	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE6	clust_0499
+BRE7|SEQ00734	VBIBifBre340732_0734	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619908	878793	879866	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE7	clust_0499
+BRE8|SEQ00756	VBIBifBre176493_0756	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624061	919654	920727	-	1074	bburC	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE8	clust_0499
+BRE9|SEQ00807	VBIBifBre30019_0807	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445692	967216	968289	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	BRE9	clust_0499
+DEN1|SEQ01815	VBIBifDen165269_1816	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460789	1122795	1123871	+	1077	ppx3	Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	DEN1	clust_0499
+DEN2|SEQ00382	VBIBifDen39005_0382	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109088	18417	19493	-	1077		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	DEN2	clust_0499
+GV01|SEQ01123	VBIGarVag247323_1123	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496448	131864	133000	-	1137		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV01	clust_0499
+GV02|SEQ00314	VBIGarVag242669_0314	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497403	116438	117574	+	1137		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV02	clust_0499
+GV03|SEQ00653	VBIGarVag247424_0653	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500730	12095	13204	+	1110		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV03	clust_0499
+GV04|SEQ00850	VBIGarVag246433_0850	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481599	188299	189432	-	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV04	clust_0499
+GV05|SEQ00779	VBIGarVag174900_0779	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547317	412921	414030	-	1110		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV05	clust_0499
+GV06|SEQ00076	VBIGarVag244004_0076	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488857	83625	84758	-	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV06	clust_0499
+GV07|SEQ00538	VBIGarVag249177_0538	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492718	70	1179	-	1110		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV07	clust_0499
+GV08|SEQ00685	VBIGarVag251521_0685	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475796	34663	35796	+	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV08	clust_0499
+GV09|SEQ00709	VBIGarVag169280_0709	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260613	57212	58345	-	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV09	clust_0499
+GV10|SEQ00523	VBIGarVag136958_0523	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147098	651749	652924	-	1176		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV10	clust_0499
+GV11|SEQ00962	VBIGarVag171052_0962	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550304	42622	43755	+	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV11	clust_0499
+GV12|SEQ01101	VBIGarVag144721_1101	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854939	100306	101481	-	1176		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV12	clust_0499
+GV13|SEQ00874	VBIGarVag244533_0874	Gardnerella vaginalis 55152	ADEQ01000011	PATRIC	CDS	85487749	3835	4959	+	1125		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV13	clust_0499
+GV14|SEQ00242	VBIGarVag244375_0242	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502319	37921	39030	-	1110		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV14	clust_0499
+GV15|SEQ01113	VBIGarVag249709_1113	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485827	3996	5171	+	1176		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV15	clust_0499
+GV16|SEQ00646	VBIGarVag246379_0646	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478441	703325	704449	-	1125		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV16	clust_0499
+GV17|SEQ01029	VBIGarVag146634_1029	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852152	192324	193499	+	1176		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV17	clust_0499
+GV18|SEQ00744	VBIGarVag4823_0744	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000124	PATRIC	CDS	42070277	14213	15337	+	1125		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV18	clust_0499
+GV19|SEQ00980	VBIGarVag39333_0981	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628871	1212556	1213689	+	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV19	clust_0499
+GV20|SEQ00577	VBIGarVag188338_0577	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189968	688645	689769	-	1125		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV20	clust_0499
+GV21|SEQ00436	VBIGarVag274454_0437	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967539	27562	28695	-	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV21	clust_0499
+GV22|SEQ00339	VBIGarVag276801_0340	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970095	57938	59071	-	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV22	clust_0499
+GV23|SEQ00555	VBIGarVag276017_0555	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973468	14946	16094	+	1149		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV23	clust_0499
+GV24|SEQ00884	VBIGarVag268944_0885	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183976990	22896	24029	+	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV24	clust_0499
+GV25|SEQ00529	VBIGarVag270495_0529	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978994	14429	15565	+	1137		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV25	clust_0499
+GV26|SEQ01210	VBIGarVag272749_1210	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983364	26752	27888	-	1137		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV26	clust_0499
+GV27|SEQ00223	VBIGarVag276930_0223	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984173	14379	15527	+	1149		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV27	clust_0499
+GV28|SEQ00073	VBIGarVag271349_0073	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986798	25215	26363	-	1149		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV28	clust_0499
+GV29|SEQ00509	VBIGarVag265473_0509	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990430	24992	26116	-	1125		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV29	clust_0499
+GV30|SEQ00974	VBIGarVag267667_0976	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994144	13561	14694	+	1134		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV30	clust_0499
+GV31|SEQ00057	VBIGarVag264983_0057	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995135	25387	26511	-	1125		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV31	clust_0499
+GV32|SEQ00693	VBIGarVag277040_0693	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999304	15266	16315	+	1050		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV32	clust_0499
+GV33|SEQ00391	VBIGarVag265557_0391	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001504	6644	7744	+	1101		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV33	clust_0499
+GV34|SEQ00068	VBIGarVag270440_0068	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003628	14043	15143	+	1101		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV34	clust_0499
+GV35|SEQ01014	VBIGarVag272169_1014	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008513	13330	14379	+	1050		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	GV35	clust_0499
+INF1|SEQ00653	VBIBifLon182273_0653	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885256	802009	803082	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	INF1	clust_0499
+LON1|SEQ00703	VBIBifLon107831_0704	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118477	821293	822366	+	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	LON1	clust_0499
+LON2|SEQ00769	VBIBifLon171405_0770	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581078	862285	863361	+	1077		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	LON2	clust_0499
+LON3|SEQ00574	VBIBifLon156230_0574	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768115	1436906	1437979	+	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	LON3	clust_0499
+LON4|SEQ00645	VBIBifLon48544_0645	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889541	780602	781675	-	1074		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	LON4	clust_0499
+THE1|SEQ00860	VBIBifThe274299_0860	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734907	1071970	1073031	-	1062		Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)	THE1	clust_0499

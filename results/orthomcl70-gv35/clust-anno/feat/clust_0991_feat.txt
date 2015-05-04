@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00038	VBIGarVag247323_0038	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494172	53559	54458	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV01	clust_0991
+GV02|SEQ00643	VBIGarVag242669_0643	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498100	289131	290030	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV02	clust_0991
+GV04|SEQ00544	VBIGarVag246433_0544	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480980	202737	203636	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV04	clust_0991
+GV06|SEQ01091	VBIGarVag244004_1091	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491008	54079	54978	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV06	clust_0991
+GV08|SEQ00251	VBIGarVag251521_0251	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474887	41207	42106	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV08	clust_0991
+GV09|SEQ00561	VBIGarVag169280_0561	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260311	314119	315018	+	900	rfbA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV09	clust_0991
+GV11|SEQ00700	VBIGarVag171052_0700	Gardnerella vaginalis 41V	AEJE01000043	PATRIC	CDS	52549748	15787	16686	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV11	clust_0991
+GV13|SEQ01283	VBIGarVag244533_1283	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488619	15716	16615	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV13	clust_0991
+GV16|SEQ01211	VBIGarVag246379_1211	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479623	1427460	1428359	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV16	clust_0991
+GV18|SEQ01062	VBIGarVag4823_1062	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000140	PATRIC	CDS	42070948	24694	25593	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV18	clust_0991
+GV19|SEQ00398	VBIGarVag39333_0399	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627659	483806	484705	-	900	rmlA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV19	clust_0991
+GV20|SEQ01119	VBIGarVag188338_1119	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191104	1402035	1402934	+	900	rfbA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV20	clust_0991
+GV21|SEQ00669	VBIGarVag274454_0670	Gardnerella vaginalis JCP7275	ATJS01000040	PATRIC	CDS	183968033	18595	19494	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV21	clust_0991
+GV22|SEQ00631	VBIGarVag276801_0632	Gardnerella vaginalis JCP7276	ATJR01000021	PATRIC	CDS	183970701	2914	3813	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV22	clust_0991
+GV23|SEQ01038	VBIGarVag276017_1038	Gardnerella vaginalis JCP7659	ATJQ01000106	PATRIC	CDS	183974531	16500	17399	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV23	clust_0991
+GV24|SEQ01233	VBIGarVag268944_1234	Gardnerella vaginalis JCP7672	ATJP01000169	PATRIC	CDS	183977820	2900	3799	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV24	clust_0991
+GV25|SEQ00950	VBIGarVag270495_0950	Gardnerella vaginalis JCP7719	ATJO01000103	PATRIC	CDS	183979925	3061	3960	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV25	clust_0991
+GV26|SEQ00828	VBIGarVag272749_0828	Gardnerella vaginalis JCP8017A	ATJN01000048	PATRIC	CDS	183982493	3096	3995	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV26	clust_0991
+GV27|SEQ01308	VBIGarVag276930_1308	Gardnerella vaginalis JCP8017B	ATJM01000172	PATRIC	CDS	183986567	3094	3993	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV27	clust_0991
+GV28|SEQ00657	VBIGarVag271349_0657	Gardnerella vaginalis JCP8066	ATJL01000048	PATRIC	CDS	183988048	3795	4694	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV28	clust_0991
+GV29|SEQ00315	VBIGarVag265473_0315	Gardnerella vaginalis JCP8070	ATJK01000013	PATRIC	CDS	183990012	22042	22941	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV29	clust_0991
+GV30|SEQ00676	VBIGarVag267667_0677	Gardnerella vaginalis JCP8108	ATJJ01000041	PATRIC	CDS	183993479	18471	19370	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV30	clust_0991
+GV31|SEQ01062	VBIGarVag264983_1062	Gardnerella vaginalis JCP8151A	ATJI01000099	PATRIC	CDS	183997313	3147	4046	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV31	clust_0991
+GV32|SEQ00517	VBIGarVag277040_0517	Gardnerella vaginalis JCP8151B	ATJH01000028	PATRIC	CDS	183998926	16367	17266	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV32	clust_0991
+GV35|SEQ00954	VBIGarVag272169_0954	Gardnerella vaginalis JCP8522	ATJE01000111	PATRIC	CDS	184008357	16412	17311	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV35	clust_0991

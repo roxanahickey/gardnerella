@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01502	VBIBifBre337368_1502	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608998	1734440	1736110	-	1671		(GlcNAc)2 ABC transporter, periplasmic substrate-binding protein	BRE2	clust_2473
+BRE2|SEQ01506	VBIBifBre337368_1506	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609006	1739894	1741567	+	1674		(GlcNAc)2 ABC transporter, periplasmic substrate-binding protein	BRE2	clust_2473
+BRE3|SEQ01237	VBIBifBre167886_1237	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194210	1444157	1445923	-	1767		Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)	BRE3	clust_2473
+BRE5|SEQ00593	VBIBifBre336369_0594	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615308	708150	709916	+	1767		Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)	BRE5	clust_2473
+BRE6|SEQ00922	VBIBifBre268992_0922	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655032	38484	40154	-	1671		(GlcNAc)2 ABC transporter, periplasmic substrate-binding protein	BRE6	clust_2473
+BRE6|SEQ00926	VBIBifBre268992_0926	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655040	43939	45612	+	1674		(GlcNAc)2 ABC transporter, periplasmic substrate-binding protein	BRE6	clust_2473

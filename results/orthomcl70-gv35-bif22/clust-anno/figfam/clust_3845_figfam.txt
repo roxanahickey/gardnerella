@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ01208	86884989	VBIBifBif87902_1208	SEQ01208	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		transcriptional modulator of MazE/toxin, MazF	FIG00678901	figfam	clust_3845
+BRE5|SEQ00967	268616090	VBIBifBre336369_0968	SEQ00967	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		transcriptional modulator of MazE/toxin, MazF	FIG00678901	figfam	clust_3845
+INF1|SEQ00868	46885715	VBIBifLon182273_0868	SEQ00868	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		transcriptional modulator of MazE/toxin, MazF	FIG00678901	figfam	clust_3845

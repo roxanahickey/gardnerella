@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00789	VBIGarVag247323_0789	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495745	976	2031	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV01	clust_0631
+GV02|SEQ00071	VBIGarVag242669_0071	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496900	34051	35073	+	1023		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV02	clust_0631
+GV03|SEQ00210	VBIGarVag247424_0210	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499801	161232	162287	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV03	clust_0631
+GV04|SEQ00172	VBIGarVag246433_0172	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480196	35304	36356	-	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV04	clust_0631
+GV05|SEQ00311	VBIGarVag174900_0311	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546345	159594	160649	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV05	clust_0631
+GV06|SEQ00198	VBIGarVag244004_0198	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489111	122079	123131	+	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV06	clust_0631
+GV07|SEQ00036	VBIGarVag249177_0036	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491649	36260	37315	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV07	clust_0631
+GV08|SEQ01071	VBIGarVag251521_1071	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476589	179408	180460	+	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV08	clust_0631
+GV09|SEQ00035	VBIGarVag169280_0035	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259211	35518	36570	-	1053	fbaA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV09	clust_0631
+GV10|SEQ00104	VBIGarVag136958_0104	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146222	135243	136298	+	1056	fbaA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV10	clust_0631
+GV11|SEQ00855	VBIGarVag171052_0855	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550073	34554	35606	-	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV11	clust_0631
+GV12|SEQ00635	VBIGarVag144721_0635	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853967	159256	160311	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV12	clust_0631
+GV13|SEQ00160	VBIGarVag244533_0160	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486260	177686	178738	+	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV13	clust_0631
+GV14|SEQ00540	VBIGarVag244375_0540	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502940	34738	35793	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV14	clust_0631
+GV15|SEQ00568	VBIGarVag249709_0568	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484674	315225	316280	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV15	clust_0631
+GV16|SEQ00230	VBIGarVag246379_0230	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477578	182001	183053	+	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV16	clust_0631
+GV17|SEQ00500	VBIGarVag146634_0500	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851035	501502	502557	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV17	clust_0631
+GV19|SEQ00052	VBIGarVag39333_0052	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626938	54403	55455	-	1053	fbaB	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV19	clust_0631
+GV20|SEQ01304	VBIGarVag188338_1304	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191484	1636024	1637076	-	1053	fbaA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV20	clust_0631
+GV21|SEQ00119	VBIGarVag274454_0119	Gardnerella vaginalis JCP7275	ATJS01000007	PATRIC	CDS	183966878	7654	8706	+	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV21	clust_0631
+GV22|SEQ00556	VBIGarVag276801_0557	Gardnerella vaginalis JCP7276	ATJR01000017	PATRIC	CDS	183970547	13299	14351	-	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV22	clust_0631
+GV23|SEQ00392	VBIGarVag276017_0392	Gardnerella vaginalis JCP7659	ATJQ01000026	PATRIC	CDS	183973112	14006	15061	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV23	clust_0631
+GV24|SEQ00217	VBIGarVag268944_0218	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975540	23257	24309	+	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV24	clust_0631
+GV25|SEQ00169	VBIGarVag270495_0169	Gardnerella vaginalis JCP7719	ATJO01000013	PATRIC	CDS	183978217	5439	6494	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV25	clust_0631
+GV26|SEQ00614	VBIGarVag272749_0614	Gardnerella vaginalis JCP8017A	ATJN01000031	PATRIC	CDS	183982024	5552	6607	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV26	clust_0631
+GV27|SEQ00731	VBIGarVag276930_0731	Gardnerella vaginalis JCP8017B	ATJM01000033	PATRIC	CDS	183985249	12761	13816	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV27	clust_0631
+GV28|SEQ00440	VBIGarVag271349_0440	Gardnerella vaginalis JCP8066	ATJL01000025	PATRIC	CDS	183987573	25672	26727	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV28	clust_0631
+GV29|SEQ00785	VBIGarVag265473_0785	Gardnerella vaginalis JCP8070	ATJK01000061	PATRIC	CDS	183991043	12639	13694	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV29	clust_0631
+GV30|SEQ00902	VBIGarVag267667_0904	Gardnerella vaginalis JCP8108	ATJJ01000070	PATRIC	CDS	183993978	34481	35533	-	1053		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV30	clust_0631
+GV31|SEQ00929	VBIGarVag264983_0929	Gardnerella vaginalis JCP8151A	ATJI01000067	PATRIC	CDS	183997003	7471	8526	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV31	clust_0631
+GV32|SEQ00575	VBIGarVag277040_0575	Gardnerella vaginalis JCP8151B	ATJH01000040	PATRIC	CDS	183999056	11140	12195	-	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV32	clust_0631
+GV33|SEQ00036	VBIGarVag265557_0036	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000731	16950	18005	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV33	clust_0631
+GV34|SEQ00029	VBIGarVag270440_0029	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003547	16951	18006	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV34	clust_0631
+GV35|SEQ00832	VBIGarVag272169_0832	Gardnerella vaginalis JCP8522	ATJE01000081	PATRIC	CDS	184008077	7374	8429	+	1056		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	GV35	clust_0631
+ADO1|SEQ00355	VBIBifAdo136061_0355	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186970	170307	171374	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	ADO1	clust_0631
+ANI1|SEQ00123	VBIBifAni240121_0123	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845147	142498	143562	+	1065		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	ANI1	clust_0631
+ANI2|SEQ00123	VBIBifAni235968_0123	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848502	142498	143562	+	1065		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	ANI2	clust_0631
+ANI3|SEQ00125	VBIBifAni108068_0125	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762518	142498	143562	+	1065		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	ANI3	clust_0631
+BIF1|SEQ00128	VBIBifBif87902_0128	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882760	156408	157475	+	1068	fbaA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BIF1	clust_0631
+BRE1|SEQ00092	VBIBifBre340958_0092	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602107	121337	122404	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE1	clust_0631
+BRE2|SEQ00085	VBIBifBre337368_0085	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606066	113957	115024	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE2	clust_0631
+BRE3|SEQ00089	VBIBifBre167886_0089	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191821	120284	121351	+	1068	fbaA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE3	clust_0631
+BRE4|SEQ00106	VBIBifBre327712_0106	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610250	140397	141464	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE4	clust_0631
+BRE5|SEQ00094	VBIBifBre336369_0094	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614274	120456	121523	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE5	clust_0631
+BRE6|SEQ01266	VBIBifBre268992_1266	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655756	15628	16695	-	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE6	clust_0631
+BRE7|SEQ00084	VBIBifBre340732_0084	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618565	111422	112489	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE7	clust_0631
+BRE8|SEQ00106	VBIBifBre176493_0106	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622722	136708	137775	+	1068	fba	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE8	clust_0631
+BRE9|SEQ00105	VBIBifBre30019_0105	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444239	136959	138026	+	1068	fba	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	BRE9	clust_0631
+INF1|SEQ00083	VBIBifLon182273_0083	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884072	102404	103471	-	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	INF1	clust_0631
+LON1|SEQ01293	VBIBifLon107831_1294	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119691	1523012	1524079	+	1068	fba	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	LON1	clust_0631
+LON2|SEQ01316	VBIBifLon171405_1319	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582207	1519133	1520200	+	1068	fba	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	LON2	clust_0631
+LON3|SEQ01399	VBIBifLon156230_1402	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769407	2163844	2164911	+	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	LON3	clust_0631
+LON4|SEQ00095	VBIBifLon48544_0095	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888397	122523	123590	-	1068		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	LON4	clust_0631
+THE1|SEQ00095	VBIBifThe274299_0095	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733353	110245	111384	-	1140		Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	THE1	clust_0631

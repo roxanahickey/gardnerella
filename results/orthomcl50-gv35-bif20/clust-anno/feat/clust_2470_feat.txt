@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00377	VBIBifBre340958_0377	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602703	472602	473669	+	1068		capsular polysaccharide biosynthesis protein	BRE1	clust_2470
+BRE3|SEQ00438	VBIBifBre167886_0438	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192549	543925	544992	+	1068		putative glycosyltransferase	BRE3	clust_2470
+BRE5|SEQ00417	VBIBifBre336369_0418	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614949	491944	493089	-	1146		Glycosyltransferase LafA, responsible for the formation of Glc-DAG	BRE5	clust_2470
+INF1|SEQ00390	VBIBifLon182273_0390	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884717	483255	484391	+	1137		capsular polysaccharide biosynthesis protein	INF1	clust_2470
+LON3|SEQ00840	VBIBifLon156230_0840	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768654	1755982	1757049	-	1068		capsular polysaccharide biosynthesis protein	LON3	clust_2470
+THE1|SEQ00352	VBIBifThe274299_0352	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733878	413597	414643	+	1047		"Glycosyltransferase "	THE1	clust_2470

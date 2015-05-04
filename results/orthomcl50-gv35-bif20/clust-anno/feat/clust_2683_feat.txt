@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00058	VBIBifLon182273_0058	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884018	72082	72471	+	390		COG0508: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	INF1	clust_2683
+LON1|SEQ01318	VBIBifLon107831_1319	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119745	1553785	1554504	-	720		FIG00423825: hypothetical protein	LON1	clust_2683
+LON2|SEQ01350	VBIBifLon171405_1353	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582280	1560621	1561340	-	720		FIG00423825: hypothetical protein	LON2	clust_2683
+LON3|SEQ01429	VBIBifLon156230_1432	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769473	2202160	2202549	-	390		COG0508: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes	LON3	clust_2683
+LON4|SEQ00066	VBIBifLon48544_0066	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888335	84527	85246	+	720		FIG00423825: hypothetical protein	LON4	clust_2683

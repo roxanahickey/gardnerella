@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01754	VBIBifAdo136061_1754	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189879	250802	251029	-	228		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	ADO1	clust_2806
+BRE4|SEQ00022	VBIBifBre327712_0022	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610075	28192	29589	+	1398		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE4	clust_2806
+BRE6|SEQ01545	VBIBifBre268992_1545	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656356	4170	5567	+	1398		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE6	clust_2806
+BRE8|SEQ00022	VBIBifBre176493_0022	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622547	28215	29612	+	1398		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE8	clust_2806
+BRE9|SEQ00022	VBIBifBre30019_0022	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444063	28215	29612	+	1398		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE9	clust_2806

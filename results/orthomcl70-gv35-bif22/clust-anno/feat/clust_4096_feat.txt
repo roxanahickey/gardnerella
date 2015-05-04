@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ01155	VBIGarVag144721_1155	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855132	42604	43038	+	435		Cytidine/deoxycytidylate deaminase family protein	GV12	clust_4096
+GV16|SEQ00848	VBIGarVag246379_0848	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478857	956325	956759	-	435		Cytidine/deoxycytidylate deaminase family protein	GV16	clust_4096

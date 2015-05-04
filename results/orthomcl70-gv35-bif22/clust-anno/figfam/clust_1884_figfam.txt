@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00999	86884562	VBIBifBif87902_0999	SEQ00999	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		putative DNA-binding protein	FIG01326599	figfam	clust_1884
+GV03|SEQ01013	85501472	VBIGarVag247424_1013	SEQ01013	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV05|SEQ01058	52547897	VBIGarVag174900_1058	SEQ01058	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV07|SEQ00273	85492163	VBIGarVag249177_0273	SEQ00273	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV10|SEQ00830	32147732	VBIGarVag136958_0830	SEQ00830	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV12|SEQ00275	37853213	VBIGarVag144721_0275	SEQ00275	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV14|SEQ01114	85504139	VBIGarVag244375_1114	SEQ01114	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV15|SEQ00176	85483843	VBIGarVag249709_0176	SEQ00176	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV17|SEQ00727	37851526	VBIGarVag146634_0727	SEQ00727	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV33|SEQ01009	184002869	VBIGarVag265557_1009	SEQ01009	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000121	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884
+GV34|SEQ00832	184005300	VBIGarVag270440_0832	SEQ00832	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000084	PATRIC	CDS	NA	competence protein	FIG00672332	figfam	clust_1884

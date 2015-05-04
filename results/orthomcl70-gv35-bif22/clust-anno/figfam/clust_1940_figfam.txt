@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01351	268604719	VBIBifBre340958_1352	SEQ01351	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE2|SEQ01438	268608869	VBIBifBre337368_1438	SEQ01438	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE3|SEQ00473	54192621	VBIBifBre167886_0473	SEQ00473	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE4|SEQ01383	268612898	VBIBifBre327712_1383	SEQ01383	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE5|SEQ01515	268617219	VBIBifBre336369_1516	SEQ01515	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE6|SEQ00276	177653663	VBIBifBre268992_0276	SEQ00276	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE7|SEQ01398	268621289	VBIBifBre340732_1398	SEQ01398	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE8|SEQ01417	268625437	VBIBifBre176493_1417	SEQ01417	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	rpe2	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+BRE9|SEQ01482	58447096	VBIBifBre30019_1482	SEQ01482	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+DEN1|SEQ01004	43459131	VBIBifDen165269_1005	SEQ01004	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940
+DEN2|SEQ01461	42111311	VBIBifDen39005_1462	SEQ01461	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	FIG00000047	figfam	clust_1940

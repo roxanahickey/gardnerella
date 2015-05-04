@@ -1,0 +1,25 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00149	86845199	VBIBifAni240121_0149	SEQ00149	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+ANI2|SEQ00149	86848554	VBIBifAni235968_0149	SEQ00149	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+ANI3|SEQ00151	42762570	VBIBifAni108068_0151	SEQ00151	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE1|SEQ01066	268604138	VBIBifBre340958_1066	SEQ01066	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE2|SEQ01182	268608345	VBIBifBre337368_1182	SEQ01182	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE3|SEQ00715	54193115	VBIBifBre167886_0715	SEQ00715	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE4|SEQ01137	268612396	VBIBifBre327712_1137	SEQ01137	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE5|SEQ00599	268615320	VBIBifBre336369_0600	SEQ00599	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		transcriptional regulator, LacI family	FIG00946344	figfam	clust_1070
+BRE5|SEQ01231	268616640	VBIBifBre336369_1232	SEQ01231	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE6|SEQ01809	177656927	VBIBifBre268992_1809	SEQ01809	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000084	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE7|SEQ01142	268620767	VBIBifBre340732_1142	SEQ01142	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE8|SEQ01167	268624927	VBIBifBre176493_1167	SEQ01167	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+BRE9|SEQ01228	58446579	VBIBifBre30019_1228	SEQ01228	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV06|SEQ01319	85491471	VBIGarVag244004_1319	SEQ01319	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV09|SEQ00789	55260779	VBIGarVag169280_0789	SEQ00789	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV11|SEQ01010	52550402	VBIGarVag171052_1010	SEQ01010	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV13|SEQ00332	85486615	VBIGarVag244533_0332	SEQ00332	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV16|SEQ00725	85478605	VBIGarVag246379_0725	SEQ00725	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV24|SEQ00129	183975359	VBIGarVag268944_0130	SEQ00129	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+GV30|SEQ00128	183992300	VBIGarVag267667_0128	SEQ00128	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	NA	regulatory protein, LacI	FIG01123142	figfam	clust_1070
+INF1|SEQ01338	46886680	VBIBifLon182273_1338	SEQ01338	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+LON1|SEQ00193	21117423	VBIBifLon107831_0193	SEQ00193	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+LON2|SEQ00233	42579969	VBIBifLon171405_0234	SEQ00233	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070
+LON3|SEQ01922	42767036	VBIBifLon156230_1925	SEQ01922	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		regulatory protein, LacI	FIG01123142	figfam	clust_1070

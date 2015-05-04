@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00980	VBIBifDen165269_0981	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459083	122252	124162	-	1911		Low molecular weight protein-tyrosine-phosphatase Wzb (EC 3.1.3.48)	DEN1	clust_4851
+DEN2|SEQ01485	VBIBifDen39005_1486	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111359	101633	103477	+	1845		Low molecular weight protein-tyrosine-phosphatase Wzb (EC 3.1.3.48)	DEN2	clust_4851

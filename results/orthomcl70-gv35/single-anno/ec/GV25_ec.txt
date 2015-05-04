@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+GV25|SEQ00843	183979661	VBIGarVag270495_0843	SEQ00843	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000068	PATRIC	CDS	NA	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	3.1.21.3	Type I site-specific deoxyribonuclease	ec	NA
+GV25|SEQ00856	183979690	VBIGarVag270495_0856	SEQ00856	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000071	PATRIC	CDS	NA	Type III restriction-modification system methylation subunit (EC 2.1.1.72)	2.1.1.72	Site-specific DNA-methyltransferase (adenine-specific)	ec	NA
+GV25|SEQ00876	183979737	VBIGarVag270495_0876	SEQ00876	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000078	PATRIC	CDS	NA	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	2.7.7.8	Polyribonucleotide nucleotidyltransferase	ec	NA

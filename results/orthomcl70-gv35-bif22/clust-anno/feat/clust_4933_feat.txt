@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01399	VBIBifDen165269_1400	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459928	660580	661065	+	486	srtB2	sortase family protein	DEN1	clust_4933
+DEN2|SEQ00244	VBIBifDen39005_0244	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108807	194221	194706	-	486		sortase family protein	DEN2	clust_4933

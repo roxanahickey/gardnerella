@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV09|SEQ00353	VBIGarVag169280_0353	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259873	56194	56529	-	336		hypothetical protein	GV09	clust_2399
+GV26|SEQ00061	VBIGarVag272749_0061	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980857	8217	8567	-	351		hypothetical protein	GV26	clust_2399
+GV27|SEQ00082	VBIGarVag276930_0082	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983875	53619	53969	+	351		hypothetical protein	GV27	clust_2399
+GV31|SEQ00964	VBIGarVag264983_0964	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	183997079	6277	6627	-	351		hypothetical protein	GV31	clust_2399
+GV32|SEQ00777	VBIGarVag277040_0777	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	183999485	6721	7071	+	351		hypothetical protein	GV32	clust_2399
+ADO1|SEQ01431	VBIBifAdo136061_1431	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189218	101748	102083	-	336		hypothetical protein	ADO1	clust_2399
+LON3|SEQ01006	VBIBifLon156230_1007	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769003	1937947	1938282	-	336		hypothetical protein	LON3	clust_2399

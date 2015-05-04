@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01342	86847691	VBIBifAni240121_1342	SEQ01342	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Glycosyltransferase	FIG00007960	figfam	clust_3084
+ANI2|SEQ01342	86851044	VBIBifAni235968_1342	SEQ01342	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Glycosyltransferase	FIG00007960	figfam	clust_3084
+ANI3|SEQ01352	42765064	VBIBifAni108068_1352	SEQ01352	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Glycosyltransferase	FIG00007960	figfam	clust_3084
+THE1|SEQ00442	124734059	VBIBifThe274299_0442	SEQ00442	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Glycosyltransferase	FIG00007960	figfam	clust_3084

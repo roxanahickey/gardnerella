@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00592	VBIGarVag246433_0592	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481077	10696	11373	-	678		Prophage Clp protease-like protein	GV04	clust_1239
+GV05|SEQ00690	VBIGarVag174900_0690	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547139	307484	308161	+	678		Prophage Clp protease-like protein	GV05	clust_1239
+GV06|SEQ01181	VBIGarVag244004_1181	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491189	31117	31860	+	744		Prophage Clp protease-like protein	GV06	clust_1239
+GV12|SEQ01139	VBIGarVag144721_1139	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855100	22141	22875	+	735		Prophage Clp protease-like protein	GV12	clust_1239
+GV17|SEQ00105	VBIGarVag146634_0105	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850207	41977	42711	-	735		Prophage Clp protease-like protein	GV17	clust_1239
+GV20|SEQ00487	VBIGarVag188338_0487	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189788	599904	600638	+	735		Prophage Clp protease-like protein	GV20	clust_1239
+GV22|SEQ01256	VBIGarVag276801_1257	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972149	16716	17459	-	744		Prophage Clp protease-like protein	GV22	clust_1239
+GV25|SEQ00046	VBIGarVag270495_0046	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977951	16057	16800	-	744		Prophage Clp protease-like protein	GV25	clust_1239
+GV26|SEQ00958	VBIGarVag272749_0958	Gardnerella vaginalis JCP8017A	ATJN01000061	PATRIC	CDS	183982774	14360	15037	-	678		Prophage Clp protease-like protein	GV26	clust_1239
+GV27|SEQ01203	VBIGarVag276930_1203	Gardnerella vaginalis JCP8017B	ATJM01000131	PATRIC	CDS	183986304	14571	15248	-	678		Prophage Clp protease-like protein	GV27	clust_1239
+GV30|SEQ01100	VBIGarVag267667_1102	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994421	29856	30599	+	744		Prophage Clp protease-like protein	GV30	clust_1239

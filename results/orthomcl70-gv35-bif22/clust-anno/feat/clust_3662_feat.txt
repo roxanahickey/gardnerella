@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00902	VBIBifAni240121_0902	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846778	1048502	1048975	-	474		transposase for insertion sequence	ANI1	clust_3662
+ANI2|SEQ00901	VBIBifAni235968_0901	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850129	1048505	1048978	-	474		transposase for insertion sequence	ANI2	clust_3662
+ANI3|SEQ00904	VBIBifAni108068_0904	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764143	1048506	1049117	-	612		transposase for insertion sequence	ANI3	clust_3662

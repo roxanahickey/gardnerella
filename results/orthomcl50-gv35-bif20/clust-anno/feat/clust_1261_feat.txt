@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01565	VBIBifAdo136061_1565	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189500	33752	34129	+	378		Transcriptional regulator, GntR family	ADO1	clust_1261
+ANI1|SEQ00947	VBIBifAni240121_0947	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846870	1093787	1094206	-	420		possible GntR-family transcriptional regulator	ANI1	clust_1261
+ANI2|SEQ00946	VBIBifAni235968_0946	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850221	1093790	1094209	-	420		possible GntR-family transcriptional regulator	ANI2	clust_1261
+ANI3|SEQ00950	VBIBifAni108068_0950	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764235	1093791	1094210	-	420		possible GntR-family transcriptional regulator	ANI3	clust_1261
+BIF1|SEQ01047	VBIBifBif87902_1047	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884662	1263007	1263381	-	375		Transcriptional regulator, GntR family	BIF1	clust_1261
+BRE1|SEQ00655	VBIBifBre340958_0655	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603275	794870	795244	+	375		Transcriptional regulator, GntR family	BRE1	clust_1261
+BRE2|SEQ00751	VBIBifBre337368_0751	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607437	891712	892086	+	375		Transcriptional regulator, GntR family	BRE2	clust_1261
+BRE3|SEQ01121	VBIBifBre167886_1121	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193975	1314551	1314925	-	375		Transcriptional regulator, GntR family	BRE3	clust_1261
+BRE4|SEQ00689	VBIBifBre327712_0689	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611457	835867	836241	+	375		Transcriptional regulator, GntR family	BRE4	clust_1261
+BRE5|SEQ00702	VBIBifBre336369_0703	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615529	830690	831064	+	375		Transcriptional regulator, GntR family	BRE5	clust_1261
+BRE6|SEQ00076	VBIBifBre268992_0076	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653249	17790	18164	+	375		Transcriptional regulator, GntR family	BRE6	clust_1261
+BRE7|SEQ00700	VBIBifBre340732_0700	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619837	838994	839368	+	375		Transcriptional regulator, GntR family	BRE7	clust_1261
+BRE8|SEQ00721	VBIBifBre176493_0721	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623987	879852	880226	+	375		Transcriptional regulator, GntR family	BRE8	clust_1261
+BRE9|SEQ00772	VBIBifBre30019_0772	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445618	927413	927787	+	375		Transcriptional regulator, GntR family	BRE9	clust_1261
+INF1|SEQ00615	VBIBifLon182273_0615	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885177	757178	757552	+	375		Transcriptional regulator, GntR family	INF1	clust_1261
+LON1|SEQ00744	VBIBifLon107831_0745	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118561	868386	868760	-	375		Transcriptional regulator, GntR family	LON1	clust_1261
+LON2|SEQ00811	VBIBifLon171405_0812	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581164	912873	913247	-	375		Transcriptional regulator, GntR family	LON2	clust_1261
+LON3|SEQ00612	VBIBifLon156230_0612	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768193	1482400	1482774	-	375		Transcriptional regulator, GntR family	LON3	clust_1261
+LON4|SEQ00608	VBIBifLon48544_0608	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889464	735768	736142	+	375		Transcriptional regulator, GntR family	LON4	clust_1261
+THE1|SEQ01733	VBIBifThe274299_1733	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736750	2150600	2150992	-	393		possible GntR-family transcriptional regulator	THE1	clust_1261

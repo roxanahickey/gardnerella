@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV07|SEQ00992	VBIGarVag249177_0992	Gardnerella vaginalis 1500E	ADES01000019	PATRIC	CDS	85493669	7675	7995	-	321		putative DNA-damage-inducibile protein	GV07	clust_1368
+GV10|SEQ00925	VBIGarVag136958_0925	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147932	1208628	1208954	+	327		DNA-damage-inducible protein J	GV10	clust_1368
+GV12|SEQ00327	VBIGarVag144721_0327	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853327	313792	314112	+	321		DNA-damage-inducible protein J	GV12	clust_1368
+GV14|SEQ01027	VBIGarVag244375_1027	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503962	90496	90816	+	321		putative DNA-damage-inducibile protein	GV14	clust_1368
+GV29|SEQ00165	VBIGarVag265473_0165	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989695	154602	154922	+	321		DNA-damage-inducible protein J	GV29	clust_1368
+GV32|SEQ00902	VBIGarVag277040_0902	Gardnerella vaginalis JCP8151B	ATJH01000081	PATRIC	CDS	183999780	4918	5247	+	330		DNA-damage-inducible protein J	GV32	clust_1368
+GV33|SEQ01222	VBIGarVag265557_1222	Gardnerella vaginalis JCP8481A	ATJG01000187	PATRIC	CDS	184003382	542	862	-	321		DNA-damage-inducible protein J	GV33	clust_1368
+GV34|SEQ01232	VBIGarVag270440_1232	Gardnerella vaginalis JCP8481B	ATJF01000163	PATRIC	CDS	184006209	541	861	-	321		DNA-damage-inducible protein J	GV34	clust_1368

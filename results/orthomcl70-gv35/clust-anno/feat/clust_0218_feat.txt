@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00387	VBIGarVag247323_0387	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494913	105703	106986	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV01	clust_0218
+GV02|SEQ00979	VBIGarVag242669_0979	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498807	234346	235629	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV02	clust_0218
+GV03|SEQ01063	VBIGarVag247424_1063	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501582	447871	449154	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV03	clust_0218
+GV04|SEQ00923	VBIGarVag246433_0923	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481752	276990	278273	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV04	clust_0218
+GV05|SEQ01176	VBIGarVag174900_1176	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548196	56357	57640	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV05	clust_0218
+GV06|SEQ01329	VBIGarVag244004_1329	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491491	211860	213143	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV06	clust_0218
+GV07|SEQ00189	VBIGarVag249177_0189	Gardnerella vaginalis 1500E	ADES01000003	PATRIC	CDS	85491973	16805	18088	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV07	clust_0218
+GV08|SEQ00864	VBIGarVag251521_0864	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476158	29393	30676	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV08	clust_0218
+GV09|SEQ00780	VBIGarVag169280_0780	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260761	145828	147111	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV09	clust_0218
+GV10|SEQ00916	VBIGarVag136958_0916	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147914	1196759	1198042	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV10	clust_0218
+GV11|SEQ01020	VBIGarVag171052_1020	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	52550422	22994	24277	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV11	clust_0218
+GV12|SEQ00317	VBIGarVag144721_0317	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853307	301924	303207	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV12	clust_0218
+GV13|SEQ00342	VBIGarVag244533_0342	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486635	175646	176929	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV13	clust_0218
+GV14|SEQ01159	VBIGarVag244375_1159	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504239	273279	274562	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV14	clust_0218
+GV15|SEQ00895	VBIGarVag249709_0895	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485366	52523	53806	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV15	clust_0218
+GV16|SEQ00716	VBIGarVag246379_0716	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478587	791508	792791	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV16	clust_0218
+GV17|SEQ00561	VBIGarVag146634_0561	Gardnerella vaginalis AMD	NZ_ADAM01000003	PATRIC	CDS	37851162	8588	9871	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV17	clust_0218
+GV18|SEQ00201	VBIGarVag4823_0201	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000068	PATRIC	CDS	42069095	1116	2399	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV18	clust_0218
+GV19|SEQ00899	VBIGarVag39333_0900	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628703	1116546	1117829	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV19	clust_0218
+GV20|SEQ00651	VBIGarVag188338_0651	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190123	783515	784798	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV20	clust_0218
+GV21|SEQ00013	VBIGarVag274454_0013	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966658	11048	12331	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV21	clust_0218
+GV22|SEQ00400	VBIGarVag276801_0401	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970225	19753	21036	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV22	clust_0218
+GV23|SEQ00587	VBIGarVag276017_0587	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973535	16589	17872	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV23	clust_0218
+GV24|SEQ00120	VBIGarVag268944_0121	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975341	19740	21023	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV24	clust_0218
+GV25|SEQ01133	VBIGarVag270495_1133	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980318	44989	46272	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV25	clust_0218
+GV26|SEQ00472	VBIGarVag272749_0472	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981732	3774	5057	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV26	clust_0218
+GV27|SEQ00465	VBIGarVag276930_0465	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984677	168509	169792	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV27	clust_0218
+GV28|SEQ00462	VBIGarVag271349_0462	Gardnerella vaginalis JCP8066	ATJL01000026	PATRIC	CDS	183987618	14592	15875	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV28	clust_0218
+GV29|SEQ00589	VBIGarVag265473_0589	Gardnerella vaginalis JCP8070	ATJK01000034	PATRIC	CDS	183990606	14588	15871	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV29	clust_0218
+GV30|SEQ00138	VBIGarVag267667_0138	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992320	52722	54005	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV30	clust_0218
+GV31|SEQ00872	VBIGarVag264983_0872	Gardnerella vaginalis JCP8151A	ATJI01000058	PATRIC	CDS	183996880	19226	20509	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV31	clust_0218
+GV32|SEQ00377	VBIGarVag277040_0377	Gardnerella vaginalis JCP8151B	ATJH01000019	PATRIC	CDS	183998619	673	1956	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV32	clust_0218
+GV33|SEQ01234	VBIGarVag265557_1234	Gardnerella vaginalis JCP8481A	ATJG01000189	PATRIC	CDS	184003408	9771	11054	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV33	clust_0218
+GV34|SEQ00610	VBIGarVag270440_0610	Gardnerella vaginalis JCP8481B	ATJF01000059	PATRIC	CDS	184004821	567	1850	-	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV34	clust_0218
+GV35|SEQ00799	VBIGarVag272169_0799	Gardnerella vaginalis JCP8522	ATJE01000073	PATRIC	CDS	184007995	12442	13725	+	1284		Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	GV35	clust_0218

@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ01310	VBIBifBre327712_1310	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612751	1529497	1529829	-	333		Transcriptional regulator	BRE4	clust_3164
+BRE5|SEQ01437	VBIBifBre336369_1438	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617062	1614662	1614994	-	333		Transcriptional regulator	BRE5	clust_3164
+BRE7|SEQ01320	VBIBifBre340732_1320	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621131	1530852	1531184	-	333		Transcriptional regulator	BRE7	clust_3164
+BRE9|SEQ01404	VBIBifBre30019_1404	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446939	1634435	1634767	-	333		Transcriptional regulator	BRE9	clust_3164

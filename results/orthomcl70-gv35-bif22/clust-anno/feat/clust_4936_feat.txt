@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01406	VBIBifDen165269_1407	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459942	666974	667522	+	549		phage integrase	DEN1	clust_4936
+DEN2|SEQ00237	VBIBifDen39005_0237	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108793	187764	188312	-	549		phage integrase	DEN2	clust_4936

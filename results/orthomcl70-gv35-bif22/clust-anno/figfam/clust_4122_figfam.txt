@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ00544	268607016	VBIBifBre337368_0544	SEQ00544	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Starvation sensing protein RspA	FIG00002553	figfam	clust_4122
+BRE6|SEQ00442	177654013	VBIBifBre268992_0442	SEQ00442	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS		Starvation sensing protein RspA	FIG00002553	figfam	clust_4122

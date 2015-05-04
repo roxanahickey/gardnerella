@@ -1,0 +1,29 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00154	VBIBifAdo136061_0154	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186524	94866	95726	-	861		Alpha/beta hydrolase fold (EC 3.8.1.5)	ADO1	clust_1048
+ANI1|SEQ01356	VBIBifAni240121_1356	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847719	1602230	1603156	-	927		Alpha/beta hydrolase fold (EC 3.8.1.5)	ANI1	clust_1048
+ANI2|SEQ01356	VBIBifAni235968_1356	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851072	1602448	1603374	-	927		Alpha/beta hydrolase fold (EC 3.8.1.5)	ANI2	clust_1048
+ANI3|SEQ01366	VBIBifAni108068_1366	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765092	1607679	1608605	-	927		Alpha/beta hydrolase fold (EC 3.8.1.5)	ANI3	clust_1048
+BIF1|SEQ00362	VBIBifBif87902_0362	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883255	441196	442050	+	855		Alpha/beta hydrolase fold (EC 3.8.1.5)	BIF1	clust_1048
+BRE1|SEQ00407	VBIBifBre340958_0407	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602767	503846	504691	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE1	clust_1048
+BRE2|SEQ00464	VBIBifBre337368_0464	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606852	559825	560670	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE2	clust_1048
+BRE3|SEQ01397	VBIBifBre167886_1397	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194536	1633200	1634045	-	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE3	clust_1048
+BRE4|SEQ00429	VBIBifBre327712_0429	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610926	535750	536595	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE4	clust_1048
+BRE5|SEQ00440	VBIBifBre336369_0441	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614995	517368	518213	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE5	clust_1048
+BRE6|SEQ01979	VBIBifBre268992_1979	Bifidobacterium breve JCP7499	AWSX01000088	PATRIC	CDS	177657274	34	879	-	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE6	clust_1048
+BRE7|SEQ00437	VBIBifBre340732_0437	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619299	537364	538209	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE7	clust_1048
+BRE8|SEQ00469	VBIBifBre176493_0469	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623475	581253	582098	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE8	clust_1048
+BRE9|SEQ00523	VBIBifBre30019_0523	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445109	631060	631905	+	846		Alpha/beta hydrolase fold (EC 3.8.1.5)	BRE9	clust_1048
+DEN1|SEQ00984	VBIBifDen165269_0985	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459091	126687	127574	+	888		Alpha/beta hydrolase fold (EC 3.8.1.5)	DEN1	clust_1048
+DEN2|SEQ01481	VBIBifDen39005_1482	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111351	98155	99042	-	888		Alpha/beta hydrolase fold (EC 3.8.1.5)	DEN2	clust_1048
+GV03|SEQ00473	VBIGarVag247424_0473	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500353	8337	9284	+	948		"Alpha/beta hydrolase fold "	GV03	clust_1048
+GV05|SEQ00499	VBIGarVag174900_0499	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546742	69877	70824	+	948		alpha/beta hydrolase fold	GV05	clust_1048
+GV07|SEQ00912	VBIGarVag249177_0912	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493495	208119	209066	-	948		"Alpha/beta hydrolase fold "	GV07	clust_1048
+GV14|SEQ00056	VBIGarVag244375_0056	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501928	46760	47719	-	960		"Alpha/beta hydrolase fold "	GV14	clust_1048
+GV33|SEQ00483	VBIGarVag265557_0483	Gardnerella vaginalis JCP8481A	ATJG01000045	PATRIC	CDS	184001702	1886	2815	+	930		alpha/beta hydrolase fold	GV33	clust_1048
+GV34|SEQ00630	VBIGarVag270440_0630	Gardnerella vaginalis JCP8481B	ATJF01000063	PATRIC	CDS	184004865	1830	2759	+	930		alpha/beta hydrolase fold	GV34	clust_1048
+INF1|SEQ00411	VBIBifLon182273_0411	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884760	511779	512636	+	858		Alpha/beta hydrolase fold (EC 3.8.1.5)	INF1	clust_1048
+LON1|SEQ00939	VBIBifLon107831_0940	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118955	1109627	1110484	-	858		Alpha/beta hydrolase fold (EC 3.8.1.5)	LON1	clust_1048
+LON2|SEQ01020	VBIBifLon171405_1021	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581587	1162490	1163347	-	858	pepR1	Alpha/beta hydrolase fold (EC 3.8.1.5)	LON2	clust_1048
+LON3|SEQ00812	VBIBifLon156230_0812	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768598	1725029	1725886	-	858		Alpha/beta hydrolase fold (EC 3.8.1.5)	LON3	clust_1048
+LON4|SEQ00398	VBIBifLon48544_0398	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889034	486253	487110	+	858		Alpha/beta hydrolase fold (EC 3.8.1.5)	LON4	clust_1048
+THE1|SEQ00421	VBIBifThe274299_0421	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734017	516487	517545	+	1059		possible alpha beta hydrolase	THE1	clust_1048

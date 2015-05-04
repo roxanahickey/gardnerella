@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ01611	43460375	VBIBifDen165269_1612	SEQ01611	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Cytidylate kinase (EC 2.7.4.14)	GO:0004127	cytidylate kinase activity	go	clust_4010
+DEN2|SEQ00593	42109516	VBIBifDen39005_0593	SEQ00593	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	NA	Cytidylate kinase (EC 2.7.4.14)	GO:0004127	cytidylate kinase activity	go	clust_4010
+THE1|SEQ00478	124734132	VBIBifThe274299_0478	SEQ00478	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Cytidylate kinase (EC 2.7.4.14)	GO:0004127	cytidylate kinase activity	go	clust_4010

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE2|SEQ00247	268606406	VBIBifBre337368_0247	SEQ00247	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2519
+BRE5|SEQ00250	268614603	VBIBifBre336369_0251	SEQ00250	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2519
+BRE8|SEQ00270	268623065	VBIBifBre176493_0270	SEQ00270	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	bburA	DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2519

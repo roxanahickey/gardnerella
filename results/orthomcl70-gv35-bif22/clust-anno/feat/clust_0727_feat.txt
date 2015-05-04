@@ -1,0 +1,54 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00400	VBIBifAdo136061_0400	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187061	222738	224525	+	1788		Putative high-affinity iron permease	ADO1	clust_0727
+BIF1|SEQ01708	VBIBifBif87902_1708	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886039	2052373	2054139	-	1767	ywbL	Putative high-affinity iron permease	BIF1	clust_0727
+BRE1|SEQ00187	VBIBifBre340958_0187	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602306	242371	244200	+	1830		Putative high-affinity iron permease	BRE1	clust_0727
+BRE2|SEQ00207	VBIBifBre337368_0207	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606319	269641	271419	+	1779		Putative high-affinity iron permease	BRE2	clust_0727
+BRE3|SEQ00226	VBIBifBre167886_0226	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192106	293624	295402	+	1779		Putative high-affinity iron permease	BRE3	clust_0727
+BRE4|SEQ00205	VBIBifBre327712_0205	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610457	267294	269210	+	1917		Putative high-affinity iron permease	BRE4	clust_0727
+BRE5|SEQ00208	VBIBifBre336369_0209	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614513	257005	258783	+	1779		Putative high-affinity iron permease	BRE5	clust_0727
+BRE6|SEQ02052	VBIBifBre268992_2052	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657432	39756	41534	-	1779		Putative high-affinity iron permease	BRE6	clust_0727
+BRE7|SEQ00202	VBIBifBre340732_0202	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618809	265232	267010	+	1779		Putative high-affinity iron permease	BRE7	clust_0727
+BRE8|SEQ00229	VBIBifBre176493_0229	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622976	296699	298477	+	1779		Putative high-affinity iron permease	BRE8	clust_0727
+BRE9|SEQ00237	VBIBifBre30019_0237	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444512	311843	313759	+	1917		Putative high-affinity iron permease	BRE9	clust_0727
+DEN1|SEQ00535	VBIBifDen165269_0536	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462364	1955244	1956989	-	1746		Putative high-affinity iron permease	DEN1	clust_0727
+DEN2|SEQ01572	VBIBifDen39005_1573	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111536	27725	29470	-	1746		Putative high-affinity iron permease	DEN2	clust_0727
+GV01|SEQ00839	VBIGarVag247323_0839	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495847	55118	56875	+	1758		Putative high-affinity iron permease	GV01	clust_0727
+GV02|SEQ01220	VBIGarVag242669_1220	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499317	207566	209314	-	1749		Putative high-affinity iron permease	GV02	clust_0727
+GV03|SEQ00250	VBIGarVag247424_0250	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499883	201517	203259	+	1743		Putative high-affinity iron permease	GV03	clust_0727
+GV04|SEQ00098	VBIGarVag246433_0098	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480044	103475	105211	-	1737		Putative high-affinity iron permease	GV04	clust_0727
+GV05|SEQ00351	VBIGarVag174900_0351	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546427	199886	201628	+	1743		Putative high-affinity iron permease	GV05	clust_0727
+GV06|SEQ00648	VBIGarVag244004_0648	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490077	97522	99258	-	1737		Putative high-affinity iron permease	GV06	clust_0727
+GV07|SEQ01188	VBIGarVag249177_1188	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494077	94320	96062	-	1743		Putative high-affinity iron permease	GV07	clust_0727
+GV08|SEQ01125	VBIGarVag251521_1125	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476699	231037	232773	+	1737		Putative high-affinity iron permease	GV08	clust_0727
+GV09|SEQ01159	VBIGarVag169280_1159	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261547	22189	23925	+	1737		Putative high-affinity iron permease	GV09	clust_0727
+GV10|SEQ00148	VBIGarVag136958_0148	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146312	181139	182857	+	1719		Putative high-affinity iron permease	GV10	clust_0727
+GV11|SEQ01200	VBIGarVag171052_1200	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550809	74299	76035	-	1737		Putative high-affinity iron permease	GV11	clust_0727
+GV12|SEQ00684	VBIGarVag144721_0684	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854067	217136	218854	+	1719		Putative high-affinity iron permease	GV12	clust_0727
+GV13|SEQ01023	VBIGarVag244533_1023	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488063	11087	12823	+	1737		Putative high-affinity iron permease	GV13	clust_0727
+GV14|SEQ00202	VBIGarVag244375_0202	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502238	203066	204808	-	1743		Putative high-affinity iron permease	GV14	clust_0727
+GV15|SEQ00525	VBIGarVag249709_0525	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484586	273461	275179	-	1719		Putative high-affinity iron permease	GV15	clust_0727
+GV16|SEQ00278	VBIGarVag246379_0278	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477676	235154	236890	+	1737		Putative high-affinity iron permease	GV16	clust_0727
+GV17|SEQ00451	VBIGarVag146634_0451	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850935	448562	450280	-	1719		Putative high-affinity iron permease	GV17	clust_0727
+GV18|SEQ00690	VBIGarVag4823_0690	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	42070152	11068	12804	+	1737		Putative high-affinity iron permease	GV18	clust_0727
+GV19|SEQ01334	VBIGarVag39333_1337	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629605	1656919	1658655	-	1737	ftr1	Putative high-affinity iron permease	GV19	clust_0727
+GV20|SEQ00161	VBIGarVag188338_0161	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189108	189287	191023	+	1737		Putative high-affinity iron permease	GV20	clust_0727
+GV21|SEQ00975	VBIGarVag274454_0976	Gardnerella vaginalis JCP7275	ATJS01000087	PATRIC	CDS	183968734	6189	7925	+	1737		Putative high-affinity iron permease	GV21	clust_0727
+GV22|SEQ00731	VBIGarVag276801_0732	Gardnerella vaginalis JCP7276	ATJR01000030	PATRIC	CDS	183970912	3126	4862	-	1737		Putative high-affinity iron permease	GV22	clust_0727
+GV23|SEQ00926	VBIGarVag276017_0926	Gardnerella vaginalis JCP7659	ATJQ01000088	PATRIC	CDS	183974283	3254	5002	-	1749		Putative high-affinity iron permease	GV23	clust_0727
+GV24|SEQ00633	VBIGarVag268944_0634	Gardnerella vaginalis JCP7672	ATJP01000043	PATRIC	CDS	183976438	3155	4891	-	1737		Putative high-affinity iron permease	GV24	clust_0727
+GV25|SEQ00357	VBIGarVag270495_0357	Gardnerella vaginalis JCP7719	ATJO01000023	PATRIC	CDS	183978618	3214	4971	-	1758		Putative high-affinity iron permease	GV25	clust_0727
+GV26|SEQ00153	VBIGarVag272749_0153	Gardnerella vaginalis JCP8017A	ATJN01000006	PATRIC	CDS	183981053	7509	9239	+	1731		Putative high-affinity iron permease	GV26	clust_0727
+GV27|SEQ00885	VBIGarVag276930_0885	Gardnerella vaginalis JCP8017B	ATJM01000044	PATRIC	CDS	183985570	9787	11517	-	1731		Putative high-affinity iron permease	GV27	clust_0727
+GV28|SEQ00867	VBIGarVag271349_0867	Gardnerella vaginalis JCP8066	ATJL01000076	PATRIC	CDS	183988506	1196	2944	+	1749		Putative high-affinity iron permease	GV28	clust_0727
+GV29|SEQ00549	VBIGarVag265473_0549	Gardnerella vaginalis JCP8070	ATJK01000027	PATRIC	CDS	183990515	19133	20899	+	1767		Putative high-affinity iron permease	GV29	clust_0727
+GV30|SEQ00856	VBIGarVag267667_0858	Gardnerella vaginalis JCP8108	ATJJ01000067	PATRIC	CDS	183993881	1096	2832	+	1737		Putative high-affinity iron permease	GV30	clust_0727
+GV31|SEQ00907	VBIGarVag264983_0907	Gardnerella vaginalis JCP8151A	ATJI01000062	PATRIC	CDS	183996954	2980	4728	+	1749		Putative high-affinity iron permease	GV31	clust_0727
+GV32|SEQ00601	VBIGarVag277040_0601	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999110	3279	5027	-	1749		Putative high-affinity iron permease	GV32	clust_0727
+GV33|SEQ00555	VBIGarVag265557_0555	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001854	6500	8218	+	1719		Putative high-affinity iron permease	GV33	clust_0727
+GV34|SEQ00411	VBIGarVag270440_0411	Gardnerella vaginalis JCP8481B	ATJF01000027	PATRIC	CDS	184004380	13723	15504	-	1782		Putative high-affinity iron permease	GV34	clust_0727
+GV35|SEQ00008	VBIGarVag272169_0008	Gardnerella vaginalis JCP8522	ATJE01000002	PATRIC	CDS	184006286	3247	5004	-	1758		Putative high-affinity iron permease	GV35	clust_0727
+INF1|SEQ00166	VBIBifLon182273_0166	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884247	209831	211624	+	1794		Putative high-affinity iron permease	INF1	clust_0727
+LON1|SEQ01198	VBIBifLon107831_1199	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119493	1408202	1410013	-	1812		Putative high-affinity iron permease	LON1	clust_0727
+LON2|SEQ01233	VBIBifLon171405_1235	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582033	1422686	1424479	-	1794	ftr1	Putative high-affinity iron permease	LON2	clust_0727
+LON3|SEQ01313	VBIBifLon156230_1315	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769227	2052526	2054319	-	1794		Putative high-affinity iron permease	LON3	clust_0727
+LON4|SEQ00186	VBIBifLon48544_0186	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888590	228948	230741	+	1794		Putative high-affinity iron permease	LON4	clust_0727

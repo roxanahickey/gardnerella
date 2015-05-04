@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01201	VBIBifAdo136061_1201	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188741	121480	122319	-	840		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	ADO1	clust_0170
+ANI1|SEQ00874	VBIBifAni240121_0874	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846720	1013499	1014335	-	837		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	ANI1	clust_0170
+ANI2|SEQ00873	VBIBifAni235968_0873	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850071	1013502	1014338	-	837		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	ANI2	clust_0170
+ANI3|SEQ00876	VBIBifAni108068_0876	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764085	1013504	1014340	-	837		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	ANI3	clust_0170
+BIF1|SEQ00859	VBIBifBif87902_0859	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884267	1062175	1063023	+	849	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BIF1	clust_0170
+BRE1|SEQ00915	VBIBifBre340958_0915	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603816	1087003	1087857	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE1	clust_0170
+BRE2|SEQ01007	VBIBifBre337368_1007	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607973	1182093	1182947	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE2	clust_0170
+BRE3|SEQ00875	VBIBifBre167886_0875	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193460	1036984	1037838	-	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE3	clust_0170
+BRE4|SEQ01046	VBIBifBre327712_1046	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612209	1215645	1216499	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE4	clust_0170
+BRE5|SEQ01059	VBIBifBre336369_1060	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616275	1193730	1194584	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE5	clust_0170
+BRE6|SEQ00613	VBIBifBre268992_0613	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654375	12943	13797	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE6	clust_0170
+BRE7|SEQ00959	VBIBifBre340732_0959	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620379	1127958	1128812	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE7	clust_0170
+BRE8|SEQ00976	VBIBifBre176493_0976	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624520	1164200	1165054	+	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE8	clust_0170
+BRE9|SEQ01042	VBIBifBre30019_1042	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446182	1227270	1228124	+	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	BRE9	clust_0170
+DEN1|SEQ01592	VBIBifDen165269_1593	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460337	875610	876449	-	840	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	DEN1	clust_0170
+DEN2|SEQ00613	VBIBifDen39005_0613	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109556	265829	266668	+	840	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	DEN2	clust_0170
+GV01|SEQ00570	VBIGarVag247323_0570	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495286	323851	324705	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV01	clust_0170
+GV02|SEQ00808	VBIGarVag242669_0808	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498458	22503	23357	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV02	clust_0170
+GV03|SEQ01003	VBIGarVag247424_1003	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501452	370769	371623	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV03	clust_0170
+GV04|SEQ00661	VBIGarVag246433_0661	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481215	84644	85498	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV04	clust_0170
+GV05|SEQ01048	VBIGarVag174900_1048	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547877	779070	779924	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV05	clust_0170
+GV06|SEQ00251	VBIGarVag244004_0251	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489222	21848	22702	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV06	clust_0170
+GV07|SEQ00284	VBIGarVag249177_0284	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492185	79926	80780	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV07	clust_0170
+GV08|SEQ00106	VBIGarVag251521_0106	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474579	124618	125472	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV08	clust_0170
+GV09|SEQ00935	VBIGarVag169280_0935	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261078	344011	344865	-	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV09	clust_0170
+GV10|SEQ00820	VBIGarVag136958_0820	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147712	1072121	1072975	-	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV10	clust_0170
+GV11|SEQ00738	VBIGarVag171052_0738	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549829	12514	13368	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV11	clust_0170
+GV12|SEQ00264	VBIGarVag144721_0264	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853191	231577	232431	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV12	clust_0170
+GV13|SEQ00917	VBIGarVag244533_0917	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487840	34196	35050	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV13	clust_0170
+GV14|SEQ01104	VBIGarVag244375_1104	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504119	195292	196146	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV14	clust_0170
+GV15|SEQ00166	VBIGarVag249709_0166	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483823	103425	104279	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV15	clust_0170
+GV16|SEQ00882	VBIGarVag246379_0882	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478927	994177	995031	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV16	clust_0170
+GV17|SEQ00737	VBIGarVag146634_0737	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851546	39586	40440	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV17	clust_0170
+GV18|SEQ00307	VBIGarVag4823_0307	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000083	PATRIC	CDS	42069326	6853	7536	+	684		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV18	clust_0170
+GV19|SEQ00737	VBIGarVag39333_0738	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628372	919913	920596	+	684	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV19	clust_0170
+GV20|SEQ00805	VBIGarVag188338_0805	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190440	977299	978153	-	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV20	clust_0170
+GV21|SEQ00258	VBIGarVag274454_0258	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967164	31387	32241	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV21	clust_0170
+GV22|SEQ00109	VBIGarVag276801_0109	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969607	141905	142759	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV22	clust_0170
+GV23|SEQ00204	VBIGarVag276017_0204	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972712	22178	23032	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV23	clust_0170
+GV24|SEQ00963	VBIGarVag268944_0964	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977153	32890	33744	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV24	clust_0170
+GV25|SEQ00769	VBIGarVag270495_0769	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979509	85195	86049	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV25	clust_0170
+GV26|SEQ01013	VBIGarVag272749_1013	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982906	22185	23039	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV26	clust_0170
+GV27|SEQ01102	VBIGarVag276930_1102	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986064	34843	35697	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV27	clust_0170
+GV28|SEQ00300	VBIGarVag271349_0300	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987267	81107	81961	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV28	clust_0170
+GV29|SEQ00914	VBIGarVag265473_0914	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991321	78563	79417	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV29	clust_0170
+GV30|SEQ01258	VBIGarVag267667_1260	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994789	13212	14066	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV30	clust_0170
+GV31|SEQ00521	VBIGarVag264983_0521	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996112	29850	30704	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV31	clust_0170
+GV32|SEQ00313	VBIGarVag277040_0313	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998478	154701	155555	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV32	clust_0170
+GV33|SEQ00644	VBIGarVag265557_0644	Gardnerella vaginalis JCP8481A	ATJG01000060	PATRIC	CDS	184002039	6887	7741	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV33	clust_0170
+GV34|SEQ00654	VBIGarVag270440_0654	Gardnerella vaginalis JCP8481B	ATJF01000067	PATRIC	CDS	184004917	48	371	+	324		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV34	clust_0170
+GV35|SEQ00187	VBIGarVag272169_0187	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006657	91557	92411	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	GV35	clust_0170
+INF1|SEQ00963	VBIBifLon182273_0963	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885906	1120790	1121644	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	INF1	clust_0170
+LON1|SEQ00497	VBIBifLon107831_0498	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118049	578816	579670	-	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	LON1	clust_0170
+LON2|SEQ00552	VBIBifLon171405_0553	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580628	613445	614299	-	855	metF	5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	LON2	clust_0170
+LON3|SEQ00364	VBIBifLon156230_0364	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767678	1191244	1192098	-	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	LON3	clust_0170
+LON4|SEQ00852	VBIBifLon48544_0852	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889977	1019773	1020627	+	855		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	LON4	clust_0170
+THE1|SEQ01089	VBIBifThe274299_1089	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735389	1355950	1356819	-	870		5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	THE1	clust_0170

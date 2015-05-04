@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01429	VBIBifAni240121_1429	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847869	1696426	1697757	+	1332		Formyl-coenzyme A transferase (EC 2.8.3.16)	ANI1	clust_3632
+ANI2|SEQ01428	VBIBifAni235968_1428	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851220	1696645	1697976	+	1332		Formyl-coenzyme A transferase (EC 2.8.3.16)	ANI2	clust_3632
+ANI3|SEQ01438	VBIBifAni108068_1438	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765240	1701876	1703207	+	1332	frc	Formyl-coenzyme A transferase (EC 2.8.3.16)	ANI3	clust_3632

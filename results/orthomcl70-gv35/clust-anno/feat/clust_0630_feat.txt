@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01126	VBIGarVag247323_1126	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496454	136164	136790	+	627		CarD-like transcriptional regulator	GV01	clust_0630
+GV02|SEQ00311	VBIGarVag242669_0311	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497397	112649	113245	-	597		CarD-like transcriptional regulator	GV02	clust_0630
+GV03|SEQ00650	VBIGarVag247424_0650	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500724	8230	8826	-	597		CarD-like transcriptional regulator	GV03	clust_0630
+GV04|SEQ00853	VBIGarVag246433_0853	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481605	192582	193208	+	627		CarD-like transcriptional regulator	GV04	clust_0630
+GV05|SEQ00782	VBIGarVag174900_0782	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547323	417299	417895	+	597		CarD-like transcriptional regulator	GV05	clust_0630
+GV06|SEQ00079	VBIGarVag244004_0079	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488863	87938	88534	+	597		CarD-like transcriptional regulator	GV06	clust_0630
+GV07|SEQ00541	VBIGarVag249177_0541	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492724	4450	5046	+	597		CarD-like transcriptional regulator	GV07	clust_0630
+GV08|SEQ00682	VBIGarVag251521_0682	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475790	30887	31462	-	576		CarD-like transcriptional regulator	GV08	clust_0630
+GV09|SEQ00712	VBIGarVag169280_0712	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260619	61495	62121	+	627		CarD-like transcriptional regulator	GV09	clust_0630
+GV10|SEQ00526	VBIGarVag136958_0526	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147104	656159	656785	+	627		CarD-like transcriptional regulator	GV10	clust_0630
+GV11|SEQ00959	VBIGarVag171052_0959	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550298	38846	39472	-	627		CarD-like transcriptional regulator	GV11	clust_0630
+GV12|SEQ01104	VBIGarVag144721_1104	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854945	104720	105316	+	597		CarD-like transcriptional regulator	GV12	clust_0630
+GV13|SEQ00871	VBIGarVag244533_0871	Gardnerella vaginalis 55152	ADEQ01000011	PATRIC	CDS	85487743	59	538	-	480		CarD-like transcriptional regulator	GV13	clust_0630
+GV14|SEQ00245	VBIGarVag244375_0245	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502325	42301	42897	+	597		CarD-like transcriptional regulator	GV14	clust_0630
+GV15|SEQ01110	VBIGarVag249709_1110	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485821	161	757	-	597		CarD-like transcriptional regulator	GV15	clust_0630
+GV16|SEQ00649	VBIGarVag246379_0649	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478447	707608	708234	+	627		CarD-like transcriptional regulator	GV16	clust_0630
+GV17|SEQ01026	VBIGarVag146634_1026	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852146	188489	189085	-	597		CarD-like transcriptional regulator	GV17	clust_0630
+GV18|SEQ00741	VBIGarVag4823_0741	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000124	PATRIC	CDS	42070271	10428	11054	-	627		CarD-like transcriptional regulator	GV18	clust_0630
+GV19|SEQ00977	VBIGarVag39333_0978	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628865	1208780	1209406	-	627		CarD-like transcriptional regulator	GV19	clust_0630
+GV20|SEQ00580	VBIGarVag188338_0580	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189974	692928	693554	+	627		CarD-like transcriptional regulator	GV20	clust_0630
+GV21|SEQ00439	VBIGarVag274454_0440	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967545	31875	32471	+	597		CarD-like transcriptional regulator	GV21	clust_0630
+GV22|SEQ00342	VBIGarVag276801_0343	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970101	62251	62847	+	597		CarD-like transcriptional regulator	GV22	clust_0630
+GV23|SEQ00552	VBIGarVag276017_0552	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973462	11168	11794	-	627		CarD-like transcriptional regulator	GV23	clust_0630
+GV24|SEQ00881	VBIGarVag268944_0882	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183976984	19120	19746	-	627		CarD-like transcriptional regulator	GV24	clust_0630
+GV25|SEQ00526	VBIGarVag270495_0526	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978988	10653	11279	-	627		CarD-like transcriptional regulator	GV25	clust_0630
+GV26|SEQ01213	VBIGarVag272749_1213	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983370	31081	31677	+	597		CarD-like transcriptional regulator	GV26	clust_0630
+GV27|SEQ00220	VBIGarVag276930_0220	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984167	10602	11096	-	495		CarD-like transcriptional regulator	GV27	clust_0630
+GV28|SEQ00076	VBIGarVag271349_0076	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986804	29543	30139	+	597		CarD-like transcriptional regulator	GV28	clust_0630
+GV29|SEQ00512	VBIGarVag265473_0512	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990436	29278	29904	+	627		CarD-like transcriptional regulator	GV29	clust_0630
+GV30|SEQ00971	VBIGarVag267667_0973	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994138	9785	10381	-	597		CarD-like transcriptional regulator	GV30	clust_0630
+GV31|SEQ00060	VBIGarVag264983_0060	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995141	29805	30299	+	495		CarD-like transcriptional regulator	GV31	clust_0630
+GV32|SEQ00690	VBIGarVag277040_0690	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999298	11403	12029	-	627		CarD-like transcriptional regulator	GV32	clust_0630
+GV33|SEQ00388	VBIGarVag265557_0388	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001498	2771	3397	-	627		CarD-like transcriptional regulator	GV33	clust_0630
+GV34|SEQ00065	VBIGarVag270440_0065	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003622	10170	10796	-	627		CarD-like transcriptional regulator	GV34	clust_0630
+GV35|SEQ01011	VBIGarVag272169_1011	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008507	9467	10093	-	627		CarD-like transcriptional regulator	GV35	clust_0630

@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01734	VBIBifAdo136061_1734	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189839	228701	230110	+	1410		Mannan endo-1,4-beta-mannosidase precursor (EC 3.2.1.78)	ADO1	clust_3052
+ANI1|SEQ00013	VBIBifAni240121_0013	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844918	16983	18170	+	1188		mannan endo-1,4-beta-mannosidase precursor	ANI1	clust_3052
+ANI2|SEQ00013	VBIBifAni235968_0013	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848273	16983	18170	+	1188		mannan endo-1,4-beta-mannosidase precursor	ANI2	clust_3052
+ANI3|SEQ00013	VBIBifAni108068_0013	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762286	16974	18170	+	1197		mannan endo-1,4-beta-mannosidase precursor	ANI3	clust_3052

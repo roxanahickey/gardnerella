@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00134	VBIBifAdo136061_0134	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186484	59587	60270	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	ADO1	clust_0601
+ANI1|SEQ01335	VBIBifAni240121_1335	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847677	1578456	1579133	+	678		tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	ANI1	clust_0601
+ANI2|SEQ01335	VBIBifAni235968_1335	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851030	1578677	1579354	+	678		tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	ANI2	clust_0601
+ANI3|SEQ01345	VBIBifAni108068_1345	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765050	1583908	1584585	+	678		tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	ANI3	clust_0601
+BIF1|SEQ00385	VBIBifBif87902_0385	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883301	468153	468800	-	648	yibK	tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BIF1	clust_0601
+BRE1|SEQ00423	VBIBifBre340958_0423	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602800	525829	526491	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE1	clust_0601
+BRE2|SEQ00480	VBIBifBre337368_0480	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606886	581595	582257	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE2	clust_0601
+BRE3|SEQ01381	VBIBifBre167886_1381	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194504	1611401	1612063	+	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE3	clust_0601
+BRE4|SEQ00446	VBIBifBre327712_0446	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610961	557616	558278	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE4	clust_0601
+BRE5|SEQ00457	VBIBifBre336369_0458	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615030	539535	540197	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE5	clust_0601
+BRE6|SEQ00725	VBIBifBre268992_0725	Bifidobacterium breve JCP7499	AWSX01000038	PATRIC	CDS	177654616	55531	56193	+	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE6	clust_0601
+BRE7|SEQ00453	VBIBifBre340732_0453	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619332	559232	559894	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE7	clust_0601
+BRE8|SEQ00486	VBIBifBre176493_0486	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623510	603124	603786	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE8	clust_0601
+BRE9|SEQ00539	VBIBifBre30019_0539	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445142	652922	653584	-	663		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	BRE9	clust_0601
+DEN1|SEQ01009	VBIBifDen165269_1010	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459141	157294	157980	-	687	yibK	tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	DEN1	clust_0601
+DEN2|SEQ01456	VBIBifDen39005_1457	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111301	67750	68436	+	687		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	DEN2	clust_0601
+GV01|SEQ00054	VBIGarVag247323_0054	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494206	72688	73365	+	678		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV01	clust_0601
+GV02|SEQ00626	VBIGarVag242669_0626	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498064	270418	271095	-	678		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV02	clust_0601
+GV03|SEQ00482	VBIGarVag247424_0482	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500371	21767	22456	-	690		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV03	clust_0601
+GV04|SEQ00354	VBIGarVag246433_0354	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480581	63602	64285	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV04	clust_0601
+GV05|SEQ00508	VBIGarVag174900_0508	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546760	83262	83951	-	690		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV05	clust_0601
+GV06|SEQ00309	VBIGarVag244004_0309	Gardnerella vaginalis 1400E	ADER01000007	PATRIC	CDS	85489343	10903	11610	-	708		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV06	clust_0601
+GV07|SEQ00903	VBIGarVag249177_0903	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493477	194932	195633	+	702		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV07	clust_0601
+GV08|SEQ01268	VBIGarVag251521_1268	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85477007	415334	416017	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV08	clust_0601
+GV09|SEQ01295	VBIGarVag169280_1295	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261841	191304	191987	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV09	clust_0601
+GV10|SEQ01028	VBIGarVag136958_1028	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148142	1373042	1373731	+	690		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV10	clust_0601
+GV12|SEQ00436	VBIGarVag144721_0436	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853549	481832	482533	+	702		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV12	clust_0601
+GV13|SEQ00975	VBIGarVag244533_0975	Gardnerella vaginalis 55152	ADEQ01000014	PATRIC	CDS	85487960	26279	26986	-	708		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV13	clust_0601
+GV14|SEQ00047	VBIGarVag244375_0047	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501910	33610	34299	+	690		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV14	clust_0601
+GV15|SEQ01015	VBIGarVag249709_1015	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485610	225677	226366	+	690		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV15	clust_0601
+GV16|SEQ00420	VBIGarVag246379_0420	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477982	419324	420007	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV16	clust_0601
+GV17|SEQ01181	VBIGarVag146634_1181	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852461	163344	164033	+	690		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV17	clust_0601
+GV18|SEQ00730	VBIGarVag4823_0730	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000123	PATRIC	CDS	42070248	20585	21268	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV18	clust_0601
+GV19|SEQ01191	VBIGarVag39333_1193	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629297	1479277	1479960	-	684	yibK	tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV19	clust_0601
+GV20|SEQ00317	VBIGarVag188338_0317	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189443	386460	387143	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV20	clust_0601
+GV21|SEQ00978	VBIGarVag274454_0979	Gardnerella vaginalis JCP7275	ATJS01000088	PATRIC	CDS	183968741	1310	2008	+	699		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV21	clust_0601
+GV22|SEQ01216	VBIGarVag276801_1217	Gardnerella vaginalis JCP7276	ATJR01000160	PATRIC	CDS	183972055	10791	11489	-	699		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV22	clust_0601
+GV23|SEQ01121	VBIGarVag276017_1121	Gardnerella vaginalis JCP7659	ATJQ01000132	PATRIC	CDS	183974731	1258	1941	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV23	clust_0601
+GV24|SEQ01199	VBIGarVag268944_1200	Gardnerella vaginalis JCP7672	ATJP01000153	PATRIC	CDS	183977734	1541	2224	+	684		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV24	clust_0601
+GV25|SEQ00966	VBIGarVag270495_0966	Gardnerella vaginalis JCP7719	ATJO01000104	PATRIC	CDS	183979960	3490	4158	+	669		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV25	clust_0601
+GV26|SEQ01138	VBIGarVag272749_1138	Gardnerella vaginalis JCP8017A	ATJN01000101	PATRIC	CDS	183983185	3297	3965	-	669		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV26	clust_0601
+GV27|SEQ01141	VBIGarVag276930_1141	Gardnerella vaginalis JCP8017B	ATJM01000104	PATRIC	CDS	183986153	3251	3928	-	678		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV27	clust_0601
+GV28|SEQ01110	VBIGarVag271349_1110	Gardnerella vaginalis JCP8066	ATJL01000158	PATRIC	CDS	183989100	1669	2346	+	678		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV28	clust_0601
+GV29|SEQ00828	VBIGarVag265473_0828	Gardnerella vaginalis JCP8070	ATJK01000068	PATRIC	CDS	183991140	3374	4051	-	678		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV29	clust_0601
+GV30|SEQ01334	VBIGarVag267667_1336	Gardnerella vaginalis JCP8108	ATJJ01000168	PATRIC	CDS	183994969	1226	1948	+	723		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV30	clust_0601
+GV31|SEQ01077	VBIGarVag264983_1077	Gardnerella vaginalis JCP8151A	ATJI01000099	PATRIC	CDS	183997345	21825	22493	+	669		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV31	clust_0601
+GV32|SEQ00946	VBIGarVag277040_0946	Gardnerella vaginalis JCP8151B	ATJH01000097	PATRIC	CDS	183999884	1234	1902	+	669		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV32	clust_0601
+GV33|SEQ01056	VBIGarVag265557_1056	Gardnerella vaginalis JCP8481A	ATJG01000137	PATRIC	CDS	184002982	106	486	+	381		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV33	clust_0601
+GV34|SEQ01230	VBIGarVag270440_1230	Gardnerella vaginalis JCP8481B	ATJF01000162	PATRIC	CDS	184006204	79	597	-	519		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV34	clust_0601
+GV35|SEQ00938	VBIGarVag272169_0938	Gardnerella vaginalis JCP8522	ATJE01000109	PATRIC	CDS	184008321	3242	3760	-	519		tRNA (cytosine34-2'-O-)-methyltransferase (EC 2.1.1.-)	GV35	clust_0601
+INF1|SEQ00429	VBIBifLon182273_0429	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884796	532686	533348	-	663		tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	INF1	clust_0601
+LON1|SEQ00922	VBIBifLon107831_0923	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118921	1088907	1089569	+	663	yibK	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	LON1	clust_0601
+LON2|SEQ01003	VBIBifLon171405_1004	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581553	1141770	1142432	+	663	cspR	tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	LON2	clust_0601
+LON3|SEQ00795	VBIBifLon156230_0795	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768564	1704257	1704919	+	663		tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	LON3	clust_0601
+LON4|SEQ00416	VBIBifLon48544_0416	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889071	507168	507830	-	663		tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207)	LON4	clust_0601
+THE1|SEQ00455	VBIBifThe274299_0455	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734085	566345	566944	-	600		tRNA (cytidine(34)-2'-O)-methyltransferase // TrmL	THE1	clust_0601

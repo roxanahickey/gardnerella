@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV33|SEQ01099	VBIGarVag265557_1099	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003076	37466	39340	+	1875		hypothetical protein	GV33	clust_2812
+GV34|SEQ01119	VBIGarVag270440_1119	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005944	6789	8663	-	1875		hypothetical protein	GV34	clust_2812
+BRE8|SEQ01125	VBIBifBre176493_1125	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624837	1311535	1313343	-	1809		Type IV secretory pathway, VirD4 components	BRE8	clust_2812
+LON1|SEQ00343	VBIBifLon107831_0343	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117727	407002	408810	-	1809		Type IV secretory pathway, VirD4 components	LON1	clust_2812
+LON3|SEQ00209	VBIBifLon156230_0209	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767351	1029655	1031463	-	1809		Type IV secretory pathway, VirD4 components	LON3	clust_2812

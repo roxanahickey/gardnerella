@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00495	VBIBifAdo136061_0495	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187257	340911	342077	+	1167		Ferric iron ABC transporter, iron-binding protein	ADO1	clust_1484
+BRE1|SEQ00279	VBIBifBre340958_0279	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602500	353850	355016	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE1	clust_1484
+BRE2|SEQ00342	VBIBifBre337368_0342	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606600	410152	411318	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE2	clust_1484
+BRE3|SEQ00331	VBIBifBre167886_0331	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192327	414452	415618	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE3	clust_1484
+BRE4|SEQ00296	VBIBifBre327712_0296	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610649	376183	377349	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE4	clust_1484
+BRE5|SEQ00319	VBIBifBre336369_0320	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614746	378260	379426	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE5	clust_1484
+BRE6|SEQ00531	VBIBifBre268992_0531	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS	177654201	7343	8509	-	1167		Ferric iron ABC transporter, iron-binding protein	BRE6	clust_1484
+BRE7|SEQ00308	VBIBifBre340732_0308	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619032	387391	388557	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE7	clust_1484
+BRE8|SEQ00334	VBIBifBre176493_0334	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623197	418889	420055	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE8	clust_1484
+BRE9|SEQ00382	VBIBifBre30019_0382	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444818	460910	462076	+	1167		Ferric iron ABC transporter, iron-binding protein	BRE9	clust_1484
+DEN1|SEQ00419	VBIBifDen165269_0420	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462125	1799859	1801016	-	1158		Ferric iron ABC transporter, iron-binding protein	DEN1	clust_1484
+DEN2|SEQ02099	VBIBifDen39005_2101	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112638	4598	5755	+	1158		Ferric iron ABC transporter, iron-binding protein	DEN2	clust_1484
+INF1|SEQ00260	VBIBifLon182273_0260	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884443	328179	329345	+	1167		Ferric iron ABC transporter, iron-binding protein	INF1	clust_1484
+LON1|SEQ01080	VBIBifLon107831_1081	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119249	1274900	1276066	-	1167		Ferric iron ABC transporter, iron-binding protein	LON1	clust_1484
+LON2|SEQ01138	VBIBifLon171405_1140	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581835	1303781	1304947	-	1167	potD	Ferric iron ABC transporter, iron-binding protein	LON2	clust_1484
+LON3|SEQ00964	VBIBifLon156230_0965	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768915	1899094	1900260	-	1167		Ferric iron ABC transporter, iron-binding protein	LON3	clust_1484
+LON4|SEQ00279	VBIBifLon48544_0279	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888784	345527	346693	+	1167		Ferric iron ABC transporter, iron-binding protein	LON4	clust_1484
+THE1|SEQ00879	VBIBifThe274299_0879	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734945	1093724	1094878	-	1155		Ferric iron ABC transporter, iron-binding protein	THE1	clust_1484

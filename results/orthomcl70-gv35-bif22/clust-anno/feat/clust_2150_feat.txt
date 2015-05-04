@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00571	VBIBifAni240121_0571	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846085	672787	673344	-	558		Ribosomal-protein-S5p-alanine acetyltransferase	ANI1	clust_2150
+ANI2|SEQ00571	VBIBifAni235968_0571	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849439	672788	673345	-	558		Ribosomal-protein-S5p-alanine acetyltransferase	ANI2	clust_2150
+ANI3|SEQ00573	VBIBifAni108068_0573	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763452	672790	673347	-	558		Ribosomal-protein-S5p-alanine acetyltransferase	ANI3	clust_2150
+BIF1|SEQ01010	VBIBifBif87902_1010	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884584	1231287	1231925	+	639		Ribosomal-protein-S5p-alanine acetyltransferase	BIF1	clust_2150
+DEN1|SEQ01353	VBIBifDen165269_1354	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459835	605469	605870	-	402		putative acetyltransferase	DEN1	clust_2150
+DEN2|SEQ00738	VBIBifDen39005_0738	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109811	129517	129918	-	402		putative acetyltransferase	DEN2	clust_2150
+GV03|SEQ00971	VBIGarVag247424_0971	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501388	328342	328902	-	561		Ribosomal-protein-S5p-alanine acetyltransferase	GV03	clust_2150
+GV07|SEQ00314	VBIGarVag249177_0314	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492245	124039	124587	+	549		Ribosomal-protein-S5p-alanine acetyltransferase	GV07	clust_2150
+LON2|SEQ00495	VBIBifLon171405_0496	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580511	565867	566439	-	573		Ribosomal-protein-S5p-alanine acetyltransferase	LON2	clust_2150

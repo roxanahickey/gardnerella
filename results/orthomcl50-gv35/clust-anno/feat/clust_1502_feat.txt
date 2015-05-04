@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00584	VBIGarVag136958_0584	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147226	748152	748532	+	381	folK	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	GV10	clust_1502
+GV12|SEQ01224	VBIGarVag144721_1224	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855278	99396	99839	+	444		2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	GV12	clust_1502
+GV15|SEQ00642	VBIGarVag249709_0642	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484829	89163	89663	+	501		2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	GV15	clust_1502
+GV17|SEQ00967	VBIGarVag146634_0967	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852022	98727	99149	-	423		2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	GV17	clust_1502
+GV33|SEQ01193	VBIGarVag265557_1193	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003319	3454	3954	-	501		2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	GV33	clust_1502
+GV34|SEQ00721	VBIGarVag270440_0721	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005061	28464	28988	+	525		2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	GV34	clust_1502

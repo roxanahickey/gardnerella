@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00297	VBIGarVag244004_0297	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489316	70406	71086	+	681		FIG00672401: hypothetical protein	GV06	clust_3679
+GV10|SEQ00466	VBIGarVag136958_0466	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146984	566869	567645	+	777		FIG00672401: hypothetical protein	GV10	clust_3679
+GV12|SEQ01041	VBIGarVag144721_1041	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854819	13300	14076	+	777		FIG00672401: hypothetical protein	GV12	clust_3679

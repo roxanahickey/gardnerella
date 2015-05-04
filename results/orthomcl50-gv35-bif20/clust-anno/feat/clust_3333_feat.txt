@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE5|SEQ01988	VBIBifBre336369_1989	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618206	2241610	2243706	-	2097		"Beta-galactosidase "	BRE5	clust_3333
+BRE6|SEQ01332	VBIBifBre268992_1332	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655897	51655	53751	-	2097		"Beta-galactosidase "	BRE6	clust_3333
+BRE9|SEQ01972	VBIBifBre30019_1972	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448118	2282200	2284296	-	2097	lacZ8	Beta-galactosidase (EC 3.2.1.23)	BRE9	clust_3333

@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV10|SEQ00836	32147746	VBIGarVag136958_0836	SEQ00836	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Translation initiation factor 2	FIG00000102	figfam	clust_3198
+GV12|SEQ00282	37853229	VBIGarVag144721_0282	SEQ00282	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Translation initiation factor 2	FIG00000102	figfam	clust_3198
+GV15|SEQ00183	85483859	VBIGarVag249709_0183	SEQ00183	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	NA	Translation initiation factor 2	FIG00000102	figfam	clust_3198
+GV17|SEQ00720	37851510	VBIGarVag146634_0720	SEQ00720	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	NA	Translation initiation factor 2	FIG00000102	figfam	clust_3198

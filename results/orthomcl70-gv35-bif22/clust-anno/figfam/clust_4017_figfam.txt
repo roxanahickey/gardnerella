@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01100	268604206	VBIBifBre340958_1100	SEQ01100	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		DNA-methyltransferase	FIG01623505	figfam	clust_4017
+DEN1|SEQ02210	43463409	VBIBifDen165269_2212	SEQ02210	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		DNA-methyltransferase	FIG01623505	figfam	clust_4017
+DEN2|SEQ00925	42110203	VBIBifDen39005_0925	SEQ00925	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		DNA-methyltransferase	FIG01623505	figfam	clust_4017

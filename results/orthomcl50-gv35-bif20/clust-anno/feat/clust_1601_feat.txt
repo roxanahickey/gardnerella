@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01242	VBIBifBif87902_1242	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885059	1490153	1490878	+	726	fic	Cell filamentation protein fic	BIF1	clust_1601
+BRE1|SEQ01153	VBIBifBre340958_1153	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604313	1353308	1354132	+	825		Cell filamentation protein fic	BRE1	clust_1601
+BRE2|SEQ01241	VBIBifBre337368_1241	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608464	1427702	1428526	+	825		Cell filamentation protein fic	BRE2	clust_1601
+BRE3|SEQ00671	VBIBifBre167886_0671	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193026	816325	817074	-	750		Cell filamentation protein fic	BRE3	clust_1601
+BRE4|SEQ01184	VBIBifBre327712_1184	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612491	1377038	1377862	+	825		Cell filamentation protein fic	BRE4	clust_1601
+BRE5|SEQ01305	VBIBifBre336369_1306	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616789	1455235	1456059	+	825		Cell filamentation protein fic	BRE5	clust_1601
+BRE6|SEQ01868	VBIBifBre268992_1868	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657048	47946	48770	+	825		Cell filamentation protein fic	BRE6	clust_1601
+BRE7|SEQ01193	VBIBifBre340732_1193	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620870	1377018	1377842	+	825		Cell filamentation protein fic	BRE7	clust_1601
+BRE8|SEQ01222	VBIBifBre176493_1222	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625038	1426313	1427137	+	825	fic	Cell filamentation protein fic	BRE8	clust_1601
+BRE9|SEQ01278	VBIBifBre30019_1278	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446679	1482594	1483343	+	750	fic	Cell filamentation protein fic	BRE9	clust_1601
+INF1|SEQ01264	VBIBifLon182273_1264	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886531	1423743	1424492	+	750		Cell filamentation protein fic	INF1	clust_1601
+LON1|SEQ00268	VBIBifLon107831_0268	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117573	319627	320376	-	750		Cell filamentation protein fic	LON1	clust_1601
+LON2|SEQ00309	VBIBifLon171405_0310	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580121	362324	363073	-	750	fic	Cell filamentation protein fic	LON2	clust_1601
+LON3|SEQ01997	VBIBifLon156230_2000	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767186	934235	935164	-	930		Cell filamentation protein fic	LON3	clust_1601
+LON4|SEQ01239	VBIBifLon48544_1239	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890820	1398338	1399087	+	750		Cell filamentation protein fic	LON4	clust_1601

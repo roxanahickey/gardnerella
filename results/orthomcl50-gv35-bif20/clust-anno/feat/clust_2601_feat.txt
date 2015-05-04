@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01524	VBIBifAdo136061_1524	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189408	185809	187599	-	1791		glycosyl transferase family 8 protein	ADO1	clust_2601
+ANI1|SEQ01374	VBIBifAni240121_1374	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847755	1623552	1624316	-	765		Glycosyltransferase (EC 2.4.1.-)	ANI1	clust_2601
+ANI2|SEQ01374	VBIBifAni235968_1374	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851108	1623770	1624534	-	765		Glycosyltransferase (EC 2.4.1.-)	ANI2	clust_2601
+ANI3|SEQ01384	VBIBifAni108068_1384	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765128	1629001	1629765	-	765		Glycosyltransferase (EC 2.4.1.-)	ANI3	clust_2601
+THE1|SEQ00354	VBIBifThe274299_0354	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733882	417171	418019	-	849		Glycosyltransferase (EC 2.4.1.-)	THE1	clust_2601

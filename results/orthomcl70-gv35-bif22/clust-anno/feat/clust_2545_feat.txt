@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01272	VBIBifBre337368_1272	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608527	1467124	1467348	-	225		Niacin transporter NiaP	BRE2	clust_2545
+BRE3|SEQ00640	VBIBifBre167886_0640	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192963	777417	777641	+	225		Niacin transporter NiaP	BRE3	clust_2545
+BRE6|SEQ01899	VBIBifBre268992_1899	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657111	87459	87683	-	225		Niacin transporter NiaP	BRE6	clust_2545
+BRE7|SEQ01224	VBIBifBre340732_1224	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620932	1416516	1416740	-	225		Niacin transporter NiaP	BRE7	clust_2545
+BRE8|SEQ01253	VBIBifBre176493_1253	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625100	1465735	1465959	-	225		Niacin transporter NiaP	BRE8	clust_2545
+BRE9|SEQ01309	VBIBifBre30019_1309	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446742	1521928	1522152	-	225		Niacin transporter NiaP	BRE9	clust_2545

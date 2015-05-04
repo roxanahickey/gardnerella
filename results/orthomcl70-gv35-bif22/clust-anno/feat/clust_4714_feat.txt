@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00172	VBIBifDen165269_0173	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461599	1525464	1526507	-	1044	srtB4	Sortase A, LPXTG specific	DEN1	clust_4714
+DEN2|SEQ01962	VBIBifDen39005_1964	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112344	194967	196001	-	1035		Sortase A, LPXTG specific	DEN2	clust_4714

@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00195	VBIBifBre337368_0195	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606293	252957	253256	-	300		hypothetical protein	BRE2	clust_3038
+BRE7|SEQ00190	VBIBifBre340732_0190	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618783	248548	248847	-	300		hypothetical protein	BRE7	clust_3038
+BRE8|SEQ00217	VBIBifBre176493_0217	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622950	280015	280644	-	630		"4'-phosphopantetheinyl transferase entD "	BRE8	clust_3038
+BRE9|SEQ00226	VBIBifBre30019_0226	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444488	295303	295602	-	300		hypothetical protein	BRE9	clust_3038

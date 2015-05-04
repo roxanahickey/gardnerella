@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00464	VBIGarVag247323_0464	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495071	203850	204449	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV01	clust_0113
+GV02|SEQ00902	VBIGarVag242669_0902	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498649	136850	137449	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV02	clust_0113
+GV03|SEQ00897	VBIGarVag247424_0897	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501237	232620	233198	+	579		Substrate-specific component RibU of riboflavin ECF transporter	GV03	clust_0113
+GV04|SEQ00988	VBIGarVag246433_0988	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481886	362663	363262	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV04	clust_0113
+GV05|SEQ00943	VBIGarVag174900_0943	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547664	646119	646415	+	297		Substrate-specific component RibU of riboflavin ECF transporter	GV05	clust_0113
+GV06|SEQ01261	VBIGarVag244004_1261	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491351	122464	123063	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV06	clust_0113
+GV07|SEQ00531	VBIGarVag249177_0531	Gardnerella vaginalis 1500E	ADES01000010	PATRIC	CDS	85492703	14161	14730	-	570		Substrate-specific component RibU of riboflavin ECF transporter	GV07	clust_0113
+GV08|SEQ00006	VBIGarVag251521_0006	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474375	8853	9452	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV08	clust_0113
+GV09|SEQ00845	VBIGarVag169280_0845	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260895	232636	233250	-	615		Substrate-specific component RibU of riboflavin ECF transporter	GV09	clust_0113
+GV10|SEQ00719	VBIGarVag136958_0719	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147508	931843	932049	+	207		Substrate-specific component RibU of riboflavin ECF transporter	GV10	clust_0113
+GV11|SEQ00169	VBIGarVag171052_0169	Gardnerella vaginalis 41V	AEJE01000008	PATRIC	CDS	52548612	12430	13044	-	615		Substrate-specific component RibU of riboflavin ECF transporter	GV11	clust_0113
+GV12|SEQ00157	VBIGarVag144721_0157	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852975	98625	99194	+	570		Substrate-specific component RibU of riboflavin ECF transporter	GV12	clust_0113
+GV13|SEQ00275	VBIGarVag244533_0275	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486496	89687	90301	+	615		Substrate-specific component RibU of riboflavin ECF transporter	GV13	clust_0113
+GV14|SEQ00994	VBIGarVag244375_0994	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503895	53824	54120	+	297		Substrate-specific component RibU of riboflavin ECF transporter	GV14	clust_0113
+GV15|SEQ00764	VBIGarVag249709_0764	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485085	245370	245939	+	570		Substrate-specific component RibU of riboflavin ECF transporter	GV15	clust_0113
+GV16|SEQ00780	VBIGarVag246379_0780	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478719	878319	878918	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV16	clust_0113
+GV17|SEQ00839	VBIGarVag146634_0839	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851753	45110	45679	-	570		Substrate-specific component RibU of riboflavin ECF transporter	GV17	clust_0113
+GV18|SEQ01097	VBIGarVag4823_1097	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42071021	24619	25233	-	615		Substrate-specific component RibU of riboflavin ECF transporter	GV18	clust_0113
+GV19|SEQ00831	VBIGarVag39333_0832	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628563	1031569	1032183	+	615		Substrate-specific component RibU of riboflavin ECF transporter	GV19	clust_0113
+GV20|SEQ00717	VBIGarVag188338_0717	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190261	869175	869774	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV20	clust_0113
+GV21|SEQ00200	VBIGarVag274454_0200	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967045	64290	64919	+	630		Substrate-specific component RibU of riboflavin ECF transporter	GV21	clust_0113
+GV22|SEQ00466	VBIGarVag276801_0467	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970361	105419	106033	-	615		Substrate-specific component RibU of riboflavin ECF transporter	GV22	clust_0113
+GV23|SEQ00664	VBIGarVag276017_0664	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973693	114840	115439	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV23	clust_0113
+GV24|SEQ00396	VBIGarVag268944_0397	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975918	64370	64969	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV24	clust_0113
+GV25|SEQ01056	VBIGarVag270495_1056	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980159	69928	70527	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV25	clust_0113
+GV26|SEQ00550	VBIGarVag272749_0550	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981892	101797	102396	-	600		Substrate-specific component RibU of riboflavin ECF transporter	GV26	clust_0113
+GV27|SEQ00388	VBIGarVag276930_0388	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984519	71170	71769	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV27	clust_0113
+GV28|SEQ00778	VBIGarVag271349_0778	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988313	67147	67758	+	612		Substrate-specific component RibU of riboflavin ECF transporter	GV28	clust_0113
+GV29|SEQ00097	VBIGarVag265473_0097	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989555	70478	71077	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV29	clust_0113
+GV30|SEQ00072	VBIGarVag267667_0072	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992183	64428	65042	+	615		Substrate-specific component RibU of riboflavin ECF transporter	GV30	clust_0113
+GV31|SEQ00270	VBIGarVag264983_0270	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995583	71173	71772	+	600		Substrate-specific component RibU of riboflavin ECF transporter	GV31	clust_0113
+GV32|SEQ01095	VBIGarVag277040_1095	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000235	7797	8417	-	621		Substrate-specific component RibU of riboflavin ECF transporter	GV32	clust_0113
+GV33|SEQ00813	VBIGarVag265557_0813	Gardnerella vaginalis JCP8481A	ATJG01000087	PATRIC	CDS	184002421	3809	4378	-	570		Substrate-specific component RibU of riboflavin ECF transporter	GV33	clust_0113
+GV34|SEQ00171	VBIGarVag270440_0171	Gardnerella vaginalis JCP8481B	ATJF01000010	PATRIC	CDS	184003853	65551	66120	+	570		Substrate-specific component RibU of riboflavin ECF transporter	GV34	clust_0113
+GV35|SEQ00051	VBIGarVag272169_0051	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006377	51808	52428	-	621		Substrate-specific component RibU of riboflavin ECF transporter	GV35	clust_0113

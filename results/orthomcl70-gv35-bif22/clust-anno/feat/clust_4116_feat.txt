@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00532	VBIBifBre337368_0532	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606991	657849	658946	-	1098		Regulatory protein, GntR:Periplasmic binding protein/LacI transcriptional regulator	BRE2	clust_4116
+BRE6|SEQ00456	VBIBifBre268992_0456	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	177654042	42279	43376	+	1098		Regulatory protein, GntR:Periplasmic binding protein/LacI transcriptional regulator	BRE6	clust_4116

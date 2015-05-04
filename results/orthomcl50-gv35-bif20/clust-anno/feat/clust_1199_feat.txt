@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00305	VBIBifAdo136061_0305	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186866	100630	101349	+	720		Zinc metalloprotease (EC 3.4.24.-)	ADO1	clust_1199
+ANI1|SEQ00015	VBIBifAni240121_0015	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844926	19968	20732	+	765		Zinc metalloprotease (EC 3.4.24.-)	ANI1	clust_1199
+ANI2|SEQ00016	VBIBifAni235968_0016	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848283	19968	20732	+	765		Zinc metalloprotease (EC 3.4.24.-)	ANI2	clust_1199
+ANI3|SEQ00016	VBIBifAni108068_0016	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762296	19968	20732	+	765		Zinc metalloprotease (EC 3.4.24.-)	ANI3	clust_1199
+BIF1|SEQ00027	VBIBifBif87902_0027	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882551	33716	34456	+	741		Zinc metalloprotease (EC 3.4.24.-)	BIF1	clust_1199
+BRE1|SEQ00024	VBIBifBre340958_0024	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268601966	28073	28738	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE1	clust_1199
+BRE2|SEQ00015	VBIBifBre337368_0015	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605918	20929	21594	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE2	clust_1199
+BRE3|SEQ00015	VBIBifBre167886_0015	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191667	20977	21642	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE3	clust_1199
+BRE4|SEQ00015	VBIBifBre327712_0015	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610061	20904	21569	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE4	clust_1199
+BRE5|SEQ00024	VBIBifBre336369_0024	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614128	28501	29166	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE5	clust_1199
+BRE6|SEQ01539	VBIBifBre268992_1539	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656343	48404	49069	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE6	clust_1199
+BRE7|SEQ00015	VBIBifBre340732_0015	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618420	20926	21591	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE7	clust_1199
+BRE8|SEQ00015	VBIBifBre176493_0015	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622533	20926	21591	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE8	clust_1199
+BRE9|SEQ00015	VBIBifBre30019_0015	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444049	20927	21592	+	666		Zinc metalloprotease (EC 3.4.24.-)	BRE9	clust_1199
+INF1|SEQ00019	VBIBifLon182273_0019	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883939	24948	25754	+	807		Zinc metalloprotease (EC 3.4.24.-)	INF1	clust_1199
+LON1|SEQ01355	VBIBifLon107831_1356	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119819	1603777	1604583	-	807		Zinc metalloprotease (EC 3.4.24.-)	LON1	clust_1199
+LON2|SEQ01394	VBIBifLon171405_1397	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582368	1616382	1617188	-	807		Zinc metalloprotease (EC 3.4.24.-)	LON2	clust_1199
+LON3|SEQ01473	VBIBifLon156230_1476	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769561	2260224	2261030	-	807		Zinc metalloprotease (EC 3.4.24.-)	LON3	clust_1199
+LON4|SEQ00022	VBIBifLon48544_0022	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888247	26380	27186	+	807		Zinc metalloprotease (EC 3.4.24.-)	LON4	clust_1199
+THE1|SEQ00013	VBIBifThe274299_0013	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733185	18877	19632	+	756		Zinc metalloprotease (EC 3.4.24.-)	THE1	clust_1199

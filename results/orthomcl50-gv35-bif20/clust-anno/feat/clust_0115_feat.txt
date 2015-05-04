@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00452	VBIGarVag247323_0452	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495047	187828	188247	+	420		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV01	clust_0115
+GV02|SEQ00914	VBIGarVag242669_0914	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498673	153047	153466	-	420		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV02	clust_0115
+GV03|SEQ00912	VBIGarVag247424_0912	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501267	251763	252167	-	405		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV03	clust_0115
+GV04|SEQ00976	VBIGarVag246433_0976	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481862	346427	346843	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV04	clust_0115
+GV05|SEQ00959	VBIGarVag174900_0959	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547696	664994	665398	-	405		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV05	clust_0115
+GV06|SEQ01276	VBIGarVag244004_1276	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491381	142221	142637	-	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV06	clust_0115
+GV07|SEQ01007	VBIGarVag249177_1007	Gardnerella vaginalis 1500E	ADES01000019	PATRIC	CDS	85493699	22594	22998	+	405		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV07	clust_0115
+GV08|SEQ00918	VBIGarVag251521_0918	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476270	98806	99222	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV08	clust_0115
+GV09|SEQ00833	VBIGarVag169280_0833	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260871	216381	216797	+	417	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV09	clust_0115
+GV10|SEQ00730	VBIGarVag136958_0730	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147530	947501	947875	-	375	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV10	clust_0115
+GV11|SEQ00123	VBIGarVag171052_0123	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548515	6651	7067	-	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV11	clust_0115
+GV12|SEQ00169	VBIGarVag144721_0169	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852999	114680	115081	-	402		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV12	clust_0115
+GV13|SEQ00287	VBIGarVag244533_0287	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486520	106016	106405	-	390		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV13	clust_0115
+GV14|SEQ01012	VBIGarVag244375_1012	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503932	75697	76128	-	432		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV14	clust_0115
+GV15|SEQ00779	VBIGarVag249709_0779	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485115	264554	264952	-	399		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV15	clust_0115
+GV16|SEQ00768	VBIGarVag246379_0768	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478695	862082	862498	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV16	clust_0115
+GV17|SEQ00825	VBIGarVag146634_0825	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851725	26098	26496	+	399		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV17	clust_0115
+GV18|SEQ01086	VBIGarVag4823_1086	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42070999	10223	10639	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV18	clust_0115
+GV19|SEQ00843	VBIGarVag39333_0844	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628587	1048018	1048434	-	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV19	clust_0115
+GV20|SEQ00704	VBIGarVag188338_0704	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190234	852927	853343	+	417	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV20	clust_0115
+GV21|SEQ00067	VBIGarVag274454_0067	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966770	80456	80872	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV21	clust_0115
+GV22|SEQ00454	VBIGarVag276801_0455	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970337	89185	89601	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV22	clust_0115
+GV23|SEQ00652	VBIGarVag276017_0652	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973669	98790	99218	+	429		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV23	clust_0115
+GV24|SEQ00408	VBIGarVag268944_0409	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975942	80787	81203	-	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV24	clust_0115
+GV25|SEQ01068	VBIGarVag270495_1068	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980183	86139	86564	-	426		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV25	clust_0115
+GV26|SEQ00538	VBIGarVag272749_0538	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981868	85799	86218	+	420		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV26	clust_0115
+GV27|SEQ00400	VBIGarVag276930_0400	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984543	87348	87767	-	420		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV27	clust_0115
+GV28|SEQ00790	VBIGarVag271349_0790	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988337	83353	83781	-	429		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV28	clust_0115
+GV29|SEQ00109	VBIGarVag265473_0109	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989579	86654	87079	-	426		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV29	clust_0115
+GV30|SEQ00084	VBIGarVag267667_0084	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992207	80722	81138	-	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV30	clust_0115
+GV31|SEQ00282	VBIGarVag264983_0282	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995607	87355	87780	-	426		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV31	clust_0115
+GV32|SEQ01080	VBIGarVag277040_1080	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000204	64288	64713	+	426		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV32	clust_0115
+GV33|SEQ00510	VBIGarVag265557_0510	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	184001757	18383	18814	+	432		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV33	clust_0115
+GV34|SEQ00187	VBIGarVag270440_0187	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	184003886	17839	18270	-	432		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV34	clust_0115
+GV35|SEQ00039	VBIGarVag272169_0039	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006353	35790	36206	+	417		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	GV35	clust_0115
+ADO1|SEQ01153	VBIBifAdo136061_1153	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188641	69118	69495	-	378		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	ADO1	clust_0115
+ANI1|SEQ00814	VBIBifAni240121_0814	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846589	947719	948159	-	441		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	ANI1	clust_0115
+ANI2|SEQ00813	VBIBifAni235968_0813	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849940	947722	948162	-	441		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	ANI2	clust_0115
+ANI3|SEQ00816	VBIBifAni108068_0816	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763954	947724	948164	-	441		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	ANI3	clust_0115
+BIF1|SEQ00924	VBIBifBif87902_0924	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884400	1126438	1126863	-	426	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BIF1	clust_0115
+BRE1|SEQ00961	VBIBifBre340958_0961	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603919	1143762	1144208	+	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE1	clust_0115
+BRE2|SEQ01055	VBIBifBre337368_1055	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608081	1239027	1239473	+	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE2	clust_0115
+BRE3|SEQ00825	VBIBifBre167886_0825	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193348	980227	980673	-	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE3	clust_0115
+BRE4|SEQ00998	VBIBifBre327712_0998	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612102	1159444	1159890	-	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE4	clust_0115
+BRE5|SEQ01108	VBIBifBre336369_1109	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616384	1250757	1251203	+	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE5	clust_0115
+BRE6|SEQ01710	VBIBifBre268992_1710	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656719	6314	6760	+	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE6	clust_0115
+BRE7|SEQ01005	VBIBifBre340732_1005	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620482	1184752	1185198	+	447		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE7	clust_0115
+BRE8|SEQ01025	VBIBifBre176493_1025	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624630	1221116	1221562	+	447	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE8	clust_0115
+BRE9|SEQ01090	VBIBifBre30019_1090	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446292	1284253	1284699	+	447	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	BRE9	clust_0115
+INF1|SEQ01048	VBIBifLon182273_1048	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886082	1197582	1198019	-	438		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	INF1	clust_0115
+LON1|SEQ00427	VBIBifLon107831_0427	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117907	510263	510697	+	435		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	LON1	clust_0115
+LON2|SEQ00433	VBIBifLon171405_0434	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580384	507435	507872	+	438	yajC	Preprotein translocase subunit YajC (TC 3.A.5.1.1)	LON2	clust_0115
+LON3|SEQ00290	VBIBifLon156230_0290	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767525	1122762	1123199	+	438		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	LON3	clust_0115
+LON4|SEQ01128	VBIBifLon48544_1128	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890580	1264379	1264816	-	438		Preprotein translocase subunit YajC (TC 3.A.5.1.1)	LON4	clust_0115
+THE1|SEQ01045	VBIBifThe274299_1045	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735290	1302771	1303277	-	507		hypothetical protein	THE1	clust_0115

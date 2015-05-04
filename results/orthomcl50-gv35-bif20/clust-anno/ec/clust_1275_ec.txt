@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+ADO1|SEQ01746	27189863	VBIBifAdo136061_1746	SEQ01746	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	NA	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	3.6.3.40	Teichoic-acid-transporting ATPase	ec	clust_1275
+BRE7|SEQ00858	268620173	VBIBifBre340732_0858	SEQ00858	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	NA	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	3.6.3.40	Teichoic-acid-transporting ATPase	ec	clust_1275
+THE1|SEQ00934	124735062	VBIBifThe274299_0934	SEQ00934	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	3.6.3.40	Teichoic-acid-transporting ATPase	ec	clust_1275

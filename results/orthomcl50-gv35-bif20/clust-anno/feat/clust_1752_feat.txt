@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00393	VBIGarVag244004_0393	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489529	64708	65355	-	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV06	clust_1752
+GV09|SEQ01259	VBIGarVag169280_1259	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261761	123671	124318	+	648	pgmB	Beta-phosphoglucomutase (EC 5.4.2.6)	GV09	clust_1752
+GV13|SEQ00402	VBIGarVag244533_0402	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486763	42471	43118	-	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV13	clust_1752
+GV16|SEQ00382	VBIGarVag246379_0382	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477898	347071	347718	+	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV16	clust_1752
+GV18|SEQ00251	VBIGarVag4823_0251	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069205	4815	5462	+	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV18	clust_1752
+GV19|SEQ01227	VBIGarVag39333_1229	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629377	1548746	1549393	-	648	yvdM	Beta-phosphoglucomutase (EC 5.4.2.6)	GV19	clust_1752
+GV20|SEQ00267	VBIGarVag188338_0267	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189335	302273	302920	+	648	pgmB	Beta-phosphoglucomutase (EC 5.4.2.6)	GV20	clust_1752
+GV30|SEQ00015	VBIGarVag267667_0015	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992066	18362	19009	-	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV30	clust_1752
+BRE3|SEQ01721	VBIBifBre167886_1721	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195216	1997889	1998530	-	642	pgmB	Beta-phosphoglucomutase (EC 5.4.2.6)	BRE3	clust_1752
+BRE7|SEQ01750	VBIBifBre340732_1750	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622023	2009251	2009892	-	642		Beta-phosphoglucomutase (EC 5.4.2.6)	BRE7	clust_1752
+BRE8|SEQ01706	VBIBifBre176493_1706	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626047	1982721	1983362	-	642		Beta-phosphoglucomutase (EC 5.4.2.6)	BRE8	clust_1752
+BRE9|SEQ01814	VBIBifBre30019_1814	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447791	2086697	2087338	-	642		Beta-phosphoglucomutase (EC 5.4.2.6)	BRE9	clust_1752
+INF1|SEQ00290	VBIBifLon182273_0290	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884509	366459	367100	+	642		Beta-phosphoglucomutase (EC 5.4.2.6)	INF1	clust_1752

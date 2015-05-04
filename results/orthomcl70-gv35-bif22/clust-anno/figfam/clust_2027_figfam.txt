@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00390	268602729	VBIBifBre340958_0390	SEQ00390	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+BRE3|SEQ00451	54192575	VBIBifBre167886_0451	SEQ00451	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+BRE5|SEQ00431	268614977	VBIBifBre336369_0432	SEQ00431	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+INF1|SEQ01132	46886260	VBIBifLon182273_1132	SEQ01132	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+LON1|SEQ00400	21117843	VBIBifLon107831_0400	SEQ00400	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+LON2|SEQ00406	42580320	VBIBifLon171405_0407	SEQ00406	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+LON3|SEQ00263	42767461	VBIBifLon156230_0263	SEQ00263	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+LON3|SEQ00829	42768632	VBIBifLon156230_0829	SEQ00829	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027
+LON4|SEQ01155	46890644	VBIBifLon48544_1155	SEQ01155	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00426379: hypothetical protein	FIG01600953	figfam	clust_2027

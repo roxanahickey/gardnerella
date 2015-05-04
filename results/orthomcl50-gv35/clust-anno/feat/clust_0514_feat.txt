@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01040	VBIGarVag247323_1040	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496278	37444	38592	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV01	clust_0514
+GV02|SEQ00403	VBIGarVag242669_0403	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497585	214306	215454	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV02	clust_0514
+GV03|SEQ00509	VBIGarVag247424_0509	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500425	63167	64315	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV03	clust_0514
+GV04|SEQ00703	VBIGarVag246433_0703	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481302	31852	33000	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV04	clust_0514
+GV05|SEQ00532	VBIGarVag174900_0532	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546808	124522	125670	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV05	clust_0514
+GV06|SEQ00998	VBIGarVag244004_0998	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490809	30228	31376	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV06	clust_0514
+GV07|SEQ00881	VBIGarVag249177_0881	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493433	155823	156971	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV07	clust_0514
+GV08|SEQ00832	VBIGarVag251521_0832	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476093	194987	196135	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV08	clust_0514
+GV09|SEQ00278	VBIGarVag169280_0278	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259722	103952	105100	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV09	clust_0514
+GV10|SEQ00296	VBIGarVag136958_0296	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146624	346328	347428	+	1101		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV10	clust_0514
+GV11|SEQ00999	VBIGarVag171052_0999	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550379	15788	16936	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV11	clust_0514
+GV12|SEQ00839	VBIGarVag144721_0839	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854393	383259	384407	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV12	clust_0514
+GV13|SEQ00480	VBIGarVag244533_0480	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486923	72818	73966	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV13	clust_0514
+GV14|SEQ00817	VBIGarVag244375_0817	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503523	8912	10060	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV14	clust_0514
+GV15|SEQ00373	VBIGarVag249709_0373	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484265	103396	104544	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV15	clust_0514
+GV16|SEQ00479	VBIGarVag246379_0479	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478102	518977	520125	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV16	clust_0514
+GV17|SEQ00295	VBIGarVag146634_0295	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850607	275721	276869	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV17	clust_0514
+GV18|SEQ01250	VBIGarVag4823_1250	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071341	24094	25242	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV18	clust_0514
+GV19|SEQ01127	VBIGarVag39333_1129	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629167	1371096	1371338	-	243		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV19	clust_0514
+GV20|SEQ00381	VBIGarVag188338_0381	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189573	484472	485620	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV20	clust_0514
+GV21|SEQ00983	VBIGarVag274454_0984	Gardnerella vaginalis JCP7275	ATJS01000089	PATRIC	CDS	183968752	3035	3193	-	159		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV21	clust_0514
+GV22|SEQ00997	VBIGarVag276801_0998	Gardnerella vaginalis JCP7276	ATJR01000074	PATRIC	CDS	183971509	3418	4566	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV22	clust_0514
+GV23|SEQ00815	VBIGarVag276017_0815	Gardnerella vaginalis JCP7659	ATJQ01000063	PATRIC	CDS	183974030	3511	4344	-	834		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV23	clust_0514
+GV24|SEQ00852	VBIGarVag268944_0853	Gardnerella vaginalis JCP7672	ATJP01000078	PATRIC	CDS	183976917	2737	3885	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV24	clust_0514
+GV25|SEQ00027	VBIGarVag270495_0027	Gardnerella vaginalis JCP7719	ATJO01000002	PATRIC	CDS	183977912	3222	4028	-	807		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV25	clust_0514
+GV26|SEQ00907	VBIGarVag272749_0907	Gardnerella vaginalis JCP8017A	ATJN01000053	PATRIC	CDS	183982664	3515	4615	-	1101		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV26	clust_0514
+GV27|SEQ01166	VBIGarVag276930_1166	Gardnerella vaginalis JCP8017B	ATJM01000119	PATRIC	CDS	183986218	1283	2431	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV27	clust_0514
+GV28|SEQ01191	VBIGarVag271349_1191	Gardnerella vaginalis JCP8066	ATJL01000181	PATRIC	CDS	183989293	2523	3623	-	1101		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV28	clust_0514
+GV29|SEQ01147	VBIGarVag265473_1147	Gardnerella vaginalis JCP8070	ATJK01000138	PATRIC	CDS	183991872	1185	2333	+	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV29	clust_0514
+GV30|SEQ00917	VBIGarVag267667_0919	Gardnerella vaginalis JCP8108	ATJJ01000073	PATRIC	CDS	183994011	3416	3625	-	210		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV30	clust_0514
+GV31|SEQ01030	VBIGarVag264983_1030	Gardnerella vaginalis JCP8151A	ATJI01000089	PATRIC	CDS	183997229	2450	3598	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV31	clust_0514
+GV32|SEQ01146	VBIGarVag277040_1146	Gardnerella vaginalis JCP8151B	ATJH01000143	PATRIC	CDS	184000340	5	1153	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV32	clust_0514
+GV33|SEQ00256	VBIGarVag265557_0256	Gardnerella vaginalis JCP8481A	ATJG01000022	PATRIC	CDS	184001212	3224	4372	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV33	clust_0514
+GV34|SEQ00232	VBIGarVag270440_0232	Gardnerella vaginalis JCP8481B	ATJF01000015	PATRIC	CDS	184003990	2968	4116	-	1149		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV34	clust_0514
+GV35|SEQ00424	VBIGarVag272169_0424	Gardnerella vaginalis JCP8522	ATJE01000023	PATRIC	CDS	184007161	1244	2368	+	1125		Pseudouridine kinase, ribokinase/adenosine kinase/pfkB family	GV35	clust_0514

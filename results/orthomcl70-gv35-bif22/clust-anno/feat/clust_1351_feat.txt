@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00159	VBIBifAdo136061_0159	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186534	98653	99114	-	462		COG family: ribosomal protein L11	ADO1	clust_1351
+ANI1|SEQ01361	VBIBifAni240121_1361	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847729	1607940	1608389	-	450		hypothetical protein	ANI1	clust_1351
+ANI2|SEQ01361	VBIBifAni235968_1361	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851082	1608158	1608607	-	450		hypothetical protein	ANI2	clust_1351
+ANI3|SEQ01371	VBIBifAni108068_1371	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765102	1613389	1613838	-	450		hypothetical protein	ANI3	clust_1351
+BRE1|SEQ00401	VBIBifBre340958_0401	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602755	497317	497751	-	435		COG family: ribosomal protein L11	BRE1	clust_1351
+BRE2|SEQ00458	VBIBifBre337368_0458	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606840	553250	553480	-	231		COG family: ribosomal protein L11	BRE2	clust_1351
+BRE3|SEQ01403	VBIBifBre167886_1403	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194548	1640037	1640471	+	435		COG family: ribosomal protein L11	BRE3	clust_1351
+BRE4|SEQ00423	VBIBifBre327712_0423	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610914	529291	529725	-	435		COG family: ribosomal protein L11	BRE4	clust_1351
+BRE5|SEQ00434	VBIBifBre336369_0435	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614983	510941	511171	-	231		COG family: ribosomal protein L11	BRE5	clust_1351
+BRE6|SEQ01419	VBIBifBre268992_1419	Bifidobacterium breve JCP7499	AWSX01000069	PATRIC	CDS	177656089	6104	6538	+	435		COG family: ribosomal protein L11	BRE6	clust_1351
+BRE7|SEQ00431	VBIBifBre340732_0431	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619287	530788	531222	-	435		COG family: ribosomal protein L11	BRE7	clust_1351
+BRE8|SEQ00463	VBIBifBre176493_0463	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623463	574822	575052	-	231		COG family: ribosomal protein L11	BRE8	clust_1351
+BRE9|SEQ00517	VBIBifBre30019_0517	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445097	624485	624715	-	231		COG family: ribosomal protein L11	BRE9	clust_1351
+DEN1|SEQ00963	VBIBifDen165269_0964	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459049	104469	104879	+	411		hypothetical protein	DEN1	clust_1351
+DEN2|SEQ01504	VBIBifDen39005_1505	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111397	120847	121257	-	411		hypothetical protein	DEN2	clust_1351
+INF1|SEQ00405	VBIBifLon182273_0405	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884748	505194	505628	-	435		COG family: ribosomal protein L11	INF1	clust_1351
+LON1|SEQ00945	VBIBifLon107831_0946	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118967	1116748	1116978	+	231		COG family: ribosomal protein L11	LON1	clust_1351
+LON2|SEQ01028	VBIBifLon171405_1029	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581603	1168334	1168768	+	435		COG family: ribosomal protein L11	LON2	clust_1351
+LON3|SEQ00818	VBIBifLon156230_0818	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768610	1731877	1732311	+	435		COG family: ribosomal protein L11	LON3	clust_1351
+LON4|SEQ00389	VBIBifLon48544_0389	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889016	480752	481186	-	435		COG family: ribosomal protein L11	LON4	clust_1351
+THE1|SEQ00395	VBIBifThe274299_0395	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733965	477328	477783	-	456		hypothetical protein	THE1	clust_1351

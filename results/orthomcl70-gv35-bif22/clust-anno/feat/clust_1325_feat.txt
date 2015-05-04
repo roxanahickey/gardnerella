@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01972	VBIBifAdo136061_1972	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190327	528464	529333	-	870		Predicted glutamine amidotransferase	ADO1	clust_1325
+ANI1|SEQ01510	VBIBifAni240121_1510	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848041	1805235	1806104	-	870		Predicted glutamine amidotransferase	ANI1	clust_1325
+ANI2|SEQ01508	VBIBifAni235968_1508	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851390	1805455	1806324	-	870		Predicted glutamine amidotransferase	ANI2	clust_1325
+ANI3|SEQ01519	VBIBifAni108068_1519	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765412	1810686	1811588	-	903		Predicted glutamine amidotransferase	ANI3	clust_1325
+BIF1|SEQ01760	VBIBifBif87902_1760	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886144	2117860	2118726	-	867		Predicted glutamine amidotransferase	BIF1	clust_1325
+BRE1|SEQ01788	VBIBifBre340958_1789	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605635	2090592	2091452	-	861		Predicted glutamine amidotransferase	BRE1	clust_1325
+BRE2|SEQ01891	VBIBifBre337368_1891	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609816	2193340	2194200	-	861		Predicted glutamine amidotransferase	BRE2	clust_1325
+BRE3|SEQ01853	VBIBifBre167886_1853	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195489	2160719	2161621	-	903		Predicted glutamine amidotransferase	BRE3	clust_1325
+BRE4|SEQ01832	VBIBifBre327712_1832	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613840	2126957	2127859	-	903		Predicted glutamine amidotransferase	BRE4	clust_1325
+BRE5|SEQ01955	VBIBifBre336369_1956	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618138	2203196	2204056	-	861		Predicted glutamine amidotransferase	BRE5	clust_1325
+BRE6|SEQ01300	VBIBifBre268992_1300	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655831	14408	15310	-	903		Predicted glutamine amidotransferase	BRE6	clust_1325
+BRE7|SEQ01878	VBIBifBre340732_1878	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622288	2167295	2168155	-	861		Predicted glutamine amidotransferase	BRE7	clust_1325
+BRE8|SEQ01840	VBIBifBre176493_1840	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626325	2145132	2145980	-	849		Predicted glutamine amidotransferase	BRE8	clust_1325
+BRE9|SEQ01939	VBIBifBre30019_1939	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448050	2243858	2244664	-	807		Predicted glutamine amidotransferase	BRE9	clust_1325
+DEN1|SEQ00885	VBIBifDen165269_0886	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463078	2426751	2427659	+	909		Predicted glutamine amidotransferase	DEN1	clust_1325
+DEN2|SEQ00293	VBIBifDen39005_0293	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108909	4072	4980	-	909		Predicted glutamine amidotransferase	DEN2	clust_1325
+INF1|SEQ01928	VBIBifLon182273_1928	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887914	2214688	2215548	-	861		Predicted glutamine amidotransferase	INF1	clust_1325
+LON1|SEQ01495	VBIBifLon107831_1496	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120120	1811196	1812056	+	861		Predicted glutamine amidotransferase	LON1	clust_1325
+LON2|SEQ01526	VBIBifLon171405_1529	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582647	1827606	1828466	+	861		Predicted glutamine amidotransferase	LON2	clust_1325
+LON3|SEQ01812	VBIBifLon156230_1815	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766813	690560	691420	-	861		Predicted glutamine amidotransferase	LON3	clust_1325
+LON4|SEQ01880	VBIBifLon48544_1880	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892163	2181363	2182223	-	861		Predicted glutamine amidotransferase	LON4	clust_1325
+THE1|SEQ01646	VBIBifThe274299_1646	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736559	2041019	2041888	-	870		Predicted glutamine amidotransferase	THE1	clust_1325

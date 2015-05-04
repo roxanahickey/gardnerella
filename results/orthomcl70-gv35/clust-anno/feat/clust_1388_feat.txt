@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00392	VBIGarVag244004_0392	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489527	61677	64694	-	3018	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV06	clust_1388
+GV09|SEQ01260	VBIGarVag169280_1260	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261763	124530	127349	+	2820		Evolved beta-D-galactosidase, alpha subunit	GV09	clust_1388
+GV13|SEQ00401	VBIGarVag244533_0401	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486761	39440	42457	-	3018	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV13	clust_1388
+GV16|SEQ00383	VBIGarVag246379_0383	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477900	347732	350749	+	3018	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV16	clust_1388
+GV18|SEQ00252	VBIGarVag4823_0252	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069207	5674	8493	+	2820	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV18	clust_1388
+GV19|SEQ01226	VBIGarVag39333_1228	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629375	1545715	1548534	-	2820	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV19	clust_1388
+GV20|SEQ00268	VBIGarVag188338_0268	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189337	303132	305951	+	2820		Evolved beta-D-galactosidase, alpha subunit	GV20	clust_1388
+GV30|SEQ00014	VBIGarVag267667_0014	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992064	15331	18348	-	3018		Evolved beta-D-galactosidase, alpha subunit	GV30	clust_1388

@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV05|SEQ00490	VBIGarVag174900_0490	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546724	59860	61383	+	1524		Cytosine/purine/uracil/thiamine/allantoin permease family protein	GV05	clust_1585
+GV10|SEQ00269	VBIGarVag136958_0269	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146570	312525	314048	+	1524		Cytosine/purine/uracil/thiamine/allantoin permease family protein	GV10	clust_1585
+GV12|SEQ00810	VBIGarVag144721_0810	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854335	349587	350798	+	1212		Cytosine/purine/uracil/thiamine/allantoin permease family protein	GV12	clust_1585
+GV33|SEQ00528	VBIGarVag265557_0528	Gardnerella vaginalis JCP8481A	ATJG01000048	PATRIC	CDS	184001795	3319	4821	-	1503		Cytosine/purine/uracil/thiamine/allantoin permease family protein	GV33	clust_1585
+GV34|SEQ00548	VBIGarVag270440_0548	Gardnerella vaginalis JCP8481B	ATJF01000049	PATRIC	CDS	184004687	3319	4821	-	1503		Cytosine/purine/uracil/thiamine/allantoin permease family protein	GV34	clust_1585

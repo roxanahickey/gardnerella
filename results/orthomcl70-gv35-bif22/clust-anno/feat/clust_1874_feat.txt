@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00824	VBIBifAdo136061_0824	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187956	712477	713148	-	672		Histone acetyltransferase HPA2 and related acetyltransferases	ADO1	clust_1874
+ANI1|SEQ01268	VBIBifAni240121_1268	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847530	1469389	1470057	+	669		Histone acetyltransferase HPA2 and related acetyltransferases	ANI1	clust_1874
+ANI2|SEQ01268	VBIBifAni235968_1268	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850883	1469394	1470062	+	669		Histone acetyltransferase HPA2 and related acetyltransferases	ANI2	clust_1874
+ANI3|SEQ01277	VBIBifAni108068_1277	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764902	1474840	1475508	+	669		Histone acetyltransferase HPA2 and related acetyltransferases	ANI3	clust_1874
+DEN1|SEQ00064	VBIBifDen165269_0064	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461373	1401051	1401908	+	858		hypothetical protein	DEN1	clust_1874
+DEN2|SEQ01850	VBIBifDen39005_1851	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112106	70550	71407	+	858		hypothetical protein	DEN2	clust_1874
+INF1|SEQ01391	VBIBifLon182273_1391	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886792	1583629	1584129	-	501		Histone acetyltransferase HPA2 and related acetyltransferases	INF1	clust_1874
+LON1|SEQ00140	VBIBifLon107831_0140	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117309	158126	158626	+	501		Histone acetyltransferase HPA2 and related acetyltransferases	LON1	clust_1874
+LON2|SEQ00185	VBIBifLon171405_0186	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579867	202349	202849	+	501		Histone acetyltransferase HPA2 and related acetyltransferases	LON2	clust_1874
+LON3|SEQ00001	VBIBifLon156230_0001	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765625	5906	6406	-	501		Histone acetyltransferase HPA2 and related acetyltransferases	LON3	clust_1874
+LON4|SEQ01355	VBIBifLon48544_1355	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891061	1540476	1540976	-	501		Histone acetyltransferase HPA2 and related acetyltransferases	LON4	clust_1874
+THE1|SEQ00937	VBIBifThe274299_0937	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735068	1173603	1174163	+	561		acetyltransferase (GNAT) family protein	THE1	clust_1874

@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00211	VBIBifBif87902_0211	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882935	261680	263932	+	2253		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BIF1	clust_1520
+BIF1|SEQ00970	VBIBifBif87902_0970	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884502	1181143	1183398	-	2256		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BIF1	clust_1520
+BRE1|SEQ01545	VBIBifBre340958_1546	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605125	1818501	1820753	-	2253		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE1	clust_1520
+BRE2|SEQ01654	VBIBifBre337368_1654	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609319	1921077	1923329	-	2253		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE2	clust_1520
+BRE3|SEQ01607	VBIBifBre167886_1607	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194975	1878262	1880514	-	2253	gnpA	Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE3	clust_1520
+BRE4|SEQ01586	VBIBifBre327712_1586	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613323	1853385	1855637	-	2253		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE4	clust_1520
+BRE5|SEQ01709	VBIBifBre336369_1710	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617623	1924002	1926254	-	2253		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE5	clust_1520
+BRE6|SEQ02018	VBIBifBre268992_2018	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657356	40129	40701	-	573		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE6	clust_1520
+BRE7|SEQ01641	VBIBifBre340732_1641	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621791	1895873	1898125	-	2253		Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE7	clust_1520
+BRE8|SEQ01592	VBIBifBre176493_1592	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625805	1863039	1865291	-	2253	lnbP	Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE8	clust_1520
+BRE9|SEQ01705	VBIBifBre30019_1705	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447559	1973313	1975565	-	2253	lnbP	Lacto-N-biose phosphorylase (EC 2.4.1.211)	BRE9	clust_1520
+INF1|SEQ01729	VBIBifLon182273_1729	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887489	1974229	1976484	-	2256		Lacto-N-biose phosphorylase (EC 2.4.1.211)	INF1	clust_1520
+LON1|SEQ01695	VBIBifLon107831_1696	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120542	2051545	2053800	+	2256		Lacto-N-biose phosphorylase (EC 2.4.1.211)	LON1	clust_1520
+LON2|SEQ01729	VBIBifLon171405_1732	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583075	2075555	2077810	+	2256		Lacto-N-biose phosphorylase (EC 2.4.1.211)	LON2	clust_1520
+LON3|SEQ01596	VBIBifLon156230_1599	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766362	433744	435999	-	2256		Lacto-N-biose phosphorylase (EC 2.4.1.211)	LON3	clust_1520
+LON4|SEQ01679	VBIBifLon48544_1679	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891734	1933972	1936227	-	2256		Lacto-N-biose phosphorylase (EC 2.4.1.211)	LON4	clust_1520

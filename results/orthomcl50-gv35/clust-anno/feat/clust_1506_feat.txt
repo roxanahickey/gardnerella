@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00386	VBIGarVag244004_0386	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489515	54425	55453	-	1029		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV06	clust_1506
+GV16|SEQ00389	VBIGarVag246379_0389	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477912	357050	357988	+	939		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV16	clust_1506
+GV18|SEQ00073	VBIGarVag4823_0073	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000039	PATRIC	CDS	42068809	1952	2980	-	1029		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV18	clust_1506
+GV19|SEQ01220	VBIGarVag39333_1222	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629363	1538476	1539504	-	1029		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV19	clust_1506
+GV20|SEQ00274	VBIGarVag188338_0274	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189349	312162	313190	+	1029		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV20	clust_1506
+GV30|SEQ00008	VBIGarVag267667_0008	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992052	8079	9107	-	1029		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV30	clust_1506

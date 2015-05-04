@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01728	VBIBifBif87902_1728	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886079	2081814	2083358	-	1545	pknB	serine_threonine protein kinase	BIF1	clust_2745
+GV03|SEQ00822	VBIGarVag247424_0822	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501077	135809	137560	-	1752		serine_threonine protein kinase	GV03	clust_2745
+GV07|SEQ00626	VBIGarVag249177_0626	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492903	136895	138646	-	1752		serine_threonine protein kinase	GV07	clust_2745
+GV15|SEQ00674	VBIGarVag249709_0674	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484895	135444	137198	-	1755		hypothetical protein	GV15	clust_2745
+GV17|SEQ00936	VBIGarVag146634_0936	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851958	56958	58712	+	1755		hypothetical protein	GV17	clust_2745

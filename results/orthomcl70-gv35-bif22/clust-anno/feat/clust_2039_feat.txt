@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01439	VBIBifAdo136061_1439	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189234	107713	109098	-	1386		hypothetical protein	ADO1	clust_2039
+BRE6|SEQ01022	VBIBifBre268992_1022	Bifidobacterium breve JCP7499	AWSX01000053	PATRIC	CDS	177655249	9433	10896	+	1464		hypothetical protein	BRE6	clust_2039
+DEN1|SEQ01701	VBIBifDen165269_1702	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460557	1007419	1008888	-	1470		hypothetical protein	DEN1	clust_2039
+DEN2|SEQ00501	VBIBifDen39005_0501	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109330	133393	134862	+	1470		hypothetical protein	DEN2	clust_2039
+GV09|SEQ00361	VBIGarVag169280_0361	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259889	61723	63114	-	1392		phage-related terminase	GV09	clust_2039
+GV26|SEQ00068	VBIGarVag272749_0068	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980871	13374	14810	-	1437		hypothetical protein	GV26	clust_2039
+GV27|SEQ00076	VBIGarVag276930_0076	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983863	47514	48812	+	1299		hypothetical protein	GV27	clust_2039
+GV31|SEQ00971	VBIGarVag264983_0971	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	183997093	11436	12872	-	1437		hypothetical protein	GV31	clust_2039
+GV32|SEQ00770	VBIGarVag277040_0770	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	183999471	476	1912	+	1437		hypothetical protein	GV32	clust_2039
+LON3|SEQ01211	VBIBifLon156230_1213	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769017	1943800	1945233	-	1434		hypothetical protein	LON3	clust_2039

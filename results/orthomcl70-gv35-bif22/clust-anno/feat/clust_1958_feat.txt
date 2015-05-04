@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00956	VBIBifAni240121_0956	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846888	1101005	1102924	-	1920	tetW	Tetracycline resistance protein TetW	ANI1	clust_1958
+ANI2|SEQ00956	VBIBifAni235968_0956	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850241	1101008	1102927	-	1920	tetW	Tetracycline resistance protein TetW	ANI2	clust_1958
+ANI3|SEQ00960	VBIBifAni108068_0960	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764255	1101009	1102928	-	1920		Tetracycline resistance protein TetW	ANI3	clust_1958
+BRE1|SEQ01064	VBIBifBre340958_1064	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604133	1245292	1247211	-	1920		Tetracycline resistance protein TetW	BRE1	clust_1958
+BRE6|SEQ00290	VBIBifBre268992_0290	Bifidobacterium breve JCP7499	AWSX01000015	PATRIC	CDS	177653692	57	1976	-	1920		Tetracycline resistance protein TetW	BRE6	clust_1958
+GV09|SEQ00202	VBIGarVag169280_0202	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259567	19929	21848	-	1920		Tetracycline resistance protein TetM	GV09	clust_1958
+GV21|SEQ00361	VBIGarVag274454_0361	Gardnerella vaginalis JCP7275	ATJS01000015	PATRIC	CDS	183967380	2364	4283	-	1920		Tetracycline resistance protein TetM	GV21	clust_1958
+GV31|SEQ01118	VBIGarVag264983_1118	Gardnerella vaginalis JCP8151A	ATJI01000117	PATRIC	CDS	183997449	2824	4743	+	1920		Tetracycline resistance protein TetM	GV31	clust_1958
+LON2|SEQ00805	VBIBifLon171405_0806	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581152	906458	908377	-	1920		Tetracycline resistance protein TetW	LON2	clust_1958
+LON3|SEQ00494	VBIBifLon156230_0494	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767940	1331763	1333682	-	1920		Tetracycline resistance protein TetW	LON3	clust_1958
+THE1|SEQ00061	VBIBifThe274299_0061	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733283	77488	79407	-	1920		Tetracycline resistance protein TetW	THE1	clust_1958

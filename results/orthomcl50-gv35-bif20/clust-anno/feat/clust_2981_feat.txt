@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00704	VBIBifLon182273_0704	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885372	862423	862740	-	318		Arsenate reductase (EC 1.20.4.1)	INF1	clust_2981
+LON2|SEQ00729	VBIBifLon171405_0730	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580988	811129	811446	+	318	arsC1	Arsenate reductase (EC 1.20.4.1)	LON2	clust_2981
+LON4|SEQ00682	VBIBifLon48544_0682	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889629	827345	827662	-	318		Arsenate reductase (EC 1.20.4.1)	LON4	clust_2981
+THE1|SEQ00938	VBIBifThe274299_0938	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735070	1174320	1174730	+	411		Arsenate reductase (EC 1.20.4.1)	THE1	clust_2981

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+GV10|SEQ00852	32147778	VBIGarVag136958_0852	SEQ00852	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	tRNA pseudouridine 13 synthase (EC 4.2.1.-)	4.2.1.-	Hydro-lyases.	ec	NA
+GV10|SEQ00853	32147780	VBIGarVag136958_0853	SEQ00853	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Alanine dehydrogenase (EC 1.4.1.1)	1.4.1.1	Alanine dehydrogenase	ec	NA
+GV10|SEQ00854	32147782	VBIGarVag136958_0854	SEQ00854	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Adenylate cyclase (EC 4.6.1.1)	4.6.1.1	Adenylate cyclase	ec	NA

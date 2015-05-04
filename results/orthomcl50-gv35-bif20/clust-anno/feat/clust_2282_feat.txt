@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01376	VBIBifAni240121_1376	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847759	1625358	1626290	-	933		polysaccharide biosynthesis protein	ANI1	clust_2282
+ANI2|SEQ01376	VBIBifAni235968_1376	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851112	1625576	1626508	-	933		polysaccharide biosynthesis protein	ANI2	clust_2282
+ANI3|SEQ01386	VBIBifAni108068_1386	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765132	1630807	1631739	-	933		polysaccharide biosynthesis protein	ANI3	clust_2282
+BRE4|SEQ00393	VBIBifBre327712_0393	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610853	491894	492574	-	681		polysaccharide biosynthesis protein	BRE4	clust_2282
+BRE5|SEQ00422	VBIBifBre336369_0423	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614959	497778	498569	+	792		putative capsular polysaccharide synthesis protein	BRE5	clust_2282
+BRE7|SEQ00412	VBIBifBre340732_0412	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619246	508037	509044	+	1008		putative capsular polysaccharide synthesis protein	BRE7	clust_2282
+BRE9|SEQ00486	VBIBifBre30019_0486	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445034	585092	585772	-	681		Possible glycosyltransferase	BRE9	clust_2282
+LON4|SEQ00380	VBIBifLon48544_0380	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888998	469013	469891	+	879		FIG00632944: hypothetical protein	LON4	clust_2282

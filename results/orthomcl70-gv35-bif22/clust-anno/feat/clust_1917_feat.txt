@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00185	VBIBifBre337368_0185	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606273	237953	238450	-	498		Membrane protein involved in colicin uptake	BRE2	clust_1917
+BRE3|SEQ00204	VBIBifBre167886_0204	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192060	261932	262429	-	498		Membrane protein involved in colicin uptake	BRE3	clust_1917
+BRE6|SEQ00152	VBIBifBre268992_0152	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653408	6283	6780	+	498		Membrane protein involved in colicin uptake	BRE6	clust_1917
+BRE7|SEQ00181	VBIBifBre340732_0181	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618765	233545	234042	-	498		Membrane protein involved in colicin uptake	BRE7	clust_1917
+BRE8|SEQ00207	VBIBifBre176493_0207	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622930	265012	265509	-	498		Membrane protein involved in colicin uptake	BRE8	clust_1917
+BRE9|SEQ00214	VBIBifBre30019_0214	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444464	277748	278245	-	498		Membrane protein involved in colicin uptake	BRE9	clust_1917
+INF1|SEQ00162	VBIBifLon182273_0162	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884235	200685	201173	+	489		Membrane protein involved in colicin uptake	INF1	clust_1917
+LON1|SEQ01210	VBIBifLon107831_1211	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119521	1424162	1424650	-	489		Membrane protein involved in colicin uptake	LON1	clust_1917
+LON2|SEQ01237	VBIBifLon171405_1239	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582045	1433142	1433630	-	489		Membrane protein involved in colicin uptake	LON2	clust_1917
+LON3|SEQ01317	VBIBifLon156230_1319	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769239	2063013	2063501	-	489		Membrane protein involved in colicin uptake	LON3	clust_1917
+LON4|SEQ00173	VBIBifLon48544_0173	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888558	215688	216176	+	489		Membrane protein involved in colicin uptake	LON4	clust_1917

@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00583	VBIBifAni240121_0583	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846110	683713	684225	+	513		hypothetical protein	ANI1	clust_1878
+ANI2|SEQ00582	VBIBifAni235968_0582	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849461	683715	684227	+	513		hypothetical protein	ANI2	clust_1878
+ANI3|SEQ00584	VBIBifAni108068_0584	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763474	683717	684229	+	513		hypothetical protein	ANI3	clust_1878
+GV01|SEQ01081	VBIGarVag247323_1081	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496363	82410	82862	+	453		hypothetical protein	GV01	clust_1878
+GV02|SEQ00357	VBIGarVag242669_0357	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497490	166584	167036	-	453		hypothetical protein	GV02	clust_1878
+GV03|SEQ01148	VBIGarVag247424_1148	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501764	83768	84244	+	477		hypothetical protein	GV03	clust_1878
+GV05|SEQ00088	VBIGarVag174900_0088	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545883	103793	104269	+	477		hypothetical protein	GV05	clust_1878
+GV09|SEQ00331	VBIGarVag169280_0331	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259829	37954	38430	+	477		hypothetical protein	GV09	clust_1878
+GV23|SEQ01134	VBIGarVag276017_1134	Gardnerella vaginalis JCP7659	ATJQ01000146	PATRIC	CDS	183974771	166	618	-	453		hypothetical protein	GV23	clust_1878
+GV26|SEQ01327	VBIGarVag272749_1327	Gardnerella vaginalis JCP8017A	ATJN01000181	PATRIC	CDS	183983657	164	616	-	453		hypothetical protein	GV26	clust_1878
+GV27|SEQ00909	VBIGarVag276930_0909	Gardnerella vaginalis JCP8017B	ATJM01000051	PATRIC	CDS	183985625	98	550	-	453		hypothetical protein	GV27	clust_1878
+GV29|SEQ00571	VBIGarVag265473_0571	Gardnerella vaginalis JCP8070	ATJK01000032	PATRIC	CDS	183990566	1267	1740	-	474		hypothetical protein	GV29	clust_1878

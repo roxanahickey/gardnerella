@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV08|SEQ01105	VBIGarVag251521_1105	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476659	215208	215939	+	732		Exonuclease SbcC	GV08	clust_1887
+GV18|SEQ00678	VBIGarVag4823_0678	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	42070128	1575	2306	+	732		Exonuclease SbcC	GV18	clust_1887
+GV19|SEQ00001	VBIGarVag39333_0001	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626834	67	798	-	732		Exonuclease SbcC	GV19	clust_1887

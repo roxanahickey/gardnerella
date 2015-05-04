@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE6|SEQ00302	VBIBifBre268992_0302	Bifidobacterium breve JCP7499	AWSX01000016	PATRIC	CDS	177653719	11841	13217	+	1377		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE6	clust_2695
+DEN1|SEQ00800	VBIBifDen165269_0801	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462906	2310894	2312360	+	1467	scrB2	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	DEN1	clust_2695
+DEN2|SEQ01062	VBIBifDen39005_1062	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110479	61882	63348	+	1467		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	DEN2	clust_2695
+GV28|SEQ00934	VBIGarVag271349_0934	Gardnerella vaginalis JCP8066	ATJL01000087	PATRIC	CDS	183988659	131	2593	-	2463		"Sucrose-6-phosphate hydrolase "	GV28	clust_2695
+GV35|SEQ01047	VBIGarVag272169_1047	Gardnerella vaginalis JCP8522	ATJE01000147	PATRIC	CDS	184008587	6907	9369	+	2463		"Sucrose-6-phosphate hydrolase "	GV35	clust_2695

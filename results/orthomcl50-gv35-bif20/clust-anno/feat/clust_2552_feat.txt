@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00589	VBIGarVag246433_0589	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481071	8871	9203	-	333		head-tail adaptor, putative	GV04	clust_2552
+GV05|SEQ00693	VBIGarVag174900_0693	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547145	309658	309990	+	333		head-tail adaptor, putative	GV05	clust_2552
+GV06|SEQ01184	VBIGarVag244004_1184	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491195	33357	33689	+	333		head-tail adaptor, putative	GV06	clust_2552
+GV22|SEQ01253	VBIGarVag276801_1254	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972143	14887	15219	-	333		head-tail adaptor, putative	GV22	clust_2552
+GV25|SEQ00043	VBIGarVag270495_0043	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977945	14233	14565	-	333		head-tail adaptor, putative	GV25	clust_2552
+GV30|SEQ01103	VBIGarVag267667_1105	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994427	32096	32428	+	333		head-tail adaptor, putative	GV30	clust_2552

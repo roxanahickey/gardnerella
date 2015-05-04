@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00225	VBIGarVag247323_0225	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494566	106836	107672	+	837		hypothetical protein	GV01	clust_1730
+GV02|SEQ00497	VBIGarVag242669_0497	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497791	97053	97886	+	834		hypothetical protein	GV02	clust_1730
+GV23|SEQ00972	VBIGarVag276017_0972	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974380	47651	48481	-	831		hypothetical protein	GV23	clust_1730
+GV25|SEQ00195	VBIGarVag270495_0195	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978270	11433	12269	+	837		hypothetical protein	GV25	clust_1730
+GV26|SEQ00008	VBIGarVag272749_0008	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980744	9246	10082	+	837		hypothetical protein	GV26	clust_1730
+GV27|SEQ00172	VBIGarVag276930_0172	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984065	55129	55965	-	837		hypothetical protein	GV27	clust_1730
+ADO1|SEQ00069	VBIBifAdo136061_0069	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186330	76855	77835	+	981		hypothetical protein	ADO1	clust_1730
+ANI1|SEQ00922	VBIBifAni240121_0922	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846818	1068427	1069392	+	966		hypothetical protein	ANI1	clust_1730
+ANI2|SEQ00921	VBIBifAni235968_0921	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850169	1068430	1069395	+	966		hypothetical protein	ANI2	clust_1730
+ANI3|SEQ00925	VBIBifAni108068_0925	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764185	1068431	1069396	+	966		hypothetical protein	ANI3	clust_1730
+BIF1|SEQ00670	VBIBifBif87902_0670	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883877	826440	827312	-	873		hypothetical protein	BIF1	clust_1730
+BRE7|SEQ00428	VBIBifBre340732_0428	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619281	526579	526992	-	414		hypothetical protein	BRE7	clust_1730
+LON4|SEQ00564	VBIBifLon48544_0564	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889375	689951	690820	-	870		hypothetical protein	LON4	clust_1730
+THE1|SEQ01667	VBIBifThe274299_1667	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736603	2066838	2067692	-	855		hypothetical protein	THE1	clust_1730

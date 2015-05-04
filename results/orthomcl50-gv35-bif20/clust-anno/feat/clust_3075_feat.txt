@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01103	VBIBifAdo136061_1103	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188529	11417	12133	-	717		ABC transporter, ATP-binding protein	ADO1	clust_3075
+ANI1|SEQ01018	VBIBifAni240121_1018	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847018	1179470	1180015	-	546		hypothetical protein	ANI1	clust_3075
+ANI2|SEQ01018	VBIBifAni235968_1018	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850371	1179473	1180018	-	546		hypothetical protein	ANI2	clust_3075
+ANI3|SEQ01022	VBIBifAni108068_1022	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764385	1179474	1180019	-	546		hypothetical protein	ANI3	clust_3075

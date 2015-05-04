@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01464	VBIBifBre340958_1465	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604959	1730496	1730747	+	252		hypothetical protein	BRE1	clust_2553
+BRE2|SEQ01585	VBIBifBre337368_1585	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609178	1842721	1842972	+	252		hypothetical protein	BRE2	clust_2553
+BRE3|SEQ01539	VBIBifBre167886_1539	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194837	1801450	1801701	+	252		COG1192: ATPases involved in chromosome partitioning	BRE3	clust_2553
+BRE4|SEQ01512	VBIBifBre327712_1512	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613172	1773309	1773560	+	252		hypothetical protein	BRE4	clust_2553
+BRE5|SEQ01660	VBIBifBre336369_1661	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617523	1868517	1868768	+	252		hypothetical protein	BRE5	clust_2553
+BRE9|SEQ01623	VBIBifBre30019_1623	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447392	1886847	1887098	+	252		COG1192: ATPases involved in chromosome partitioning	BRE9	clust_2553

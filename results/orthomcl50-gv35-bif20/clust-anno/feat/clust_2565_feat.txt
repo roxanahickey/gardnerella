@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV28|SEQ00479	VBIGarVag271349_0479	Gardnerella vaginalis JCP8066	ATJL01000027	PATRIC	CDS	183987653	5747	6265	-	519		DUF1706 domain-containing protein	GV28	clust_2565
+ANI1|SEQ00573	VBIBifAni240121_0573	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846089	674113	674340	-	228		hypothetical protein	ANI1	clust_2565
+ANI2|SEQ00573	VBIBifAni235968_0573	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849443	674114	674341	-	228		hypothetical protein	ANI2	clust_2565
+ANI3|SEQ00575	VBIBifAni108068_0575	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763456	674116	674343	-	228		hypothetical protein	ANI3	clust_2565
+BRE5|SEQ01451	VBIBifBre336369_1452	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617091	1630331	1630849	+	519		DUF1706 domain-containing protein	BRE5	clust_2565
+BRE9|SEQ01418	VBIBifBre30019_1418	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446968	1650007	1650525	+	519	fosA	DUF1706 domain-containing protein	BRE9	clust_2565

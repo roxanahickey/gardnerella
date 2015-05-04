@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00347	27186952	VBIBifAdo136061_0347	SEQ00347	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		L-asparaginase (EC 3.5.1.1)	FIG00000376	figfam	clust_4354
+THE1|SEQ01560	124736376	VBIBifThe274299_1560	SEQ01560	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		L-asparaginase (EC 3.5.1.1)	FIG00000376	figfam	clust_4354

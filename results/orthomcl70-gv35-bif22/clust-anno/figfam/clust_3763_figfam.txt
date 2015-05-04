@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01446	86847903	VBIBifAni240121_1446	SEQ01446	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Transcription termination factor Rho	FIG00000392	figfam	clust_3763
+ANI2|SEQ01445	86851254	VBIBifAni235968_1445	SEQ01445	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Transcription termination factor Rho	FIG00000392	figfam	clust_3763
+ANI3|SEQ01455	42765274	VBIBifAni108068_1455	SEQ01455	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Transcription termination factor Rho	FIG00000392	figfam	clust_3763

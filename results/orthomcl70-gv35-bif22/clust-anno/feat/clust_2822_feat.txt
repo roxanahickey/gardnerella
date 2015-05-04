@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01499	VBIBifLon182273_1499	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887011	1706110	1707807	-	1698		Signal transduction histidine kinase	INF1	clust_2822
+LON1|SEQ00033	VBIBifLon107831_0033	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117093	38212	39909	+	1698		Signal transduction histidine kinase	LON1	clust_2822
+LON2|SEQ00076	VBIBifLon171405_0077	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579646	81879	83576	+	1698	baeS2	Signal transduction histidine kinase	LON2	clust_2822
+LON3|SEQ00121	VBIBifLon156230_0121	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765869	144724	146421	-	1698		Signal transduction histidine kinase	LON3	clust_2822
+LON4|SEQ01471	VBIBifLon48544_1471	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891298	1678013	1679710	-	1698		Signal transduction histidine kinase	LON4	clust_2822

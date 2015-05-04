@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01299	VBIBifBre340958_1300	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604615	1532625	1533089	-	465		Signal transduction histidine kinase	BRE1	clust_2122
+BRE2|SEQ01390	VBIBifBre337368_1390	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608772	1608908	1609372	-	465		Signal transduction histidine kinase	BRE2	clust_2122
+BRE3|SEQ00522	VBIBifBre167886_0522	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192719	635523	635987	+	465		Signal transduction histidine kinase	BRE3	clust_2122
+BRE4|SEQ01336	VBIBifBre327712_1336	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612804	1558954	1559418	-	465		Signal transduction histidine kinase	BRE4	clust_2122
+BRE5|SEQ01464	VBIBifBre336369_1465	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617117	1643725	1644189	-	465		Signal transduction histidine kinase	BRE5	clust_2122
+BRE6|SEQ00228	VBIBifBre268992_0228	Bifidobacterium breve JCP7499	AWSX01000013	PATRIC	CDS	177653566	45459	45731	-	273		Signal transduction histidine kinase	BRE6	clust_2122
+BRE7|SEQ01347	VBIBifBre340732_1347	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621187	1560313	1560777	-	465		Signal transduction histidine kinase	BRE7	clust_2122
+BRE8|SEQ01368	VBIBifBre176493_1368	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625337	1604332	1604796	-	465		Signal transduction histidine kinase	BRE8	clust_2122
+BRE9|SEQ01431	VBIBifBre30019_1431	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446994	1663389	1663853	-	465		Signal transduction histidine kinase	BRE9	clust_2122

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV07|SEQ00377	85492377	VBIGarVag249177_0377	SEQ00377	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	NA	Choline permease LicB	GO:0016020	membrane	go	clust_1577
+GV10|SEQ01045	32148178	VBIGarVag136958_1045	SEQ01045	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Choline permease LicB	GO:0016020	membrane	go	clust_1577
+GV12|SEQ00452	37853583	VBIGarVag144721_0452	SEQ00452	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Choline permease LicB	GO:0016020	membrane	go	clust_1577

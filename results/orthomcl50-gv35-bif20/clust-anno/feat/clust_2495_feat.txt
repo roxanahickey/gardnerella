@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01467	VBIBifBre340958_1468	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604965	1732702	1733307	+	606		GCN5-related N-acetyltransferase	BRE1	clust_2495
+BRE2|SEQ01587	VBIBifBre337368_1587	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609182	1844927	1845532	+	606		GCN5-related N-acetyltransferase	BRE2	clust_2495
+BRE3|SEQ01541	VBIBifBre167886_1541	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194841	1803611	1804261	+	651		GCN5-related N-acetyltransferase	BRE3	clust_2495
+BRE4|SEQ01514	VBIBifBre327712_1514	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613176	1775515	1776120	+	606		GCN5-related N-acetyltransferase	BRE4	clust_2495
+BRE5|SEQ01663	VBIBifBre336369_1664	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617529	1870810	1871328	+	519		GCN5-related N-acetyltransferase	BRE5	clust_2495
+BRE9|SEQ01626	VBIBifBre30019_1626	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447398	1889128	1889658	+	531		GCN5-related N-acetyltransferase	BRE9	clust_2495

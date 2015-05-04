@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ00360	43462003	VBIBifDen165269_0361	SEQ00360	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GO:0003723	RNA binding	go	clust_4732
+DEN2|SEQ02159	42112762	VBIBifDen39005_2161	SEQ02159	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	NA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GO:0003723	RNA binding	go	clust_4732

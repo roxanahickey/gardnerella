@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV03|SEQ00747	85500921	VBIGarVag247424_0747	SEQ00747	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV04|SEQ01310	85482564	VBIGarVag246433_1310	SEQ01310	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV05|SEQ00799	52547360	VBIGarVag174900_0799	SEQ00799	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV07|SEQ00559	85492763	VBIGarVag249177_0559	SEQ00559	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV08|SEQ00407	85475215	VBIGarVag251521_0407	SEQ00407	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV09|SEQ00404	55259980	VBIGarVag169280_0404	SEQ00404	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV10|SEQ00544	32147142	VBIGarVag136958_0544	SEQ00544	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	FIG00672170: hypothetical protein	FIG00672169	figfam	clust_0647
+GV11|SEQ01302	52551037	VBIGarVag171052_1302	SEQ01302	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV12|SEQ01172	37855170	VBIGarVag144721_1172	SEQ01172	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	NA	FIG00672170: hypothetical protein	FIG00672169	figfam	clust_0647
+GV14|SEQ00262	85502362	VBIGarVag244375_0262	SEQ00262	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV15|SEQ00602	85484745	VBIGarVag249709_0602	SEQ00602	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	FIG00672170: hypothetical protein	FIG00672169	figfam	clust_0647
+GV16|SEQ01053	85479290	VBIGarVag246379_1053	SEQ01053	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV17|SEQ01007	37852106	VBIGarVag146634_1007	SEQ01007	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	FIG00672170: hypothetical protein	FIG00672169	figfam	clust_0647
+GV18|SEQ01159	42071149	VBIGarVag4823_1159	SEQ01159	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV19|SEQ00558	42627995	VBIGarVag39333_0559	SEQ00558	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV20|SEQ00964	54190778	VBIGarVag188338_0964	SEQ00964	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV22|SEQ00858	183971201	VBIGarVag276801_0859	SEQ00858	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV24|SEQ00770	183976737	VBIGarVag268944_0771	SEQ00770	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV33|SEQ00731	184002236	VBIGarVag265557_0731	SEQ00731	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647
+GV34|SEQ00672	184004957	VBIGarVag270440_0672	SEQ00672	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	NA	response regulator	FIG00826122	figfam	clust_0647

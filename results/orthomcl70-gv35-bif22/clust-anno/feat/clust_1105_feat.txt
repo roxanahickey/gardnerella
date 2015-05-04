@@ -1,0 +1,25 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00736	VBIBifAdo136061_0736	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187770	610244	611137	+	894		Maltose/maltodextrin ABC transporter, permease protein MalG	ADO1	clust_1105
+ADO1|SEQ00834	VBIBifAdo136061_0834	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187976	722544	723392	+	849		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	ADO1	clust_1105
+ANI1|SEQ00515	VBIBifAni240121_0515	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845973	611807	612676	+	870	malG	Maltose/maltodextrin ABC transporter, permease protein MalG	ANI1	clust_1105
+ANI2|SEQ00515	VBIBifAni235968_0515	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849327	611808	612677	+	870		Maltose/maltodextrin ABC transporter, permease protein MalG	ANI2	clust_1105
+ANI3|SEQ00517	VBIBifAni108068_0517	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763340	611810	612679	+	870		Maltose/maltodextrin ABC transporter, permease protein MalG	ANI3	clust_1105
+BRE2|SEQ00538	VBIBifBre337368_0538	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607003	667801	668691	+	891		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE2	clust_1105
+BRE3|SEQ01724	VBIBifBre167886_1724	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195222	2001994	2002815	-	822		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE3	clust_1105
+BRE6|SEQ00450	VBIBifBre268992_0450	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	177654030	32535	33425	-	891		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE6	clust_1105
+BRE7|SEQ01753	VBIBifBre340732_1753	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622029	2013356	2014177	-	822		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE7	clust_1105
+BRE8|SEQ01709	VBIBifBre176493_1709	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626053	1986826	1987647	-	822		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE8	clust_1105
+BRE9|SEQ01817	VBIBifBre30019_1817	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447797	2090802	2091623	-	822		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE9	clust_1105
+DEN1|SEQ00143	VBIBifDen165269_0144	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461541	1491453	1492349	-	897		Maltose/maltodextrin ABC transporter, permease protein MalG	DEN1	clust_1105
+DEN2|SEQ01933	VBIBifDen39005_1935	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112286	160960	161856	-	897		Maltose/maltodextrin ABC transporter, permease protein MalG	DEN2	clust_1105
+GV06|SEQ00396	VBIGarVag244004_0396	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489535	68639	69460	-	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV06	clust_1105
+GV09|SEQ01256	VBIGarVag169280_1256	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261755	119612	120385	+	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV09	clust_1105
+GV13|SEQ00405	VBIGarVag244533_0405	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486769	46401	47174	-	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV13	clust_1105
+GV16|SEQ00379	VBIGarVag246379_0379	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477892	342964	343785	+	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV16	clust_1105
+GV18|SEQ00248	VBIGarVag4823_0248	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069199	756	1529	+	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV18	clust_1105
+GV19|SEQ01230	VBIGarVag39333_1232	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629383	1552679	1553452	-	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV19	clust_1105
+GV20|SEQ00264	VBIGarVag188338_0264	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189329	298166	298987	+	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV20	clust_1105
+GV30|SEQ00018	VBIGarVag267667_0018	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992072	22293	23114	-	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV30	clust_1105
+INF1|SEQ00287	VBIBifLon182273_0287	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884503	362173	362994	+	822		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	INF1	clust_1105
+INF1|SEQ01660	VBIBifLon182273_1660	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887339	1896569	1897465	-	897		ABC-type sugar transport system, permease component	INF1	clust_1105
+LON3|SEQ01150	VBIBifLon156230_1152	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766176	325902	326798	-	897		ABC-type sugar transport system, permease component	LON3	clust_1105

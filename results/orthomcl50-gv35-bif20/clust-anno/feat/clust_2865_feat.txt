@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ00923	VBIBifBre327712_0923	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611947	1097005	1098429	+	1425		ABC transporter, permease protein	BRE4	clust_2865
+BRE5|SEQ01163	VBIBifBre336369_1164	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616498	1298493	1299917	-	1425		ABC transporter, permease protein	BRE5	clust_2865
+BRE7|SEQ01076	VBIBifBre340732_1076	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620629	1244530	1245954	-	1425		ABC transporter, permease protein	BRE7	clust_2865
+BRE9|SEQ01162	VBIBifBre30019_1162	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446441	1345707	1347131	-	1425		ABC transporter, permease protein	BRE9	clust_2865
+LON2|SEQ00509	VBIBifLon171405_0510	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580540	577117	578541	-	1425		ABC transporter, permease protein	LON2	clust_2865

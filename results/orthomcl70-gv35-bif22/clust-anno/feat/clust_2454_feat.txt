@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ00393	VBIBifBre327712_0393	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610853	491894	492574	-	681		polysaccharide biosynthesis protein	BRE4	clust_2454
+BRE5|SEQ00422	VBIBifBre336369_0423	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614959	497778	498569	+	792		putative capsular polysaccharide synthesis protein	BRE5	clust_2454
+BRE7|SEQ00412	VBIBifBre340732_0412	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619246	508037	509044	+	1008		putative capsular polysaccharide synthesis protein	BRE7	clust_2454
+BRE9|SEQ00486	VBIBifBre30019_0486	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445034	585092	585772	-	681		Possible glycosyltransferase	BRE9	clust_2454
+DEN1|SEQ02101	VBIBifDen165269_2103	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463181	57001	58008	+	1008		polysaccharide biosynthesis protein	DEN1	clust_2454
+DEN2|SEQ01273	VBIBifDen39005_1274	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110925	57020	58027	+	1008		polysaccharide biosynthesis protein	DEN2	clust_2454
+LON4|SEQ00380	VBIBifLon48544_0380	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888998	469013	469891	+	879		FIG00632944: hypothetical protein	LON4	clust_2454

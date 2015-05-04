@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ00417	VBIBifBre167886_0417	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192506	516038	516196	-	159		Arabinose-proton symporter	BRE3	clust_5288
+BRE6|SEQ00844	VBIBifBre268992_0844	Bifidobacterium breve JCP7499	AWSX01000046	PATRIC	CDS	177654868	2437	2595	+	159		Arabinose-proton symporter	BRE6	clust_5288

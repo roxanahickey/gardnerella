@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00498	VBIBifAdo136061_0498	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187263	343895	345082	+	1188		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	ADO1	clust_1487
+BRE1|SEQ00282	VBIBifBre340958_0282	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602506	356877	358190	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE1	clust_1487
+BRE2|SEQ00345	VBIBifBre337368_0345	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606606	413179	414492	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE2	clust_1487
+BRE3|SEQ00334	VBIBifBre167886_0334	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192333	417479	418792	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE3	clust_1487
+BRE4|SEQ00299	VBIBifBre327712_0299	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610655	379210	380523	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE4	clust_1487
+BRE5|SEQ00322	VBIBifBre336369_0323	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614752	381287	382600	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE5	clust_1487
+BRE6|SEQ00528	VBIBifBre268992_0528	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS	177654195	4265	5578	-	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE6	clust_1487
+BRE7|SEQ00311	VBIBifBre340732_0311	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619038	390418	391731	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE7	clust_1487
+BRE8|SEQ00337	VBIBifBre176493_0337	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623203	421916	423229	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE8	clust_1487
+BRE9|SEQ00385	VBIBifBre30019_0385	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444824	463937	465250	+	1314		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	BRE9	clust_1487
+DEN1|SEQ00416	VBIBifDen165269_0417	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462119	1796830	1798050	-	1221	fbpC	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	DEN1	clust_1487
+DEN2|SEQ02102	VBIBifDen39005_2104	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112644	7564	8784	+	1221		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	DEN2	clust_1487
+INF1|SEQ00263	VBIBifLon182273_0263	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884449	331163	332440	+	1278		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	INF1	clust_1487
+LON1|SEQ01077	VBIBifLon107831_1078	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119243	1271805	1273082	-	1278		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	LON1	clust_1487
+LON2|SEQ01135	VBIBifLon171405_1137	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581829	1300686	1301963	-	1278	potA	Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	LON2	clust_1487
+LON3|SEQ00961	VBIBifLon156230_0962	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768909	1895999	1897276	-	1278		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	LON3	clust_1487
+LON4|SEQ00282	VBIBifLon48544_0282	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888790	348511	349788	+	1278		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	LON4	clust_1487
+THE1|SEQ00876	VBIBifThe274299_0876	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734939	1090511	1091704	-	1194		Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)	THE1	clust_1487

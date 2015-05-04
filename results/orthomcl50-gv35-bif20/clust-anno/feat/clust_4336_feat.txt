@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+LON3|SEQ00652	VBIBifLon156230_0652	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768273	1523953	1524540	-	588		Beta-glucuronidase (EC 3.2.1.31)	LON3	clust_4336
+LON4|SEQ00557	VBIBifLon48544_0557	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889360	684422	684943	+	522		Beta-glucuronidase (EC 3.2.1.31)	LON4	clust_4336

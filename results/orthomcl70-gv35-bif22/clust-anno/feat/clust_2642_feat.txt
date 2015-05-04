@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01274	VBIBifAni240121_1274	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847552	1482761	1484431	+	1671		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	ANI1	clust_2642
+ANI2|SEQ01274	VBIBifAni235968_1274	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850905	1482768	1484438	+	1671		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	ANI2	clust_2642
+ANI3|SEQ01283	VBIBifAni108068_1283	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764924	1488214	1489884	+	1671		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	ANI3	clust_2642
+DEN1|SEQ02003	VBIBifDen165269_2004	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461177	1287175	1288833	-	1659	dppA3	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	DEN1	clust_2642
+DEN2|SEQ01118	VBIBifDen39005_1118	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000021	PATRIC	CDS	42110603	2958	4616	-	1659		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	DEN2	clust_2642
+THE1|SEQ00784	VBIBifThe274299_0784	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734751	984696	986351	+	1656		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	THE1	clust_2642

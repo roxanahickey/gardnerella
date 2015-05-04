@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01333	27189011	VBIBifAdo136061_1333	SEQ01333	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS		Fibronectin, type III domain protein	FIG01753751	figfam	clust_4576
+BRE5|SEQ00938	268616026	VBIBifBre336369_0939	SEQ00938	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_4576

@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01062	VBIBifBre340958_1062	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604129	1242478	1243776	+	1299		narrowly conserved hypothetical protein	BRE1	clust_1168
+BRE2|SEQ01180	VBIBifBre337368_1180	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608341	1350541	1351839	+	1299		narrowly conserved hypothetical protein	BRE2	clust_1168
+BRE3|SEQ00719	VBIBifBre167886_0719	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193124	879783	881081	-	1299		narrowly conserved hypothetical protein	BRE3	clust_1168
+BRE4|SEQ01135	VBIBifBre327712_1135	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612392	1308578	1309876	+	1299		narrowly conserved hypothetical protein	BRE4	clust_1168
+BRE5|SEQ01229	VBIBifBre336369_1230	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616636	1360085	1361383	+	1299		narrowly conserved hypothetical protein	BRE5	clust_1168
+BRE6|SEQ01807	VBIBifBre268992_1807	Bifidobacterium breve JCP7499	AWSX01000084	PATRIC	CDS	177656923	11127	12425	+	1299		narrowly conserved hypothetical protein	BRE6	clust_1168
+BRE7|SEQ01140	VBIBifBre340732_1140	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620763	1303359	1304657	+	1299		narrowly conserved hypothetical protein	BRE7	clust_1168
+BRE8|SEQ01165	VBIBifBre176493_1165	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624923	1354099	1355397	+	1299		narrowly conserved hypothetical protein	BRE8	clust_1168
+BRE9|SEQ01226	VBIBifBre30019_1226	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446575	1408744	1410042	+	1299		narrowly conserved hypothetical protein	BRE9	clust_1168
+DEN1|SEQ01232	VBIBifDen165269_1233	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459593	457619	458968	-	1350		hypothetical protein	DEN1	clust_1168
+DEN2|SEQ01739	VBIBifDen39005_1740	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS	42111875	45480	46829	-	1350		hypothetical protein	DEN2	clust_1168
+GV06|SEQ01325	VBIGarVag244004_1325	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491483	206865	208184	+	1320		hypothetical protein	GV06	clust_1168
+GV09|SEQ00783	VBIGarVag169280_0783	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260767	150788	152107	-	1320		hypothetical protein	GV09	clust_1168
+GV11|SEQ01017	VBIGarVag171052_1017	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	52550416	17999	19318	+	1320		hypothetical protein	GV11	clust_1168
+GV13|SEQ00339	VBIGarVag244533_0339	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486629	170858	171970	+	1113		hypothetical protein	GV13	clust_1168
+GV16|SEQ00719	VBIGarVag246379_0719	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478593	796466	797785	-	1320		hypothetical protein	GV16	clust_1168
+GV24|SEQ00123	VBIGarVag268944_0124	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975347	24700	26019	-	1320		hypothetical protein	GV24	clust_1168
+GV30|SEQ00135	VBIGarVag267667_0135	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992314	47727	49046	+	1320		hypothetical protein	GV30	clust_1168
+INF1|SEQ01336	VBIBifLon182273_1336	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886676	1510666	1511964	+	1299		narrowly conserved hypothetical protein	INF1	clust_1168
+LON1|SEQ00195	VBIBifLon107831_0195	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117427	232123	233421	-	1299		narrowly conserved hypothetical protein	LON1	clust_1168
+LON2|SEQ00235	VBIBifLon171405_0236	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579973	273702	275000	-	1299		narrowly conserved hypothetical protein	LON2	clust_1168
+LON3|SEQ01924	VBIBifLon156230_1927	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767040	846694	847992	-	1299		narrowly conserved hypothetical protein	LON3	clust_1168

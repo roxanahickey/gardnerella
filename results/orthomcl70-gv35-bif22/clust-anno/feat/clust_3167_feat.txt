@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01111	VBIBifBre340958_1111	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604228	1302252	1302740	-	489		WhiB-type transcriptional regulator	BRE1	clust_3167
+BRE8|SEQ01140	VBIBifBre176493_1140	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624870	1331755	1332231	-	477		WhiB-type transcriptional regulator	BRE8	clust_3167
+LON1|SEQ00362	VBIBifLon107831_0362	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117765	436192	436668	-	477		WhiB-type transcriptional regulator	LON1	clust_3167
+LON3|SEQ00227	VBIBifLon156230_0227	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767387	1051082	1051558	-	477		WhiB-type transcriptional regulator	LON3	clust_3167

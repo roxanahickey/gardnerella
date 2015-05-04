@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV01|SEQ00542	85495229	VBIGarVag247323_0542	SEQ00542	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0009306	protein secretion	go	NA
+GV01|SEQ00542	85495229	VBIGarVag247323_0542	SEQ00542	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0016021	integral to membrane	go	NA
+GV01|SEQ00542	85495229	VBIGarVag247323_0542	SEQ00542	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0015450	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	go	NA

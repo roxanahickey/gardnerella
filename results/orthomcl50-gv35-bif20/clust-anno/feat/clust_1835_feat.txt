@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01002	VBIBifBre340958_1002	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604004	1184942	1185196	-	255		ATPases with chaperone activity, ATP-binding subunit	BRE1	clust_1835
+BRE2|SEQ01096	VBIBifBre337368_1096	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608165	1278783	1279037	-	255		ATPases with chaperone activity, ATP-binding subunit	BRE2	clust_1835
+BRE3|SEQ00785	VBIBifBre167886_0785	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193265	940709	940963	+	255		ATPases with chaperone activity, ATP-binding subunit	BRE3	clust_1835
+BRE4|SEQ00953	VBIBifBre327712_0953	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612010	1118254	1118508	+	255		ATPases with chaperone activity, ATP-binding subunit	BRE4	clust_1835
+BRE6|SEQ01751	VBIBifBre268992_1751	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656804	46024	46278	-	255		ATPases with chaperone activity, ATP-binding subunit	BRE6	clust_1835
+BRE7|SEQ01046	VBIBifBre340732_1046	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620567	1224463	1224717	-	255		ATPases with chaperone activity, ATP-binding subunit	BRE7	clust_1835
+BRE8|SEQ01068	VBIBifBre176493_1068	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624718	1262418	1262672	-	255		ATPases with chaperone activity, ATP-binding subunit	BRE8	clust_1835
+BRE9|SEQ01132	VBIBifBre30019_1132	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446378	1325631	1325885	-	255		ATPases with chaperone activity, ATP-binding subunit	BRE9	clust_1835
+INF1|SEQ01007	VBIBifLon182273_1007	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885997	1159650	1159904	+	255		ATPases with chaperone activity, ATP-binding subunit	INF1	clust_1835
+LON1|SEQ00468	VBIBifLon107831_0468	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117991	550195	550449	-	255		ATPases with chaperone activity, ATP-binding subunit	LON1	clust_1835
+LON3|SEQ00333	VBIBifLon156230_0333	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767615	1162622	1162876	-	255		ATPases with chaperone activity, ATP-binding subunit	LON3	clust_1835
+LON4|SEQ00886	VBIBifLon48544_0886	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890048	1051549	1051803	+	255		ATPases with chaperone activity, ATP-binding subunit	LON4	clust_1835

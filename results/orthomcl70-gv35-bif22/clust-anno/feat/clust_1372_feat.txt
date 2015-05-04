@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00546	VBIBifAdo136061_0546	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187364	396945	398450	+	1506		Phosphotransferase system, mannitol-specific IIBC component	ADO1	clust_1372
+ANI1|SEQ00301	VBIBifAni240121_0301	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845514	364033	365457	+	1425		Phosphotransferase system, mannitol-specific IIBC component	ANI1	clust_1372
+ANI2|SEQ00300	VBIBifAni235968_0300	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848867	364035	365459	+	1425		Phosphotransferase system, mannitol-specific IIBC component	ANI2	clust_1372
+ANI3|SEQ00301	VBIBifAni108068_0301	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762880	364036	365460	+	1425		Phosphotransferase system, mannitol-specific IIBC component	ANI3	clust_1372
+BIF1|SEQ00225	VBIBifBif87902_0225	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882963	278513	279967	+	1455		Phosphotransferase system, mannitol-specific IIBC component	BIF1	clust_1372
+BRE1|SEQ01713	VBIBifBre340958_1714	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605483	2000211	2001659	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE1	clust_1372
+BRE2|SEQ01817	VBIBifBre337368_1817	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609667	2100746	2102194	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE2	clust_1372
+BRE3|SEQ01781	VBIBifBre167886_1781	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195344	2072715	2074163	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE3	clust_1372
+BRE4|SEQ01753	VBIBifBre327712_1753	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613680	2033053	2034501	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE4	clust_1372
+BRE5|SEQ01874	VBIBifBre336369_1875	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617976	2103589	2105037	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE5	clust_1372
+BRE6|SEQ01233	VBIBifBre268992_1233	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS	177655686	37556	39004	+	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE6	clust_1372
+BRE7|SEQ01812	VBIBifBre340732_1812	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622155	2083797	2085245	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE7	clust_1372
+BRE8|SEQ01768	VBIBifBre176493_1768	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626180	2057308	2058756	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE8	clust_1372
+BRE9|SEQ01874	VBIBifBre30019_1874	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447919	2161294	2162742	-	1449		Phosphotransferase system, mannitol-specific IIBC component	BRE9	clust_1372
+DEN1|SEQ00363	VBIBifDen165269_0364	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462009	1741452	1742960	-	1509		Phosphotransferase system, mannitol-specific IIBC component	DEN1	clust_1372
+DEN2|SEQ02155	VBIBifDen39005_2157	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112754	62654	64162	+	1509		Phosphotransferase system, mannitol-specific IIBC component	DEN2	clust_1372
+INF1|SEQ01870	VBIBifLon182273_1870	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887797	2140660	2142108	-	1449		Phosphotransferase system, mannitol-specific IIBC component	INF1	clust_1372
+LON1|SEQ01564	VBIBifLon107831_1565	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120258	1893385	1894833	+	1449		Phosphotransferase system, mannitol-specific IIBC component	LON1	clust_1372
+LON2|SEQ01588	VBIBifLon171405_1591	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582771	1903846	1905294	+	1449		Phosphotransferase system, mannitol-specific IIBC component	LON2	clust_1372
+LON3|SEQ01747	VBIBifLon156230_1750	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766681	611094	612542	-	1449		Phosphotransferase system, mannitol-specific IIBC component	LON3	clust_1372
+LON4|SEQ01813	VBIBifLon48544_1813	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892028	2098181	2099629	-	1449		Phosphotransferase system, mannitol-specific IIBC component	LON4	clust_1372

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV33|SEQ01096	VBIGarVag265557_1096	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003070	32874	34352	+	1479		putative ATP-binding protein	GV33	clust_4282
+GV34|SEQ01122	VBIGarVag270440_1122	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005950	11777	13255	-	1479		putative ATP-binding protein	GV34	clust_4282

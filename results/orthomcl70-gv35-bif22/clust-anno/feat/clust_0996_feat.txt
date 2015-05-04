@@ -1,0 +1,32 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01382	VBIBifBre340958_1383	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604781	1630230	1631255	-	1026		transcriptional regulator	BRE1	clust_0996
+BRE2|SEQ01467	VBIBifBre337368_1467	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608928	1697448	1698467	-	1020		transcriptional regulator	BRE2	clust_0996
+BRE3|SEQ01436	VBIBifBre167886_1436	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194616	1680394	1681413	-	1020		transcriptional regulator	BRE3	clust_0996
+BRE4|SEQ01423	VBIBifBre327712_1423	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612980	1660574	1661599	-	1026		transcriptional regulator	BRE4	clust_0996
+BRE5|SEQ01548	VBIBifBre336369_1549	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617285	1739786	1740811	-	1026		transcriptional regulator	BRE5	clust_0996
+BRE6|SEQ01342	VBIBifBre268992_1342	Bifidobacterium breve JCP7499	AWSX01000065	PATRIC	CDS	177655918	9990	11009	-	1020		transcriptional regulator	BRE6	clust_0996
+BRE7|SEQ01437	VBIBifBre340732_1437	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621367	1663765	1664784	-	1020		transcriptional regulator	BRE7	clust_0996
+BRE8|SEQ01459	VBIBifBre176493_1459	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625524	1706865	1707884	-	1020		transcriptional regulator	BRE8	clust_0996
+BRE9|SEQ01525	VBIBifBre30019_1525	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447182	1770400	1771419	-	1020		transcriptional regulator	BRE9	clust_0996
+DEN1|SEQ00527	VBIBifDen165269_0528	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462348	1946349	1947347	-	999		putative transcription regulator	DEN1	clust_0996
+DEN2|SEQ01564	VBIBifDen39005_1565	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111520	18830	19828	-	999		putative transcription regulator	DEN2	clust_0996
+GV04|SEQ00311	VBIGarVag246433_0311	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480486	207201	208223	+	1023		putative transcription regulator	GV04	clust_0996
+GV06|SEQ00412	VBIGarVag244004_0412	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489568	11401	12423	-	1023		putative transcription regulator	GV06	clust_0996
+GV09|SEQ00173	VBIGarVag169280_0173	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259501	156054	157064	+	1011		putative transcription regulator	GV09	clust_0996
+GV10|SEQ01180	VBIGarVag136958_1180	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148464	1601874	1602884	-	1011		putative transcription regulator	GV10	clust_0996
+GV11|SEQ00425	VBIGarVag171052_0425	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549165	6024	7046	-	1023		putative transcription regulator	GV11	clust_0996
+GV12|SEQ00517	VBIGarVag144721_0517	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853719	10372	11382	-	1011		putative transcription regulator	GV12	clust_0996
+GV13|SEQ00029	VBIGarVag244533_0029	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485986	11316	12338	-	1023		putative transcription regulator	GV13	clust_0996
+GV15|SEQ01101	VBIGarVag249709_1101	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485802	79516	80526	+	1011		putative transcription regulator	GV15	clust_0996
+GV16|SEQ00097	VBIGarVag246379_0097	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477300	10453	11475	-	1023		putative transcription regulator	GV16	clust_0996
+GV17|SEQ00647	VBIGarVag146634_0647	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851354	76775	77785	+	1011		putative transcription regulator	GV17	clust_0996
+GV18|SEQ00888	VBIGarVag4823_0888	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070576	10796	11806	-	1011		putative transcription regulator	GV18	clust_0996
+GV19|SEQ00190	VBIGarVag39333_0190	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627227	223744	224754	+	1011		putative transcription regulator	GV19	clust_0996
+GV20|SEQ00070	VBIGarVag188338_0070	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188918	86203	87213	+	1011		putative transcription regulator	GV20	clust_0996
+GV22|SEQ00373	VBIGarVag276801_0374	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970167	3165	4175	+	1011		putative transcription regulator	GV22	clust_0996
+GV24|SEQ00446	VBIGarVag268944_0447	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976023	4175	5185	+	1011		putative transcription regulator	GV24	clust_0996
+GV30|SEQ00611	VBIGarVag267667_0612	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993343	8977	9987	-	1011		putative transcription regulator	GV30	clust_0996
+GV33|SEQ00150	VBIGarVag265557_0150	Gardnerella vaginalis JCP8481A	ATJG01000012	PATRIC	CDS	184000984	2633	3643	+	1011		putative transcription regulator	GV33	clust_0996
+GV34|SEQ01074	VBIGarVag270440_1074	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005841	26722	27732	+	1011		putative transcription regulator	GV34	clust_0996
+LON1|SEQ01821	VBIBifLon107831_1822	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120808	2200946	2201971	+	1026		transcriptional regulator	LON1	clust_0996
+LON4|SEQ01549	VBIBifLon48544_1549	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891456	1778034	1779059	-	1026		transcriptional regulator	LON4	clust_0996

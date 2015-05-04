@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00841	VBIBifAdo136061_0841	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187990	732892	733953	+	1062		Methionine ABC transporter ATP-binding protein	ADO1	clust_2619
+ANI1|SEQ01265	VBIBifAni240121_1265	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847524	1465789	1467015	-	1227		Methionine ABC transporter ATP-binding protein	ANI1	clust_2619
+ANI2|SEQ01265	VBIBifAni235968_1265	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850877	1465794	1467020	-	1227		Methionine ABC transporter ATP-binding protein	ANI2	clust_2619
+ANI3|SEQ01274	VBIBifAni108068_1274	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764896	1471240	1472466	-	1227		Methionine ABC transporter ATP-binding protein	ANI3	clust_2619
+THE1|SEQ01308	VBIBifThe274299_1308	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735842	1623783	1624847	-	1065		Methionine ABC transporter ATP-binding protein	THE1	clust_2619

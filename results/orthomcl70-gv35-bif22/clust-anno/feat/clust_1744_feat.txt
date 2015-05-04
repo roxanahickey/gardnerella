@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00033	VBIBifAdo136061_0033	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186258	31856	33154	-	1299		major facilitator superfamily MFS_1	ADO1	clust_1744
+BRE1|SEQ01861	VBIBifBre340958_1863	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605789	2191778	2193007	-	1230		conserved hypothetical transport protein	BRE1	clust_1744
+BRE2|SEQ01951	VBIBifBre337368_1951	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609944	2278780	2280009	-	1230		conserved hypothetical transport protein	BRE2	clust_1744
+BRE3|SEQ01922	VBIBifBre167886_1922	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195641	2264630	2265859	-	1230		conserved hypothetical transport protein	BRE3	clust_1744
+BRE4|SEQ01900	VBIBifBre327712_1900	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613984	2224609	2225838	-	1230		conserved hypothetical transport protein	BRE4	clust_1744
+BRE6|SEQ00497	VBIBifBre268992_0497	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654128	21853	23082	-	1230		conserved hypothetical transport protein	BRE6	clust_1744
+BRE7|SEQ01937	VBIBifBre340732_1937	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622414	2254270	2255499	-	1230		conserved hypothetical transport protein	BRE7	clust_1744
+BRE8|SEQ01897	VBIBifBre176493_1897	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626453	2232094	2233323	-	1230		conserved hypothetical transport protein	BRE8	clust_1744
+BRE9|SEQ02026	VBIBifBre30019_2026	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448232	2358353	2359582	-	1230		conserved hypothetical transport protein	BRE9	clust_1744
+INF1|SEQ01994	VBIBifLon182273_1994	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888061	2329625	2330938	-	1314		conserved hypothetical transport protein	INF1	clust_1744
+LON1|SEQ01409	VBIBifLon107831_1410	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119933	1677500	1678813	+	1314		conserved hypothetical transport protein	LON1	clust_1744
+LON2|SEQ01453	VBIBifLon171405_1456	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582493	1693830	1695143	+	1314		conserved hypothetical transport protein	LON2	clust_1744
+LON3|SEQ01536	VBIBifLon156230_1539	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769693	2347539	2348852	+	1314		conserved hypothetical transport protein	LON3	clust_1744
+LON4|SEQ01962	VBIBifLon48544_1963	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892341	2332118	2333431	-	1314		conserved hypothetical transport protein	LON4	clust_1744

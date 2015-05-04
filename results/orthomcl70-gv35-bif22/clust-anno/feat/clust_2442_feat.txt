@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01033	VBIBifBre340958_1033	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604068	1213009	1214265	-	1257		HipA protein	BRE1	clust_2442
+BRE8|SEQ01121	VBIBifBre176493_1121	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624829	1307770	1309053	-	1284		HipA protein	BRE8	clust_2442
+DEN1|SEQ00946	VBIBifDen165269_0947	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459015	82747	84048	-	1302		HipA protein	DEN1	clust_2442
+DEN2|SEQ01521	VBIBifDen39005_1522	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111431	141679	142980	+	1302		HipA protein	DEN2	clust_2442
+LON1|SEQ00339	VBIBifLon107831_0339	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117719	403232	404515	-	1284		HipA protein	LON1	clust_2442
+LON3|SEQ00205	VBIBifLon156230_0205	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767343	1025885	1027168	-	1284		HipA protein	LON3	clust_2442
+LON4|SEQ00926	VBIBifLon48544_0926	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890129	1081051	1082349	-	1299		HipA protein	LON4	clust_2442

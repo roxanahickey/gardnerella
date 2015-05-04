@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01547	VBIBifAdo136061_1547	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189464	9869	11047	+	1179		multidrug transport protein	ADO1	clust_1742
+ANI1|SEQ00011	VBIBifAni240121_0011	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844914	15477	16805	-	1329		multidrug transport protein	ANI1	clust_1742
+ANI2|SEQ00011	VBIBifAni235968_0011	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848269	15477	16805	-	1329		multidrug transport protein	ANI2	clust_1742
+ANI3|SEQ00011	VBIBifAni108068_0011	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762282	15477	16805	-	1329		multidrug transport protein	ANI3	clust_1742
+BRE1|SEQ01681	VBIBifBre340958_1682	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605417	1956642	1956866	-	225		multidrug transport protein	BRE1	clust_1742
+BRE2|SEQ01787	VBIBifBre337368_1787	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609605	2057174	2057398	-	225		multidrug transport protein	BRE2	clust_1742
+BRE3|SEQ01750	VBIBifBre167886_1750	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195280	2029144	2029368	-	225		multidrug transport protein	BRE3	clust_1742
+BRE4|SEQ01720	VBIBifBre327712_1720	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613612	1989418	1989642	-	225		multidrug transport protein	BRE4	clust_1742
+BRE6|SEQ01348	VBIBifBre268992_1348	Bifidobacterium breve JCP7499	AWSX01000066	PATRIC	CDS	177655931	5403	5627	+	225		multidrug transport protein	BRE6	clust_1742
+BRE7|SEQ01779	VBIBifBre340732_1779	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622087	2040203	2040427	-	225		multidrug transport protein	BRE7	clust_1742
+BRE8|SEQ01735	VBIBifBre176493_1735	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626111	2013663	2013887	-	225		multidrug transport protein	BRE8	clust_1742
+BRE9|SEQ01843	VBIBifBre30019_1843	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447855	2117638	2117862	-	225		multidrug transport protein	BRE9	clust_1742
+DEN1|SEQ01449	VBIBifDen165269_1450	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460028	717936	719240	-	1305		multidrug transport protein	DEN1	clust_1742
+DEN2|SEQ00191	VBIBifDen39005_0191	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108698	136053	137357	+	1305		multidrug transport protein	DEN2	clust_1742

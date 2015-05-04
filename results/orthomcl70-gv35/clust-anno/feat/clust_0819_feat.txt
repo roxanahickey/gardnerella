@@ -1,0 +1,34 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00092	VBIGarVag247323_0092	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494284	121287	122165	+	879		ABC-type multidrug transport system, ATPase component	GV01	clust_0819
+GV02|SEQ00587	VBIGarVag242669_0587	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497984	218968	219873	-	906		ABC-type multidrug transport system, ATPase component	GV02	clust_0819
+GV03|SEQ00013	VBIGarVag247424_0013	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499387	14493	15404	-	912		ABC-type multidrug transport system, ATPase component	GV03	clust_0819
+GV04|SEQ00511	VBIGarVag246433_0511	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480908	158534	159472	-	939		ABC-type multidrug transport system, ATPase component	GV04	clust_0819
+GV05|SEQ00006	VBIGarVag174900_0006	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545712	4807	5718	+	912		ABC-type multidrug transport system, ATPase component	GV05	clust_0819
+GV06|SEQ01059	VBIGarVag244004_1059	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490938	13029	13910	-	882		ABC-type multidrug transport system, ATPase component	GV06	clust_0819
+GV07|SEQ00469	VBIGarVag249177_0469	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492568	126074	126973	-	900		ABC-type multidrug transport system, ATPase component	GV07	clust_0819
+GV08|SEQ00285	VBIGarVag251521_0285	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474961	84759	85697	+	939		ABC-type multidrug transport system, ATPase component	GV08	clust_0819
+GV09|SEQ00527	VBIGarVag169280_0527	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260236	269847	270785	-	939		ABC-type multidrug transport system, ATPase component	GV09	clust_0819
+GV10|SEQ00999	VBIGarVag136958_0999	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148084	1312534	1313439	-	906		ABC-type multidrug transport system, ATPase component	GV10	clust_0819
+GV11|SEQ00632	VBIGarVag171052_0632	Gardnerella vaginalis 41V	AEJE01000040	PATRIC	CDS	52549605	14149	15030	-	882		ABC-type multidrug transport system, ATPase component	GV11	clust_0819
+GV12|SEQ00402	VBIGarVag144721_0402	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853481	421091	421996	-	906		ABC-type multidrug transport system, ATPase component	GV12	clust_0819
+GV13|SEQ01319	VBIGarVag244533_1319	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488698	59542	60483	+	942		ABC-type multidrug transport system, ATPase component	GV13	clust_0819
+GV14|SEQ00709	VBIGarVag244375_0709	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503300	55430	56371	+	942		ABC-type multidrug transport system, ATPase component	GV14	clust_0819
+GV15|SEQ00979	VBIGarVag249709_0979	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485538	164190	165077	-	888		ABC-type multidrug transport system, ATPase component	GV15	clust_0819
+GV16|SEQ01176	VBIGarVag246379_1176	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479546	1383673	1384551	-	879		ABC-type multidrug transport system, ATPase component	GV16	clust_0819
+GV17|SEQ01151	VBIGarVag146634_1151	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852401	102245	103159	-	915		ABC-type multidrug transport system, ATPase component	GV17	clust_0819
+GV18|SEQ00705	VBIGarVag4823_0705	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000122	PATRIC	CDS	42070183	6489	7427	-	939		ABC-type multidrug transport system, ATPase component	GV18	clust_0819
+GV19|SEQ00434	VBIGarVag39333_0435	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627737	527284	528222	+	939		ABC-type multidrug transport system, ATPase component	GV19	clust_0819
+GV20|SEQ01084	VBIGarVag188338_1084	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191028	1357705	1358643	-	939		ABC-type multidrug transport system, ATPase component	GV20	clust_0819
+GV21|SEQ00894	VBIGarVag274454_0895	Gardnerella vaginalis JCP7275	ATJS01000067	PATRIC	CDS	183968540	3761	4645	-	885		ABC-type multidrug transport system, ATPase component	GV21	clust_0819
+GV22|SEQ01006	VBIGarVag276801_1007	Gardnerella vaginalis JCP7276	ATJR01000079	PATRIC	CDS	183971532	3649	4587	-	939		ABC-type multidrug transport system, ATPase component	GV22	clust_0819
+GV23|SEQ01138	VBIGarVag276017_1138	Gardnerella vaginalis JCP7659	ATJQ01000147	PATRIC	CDS	183974782	247	1095	+	849		ABC-type multidrug transport system, ATPase component	GV23	clust_0819
+GV24|SEQ01058	VBIGarVag268944_1059	Gardnerella vaginalis JCP7672	ATJP01000100	PATRIC	CDS	183977373	305	1243	+	939		ABC-type multidrug transport system, ATPase component	GV24	clust_0819
+GV25|SEQ00122	VBIGarVag270495_0122	Gardnerella vaginalis JCP7719	ATJO01000009	PATRIC	CDS	183978115	2742	3620	-	879		ABC-type multidrug transport system, ATPase component	GV25	clust_0819
+GV26|SEQ01167	VBIGarVag272749_1167	Gardnerella vaginalis JCP8017A	ATJN01000118	PATRIC	CDS	183983262	207	1058	+	852		ABC-type multidrug transport system, ATPase component	GV26	clust_0819
+GV27|SEQ01036	VBIGarVag276930_1036	Gardnerella vaginalis JCP8017B	ATJM01000083	PATRIC	CDS	183985917	2442	3293	-	852		ABC-type multidrug transport system, ATPase component	GV27	clust_0819
+GV28|SEQ00920	VBIGarVag271349_0920	Gardnerella vaginalis JCP8066	ATJL01000083	PATRIC	CDS	183988627	19564	20427	+	864		ABC-type multidrug transport system, ATPase component	GV28	clust_0819
+GV29|SEQ00803	VBIGarVag265473_0803	Gardnerella vaginalis JCP8070	ATJK01000067	PATRIC	CDS	183991087	3517	4380	-	864		ABC-type multidrug transport system, ATPase component	GV29	clust_0819
+GV30|SEQ01148	VBIGarVag267667_1150	Gardnerella vaginalis JCP8108	ATJJ01000116	PATRIC	CDS	183994532	8572	9525	+	954		ABC-type multidrug transport system, ATPase component	GV30	clust_0819
+GV31|SEQ01244	VBIGarVag264983_1244	Gardnerella vaginalis JCP8151A	ATJI01000174	PATRIC	CDS	183997768	5884	6747	+	864		ABC-type multidrug transport system, ATPase component	GV31	clust_0819
+GV32|SEQ01227	VBIGarVag277040_1227	Gardnerella vaginalis JCP8151B	ATJH01000167	PATRIC	CDS	184000534	16306	17169	+	864		ABC-type multidrug transport system, ATPase component	GV32	clust_0819
+GV35|SEQ01125	VBIGarVag272169_1125	Gardnerella vaginalis JCP8522	ATJE01000162	PATRIC	CDS	184008760	27692	28555	+	864		ABC-type multidrug transport system, ATPase component	GV35	clust_0819

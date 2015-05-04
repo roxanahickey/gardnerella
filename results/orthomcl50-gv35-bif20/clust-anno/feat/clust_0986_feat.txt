@@ -1,0 +1,33 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00568	VBIGarVag246433_0568	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481028	233203	234063	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV04	clust_0986
+GV06|SEQ01115	VBIGarVag244004_1115	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491056	84248	85108	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV06	clust_0986
+GV08|SEQ00227	VBIGarVag251521_0227	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474839	10962	11822	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV08	clust_0986
+GV09|SEQ00585	VBIGarVag169280_0585	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260359	344843	345703	-	861	morA	oxidoreductase of aldo/keto reductase family, subgroup 1	GV09	clust_0986
+GV11|SEQ01068	VBIGarVag171052_1068	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550526	4469	5329	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV11	clust_0986
+GV16|SEQ01236	VBIGarVag246379_1236	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479673	1458212	1459072	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV16	clust_0986
+GV18|SEQ00319	VBIGarVag4823_0319	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000084	PATRIC	CDS	42069351	8543	9403	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV18	clust_0986
+GV19|SEQ00374	VBIGarVag39333_0375	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627611	453589	454449	+	861	dkgB	oxidoreductase of aldo/keto reductase family, subgroup 1	GV19	clust_0986
+GV20|SEQ01143	VBIGarVag188338_1143	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191152	1432304	1433164	-	861	morA	oxidoreductase of aldo/keto reductase family, subgroup 1	GV20	clust_0986
+GV21|SEQ00550	VBIGarVag274454_0551	Gardnerella vaginalis JCP7275	ATJS01000028	PATRIC	CDS	183967777	14968	15828	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV21	clust_0986
+GV22|SEQ00715	VBIGarVag276801_0716	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970879	11002	11862	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV22	clust_0986
+GV24|SEQ00320	VBIGarVag268944_0321	Gardnerella vaginalis JCP7672	ATJP01000017	PATRIC	CDS	183975760	68	928	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV24	clust_0986
+GV30|SEQ00480	VBIGarVag267667_0481	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993053	12927	13787	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV30	clust_0986
+ADO1|SEQ01371	VBIBifAdo136061_1371	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189094	32090	32923	+	834		dehydrogenase or reductase protein( EC:1.1.1.274 )	ADO1	clust_0986
+ANI1|SEQ00063	VBIBifAni240121_0063	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845023	73155	74018	+	864		dehydrogenase or reductase protein( EC:1.1.1.274 )	ANI1	clust_0986
+ANI2|SEQ00063	VBIBifAni235968_0063	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848378	73155	74018	+	864		dehydrogenase or reductase protein( EC:1.1.1.274 )	ANI2	clust_0986
+ANI3|SEQ00065	VBIBifAni108068_0065	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762394	73155	74018	+	864		dehydrogenase or reductase protein( EC:1.1.1.274 )	ANI3	clust_0986
+BIF1|SEQ00354	VBIBifBif87902_0354	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883239	430925	431809	+	885	dkgA	dehydrogenase or reductase protein( EC:1.1.1.274 )	BIF1	clust_0986
+BRE1|SEQ00366	VBIBifBre340958_0366	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602681	458675	459544	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE1	clust_0986
+BRE2|SEQ00428	VBIBifBre337368_0428	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606780	514783	515652	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE2	clust_0986
+BRE3|SEQ00425	VBIBifBre167886_0425	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192522	527449	528318	+	870	dkgA_1	dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE3	clust_0986
+BRE4|SEQ00375	VBIBifBre327712_0375	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610816	472143	473012	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE4	clust_0986
+BRE5|SEQ00399	VBIBifBre336369_0400	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614913	469145	470014	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE5	clust_0986
+BRE6|SEQ00339	VBIBifBre268992_0339	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653798	6992	7861	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE6	clust_0986
+BRE7|SEQ00401	VBIBifBre340732_0401	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619224	494706	495575	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE7	clust_0986
+BRE8|SEQ00428	VBIBifBre176493_0428	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623392	533094	533963	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE8	clust_0986
+BRE9|SEQ00469	VBIBifBre30019_0469	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445000	565924	566793	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	BRE9	clust_0986
+INF1|SEQ00365	VBIBifLon182273_0365	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884666	455304	456173	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	INF1	clust_0986
+LON1|SEQ00990	VBIBifLon107831_0991	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119057	1166018	1166887	-	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	LON1	clust_0986
+LON2|SEQ01046	VBIBifLon171405_1047	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581639	1195102	1195971	-	870	akrA2	dehydrogenase or reductase protein( EC:1.1.1.274 )	LON2	clust_0986
+LON3|SEQ00853	VBIBifLon156230_0853	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768681	1770985	1771854	-	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	LON3	clust_0986
+LON4|SEQ00368	VBIBifLon48544_0368	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888974	452979	453848	+	870		dehydrogenase or reductase protein( EC:1.1.1.274 )	LON4	clust_0986

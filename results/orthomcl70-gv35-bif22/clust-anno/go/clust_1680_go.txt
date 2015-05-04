@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BIF1|SEQ01715	86886053	VBIBifBif87902_1715	SEQ01715	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Ribose operon repressor	GO:0005622	intracellular	go	clust_1680
+BIF1|SEQ01715	86886053	VBIBifBif87902_1715	SEQ01715	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Ribose operon repressor	GO:0003700	transcription factor activity	go	clust_1680
+DEN1|SEQ00448	43462188	VBIBifDen165269_0449	SEQ00448	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Ribose operon repressor	GO:0005622	intracellular	go	clust_1680
+DEN1|SEQ00448	43462188	VBIBifDen165269_0449	SEQ00448	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Ribose operon repressor	GO:0003700	transcription factor activity	go	clust_1680
+DEN2|SEQ01106	42110577	VBIBifDen39005_1106	SEQ01106	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000019	PATRIC	CDS	NA	Ribose operon repressor	GO:0003700	transcription factor activity	go	clust_1680
+DEN2|SEQ01106	42110577	VBIBifDen39005_1106	SEQ01106	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000019	PATRIC	CDS	NA	Ribose operon repressor	GO:0005622	intracellular	go	clust_1680

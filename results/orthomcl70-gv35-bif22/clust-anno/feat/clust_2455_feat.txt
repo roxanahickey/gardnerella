@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00755	VBIBifAdo136061_0755	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187808	632630	633574	-	945		Cellobiose phosphorylase (EC 2.4.1.-)	ADO1	clust_2455
+ADO1|SEQ00756	VBIBifAdo136061_0756	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187810	633627	634901	-	1275		Cellobiose phosphorylase (EC 2.4.1.-)	ADO1	clust_2455
+ANI1|SEQ01405	VBIBifAni240121_1405	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847817	1670153	1671091	+	939		Cellobiose phosphorylase (EC 2.4.1.-)	ANI1	clust_2455
+ANI2|SEQ01404	VBIBifAni235968_1404	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851168	1670372	1671310	+	939		Cellobiose phosphorylase (EC 2.4.1.-)	ANI2	clust_2455
+ANI3|SEQ01414	VBIBifAni108068_1414	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765188	1675603	1676541	+	939		Cellobiose phosphorylase (EC 2.4.1.-)	ANI3	clust_2455
+DEN1|SEQ00842	VBIBifDen165269_0843	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462992	2369366	2371870	-	2505	cepA	Cellobiose phosphorylase (EC 2.4.1.-)	DEN1	clust_2455
+DEN2|SEQ00337	VBIBifDen39005_0337	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108997	59862	62366	+	2505		Cellobiose phosphorylase (EC 2.4.1.-)	DEN2	clust_2455

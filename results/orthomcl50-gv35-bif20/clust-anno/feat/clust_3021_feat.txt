@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01875	VBIBifBre340958_1877	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605817	2207613	2207903	+	291		hypothetical protein	BRE1	clust_3021
+BRE3|SEQ01935	VBIBifBre167886_1935	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195667	2279383	2280753	+	1371		transposase for IS3511c	BRE3	clust_3021
+BRE6|SEQ01491	VBIBifBre268992_1491	Bifidobacterium breve JCP7499	AWSX01000071	PATRIC	CDS	177656240	163	312	+	150		hypothetical protein	BRE6	clust_3021
+BRE8|SEQ01911	VBIBifBre176493_1911	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626481	2246847	2248217	+	1371		Mobile element protein	BRE8	clust_3021

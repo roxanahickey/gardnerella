@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00646	86883829	VBIBifBif87902_0646	SEQ00646	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		putative two-component system, response regulator	FIG00945480	figfam	clust_2034
+BRE2|SEQ01101	268608175	VBIBifBre337368_1101	SEQ01101	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+BRE3|SEQ00780	54193255	VBIBifBre167886_0780	SEQ00780	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+BRE4|SEQ00948	268612000	VBIBifBre327712_0948	SEQ00948	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+BRE6|SEQ01756	177656814	VBIBifBre268992_1756	SEQ01756	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+BRE7|SEQ01051	268620577	VBIBifBre340732_1051	SEQ01051	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+BRE9|SEQ01137	58446388	VBIBifBre30019_1137	SEQ01137	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+INF1|SEQ01002	46885987	VBIBifLon182273_1002	SEQ01002	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		DNA-binding response regulator, LuxR family	FIG01307606	figfam	clust_2034
+LON2|SEQ00499	42580519	VBIBifLon171405_0500	SEQ00499	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2034

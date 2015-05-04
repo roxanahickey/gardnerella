@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV09|SEQ00346	VBIGarVag169280_0346	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259859	49284	50039	-	756		COG3425: 3-hydroxy-3-methylglutaryl CoA synthase	GV09	clust_1565
+GV10|SEQ00865	VBIGarVag136958_0865	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147804	1128386	1129135	+	750		Dimethyladenosine transferase (EC 2.1.1.-)	GV10	clust_1565
+GV26|SEQ00054	VBIGarVag272749_0054	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980843	2787	3536	-	750		hypothetical protein	GV26	clust_1565
+GV27|SEQ00089	VBIGarVag276930_0089	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983889	58650	59399	+	750		hypothetical protein	GV27	clust_1565
+GV31|SEQ00957	VBIGarVag264983_0957	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	183997065	911	1660	-	750		hypothetical protein	GV31	clust_1565
+GV32|SEQ00784	VBIGarVag277040_0784	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	183999499	11655	12404	+	750		hypothetical protein	GV32	clust_1565

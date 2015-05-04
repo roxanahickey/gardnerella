@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01872	VBIBifBre340958_1874	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605811	2203932	2204936	+	1005		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE1	clust_3014
+BRE3|SEQ01933	VBIBifBre167886_1933	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195663	2276785	2277789	+	1005	rbsC	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE3	clust_3014
+BRE6|SEQ00508	VBIBifBre268992_0508	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654150	34007	35011	+	1005		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE6	clust_3014
+BRE8|SEQ01909	VBIBifBre176493_1909	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626477	2244249	2245253	+	1005		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE8	clust_3014

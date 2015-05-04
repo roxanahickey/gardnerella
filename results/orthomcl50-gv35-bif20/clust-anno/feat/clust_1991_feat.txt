@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00072	VBIBifAdo136061_0072	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186336	80727	81497	-	771		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	ADO1	clust_1991
+BRE1|SEQ01623	VBIBifBre340958_1624	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605286	1896453	1897370	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE1	clust_1991
+BRE2|SEQ01731	VBIBifBre337368_1731	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609478	1998987	1999904	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE2	clust_1991
+BRE3|SEQ01684	VBIBifBre167886_1684	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195134	1956231	1957148	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE3	clust_1991
+BRE4|SEQ01665	VBIBifBre327712_1665	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613487	1931139	1932056	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE4	clust_1991
+BRE5|SEQ01787	VBIBifBre336369_1788	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617784	2001869	2002786	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE5	clust_1991
+BRE6|SEQ01404	VBIBifBre268992_1404	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656058	13750	14667	+	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE6	clust_1991
+BRE7|SEQ01712	VBIBifBre340732_1712	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621938	1967674	1968591	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE7	clust_1991
+BRE8|SEQ01669	VBIBifBre176493_1669	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625964	1941056	1941973	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE8	clust_1991
+BRE9|SEQ01777	VBIBifBre30019_1777	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447708	2045111	2046028	-	918		N-Acetyl-D-glucosamine ABC transport system, permease protein 1	BRE9	clust_1991

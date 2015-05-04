@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01111	VBIGarVag247323_1111	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496423	114498	115487	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV01	clust_0589
+GV02|SEQ00326	VBIGarVag242669_0326	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497428	133886	134875	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV02	clust_0589
+GV03|SEQ00634	VBIGarVag247424_0634	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500690	205648	206625	+	978		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV03	clust_0589
+GV04|SEQ00773	VBIGarVag246433_0773	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481445	105459	106433	+	975		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV04	clust_0589
+GV05|SEQ00653	VBIGarVag174900_0653	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547065	266704	267681	+	978		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV05	clust_0589
+GV06|SEQ00316	VBIGarVag244004_0316	Gardnerella vaginalis 1400E	ADER01000008	PATRIC	CDS	85489358	8137	9168	-	1032		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV06	clust_0589
+GV07|SEQ00752	VBIGarVag249177_0752	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493160	7263	8240	-	978		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV07	clust_0589
+GV08|SEQ00764	VBIGarVag251521_0764	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475954	120272	121261	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV08	clust_0589
+GV09|SEQ00210	VBIGarVag169280_0210	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259583	30874	31863	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV09	clust_0589
+GV10|SEQ00441	VBIGarVag136958_0441	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146934	533048	534040	+	993		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV10	clust_0589
+GV11|SEQ00309	VBIGarVag171052_0309	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548919	9302	10333	-	1032		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV11	clust_0589
+GV12|SEQ01010	VBIGarVag144721_1010	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854755	596998	597990	+	993		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV12	clust_0589
+GV13|SEQ00417	VBIGarVag244533_0417	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486794	9130	10161	-	1032		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV13	clust_0589
+GV14|SEQ00449	VBIGarVag244375_0449	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502755	87510	88487	+	978		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV14	clust_0589
+GV15|SEQ00247	VBIGarVag249709_0247	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85484002	81589	82581	+	993		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV15	clust_0589
+GV16|SEQ00551	VBIGarVag246379_0551	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478250	600047	601021	+	975		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV16	clust_0589
+GV17|SEQ00147	VBIGarVag146634_0147	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850291	86355	87347	-	993		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV17	clust_0589
+GV18|SEQ00361	VBIGarVag4823_0361	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000091	PATRIC	CDS	42069444	2563	3537	+	975		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV18	clust_0589
+GV19|SEQ01061	VBIGarVag39333_1062	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629033	1297989	1298963	-	975		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV19	clust_0589
+GV20|SEQ00446	VBIGarVag188338_0446	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189706	559522	560511	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV20	clust_0589
+GV21|SEQ00078	VBIGarVag274454_0078	Gardnerella vaginalis JCP7275	ATJS01000004	PATRIC	CDS	183966793	5048	6079	-	1032		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV21	clust_0589
+GV22|SEQ00690	VBIGarVag276801_0691	Gardnerella vaginalis JCP7276	ATJR01000027	PATRIC	CDS	183970827	4511	5500	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV22	clust_0589
+GV23|SEQ00734	VBIGarVag276017_0734	Gardnerella vaginalis JCP7659	ATJQ01000050	PATRIC	CDS	183973841	7915	8904	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV23	clust_0589
+GV24|SEQ00143	VBIGarVag268944_0144	Gardnerella vaginalis JCP7672	ATJP01000005	PATRIC	CDS	183975388	5539	6528	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV24	clust_0589
+GV25|SEQ00542	VBIGarVag270495_0542	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183979020	31955	32944	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV25	clust_0589
+GV26|SEQ01198	VBIGarVag272749_1198	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983340	9450	10439	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV26	clust_0589
+GV27|SEQ00235	VBIGarVag276930_0235	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984197	31840	32829	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV27	clust_0589
+GV28|SEQ00060	VBIGarVag271349_0060	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986772	7877	8866	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV28	clust_0589
+GV29|SEQ00496	VBIGarVag265473_0496	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990404	7597	8586	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV29	clust_0589
+GV30|SEQ00331	VBIGarVag267667_0332	Gardnerella vaginalis JCP8108	ATJJ01000012	PATRIC	CDS	183992723	5971	7002	-	1032		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV30	clust_0589
+GV31|SEQ00044	VBIGarVag264983_0044	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995109	7991	8980	+	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV31	clust_0589
+GV32|SEQ00706	VBIGarVag277040_0706	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999330	32705	33694	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV32	clust_0589
+GV33|SEQ01024	VBIGarVag265557_1024	Gardnerella vaginalis JCP8481A	ATJG01000124	PATRIC	CDS	184002903	10049	11026	+	978		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV33	clust_0589
+GV34|SEQ00887	VBIGarVag270440_0887	Gardnerella vaginalis JCP8481B	ATJF01000095	PATRIC	CDS	184005422	9524	10501	+	978		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV34	clust_0589
+GV35|SEQ01027	VBIGarVag272169_1027	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008539	30769	31758	-	990		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2)	GV35	clust_0589

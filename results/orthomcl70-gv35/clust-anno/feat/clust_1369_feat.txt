@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00013	VBIGarVag244004_0013	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488731	11294	14896	+	3603		hypothetical protein	GV06	clust_1369
+GV10|SEQ00926	VBIGarVag136958_0926	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147934	1209370	1213053	-	3684		hypothetical protein	GV10	clust_1369
+GV11|SEQ01035	VBIGarVag171052_1035	Gardnerella vaginalis 41V	AEJE01000059	PATRIC	CDS	52550453	6937	10908	+	3972		FIG00672450: hypothetical protein	GV11	clust_1369
+GV12|SEQ00329	VBIGarVag144721_0329	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853331	314533	317511	-	2979		Chitinase (EC 3.2.1.14)	GV12	clust_1369
+GV13|SEQ00935	VBIGarVag244533_0935	Gardnerella vaginalis 55152	ADEQ01000013	PATRIC	CDS	85487879	7	1743	+	1737		hypothetical protein	GV13	clust_1369
+GV21|SEQ01039	VBIGarVag274454_1040	Gardnerella vaginalis JCP7275	ATJS01000112	PATRIC	CDS	183968899	20	1276	-	1257		hypothetical protein	GV21	clust_1369
+GV30|SEQ00745	VBIGarVag267667_0747	Gardnerella vaginalis JCP8108	ATJJ01000047	PATRIC	CDS	183993625	5776	8856	-	3081		Prolipoprotein Q	GV30	clust_1369
+GV33|SEQ00435	VBIGarVag265557_0435	Gardnerella vaginalis JCP8481A	ATJG01000039	PATRIC	CDS	184001597	87	1559	-	1473		hypothetical protein	GV33	clust_1369

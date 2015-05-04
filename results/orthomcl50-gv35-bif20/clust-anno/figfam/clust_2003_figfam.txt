@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00128	27186472	VBIBifAdo136061_0128	SEQ00128	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+ANI1|SEQ01329	86847665	VBIBifAni240121_1329	SEQ01329	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+ANI2|SEQ01329	86851018	VBIBifAni235968_1329	SEQ01329	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+ANI3|SEQ01339	42765038	VBIBifAni108068_1339	SEQ01339	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+BIF1|SEQ00392	86883315	VBIBifBif87902_0392	SEQ00392	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+INF1|SEQ00434	46884806	VBIBifLon182273_0434	SEQ00434	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+LON1|SEQ00917	21118911	VBIBifLon107831_0918	SEQ00917	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+LON2|SEQ00998	42581543	VBIBifLon171405_0999	SEQ00998	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+LON3|SEQ00790	42768554	VBIBifLon156230_0790	SEQ00790	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003
+LON4|SEQ00421	46889081	VBIBifLon48544_0421	SEQ00421	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FOG: FHA domain	FIG01307699	figfam	clust_2003

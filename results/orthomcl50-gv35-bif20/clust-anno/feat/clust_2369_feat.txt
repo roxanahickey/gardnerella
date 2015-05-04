@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00126	VBIBifAdo136061_0126	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186468	46332	47192	+	861		Protein serine/threonine phosphatase PrpC, regulation of stationary phase	ADO1	clust_2369
+BIF1|SEQ00394	VBIBifBif87902_0394	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883319	481444	482337	-	894	ppp	Protein serine/threonine phosphatase PrpC, regulation of stationary phase	BIF1	clust_2369
+INF1|SEQ00436	VBIBifLon182273_0436	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884810	544414	545346	-	933		Protein serine/threonine phosphatase PrpC, regulation of stationary phase	INF1	clust_2369
+LON1|SEQ00915	VBIBifLon107831_0916	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118907	1076909	1077841	+	933	ppp	Protein serine/threonine phosphatase PrpC, regulation of stationary phase	LON1	clust_2369
+LON2|SEQ00996	VBIBifLon171405_0997	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581539	1129772	1130704	+	933	pp2A1	Protein serine/threonine phosphatase PrpC, regulation of stationary phase	LON2	clust_2369
+LON3|SEQ00788	VBIBifLon156230_0788	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768550	1692290	1693222	+	933		Protein serine/threonine phosphatase PrpC, regulation of stationary phase	LON3	clust_2369
+LON4|SEQ00423	VBIBifLon48544_0423	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889085	518896	519828	-	933		Protein serine/threonine phosphatase PrpC, regulation of stationary phase	LON4	clust_2369

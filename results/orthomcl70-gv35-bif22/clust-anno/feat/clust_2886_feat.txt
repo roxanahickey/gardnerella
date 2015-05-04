@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE5|SEQ01984	VBIBifBre336369_1985	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618198	2238911	2239369	-	459		Galactoside O-acetyltransferase (EC 2.3.1.18)	BRE5	clust_2886
+BRE6|SEQ01328	VBIBifBre268992_1328	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655889	48955	49413	-	459		Galactoside O-acetyltransferase (EC 2.3.1.18)	BRE6	clust_2886
+BRE9|SEQ01968	VBIBifBre30019_1968	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448110	2279500	2279958	-	459	maa	Galactoside O-acetyltransferase (EC 2.3.1.18)	BRE9	clust_2886
+DEN1|SEQ01116	VBIBifDen165269_1117	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459359	307059	307706	+	648	lacA	Galactoside O-acetyltransferase (EC 2.3.1.18)	DEN1	clust_2886
+DEN2|SEQ02077	VBIBifDen39005_2079	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112593	78949	79596	+	648	maa	Galactoside O-acetyltransferase (EC 2.3.1.18)	DEN2	clust_2886

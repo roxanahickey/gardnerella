@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01307	VBIBifAdo136061_1307	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188959	250458	250769	-	312		Sporulation regulatory protein WhiB	ADO1	clust_1495
+BIF1|SEQ00716	VBIBifBif87902_0716	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883972	879161	879460	+	300	whiB	Sporulation regulatory protein WhiB	BIF1	clust_1495
+BRE1|SEQ00683	VBIBifBre340958_0683	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603333	827576	827875	+	300		Sporulation regulatory protein WhiB	BRE1	clust_1495
+BRE2|SEQ00779	VBIBifBre337368_0779	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607495	924399	924698	+	300		Sporulation regulatory protein WhiB	BRE2	clust_1495
+BRE3|SEQ01092	VBIBifBre167886_1092	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193915	1281916	1282215	-	300		Sporulation regulatory protein WhiB	BRE3	clust_1495
+BRE4|SEQ00718	VBIBifBre327712_0718	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611517	868573	868872	+	300		Sporulation regulatory protein WhiB	BRE4	clust_1495
+BRE5|SEQ00734	VBIBifBre336369_0735	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615595	865855	866154	+	300		Sporulation regulatory protein WhiB	BRE5	clust_1495
+BRE6|SEQ00670	VBIBifBre268992_0670	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654504	38192	38491	-	300		Sporulation regulatory protein WhiB	BRE6	clust_1495
+BRE7|SEQ00728	VBIBifBre340732_0728	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619895	871675	871974	+	300		Sporulation regulatory protein WhiB	BRE7	clust_1495
+BRE8|SEQ00750	VBIBifBre176493_0750	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624048	912536	912835	+	300	whiB2	Sporulation regulatory protein WhiB	BRE8	clust_1495
+BRE9|SEQ00801	VBIBifBre30019_0801	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445679	960098	960397	+	300	whiB2	Sporulation regulatory protein WhiB	BRE9	clust_1495
+INF1|SEQ00646	VBIBifLon182273_0646	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885241	794505	794804	+	300		Sporulation regulatory protein WhiB	INF1	clust_1495
+LON1|SEQ00710	VBIBifLon107831_0711	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118491	829571	829870	-	300	whiB2	Sporulation regulatory protein WhiB	LON1	clust_1495
+LON2|SEQ00776	VBIBifLon171405_0777	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581092	870566	870865	-	300		Sporulation regulatory protein WhiB	LON2	clust_1495
+LON3|SEQ00581	VBIBifLon156230_0581	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768129	1445186	1445485	-	300		Sporulation regulatory protein WhiB	LON3	clust_1495
+LON4|SEQ00639	VBIBifLon48544_0639	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889528	773098	773397	+	300		Sporulation regulatory protein WhiB	LON4	clust_1495
+THE1|SEQ00852	VBIBifThe274299_0852	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734890	1062186	1062500	+	315		Sporulation regulatory protein WhiB	THE1	clust_1495

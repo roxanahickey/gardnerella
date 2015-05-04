@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01747	VBIBifAdo136061_1747	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189865	244165	245415	+	1251		Streptolysin S export transmembrane permease (SagH)	ADO1	clust_1276
+ANI1|SEQ01112	VBIBifAni240121_1112	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847211	1299197	1300477	-	1281		Streptolysin S export transmembrane permease (SagH)	ANI1	clust_1276
+ANI2|SEQ01112	VBIBifAni235968_1112	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850564	1299201	1300481	-	1281		Streptolysin S export transmembrane permease (SagH)	ANI2	clust_1276
+ANI3|SEQ01118	VBIBifAni108068_1118	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764581	1299202	1300482	-	1281		Streptolysin S export transmembrane permease (SagH)	ANI3	clust_1276
+BIF1|SEQ00767	VBIBifBif87902_0767	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884080	946440	947687	+	1248		Streptolysin S export transmembrane permease (SagH)	BIF1	clust_1276
+BRE1|SEQ00828	VBIBifBre340958_0828	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603640	991758	993005	+	1248		Streptolysin S export transmembrane permease (SagH)	BRE1	clust_1276
+BRE2|SEQ00909	VBIBifBre337368_0909	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607774	1073834	1075072	+	1239		Streptolysin S export transmembrane permease (SagH)	BRE2	clust_1276
+BRE3|SEQ00972	VBIBifBre167886_0972	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193656	1140447	1141694	-	1248		Streptolysin S export transmembrane permease (SagH)	BRE3	clust_1276
+BRE4|SEQ00856	VBIBifBre327712_0856	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611811	1029716	1030954	+	1239		Streptolysin S export transmembrane permease (SagH)	BRE4	clust_1276
+BRE5|SEQ00862	VBIBifBre336369_0863	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615870	1015302	1016540	+	1239		Streptolysin S export transmembrane permease (SagH)	BRE5	clust_1276
+BRE6|SEQ00803	VBIBifBre268992_0803	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654778	11035	12273	-	1239		Streptolysin S export transmembrane permease (SagH)	BRE6	clust_1276
+BRE7|SEQ00859	VBIBifBre340732_0859	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620175	1021745	1022983	+	1239		Streptolysin S export transmembrane permease (SagH)	BRE7	clust_1276
+BRE8|SEQ00888	VBIBifBre176493_0888	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624342	1068116	1069363	+	1248		Streptolysin S export transmembrane permease (SagH)	BRE8	clust_1276
+BRE9|SEQ00943	VBIBifBre30019_0943	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445982	1121315	1122553	+	1239		Streptolysin S export transmembrane permease (SagH)	BRE9	clust_1276
+INF1|SEQ00775	VBIBifLon182273_0775	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885519	947655	948893	+	1239		Streptolysin S export transmembrane permease (SagH)	INF1	clust_1276
+LON1|SEQ00598	VBIBifLon107831_0599	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118253	690851	692089	-	1239		Streptolysin S export transmembrane permease (SagH)	LON1	clust_1276
+LON2|SEQ00658	VBIBifLon171405_0659	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580842	726227	727465	-	1239		Streptolysin S export transmembrane permease (SagH)	LON2	clust_1276
+LON3|SEQ00465	VBIBifLon156230_0465	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767882	1301519	1302757	-	1239		Streptolysin S export transmembrane permease (SagH)	LON3	clust_1276
+LON4|SEQ00747	VBIBifLon48544_0747	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889765	905001	906239	+	1239		Streptolysin S export transmembrane permease (SagH)	LON4	clust_1276
+THE1|SEQ00935	VBIBifThe274299_0935	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735064	1171048	1172319	+	1272		ABC-type multidrug transport system, permease component	THE1	clust_1276

@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00831	VBIBifBre340958_0831	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603646	995924	996595	+	672		hypothetical protein	BRE1	clust_2276
+BRE3|SEQ00967	VBIBifBre167886_0967	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193646	1135765	1136199	-	435		hypothetical protein	BRE3	clust_2276
+BRE4|SEQ00858	VBIBifBre327712_0858	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611815	1032602	1033060	+	459		hypothetical protein	BRE4	clust_2276
+BRE5|SEQ00865	VBIBifBre336369_0866	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615876	1019625	1020011	+	387		hypothetical protein	BRE5	clust_2276
+BRE6|SEQ00800	VBIBifBre268992_0800	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654772	7696	7950	-	255		hypothetical protein	BRE6	clust_2276
+BRE7|SEQ00862	VBIBifBre340732_0862	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620181	1026068	1026322	+	255		hypothetical protein	BRE7	clust_2276
+BRE8|SEQ00891	VBIBifBre176493_0891	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624348	1072448	1072702	+	255		hypothetical protein	BRE8	clust_2276
+THE1|SEQ01075	VBIBifThe274299_1075	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735360	1339755	1340459	-	705		putative Lysophospholipase	THE1	clust_2276

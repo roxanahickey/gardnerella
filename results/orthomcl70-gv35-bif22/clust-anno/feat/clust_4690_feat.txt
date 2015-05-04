@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ01563	VBIBifBre327712_1563	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613275	1829331	1829549	-	219		NLP/P60 family protein	BRE4	clust_4690
+DEN2|SEQ01976	VBIBifDen39005_1978	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112382	209498	209863	-	366		NLP/P60 family protein	DEN2	clust_4690

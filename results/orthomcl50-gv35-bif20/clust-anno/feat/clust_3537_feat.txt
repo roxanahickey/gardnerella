@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00914	VBIBifAni240121_0914	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846802	1062268	1062720	-	453		Pullulanase (EC 3.2.1.41)	ANI1	clust_3537
+ANI2|SEQ00913	VBIBifAni235968_0913	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850153	1062271	1062723	-	453		Pullulanase (EC 3.2.1.41)	ANI2	clust_3537
+ANI3|SEQ00916	VBIBifAni108068_0916	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764167	1062272	1062724	-	453		Pullulanase (EC 3.2.1.41)	ANI3	clust_3537

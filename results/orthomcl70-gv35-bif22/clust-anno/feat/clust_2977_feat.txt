@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01083	VBIBifAdo136061_1083	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188488	980378	980800	+	423		hypothetical protein	ADO1	clust_2977
+BRE5|SEQ00941	VBIBifBre336369_0942	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616032	1100000	1100422	-	423		hypothetical protein	BRE5	clust_2977
+DEN1|SEQ01847	VBIBifDen165269_1848	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460853	1159516	1159980	-	465		hypothetical protein	DEN1	clust_2977
+DEN2|SEQ00813	VBIBifDen39005_0813	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS	42109971	41271	41735	+	465		hypothetical protein	DEN2	clust_2977
+INF1|SEQ00843	VBIBifLon182273_0843	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885657	1022555	1022989	-	435		Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)	INF1	clust_2977

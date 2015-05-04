@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00939	VBIBifAni240121_0939	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846854	1086927	1087181	+	255		Aspartate aminotransferase (EC 2.6.1.1)	ANI1	clust_3671
+ANI2|SEQ00938	VBIBifAni235968_0938	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850205	1086930	1087184	+	255		Aspartate aminotransferase (EC 2.6.1.1)	ANI2	clust_3671
+ANI3|SEQ00942	VBIBifAni108068_0942	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764219	1086931	1087185	+	255		Aspartate aminotransferase (EC 2.6.1.1)	ANI3	clust_3671

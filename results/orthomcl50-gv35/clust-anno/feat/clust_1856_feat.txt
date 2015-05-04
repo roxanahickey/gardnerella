@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00660	VBIGarVag242669_0660	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498137	22128	22460	-	333		INTEGRAL MEMBRANE PROTEIN (Rhomboid family)	GV02	clust_1856
+GV11|SEQ00662	VBIGarVag171052_0662	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549671	21841	21984	-	144		INTEGRAL MEMBRANE PROTEIN (Rhomboid family)	GV11	clust_1856
+GV14|SEQ00290	VBIGarVag244375_0290	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502422	114231	114647	+	417		INTEGRAL MEMBRANE PROTEIN (Rhomboid family)	GV14	clust_1856

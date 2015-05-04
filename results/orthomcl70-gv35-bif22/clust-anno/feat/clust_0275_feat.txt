@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00308	VBIBifAdo136061_0308	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186872	104951	107707	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	ADO1	clust_0275
+ANI1|SEQ00064	VBIBifAni240121_0064	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845025	74259	77015	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	ANI1	clust_0275
+ANI2|SEQ00064	VBIBifAni235968_0064	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848380	74259	77015	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	ANI2	clust_0275
+ANI3|SEQ00066	VBIBifAni108068_0066	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762396	74259	77015	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	ANI3	clust_0275
+BIF1|SEQ00037	VBIBifBif87902_0037	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882571	46504	49260	-	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BIF1	clust_0275
+BRE1|SEQ00043	VBIBifBre340958_0043	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602004	54652	57405	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE1	clust_0275
+BRE2|SEQ00035	VBIBifBre337368_0035	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605959	47548	50301	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE2	clust_0275
+BRE3|SEQ00040	VBIBifBre167886_0040	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191717	54044	56797	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE3	clust_0275
+BRE4|SEQ00057	VBIBifBre327712_0057	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610147	73692	76445	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE4	clust_0275
+BRE5|SEQ00044	VBIBifBre336369_0044	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614168	55178	57931	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE5	clust_0275
+BRE6|SEQ01583	VBIBifBre268992_1583	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656435	49710	52463	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE6	clust_0275
+BRE7|SEQ00037	VBIBifBre340732_0037	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618465	48304	51057	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE7	clust_0275
+BRE8|SEQ00060	VBIBifBre176493_0060	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622625	73752	76505	-	2754	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE8	clust_0275
+BRE9|SEQ00060	VBIBifBre30019_0060	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444144	73711	76464	-	2754	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	BRE9	clust_0275
+DEN1|SEQ00668	VBIBifDen165269_0669	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462634	2131911	2134667	+	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	DEN1	clust_0275
+DEN2|SEQ01214	VBIBifDen39005_1215	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000022	PATRIC	CDS	42110804	52556	55312	-	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	DEN2	clust_0275
+GV01|SEQ00678	VBIGarVag247323_0678	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495509	103268	106024	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV01	clust_0275
+GV02|SEQ00163	VBIGarVag242669_0163	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497088	138015	140771	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV02	clust_0275
+GV03|SEQ00120	VBIGarVag247424_0120	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499616	46921	49677	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV03	clust_0275
+GV04|SEQ00272	VBIGarVag246433_0272	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480400	155513	158269	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV04	clust_0275
+GV05|SEQ00222	VBIGarVag174900_0222	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546162	46989	49745	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV05	clust_0275
+GV06|SEQ00103	VBIGarVag244004_0103	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488917	890	3646	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV06	clust_0275
+GV07|SEQ00137	VBIGarVag249177_0137	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491855	154173	156929	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV07	clust_0275
+GV08|SEQ00969	VBIGarVag251521_0969	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476381	53110	55866	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV08	clust_0275
+GV09|SEQ00132	VBIGarVag169280_0132	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259411	104839	107595	+	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV09	clust_0275
+GV10|SEQ00014	VBIGarVag136958_0014	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146038	19084	21840	-	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV10	clust_0275
+GV11|SEQ00461	VBIGarVag171052_0461	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549245	52697	55453	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV11	clust_0275
+GV12|SEQ00545	VBIGarVag144721_0545	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853783	47491	50247	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV12	clust_0275
+GV13|SEQ00062	VBIGarVag244533_0062	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486060	55836	58592	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV13	clust_0275
+GV14|SEQ00638	VBIGarVag244375_0638	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503140	150992	153748	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV14	clust_0275
+GV15|SEQ01076	VBIGarVag249709_1076	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485744	43905	46661	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV15	clust_0275
+GV16|SEQ00137	VBIGarVag246379_0137	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477388	61673	64429	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV16	clust_0275
+GV17|SEQ00623	VBIGarVag146634_0623	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851298	41179	43935	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV17	clust_0275
+GV18|SEQ00277	VBIGarVag4823_0277	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000079	PATRIC	CDS	42069262	1806	4562	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV18	clust_0275
+GV19|SEQ00151	VBIGarVag39333_0151	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627141	172274	175030	+	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV19	clust_0275
+GV20|SEQ00029	VBIGarVag188338_0029	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188828	33219	35975	+	2757	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV20	clust_0275
+GV21|SEQ00620	VBIGarVag274454_0621	Gardnerella vaginalis JCP7275	ATJS01000037	PATRIC	CDS	183967932	21624	24380	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV21	clust_0275
+GV22|SEQ00218	VBIGarVag276801_0218	Gardnerella vaginalis JCP7276	ATJR01000006	PATRIC	CDS	183969840	4073	6829	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV22	clust_0275
+GV23|SEQ00790	VBIGarVag276017_0790	Gardnerella vaginalis JCP7659	ATJQ01000060	PATRIC	CDS	183973975	12032	13312	-	1281		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV23	clust_0275
+GV24|SEQ00080	VBIGarVag268944_0081	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975254	76255	79011	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV24	clust_0275
+GV25|SEQ00092	VBIGarVag270495_0092	Gardnerella vaginalis JCP7719	ATJO01000007	PATRIC	CDS	183978047	4981	7737	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV25	clust_0275
+GV26|SEQ00777	VBIGarVag272749_0777	Gardnerella vaginalis JCP8017A	ATJN01000042	PATRIC	CDS	183982375	53	1333	+	1281		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV26	clust_0275
+GV27|SEQ00269	VBIGarVag276930_0269	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984273	20523	23279	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV27	clust_0275
+GV28|SEQ00885	VBIGarVag271349_0885	Gardnerella vaginalis JCP8066	ATJL01000082	PATRIC	CDS	183988548	4993	7749	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV28	clust_0275
+GV29|SEQ00615	VBIGarVag265473_0615	Gardnerella vaginalis JCP8070	ATJK01000038	PATRIC	CDS	183990662	4961	7717	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV29	clust_0275
+GV30|SEQ00572	VBIGarVag267667_0573	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993254	31231	33987	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV30	clust_0275
+GV31|SEQ00413	VBIGarVag264983_0413	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995879	93910	96666	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV31	clust_0275
+GV32|SEQ00862	VBIGarVag277040_0862	Gardnerella vaginalis JCP8151B	ATJH01000070	PATRIC	CDS	183999679	4988	7744	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV32	clust_0275
+GV33|SEQ00122	VBIGarVag265557_0122	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000917	40250	43006	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV33	clust_0275
+GV34|SEQ01046	VBIGarVag270440_1046	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005774	65680	68436	+	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV34	clust_0275
+GV35|SEQ00598	VBIGarVag272169_0598	Gardnerella vaginalis JCP8522	ATJE01000042	PATRIC	CDS	184007538	41	1321	+	1281		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	GV35	clust_0275
+INF1|SEQ00031	VBIBifLon182273_0031	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883963	36924	39677	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	INF1	clust_0275
+LON1|SEQ01342	VBIBifLon107831_1343	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119793	1585122	1587875	+	2754	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON1	clust_0275
+LON2|SEQ01375	VBIBifLon171405_1378	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582330	1593129	1595882	+	2754	ppc	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON2	clust_0275
+LON3|SEQ01456	VBIBifLon156230_1459	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769527	2234689	2237442	+	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON3	clust_0275
+LON4|SEQ00040	VBIBifLon48544_0040	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888283	49979	52732	-	2754		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	LON4	clust_0275
+THE1|SEQ00023	VBIBifThe274299_0023	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733205	28343	31099	-	2757		Phosphoenolpyruvate carboxylase (EC 4.1.1.31)	THE1	clust_0275

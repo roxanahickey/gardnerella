@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01032	VBIBifAni240121_1032	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847046	1191005	1191712	-	708		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	ANI1	clust_1650
+ANI2|SEQ01032	VBIBifAni235968_1032	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850399	1191008	1191715	-	708		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	ANI2	clust_1650
+ANI3|SEQ01036	VBIBifAni108068_1036	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764413	1191009	1191716	-	708		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	ANI3	clust_1650
+BIF1|SEQ00746	VBIBifBif87902_0746	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884038	915456	916073	-	618		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BIF1	clust_1650
+BRE1|SEQ00833	VBIBifBre340958_0833	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603650	998141	998764	-	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE1	clust_1650
+BRE2|SEQ00915	VBIBifBre337368_0915	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607786	1080211	1080834	-	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE2	clust_1650
+BRE3|SEQ00964	VBIBifBre167886_0964	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193640	1132674	1133297	+	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE3	clust_1650
+BRE4|SEQ00863	VBIBifBre327712_0863	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611825	1035862	1036485	-	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE4	clust_1650
+BRE5|SEQ00885	VBIBifBre336369_0886	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615917	1038657	1039280	-	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE5	clust_1650
+BRE6|SEQ00797	VBIBifBre268992_0797	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654766	5274	5894	+	621		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE6	clust_1650
+BRE7|SEQ00865	VBIBifBre340732_0865	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620187	1028124	1028744	-	621		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE7	clust_1650
+BRE8|SEQ00894	VBIBifBre176493_0894	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624354	1074501	1075124	-	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE8	clust_1650
+BRE9|SEQ00948	VBIBifBre30019_0948	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445992	1127692	1128315	-	624		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	BRE9	clust_1650
+DEN1|SEQ01946	VBIBifDen165269_1947	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461059	1228617	1229231	-	615		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	DEN1	clust_1650
+DEN2|SEQ00882	VBIBifDen39005_0882	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110115	54828	55442	+	615		Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)	DEN2	clust_1650

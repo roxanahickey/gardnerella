@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01387	VBIBifBif87902_1387	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885364	1669256	1670206	+	951	glkA	Putative sugar kinase	BIF1	clust_1647
+BRE1|SEQ01437	VBIBifBre340958_1438	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604896	1699464	1700414	-	951		putative glucokinase, ROK family	BRE1	clust_1647
+BRE2|SEQ01559	VBIBifBre337368_1559	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609117	1811728	1812678	-	951		Putative sugar kinase	BRE2	clust_1647
+BRE3|SEQ01514	VBIBifBre167886_1514	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194778	1770468	1771418	-	951	glkA	Putative sugar kinase	BRE3	clust_1647
+BRE4|SEQ01486	VBIBifBre327712_1486	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613111	1742335	1743285	-	951		putative glucokinase, ROK family	BRE4	clust_1647
+BRE5|SEQ01633	VBIBifBre336369_1634	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617460	1837634	1838584	-	951		Putative sugar kinase	BRE5	clust_1647
+BRE6|SEQ00973	VBIBifBre268992_0973	Bifidobacterium breve JCP7499	AWSX01000050	PATRIC	CDS	177655140	3923	4873	-	951		Putative sugar kinase	BRE6	clust_1647
+BRE7|SEQ01509	VBIBifBre340732_1509	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621516	1748532	1749482	-	951		Putative sugar kinase	BRE7	clust_1647
+BRE8|SEQ01532	VBIBifBre176493_1532	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625675	1789810	1790760	-	951	glk	putative glucokinase, ROK family	BRE8	clust_1647
+BRE9|SEQ01594	VBIBifBre30019_1594	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447325	1853177	1854127	-	951	glk	Putative sugar kinase	BRE9	clust_1647
+INF1|SEQ01679	VBIBifLon182273_1679	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887377	1915134	1916084	-	951		Putative sugar kinase	INF1	clust_1647
+LON1|SEQ01743	VBIBifLon107831_1744	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120648	2111349	2112299	+	951	glkA	Putative sugar kinase	LON1	clust_1647
+LON2|SEQ01778	VBIBifLon171405_1781	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583183	2136164	2137114	+	951		Putative sugar kinase	LON2	clust_1647
+LON3|SEQ01168	VBIBifLon156230_1170	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766212	344467	345417	-	951		Putative sugar kinase	LON3	clust_1647
+LON4|SEQ01629	VBIBifLon48544_1629	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891621	1874685	1875635	-	951		Putative sugar kinase	LON4	clust_1647

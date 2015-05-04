@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV08|SEQ00083	85474531	VBIGarVag251521_0083	SEQ00083	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0009306	protein secretion	go	NA
+GV08|SEQ00083	85474531	VBIGarVag251521_0083	SEQ00083	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0015450	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	go	NA
+GV08|SEQ00083	85474531	VBIGarVag251521_0083	SEQ00083	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0016021	integral to membrane	go	NA
+GV08|SEQ00825	85476079	VBIGarVag251521_0825	SEQ00825	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0006412	translation	go	NA
+GV08|SEQ00825	85476079	VBIGarVag251521_0825	SEQ00825	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0003735	structural constituent of ribosome	go	NA
+GV08|SEQ00825	85476079	VBIGarVag251521_0825	SEQ00825	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005840	ribosome	go	NA
+GV08|SEQ00825	85476079	VBIGarVag251521_0825	SEQ00825	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005622	intracellular	go	NA
+GV08|SEQ01233	85476929	VBIGarVag251521_1233	SEQ01233	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	NA
+GV08|SEQ01233	85476929	VBIGarVag251521_1233	SEQ01233	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	NA
+GV08|SEQ01233	85476929	VBIGarVag251521_1233	SEQ01233	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	NA

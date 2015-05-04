@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+INF1|SEQ00120	46884147	VBIBifLon182273_0120	SEQ00120	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Xanthine permease	GO:0006810	transport	go	clust_2769
+INF1|SEQ00120	46884147	VBIBifLon182273_0120	SEQ00120	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Xanthine permease	GO:0005215	transporter activity	go	clust_2769
+INF1|SEQ00120	46884147	VBIBifLon182273_0120	SEQ00120	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Xanthine permease	GO:0016020	membrane	go	clust_2769
+LON1|SEQ01254	21119613	VBIBifLon107831_1255	SEQ01254	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Xanthine permease	GO:0016020	membrane	go	clust_2769
+LON1|SEQ01254	21119613	VBIBifLon107831_1255	SEQ01254	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Xanthine permease	GO:0006810	transport	go	clust_2769
+LON1|SEQ01254	21119613	VBIBifLon107831_1255	SEQ01254	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Xanthine permease	GO:0005215	transporter activity	go	clust_2769
+LON4|SEQ00130	46888468	VBIBifLon48544_0130	SEQ00130	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Xanthine permease	GO:0006810	transport	go	clust_2769
+LON4|SEQ00130	46888468	VBIBifLon48544_0130	SEQ00130	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Xanthine permease	GO:0005215	transporter activity	go	clust_2769
+LON4|SEQ00130	46888468	VBIBifLon48544_0130	SEQ00130	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Xanthine permease	GO:0016020	membrane	go	clust_2769

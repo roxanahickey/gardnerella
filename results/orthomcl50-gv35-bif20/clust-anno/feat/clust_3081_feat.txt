@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01345	VBIBifAdo136061_1345	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27189035	282622	283389	-	768		Putative phage prohead protease	ADO1	clust_3081
+ANI1|SEQ01179	VBIBifAni240121_1179	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847346	1368515	1370278	+	1764		Putative phage prohead protease	ANI1	clust_3081
+ANI2|SEQ01179	VBIBifAni235968_1179	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850699	1368519	1370282	+	1764		Putative phage prohead protease	ANI2	clust_3081
+ANI3|SEQ01188	VBIBifAni108068_1188	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764721	1373967	1375730	+	1764		Putative phage prohead protease	ANI3	clust_3081

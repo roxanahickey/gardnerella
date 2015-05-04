@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00243	VBIBifBre340958_0243	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602424	312362	313237	+	876		hypothetical protein	BRE1	clust_1920
+BRE2|SEQ00275	VBIBifBre337368_0275	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606462	350473	351348	+	876		hypothetical protein	BRE2	clust_1920
+BRE3|SEQ00294	VBIBifBre167886_0294	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192249	373094	373969	+	876		hypothetical protein	BRE3	clust_1920
+BRE4|SEQ00259	VBIBifBre327712_0259	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610571	334766	335641	+	876		hypothetical protein	BRE4	clust_1920
+BRE5|SEQ00278	VBIBifBre336369_0279	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614659	335935	336810	+	876		hypothetical protein	BRE5	clust_1920
+BRE5|SEQ00478	VBIBifBre336369_0479	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615072	583794	584672	+	879		DNA-binding response regulator, AraC family	BRE5	clust_1920
+BRE6|SEQ00349	VBIBifBre268992_0349	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653820	17994	18869	+	876		hypothetical protein	BRE6	clust_1920
+BRE7|SEQ00271	VBIBifBre340732_0271	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618954	345996	346871	+	876		hypothetical protein	BRE7	clust_1920
+BRE8|SEQ00297	VBIBifBre176493_0297	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623119	377487	378362	+	876		hypothetical protein	BRE8	clust_1920
+DEN1|SEQ00474	VBIBifDen165269_0475	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462240	1875323	1876201	+	879		Transcriptional regulator, AraC family	DEN1	clust_1920
+DEN2|SEQ01310	VBIBifDen39005_1311	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111004	29085	29906	+	822		Transcriptional regulator, AraC family	DEN2	clust_1920

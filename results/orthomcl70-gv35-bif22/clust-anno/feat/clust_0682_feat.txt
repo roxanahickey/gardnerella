@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00977	VBIBifAdo136061_0977	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188268	888735	889682	+	948		Permease of the drug/metabolite transporter (DMT) superfamily	ADO1	clust_0682
+BIF1|SEQ01375	VBIBifBif87902_1375	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885339	1661586	1662500	+	915	rhaT	Permease of the drug/metabolite transporter (DMT) superfamily	BIF1	clust_0682
+BRE1|SEQ01059	VBIBifBre340958_1059	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604123	1238919	1239854	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE1	clust_0682
+BRE2|SEQ01177	VBIBifBre337368_1177	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608335	1346985	1347920	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE2	clust_0682
+BRE3|SEQ00722	VBIBifBre167886_0722	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193130	883704	884639	-	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE3	clust_0682
+BRE4|SEQ01131	VBIBifBre327712_1131	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612384	1305021	1305956	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE4	clust_0682
+BRE5|SEQ01225	VBIBifBre336369_1226	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616628	1356526	1357461	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE5	clust_0682
+BRE6|SEQ01803	VBIBifBre268992_1803	Bifidobacterium breve JCP7499	AWSX01000084	PATRIC	CDS	177656915	7571	8506	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE6	clust_0682
+BRE7|SEQ01136	VBIBifBre340732_1136	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620755	1299800	1300735	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE7	clust_0682
+BRE8|SEQ01161	VBIBifBre176493_1161	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624915	1350541	1351476	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE8	clust_0682
+BRE9|SEQ01223	VBIBifBre30019_1223	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446569	1405186	1406121	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	BRE9	clust_0682
+DEN1|SEQ01965	VBIBifDen165269_1966	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461097	1248504	1249424	-	921		Permease of the drug/metabolite transporter (DMT) superfamily	DEN1	clust_0682
+DEN2|SEQ00863	VBIBifDen39005_0863	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110076	34636	35556	+	921		Permease of the drug/metabolite transporter (DMT) superfamily	DEN2	clust_0682
+GV01|SEQ00333	VBIGarVag247323_0333	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494803	30793	31788	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV01	clust_0682
+GV02|SEQ00722	VBIGarVag242669_0722	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498270	53365	54360	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV02	clust_0682
+GV03|SEQ01025	VBIGarVag247424_1025	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501500	396790	397743	-	954		Permease of the drug/metabolite transporter (DMT) superfamily	GV03	clust_0682
+GV04|SEQ00871	VBIGarVag246433_0871	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481646	209475	210470	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV04	clust_0682
+GV05|SEQ01138	VBIGarVag174900_1138	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548114	3366	4319	-	954		Permease of the drug/metabolite transporter (DMT) superfamily	GV05	clust_0682
+GV06|SEQ00701	VBIGarVag244004_0701	Gardnerella vaginalis 1400E	ADER01000019	PATRIC	CDS	85490189	17149	18144	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV06	clust_0682
+GV07|SEQ00263	VBIGarVag249177_0263	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492139	52941	53894	+	954		Permease of the drug/metabolite transporter (DMT) superfamily	GV07	clust_0682
+GV08|SEQ00664	VBIGarVag251521_0664	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475750	11215	12210	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV08	clust_0682
+GV09|SEQ00728	VBIGarVag169280_0728	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260655	78391	79386	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV09	clust_0682
+GV10|SEQ00875	VBIGarVag136958_0875	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147826	1138733	1139740	-	1008		Permease of the drug/metabolite transporter (DMT) superfamily	GV10	clust_0682
+GV11|SEQ00943	VBIGarVag171052_0943	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550261	21989	22984	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV11	clust_0682
+GV12|SEQ00285	VBIGarVag144721_0285	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853237	258865	259872	-	1008		Permease of the drug/metabolite transporter (DMT) superfamily	GV12	clust_0682
+GV13|SEQ01133	VBIGarVag244533_1133	Gardnerella vaginalis 55152	ADEQ01000017	PATRIC	CDS	85488300	10927	11922	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV13	clust_0682
+GV14|SEQ01124	VBIGarVag244375_1124	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504163	221594	222547	-	954		Permease of the drug/metabolite transporter (DMT) superfamily	GV14	clust_0682
+GV15|SEQ00186	VBIGarVag249709_0186	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483867	129812	130723	-	912		Permease of the drug/metabolite transporter (DMT) superfamily	GV15	clust_0682
+GV16|SEQ00666	VBIGarVag246379_0666	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478485	724469	725464	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV16	clust_0682
+GV17|SEQ00717	VBIGarVag146634_0717	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851502	12981	13988	+	1008		Permease of the drug/metabolite transporter (DMT) superfamily	GV17	clust_0682
+GV18|SEQ00555	VBIGarVag4823_0555	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000108	PATRIC	CDS	42069863	13859	14854	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV18	clust_0682
+GV19|SEQ00958	VBIGarVag39333_0959	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628823	1190703	1191698	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV19	clust_0682
+GV20|SEQ00597	VBIGarVag188338_0597	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190013	709764	710759	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV20	clust_0682
+GV21|SEQ00881	VBIGarVag274454_0882	Gardnerella vaginalis JCP7275	ATJS01000064	PATRIC	CDS	183968511	9084	10079	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV21	clust_0682
+GV22|SEQ01156	VBIGarVag276801_1157	Gardnerella vaginalis JCP7276	ATJR01000125	PATRIC	CDS	183971892	267	1262	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV22	clust_0682
+GV23|SEQ01024	VBIGarVag276017_1024	Gardnerella vaginalis JCP7659	ATJQ01000105	PATRIC	CDS	183974500	274	1269	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV23	clust_0682
+GV24|SEQ00022	VBIGarVag268944_0022	Gardnerella vaginalis JCP7672	ATJP01000002	PATRIC	CDS	183975133	9135	10130	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV24	clust_0682
+GV25|SEQ00621	VBIGarVag270495_0621	Gardnerella vaginalis JCP7719	ATJO01000056	PATRIC	CDS	183979197	18299	19294	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV25	clust_0682
+GV26|SEQ00842	VBIGarVag272749_0842	Gardnerella vaginalis JCP8017A	ATJN01000049	PATRIC	CDS	183982524	1203	2198	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV26	clust_0682
+GV27|SEQ00700	VBIGarVag276930_0700	Gardnerella vaginalis JCP8017B	ATJM01000032	PATRIC	CDS	183985182	1219	2214	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV27	clust_0682
+GV28|SEQ01169	VBIGarVag271349_1169	Gardnerella vaginalis JCP8066	ATJL01000176	PATRIC	CDS	183989242	497	1492	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV28	clust_0682
+GV29|SEQ01106	VBIGarVag265473_1106	Gardnerella vaginalis JCP8070	ATJK01000117	PATRIC	CDS	183991763	14461	15456	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV29	clust_0682
+GV30|SEQ00951	VBIGarVag267667_0953	Gardnerella vaginalis JCP8108	ATJJ01000085	PATRIC	CDS	183994093	11029	12024	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV30	clust_0682
+GV31|SEQ00743	VBIGarVag264983_0743	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996589	22513	23508	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV31	clust_0682
+GV32|SEQ00736	VBIGarVag277040_0736	Gardnerella vaginalis JCP8151B	ATJH01000049	PATRIC	CDS	183999397	9864	10859	+	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV32	clust_0682
+GV33|SEQ00336	VBIGarVag265557_0336	Gardnerella vaginalis JCP8481A	ATJG01000029	PATRIC	CDS	184001381	954	1958	+	1005		Permease of the drug/metabolite transporter (DMT) superfamily	GV33	clust_0682
+GV34|SEQ01248	VBIGarVag270440_1248	Gardnerella vaginalis JCP8481B	ATJF01000175	PATRIC	CDS	184006255	962	1972	+	1011		Permease of the drug/metabolite transporter (DMT) superfamily	GV34	clust_0682
+GV35|SEQ00623	VBIGarVag272169_0623	Gardnerella vaginalis JCP8522	ATJE01000044	PATRIC	CDS	184007600	9193	10188	-	996		Permease of the drug/metabolite transporter (DMT) superfamily	GV35	clust_0682
+INF1|SEQ01177	VBIBifLon182273_1177	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886357	1321243	1322178	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	INF1	clust_0682
+LON1|SEQ00302	VBIBifLon107831_0302	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117641	365436	366371	-	936		Permease of the drug/metabolite transporter (DMT) superfamily	LON1	clust_0682
+LON2|SEQ00360	VBIBifLon171405_0361	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580225	422622	423557	-	936	rhaT	Permease of the drug/metabolite transporter (DMT) superfamily	LON2	clust_0682
+LON3|SEQ00167	VBIBifLon156230_0167	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767262	984320	985255	-	936		Permease of the drug/metabolite transporter (DMT) superfamily	LON3	clust_0682
+LON4|SEQ01200	VBIBifLon48544_1200	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890741	1348914	1349849	+	936		Permease of the drug/metabolite transporter (DMT) superfamily	LON4	clust_0682
+THE1|SEQ01719	VBIBifThe274299_1719	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736720	2134926	2135963	-	1038		Permease of the drug/metabolite transporter (DMT) superfamily	THE1	clust_0682

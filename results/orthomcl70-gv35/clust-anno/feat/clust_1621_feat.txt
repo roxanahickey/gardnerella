@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV14|SEQ00456	VBIGarVag244375_0456	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502769	96809	97990	+	1182		hypothetical protein	GV14	clust_1621
+GV28|SEQ00892	VBIGarVag271349_0892	Gardnerella vaginalis JCP8066	ATJL01000082	PATRIC	CDS	183988566	15208	16284	+	1077		Restriction enzyme BcgI beta subunit( EC:3.1.21.- )	GV28	clust_1621
+GV31|SEQ00733	VBIGarVag264983_0733	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996565	12231	12866	+	636		hypothetical protein	GV31	clust_1621
+GV31|SEQ00734	VBIGarVag264983_0734	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996567	12836	13432	+	597		hypothetical protein	GV31	clust_1621
+GV32|SEQ00726	VBIGarVag277040_0726	Gardnerella vaginalis JCP8151B	ATJH01000049	PATRIC	CDS	183999373	132	728	+	597		hypothetical protein	GV32	clust_1621

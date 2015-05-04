@@ -1,0 +1,15 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01565	86848166	VBIBifAni240121_1565	SEQ01565	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1036
+ANI2|SEQ01562	86851512	VBIBifAni235968_1562	SEQ01562	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1036
+ANI3|SEQ01574	42765536	VBIBifAni108068_1575	SEQ01574	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1036
+BRE1|SEQ01131	268604268	VBIBifBre340958_1131	SEQ01131	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1036
+BRE2|SEQ01219	268608419	VBIBifBre337368_1219	SEQ01219	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1036
+BRE7|SEQ01171	268620825	VBIBifBre340732_1171	SEQ01171	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1036
+GV06|SEQ00302	85489329	VBIGarVag244004_0302	SEQ00302	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000007	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1036
+GV13|SEQ00970	85487950	VBIGarVag244533_0970	SEQ00970	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000014	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1036
+GV21|SEQ01017	183968841	VBIGarVag274454_1018	SEQ01017	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000100	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1036
+INF1|SEQ00929	46885837	VBIBifLon182273_0929	SEQ00929	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00425130: hypothetical protein	FIG01624984	figfam	clust_1036
+LON1|SEQ00531	21118117	VBIBifLon107831_0532	SEQ00531	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00425130: hypothetical protein	FIG01624984	figfam	clust_1036
+LON2|SEQ00593	42580710	VBIBifLon171405_0594	SEQ00593	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00425130: hypothetical protein	FIG01624984	figfam	clust_1036
+LON3|SEQ00400	42767750	VBIBifLon156230_0400	SEQ00400	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00425130: hypothetical protein	FIG01624984	figfam	clust_1036
+LON4|SEQ00812	46889897	VBIBifLon48544_0812	SEQ00812	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00425130: hypothetical protein	FIG01624984	figfam	clust_1036

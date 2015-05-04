@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00329	VBIBifAdo136061_0329	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186914	133013	133657	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	ADO1	clust_1175
+ANI1|SEQ00078	VBIBifAni240121_0078	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845053	92962	93609	+	648		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	ANI1	clust_1175
+ANI2|SEQ00078	VBIBifAni235968_0078	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848408	92962	93609	+	648		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	ANI2	clust_1175
+ANI3|SEQ00080	VBIBifAni108068_0080	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762424	92962	93609	+	648		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	ANI3	clust_1175
+BIF1|SEQ00082	VBIBifBif87902_0082	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882662	100952	101596	+	645	pabA	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BIF1	clust_1175
+BRE1|SEQ00062	VBIBifBre340958_0062	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602042	78688	79332	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE1	clust_1175
+BRE2|SEQ00054	VBIBifBre337368_0054	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605998	71327	71971	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE2	clust_1175
+BRE3|SEQ00060	VBIBifBre167886_0060	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191758	77635	78279	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE3	clust_1175
+BRE4|SEQ00076	VBIBifBre327712_0076	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610185	97756	98400	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE4	clust_1175
+BRE5|SEQ00063	VBIBifBre336369_0063	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614207	77774	78418	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE5	clust_1175
+BRE6|SEQ01788	VBIBifBre268992_1788	Bifidobacterium breve JCP7499	AWSX01000083	PATRIC	CDS	177656884	13212	13856	-	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE6	clust_1175
+BRE7|SEQ00053	VBIBifBre340732_0053	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618498	68770	69414	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE7	clust_1175
+BRE8|SEQ00076	VBIBifBre176493_0076	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622657	94060	94704	+	645	pabA	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE8	clust_1175
+BRE9|SEQ00076	VBIBifBre30019_0076	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444176	94344	94988	+	645	pabA	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	BRE9	clust_1175
+DEN1|SEQ00654	VBIBifDen165269_0655	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462606	2116119	2116763	-	645	trpG	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	DEN1	clust_1175
+DEN2|SEQ01697	VBIBifDen39005_1698	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111790	188602	189246	-	645	pabA	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	DEN2	clust_1175
+INF1|SEQ00046	VBIBifLon182273_0046	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883993	56725	57369	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	INF1	clust_1175
+LON1|SEQ01329	VBIBifLon107831_1330	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119767	1568795	1569439	-	645	pabA	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	LON1	clust_1175
+LON2|SEQ01361	VBIBifLon171405_1364	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582302	1575635	1576279	-	645	pabA	Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	LON2	clust_1175
+LON3|SEQ01441	VBIBifLon156230_1444	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769497	2217160	2217804	-	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	LON3	clust_1175
+LON4|SEQ00055	VBIBifLon48544_0055	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888313	69594	70238	+	645		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	LON4	clust_1175
+THE1|SEQ00040	VBIBifThe274299_0040	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733239	52199	52849	-	651		Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	THE1	clust_1175

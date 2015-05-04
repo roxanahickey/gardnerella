@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00498	VBIGarVag247424_0498	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500403	51880	52341	-	462		hypothetical protein	GV03	clust_2963
+GV05|SEQ00524	VBIGarVag174900_0524	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546792	113531	113992	-	462		Chromatin structure and dynamics	GV05	clust_2963
+GV07|SEQ00887	VBIGarVag249177_0887	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493445	165325	165795	+	471		hypothetical protein	GV07	clust_2963
+GV14|SEQ00028	VBIGarVag244375_0028	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501872	1086	1535	+	450		hypothetical protein	GV14	clust_2963

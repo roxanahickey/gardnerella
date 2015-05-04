@@ -1,0 +1,29 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01037	VBIGarVag247323_1037	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496272	32067	34520	+	2454		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV01	clust_0938
+GV02|SEQ00406	VBIGarVag242669_0406	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497591	218558	221002	-	2445		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV02	clust_0938
+GV03|SEQ00505	VBIGarVag247424_0505	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500417	56819	59272	+	2454		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV03	clust_0938
+GV04|SEQ00700	VBIGarVag246433_0700	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481296	26286	28775	+	2490		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV04	clust_0938
+GV05|SEQ00528	VBIGarVag174900_0528	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546800	118204	120669	+	2466		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV05	clust_0938
+GV06|SEQ00995	VBIGarVag244004_0995	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490803	24265	26736	+	2472		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV06	clust_0938
+GV07|SEQ00884	VBIGarVag249177_0884	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493439	160113	162467	-	2355		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV07	clust_0938
+GV08|SEQ00835	VBIGarVag251521_0835	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476099	199203	201692	-	2490		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV08	clust_0938
+GV09|SEQ00281	VBIGarVag169280_0281	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259728	108179	110668	-	2490	fni	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV09	clust_0938
+GV10|SEQ00293	VBIGarVag136958_0293	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146618	340798	343137	+	2340	fni	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV10	clust_0938
+GV11|SEQ01002	VBIGarVag171052_1002	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550385	19996	22485	-	2490		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV11	clust_0938
+GV12|SEQ00836	VBIGarVag144721_0836	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854387	377783	380122	+	2340		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV12	clust_0938
+GV13|SEQ00483	VBIGarVag244533_0483	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486929	77162	78826	-	1665		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV13	clust_0938
+GV14|SEQ00813	VBIGarVag244375_0813	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503515	3023	5365	+	2343		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV14	clust_0938
+GV15|SEQ00376	VBIGarVag249709_0376	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484271	107686	110049	-	2364		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV15	clust_0938
+GV16|SEQ00476	VBIGarVag246379_0476	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478096	514053	515909	+	1857		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV16	clust_0938
+GV17|SEQ00298	VBIGarVag146634_0298	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850613	280011	282374	-	2364		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV17	clust_0938
+GV18|SEQ01247	VBIGarVag4823_1247	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071335	18498	20987	+	2490		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV18	clust_0938
+GV19|SEQ01131	VBIGarVag39333_1133	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629175	1375351	1377840	-	2490	fni	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV19	clust_0938
+GV20|SEQ00378	VBIGarVag188338_0378	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189567	479380	481401	+	2022	fni	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV20	clust_0938
+GV22|SEQ01000	VBIGarVag276801_1001	Gardnerella vaginalis JCP7276	ATJR01000074	PATRIC	CDS	183971515	7653	7865	-	213		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV22	clust_0938
+GV24|SEQ01229	VBIGarVag268944_1230	Gardnerella vaginalis JCP7672	ATJP01000168	PATRIC	CDS	183977811	1	234	+	234		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV24	clust_0938
+GV26|SEQ01306	VBIGarVag272749_1306	Gardnerella vaginalis JCP8017A	ATJN01000166	PATRIC	CDS	183983598	114	425	+	312		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV26	clust_0938
+GV27|SEQ01272	VBIGarVag276930_1272	Gardnerella vaginalis JCP8017B	ATJM01000149	PATRIC	CDS	183986468	1759	2070	-	312		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV27	clust_0938
+GV30|SEQ01351	VBIGarVag267667_1353	Gardnerella vaginalis JCP8108	ATJJ01000176	PATRIC	CDS	183995017	103	417	+	315		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV30	clust_0938
+GV31|SEQ01187	VBIGarVag264983_1187	Gardnerella vaginalis JCP8151A	ATJI01000154	PATRIC	CDS	183997628	443	604	-	162		"Isopentenyl-diphosphate delta-isomerase, FMN- dependent "	GV31	clust_0938
+GV33|SEQ00522	VBIGarVag265557_0522	Gardnerella vaginalis JCP8481A	ATJG01000047	PATRIC	CDS	184001782	1689	4214	+	2526		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV33	clust_0938
+GV34|SEQ00938	VBIGarVag270440_0938	Gardnerella vaginalis JCP8481B	ATJF01000107	PATRIC	CDS	184005540	363	2888	-	2526		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	GV34	clust_0938

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00825	VBIBifAdo136061_0825	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187958	713392	714048	+	657		Polar amino acid ABC uptake transporter membrane-spanning protein	ADO1	clust_1402
+ANI1|SEQ01261	VBIBifAni240121_1261	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847516	1462888	1463544	-	657		amino acid ABC transporter, permease protein	ANI1	clust_1402
+ANI2|SEQ01261	VBIBifAni235968_1261	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850869	1462893	1463549	-	657		amino acid ABC transporter, permease protein	ANI2	clust_1402
+ANI3|SEQ01269	VBIBifAni108068_1269	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764886	1468339	1468995	-	657		amino acid ABC transporter, permease protein	ANI3	clust_1402
+BRE1|SEQ00781	VBIBifBre340958_0781	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603546	941816	942478	-	663		Polar amino acid ABC uptake transporter membrane-spanning protein	BRE1	clust_1402
+BRE2|SEQ00876	VBIBifBre337368_0876	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607708	1038676	1039284	-	609		Polar amino acid ABC uptake transporter membrane-spanning protein	BRE2	clust_1402
+BRE3|SEQ01008	VBIBifBre167886_1008	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193728	1180783	1181445	+	663		ABC-type amino acid transport system, permease component	BRE3	clust_1402
+BRE4|SEQ00809	VBIBifBre327712_0809	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611717	980269	980931	-	663		Polar amino acid ABC uptake transporter membrane-spanning protein	BRE4	clust_1402
+BRE5|SEQ00821	VBIBifBre336369_0822	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615787	973328	973990	-	663		Polar amino acid ABC uptake transporter membrane-spanning protein	BRE5	clust_1402
+BRE6|SEQ01599	VBIBifBre268992_1599	Bifidobacterium breve JCP7499	AWSX01000074	PATRIC	CDS	177656469	4799	5407	+	609		Polar amino acid ABC uptake transporter membrane-spanning protein	BRE6	clust_1402
+BRE7|SEQ00811	VBIBifBre340732_0811	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620078	972313	972975	-	663		Polar amino acid ABC uptake transporter membrane-spanning protein	BRE7	clust_1402
+BRE8|SEQ00836	VBIBifBre176493_0836	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624237	1015425	1016087	-	663	glnP2	Polar amino acid ABC uptake transporter membrane-spanning protein	BRE8	clust_1402
+BRE9|SEQ00884	VBIBifBre30019_0884	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445862	1060821	1061483	-	663	glnP2	Polar amino acid ABC uptake transporter membrane-spanning protein	BRE9	clust_1402
+DEN1|SEQ00062	VBIBifDen165269_0062	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461369	1400107	1400706	-	600	glnP	Polar amino acid ABC uptake transporter membrane-spanning protein	DEN1	clust_1402
+DEN2|SEQ01848	VBIBifDen39005_1849	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112102	69606	70262	-	657		Polar amino acid ABC uptake transporter membrane-spanning protein	DEN2	clust_1402
+INF1|SEQ01451	VBIBifLon182273_1451	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886914	1648014	1648673	-	660		Polar amino acid ABC uptake transporter membrane-spanning protein	INF1	clust_1402
+LON1|SEQ00080	VBIBifLon107831_0080	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117187	94276	94935	+	660		Polar amino acid ABC uptake transporter membrane-spanning protein	LON1	clust_1402
+LON2|SEQ00126	VBIBifLon171405_0127	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579747	140126	140785	+	660	hisM3	Polar amino acid ABC uptake transporter membrane-spanning protein	LON2	clust_1402
+LON3|SEQ00070	VBIBifLon156230_0070	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765765	86201	86860	-	660		Polar amino acid ABC uptake transporter membrane-spanning protein	LON3	clust_1402
+LON4|SEQ01423	VBIBifLon48544_1423	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891201	1620827	1621486	-	660		Polar amino acid ABC uptake transporter membrane-spanning protein	LON4	clust_1402

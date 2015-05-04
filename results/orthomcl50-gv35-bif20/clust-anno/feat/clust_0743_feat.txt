@@ -1,0 +1,52 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00010	VBIGarVag247323_0010	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494112	11030	11911	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV01	clust_0743
+GV02|SEQ00780	VBIGarVag242669_0780	Gardnerella vaginalis 00703C2mash	ADEU01000015	PATRIC	CDS	85498397	47309	48190	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV02	clust_0743
+GV03|SEQ00079	VBIGarVag247424_0079	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499525	115703	116587	-	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV03	clust_0743
+GV04|SEQ01159	VBIGarVag246433_1159	Gardnerella vaginalis 0288E	ADEN01000010	PATRIC	CDS	85482246	10845	11726	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV04	clust_0743
+GV05|SEQ01072	VBIGarVag174900_1072	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52547928	10725	11609	+	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV05	clust_0743
+GV06|SEQ00967	VBIGarVag244004_0967	Gardnerella vaginalis 1400E	ADER01000021	PATRIC	CDS	85490745	10965	11846	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV06	clust_0743
+GV07|SEQ00977	VBIGarVag249177_0977	Gardnerella vaginalis 1500E	ADES01000017	PATRIC	CDS	85493631	16069	16953	-	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV07	clust_0743
+GV08|SEQ01297	VBIGarVag251521_1297	Gardnerella vaginalis 284V	ADEL01000014	PATRIC	CDS	85477074	10785	11666	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV08	clust_0743
+GV09|SEQ00651	VBIGarVag169280_0651	Gardnerella vaginalis 315-A	AFDI01000007	PATRIC	CDS	55260496	9166	10047	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV09	clust_0743
+GV10|SEQ01089	VBIGarVag136958_1089	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148270	1468380	1469282	-	903		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV10	clust_0743
+GV11|SEQ00207	VBIGarVag171052_0207	Gardnerella vaginalis 41V	AEJE01000011	PATRIC	CDS	52548699	6312	7193	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV11	clust_0743
+GV12|SEQ00501	VBIGarVag144721_0501	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853685	576213	577097	-	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV12	clust_0743
+GV13|SEQ00519	VBIGarVag244533_0519	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487004	11638	12519	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV13	clust_0743
+GV14|SEQ00020	VBIGarVag244375_0020	Gardnerella vaginalis 6119V5	ADEW01000001	PATRIC	CDS	85501855	21432	22316	-	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV14	clust_0743
+GV15|SEQ00837	VBIGarVag249709_0837	Gardnerella vaginalis 6420B	ADEP01000009	PATRIC	CDS	85485241	12488	13372	+	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV15	clust_0743
+GV16|SEQ01306	VBIGarVag246379_1306	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479817	1541779	1542660	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV16	clust_0743
+GV17|SEQ00665	VBIGarVag146634_0665	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851391	12407	13291	+	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV17	clust_0743
+GV18|SEQ00383	VBIGarVag4823_0383	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000093	PATRIC	CDS	42069490	3866	4747	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV18	clust_0743
+GV19|SEQ00304	VBIGarVag39333_0305	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627467	374789	375670	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV19	clust_0743
+GV20|SEQ01211	VBIGarVag188338_1211	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191292	1511812	1512693	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV20	clust_0743
+GV21|SEQ01051	VBIGarVag274454_1052	Gardnerella vaginalis JCP7275	ATJS01000117	PATRIC	CDS	183968928	475	1137	-	663		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV21	clust_0743
+GV22|SEQ00832	VBIGarVag276801_0833	Gardnerella vaginalis JCP7276	ATJR01000045	PATRIC	CDS	183971137	1442	2323	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV22	clust_0743
+GV24|SEQ01160	VBIGarVag268944_1161	Gardnerella vaginalis JCP7672	ATJP01000141	PATRIC	CDS	183977634	10875	11756	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV24	clust_0743
+GV26|SEQ00981	VBIGarVag272749_0981	Gardnerella vaginalis JCP8017A	ATJN01000068	PATRIC	CDS	183982827	104	985	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV26	clust_0743
+GV27|SEQ00577	VBIGarVag276930_0577	Gardnerella vaginalis JCP8017B	ATJM01000023	PATRIC	CDS	183984923	102	983	+	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV27	clust_0743
+GV28|SEQ01104	VBIGarVag271349_1104	Gardnerella vaginalis JCP8066	ATJL01000155	PATRIC	CDS	183989083	74	757	+	684		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV28	clust_0743
+GV30|SEQ01009	VBIGarVag267667_1011	Gardnerella vaginalis JCP8108	ATJJ01000090	PATRIC	CDS	183994220	764	1645	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV30	clust_0743
+GV32|SEQ00847	VBIGarVag277040_0847	Gardnerella vaginalis JCP8151B	ATJH01000066	PATRIC	CDS	183999645	931	1812	-	882		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV32	clust_0743
+GV33|SEQ00666	VBIGarVag265557_0666	Gardnerella vaginalis JCP8481A	ATJG01000062	PATRIC	CDS	184002087	10980	11864	+	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV33	clust_0743
+GV34|SEQ00334	VBIGarVag270440_0334	Gardnerella vaginalis JCP8481B	ATJF01000023	PATRIC	CDS	184004216	10980	11864	+	885		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV34	clust_0743
+GV35|SEQ00886	VBIGarVag272169_0886	Gardnerella vaginalis JCP8522	ATJE01000091	PATRIC	CDS	184008195	43	726	+	684		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	GV35	clust_0743
+ADO1|SEQ00492	VBIBifAdo136061_0492	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187251	337368	338288	+	921		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	ADO1	clust_0743
+ANI1|SEQ00249	VBIBifAni240121_0249	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845406	295210	296163	+	954		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	ANI1	clust_0743
+ANI2|SEQ00248	VBIBifAni235968_0248	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848759	295212	296165	+	954		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	ANI2	clust_0743
+ANI3|SEQ00249	VBIBifAni108068_0249	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762772	295213	296166	+	954		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	ANI3	clust_0743
+BIF1|SEQ00238	VBIBifBif87902_0238	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882991	294297	295181	+	885	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BIF1	clust_0743
+BRE1|SEQ00275	VBIBifBre340958_0275	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602492	350241	351158	+	918		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE1	clust_0743
+BRE2|SEQ00338	VBIBifBre337368_0338	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606592	406543	407460	+	918		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE2	clust_0743
+BRE3|SEQ00327	VBIBifBre167886_0327	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192319	410843	411760	+	918		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE3	clust_0743
+BRE4|SEQ00292	VBIBifBre327712_0292	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610641	372574	373491	+	918		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE4	clust_0743
+BRE5|SEQ00315	VBIBifBre336369_0316	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614738	374613	375566	+	954		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE5	clust_0743
+BRE6|SEQ00535	VBIBifBre268992_0535	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS	177654209	11201	12154	-	954		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE6	clust_0743
+BRE7|SEQ00304	VBIBifBre340732_0304	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619024	383779	384696	+	918		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE7	clust_0743
+BRE8|SEQ00330	VBIBifBre176493_0330	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623189	415280	416197	+	918	plsC1	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE8	clust_0743
+BRE9|SEQ00379	VBIBifBre30019_0379	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444812	457264	458217	+	954	plsC1	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	BRE9	clust_0743
+INF1|SEQ00257	VBIBifLon182273_0257	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884437	324465	325457	+	993		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	INF1	clust_0743
+LON1|SEQ01083	VBIBifLon107831_1084	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119255	1278788	1279705	-	918		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	LON1	clust_0743
+LON2|SEQ01141	VBIBifLon171405_1143	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581841	1307669	1308661	-	993	plsC2	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	LON2	clust_0743
+LON3|SEQ00967	VBIBifLon156230_0968	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768921	1902982	1903947	-	966		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	LON3	clust_0743
+LON4|SEQ00276	VBIBifLon48544_0276	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888778	341813	342805	+	993		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	LON4	clust_0743
+THE1|SEQ00273	VBIBifThe274299_0273	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733716	322866	323831	+	966		1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	THE1	clust_0743

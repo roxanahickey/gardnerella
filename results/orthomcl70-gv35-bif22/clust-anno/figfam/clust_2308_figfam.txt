@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00396	268602743	VBIBifBre340958_0396	SEQ00396	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2308
+BRE3|SEQ01408	54194559	VBIBifBre167886_1408	SEQ01408	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2308
+GV01|SEQ01170	85496542	VBIGarVag247323_1170	SEQ01170	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2308
+GV02|SEQ00283	85497341	VBIGarVag242669_0283	SEQ00283	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2308
+GV09|SEQ01271	55261785	VBIGarVag169280_1271	SEQ01271	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	NA	predicted ATP-dependent endonuclease, OLD family	FIG01891700	figfam	clust_2308
+GV25|SEQ00646	183979254	VBIGarVag270495_0646	SEQ00646	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000061	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2308
+GV26|SEQ00449	183981682	VBIGarVag272749_0449	SEQ00449	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2308
+GV27|SEQ00617	183985008	VBIGarVag276930_0617	SEQ00617	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000028	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2308

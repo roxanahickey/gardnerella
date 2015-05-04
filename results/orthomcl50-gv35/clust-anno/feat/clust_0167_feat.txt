@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00547	VBIGarVag247323_0547	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495240	295133	296095	-	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV01	clust_0167
+GV02|SEQ00828	VBIGarVag242669_0828	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498498	50971	51933	+	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV02	clust_0167
+GV03|SEQ00978	VBIGarVag247424_0978	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501402	334145	335155	-	1011		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV03	clust_0167
+GV04|SEQ00642	VBIGarVag246433_0642	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481177	59396	60295	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV04	clust_0167
+GV05|SEQ01025	VBIGarVag174900_1025	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547831	746608	747582	-	975		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV05	clust_0167
+GV06|SEQ00270	VBIGarVag244004_0270	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489261	47074	47973	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV06	clust_0167
+GV07|SEQ00306	VBIGarVag249177_0306	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492229	116169	117179	+	1011		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV07	clust_0167
+GV08|SEQ00087	VBIGarVag251521_0087	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474540	99350	100249	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV08	clust_0167
+GV09|SEQ00916	VBIGarVag169280_0916	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261039	318756	319655	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV09	clust_0167
+GV10|SEQ00798	VBIGarVag136958_0798	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147668	1039156	1040115	-	960		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV10	clust_0167
+GV11|SEQ00077	VBIGarVag171052_0077	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548420	5909	6808	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV11	clust_0167
+GV12|SEQ00240	VBIGarVag144721_0240	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853143	197192	198151	-	960		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV12	clust_0167
+GV13|SEQ00897	VBIGarVag244533_0897	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487798	8915	9814	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV13	clust_0167
+GV14|SEQ01080	VBIGarVag244375_1080	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504071	159242	160252	-	1011		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV14	clust_0167
+GV15|SEQ00142	VBIGarVag249709_0142	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483775	68836	69795	-	960		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV15	clust_0167
+GV16|SEQ00863	VBIGarVag246379_0863	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478888	968953	969852	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV16	clust_0167
+GV17|SEQ00761	VBIGarVag146634_0761	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851594	74461	75420	+	960		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV17	clust_0167
+GV18|SEQ01117	VBIGarVag4823_1117	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071064	8423	9322	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV18	clust_0167
+GV19|SEQ00757	VBIGarVag39333_0758	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628412	945114	946013	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV19	clust_0167
+GV20|SEQ00785	VBIGarVag188338_0785	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190399	952043	952942	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV20	clust_0167
+GV21|SEQ00239	VBIGarVag274454_0239	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967126	6122	7021	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV21	clust_0167
+GV22|SEQ00131	VBIGarVag276801_0131	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969651	172311	173210	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV22	clust_0167
+GV23|SEQ00226	VBIGarVag276017_0226	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972756	50765	51727	+	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV23	clust_0167
+GV24|SEQ00944	VBIGarVag268944_0945	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977115	7643	8542	-	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV24	clust_0167
+GV25|SEQ00790	VBIGarVag270495_0790	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979551	113573	114535	+	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV25	clust_0167
+GV26|SEQ01034	VBIGarVag272749_1034	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982948	50523	51485	+	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV26	clust_0167
+GV27|SEQ01080	VBIGarVag276930_1080	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986020	6397	7359	-	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV27	clust_0167
+GV28|SEQ00322	VBIGarVag271349_0322	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987311	109657	110619	+	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV28	clust_0167
+GV29|SEQ00936	VBIGarVag265473_0936	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991365	107012	107911	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV29	clust_0167
+GV30|SEQ01277	VBIGarVag267667_1279	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994827	38433	39332	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV30	clust_0167
+GV31|SEQ00500	VBIGarVag264983_0500	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996070	1823	2785	-	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV31	clust_0167
+GV32|SEQ00335	VBIGarVag277040_0335	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998522	183248	184147	+	900		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV32	clust_0167
+GV33|SEQ01218	VBIGarVag265557_1218	Gardnerella vaginalis JCP8481A	ATJG01000186	PATRIC	CDS	184003373	1495	2484	-	990		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV33	clust_0167
+GV34|SEQ01235	VBIGarVag270440_1235	Gardnerella vaginalis JCP8481B	ATJF01000164	PATRIC	CDS	184006216	1495	2484	-	990		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV34	clust_0167
+GV35|SEQ00208	VBIGarVag272169_0208	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006699	119472	120434	+	963		Hypothetical ATP-binding protein UPF0042, contains P-loop	GV35	clust_0167

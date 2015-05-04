@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV10|SEQ00865	32147804	VBIGarVag136958_0865	SEQ00865	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Dimethyladenosine transferase (EC 2.1.1.-)	GO:0000154	rRNA modification	go	clust_2330
+GV10|SEQ00865	32147804	VBIGarVag136958_0865	SEQ00865	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Dimethyladenosine transferase (EC 2.1.1.-)	GO:0008649	rRNA methyltransferase activity	go	clust_2330

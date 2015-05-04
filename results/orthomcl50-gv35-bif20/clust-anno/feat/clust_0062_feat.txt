@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00308	VBIGarVag247323_0308	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494749	3153	4343	-	1191		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV01	clust_0062
+GV02|SEQ00733	VBIGarVag242669_0733	Gardnerella vaginalis 00703C2mash	ADEU01000013	PATRIC	CDS	85498293	10915	12105	+	1191		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV02	clust_0062
+GV03|SEQ00649	VBIGarVag247424_0649	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500722	7027	8079	+	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV03	clust_0062
+GV04|SEQ00854	VBIGarVag246433_0854	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481607	193319	194392	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV04	clust_0062
+GV05|SEQ00783	VBIGarVag174900_0783	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547325	418045	419097	-	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV05	clust_0062
+GV06|SEQ00080	VBIGarVag244004_0080	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488865	88631	89704	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV06	clust_0062
+GV07|SEQ00542	VBIGarVag249177_0542	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492726	5196	6071	-	876		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV07	clust_0062
+GV08|SEQ00681	VBIGarVag251521_0681	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475788	29678	30751	+	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV08	clust_0062
+GV09|SEQ00713	VBIGarVag169280_0713	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260621	62254	63327	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV09	clust_0062
+GV10|SEQ00527	VBIGarVag136958_0527	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147106	656999	658051	-	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV10	clust_0062
+GV11|SEQ00958	VBIGarVag171052_0958	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550296	37669	38742	+	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV11	clust_0062
+GV12|SEQ01105	VBIGarVag144721_1105	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854947	105529	106581	-	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV12	clust_0062
+GV13|SEQ01147	VBIGarVag244533_1147	Gardnerella vaginalis 55152	ADEQ01000017	PATRIC	CDS	85488333	26816	27382	+	567		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV13	clust_0062
+GV13|SEQ01148	VBIGarVag244533_1148	Gardnerella vaginalis 55152	ADEQ01000017	PATRIC	CDS	85488335	27336	27890	+	555		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV13	clust_0062
+GV14|SEQ00246	VBIGarVag244375_0246	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502327	43045	44097	-	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV14	clust_0062
+GV15|SEQ00585	VBIGarVag249709_0585	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484709	33	1085	-	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV15	clust_0062
+GV16|SEQ00650	VBIGarVag246379_0650	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478449	708369	709442	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV16	clust_0062
+GV17|SEQ01025	VBIGarVag146634_1025	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852144	187222	188274	+	1053		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV17	clust_0062
+GV18|SEQ00740	VBIGarVag4823_0740	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000124	PATRIC	CDS	42070269	9208	10317	+	1110		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV18	clust_0062
+GV19|SEQ00976	VBIGarVag39333_0977	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628863	1207596	1208669	+	1074	lraI	Zinc ABC transporter, periplasmic-binding protein ZnuA	GV19	clust_0062
+GV20|SEQ00581	VBIGarVag188338_0581	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189976	693665	694738	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV20	clust_0062
+GV21|SEQ00440	VBIGarVag274454_0441	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967547	32562	33635	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV21	clust_0062
+GV22|SEQ00343	VBIGarVag276801_0344	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970103	62954	64027	-	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV22	clust_0062
+GV23|SEQ00499	VBIGarVag276017_0499	Gardnerella vaginalis JCP7659	ATJQ01000038	PATRIC	CDS	183973352	3773	4963	-	1191		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV23	clust_0062
+GV24|SEQ00880	VBIGarVag268944_0881	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183976982	17913	18986	+	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV24	clust_0062
+GV25|SEQ00847	VBIGarVag270495_0847	Gardnerella vaginalis JCP7719	ATJO01000069	PATRIC	CDS	183979670	3151	4341	-	1191		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV25	clust_0062
+GV26|SEQ00256	VBIGarVag272749_0256	Gardnerella vaginalis JCP8017A	ATJN01000012	PATRIC	CDS	183981275	12548	13738	+	1191		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV26	clust_0062
+GV27|SEQ00809	VBIGarVag276930_0809	Gardnerella vaginalis JCP8017B	ATJM01000040	PATRIC	CDS	183985414	12665	13735	+	1071		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV27	clust_0062
+GV28|SEQ01151	VBIGarVag271349_1151	Gardnerella vaginalis JCP8066	ATJL01000175	PATRIC	CDS	183989201	29742	30812	-	1071		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV28	clust_0062
+GV29|SEQ00721	VBIGarVag265473_0721	Gardnerella vaginalis JCP8070	ATJK01000046	PATRIC	CDS	183990900	30637	31827	-	1191		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV29	clust_0062
+GV30|SEQ00970	VBIGarVag267667_0972	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994136	8587	9660	+	1074		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV30	clust_0062
+GV31|SEQ00154	VBIGarVag264983_0154	Gardnerella vaginalis JCP8151A	ATJI01000007	PATRIC	CDS	183995341	32800	33870	-	1071		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV31	clust_0062
+GV32|SEQ00147	VBIGarVag277040_0147	Gardnerella vaginalis JCP8151B	ATJH01000009	PATRIC	CDS	183998131	32698	33768	-	1071		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV32	clust_0062
+GV33|SEQ00387	VBIGarVag265557_0387	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001496	1637	2647	+	1011		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV33	clust_0062
+GV34|SEQ00064	VBIGarVag270440_0064	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003620	9036	10046	+	1011		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV34	clust_0062
+GV35|SEQ00889	VBIGarVag272169_0889	Gardnerella vaginalis JCP8522	ATJE01000095	PATRIC	CDS	184008209	1985	3055	+	1071		Zinc ABC transporter, periplasmic-binding protein ZnuA	GV35	clust_0062
+ADO1|SEQ01294	VBIBifAdo136061_1294	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188933	235454	236521	+	1068		Zinc ABC transporter, periplasmic-binding protein ZnuA	ADO1	clust_0062
+ANI1|SEQ00978	VBIBifAni240121_0978	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846936	1132561	1133565	+	1005	znuA	Zinc ABC transporter, periplasmic-binding protein ZnuA	ANI1	clust_0062
+ANI2|SEQ00978	VBIBifAni235968_0978	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850289	1132564	1133568	+	1005	znuA	Zinc ABC transporter, periplasmic-binding protein ZnuA	ANI2	clust_0062
+ANI3|SEQ00982	VBIBifAni108068_0982	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764303	1132565	1133569	+	1005		Zinc ABC transporter, periplasmic-binding protein ZnuA	ANI3	clust_0062
+BIF1|SEQ00730	VBIBifBif87902_0730	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884001	894064	895107	-	1044	adcA	Zinc ABC transporter, periplasmic-binding protein ZnuA	BIF1	clust_0062
+BRE1|SEQ00696	VBIBifBre340958_0696	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603360	842083	843198	-	1116		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE1	clust_0062
+BRE2|SEQ00792	VBIBifBre337368_0792	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607522	938905	940020	-	1116		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE2	clust_0062
+BRE3|SEQ01079	VBIBifBre167886_1079	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193888	1266536	1267708	+	1173		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE3	clust_0062
+BRE4|SEQ00731	VBIBifBre327712_0731	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611544	883080	884252	-	1173		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE4	clust_0062
+BRE5|SEQ00747	VBIBifBre336369_0748	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615622	880354	881469	-	1116		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE5	clust_0062
+BRE6|SEQ00657	VBIBifBre268992_0657	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654477	22812	23984	+	1173		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE6	clust_0062
+BRE7|SEQ00741	VBIBifBre340732_0741	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619922	886181	887296	-	1116		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE7	clust_0062
+BRE8|SEQ00763	VBIBifBre176493_0763	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624075	927042	928157	-	1116		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE8	clust_0062
+BRE9|SEQ00814	VBIBifBre30019_0814	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445706	974604	975719	-	1116		Zinc ABC transporter, periplasmic-binding protein ZnuA	BRE9	clust_0062
+INF1|SEQ00661	VBIBifLon182273_0661	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885272	809511	810707	-	1197		Zinc ABC transporter, periplasmic-binding protein ZnuA	INF1	clust_0062
+LON1|SEQ00695	VBIBifLon107831_0696	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118461	813668	814864	+	1197		Zinc ABC transporter, periplasmic-binding protein ZnuA	LON1	clust_0062
+LON2|SEQ00762	VBIBifLon171405_0763	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581064	854663	855859	+	1197	lraI1	Zinc ABC transporter, periplasmic-binding protein ZnuA	LON2	clust_0062
+LON3|SEQ00567	VBIBifLon156230_0567	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768101	1429281	1430477	+	1197		Zinc ABC transporter, periplasmic-binding protein ZnuA	LON3	clust_0062
+LON4|SEQ00652	VBIBifLon48544_0652	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889555	788104	789300	-	1197		Zinc ABC transporter, periplasmic-binding protein ZnuA	LON4	clust_0062
+THE1|SEQ00868	VBIBifThe274299_0868	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734923	1079558	1080484	-	927		Zinc ABC transporter, periplasmic-binding protein ZnuA	THE1	clust_0062

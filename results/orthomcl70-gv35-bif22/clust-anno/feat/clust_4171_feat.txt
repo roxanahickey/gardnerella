@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01572	VBIBifLon182273_1572	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887158	1794246	1794791	+	546		Beta-galactosidase (EC 3.2.1.23)	INF1	clust_4171
+LON1|SEQ01828	VBIBifLon107831_1829	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120822	2207931	2208533	-	603		Beta-galactosidase (EC 3.2.1.23)	LON1	clust_4171

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01192	VBIBifBre337368_1192	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608365	1362723	1364390	-	1668		Beta-hexosaminidase (EC 3.2.1.52)	BRE2	clust_3231
+BRE8|SEQ01172	VBIBifBre176493_1172	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624937	1362263	1363930	-	1668		Beta-hexosaminidase (EC 3.2.1.52)	BRE8	clust_3231
+INF1|SEQ01342	VBIBifLon182273_1342	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886688	1517794	1519461	-	1668		Beta-hexosaminidase (EC 3.2.1.52)	INF1	clust_3231

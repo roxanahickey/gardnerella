@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00926	VBIGarVag247323_0926	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496027	151764	152858	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV01	clust_0460
+GV02|SEQ01140	VBIGarVag242669_1140	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499151	108996	110090	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV02	clust_0460
+GV03|SEQ00337	VBIGarVag247424_0337	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500066	300006	301103	+	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV03	clust_0460
+GV04|SEQ00048	VBIGarVag246433_0048	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479940	43739	44833	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV04	clust_0460
+GV05|SEQ00437	VBIGarVag174900_0437	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546606	11499	12596	+	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV05	clust_0460
+GV06|SEQ00596	VBIGarVag244004_0596	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489969	38762	39856	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV06	clust_0460
+GV07|SEQ00484	VBIGarVag249177_0484	Gardnerella vaginalis 1500E	ADES01000008	PATRIC	CDS	85492599	8853	9950	+	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV07	clust_0460
+GV08|SEQ01178	VBIGarVag251521_1178	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476809	291385	292479	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV08	clust_0460
+GV09|SEQ01209	VBIGarVag169280_1209	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261651	77843	78937	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV09	clust_0460
+GV10|SEQ00215	VBIGarVag136958_0215	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146452	263722	264819	+	1098	hisC	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV10	clust_0460
+GV11|SEQ01146	VBIGarVag171052_1146	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550697	13377	14471	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV11	clust_0460
+GV12|SEQ00755	VBIGarVag144721_0755	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854215	300942	302039	+	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV12	clust_0460
+GV13|SEQ01077	VBIGarVag244533_1077	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488175	75358	76452	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV13	clust_0460
+GV14|SEQ00116	VBIGarVag244375_0116	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502059	104067	105164	-	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV14	clust_0460
+GV15|SEQ00450	VBIGarVag249709_0450	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484430	183704	184801	-	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV15	clust_0460
+GV16|SEQ00329	VBIGarVag246379_0329	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477782	295625	296719	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV16	clust_0460
+GV17|SEQ00373	VBIGarVag146634_0373	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850773	356124	357221	-	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV17	clust_0460
+GV18|SEQ01014	VBIGarVag4823_1014	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070847	599	1693	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV18	clust_0460
+GV19|SEQ01280	VBIGarVag39333_1283	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629493	1594085	1595179	-	1095	hisC	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV19	clust_0460
+GV20|SEQ00217	VBIGarVag188338_0217	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189224	256473	257567	+	1095	hisC	Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV20	clust_0460
+GV21|SEQ00799	VBIGarVag274454_0800	Gardnerella vaginalis JCP7275	ATJS01000057	PATRIC	CDS	183968320	50	223	+	174		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV21	clust_0460
+GV22|SEQ00211	VBIGarVag276801_0211	Gardnerella vaginalis JCP7276	ATJR01000005	PATRIC	CDS	183969825	19486	20580	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV22	clust_0460
+GV23|SEQ01175	VBIGarVag276017_1175	Gardnerella vaginalis JCP7659	ATJQ01000163	PATRIC	CDS	183974880	19885	20109	-	225		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV23	clust_0460
+GV24|SEQ00573	VBIGarVag268944_0574	Gardnerella vaginalis JCP7672	ATJP01000034	PATRIC	CDS	183976301	1378	2472	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV24	clust_0460
+GV25|SEQ00893	VBIGarVag270495_0893	Gardnerella vaginalis JCP7719	ATJO01000081	PATRIC	CDS	183979776	5450	6544	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV25	clust_0460
+GV26|SEQ01265	VBIGarVag272749_1265	Gardnerella vaginalis JCP8017A	ATJN01000153	PATRIC	CDS	183983501	9899	10993	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV26	clust_0460
+GV27|SEQ01247	VBIGarVag276930_1247	Gardnerella vaginalis JCP8017B	ATJM01000140	PATRIC	CDS	183986409	9531	10625	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV27	clust_0460
+GV28|SEQ00403	VBIGarVag271349_0403	Gardnerella vaginalis JCP8066	ATJL01000023	PATRIC	CDS	183987489	47	220	+	174		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV28	clust_0460
+GV29|SEQ00653	VBIGarVag265473_0653	Gardnerella vaginalis JCP8070	ATJK01000040	PATRIC	CDS	183990754	22071	22295	-	225		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV29	clust_0460
+GV30|SEQ00457	VBIGarVag267667_0458	Gardnerella vaginalis JCP8108	ATJJ01000022	PATRIC	CDS	183993003	21851	22945	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV30	clust_0460
+GV31|SEQ00768	VBIGarVag264983_0768	Gardnerella vaginalis JCP8151A	ATJI01000041	PATRIC	CDS	183996651	19669	19842	-	174		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV31	clust_0460
+GV32|SEQ00496	VBIGarVag277040_0496	Gardnerella vaginalis JCP8151B	ATJH01000027	PATRIC	CDS	183998881	19642	20736	-	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV32	clust_0460
+GV33|SEQ00080	VBIGarVag265557_0080	Gardnerella vaginalis JCP8481A	ATJG01000007	PATRIC	CDS	184000823	10259	11356	+	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV33	clust_0460
+GV34|SEQ00243	VBIGarVag270440_0243	Gardnerella vaginalis JCP8481B	ATJF01000016	PATRIC	CDS	184004013	10259	11356	+	1098		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV34	clust_0460
+GV35|SEQ00817	VBIGarVag272169_0817	Gardnerella vaginalis JCP8522	ATJE01000079	PATRIC	CDS	184008037	3285	4379	+	1095		Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)	GV35	clust_0460

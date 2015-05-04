@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01558	VBIBifAni240121_1558	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848146	1870303	1870572	-	270		DNA-damage-inducible protein J	ANI1	clust_1931
+ANI2|SEQ01555	VBIBifAni235968_1555	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851492	1870525	1870794	-	270		DNA-damage-inducible protein J	ANI2	clust_1931
+ANI3|SEQ01566	VBIBifAni108068_1567	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765514	1875756	1876025	-	270		DNA-damage-inducible protein J	ANI3	clust_1931
+BRE2|SEQ01106	VBIBifBre337368_1106	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608186	1285946	1286209	+	264		FIG00425236: hypothetical protein	BRE2	clust_1931
+BRE3|SEQ00774	VBIBifBre167886_0774	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193241	933538	933807	-	270		FIG00425236: hypothetical protein	BRE3	clust_1931
+BRE4|SEQ00943	VBIBifBre327712_0943	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611989	1111077	1111340	-	264		FIG00425236: hypothetical protein	BRE4	clust_1931
+BRE5|SEQ01149	VBIBifBre336369_1150	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616469	1289664	1289933	+	270		FIG00425236: hypothetical protein	BRE5	clust_1931
+BRE6|SEQ01761	VBIBifBre268992_1761	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656825	53186	53455	+	270		FIG00425236: hypothetical protein	BRE6	clust_1931
+BRE7|SEQ01056	VBIBifBre340732_1056	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620588	1231620	1231889	+	270		FIG00425236: hypothetical protein	BRE7	clust_1931
+BRE9|SEQ01143	VBIBifBre30019_1143	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446402	1332793	1333056	+	264		FIG00425236: hypothetical protein	BRE9	clust_1931
+INF1|SEQ00997	VBIBifLon182273_0997	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885976	1151083	1151352	-	270		FIG00425236: hypothetical protein	INF1	clust_1931

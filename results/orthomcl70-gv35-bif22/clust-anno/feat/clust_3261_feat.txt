@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00860	VBIBifDen165269_0861	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463028	2393105	2395111	-	2007	uidA	Beta-glucuronidase (EC 3.2.1.31)	DEN1	clust_3261
+DEN2|SEQ00319	VBIBifDen39005_0319	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108961	36621	38627	+	2007		Beta-glucuronidase (EC 3.2.1.31)	DEN2	clust_3261
+LON3|SEQ00652	VBIBifLon156230_0652	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768273	1523953	1524540	-	588		Beta-glucuronidase (EC 3.2.1.31)	LON3	clust_3261
+LON4|SEQ00557	VBIBifLon48544_0557	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889360	684422	684943	+	522		Beta-glucuronidase (EC 3.2.1.31)	LON4	clust_3261

@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00594	VBIGarVag246433_0594	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481081	12687	14279	-	1593		Phage terminase large subunit	GV04	clust_1898
+GV05|SEQ00688	VBIGarVag174900_0688	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547135	304577	306169	+	1593		Phage terminase large subunit	GV05	clust_1898
+GV06|SEQ01179	VBIGarVag244004_1179	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491185	28267	29859	+	1593		Phage terminase large subunit	GV06	clust_1898
+GV12|SEQ01137	VBIGarVag144721_1137	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855096	19290	20882	+	1593		Phage terminase large subunit	GV12	clust_1898
+GV17|SEQ00109	VBIGarVag146634_0109	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850215	45698	47290	-	1593		Phage terminase large subunit	GV17	clust_1898
+GV20|SEQ00485	VBIGarVag188338_0485	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189784	597054	598646	+	1593		Phage terminase large subunit	GV20	clust_1898
+GV22|SEQ01260	VBIGarVag276801_1261	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972157	20446	22038	-	1593		Phage terminase large subunit	GV22	clust_1898
+GV25|SEQ00048	VBIGarVag270495_0048	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977955	18058	19650	-	1593		Phage terminase large subunit	GV25	clust_1898
+GV26|SEQ00960	VBIGarVag272749_0960	Gardnerella vaginalis JCP8017A	ATJN01000061	PATRIC	CDS	183982778	16351	17943	-	1593		Phage terminase large subunit	GV26	clust_1898
+GV27|SEQ01205	VBIGarVag276930_1205	Gardnerella vaginalis JCP8017B	ATJM01000131	PATRIC	CDS	183986308	16562	18154	-	1593		Phage terminase large subunit	GV27	clust_1898
+GV30|SEQ01096	VBIGarVag267667_1098	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994413	25278	26870	+	1593		Phage terminase large subunit	GV30	clust_1898

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00311	VBIGarVag246433_0311	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480486	207201	208223	+	1023		putative transcription regulator	GV04	clust_1062
+GV06|SEQ00412	VBIGarVag244004_0412	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489568	11401	12423	-	1023		putative transcription regulator	GV06	clust_1062
+GV09|SEQ00173	VBIGarVag169280_0173	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259501	156054	157064	+	1011		putative transcription regulator	GV09	clust_1062
+GV10|SEQ01180	VBIGarVag136958_1180	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148464	1601874	1602884	-	1011		putative transcription regulator	GV10	clust_1062
+GV11|SEQ00425	VBIGarVag171052_0425	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549165	6024	7046	-	1023		putative transcription regulator	GV11	clust_1062
+GV12|SEQ00517	VBIGarVag144721_0517	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853719	10372	11382	-	1011		putative transcription regulator	GV12	clust_1062
+GV13|SEQ00029	VBIGarVag244533_0029	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485986	11316	12338	-	1023		putative transcription regulator	GV13	clust_1062
+GV15|SEQ01101	VBIGarVag249709_1101	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485802	79516	80526	+	1011		putative transcription regulator	GV15	clust_1062
+GV16|SEQ00097	VBIGarVag246379_0097	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477300	10453	11475	-	1023		putative transcription regulator	GV16	clust_1062
+GV17|SEQ00647	VBIGarVag146634_0647	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851354	76775	77785	+	1011		putative transcription regulator	GV17	clust_1062
+GV18|SEQ00888	VBIGarVag4823_0888	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070576	10796	11806	-	1011		putative transcription regulator	GV18	clust_1062
+GV19|SEQ00190	VBIGarVag39333_0190	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627227	223744	224754	+	1011		putative transcription regulator	GV19	clust_1062
+GV20|SEQ00070	VBIGarVag188338_0070	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188918	86203	87213	+	1011		putative transcription regulator	GV20	clust_1062
+GV22|SEQ00373	VBIGarVag276801_0374	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970167	3165	4175	+	1011		putative transcription regulator	GV22	clust_1062
+GV24|SEQ00446	VBIGarVag268944_0447	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976023	4175	5185	+	1011		putative transcription regulator	GV24	clust_1062
+GV28|SEQ00934	VBIGarVag271349_0934	Gardnerella vaginalis JCP8066	ATJL01000087	PATRIC	CDS	183988659	131	2593	-	2463		"Sucrose-6-phosphate hydrolase "	GV28	clust_1062
+GV30|SEQ00611	VBIGarVag267667_0612	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993343	8977	9987	-	1011		putative transcription regulator	GV30	clust_1062
+GV33|SEQ00150	VBIGarVag265557_0150	Gardnerella vaginalis JCP8481A	ATJG01000012	PATRIC	CDS	184000984	2633	3643	+	1011		putative transcription regulator	GV33	clust_1062
+GV34|SEQ01074	VBIGarVag270440_1074	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005841	26722	27732	+	1011		putative transcription regulator	GV34	clust_1062
+GV35|SEQ01047	VBIGarVag272169_1047	Gardnerella vaginalis JCP8522	ATJE01000147	PATRIC	CDS	184008587	6907	9369	+	2463		"Sucrose-6-phosphate hydrolase "	GV35	clust_1062

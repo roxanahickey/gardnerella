@@ -1,0 +1,34 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01175	VBIGarVag247323_1175	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496552	186122	187528	+	1407		putative histidine kinase, ScnK homolog	GV01	clust_0848
+GV02|SEQ00277	VBIGarVag242669_0277	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497329	76978	78384	-	1407		putative histidine kinase, ScnK homolog	GV02	clust_0848
+GV03|SEQ00723	VBIGarVag247424_0723	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500870	94208	95401	-	1194		putative histidine kinase, ScnK homolog	GV03	clust_0848
+GV04|SEQ00109	VBIGarVag246433_0109	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480066	116263	117672	+	1410		putative histidine kinase, ScnK homolog	GV04	clust_0848
+GV05|SEQ00718	VBIGarVag174900_0718	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547195	335137	336330	+	1194		putative histidine kinase, ScnK homolog	GV05	clust_0848
+GV06|SEQ00023	VBIGarVag244004_0023	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488751	25710	27113	+	1404		putative histidine kinase, ScnK homolog	GV06	clust_0848
+GV07|SEQ01193	VBIGarVag249177_1193	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494087	99501	100910	+	1410		putative histidine kinase, ScnK homolog	GV07	clust_0848
+GV08|SEQ01118	VBIGarVag251521_1118	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476685	225749	226951	-	1203		putative histidine kinase, ScnK homolog	GV08	clust_0848
+GV09|SEQ01149	VBIGarVag169280_1149	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261527	9807	11009	-	1203		putative histidine kinase, ScnK homolog	GV09	clust_0848
+GV10|SEQ00142	VBIGarVag136958_0142	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146300	175667	177076	-	1410		putative histidine kinase, ScnK homolog	GV10	clust_0848
+GV11|SEQ01043	VBIGarVag171052_1043	Gardnerella vaginalis 41V	AEJE01000059	PATRIC	CDS	52550469	21443	22639	+	1197		putative histidine kinase, ScnK homolog	GV11	clust_0848
+GV13|SEQ00944	VBIGarVag244533_0944	Gardnerella vaginalis 55152	ADEQ01000013	PATRIC	CDS	85487897	12410	13606	+	1197		putative histidine kinase, ScnK homolog	GV13	clust_0848
+GV14|SEQ00208	VBIGarVag244375_0208	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502250	208586	209995	+	1410		putative histidine kinase, ScnK homolog	GV14	clust_0848
+GV16|SEQ00269	VBIGarVag246379_0269	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477658	222731	223933	-	1203		putative histidine kinase, ScnK homolog	GV16	clust_0848
+GV17|SEQ00457	VBIGarVag146634_0457	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850947	454368	455777	+	1410		putative histidine kinase, ScnK homolog	GV17	clust_0848
+GV18|SEQ00683	VBIGarVag4823_0683	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	42070138	5798	7135	-	1338		putative histidine kinase, ScnK homolog	GV18	clust_0848
+GV19|SEQ01341	VBIGarVag39333_1344	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629619	1662588	1663925	+	1338		putative histidine kinase, ScnK homolog	GV19	clust_0848
+GV20|SEQ00151	VBIGarVag188338_0151	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189088	176908	178317	-	1410		putative histidine kinase, ScnK homolog	GV20	clust_0848
+GV21|SEQ00969	VBIGarVag274454_0970	Gardnerella vaginalis JCP7275	ATJS01000087	PATRIC	CDS	183968722	910	2247	-	1338		putative histidine kinase, ScnK homolog	GV21	clust_0848
+GV22|SEQ00739	VBIGarVag276801_0740	Gardnerella vaginalis JCP7276	ATJR01000030	PATRIC	CDS	183970928	8703	10112	+	1410		putative histidine kinase, ScnK homolog	GV22	clust_0848
+GV23|SEQ00285	VBIGarVag276017_0285	Gardnerella vaginalis JCP7659	ATJQ01000016	PATRIC	CDS	183972878	4437	5843	+	1407		putative histidine kinase, ScnK homolog	GV23	clust_0848
+GV24|SEQ00457	VBIGarVag268944_0458	Gardnerella vaginalis JCP7672	ATJP01000022	PATRIC	CDS	183976046	3522	4724	+	1203		putative histidine kinase, ScnK homolog	GV24	clust_0848
+GV25|SEQ00652	VBIGarVag270495_0652	Gardnerella vaginalis JCP7719	ATJO01000061	PATRIC	CDS	183979266	6239	7645	+	1407		putative histidine kinase, ScnK homolog	GV25	clust_0848
+GV26|SEQ00443	VBIGarVag272749_0443	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981670	65776	67182	-	1407		putative histidine kinase, ScnK homolog	GV26	clust_0848
+GV27|SEQ00623	VBIGarVag276930_0623	Gardnerella vaginalis JCP8017B	ATJM01000028	PATRIC	CDS	183985020	5494	6900	+	1407		putative histidine kinase, ScnK homolog	GV27	clust_0848
+GV28|SEQ00172	VBIGarVag271349_0172	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183987003	62850	64256	-	1407		putative histidine kinase, ScnK homolog	GV28	clust_0848
+GV29|SEQ00462	VBIGarVag265473_0462	Gardnerella vaginalis JCP8070	ATJK01000022	PATRIC	CDS	183990334	16096	17499	-	1404		putative histidine kinase, ScnK homolog	GV29	clust_0848
+GV30|SEQ00501	VBIGarVag267667_0502	Gardnerella vaginalis JCP8108	ATJJ01000027	PATRIC	CDS	183993098	3616	5019	+	1404		putative histidine kinase, ScnK homolog	GV30	clust_0848
+GV31|SEQ00571	VBIGarVag264983_0571	Gardnerella vaginalis JCP8151A	ATJI01000025	PATRIC	CDS	183996221	4433	5839	+	1407		putative histidine kinase, ScnK homolog	GV31	clust_0848
+GV32|SEQ00197	VBIGarVag277040_0197	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998240	3365	4771	+	1407		putative histidine kinase, ScnK homolog	GV32	clust_0848
+GV33|SEQ00547	VBIGarVag265557_0547	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001838	1029	2366	-	1338		putative histidine kinase, ScnK homolog	GV33	clust_0848
+GV34|SEQ00419	VBIGarVag270440_0419	Gardnerella vaginalis JCP8481B	ATJF01000027	PATRIC	CDS	184004396	19503	20912	+	1410		putative histidine kinase, ScnK homolog	GV34	clust_0848
+GV35|SEQ00338	VBIGarVag272169_0338	Gardnerella vaginalis JCP8522	ATJE01000016	PATRIC	CDS	184006978	3352	4758	+	1407		putative histidine kinase, ScnK homolog	GV35	clust_0848

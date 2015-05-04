@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01212	VBIGarVag247323_1212	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496626	235674	236213	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV01	clust_0156
+GV02|SEQ00240	VBIGarVag242669_0240	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497255	28502	29041	+	540		"Peptidyl-prolyl cis-trans isomerase "	GV02	clust_0156
+GV03|SEQ00959	VBIGarVag247424_0959	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501364	307924	308460	-	537		Peptidyl-prolyl cis-trans isomerase	GV03	clust_0156
+GV04|SEQ01145	VBIGarVag246433_1145	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482217	57454	57993	+	540		"Peptidyl-prolyl cis-trans isomerase "	GV04	clust_0156
+GV05|SEQ01006	VBIGarVag174900_1006	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547793	720866	721402	-	537		Peptidyl-prolyl cis-trans isomerase	GV05	clust_0156
+GV06|SEQ00909	VBIGarVag244004_0909	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490623	294174	294713	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV06	clust_0156
+GV07|SEQ00324	VBIGarVag249177_0324	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492265	142483	143019	+	537		Peptidyl-prolyl cis-trans isomerase	GV07	clust_0156
+GV08|SEQ00465	VBIGarVag251521_0465	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475336	335691	336230	-	540		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV08	clust_0156
+GV09|SEQ01127	VBIGarVag169280_1127	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261480	57540	58079	+	540	cypB	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV09	clust_0156
+GV10|SEQ00781	VBIGarVag136958_0781	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147634	1015617	1016153	-	537		Peptidyl-prolyl cis-trans isomerase	GV10	clust_0156
+GV11|SEQ00530	VBIGarVag171052_0530	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549388	9302	9841	-	540		peptidyl-prolyl cis-trans isomerase( EC:5.2.1.8 )	GV11	clust_0156
+GV12|SEQ00222	VBIGarVag144721_0222	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853107	173975	174511	-	537		Peptidyl-prolyl cis-trans isomerase	GV12	clust_0156
+GV13|SEQ00691	VBIGarVag244533_0691	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487366	127214	127753	+	540		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV13	clust_0156
+GV14|SEQ01063	VBIGarVag244375_1063	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504037	133918	134454	-	537		Peptidyl-prolyl cis-trans isomerase	GV14	clust_0156
+GV15|SEQ00127	VBIGarVag249709_0127	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483745	45261	45797	-	537		Peptidyl-prolyl cis-trans isomerase	GV15	clust_0156
+GV16|SEQ00993	VBIGarVag246379_0993	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479164	1134262	1134801	+	540		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV16	clust_0156
+GV17|SEQ00776	VBIGarVag146634_0776	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851624	98646	99182	+	537		Peptidyl-prolyl cis-trans isomerase	GV17	clust_0156
+GV18|SEQ00142	VBIGarVag4823_0142	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000058	PATRIC	CDS	42068966	1425	1964	-	540		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV18	clust_0156
+GV19|SEQ00622	VBIGarVag39333_0623	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628128	778582	779121	-	540	cypB	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV19	clust_0156
+GV20|SEQ00904	VBIGarVag188338_0904	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190653	1106768	1107307	+	540	cypB	Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV20	clust_0156
+GV21|SEQ00513	VBIGarVag274454_0514	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967699	72520	73059	+	540		"Peptidyl-prolyl cis-trans isomerase "	GV21	clust_0156
+GV22|SEQ00007	VBIGarVag276801_0007	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969388	9130	9669	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV22	clust_0156
+GV23|SEQ00798	VBIGarVag276017_0798	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973993	10809	11348	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV23	clust_0156
+GV24|SEQ00301	VBIGarVag268944_0302	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975720	32978	33517	+	540		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV24	clust_0156
+GV25|SEQ00684	VBIGarVag270495_0684	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979332	15717	16256	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV25	clust_0156
+GV26|SEQ00405	VBIGarVag272749_0405	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981594	17342	17881	+	540		"Peptidyl-prolyl cis-trans isomerase "	GV26	clust_0156
+GV27|SEQ00661	VBIGarVag276930_0661	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985097	21506	22045	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV27	clust_0156
+GV28|SEQ00143	VBIGarVag271349_0143	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986945	23857	24396	+	540		"Peptidyl-prolyl cis-trans isomerase "	GV28	clust_0156
+GV29|SEQ00338	VBIGarVag265473_0338	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990065	18048	18587	+	540		"Peptidyl-prolyl cis-trans isomerase "	GV29	clust_0156
+GV30|SEQ00345	VBIGarVag267667_0346	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992752	9144	9683	-	540		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV30	clust_0156
+GV31|SEQ00598	VBIGarVag264983_0598	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996277	10814	11353	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV31	clust_0156
+GV32|SEQ00227	VBIGarVag277040_0227	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998300	43277	43816	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV32	clust_0156
+GV33|SEQ00459	VBIGarVag265557_0459	Gardnerella vaginalis JCP8481A	ATJG01000043	PATRIC	CDS	184001649	1044	1580	-	537		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV33	clust_0156
+GV34|SEQ00524	VBIGarVag270440_0524	Gardnerella vaginalis JCP8481B	ATJF01000047	PATRIC	CDS	184004634	1044	1580	-	537		Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)	GV34	clust_0156
+GV35|SEQ00366	VBIGarVag272169_0366	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007035	22543	23082	-	540		"Peptidyl-prolyl cis-trans isomerase "	GV35	clust_0156

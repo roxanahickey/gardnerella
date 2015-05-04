@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV33|SEQ01251	VBIGarVag265557_1251	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003448	13774	15867	-	2094		hypothetical protein	GV33	clust_3050
+GV34|SEQ00105	VBIGarVag270440_0105	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003703	13804	15897	-	2094		hypothetical protein	GV34	clust_3050
+BRE5|SEQ01936	VBIBifBre336369_1937	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618100	2174068	2175954	+	1887		hypothetical protein	BRE5	clust_3050
+THE1|SEQ00392	VBIBifThe274299_0392	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733959	470250	471896	-	1647		hypothetical protein	THE1	clust_3050

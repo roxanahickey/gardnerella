@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01694	VBIBifBre340958_1695	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605443	1979300	1979512	+	213		FIG00425130: hypothetical protein	BRE1	clust_2270
+BRE2|SEQ01798	VBIBifBre337368_1798	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609627	2079743	2080006	+	264		CTP synthase (UTP-ammonia lyase)	BRE2	clust_2270
+BRE3|SEQ01762	VBIBifBre167886_1762	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195304	2051763	2051975	+	213		FIG00425130: hypothetical protein	BRE3	clust_2270
+BRE4|SEQ01733	VBIBifBre327712_1733	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613638	2012036	2012248	+	213		FIG00425130: hypothetical protein	BRE4	clust_2270
+BRE5|SEQ01855	VBIBifBre336369_1856	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617936	2082602	2082814	+	213		hypothetical protein	BRE5	clust_2270
+BRE7|SEQ01792	VBIBifBre340732_1792	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622113	2062925	2063137	+	213		FIG00425130: hypothetical protein	BRE7	clust_2270
+BRE8|SEQ01749	VBIBifBre176493_1749	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626139	2036359	2036571	+	213		FIG00425130: hypothetical protein	BRE8	clust_2270
+BRE9|SEQ01855	VBIBifBre30019_1855	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447879	2140287	2140550	+	264		hypothetical protein	BRE9	clust_2270

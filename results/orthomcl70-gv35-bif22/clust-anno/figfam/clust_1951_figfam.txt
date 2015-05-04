@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00352	86883235	VBIBifBif87902_0352	SEQ00352	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1951
+BRE2|SEQ01898	268609830	VBIBifBre337368_1898	SEQ01898	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE3|SEQ01861	54195505	VBIBifBre167886_1861	SEQ01861	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE4|SEQ01840	268613856	VBIBifBre327712_1840	SEQ01840	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE5|SEQ01963	268618154	VBIBifBre336369_1964	SEQ01963	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE6|SEQ01308	177655847	VBIBifBre268992_1308	SEQ01308	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE7|SEQ01886	268622304	VBIBifBre340732_1886	SEQ01886	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE8|SEQ01848	268626341	VBIBifBre176493_1848	SEQ01848	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+BRE9|SEQ01947	58448066	VBIBifBre30019_1947	SEQ01947	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Endo-1,4-beta-xylanase D	FIG01336089	figfam	clust_1951
+DEN1|SEQ00566	43462426	VBIBifDen165269_0567	SEQ00566	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		endo-1,4-beta-xylanase	FIG01681827	figfam	clust_1951
+DEN2|SEQ01604	42111600	VBIBifDen39005_1605	SEQ01604	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS		endo-1,4-beta-xylanase	FIG01681827	figfam	clust_1951

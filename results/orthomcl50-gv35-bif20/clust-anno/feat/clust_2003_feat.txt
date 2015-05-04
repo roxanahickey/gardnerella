@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00128	VBIBifAdo136061_0128	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186472	48122	48655	-	534		FOG: FHA domain	ADO1	clust_2003
+ANI1|SEQ01329	VBIBifAni240121_1329	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847665	1567779	1568405	-	627		FOG: FHA domain	ANI1	clust_2003
+ANI2|SEQ01329	VBIBifAni235968_1329	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851018	1568000	1568626	-	627		FOG: FHA domain	ANI2	clust_2003
+ANI3|SEQ01339	VBIBifAni108068_1339	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765038	1573231	1573857	-	627		FOG: FHA domain	ANI3	clust_2003
+BIF1|SEQ00392	VBIBifBif87902_0392	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883315	480254	480799	-	546		FOG: FHA domain	BIF1	clust_2003
+INF1|SEQ00434	VBIBifLon182273_0434	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884806	543224	543856	-	633		FOG: FHA domain	INF1	clust_2003
+LON1|SEQ00917	VBIBifLon107831_0918	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118911	1078399	1079031	+	633		FOG: FHA domain	LON1	clust_2003
+LON2|SEQ00998	VBIBifLon171405_0999	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581543	1131262	1131894	+	633		FOG: FHA domain	LON2	clust_2003
+LON3|SEQ00790	VBIBifLon156230_0790	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768554	1693780	1694412	+	633		FOG: FHA domain	LON3	clust_2003
+LON4|SEQ00421	VBIBifLon48544_0421	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889081	517706	518338	-	633		FOG: FHA domain	LON4	clust_2003

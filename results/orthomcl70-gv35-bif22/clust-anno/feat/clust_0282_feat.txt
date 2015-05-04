@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00328	VBIBifAdo136061_0328	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186912	131780	132874	+	1095		Sortase (surface protein transpeptidase)	ADO1	clust_0282
+ANI1|SEQ00076	VBIBifAni240121_0076	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845049	91657	92721	+	1065		Sortase (surface protein transpeptidase)	ANI1	clust_0282
+ANI2|SEQ00076	VBIBifAni235968_0076	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848404	91657	92721	+	1065		Sortase (surface protein transpeptidase)	ANI2	clust_0282
+ANI3|SEQ00078	VBIBifAni108068_0078	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762420	91567	92721	+	1155		Sortase (surface protein transpeptidase)	ANI3	clust_0282
+BIF1|SEQ00081	VBIBifBif87902_0081	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882660	99627	100856	+	1230	srtA	Sortase (surface protein transpeptidase)	BIF1	clust_0282
+BRE1|SEQ00061	VBIBifBre340958_0061	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602040	77404	78609	+	1206		Sortase (surface protein transpeptidase)	BRE1	clust_0282
+BRE2|SEQ00053	VBIBifBre337368_0053	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605996	70043	71248	+	1206		Sortase (surface protein transpeptidase)	BRE2	clust_0282
+BRE3|SEQ00059	VBIBifBre167886_0059	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191756	76351	77556	+	1206		Sortase (surface protein transpeptidase)	BRE3	clust_0282
+BRE4|SEQ00075	VBIBifBre327712_0075	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610183	96472	97677	+	1206		Sortase (surface protein transpeptidase)	BRE4	clust_0282
+BRE5|SEQ00062	VBIBifBre336369_0062	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614205	76490	77695	+	1206		Sortase (surface protein transpeptidase)	BRE5	clust_0282
+BRE6|SEQ01789	VBIBifBre268992_1789	Bifidobacterium breve JCP7499	AWSX01000083	PATRIC	CDS	177656886	13935	15140	-	1206		Sortase (surface protein transpeptidase)	BRE6	clust_0282
+BRE7|SEQ00052	VBIBifBre340732_0052	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618496	67486	68691	+	1206		Sortase (surface protein transpeptidase)	BRE7	clust_0282
+BRE8|SEQ00075	VBIBifBre176493_0075	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622655	92776	93981	+	1206		Sortase (surface protein transpeptidase)	BRE8	clust_0282
+BRE9|SEQ00075	VBIBifBre30019_0075	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444174	93060	94265	+	1206		Sortase (surface protein transpeptidase)	BRE9	clust_0282
+DEN1|SEQ00655	VBIBifDen165269_0656	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462608	2116831	2117925	-	1095		Sortase (surface protein transpeptidase)	DEN1	clust_0282
+DEN2|SEQ01698	VBIBifDen39005_1699	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111792	189314	190408	-	1095		Sortase (surface protein transpeptidase)	DEN2	clust_0282
+GV01|SEQ00667	VBIGarVag247323_0667	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495487	90847	91962	-	1116		Sortase (surface protein transpeptidase)	GV01	clust_0282
+GV02|SEQ00152	VBIGarVag242669_0152	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497066	125603	126718	-	1116		Sortase (surface protein transpeptidase)	GV02	clust_0282
+GV03|SEQ00132	VBIGarVag247424_0132	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499640	62603	63709	+	1107		Sortase (surface protein transpeptidase)	GV03	clust_0282
+GV04|SEQ00261	VBIGarVag246433_0261	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480378	143239	144354	-	1116		Sortase (surface protein transpeptidase)	GV04	clust_0282
+GV05|SEQ00234	VBIGarVag174900_0234	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546186	62686	63792	+	1107		Sortase (surface protein transpeptidase)	GV05	clust_0282
+GV06|SEQ00115	VBIGarVag244004_0115	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488941	16022	17137	+	1116		Sortase (surface protein transpeptidase)	GV06	clust_0282
+GV07|SEQ00115	VBIGarVag249177_0115	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491811	130608	131714	-	1107		Sortase (surface protein transpeptidase)	GV07	clust_0282
+GV08|SEQ00980	VBIGarVag251521_0980	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476403	67018	68133	+	1116		Sortase (surface protein transpeptidase)	GV08	clust_0282
+GV09|SEQ00121	VBIGarVag169280_0121	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259389	92553	93668	-	1116		Sortase (surface protein transpeptidase)	GV09	clust_0282
+GV10|SEQ00025	VBIGarVag136958_0025	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146060	32916	34022	+	1107		Sortase (surface protein transpeptidase)	GV10	clust_0282
+GV11|SEQ00474	VBIGarVag171052_0474	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549271	67823	68938	+	1116		Sortase (surface protein transpeptidase)	GV11	clust_0282
+GV12|SEQ00556	VBIGarVag144721_0556	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853805	61335	62441	+	1107		Sortase (surface protein transpeptidase)	GV12	clust_0282
+GV13|SEQ00074	VBIGarVag244533_0074	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486084	70953	72068	+	1116		Sortase (surface protein transpeptidase)	GV13	clust_0282
+GV14|SEQ00624	VBIGarVag244375_0624	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503112	137055	138161	-	1107		Sortase (surface protein transpeptidase)	GV14	clust_0282
+GV15|SEQ01063	VBIGarVag249709_1063	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485718	29059	30165	-	1107		Sortase (surface protein transpeptidase)	GV15	clust_0282
+GV16|SEQ00148	VBIGarVag246379_0148	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477410	75582	76697	+	1116		Sortase (surface protein transpeptidase)	GV16	clust_0282
+GV17|SEQ00612	VBIGarVag146634_0612	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851276	28989	30095	-	1107		Sortase (surface protein transpeptidase)	GV17	clust_0282
+GV18|SEQ00929	VBIGarVag4823_0929	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000134	PATRIC	CDS	42070662	11708	12823	-	1116		Sortase (surface protein transpeptidase)	GV18	clust_0282
+GV19|SEQ00139	VBIGarVag39333_0139	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627117	159997	161112	-	1116		Sortase (surface protein transpeptidase)	GV19	clust_0282
+GV20|SEQ00018	VBIGarVag188338_0018	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188806	20956	22071	-	1116		Sortase (surface protein transpeptidase)	GV20	clust_0282
+GV21|SEQ00214	VBIGarVag274454_0214	Gardnerella vaginalis JCP7275	ATJS01000010	PATRIC	CDS	183967075	7214	8329	+	1116		Sortase (surface protein transpeptidase)	GV21	clust_0282
+GV22|SEQ00171	VBIGarVag276801_0171	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969732	39195	40310	-	1116		Sortase (surface protein transpeptidase)	GV22	clust_0282
+GV23|SEQ00084	VBIGarVag276017_0084	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972463	51420	52535	-	1116		Sortase (surface protein transpeptidase)	GV23	clust_0282
+GV24|SEQ00069	VBIGarVag268944_0070	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975232	63978	65093	-	1116		Sortase (surface protein transpeptidase)	GV24	clust_0282
+GV25|SEQ00007	VBIGarVag270495_0007	Gardnerella vaginalis JCP7719	ATJO01000001	PATRIC	CDS	183977871	6270	7385	+	1116		Sortase (surface protein transpeptidase)	GV25	clust_0282
+GV26|SEQ00189	VBIGarVag272749_0189	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981130	6275	7390	+	1116		Sortase (surface protein transpeptidase)	GV26	clust_0282
+GV27|SEQ00280	VBIGarVag276930_0280	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984295	34591	35706	+	1116		Sortase (surface protein transpeptidase)	GV27	clust_0282
+GV28|SEQ00184	VBIGarVag271349_0184	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987029	7517	8632	+	1116		Sortase (surface protein transpeptidase)	GV28	clust_0282
+GV29|SEQ00276	VBIGarVag265473_0276	Gardnerella vaginalis JCP8070	ATJK01000011	PATRIC	CDS	183989930	21758	22873	-	1116		Sortase (surface protein transpeptidase)	GV29	clust_0282
+GV30|SEQ00204	VBIGarVag267667_0204	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992458	37183	38298	-	1116		Sortase (surface protein transpeptidase)	GV30	clust_0282
+GV31|SEQ00401	VBIGarVag264983_0401	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995855	80303	81418	-	1116		Sortase (surface protein transpeptidase)	GV31	clust_0282
+GV32|SEQ00081	VBIGarVag277040_0081	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997994	65518	66633	-	1116		Sortase (surface protein transpeptidase)	GV32	clust_0282
+GV33|SEQ00110	VBIGarVag265557_0110	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000893	26117	27223	-	1107		Sortase (surface protein transpeptidase)	GV33	clust_0282
+GV34|SEQ01034	VBIGarVag270440_1034	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005750	51547	52653	-	1107		Sortase (surface protein transpeptidase)	GV34	clust_0282
+GV35|SEQ00286	VBIGarVag272169_0286	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006864	56119	57234	-	1116		Sortase (surface protein transpeptidase)	GV35	clust_0282
+INF1|SEQ00045	VBIBifLon182273_0045	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883991	55436	56674	+	1239		Sortase (surface protein transpeptidase)	INF1	clust_0282
+LON1|SEQ01330	VBIBifLon107831_1331	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119769	1569490	1570728	-	1239		Sortase (surface protein transpeptidase)	LON1	clust_0282
+LON2|SEQ01362	VBIBifLon171405_1365	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582304	1576330	1577568	-	1239	srtA2	Sortase (surface protein transpeptidase)	LON2	clust_0282
+LON3|SEQ01442	VBIBifLon156230_1445	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769499	2217855	2218997	-	1143		Sortase (surface protein transpeptidase)	LON3	clust_0282
+LON4|SEQ00054	VBIBifLon48544_0054	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888311	68401	69543	+	1143		Sortase (surface protein transpeptidase)	LON4	clust_0282
+THE1|SEQ00041	VBIBifThe274299_0041	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733241	52885	54156	-	1272		Sortase (surface protein transpeptidase)	THE1	clust_0282

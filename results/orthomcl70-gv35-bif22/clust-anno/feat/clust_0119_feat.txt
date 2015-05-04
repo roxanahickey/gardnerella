@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01152	VBIBifAdo136061_1152	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188639	68421	69002	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	ADO1	clust_0119
+ANI1|SEQ00813	VBIBifAni240121_0813	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846587	947094	947675	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	ANI1	clust_0119
+ANI2|SEQ00812	VBIBifAni235968_0812	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849938	947097	947678	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	ANI2	clust_0119
+ANI3|SEQ00815	VBIBifAni108068_0815	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763952	947099	947680	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	ANI3	clust_0119
+BIF1|SEQ00923	VBIBifBif87902_0923	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884398	1125839	1126420	-	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	BIF1	clust_0119
+BRE1|SEQ00962	VBIBifBre340958_0962	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603921	1144259	1144840	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE1	clust_0119
+BRE2|SEQ01056	VBIBifBre337368_1056	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608083	1239524	1240105	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE2	clust_0119
+BRE3|SEQ00824	VBIBifBre167886_0824	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193346	979595	980176	-	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE3	clust_0119
+BRE4|SEQ00997	VBIBifBre327712_0997	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612100	1158812	1159393	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE4	clust_0119
+BRE5|SEQ01109	VBIBifBre336369_1110	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616386	1251254	1251835	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE5	clust_0119
+BRE6|SEQ01711	VBIBifBre268992_1711	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656721	6811	7392	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE6	clust_0119
+BRE7|SEQ01006	VBIBifBre340732_1006	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620484	1185249	1185830	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE7	clust_0119
+BRE8|SEQ01026	VBIBifBre176493_1026	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624632	1221613	1222194	+	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE8	clust_0119
+BRE9|SEQ01091	VBIBifBre30019_1091	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446294	1284750	1285331	+	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	BRE9	clust_0119
+DEN1|SEQ01514	VBIBifDen165269_1515	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460164	785573	786154	+	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	DEN1	clust_0119
+DEN2|SEQ00125	VBIBifDen39005_0125	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108557	69139	69720	-	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	DEN2	clust_0119
+GV01|SEQ00453	VBIGarVag247323_0453	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495049	188265	188846	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV01	clust_0119
+GV02|SEQ00913	VBIGarVag242669_0913	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498671	152448	153029	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV02	clust_0119
+GV03|SEQ00911	VBIGarVag247424_0911	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501265	251038	251619	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV03	clust_0119
+GV04|SEQ00977	VBIGarVag246433_0977	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481864	346862	347443	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV04	clust_0119
+GV05|SEQ00958	VBIGarVag174900_0958	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547694	664271	664852	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV05	clust_0119
+GV06|SEQ01275	VBIGarVag244004_1275	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491379	141621	142202	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV06	clust_0119
+GV07|SEQ01008	VBIGarVag249177_1008	Gardnerella vaginalis 1500E	ADES01000019	PATRIC	CDS	85493701	23140	23721	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV07	clust_0119
+GV08|SEQ00919	VBIGarVag251521_0919	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476272	99241	99822	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV08	clust_0119
+GV09|SEQ00834	VBIGarVag169280_0834	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260873	216816	217397	+	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV09	clust_0119
+GV10|SEQ00729	VBIGarVag136958_0729	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147528	946779	947186	-	408		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV10	clust_0119
+GV11|SEQ00122	VBIGarVag171052_0122	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548513	6051	6632	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV11	clust_0119
+GV12|SEQ00168	VBIGarVag144721_0168	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852997	113958	114620	-	663		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV12	clust_0119
+GV13|SEQ00286	VBIGarVag244533_0286	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486518	105416	105997	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV13	clust_0119
+GV14|SEQ01011	VBIGarVag244375_1011	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503930	74996	75577	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV14	clust_0119
+GV15|SEQ00778	VBIGarVag249709_0778	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485113	263832	264506	-	675		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV15	clust_0119
+GV16|SEQ00769	VBIGarVag246379_0769	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478697	862517	863098	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV16	clust_0119
+GV17|SEQ00826	VBIGarVag146634_0826	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851727	26637	27218	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV17	clust_0119
+GV18|SEQ01087	VBIGarVag4823_1087	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42071001	10658	11239	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV18	clust_0119
+GV19|SEQ00842	VBIGarVag39333_0843	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628585	1047418	1047999	-	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV19	clust_0119
+GV20|SEQ00705	VBIGarVag188338_0705	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190236	853362	853943	+	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV20	clust_0119
+GV21|SEQ00068	VBIGarVag274454_0068	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966772	80891	81472	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV21	clust_0119
+GV22|SEQ00455	VBIGarVag276801_0456	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970339	89620	90201	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV22	clust_0119
+GV23|SEQ00653	VBIGarVag276017_0653	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973671	99236	99817	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV23	clust_0119
+GV24|SEQ00407	VBIGarVag268944_0408	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975940	80187	80768	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV24	clust_0119
+GV25|SEQ01067	VBIGarVag270495_1067	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980181	85540	86121	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV25	clust_0119
+GV26|SEQ00539	VBIGarVag272749_0539	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981870	86236	86817	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV26	clust_0119
+GV27|SEQ00399	VBIGarVag276930_0399	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984541	86749	87330	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV27	clust_0119
+GV28|SEQ00789	VBIGarVag271349_0789	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988335	82754	83335	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV28	clust_0119
+GV29|SEQ00108	VBIGarVag265473_0108	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989577	86055	86636	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV29	clust_0119
+GV30|SEQ00083	VBIGarVag267667_0083	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992205	80122	80703	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV30	clust_0119
+GV31|SEQ00281	VBIGarVag264983_0281	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995605	86756	87337	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV31	clust_0119
+GV32|SEQ01081	VBIGarVag277040_1081	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000206	64731	65312	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV32	clust_0119
+GV33|SEQ00511	VBIGarVag265557_0511	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	184001759	18958	19539	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV33	clust_0119
+GV34|SEQ00186	VBIGarVag270440_0186	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	184003884	17114	17695	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV34	clust_0119
+GV35|SEQ00040	VBIGarVag272169_0040	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006355	36224	36805	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	GV35	clust_0119
+INF1|SEQ01047	VBIBifLon182273_1047	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886080	1196937	1197518	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	INF1	clust_0119
+LON1|SEQ00428	VBIBifLon107831_0428	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117909	510761	511342	+	582	apt	Adenine phosphoribosyltransferase (EC 2.4.2.7)	LON1	clust_0119
+LON2|SEQ00434	VBIBifLon171405_0435	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580386	507936	508517	+	582	apt1	Adenine phosphoribosyltransferase (EC 2.4.2.7)	LON2	clust_0119
+LON3|SEQ00291	VBIBifLon156230_0291	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767527	1123263	1123844	+	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	LON3	clust_0119
+LON4|SEQ01127	VBIBifLon48544_1127	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890578	1263734	1264315	-	582		Adenine phosphoribosyltransferase (EC 2.4.2.7)	LON4	clust_0119
+THE1|SEQ01044	VBIBifThe274299_1044	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735288	1302112	1302690	-	579		Adenine phosphoribosyltransferase (EC 2.4.2.7)	THE1	clust_0119

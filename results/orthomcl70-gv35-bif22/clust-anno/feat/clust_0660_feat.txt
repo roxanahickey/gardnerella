@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01981	VBIBifAdo136061_1981	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190345	544880	546790	-	1911		probable permease protein of ABC transporter system	ADO1	clust_0660
+ANI1|SEQ01516	VBIBifAni240121_1516	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848053	1815230	1817026	-	1797		probable permease protein of ABC transporter system	ANI1	clust_0660
+ANI2|SEQ01514	VBIBifAni235968_1514	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851402	1815450	1817246	-	1797		probable permease protein of ABC transporter system	ANI2	clust_0660
+ANI3|SEQ01525	VBIBifAni108068_1525	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765424	1820681	1822477	-	1797		probable permease protein of ABC transporter system	ANI3	clust_0660
+BRE1|SEQ01792	VBIBifBre340958_1793	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605643	2097563	2099473	-	1911		probable permease protein of ABC transporter system	BRE1	clust_0660
+BRE2|SEQ01895	VBIBifBre337368_1895	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609824	2200312	2202222	-	1911		probable permease protein of ABC transporter system	BRE2	clust_0660
+BRE3|SEQ01857	VBIBifBre167886_1857	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195497	2167690	2169600	-	1911		probable permease protein of ABC transporter system	BRE3	clust_0660
+BRE4|SEQ01836	VBIBifBre327712_1836	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613848	2133928	2135838	-	1911		probable permease protein of ABC transporter system	BRE4	clust_0660
+BRE5|SEQ01959	VBIBifBre336369_1960	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618146	2210168	2212078	-	1911		probable permease protein of ABC transporter system	BRE5	clust_0660
+BRE6|SEQ01304	VBIBifBre268992_1304	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655839	21378	23288	-	1911		probable permease protein of ABC transporter system	BRE6	clust_0660
+BRE7|SEQ01882	VBIBifBre340732_1882	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622296	2174207	2176117	-	1911		probable permease protein of ABC transporter system	BRE7	clust_0660
+BRE8|SEQ01844	VBIBifBre176493_1844	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626333	2152105	2154015	-	1911	bbmA	probable permease protein of ABC transporter system	BRE8	clust_0660
+BRE9|SEQ01943	VBIBifBre30019_1943	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448058	2250831	2252741	-	1911	bbmA	probable permease protein of ABC transporter system	BRE9	clust_0660
+DEN1|SEQ00858	VBIBifDen165269_0859	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463024	2389004	2390884	+	1881	mdlA	probable permease protein of ABC transporter system	DEN1	clust_0660
+DEN2|SEQ00321	VBIBifDen39005_0321	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108965	40848	42728	-	1881		probable permease protein of ABC transporter system	DEN2	clust_0660
+GV01|SEQ01258	VBIGarVag247323_1258	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496721	32190	34016	+	1827		probable permease protein of ABC transporter system	GV01	clust_0660
+GV02|SEQ00016	VBIGarVag242669_0016	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496787	10760	12586	-	1827		probable permease protein of ABC transporter system	GV02	clust_0660
+GV03|SEQ00396	VBIGarVag247424_0396	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500197	6593	8407	-	1815		probable permease protein of ABC transporter system	GV03	clust_0660
+GV04|SEQ01249	VBIGarVag246433_1249	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482427	104857	106683	+	1827		probable permease protein of ABC transporter system	GV04	clust_0660
+GV05|SEQ00184	VBIGarVag174900_0184	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546077	89417	91231	+	1815		probable permease protein of ABC transporter system	GV05	clust_0660
+GV06|SEQ00455	VBIGarVag244004_0455	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489668	10561	12387	-	1827		probable permease protein of ABC transporter system	GV06	clust_0660
+GV07|SEQ01016	VBIGarVag249177_1016	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493718	6543	8285	-	1743		probable permease protein of ABC transporter system	GV07	clust_0660
+GV08|SEQ00521	VBIGarVag251521_0521	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475456	10731	12557	-	1827		probable permease protein of ABC transporter system	GV08	clust_0660
+GV09|SEQ01071	VBIGarVag169280_1071	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261364	96044	97870	+	1827		probable permease protein of ABC transporter system	GV09	clust_0660
+GV10|SEQ01101	VBIGarVag136958_1101	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148300	1491989	1493803	-	1815		probable permease protein of ABC transporter system	GV10	clust_0660
+GV11|SEQ00766	VBIGarVag171052_0766	Gardnerella vaginalis 41V	AEJE01000048	PATRIC	CDS	52549888	10645	12471	-	1827		probable permease protein of ABC transporter system	GV11	clust_0660
+GV12|SEQ00006	VBIGarVag144721_0006	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852662	6576	8390	-	1815		probable permease protein of ABC transporter system	GV12	clust_0660
+GV13|SEQ01264	VBIGarVag244533_1264	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488580	98892	100718	+	1827		probable permease protein of ABC transporter system	GV13	clust_0660
+GV14|SEQ00945	VBIGarVag244375_0945	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503785	84676	86490	+	1815		probable permease protein of ABC transporter system	GV14	clust_0660
+GV15|SEQ00068	VBIGarVag249709_0068	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483622	82720	84534	+	1815		probable permease protein of ABC transporter system	GV15	clust_0660
+GV16|SEQ00080	VBIGarVag246379_0080	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477265	101637	103463	+	1827		probable permease protein of ABC transporter system	GV16	clust_0660
+GV17|SEQ00005	VBIGarVag146634_0005	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850006	6597	8411	-	1815		probable permease protein of ABC transporter system	GV17	clust_0660
+GV18|SEQ00270	VBIGarVag4823_0270	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000077	PATRIC	CDS	42069246	2239	4065	-	1827		probable permease protein of ABC transporter system	GV18	clust_0660
+GV19|SEQ00283	VBIGarVag39333_0284	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627419	345900	347270	+	1371		probable permease protein of ABC transporter system	GV19	clust_0660
+GV20|SEQ01229	VBIGarVag188338_1229	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191334	1539555	1541381	-	1827		probable permease protein of ABC transporter system	GV20	clust_0660
+GV21|SEQ00449	VBIGarVag274454_0450	Gardnerella vaginalis JCP7275	ATJS01000023	PATRIC	CDS	183967566	2176	4002	-	1827		probable permease protein of ABC transporter system	GV21	clust_0660
+GV22|SEQ00747	VBIGarVag276801_0748	Gardnerella vaginalis JCP7276	ATJR01000031	PATRIC	CDS	183970945	8360	10186	+	1827		probable permease protein of ABC transporter system	GV22	clust_0660
+GV23|SEQ00850	VBIGarVag276017_0850	Gardnerella vaginalis JCP7659	ATJQ01000067	PATRIC	CDS	183974106	11351	13177	-	1827		probable permease protein of ABC transporter system	GV23	clust_0660
+GV24|SEQ00174	VBIGarVag268944_0175	Gardnerella vaginalis JCP7672	ATJP01000007	PATRIC	CDS	183975452	10771	12597	-	1827		probable permease protein of ABC transporter system	GV24	clust_0660
+GV25|SEQ01244	VBIGarVag270495_1244	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980595	11455	13281	-	1827		probable permease protein of ABC transporter system	GV25	clust_0660
+GV26|SEQ00720	VBIGarVag272749_0720	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982249	11335	13161	-	1827		probable permease protein of ABC transporter system	GV26	clust_0660
+GV27|SEQ00762	VBIGarVag276930_0762	Gardnerella vaginalis JCP8017B	ATJM01000036	PATRIC	CDS	183985314	7484	9310	+	1827		probable permease protein of ABC transporter system	GV27	clust_0660
+GV28|SEQ01036	VBIGarVag271349_1036	Gardnerella vaginalis JCP8066	ATJL01000128	PATRIC	CDS	183988912	7323	9149	-	1827		probable permease protein of ABC transporter system	GV28	clust_0660
+GV29|SEQ01196	VBIGarVag265473_1196	Gardnerella vaginalis JCP8070	ATJK01000170	PATRIC	CDS	183992004	10778	12604	-	1827		probable permease protein of ABC transporter system	GV29	clust_0660
+GV30|SEQ01230	VBIGarVag267667_1232	Gardnerella vaginalis JCP8108	ATJJ01000138	PATRIC	CDS	183994720	11254	13080	-	1827		probable permease protein of ABC transporter system	GV30	clust_0660
+GV31|SEQ00826	VBIGarVag264983_0826	Gardnerella vaginalis JCP8151A	ATJI01000052	PATRIC	CDS	183996782	11483	13309	-	1827		probable permease protein of ABC transporter system	GV31	clust_0660
+GV32|SEQ01240	VBIGarVag277040_1240	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	184000564	11481	13307	-	1827		probable permease protein of ABC transporter system	GV32	clust_0660
+GV33|SEQ00717	VBIGarVag265557_0717	Gardnerella vaginalis JCP8481A	ATJG01000073	PATRIC	CDS	184002206	8452	10293	+	1842		probable permease protein of ABC transporter system	GV33	clust_0660
+GV34|SEQ00823	VBIGarVag270440_0823	Gardnerella vaginalis JCP8481B	ATJF01000082	PATRIC	CDS	184005278	8452	10293	+	1842		probable permease protein of ABC transporter system	GV34	clust_0660
+GV35|SEQ00696	VBIGarVag272169_0696	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007767	12534	14360	+	1827		probable permease protein of ABC transporter system	GV35	clust_0660
+INF1|SEQ01933	VBIBifLon182273_1933	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887924	2222451	2224361	-	1911		probable permease protein of ABC transporter system	INF1	clust_0660
+LON1|SEQ01476	VBIBifLon107831_1477	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120082	1785717	1787627	+	1911		probable permease protein of ABC transporter system	LON1	clust_0660
+LON2|SEQ01521	VBIBifLon171405_1524	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582637	1818792	1820702	+	1911	mdlB4	probable permease protein of ABC transporter system	LON2	clust_0660
+LON3|SEQ01832	VBIBifLon156230_1835	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766854	715258	717168	-	1911		probable permease protein of ABC transporter system	LON3	clust_0660
+LON4|SEQ01885	VBIBifLon48544_1885	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892173	2189127	2191037	-	1911		probable permease protein of ABC transporter system	LON4	clust_0660

@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV10|SEQ00767	32147604	VBIGarVag136958_0767	SEQ00767	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+GV13|SEQ00773	85487538	VBIGarVag244533_0773	SEQ00773	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+GV13|SEQ00774	85487540	VBIGarVag244533_0774	SEQ00774	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+GV21|SEQ00469	183967607	VBIGarVag274454_0470	SEQ00469	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+GV28|SEQ00524	183987754	VBIGarVag271349_0524	SEQ00524	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000034	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+GV33|SEQ00182	184001054	VBIGarVag265557_0182	SEQ00182	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000016	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+GV34|SEQ01159	184006025	VBIGarVag270440_1159	SEQ01159	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000129	PATRIC	CDS	NA	Site-specific recombinase	FIG00521491	figfam	clust_2170
+LON2|SEQ00802	42581146	VBIBifLon171405_0803	SEQ00802	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Site-specific recombinase	FIG00521491	figfam	clust_2170
+LON3|SEQ00200	42767333	VBIBifLon156230_0200	SEQ00200	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Site-specific recombinase	FIG00521491	figfam	clust_2170

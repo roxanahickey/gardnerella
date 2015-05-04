@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00862	VBIBifDen165269_0863	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463032	2396664	2398328	+	1665		ABC transporter, substrate-binding protein	DEN1	clust_4003
+DEN2|SEQ00317	VBIBifDen39005_0317	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108957	33404	35059	-	1656		ABC transporter, substrate-binding protein	DEN2	clust_4003
+THE1|SEQ01276	VBIBifThe274299_1276	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735774	1587055	1588635	+	1581		ABC transporter, substrate-binding protein	THE1	clust_4003

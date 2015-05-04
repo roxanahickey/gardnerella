@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ01412	VBIBifBre167886_1412	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194568	1650322	1651524	+	1203		Mobile element protein	BRE3	clust_1882
+BRE6|SEQ00292	VBIBifBre268992_0292	Bifidobacterium breve JCP7499	AWSX01000016	PATRIC	CDS	177653698	1690	2892	-	1203		Mobile element protein	BRE6	clust_1882
+INF1|SEQ00096	VBIBifLon182273_0096	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884098	117510	118712	+	1203		Mobile element protein	INF1	clust_1882
+INF1|SEQ00381	VBIBifLon182273_0381	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884699	473959	475023	-	1065		Mobile element protein	INF1	clust_1882
+INF1|SEQ00398	VBIBifLon182273_0398	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884733	496230	497432	+	1203		Mobile element protein	INF1	clust_1882
+LON1|SEQ00971	VBIBifLon107831_0972	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119019	1146734	1147936	+	1203		Mobile element protein	LON1	clust_1882
+LON1|SEQ00979	VBIBifLon107831_0980	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119035	1153360	1154562	-	1203		Mobile element protein	LON1	clust_1882
+LON1|SEQ01280	VBIBifLon107831_1281	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119665	1508916	1510118	-	1203		Mobile element protein	LON1	clust_1882
+LON3|SEQ00161	VBIBifLon156230_0161	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767250	977866	979068	+	1203		Mobile element protein	LON3	clust_1882
+LON4|SEQ00834	VBIBifLon48544_0834	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889941	1000541	1001743	-	1203		Mobile element protein	LON4	clust_1882
+LON4|SEQ01205	VBIBifLon48544_1205	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890751	1353131	1354333	+	1203		Mobile element protein	LON4	clust_1882

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV25|SEQ00842	183979659	VBIGarVag270495_0842	SEQ00842	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000068	PATRIC	CDS	NA	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	FIG00000494	figfam	clust_3663
+GV28|SEQ00477	183987649	VBIGarVag271349_0477	SEQ00477	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000027	PATRIC	CDS	NA	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	FIG00000494	figfam	clust_3663
+GV31|SEQ00348	183995745	VBIGarVag264983_0348	SEQ00348	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	NA	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	FIG00000494	figfam	clust_3663

@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00389	VBIBifAdo136061_0389	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187039	212871	213584	-	714		Sulfur carrier protein adenylyltransferase ThiF	ADO1	clust_2187
+DEN1|SEQ00549	VBIBifDen165269_0550	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462392	1975027	1975740	+	714	thiF	Sulfur carrier protein adenylyltransferase ThiF	DEN1	clust_2187
+DEN2|SEQ01586	VBIBifDen39005_1587	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111564	47509	48222	+	714	thiF	Sulfur carrier protein adenylyltransferase ThiF	DEN2	clust_2187
+GV10|SEQ00677	VBIGarVag136958_0677	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147422	876593	877216	+	624	thiF	Sulfur carrier protein adenylyltransferase ThiF	GV10	clust_2187
+GV12|SEQ00113	VBIGarVag144721_0113	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852885	43749	44372	+	624		Sulfur carrier protein adenylyltransferase ThiF	GV12	clust_2187
+GV15|SEQ00720	VBIGarVag249709_0720	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484995	190909	191532	+	624		Sulfur carrier protein adenylyltransferase ThiF	GV15	clust_2187
+GV17|SEQ00883	VBIGarVag146634_0883	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851843	99528	100151	-	624		Sulfur carrier protein adenylyltransferase ThiF	GV17	clust_2187
+THE1|SEQ00143	VBIBifThe274299_0143	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733449	166534	167247	-	714		Sulfur carrier protein adenylyltransferase ThiF	THE1	clust_2187

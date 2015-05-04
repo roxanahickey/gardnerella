@@ -1,0 +1,34 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00266	VBIGarVag247323_0266	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494652	154447	154755	-	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV01	clust_0843
+GV02|SEQ00535	VBIGarVag242669_0535	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497871	144711	145022	-	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV02	clust_0843
+GV03|SEQ00580	VBIGarVag247424_0580	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500573	144666	144986	+	321		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV03	clust_0843
+GV04|SEQ00465	VBIGarVag246433_0465	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480814	91445	91753	-	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV04	clust_0843
+GV05|SEQ00598	VBIGarVag174900_0598	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546946	206048	206368	+	321		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV05	clust_0843
+GV06|SEQ00762	VBIGarVag244004_0762	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490316	95977	96285	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV06	clust_0843
+GV07|SEQ00800	VBIGarVag249177_0800	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493265	62251	62592	-	342		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV07	clust_0843
+GV08|SEQ00332	VBIGarVag251521_0332	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475057	154446	154754	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV08	clust_0843
+GV09|SEQ00477	VBIGarVag169280_0477	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260134	200817	201125	-	309	xseB	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV09	clust_0843
+GV10|SEQ00391	VBIGarVag136958_0391	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146826	470946	471266	+	321	xseB	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV10	clust_0843
+GV11|SEQ00374	VBIGarVag171052_0374	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549056	64247	64558	-	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV11	clust_0843
+GV12|SEQ00935	VBIGarVag144721_0935	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854597	502529	502849	+	321		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV12	clust_0843
+GV13|SEQ00842	VBIGarVag244533_0842	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487682	332979	333290	-	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV13	clust_0843
+GV14|SEQ00392	VBIGarVag244375_0392	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502632	25756	26076	+	321		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV14	clust_0843
+GV15|SEQ00199	VBIGarVag249709_0199	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483896	26191	26523	+	333		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV15	clust_0843
+GV16|SEQ01129	VBIGarVag246379_1129	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479450	1316154	1316465	-	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV16	clust_0843
+GV17|SEQ00195	VBIGarVag146634_0195	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850395	141982	142314	-	333		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV17	clust_0843
+GV18|SEQ00999	VBIGarVag4823_0999	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000138	PATRIC	CDS	42070808	8992	9300	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV18	clust_0843
+GV19|SEQ00481	VBIGarVag39333_0482	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627833	595022	595330	+	309	xseB	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV19	clust_0843
+GV20|SEQ01038	VBIGarVag188338_1038	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190934	1290554	1290862	-	309	xseB	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV20	clust_0843
+GV21|SEQ00912	VBIGarVag274454_0913	Gardnerella vaginalis JCP7275	ATJS01000072	PATRIC	CDS	183968585	631	939	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV21	clust_0843
+GV22|SEQ01116	VBIGarVag276801_1117	Gardnerella vaginalis JCP7276	ATJR01000112	PATRIC	CDS	183971799	1547	1858	-	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV22	clust_0843
+GV23|SEQ00932	VBIGarVag276017_0932	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974296	648	956	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV23	clust_0843
+GV24|SEQ01102	VBIGarVag268944_1103	Gardnerella vaginalis JCP7672	ATJP01000111	PATRIC	CDS	183977474	647	955	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV24	clust_0843
+GV25|SEQ00237	VBIGarVag270495_0237	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978358	58412	58723	-	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV25	clust_0843
+GV26|SEQ00049	VBIGarVag272749_0049	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980830	56819	57127	-	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV26	clust_0843
+GV27|SEQ00132	VBIGarVag276930_0132	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183983981	8084	8392	+	309		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV27	clust_0843
+GV28|SEQ00567	VBIGarVag271349_0567	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987851	610	921	+	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV28	clust_0843
+GV29|SEQ00171	VBIGarVag265473_0171	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989708	603	914	+	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV29	clust_0843
+GV30|SEQ00788	VBIGarVag267667_0790	Gardnerella vaginalis JCP8108	ATJJ01000056	PATRIC	CDS	183993722	638	949	+	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV30	clust_0843
+GV31|SEQ00157	VBIGarVag264983_0157	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995348	611	922	+	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV31	clust_0843
+GV32|SEQ00404	VBIGarVag277040_0404	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998676	637	948	+	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV32	clust_0843
+GV35|SEQ00611	VBIGarVag272169_0611	Gardnerella vaginalis JCP8522	ATJE01000043	PATRIC	CDS	184007571	613	924	+	312		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	GV35	clust_0843

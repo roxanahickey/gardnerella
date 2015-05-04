@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV01|SEQ00023	85494138	VBIGarVag247323_0023	SEQ00023	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	NA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GO:0003723	RNA binding	go	clust_2168
+GV02|SEQ00763	85498363	VBIGarVag242669_0763	SEQ00763	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000015	PATRIC	CDS	NA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GO:0003723	RNA binding	go	clust_2168
+GV31|SEQ01188	183997631	VBIGarVag264983_1188	SEQ01188	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000155	PATRIC	CDS	NA	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GO:0003723	RNA binding	go	clust_2168

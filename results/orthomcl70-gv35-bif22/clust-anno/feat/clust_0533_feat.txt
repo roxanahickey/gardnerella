@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01822	VBIBifAdo136061_1822	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190015	330022	330963	-	942		Cobalt-zinc-cadmium resistance protein CzcD	ADO1	clust_0533
+ANI1|SEQ01204	VBIBifAni240121_1204	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847399	1397835	1398779	-	945		probable cation efflux protein	ANI1	clust_0533
+ANI2|SEQ01204	VBIBifAni235968_1204	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850752	1397839	1398783	-	945		probable cation efflux protein	ANI2	clust_0533
+ANI3|SEQ01212	VBIBifAni108068_1212	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764770	1403287	1404231	-	945		probable cation efflux protein	ANI3	clust_0533
+BIF1|SEQ00517	VBIBifBif87902_0517	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883569	645251	646189	+	939	czcD	Cobalt-zinc-cadmium resistance protein CzcD	BIF1	clust_0533
+BRE1|SEQ01241	VBIBifBre340958_1241	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604492	1455405	1456349	+	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE1	clust_0533
+BRE2|SEQ01331	VBIBifBre337368_1331	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608646	1531694	1532638	+	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE2	clust_0533
+BRE3|SEQ00581	VBIBifBre167886_0581	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192844	712309	713253	-	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE3	clust_0533
+BRE4|SEQ01272	VBIBifBre327712_1272	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612669	1478753	1479697	+	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE4	clust_0533
+BRE5|SEQ01395	VBIBifBre336369_1396	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616972	1557476	1558420	+	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE5	clust_0533
+BRE6|SEQ01957	VBIBifBre268992_1957	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657228	151313	152257	+	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE6	clust_0533
+BRE7|SEQ01283	VBIBifBre340732_1283	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621051	1480780	1481724	+	945		Cobalt-zinc-cadmium resistance protein CzcD	BRE7	clust_0533
+BRE8|SEQ01310	VBIBifBre176493_1310	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625215	1527215	1528159	+	945	czcD	Cobalt-zinc-cadmium resistance protein CzcD	BRE8	clust_0533
+BRE9|SEQ01366	VBIBifBre30019_1366	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446857	1583678	1584622	+	945	czcD	Cobalt-zinc-cadmium resistance protein CzcD	BRE9	clust_0533
+DEN1|SEQ01211	VBIBifDen165269_1212	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459551	434026	434967	+	942	czc	Cobalt-zinc-cadmium resistance protein CzcD	DEN1	clust_0533
+DEN2|SEQ01716	VBIBifDen39005_1717	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS	42111829	21890	22831	+	942		Cobalt-zinc-cadmium resistance protein CzcD	DEN2	clust_0533
+GV01|SEQ01129	VBIGarVag247323_1129	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496460	137881	138840	+	960		Cobalt-zinc-cadmium resistance protein CzcD	GV01	clust_0533
+GV02|SEQ00308	VBIGarVag242669_0308	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497391	110531	111490	-	960		Cobalt-zinc-cadmium resistance protein CzcD	GV02	clust_0533
+GV03|SEQ00788	VBIGarVag247424_0788	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501009	90027	91118	+	1092		Cobalt-zinc-cadmium resistance protein CzcD	GV03	clust_0533
+GV04|SEQ01290	VBIGarVag246433_1290	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482520	37103	38104	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV04	clust_0533
+GV05|SEQ00840	VBIGarVag174900_0840	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547448	511372	512445	+	1074		Cobalt-zinc-cadmium resistance protein CzcD	GV05	clust_0533
+GV06|SEQ00868	VBIGarVag244004_0868	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490541	237270	238271	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV06	clust_0533
+GV07|SEQ00598	VBIGarVag249177_0598	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492847	93835	94983	+	1149		Cobalt-zinc-cadmium resistance protein CzcD	GV07	clust_0533
+GV08|SEQ00427	VBIGarVag251521_0427	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475260	282893	283894	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV08	clust_0533
+GV09|SEQ00326	VBIGarVag169280_0326	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259819	33746	34747	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV09	clust_0533
+GV10|SEQ00588	VBIGarVag136958_0588	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147236	752541	753572	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV10	clust_0533
+GV11|SEQ01277	VBIGarVag171052_1277	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52550982	40433	41434	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV11	clust_0533
+GV12|SEQ01228	VBIGarVag144721_1228	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855288	103827	104858	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV12	clust_0533
+GV13|SEQ00728	VBIGarVag244533_0728	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487441	178352	179353	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV13	clust_0533
+GV14|SEQ00305	VBIGarVag244375_0305	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502454	134097	135128	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV14	clust_0533
+GV15|SEQ00650	VBIGarVag249709_0650	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484847	100821	101852	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV15	clust_0533
+GV16|SEQ01033	VBIGarVag246379_1033	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479245	1189478	1190479	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV16	clust_0533
+GV17|SEQ00961	VBIGarVag146634_0961	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852008	92273	93304	-	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV17	clust_0533
+GV18|SEQ01180	VBIGarVag4823_1180	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071195	33428	34429	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV18	clust_0533
+GV19|SEQ00578	VBIGarVag39333_0579	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628039	722608	723609	+	1002	czc	Cobalt-zinc-cadmium resistance protein CzcD	GV19	clust_0533
+GV20|SEQ00944	VBIGarVag188338_0944	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190733	1162156	1163157	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV20	clust_0533
+GV21|SEQ00837	VBIGarVag274454_0838	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968409	36588	37589	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV21	clust_0533
+GV22|SEQ00927	VBIGarVag276801_0928	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971347	12314	13315	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV22	clust_0533
+GV23|SEQ00550	VBIGarVag276017_0550	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973458	8968	9969	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV23	clust_0533
+GV24|SEQ00750	VBIGarVag268944_0751	Gardnerella vaginalis JCP7672	ATJP01000063	PATRIC	CDS	183976692	17576	18577	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV24	clust_0533
+GV25|SEQ00524	VBIGarVag270495_0524	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978984	8604	9563	-	960		Cobalt-zinc-cadmium resistance protein CzcD	GV25	clust_0533
+GV26|SEQ01216	VBIGarVag272749_1216	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983376	32849	33808	+	960		Cobalt-zinc-cadmium resistance protein CzcD	GV26	clust_0533
+GV27|SEQ00217	VBIGarVag276930_0217	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984161	8471	9430	-	960		Cobalt-zinc-cadmium resistance protein CzcD	GV27	clust_0533
+GV28|SEQ00078	VBIGarVag271349_0078	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986808	31338	32339	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV28	clust_0533
+GV29|SEQ00514	VBIGarVag265473_0514	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990440	31103	32104	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV29	clust_0533
+GV30|SEQ01018	VBIGarVag267667_1020	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994240	7309	8310	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV30	clust_0533
+GV31|SEQ00062	VBIGarVag264983_0062	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995145	31389	32348	+	960		Cobalt-zinc-cadmium resistance protein CzcD	GV31	clust_0533
+GV32|SEQ00688	VBIGarVag277040_0688	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999294	9203	10204	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV32	clust_0533
+GV33|SEQ00321	VBIGarVag265557_0321	Gardnerella vaginalis JCP8481A	ATJG01000025	PATRIC	CDS	184001345	32021	33052	-	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV33	clust_0533
+GV34|SEQ00756	VBIGarVag270440_0756	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005142	11613	12644	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV34	clust_0533
+GV35|SEQ01009	VBIGarVag272169_1009	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008503	7267	8268	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV35	clust_0533
+INF1|SEQ01370	VBIBifLon182273_1370	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886744	1554365	1555303	+	939		Cobalt-zinc-cadmium resistance protein CzcD	INF1	clust_0533
+LON1|SEQ00159	VBIBifLon107831_0159	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117353	185571	186509	-	939		Cobalt-zinc-cadmium resistance protein CzcD	LON1	clust_0533
+LON2|SEQ00204	VBIBifLon171405_0205	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579911	229478	230416	-	939	czcD1	Cobalt-zinc-cadmium resistance protein CzcD	LON2	clust_0533
+LON3|SEQ01893	VBIBifLon156230_1896	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766978	802482	803420	-	939		Cobalt-zinc-cadmium resistance protein CzcD	LON3	clust_0533
+LON4|SEQ01336	VBIBifLon48544_1336	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891017	1512615	1513553	+	939		Cobalt-zinc-cadmium resistance protein CzcD	LON4	clust_0533
+THE1|SEQ00601	VBIBifThe274299_0601	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734380	759407	760399	+	993		Cobalt-zinc-cadmium resistance protein CzcD	THE1	clust_0533

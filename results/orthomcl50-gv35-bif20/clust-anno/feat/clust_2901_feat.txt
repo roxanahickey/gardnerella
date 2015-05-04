@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00092	VBIBifLon182273_0092	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884090	113733	114755	+	1023		LacI-type transcriptional regulator	INF1	clust_2901
+LON1|SEQ01283	VBIBifLon107831_1284	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119671	1511707	1512729	-	1023		LacI-type transcriptional regulator	LON1	clust_2901
+LON3|SEQ01390	VBIBifLon156230_1393	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769389	2152556	2153590	-	1035		LacI-type transcriptional regulator	LON3	clust_2901
+LON4|SEQ00105	VBIBifLon48544_0105	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888417	133864	134898	+	1035		LacI-type transcriptional regulator	LON4	clust_2901

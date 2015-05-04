@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00874	VBIBifDen165269_0875	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463056	2413180	2414184	+	1005	araH	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	DEN1	clust_4822
+DEN2|SEQ00304	VBIBifDen39005_0304	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108931	17547	18551	-	1005		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	DEN2	clust_4822

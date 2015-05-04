@@ -1,0 +1,8 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00143	86882790	VBIBifBif87902_0143	SEQ00143	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2425
+INF1|SEQ01957	46887974	VBIBifLon182273_1957	SEQ01957	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2425
+LON1|SEQ01452	21120032	VBIBifLon107831_1453	SEQ01452	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2425
+LON2|SEQ01497	42582587	VBIBifLon171405_1500	SEQ01497	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2425
+LON3|SEQ01857	42766906	VBIBifLon156230_1860	SEQ01857	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2425
+LON4|SEQ01911	46892227	VBIBifLon48544_1911	SEQ01911	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Transcriptional regulator, TetR family	FIG00554417	figfam	clust_2425
+THE1|SEQ00126	124733415	VBIBifThe274299_0126	SEQ00126	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2425

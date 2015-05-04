@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE4|SEQ00920	268611941	VBIBifBre327712_0920	SEQ00920	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1380
+BRE5|SEQ01166	268616504	VBIBifBre336369_1167	SEQ01166	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1380
+BRE7|SEQ01079	268620635	VBIBifBre340732_1079	SEQ01079	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1380
+BRE9|SEQ01165	58446447	VBIBifBre30019_1165	SEQ01165	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1380
+GV04|SEQ00081	85480010	VBIGarVag246433_0081	SEQ00081	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	NA	FIG00752635: hypothetical protein	FIG00752634	figfam	clust_1380
+GV09|SEQ01176	55261581	VBIGarVag169280_1176	SEQ01176	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	NA	FIG00752635: hypothetical protein	FIG00752634	figfam	clust_1380
+GV19|SEQ01316	42629569	VBIGarVag39333_1319	SEQ01316	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	FIG00752635: hypothetical protein	FIG00752634	figfam	clust_1380
+GV20|SEQ00180	54189146	VBIGarVag188338_0180	SEQ00180	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	FIG00752635: hypothetical protein	FIG00752634	figfam	clust_1380
+GV22|SEQ00615	183970668	VBIGarVag276801_0616	SEQ00615	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000020	PATRIC	CDS	NA	FIG00752635: hypothetical protein	FIG00752634	figfam	clust_1380
+LON2|SEQ00512	42580546	VBIBifLon171405_0513	SEQ00512	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1380

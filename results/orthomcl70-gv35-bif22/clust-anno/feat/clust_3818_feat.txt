@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00108	VBIBifBif87902_0108	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882715	132765	133022	-	258	xerC	phage integrase family protein	BIF1	clust_3818
+DEN1|SEQ01711	VBIBifDen165269_1712	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460577	1019671	1019976	+	306		Integrase	DEN1	clust_3818
+DEN2|SEQ00491	VBIBifDen39005_0491	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109310	122305	122610	-	306		Integrase	DEN2	clust_3818

@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01425	27189206	VBIBifAdo136061_1425	SEQ01425	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+BIF1|SEQ01629	86885877	VBIBifBif87902_1629	SEQ01629	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+BRE2|SEQ00301	268606514	VBIBifBre337368_0301	SEQ00301	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+BRE6|SEQ00571	177654286	VBIBifBre268992_0571	SEQ00571	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000030	PATRIC	CDS		Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+GV26|SEQ00055	183980845	VBIGarVag272749_0055	SEQ00055	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	NA	Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+GV27|SEQ00088	183983887	VBIGarVag276930_0088	SEQ00088	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	NA	Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+GV31|SEQ00958	183997067	VBIGarVag264983_0958	SEQ00958	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	NA	Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+GV32|SEQ00783	183999497	VBIGarVag277040_0783	SEQ00783	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	NA	Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+LON1|SEQ01118	21119329	VBIBifLon107831_1119	SEQ01118	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995
+LON3|SEQ01000	42768991	VBIBifLon156230_1001	SEQ01000	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Phage tail length tape-measure protein	FIG00011468	figfam	clust_1995

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01173	VBIBifAdo136061_1173	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188681	87468	88628	-	1161		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	ADO1	clust_1298
+ANI1|SEQ00776	VBIBifAni240121_0776	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846511	909435	910616	+	1182		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	ANI1	clust_1298
+ANI2|SEQ00775	VBIBifAni235968_0775	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849862	909438	910619	+	1182		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	ANI2	clust_1298
+ANI3|SEQ00777	VBIBifAni108068_0777	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763874	909440	910621	+	1182		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	ANI3	clust_1298
+BIF1|SEQ00977	VBIBifBif87902_0977	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884516	1190582	1191772	-	1191		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BIF1	clust_1298
+BRE1|SEQ01019	VBIBifBre340958_1019	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604038	1197860	1199029	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE1	clust_1298
+BRE2|SEQ01138	VBIBifBre337368_1138	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608252	1308062	1309231	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE2	clust_1298
+BRE3|SEQ00760	VBIBifBre167886_0760	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193213	922508	923677	+	1170	rlmN	Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE3	clust_1298
+BRE4|SEQ01093	VBIBifBre327712_1093	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612303	1266304	1267473	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE4	clust_1298
+BRE5|SEQ01187	VBIBifBre336369_1188	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616547	1317467	1318636	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE5	clust_1298
+BRE6|SEQ01048	VBIBifBre268992_1048	Bifidobacterium breve JCP7499	AWSX01000055	PATRIC	CDS	177655303	13082	14251	+	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE6	clust_1298
+BRE7|SEQ01097	VBIBifBre340732_1097	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620672	1261188	1262357	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE7	clust_1298
+BRE8|SEQ01086	VBIBifBre176493_1086	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624756	1275079	1276248	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE8	clust_1298
+BRE9|SEQ01183	VBIBifBre30019_1183	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446484	1362351	1363520	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	BRE9	clust_1298
+INF1|SEQ01149	VBIBifLon182273_1149	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886294	1289441	1290610	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	INF1	clust_1298
+LON1|SEQ00380	VBIBifLon107831_0380	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117803	454048	455217	+	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	LON1	clust_1298
+LON2|SEQ00389	VBIBifLon171405_0390	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580286	453960	455129	+	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	LON2	clust_1298
+LON3|SEQ00246	VBIBifLon156230_0246	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767427	1069423	1070592	+	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	LON3	clust_1298
+LON4|SEQ01172	VBIBifLon48544_1172	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890678	1317105	1318274	-	1170		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	LON4	clust_1298
+THE1|SEQ01009	VBIBifThe274299_1009	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735215	1266233	1267429	+	1197		Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)	THE1	clust_1298

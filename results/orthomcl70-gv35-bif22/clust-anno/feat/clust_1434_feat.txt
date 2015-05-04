@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00114	VBIBifAdo136061_0114	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186444	21506	21796	+	291		hypothetical protein	ADO1	clust_1434
+BIF1|SEQ01664	VBIBifBif87902_1664	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885948	2000958	2001239	-	282		narrowly conserved hypothetical protein	BIF1	clust_1434
+BRE1|SEQ00226	VBIBifBre340958_0226	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602390	293447	293728	+	282		Uncharacterized protein conserved in bacteria	BRE1	clust_1434
+BRE2|SEQ00259	VBIBifBre337368_0259	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606430	331559	331840	+	282		Uncharacterized protein conserved in bacteria	BRE2	clust_1434
+BRE3|SEQ00277	VBIBifBre167886_0277	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192215	354183	354464	+	282	csoR	Uncharacterized protein conserved in bacteria	BRE3	clust_1434
+BRE4|SEQ00243	VBIBifBre327712_0243	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610539	315852	316133	+	282		Uncharacterized protein conserved in bacteria	BRE4	clust_1434
+BRE5|SEQ00262	VBIBifBre336369_0263	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614627	317026	317307	+	282		Uncharacterized protein conserved in bacteria	BRE5	clust_1434
+BRE6|SEQ00322	VBIBifBre268992_0322	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS	177653761	17784	18065	-	282		Uncharacterized protein conserved in bacteria	BRE6	clust_1434
+BRE7|SEQ00255	VBIBifBre340732_0255	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618922	327134	327415	+	282		Uncharacterized protein conserved in bacteria	BRE7	clust_1434
+BRE8|SEQ00281	VBIBifBre176493_0281	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623087	358620	358901	+	282		Uncharacterized protein conserved in bacteria	BRE8	clust_1434
+BRE9|SEQ00291	VBIBifBre30019_0291	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444627	372420	372701	+	282		Uncharacterized protein conserved in bacteria	BRE9	clust_1434
+DEN1|SEQ01035	VBIBifDen165269_1036	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459193	199692	199985	-	294		hypothetical protein	DEN1	clust_1434
+DEN2|SEQ01428	VBIBifDen39005_1429	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111245	25743	26036	+	294	csoR	hypothetical protein	DEN2	clust_1434
+INF1|SEQ00213	VBIBifLon182273_0213	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884345	275739	276020	+	282		Uncharacterized protein conserved in bacteria	INF1	clust_1434
+LON1|SEQ01152	VBIBifLon107831_1153	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119397	1343795	1344076	-	282		Uncharacterized protein conserved in bacteria	LON1	clust_1434
+LON2|SEQ01184	VBIBifLon171405_1186	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581931	1355250	1355531	-	282	nreA	Uncharacterized protein conserved in bacteria	LON2	clust_1434
+LON3|SEQ01265	VBIBifLon156230_1267	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769127	1988111	1988392	-	282		Uncharacterized protein conserved in bacteria	LON3	clust_1434
+LON4|SEQ00232	VBIBifLon48544_0232	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888686	294875	295156	+	282		Uncharacterized protein conserved in bacteria	LON4	clust_1434
+THE1|SEQ01584	VBIBifThe274299_1584	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736425	1962191	1962469	-	279		narrowly conserved hypothetical protein	THE1	clust_1434

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00497	VBIGarVag247323_0497	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495139	235776	236648	-	873		glutamate-binding protein of ABC transporter system	GV01	clust_0083
+GV02|SEQ00874	VBIGarVag242669_0874	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498590	108886	109758	+	873		glutamate-binding protein of ABC transporter system	GV02	clust_0083
+GV03|SEQ00863	VBIGarVag247424_0863	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501169	193204	194070	+	867		glutamate-binding protein of ABC transporter system	GV03	clust_0083
+GV04|SEQ01001	VBIGarVag246433_1001	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481914	383119	383991	+	873		glutamate-binding protein of ABC transporter system	GV04	clust_0083
+GV05|SEQ00908	VBIGarVag174900_0908	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547594	606249	607115	+	867		glutamate-binding protein of ABC transporter system	GV05	clust_0083
+GV06|SEQ01248	VBIGarVag244004_1248	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491323	101707	102579	-	873		glutamate-binding protein of ABC transporter system	GV06	clust_0083
+GV07|SEQ00219	VBIGarVag249177_0219	Gardnerella vaginalis 1500E	ADES01000004	PATRIC	CDS	85492034	27007	27855	-	849		glutamate-binding protein of ABC transporter system	GV07	clust_0083
+GV08|SEQ00019	VBIGarVag251521_0019	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474403	29307	30179	+	873		glutamate-binding protein of ABC transporter system	GV08	clust_0083
+GV09|SEQ00858	VBIGarVag169280_0858	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260923	253109	253981	+	873	glnH	glutamate-binding protein of ABC transporter system	GV09	clust_0083
+GV10|SEQ00686	VBIGarVag136958_0686	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147442	891869	892702	+	834		glutamate-binding protein of ABC transporter system	GV10	clust_0083
+GV11|SEQ00785	VBIGarVag171052_0785	Gardnerella vaginalis 41V	AEJE01000050	PATRIC	CDS	52549928	17004	17876	+	873		glutamate-binding protein of ABC transporter system	GV11	clust_0083
+GV12|SEQ00122	VBIGarVag144721_0122	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852905	59090	59857	+	768		glutamate-binding protein of ABC transporter system	GV12	clust_0083
+GV13|SEQ00262	VBIGarVag244533_0262	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486468	68912	69784	-	873		glutamate-binding protein of ABC transporter system	GV13	clust_0083
+GV14|SEQ00959	VBIGarVag244375_0959	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503825	14005	14838	+	834		glutamate-binding protein of ABC transporter system	GV14	clust_0083
+GV15|SEQ00729	VBIGarVag249709_0729	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485015	205761	206594	+	834		glutamate-binding protein of ABC transporter system	GV15	clust_0083
+GV16|SEQ00793	VBIGarVag246379_0793	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478747	898776	899648	+	873		glutamate-binding protein of ABC transporter system	GV16	clust_0083
+GV17|SEQ00874	VBIGarVag146634_0874	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851823	84456	85223	-	768		glutamate-binding protein of ABC transporter system	GV17	clust_0083
+GV18|SEQ00403	VBIGarVag4823_0403	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000094	PATRIC	CDS	42069535	12097	12969	-	873		glutamate-binding protein of ABC transporter system	GV18	clust_0083
+GV19|SEQ00818	VBIGarVag39333_0819	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628535	1010831	1011703	-	873	gluB	glutamate-binding protein of ABC transporter system	GV19	clust_0083
+GV20|SEQ00730	VBIGarVag188338_0730	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190289	889637	890509	+	873	glnH	glutamate-binding protein of ABC transporter system	GV20	clust_0083
+GV21|SEQ00187	VBIGarVag274454_0187	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967017	43514	44386	-	873		glutamate-binding protein of ABC transporter system	GV21	clust_0083
+GV22|SEQ00478	VBIGarVag276801_0479	Gardnerella vaginalis JCP7276	ATJR01000014	PATRIC	CDS	183970388	1137	2009	+	873		glutamate-binding protein of ABC transporter system	GV22	clust_0083
+GV23|SEQ00697	VBIGarVag276017_0697	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973761	146760	147632	-	873		glutamate-binding protein of ABC transporter system	GV23	clust_0083
+GV24|SEQ00383	VBIGarVag268944_0384	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975890	43636	44508	-	873		glutamate-binding protein of ABC transporter system	GV24	clust_0083
+GV25|SEQ01029	VBIGarVag270495_1029	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980103	41933	42805	+	873		glutamate-binding protein of ABC transporter system	GV25	clust_0083
+GV26|SEQ00577	VBIGarVag272749_0577	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981948	129491	130363	-	873		glutamate-binding protein of ABC transporter system	GV26	clust_0083
+GV27|SEQ00361	VBIGarVag276930_0361	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984463	43203	44075	+	873		glutamate-binding protein of ABC transporter system	GV27	clust_0083
+GV28|SEQ00750	VBIGarVag271349_0750	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988255	39267	40139	+	873		glutamate-binding protein of ABC transporter system	GV28	clust_0083
+GV29|SEQ00068	VBIGarVag265473_0068	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989495	42462	43334	+	873		glutamate-binding protein of ABC transporter system	GV29	clust_0083
+GV30|SEQ00059	VBIGarVag267667_0059	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992155	43689	44561	-	873		glutamate-binding protein of ABC transporter system	GV30	clust_0083
+GV31|SEQ00242	VBIGarVag264983_0242	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995525	43145	44017	+	873		glutamate-binding protein of ABC transporter system	GV31	clust_0083
+GV32|SEQ01122	VBIGarVag277040_1122	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000291	35472	36263	-	792		glutamate-binding protein of ABC transporter system	GV32	clust_0083
+GV33|SEQ00847	VBIGarVag265557_0847	Gardnerella vaginalis JCP8481A	ATJG01000087	PATRIC	CDS	184002489	43813	44679	-	867		glutamate-binding protein of ABC transporter system	GV33	clust_0083
+GV34|SEQ00137	VBIGarVag270440_0137	Gardnerella vaginalis JCP8481B	ATJF01000010	PATRIC	CDS	184003785	25250	26116	+	867		glutamate-binding protein of ABC transporter system	GV34	clust_0083
+GV35|SEQ00079	VBIGarVag272169_0079	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006435	79572	80444	-	873		glutamate-binding protein of ABC transporter system	GV35	clust_0083

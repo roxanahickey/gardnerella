@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01878	VBIBifAdo136061_1878	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190127	392136	393467	+	1332		Sucrose permease, major facilitator superfamily	ADO1	clust_1367
+ANI1|SEQ01232	VBIBifAni240121_1232	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847455	1432289	1433614	+	1326		Sucrose permease, major facilitator superfamily	ANI1	clust_1367
+ANI2|SEQ01232	VBIBifAni235968_1232	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850808	1432293	1433618	+	1326		Sucrose permease, major facilitator superfamily	ANI2	clust_1367
+ANI3|SEQ01240	VBIBifAni108068_1240	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764826	1437741	1439066	+	1326	lacY	Sucrose permease, major facilitator superfamily	ANI3	clust_1367
+BRE1|SEQ01287	VBIBifBre340958_1288	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604591	1518801	1520126	+	1326		Sucrose permease, major facilitator superfamily	BRE1	clust_1367
+BRE2|SEQ01377	VBIBifBre337368_1377	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608744	1595080	1596405	+	1326		Sucrose permease, major facilitator superfamily	BRE2	clust_1367
+BRE3|SEQ00534	VBIBifBre167886_0534	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192743	648484	649809	-	1326	lacY	Sucrose permease, major facilitator superfamily	BRE3	clust_1367
+BRE4|SEQ01324	VBIBifBre327712_1324	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612780	1545129	1546454	+	1326		Sucrose permease, major facilitator superfamily	BRE4	clust_1367
+BRE5|SEQ01452	VBIBifBre336369_1453	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617093	1630896	1631366	+	471		Sucrose permease, major facilitator superfamily	BRE5	clust_1367
+BRE6|SEQ00216	VBIBifBre268992_0216	Bifidobacterium breve JCP7499	AWSX01000013	PATRIC	CDS	177653542	31630	32955	+	1326		Sucrose permease, major facilitator superfamily	BRE6	clust_1367
+BRE7|SEQ01334	VBIBifBre340732_1334	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621160	1546486	1547811	+	1326		Sucrose permease, major facilitator superfamily	BRE7	clust_1367
+BRE8|SEQ01356	VBIBifBre176493_1356	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625313	1590507	1591832	+	1326	fosB	Sucrose permease, major facilitator superfamily	BRE8	clust_1367
+BRE9|SEQ01419	VBIBifBre30019_1419	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446970	1650572	1651042	+	471	fosB	Sucrose permease, major facilitator superfamily	BRE9	clust_1367
+DEN1|SEQ01167	VBIBifDen165269_1168	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459463	376184	377509	-	1326	cscB	Sucrose permease, major facilitator superfamily	DEN1	clust_1367
+DEN2|SEQ01379	VBIBifDen39005_1380	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS	42111146	32530	33855	-	1326	lacY	Sucrose permease, major facilitator superfamily	DEN2	clust_1367
+INF1|SEQ01420	VBIBifLon182273_1420	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886850	1614580	1615917	+	1338		Sucrose permease, major facilitator superfamily	INF1	clust_1367
+LON1|SEQ00113	VBIBifLon107831_0113	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117255	128351	129688	-	1338	lacY	Lactose permease	LON1	clust_1367
+LON2|SEQ00159	VBIBifLon171405_0160	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579815	173107	174450	-	1344	cynX	Sucrose permease, major facilitator superfamily	LON2	clust_1367
+LON3|SEQ00037	VBIBifLon156230_0037	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765697	52866	54203	+	1338		Sucrose permease, major facilitator superfamily	LON3	clust_1367
+LON4|SEQ01391	VBIBifLon48544_1391	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891134	1587458	1588795	+	1338		Sucrose permease, major facilitator superfamily	LON4	clust_1367
+THE1|SEQ00555	VBIBifThe274299_0555	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734288	701913	703253	-	1341	lacY	Sucrose permease, major facilitator superfamily	THE1	clust_1367

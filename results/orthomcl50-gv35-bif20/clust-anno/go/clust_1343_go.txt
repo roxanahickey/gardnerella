@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ00620	27187524	VBIBifAdo136061_0620	SEQ00620	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	GO:0004617	phosphoglycerate dehydrogenase activity	go	clust_1343
+BIF1|SEQ01312	86885211	VBIBifBif87902_1312	SEQ01312	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	GO:0004617	phosphoglycerate dehydrogenase activity	go	clust_1343
+THE1|SEQ01232	124735686	VBIBifThe274299_1232	SEQ01232	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	GO:0004617	phosphoglycerate dehydrogenase activity	go	clust_1343

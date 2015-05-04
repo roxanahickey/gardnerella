@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00930	VBIGarVag247323_0930	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496041	156879	157199	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV01	clust_0379
+GV02|SEQ01136	VBIGarVag242669_1136	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499137	104667	104987	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV02	clust_0379
+GV03|SEQ00341	VBIGarVag247424_0341	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500080	305151	305483	+	333		4Fe-4S ferredoxin, iron-sulfur binding	GV03	clust_0379
+GV04|SEQ00044	VBIGarVag246433_0044	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479926	39460	39780	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV04	clust_0379
+GV05|SEQ00441	VBIGarVag174900_0441	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546620	16644	16976	+	333		4Fe-4S ferredoxin, iron-sulfur binding	GV05	clust_0379
+GV06|SEQ00592	VBIGarVag244004_0592	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489955	34490	34810	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV06	clust_0379
+GV07|SEQ00488	VBIGarVag249177_0488	Gardnerella vaginalis 1500E	ADES01000008	PATRIC	CDS	85492613	13999	14331	+	333		4Fe-4S ferredoxin, iron-sulfur binding	GV07	clust_0379
+GV08|SEQ01182	VBIGarVag251521_1182	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476823	296439	296759	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV08	clust_0379
+GV09|SEQ01213	VBIGarVag169280_1213	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261665	82896	83216	+	321	fdxA	4Fe-4S ferredoxin, iron-sulfur binding	GV09	clust_0379
+GV10|SEQ00219	VBIGarVag136958_0219	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146466	268827	269159	+	333		4Fe-4S ferredoxin, iron-sulfur binding	GV10	clust_0379
+GV11|SEQ01142	VBIGarVag171052_1142	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550683	9106	9426	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV11	clust_0379
+GV12|SEQ00759	VBIGarVag144721_0759	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854229	306047	306379	+	333		4Fe-4S ferredoxin, iron-sulfur binding	GV12	clust_0379
+GV13|SEQ01081	VBIGarVag244533_1081	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488189	80420	80740	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV13	clust_0379
+GV14|SEQ00112	VBIGarVag244375_0112	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502045	99685	100017	-	333		4Fe-4S ferredoxin, iron-sulfur binding	GV14	clust_0379
+GV15|SEQ00446	VBIGarVag249709_0446	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484416	179363	179695	-	333		4Fe-4S ferredoxin, iron-sulfur binding	GV15	clust_0379
+GV16|SEQ00333	VBIGarVag246379_0333	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477796	300679	300999	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV16	clust_0379
+GV17|SEQ00369	VBIGarVag146634_0369	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850759	351784	352116	-	333		4Fe-4S ferredoxin, iron-sulfur binding	GV17	clust_0379
+GV18|SEQ00107	VBIGarVag4823_0107	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000049	PATRIC	CDS	42068887	2197	2517	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV18	clust_0379
+GV19|SEQ01276	VBIGarVag39333_1279	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629479	1589805	1590125	-	321	fdxC	4Fe-4S ferredoxin, iron-sulfur binding	GV19	clust_0379
+GV20|SEQ00221	VBIGarVag188338_0221	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189238	261526	261846	+	321	fdxA	4Fe-4S ferredoxin, iron-sulfur binding	GV20	clust_0379
+GV21|SEQ00803	VBIGarVag274454_0804	Gardnerella vaginalis JCP7275	ATJS01000057	PATRIC	CDS	183968334	4175	4495	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV21	clust_0379
+GV22|SEQ00207	VBIGarVag276801_0207	Gardnerella vaginalis JCP7276	ATJR01000005	PATRIC	CDS	183969811	15206	15526	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV22	clust_0379
+GV23|SEQ01171	VBIGarVag276017_1171	Gardnerella vaginalis JCP7659	ATJQ01000163	PATRIC	CDS	183974866	15617	15937	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV23	clust_0379
+GV24|SEQ00577	VBIGarVag268944_0578	Gardnerella vaginalis JCP7672	ATJP01000034	PATRIC	CDS	183976315	6440	6760	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV24	clust_0379
+GV25|SEQ00897	VBIGarVag270495_0897	Gardnerella vaginalis JCP7719	ATJO01000081	PATRIC	CDS	183979790	10537	10857	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV25	clust_0379
+GV26|SEQ01261	VBIGarVag272749_1261	Gardnerella vaginalis JCP8017A	ATJN01000153	PATRIC	CDS	183983487	5571	5891	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV26	clust_0379
+GV27|SEQ01243	VBIGarVag276930_1243	Gardnerella vaginalis JCP8017B	ATJM01000140	PATRIC	CDS	183986395	5203	5523	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV27	clust_0379
+GV28|SEQ00407	VBIGarVag271349_0407	Gardnerella vaginalis JCP8066	ATJL01000023	PATRIC	CDS	183987503	4195	4515	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV28	clust_0379
+GV29|SEQ00649	VBIGarVag265473_0649	Gardnerella vaginalis JCP8070	ATJK01000040	PATRIC	CDS	183990740	17775	18095	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV29	clust_0379
+GV30|SEQ00454	VBIGarVag267667_0455	Gardnerella vaginalis JCP8108	ATJJ01000022	PATRIC	CDS	183992991	17579	17899	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV30	clust_0379
+GV31|SEQ00764	VBIGarVag264983_0764	Gardnerella vaginalis JCP8151A	ATJI01000041	PATRIC	CDS	183996637	15362	15682	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV31	clust_0379
+GV32|SEQ00492	VBIGarVag277040_0492	Gardnerella vaginalis JCP8151B	ATJH01000027	PATRIC	CDS	183998867	15372	15692	-	321		4Fe-4S ferredoxin, iron-sulfur binding	GV32	clust_0379
+GV33|SEQ00084	VBIGarVag265557_0084	Gardnerella vaginalis JCP8481A	ATJG01000007	PATRIC	CDS	184000837	15401	15724	+	324		4Fe-4S ferredoxin, iron-sulfur binding	GV33	clust_0379
+GV34|SEQ00247	VBIGarVag270440_0247	Gardnerella vaginalis JCP8481B	ATJF01000016	PATRIC	CDS	184004027	15401	15724	+	324		4Fe-4S ferredoxin, iron-sulfur binding	GV34	clust_0379
+GV35|SEQ00821	VBIGarVag272169_0821	Gardnerella vaginalis JCP8522	ATJE01000079	PATRIC	CDS	184008051	8330	8650	+	321		4Fe-4S ferredoxin, iron-sulfur binding	GV35	clust_0379
+ADO1|SEQ00612	VBIBifAdo136061_0612	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187506	479309	479629	+	321		4Fe-4S ferredoxin, iron-sulfur binding	ADO1	clust_0379
+ANI1|SEQ00371	VBIBifAni240121_0371	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845664	449672	449995	+	324		4Fe-4S ferredoxin, iron-sulfur binding	ANI1	clust_0379
+ANI2|SEQ00371	VBIBifAni235968_0371	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849019	449674	449997	+	324		4Fe-4S ferredoxin, iron-sulfur binding	ANI2	clust_0379
+ANI3|SEQ00372	VBIBifAni108068_0372	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763032	449675	449998	+	324		4Fe-4S ferredoxin, iron-sulfur binding	ANI3	clust_0379
+BIF1|SEQ01541	VBIBifBif87902_1541	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885690	1851790	1852113	-	324	fdxA	4Fe-4S ferredoxin, iron-sulfur binding	BIF1	clust_0379
+BRE1|SEQ01634	VBIBifBre340958_1635	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605310	1906139	1906459	-	321		4Fe-4S ferredoxin, iron-sulfur binding	BRE1	clust_0379
+BRE2|SEQ01739	VBIBifBre337368_1739	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609496	2006694	2007014	-	321		4Fe-4S ferredoxin, iron-sulfur binding	BRE2	clust_0379
+BRE3|SEQ01692	VBIBifBre167886_1692	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195152	1963938	1964258	-	321	fdxA	4Fe-4S ferredoxin, iron-sulfur binding	BRE3	clust_0379
+BRE4|SEQ01673	VBIBifBre327712_1673	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613505	1938848	1939168	-	321		4Fe-4S ferredoxin, iron-sulfur binding	BRE4	clust_0379
+BRE5|SEQ01795	VBIBifBre336369_1796	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617802	2009577	2009897	-	321		4Fe-4S ferredoxin, iron-sulfur binding	BRE5	clust_0379
+BRE6|SEQ01396	VBIBifBre268992_1396	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656040	6639	6959	+	321		4Fe-4S ferredoxin, iron-sulfur binding	BRE6	clust_0379
+BRE7|SEQ01720	VBIBifBre340732_1720	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621956	1975382	1975702	-	321		4Fe-4S ferredoxin, iron-sulfur binding	BRE7	clust_0379
+BRE8|SEQ01677	VBIBifBre176493_1677	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625982	1948764	1949084	-	321	fdxC	4Fe-4S ferredoxin, iron-sulfur binding	BRE8	clust_0379
+BRE9|SEQ01785	VBIBifBre30019_1785	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447726	2052818	2053138	-	321	fdxC	4Fe-4S ferredoxin, iron-sulfur binding	BRE9	clust_0379
+INF1|SEQ01807	VBIBifLon182273_1807	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887654	2053641	2053961	-	321		4Fe-4S ferredoxin, iron-sulfur binding	INF1	clust_0379
+LON1|SEQ01617	VBIBifLon107831_1618	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120380	1975093	1975413	+	321	fdxC	4Fe-4S ferredoxin, iron-sulfur binding	LON1	clust_0379
+LON2|SEQ01647	VBIBifLon171405_1650	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582905	1992362	1992682	+	321		4Fe-4S ferredoxin, iron-sulfur binding	LON2	clust_0379
+LON3|SEQ01672	VBIBifLon156230_1675	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766520	513579	513899	-	321		4Fe-4S ferredoxin, iron-sulfur binding	LON3	clust_0379
+LON4|SEQ01756	VBIBifLon48544_1756	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891897	2014083	2014403	-	321		4Fe-4S ferredoxin, iron-sulfur binding	LON4	clust_0379
+THE1|SEQ01457	VBIBifThe274299_1457	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736156	1795491	1795817	-	327		4Fe-4S ferredoxin, iron-sulfur binding	THE1	clust_0379

@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00674	VBIBifBif87902_0674	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883885	830079	830921	+	843		Phage replication initiation protein	BIF1	clust_3108
+BIF1|SEQ00675	VBIBifBif87902_0675	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883887	830918	831139	+	222		FIG00426000: hypothetical protein	BIF1	clust_3108
+LON2|SEQ00451	VBIBifLon171405_0452	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580422	528063	528221	-	159		hypothetical protein	LON2	clust_3108
+LON4|SEQ00569	VBIBifLon48544_0569	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889385	693385	694635	+	1251		Ribose 5-phosphate isomerase B (EC 5.3.1.6)	LON4	clust_3108

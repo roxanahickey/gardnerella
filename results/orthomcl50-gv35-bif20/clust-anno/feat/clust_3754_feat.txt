@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE7|SEQ00947	VBIBifBre340732_0947	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620355	1118169	1118294	+	126		hypothetical protein	BRE7	clust_3754
+LON3|SEQ00374	VBIBifLon156230_0374	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767698	1200722	1202644	-	1923		hypothetical protein	LON3	clust_3754
+THE1|SEQ01703	VBIBifThe274299_1703	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736681	2113676	2114944	-	1269		hypothetical protein	THE1	clust_3754

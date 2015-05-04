@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00891	VBIGarVag247323_0891	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495957	115351	116208	+	858		possible oxidoreductase of the aldo/keto reductase family	GV01	clust_0368
+GV02|SEQ01170	VBIGarVag242669_1170	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499211	145346	146209	-	864		possible oxidoreductase of the aldo/keto reductase family	GV02	clust_0368
+GV03|SEQ00312	VBIGarVag247424_0312	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500015	272458	273321	+	864		possible oxidoreductase of the aldo/keto reductase family	GV03	clust_0368
+GV04|SEQ01342	VBIGarVag246433_1342	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482635	23261	24118	+	858		possible oxidoreductase of the aldo/keto reductase family	GV04	clust_0368
+GV05|SEQ00413	VBIGarVag174900_0413	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546557	270297	271160	+	864		possible oxidoreductase of the aldo/keto reductase family	GV05	clust_0368
+GV06|SEQ00533	VBIGarVag244004_0533	Gardnerella vaginalis 1400E	ADER01000016	PATRIC	CDS	85489828	5020	5877	-	858		possible oxidoreductase of the aldo/keto reductase family	GV06	clust_0368
+GV07|SEQ01127	VBIGarVag249177_1127	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493949	21684	22547	-	864		possible oxidoreductase of the aldo/keto reductase family	GV07	clust_0368
+GV08|SEQ00188	VBIGarVag251521_0188	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474760	22736	23593	+	858		possible oxidoreductase of the aldo/keto reductase family	GV08	clust_0368
+GV09|SEQ00626	VBIGarVag169280_0626	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260441	389172	390029	-	858		possible oxidoreductase of the aldo/keto reductase family	GV09	clust_0368
+GV10|SEQ00194	VBIGarVag136958_0194	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146410	239286	240149	+	864		possible oxidoreductase of the aldo/keto reductase family	GV10	clust_0368
+GV11|SEQ01107	VBIGarVag171052_1107	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550605	49774	50631	-	858		possible oxidoreductase of the aldo/keto reductase family	GV11	clust_0368
+GV12|SEQ00732	VBIGarVag144721_0732	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854169	275255	276118	+	864		possible oxidoreductase of the aldo/keto reductase family	GV12	clust_0368
+GV13|SEQ00547	VBIGarVag244533_0547	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487064	47767	48624	+	858		possible oxidoreductase of the aldo/keto reductase family	GV13	clust_0368
+GV14|SEQ00140	VBIGarVag244375_0140	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502107	131057	131920	-	864		possible oxidoreductase of the aldo/keto reductase family	GV14	clust_0368
+GV15|SEQ00475	VBIGarVag249709_0475	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484480	212667	213530	-	864		possible oxidoreductase of the aldo/keto reductase family	GV15	clust_0368
+GV16|SEQ01278	VBIGarVag246379_1278	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479757	1503173	1504030	-	858		possible oxidoreductase of the aldo/keto reductase family	GV16	clust_0368
+GV17|SEQ00398	VBIGarVag146634_0398	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850823	385046	385909	-	864		possible oxidoreductase of the aldo/keto reductase family	GV17	clust_0368
+GV18|SEQ00804	VBIGarVag4823_0804	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000129	PATRIC	CDS	42070405	12526	13383	+	858		possible oxidoreductase of the aldo/keto reductase family	GV18	clust_0368
+GV19|SEQ00332	VBIGarVag39333_0333	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627527	408931	409788	+	858		possible oxidoreductase of the aldo/keto reductase family	GV19	clust_0368
+GV20|SEQ01184	VBIGarVag188338_1184	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191234	1476645	1477502	-	858		possible oxidoreductase of the aldo/keto reductase family	GV20	clust_0368
+GV21|SEQ01011	VBIGarVag274454_1012	Gardnerella vaginalis JCP7275	ATJS01000098	PATRIC	CDS	183968821	4933	5790	-	858		possible oxidoreductase of the aldo/keto reductase family	GV21	clust_0368
+GV22|SEQ01089	VBIGarVag276801_1090	Gardnerella vaginalis JCP7276	ATJR01000105	PATRIC	CDS	183971734	526	1383	+	858		possible oxidoreductase of the aldo/keto reductase family	GV22	clust_0368
+GV23|SEQ01085	VBIGarVag276017_1085	Gardnerella vaginalis JCP7659	ATJQ01000121	PATRIC	CDS	183974644	4796	5653	-	858		possible oxidoreductase of the aldo/keto reductase family	GV23	clust_0368
+GV24|SEQ00685	VBIGarVag268944_0686	Gardnerella vaginalis JCP7672	ATJP01000056	PATRIC	CDS	183976555	530	1387	+	858		possible oxidoreductase of the aldo/keto reductase family	GV24	clust_0368
+GV25|SEQ00877	VBIGarVag270495_0877	Gardnerella vaginalis JCP7719	ATJO01000078	PATRIC	CDS	183979739	246	1109	+	864		possible oxidoreductase of the aldo/keto reductase family	GV25	clust_0368
+GV26|SEQ01180	VBIGarVag272749_1180	Gardnerella vaginalis JCP8017A	ATJN01000125	PATRIC	CDS	183983295	3032	3889	-	858		possible oxidoreductase of the aldo/keto reductase family	GV26	clust_0368
+GV27|SEQ01138	VBIGarVag276930_1138	Gardnerella vaginalis JCP8017B	ATJM01000103	PATRIC	CDS	183986146	3031	3894	-	864		possible oxidoreductase of the aldo/keto reductase family	GV27	clust_0368
+GV28|SEQ00932	VBIGarVag271349_0932	Gardnerella vaginalis JCP8066	ATJL01000086	PATRIC	CDS	183988654	3033	3890	-	858		possible oxidoreductase of the aldo/keto reductase family	GV28	clust_0368
+GV29|SEQ00988	VBIGarVag265473_0988	Gardnerella vaginalis JCP8070	ATJK01000086	PATRIC	CDS	183991482	204	1067	+	864		possible oxidoreductase of the aldo/keto reductase family	GV29	clust_0368
+GV30|SEQ01052	VBIGarVag267667_1054	Gardnerella vaginalis JCP8108	ATJJ01000096	PATRIC	CDS	183994314	4804	5661	-	858		possible oxidoreductase of the aldo/keto reductase family	GV30	clust_0368
+GV31|SEQ00786	VBIGarVag264983_0786	Gardnerella vaginalis JCP8151A	ATJI01000043	PATRIC	CDS	183996691	4819	5676	-	858		possible oxidoreductase of the aldo/keto reductase family	GV31	clust_0368
+GV32|SEQ00788	VBIGarVag277040_0788	Gardnerella vaginalis JCP8151B	ATJH01000054	PATRIC	CDS	183999508	173	1030	+	858		possible oxidoreductase of the aldo/keto reductase family	GV32	clust_0368
+GV33|SEQ00454	VBIGarVag265557_0454	Gardnerella vaginalis JCP8481A	ATJG01000040	PATRIC	CDS	184001636	17199	18056	-	858		possible oxidoreductase of the aldo/keto reductase family	GV33	clust_0368
+GV34|SEQ00256	VBIGarVag270440_0256	Gardnerella vaginalis JCP8481B	ATJF01000018	PATRIC	CDS	184004049	430	1293	+	864		possible oxidoreductase of the aldo/keto reductase family	GV34	clust_0368
+GV35|SEQ01178	VBIGarVag272169_1178	Gardnerella vaginalis JCP8522	ATJE01000190	PATRIC	CDS	184008902	4860	5717	-	858		possible oxidoreductase of the aldo/keto reductase family	GV35	clust_0368
+ADO1|SEQ00575	VBIBifAdo136061_0575	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187426	440546	441409	+	864		possible oxidoreductase of the aldo/keto reductase family	ADO1	clust_0368
+ANI1|SEQ00335	VBIBifAni240121_0335	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845586	409932	410795	+	864		possible oxidoreductase of the aldo/keto reductase family	ANI1	clust_0368
+ANI2|SEQ00334	VBIBifAni235968_0334	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848939	409934	410797	+	864		possible oxidoreductase of the aldo/keto reductase family	ANI2	clust_0368
+ANI3|SEQ00335	VBIBifAni108068_0335	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762952	409935	410798	+	864		possible oxidoreductase of the aldo/keto reductase family	ANI3	clust_0368
+BIF1|SEQ01582	VBIBifBif87902_1582	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885778	1901125	1902006	-	882	yccK	possible oxidoreductase of the aldo/keto reductase family	BIF1	clust_0368
+BRE1|SEQ00318	VBIBifBre340958_0318	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602580	401133	401996	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE1	clust_0368
+BRE2|SEQ00379	VBIBifBre337368_0379	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606677	455513	456376	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE2	clust_0368
+BRE3|SEQ00371	VBIBifBre167886_0371	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192410	460292	461155	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE3	clust_0368
+BRE4|SEQ00328	VBIBifBre327712_0328	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610717	413028	413891	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE4	clust_0368
+BRE5|SEQ00353	VBIBifBre336369_0354	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614816	414194	415057	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE5	clust_0368
+BRE6|SEQ00006	VBIBifBre268992_0006	Bifidobacterium breve JCP7499	AWSX01000001	PATRIC	CDS	177653098	4390	5253	-	864		possible oxidoreductase of the aldo/keto reductase family	BRE6	clust_0368
+BRE7|SEQ00349	VBIBifBre340732_0349	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619116	433243	434106	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE7	clust_0368
+BRE8|SEQ00373	VBIBifBre176493_0373	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623277	464736	465599	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE8	clust_0368
+BRE9|SEQ00418	VBIBifBre30019_0418	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444892	506813	507676	+	864		possible oxidoreductase of the aldo/keto reductase family	BRE9	clust_0368
+INF1|SEQ00305	VBIBifLon182273_0305	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884539	384569	385432	+	864		possible oxidoreductase of the aldo/keto reductase family	INF1	clust_0368
+LON1|SEQ01046	VBIBifLon107831_1047	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119175	1233462	1234325	-	864		possible oxidoreductase of the aldo/keto reductase family	LON1	clust_0368
+LON2|SEQ01103	VBIBifLon171405_1105	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581759	1262333	1263196	-	864	tas4	possible oxidoreductase of the aldo/keto reductase family	LON2	clust_0368
+LON3|SEQ00920	VBIBifLon156230_0921	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768821	1852667	1853530	-	864		possible oxidoreductase of the aldo/keto reductase family	LON3	clust_0368
+LON4|SEQ00313	VBIBifLon48544_0313	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888858	387298	388161	+	864		possible oxidoreductase of the aldo/keto reductase family	LON4	clust_0368
+THE1|SEQ01498	VBIBifThe274299_1498	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736244	1841769	1842632	-	864		possible oxidoreductase of the aldo/keto reductase family	THE1	clust_0368

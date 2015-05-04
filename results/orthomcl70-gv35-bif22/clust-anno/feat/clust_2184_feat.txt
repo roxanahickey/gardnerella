@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00819	VBIBifDen165269_0820	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462946	2335986	2338403	+	2418	xylQ	Alpha-xylosidase (EC 3.2.1.-)	DEN1	clust_2184
+DEN1|SEQ00827	VBIBifDen165269_0828	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462962	2348122	2350152	+	2031	yicI	Alpha-xylosidase (EC 3.2.1.-)	DEN1	clust_2184
+DEN2|SEQ00353	VBIBifDen39005_0353	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109029	81583	83613	-	2031		Alpha-xylosidase (EC 3.2.1.-)	DEN2	clust_2184
+DEN2|SEQ00361	VBIBifDen39005_0361	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109045	93332	95749	-	2418		Alpha-xylosidase (EC 3.2.1.-)	DEN2	clust_2184
+INF1|SEQ01469	VBIBifLon182273_1469	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886951	1665872	1667698	-	1827		Alpha-xylosidase (EC 3.2.1.-)	INF1	clust_2184
+LON2|SEQ00107	VBIBifLon171405_0108	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579708	120546	122447	+	1902		Alpha-xylosidase (EC 3.2.1.-)	LON2	clust_2184
+LON3|SEQ00089	VBIBifLon156230_0089	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765804	104539	106365	-	1827		Alpha-xylosidase (EC 3.2.1.-)	LON3	clust_2184
+LON4|SEQ01441	VBIBifLon48544_1441	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891238	1639166	1640992	-	1827		Alpha-xylosidase (EC 3.2.1.-)	LON4	clust_2184

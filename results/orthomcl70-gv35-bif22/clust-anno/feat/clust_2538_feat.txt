@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00997	VBIBifBre340958_0997	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603994	1181381	1182205	+	825		isopenicillin N epimerase	BRE1	clust_2538
+BRE2|SEQ01090	VBIBifBre337368_1090	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608153	1275174	1275998	+	825		isopenicillin N epimerase	BRE2	clust_2538
+BRE3|SEQ00790	VBIBifBre167886_0790	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193275	943701	944525	-	825		isopenicillin N epimerase	BRE3	clust_2538
+BRE5|SEQ01143	VBIBifBre336369_1144	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616457	1286731	1287555	+	825		isopenicillin N epimerase	BRE5	clust_2538
+BRE6|SEQ01746	VBIBifBre268992_1746	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656794	42462	43286	+	825		isopenicillin N epimerase	BRE6	clust_2538
+BRE7|SEQ01041	VBIBifBre340732_1041	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620557	1220901	1221725	+	825		isopenicillin N epimerase	BRE7	clust_2538

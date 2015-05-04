@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01083	VBIGarVag247323_1083	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496367	84834	86159	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV01	clust_0961
+GV02|SEQ00355	VBIGarVag242669_0355	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497486	163388	164713	+	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV02	clust_0961
+GV03|SEQ00517	VBIGarVag247424_0517	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500441	69619	70980	-	1362		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV03	clust_0961
+GV04|SEQ00748	VBIGarVag246433_0748	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481395	75860	77185	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV04	clust_0961
+GV05|SEQ00539	VBIGarVag174900_0539	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546822	131027	132358	-	1332		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV05	clust_0961
+GV06|SEQ01036	VBIGarVag244004_1036	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490888	66087	67412	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV06	clust_0961
+GV07|SEQ00874	VBIGarVag249177_0874	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493419	149029	150363	+	1335		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV07	clust_0961
+GV08|SEQ00787	VBIGarVag251521_0787	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476000	149156	150481	+	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV08	clust_0961
+GV09|SEQ00234	VBIGarVag169280_0234	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259631	59154	60479	+	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV09	clust_0961
+GV10|SEQ00333	VBIGarVag136958_0333	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146704	388687	390021	-	1335		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV10	clust_0961
+GV11|SEQ00272	VBIGarVag171052_0272	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	52548840	29886	31211	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV11	clust_0961
+GV12|SEQ00876	VBIGarVag144721_0876	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854473	425419	426750	-	1332		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV12	clust_0961
+GV13|SEQ00441	VBIGarVag244533_0441	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486842	37375	38700	+	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV13	clust_0961
+GV14|SEQ00823	VBIGarVag244375_0823	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503535	13909	15267	-	1359		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV14	clust_0961
+GV15|SEQ00330	VBIGarVag249709_0330	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484173	55626	57017	+	1392		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV15	clust_0961
+GV16|SEQ00525	VBIGarVag246379_0525	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478197	570463	571788	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV16	clust_0961
+GV17|SEQ00260	VBIGarVag146634_0260	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850531	234132	235514	+	1383		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV17	clust_0961
+GV18|SEQ01292	VBIGarVag4823_1292	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071427	67847	69172	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV18	clust_0961
+GV19|SEQ01084	VBIGarVag39333_1085	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629079	1327169	1328494	+	1326	mvaA	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV19	clust_0961
+GV20|SEQ00423	VBIGarVag188338_0423	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189660	530235	531560	-	1326		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV20	clust_0961
+GV21|SEQ01147	VBIGarVag274454_1148	Gardnerella vaginalis JCP7275	ATJS01000161	PATRIC	CDS	183969166	30	188	+	159		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV21	clust_0961
+GV24|SEQ01205	VBIGarVag268944_1206	Gardnerella vaginalis JCP7672	ATJP01000155	PATRIC	CDS	183977748	34	192	+	159		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV24	clust_0961
+GV30|SEQ01212	VBIGarVag267667_1214	Gardnerella vaginalis JCP8108	ATJJ01000132	PATRIC	CDS	183994676	47	448	+	402		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV30	clust_0961
+GV33|SEQ00891	VBIGarVag265557_0891	Gardnerella vaginalis JCP8481A	ATJG01000098	PATRIC	CDS	184002602	124	417	-	294		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV33	clust_0961
+GV34|SEQ01093	VBIGarVag270440_1093	Gardnerella vaginalis JCP8481B	ATJF01000122	PATRIC	CDS	184005882	85	378	-	294		Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)	GV34	clust_0961

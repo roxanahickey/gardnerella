@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+INF1|SEQ01585	46887184	VBIBifLon182273_1585	SEQ01585	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_1413
+LON3|SEQ01083	42766038	VBIBifLon156230_1085	SEQ01083	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_1413

@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00554	VBIBifBif87902_0554	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883643	687657	691319	+	3663	smc	Chromosome partition protein smc	BIF1	clust_1573
+BRE1|SEQ01211	VBIBifBre340958_1211	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604431	1418269	1421916	-	3648		Chromosome partition protein smc	BRE1	clust_1573
+BRE2|SEQ01301	VBIBifBre337368_1301	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608585	1494371	1498018	-	3648		Chromosome partition protein smc	BRE2	clust_1573
+BRE3|SEQ00610	VBIBifBre167886_0610	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192903	746742	750389	+	3648	smc	Chromosome partition protein smc	BRE3	clust_1573
+BRE4|SEQ01243	VBIBifBre327712_1243	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612610	1441615	1445262	-	3648		Chromosome partition protein smc	BRE4	clust_1573
+BRE5|SEQ01366	VBIBifBre336369_1367	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616913	1521444	1525091	-	3648		Chromosome partition protein smc	BRE5	clust_1573
+BRE6|SEQ01928	VBIBifBre268992_1928	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657169	114178	117825	-	3648		Chromosome partition protein smc	BRE6	clust_1573
+BRE7|SEQ01253	VBIBifBre340732_1253	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620990	1443642	1447289	-	3648		Chromosome partition protein smc	BRE7	clust_1573
+BRE8|SEQ01280	VBIBifBre176493_1280	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625154	1490080	1493727	-	3648	smc	Chromosome partition protein smc	BRE8	clust_1573
+BRE9|SEQ01335	VBIBifBre30019_1335	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446794	1546370	1550017	-	3648	smc	Chromosome partition protein smc	BRE9	clust_1573
+INF1|SEQ01321	VBIBifLon182273_1321	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886646	1487350	1491015	-	3666		Chromosome partition protein smc	INF1	clust_1573
+LON1|SEQ00211	VBIBifLon107831_0211	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117459	253047	256724	+	3678	smc	Chromosome partition protein smc	LON1	clust_1573
+LON2|SEQ00252	VBIBifLon171405_0253	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580007	295757	299434	+	3678	smc	Chromosome partition protein smc	LON2	clust_1573
+LON3|SEQ01939	VBIBifLon156230_1942	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767070	867714	871391	+	3678		Chromosome partition protein smc	LON3	clust_1573
+LON4|SEQ01297	VBIBifLon48544_1297	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890938	1462049	1465726	-	3678		Chromosome partition protein smc	LON4	clust_1573
+THE1|SEQ00658	VBIBifThe274299_0658	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734495	833601	837254	+	3654		Chromosome partition protein smc	THE1	clust_1573

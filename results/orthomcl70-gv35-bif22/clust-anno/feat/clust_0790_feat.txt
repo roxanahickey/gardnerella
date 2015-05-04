@@ -1,0 +1,48 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00387	VBIBifAdo136061_0387	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187035	211800	212714	-	915		Thiazole biosynthesis protein ThiG	ADO1	clust_0790
+BIF1|SEQ01753	VBIBifBif87902_1753	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886130	2108158	2109057	+	900	thiG	Thiazole biosynthesis protein ThiG	BIF1	clust_0790
+BRE1|SEQ00636	VBIBifBre340958_0636	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603237	778456	779325	+	870		Thiazole biosynthesis protein ThiG	BRE1	clust_0790
+BRE2|SEQ00733	VBIBifBre337368_0733	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607401	875257	876126	+	870		Thiazole biosynthesis protein ThiG	BRE2	clust_0790
+BRE3|SEQ01138	VBIBifBre167886_1138	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194009	1330552	1331421	-	870	thiG	Thiazole biosynthesis protein ThiG	BRE3	clust_0790
+BRE4|SEQ00671	VBIBifBre327712_0671	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611421	819488	820357	+	870		Thiazole biosynthesis protein ThiG	BRE4	clust_0790
+BRE5|SEQ00684	VBIBifBre336369_0685	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615493	815223	816092	+	870		Thiazole biosynthesis protein ThiG	BRE5	clust_0790
+BRE6|SEQ00057	VBIBifBre268992_0057	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653210	630	1499	+	870		Thiazole biosynthesis protein ThiG	BRE6	clust_0790
+BRE7|SEQ00682	VBIBifBre340732_0682	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619801	822498	823367	+	870		Thiazole biosynthesis protein ThiG	BRE7	clust_0790
+BRE8|SEQ00704	VBIBifBre176493_0704	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623953	863410	864279	+	870	thiG	Thiazole biosynthesis protein ThiG	BRE8	clust_0790
+BRE9|SEQ00754	VBIBifBre30019_0754	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445582	910087	910956	+	870	thiG	Thiazole biosynthesis protein ThiG	BRE9	clust_0790
+DEN1|SEQ00550	VBIBifDen165269_0551	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462394	1975771	1976685	+	915	thiG	Thiazole biosynthesis protein ThiG	DEN1	clust_0790
+DEN2|SEQ01587	VBIBifDen39005_1588	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111566	48253	49167	+	915	thiG	Thiazole biosynthesis protein ThiG	DEN2	clust_0790
+GV03|SEQ00427	VBIGarVag247424_0427	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500259	47464	48288	-	825		Thiazole biosynthesis protein ThiG	GV03	clust_0790
+GV04|SEQ01218	VBIGarVag246433_1218	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482365	64407	65225	+	819		Thiazole biosynthesis protein ThiG	GV04	clust_0790
+GV05|SEQ00151	VBIGarVag174900_0151	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546011	49351	50175	+	825		Thiazole biosynthesis protein ThiG	GV05	clust_0790
+GV06|SEQ00485	VBIGarVag244004_0485	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489728	51772	52590	-	819		Thiazole biosynthesis protein ThiG	GV06	clust_0790
+GV07|SEQ01048	VBIGarVag249177_1048	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493782	47360	48184	-	825		Thiazole biosynthesis protein ThiG	GV07	clust_0790
+GV08|SEQ00550	VBIGarVag251521_0550	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475514	47878	48696	-	819		Thiazole biosynthesis protein ThiG	GV08	clust_0790
+GV09|SEQ01044	VBIGarVag169280_1044	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261309	59794	60612	+	819	thiG	Thiazole biosynthesis protein ThiG	GV09	clust_0790
+GV10|SEQ00678	VBIGarVag136958_0678	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147424	877206	877973	+	768	thiG_1	Thiazole biosynthesis protein ThiG	GV10	clust_0790
+GV10|SEQ01132	VBIGarVag136958_1132	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148362	1534119	1534823	-	705	thiG_2	Thiazole biosynthesis protein ThiG	GV10	clust_0790
+GV11|SEQ00242	VBIGarVag171052_0242	Gardnerella vaginalis 41V	AEJE01000017	PATRIC	CDS	52548776	25105	25926	-	822		Thiazole biosynthesis protein ThiG	GV11	clust_0790
+GV12|SEQ00038	VBIGarVag144721_0038	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852726	48776	49588	-	813		Thiazole biosynthesis protein ThiG	GV12	clust_0790
+GV12|SEQ00114	VBIGarVag144721_0114	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852887	44362	45129	+	768		Thiazole biosynthesis protein ThiG	GV12	clust_0790
+GV13|SEQ01232	VBIGarVag244533_1232	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488516	59181	60002	+	822		Thiazole biosynthesis protein ThiG	GV13	clust_0790
+GV14|SEQ00914	VBIGarVag244375_0914	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503723	44669	45493	+	825		Thiazole biosynthesis protein ThiG	GV14	clust_0790
+GV15|SEQ00036	VBIGarVag249709_0036	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483558	41583	42395	+	813		Thiazole biosynthesis protein ThiG	GV15	clust_0790
+GV15|SEQ00721	VBIGarVag249709_0721	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484997	191510	192289	+	780		Thiazole biosynthesis protein ThiG	GV15	clust_0790
+GV16|SEQ00050	VBIGarVag246379_0050	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477204	64881	65702	+	822		Thiazole biosynthesis protein ThiG	GV16	clust_0790
+GV17|SEQ00037	VBIGarVag146634_0037	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850070	48771	49583	-	813		Thiazole biosynthesis protein ThiG	GV17	clust_0790
+GV17|SEQ00882	VBIGarVag146634_0882	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851841	98771	99538	-	768		Thiazole biosynthesis protein ThiG	GV17	clust_0790
+GV18|SEQ00824	VBIGarVag4823_0824	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000130	PATRIC	CDS	42070446	16807	17661	+	855		Thiazole biosynthesis protein ThiG	GV18	clust_0790
+GV19|SEQ00250	VBIGarVag39333_0250	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627353	305165	305986	+	822	thiG	Thiazole biosynthesis protein ThiG	GV19	clust_0790
+GV20|SEQ01260	VBIGarVag188338_1260	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191396	1580152	1580973	-	822	thiG	Thiazole biosynthesis protein ThiG	GV20	clust_0790
+GV21|SEQ01074	VBIGarVag274454_1075	Gardnerella vaginalis JCP7275	ATJS01000126	PATRIC	CDS	183968983	641	1459	+	819		Thiazole biosynthesis protein ThiG	GV21	clust_0790
+GV22|SEQ00539	VBIGarVag276801_0540	Gardnerella vaginalis JCP7276	ATJR01000016	PATRIC	CDS	183970512	6452	7273	-	822		Thiazole biosynthesis protein ThiG	GV22	clust_0790
+GV24|SEQ00671	VBIGarVag268944_0672	Gardnerella vaginalis JCP7672	ATJP01000052	PATRIC	CDS	183976523	6458	7279	-	822		Thiazole biosynthesis protein ThiG	GV24	clust_0790
+GV30|SEQ01311	VBIGarVag267667_1313	Gardnerella vaginalis JCP8108	ATJJ01000162	PATRIC	CDS	183994914	1868	2689	+	822		Thiazole biosynthesis protein ThiG	GV30	clust_0790
+GV33|SEQ00764	VBIGarVag265557_0764	Gardnerella vaginalis JCP8481A	ATJG01000080	PATRIC	CDS	184002313	2740	3564	+	825		Thiazole biosynthesis protein ThiG	GV33	clust_0790
+GV34|SEQ00566	VBIGarVag270440_0566	Gardnerella vaginalis JCP8481B	ATJF01000052	PATRIC	CDS	184004726	2678	3502	+	825		Thiazole biosynthesis protein ThiG	GV34	clust_0790
+INF1|SEQ00599	VBIBifLon182273_0599	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885144	741226	742095	+	870		Thiazole biosynthesis protein ThiG	INF1	clust_0790
+LON1|SEQ00760	VBIBifLon107831_0761	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118593	883793	884662	-	870	thiG	Thiazole biosynthesis protein ThiG	LON1	clust_0790
+LON2|SEQ00827	VBIBifLon171405_0828	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581196	928327	929196	-	870	thiG	Thiazole biosynthesis protein ThiG	LON2	clust_0790
+LON3|SEQ00629	VBIBifLon156230_0629	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768227	1497777	1498646	-	870		Thiazole biosynthesis protein ThiG	LON3	clust_0790
+LON4|SEQ00592	VBIBifLon48544_0592	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889431	719811	720680	+	870		Thiazole biosynthesis protein ThiG	LON4	clust_0790
+THE1|SEQ00142	VBIBifThe274299_0142	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733447	165541	166443	-	903	thiG	Thiazole biosynthesis protein ThiG	THE1	clust_0790

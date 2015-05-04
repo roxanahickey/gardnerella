@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+LON2|SEQ01324	42582225	VBIBifLon171405_1327	SEQ01324	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Twin-arginine translocation protein TatC	FIG00000335	figfam	clust_3727
+LON3|SEQ01406	42769423	VBIBifLon156230_1409	SEQ01406	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Twin-arginine translocation protein TatC	FIG00000335	figfam	clust_3727
+LON4|SEQ00088	46888381	VBIBifLon48544_0088	SEQ00088	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Twin-arginine translocation protein TatC	FIG00000335	figfam	clust_3727

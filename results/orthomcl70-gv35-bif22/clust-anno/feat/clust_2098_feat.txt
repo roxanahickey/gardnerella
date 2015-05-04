@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00494	VBIBifBre340958_0494	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602945	620960	622579	+	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE1	clust_2098
+BRE2|SEQ00571	VBIBifBre337368_0571	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607072	703136	704755	+	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE2	clust_2098
+BRE3|SEQ01312	VBIBifBre167886_1312	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194362	1515293	1516912	-	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE3	clust_2098
+BRE4|SEQ00515	VBIBifBre327712_0515	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611102	652768	654387	+	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE4	clust_2098
+BRE5|SEQ00533	VBIBifBre336369_0534	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615185	643256	644875	+	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE5	clust_2098
+BRE6|SEQ00416	VBIBifBre268992_0416	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653958	19155	20774	-	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE6	clust_2098
+BRE7|SEQ00525	VBIBifBre340732_0525	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619479	655093	656712	+	1620		Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE7	clust_2098
+BRE8|SEQ00554	VBIBifBre176493_0554	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623649	698260	699879	+	1620	dppA1	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE8	clust_2098
+BRE9|SEQ00609	VBIBifBre30019_0609	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445286	748795	750414	+	1620	dppA1	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	BRE9	clust_2098

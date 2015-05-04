@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00471	VBIGarVag136958_0471	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146994	572994	574955	+	1962		McrBC restriction endonuclease system, McrB subunit, putative	GV10	clust_4159
+GV12|SEQ01046	VBIGarVag144721_1046	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854829	19411	21372	+	1962		McrBC restriction endonuclease system, McrB subunit, putative	GV12	clust_4159

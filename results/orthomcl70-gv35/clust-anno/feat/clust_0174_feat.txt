@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00561	VBIGarVag247323_0561	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495268	312955	313647	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV01	clust_0174
+GV02|SEQ00815	VBIGarVag242669_0815	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498472	33376	34068	+	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV02	clust_0174
+GV03|SEQ00992	VBIGarVag247424_0992	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501430	352142	352834	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV03	clust_0174
+GV04|SEQ00654	VBIGarVag246433_0654	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481201	74507	75199	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV04	clust_0174
+GV05|SEQ01039	VBIGarVag174900_1039	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547859	760957	761649	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV05	clust_0174
+GV06|SEQ00258	VBIGarVag244004_0258	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489237	32188	32880	+	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV06	clust_0174
+GV07|SEQ00292	VBIGarVag249177_0292	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492201	98197	98889	+	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV07	clust_0174
+GV08|SEQ00099	VBIGarVag251521_0099	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474564	114482	115174	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV08	clust_0174
+GV09|SEQ00928	VBIGarVag169280_0928	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261063	333875	334567	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV09	clust_0174
+GV10|SEQ00810	VBIGarVag136958_0810	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147692	1053517	1054209	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV10	clust_0174
+GV11|SEQ00731	VBIGarVag171052_0731	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549814	2337	3029	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV11	clust_0174
+GV12|SEQ00253	VBIGarVag144721_0253	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853169	212946	213638	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV12	clust_0174
+GV13|SEQ00910	VBIGarVag244533_0910	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487825	24019	24711	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV13	clust_0174
+GV14|SEQ01095	VBIGarVag244375_1095	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504101	177090	177782	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV14	clust_0174
+GV15|SEQ00156	VBIGarVag249709_0156	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483803	84732	85424	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV15	clust_0174
+GV16|SEQ00875	VBIGarVag246379_0875	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478912	984033	984725	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV16	clust_0174
+GV17|SEQ00747	VBIGarVag146634_0747	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851566	58849	59541	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV17	clust_0174
+GV18|SEQ00196	VBIGarVag4823_0196	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000067	PATRIC	CDS	42069083	5643	6335	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV18	clust_0174
+GV19|SEQ00745	VBIGarVag39333_0746	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628388	930210	930902	+	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV19	clust_0174
+GV20|SEQ00798	VBIGarVag188338_0798	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190425	967164	967856	-	693	pyrE	Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV20	clust_0174
+GV21|SEQ00251	VBIGarVag274454_0251	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967150	21210	21902	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV21	clust_0174
+GV22|SEQ00116	VBIGarVag276801_0116	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969621	152203	152895	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV22	clust_0174
+GV23|SEQ00213	VBIGarVag276017_0213	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972730	33231	33923	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV23	clust_0174
+GV24|SEQ00956	VBIGarVag268944_0957	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977139	22754	23446	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV24	clust_0174
+GV25|SEQ00776	VBIGarVag270495_0776	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979523	96021	96713	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV25	clust_0174
+GV26|SEQ01021	VBIGarVag272749_1021	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982922	33007	33699	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV26	clust_0174
+GV27|SEQ01094	VBIGarVag276930_1094	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986048	24183	24875	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV27	clust_0174
+GV28|SEQ00308	VBIGarVag271349_0308	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987283	92131	92823	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV28	clust_0174
+GV29|SEQ00922	VBIGarVag265473_0922	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991337	89532	90224	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV29	clust_0174
+GV30|SEQ01265	VBIGarVag267667_1267	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994803	23552	24244	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV30	clust_0174
+GV31|SEQ00514	VBIGarVag264983_0514	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996098	19637	20329	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV31	clust_0174
+GV32|SEQ00321	VBIGarVag277040_0321	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998494	165732	166424	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV32	clust_0174
+GV33|SEQ00971	VBIGarVag265557_0971	Gardnerella vaginalis JCP8481A	ATJG01000114	PATRIC	CDS	184002784	4311	5003	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV33	clust_0174
+GV34|SEQ00900	VBIGarVag270440_0900	Gardnerella vaginalis JCP8481B	ATJF01000099	PATRIC	CDS	184005454	4305	4997	-	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV34	clust_0174
+GV35|SEQ00194	VBIGarVag272169_0194	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006671	101912	102604	+	693		Orotate phosphoribosyltransferase (EC 2.4.2.10)	GV35	clust_0174

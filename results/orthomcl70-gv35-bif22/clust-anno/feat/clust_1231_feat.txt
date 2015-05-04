@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01015	VBIBifAdo136061_1015	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188344	935298	935852	+	555		Sortase and related acyltransferases	ADO1	clust_1231
+ANI1|SEQ01011	VBIBifAni240121_1011	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847004	1170418	1171065	-	648		Sortase and related acyltransferases	ANI1	clust_1231
+ANI2|SEQ01011	VBIBifAni235968_1011	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850357	1170421	1171068	-	648		Sortase and related acyltransferases	ANI2	clust_1231
+ANI3|SEQ01015	VBIBifAni108068_1015	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764371	1170422	1171069	-	648		Sortase and related acyltransferases	ANI3	clust_1231
+BIF1|SEQ00694	VBIBifBif87902_0694	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883925	855256	855810	+	555	bar	Sortase and related acyltransferases	BIF1	clust_1231
+BRE1|SEQ00665	VBIBifBre340958_0665	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603295	808063	808578	+	516		Sortase and related acyltransferases	BRE1	clust_1231
+BRE2|SEQ00761	VBIBifBre337368_0761	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607457	904911	905426	+	516		Sortase and related acyltransferases	BRE2	clust_1231
+BRE3|SEQ01110	VBIBifBre167886_1110	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193953	1301213	1301728	-	516		Sortase and related acyltransferases	BRE3	clust_1231
+BRE4|SEQ00700	VBIBifBre327712_0700	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611479	849059	849574	+	516		Sortase and related acyltransferases	BRE4	clust_1231
+BRE5|SEQ00716	VBIBifBre336369_0717	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615557	846341	846856	+	516		Sortase and related acyltransferases	BRE5	clust_1231
+BRE6|SEQ00087	VBIBifBre268992_0087	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653272	30988	31485	+	498		Sortase and related acyltransferases	BRE6	clust_1231
+BRE7|SEQ00710	VBIBifBre340732_0710	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619857	852186	852701	+	516		Sortase and related acyltransferases	BRE7	clust_1231
+BRE8|SEQ00732	VBIBifBre176493_0732	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624010	893046	893561	+	516		Sortase and related acyltransferases	BRE8	clust_1231
+BRE9|SEQ00783	VBIBifBre30019_0783	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445641	940626	941123	+	498		Sortase and related acyltransferases	BRE9	clust_1231
+DEN1|SEQ01928	VBIBifDen165269_1929	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461023	1209163	1209675	-	513		Sortase and related acyltransferases	DEN1	clust_1231
+DEN2|SEQ00901	VBIBifDen39005_0901	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110154	74381	74893	+	513		Sortase and related acyltransferases	DEN2	clust_1231
+INF1|SEQ00627	VBIBifLon182273_0627	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885201	773349	773846	+	498		Sortase and related acyltransferases	INF1	clust_1231
+LON1|SEQ00732	VBIBifLon107831_0733	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118537	852142	852639	-	498		Sortase and related acyltransferases	LON1	clust_1231
+LON2|SEQ00794	VBIBifLon171405_0795	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581130	891525	892022	-	498		Sortase and related acyltransferases	LON2	clust_1231
+LON3|SEQ00600	VBIBifLon156230_0600	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768169	1466144	1466641	-	498		Sortase and related acyltransferases	LON3	clust_1231
+LON4|SEQ00620	VBIBifLon48544_0620	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889488	751942	752475	+	534		Sortase and related acyltransferases	LON4	clust_1231
+THE1|SEQ00811	VBIBifThe274299_0811	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734806	1021270	1021806	+	537		Sortase and related acyltransferases	THE1	clust_1231

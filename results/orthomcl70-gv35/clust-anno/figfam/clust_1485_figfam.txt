@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV10|SEQ01029	32148144	VBIGarVag136958_1029	SEQ01029	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	A/G-specific adenine glycosylase (EC 3.2.2.-)	FIG00000395	figfam	clust_1485
+GV12|SEQ00437	37853551	VBIGarVag144721_0437	SEQ00437	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	A/G-specific adenine glycosylase (EC 3.2.2.-)	FIG00000395	figfam	clust_1485
+GV15|SEQ01016	85485612	VBIGarVag249709_1016	SEQ01016	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	NA	A/G-specific adenine glycosylase (EC 3.2.2.-)	FIG00000395	figfam	clust_1485
+GV17|SEQ01182	37852463	VBIGarVag146634_1182	SEQ01182	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	NA	A/G-specific adenine glycosylase (EC 3.2.2.-)	FIG00000395	figfam	clust_1485
+GV33|SEQ01057	184002984	VBIGarVag265557_1057	SEQ01057	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000137	PATRIC	CDS	NA	A/G-specific adenine glycosylase (EC 3.2.2.-)	FIG00000395	figfam	clust_1485
+GV34|SEQ00649	184004905	VBIGarVag270440_0649	SEQ00649	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000065	PATRIC	CDS	NA	A/G-specific adenine glycosylase (EC 3.2.2.-)	FIG00000395	figfam	clust_1485

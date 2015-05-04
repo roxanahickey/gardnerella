@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01387	VBIBifAni240121_1387	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847781	1639553	1640689	+	1137		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	ANI1	clust_3625
+ANI2|SEQ01387	VBIBifAni235968_1387	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851134	1639771	1640907	+	1137		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	ANI2	clust_3625
+ANI3|SEQ01396	VBIBifAni108068_1396	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765152	1645002	1646138	+	1137		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	ANI3	clust_3625

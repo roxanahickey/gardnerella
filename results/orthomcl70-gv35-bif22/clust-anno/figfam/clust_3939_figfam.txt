@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01225	27188789	VBIBifAdo136061_1225	SEQ01225	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS		protein with similarity to CrcB	FIG01457427	figfam	clust_3939
+DEN1|SEQ01614	43460381	VBIBifDen165269_1615	SEQ01614	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3939
+DEN2|SEQ00590	42109510	VBIBifDen39005_0590	SEQ00590	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3939

@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01710	VBIBifAdo136061_1710	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189791	196681	201441	-	4761		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	ADO1	clust_1366
+ANI1|SEQ01085	VBIBifAni240121_1085	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847157	1260556	1265217	-	4662		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	ANI1	clust_1366
+ANI2|SEQ01085	VBIBifAni235968_1085	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850510	1260560	1265233	-	4674		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	ANI2	clust_1366
+ANI3|SEQ01089	VBIBifAni108068_1089	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764523	1260561	1265234	-	4674		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	ANI3	clust_1366
+BIF1|SEQ01218	VBIBifBif87902_1218	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885010	1458932	1463578	-	4647	lhr	Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BIF1	clust_1366
+BRE1|SEQ01132	VBIBifBre340958_1132	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604270	1322610	1327691	-	5082		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE1	clust_1366
+BRE2|SEQ01220	VBIBifBre337368_1220	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608421	1397082	1402163	-	5082		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE2	clust_1366
+BRE3|SEQ00693	VBIBifBre167886_0693	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193071	842848	847779	+	4932		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE3	clust_1366
+BRE4|SEQ01163	VBIBifBre327712_1163	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612448	1346402	1351483	-	5082		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE4	clust_1366
+BRE5|SEQ01284	VBIBifBre336369_1285	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616746	1424595	1429646	-	5052		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE5	clust_1366
+BRE6|SEQ01847	VBIBifBre268992_1847	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657005	17319	22250	-	4932		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE6	clust_1366
+BRE7|SEQ01172	VBIBifBre340732_1172	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620827	1346385	1351316	-	4932		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE7	clust_1366
+BRE8|SEQ01199	VBIBifBre176493_1199	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624991	1394192	1399123	-	4932	lhr	Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE8	clust_1366
+BRE9|SEQ01257	VBIBifBre30019_1257	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446637	1451880	1456811	-	4932	lhr	Probable ATP-dependent helicase lhr (EC 3.6.1.-)	BRE9	clust_1366
+DEN1|SEQ01321	VBIBifDen165269_1322	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459771	565179	569930	+	4752	lhr	Probable ATP-dependent helicase lhr (EC 3.6.1.-)	DEN1	clust_1366
+DEN2|SEQ00705	VBIBifDen39005_0705	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109745	89260	94011	+	4752		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	DEN2	clust_1366
+INF1|SEQ01242	VBIBifLon182273_1242	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886487	1392058	1396791	-	4734		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	INF1	clust_1366
+LON1|SEQ00290	VBIBifLon107831_0290	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117617	347476	352209	+	4734	lhr	Probable ATP-dependent helicase lhr (EC 3.6.1.-)	LON1	clust_1366
+LON2|SEQ00334	VBIBifLon171405_0335	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580171	390875	395608	+	4734	lhr	Probable ATP-dependent helicase lhr (EC 3.6.1.-)	LON2	clust_1366
+LON3|SEQ00152	VBIBifLon156230_0152	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767232	962890	967623	+	4734		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	LON3	clust_1366
+LON4|SEQ01216	VBIBifLon48544_1216	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890773	1366549	1371282	-	4734		Probable ATP-dependent helicase lhr (EC 3.6.1.-)	LON4	clust_1366

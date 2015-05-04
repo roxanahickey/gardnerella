@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00537	VBIBifAdo136061_0537	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187341	387402	388724	-	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	ADO1	clust_0636
+ANI1|SEQ00288	VBIBifAni240121_0288	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845484	350536	351996	-	1461		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	ANI1	clust_0636
+ANI2|SEQ00287	VBIBifAni235968_0287	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848837	350538	351998	-	1461		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	ANI2	clust_0636
+ANI3|SEQ00288	VBIBifAni108068_0288	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762850	350539	351999	-	1461		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	ANI3	clust_0636
+BIF1|SEQ00324	VBIBifBif87902_0324	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883175	393479	394801	-	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BIF1	clust_0636
+BRE1|SEQ00342	VBIBifBre340958_0342	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602628	424733	426055	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE1	clust_0636
+BRE2|SEQ00403	VBIBifBre337368_0403	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606726	479072	480394	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE2	clust_0636
+BRE3|SEQ00401	VBIBifBre167886_0401	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192470	491960	493282	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE3	clust_0636
+BRE4|SEQ00352	VBIBifBre327712_0352	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610766	436630	437952	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE4	clust_0636
+BRE5|SEQ00379	VBIBifBre336369_0380	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614869	438184	439506	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE5	clust_0636
+BRE6|SEQ00861	VBIBifBre268992_0861	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654907	18151	19473	-	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE6	clust_0636
+BRE7|SEQ00375	VBIBifBre340732_0375	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619168	459113	460435	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE7	clust_0636
+BRE8|SEQ00406	VBIBifBre176493_0406	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623344	499277	500599	+	1323	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE8	clust_0636
+BRE9|SEQ00442	VBIBifBre30019_0442	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444941	530406	531728	+	1323	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	BRE9	clust_0636
+DEN1|SEQ00375	VBIBifDen165269_0376	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462037	1752704	1754026	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	DEN1	clust_0636
+DEN2|SEQ02143	VBIBifDen39005_2145	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112726	51588	52910	-	1323	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	DEN2	clust_0636
+GV01|SEQ01053	VBIGarVag247323_1053	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496304	49825	51219	+	1395		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV01	clust_0636
+GV02|SEQ00390	VBIGarVag242669_0390	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497559	201533	202939	-	1407		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV02	clust_0636
+GV03|SEQ01129	VBIGarVag247424_1129	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501726	64523	65860	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV03	clust_0636
+GV04|SEQ00716	VBIGarVag246433_0716	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481328	44528	45934	-	1407		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV04	clust_0636
+GV05|SEQ00068	VBIGarVag174900_0068	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545843	84575	85912	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV05	clust_0636
+GV06|SEQ01010	VBIGarVag244004_1010	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490833	42983	44380	-	1398		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV06	clust_0636
+GV07|SEQ00412	VBIGarVag249177_0412	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492448	46248	47585	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV07	clust_0636
+GV08|SEQ00819	VBIGarVag251521_0819	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476067	182860	184269	+	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV08	clust_0636
+GV09|SEQ00266	VBIGarVag169280_0266	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259698	91129	92538	+	1410	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV09	clust_0636
+GV10|SEQ00309	VBIGarVag136958_0309	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146650	359229	360566	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV10	clust_0636
+GV11|SEQ00987	VBIGarVag171052_0987	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550355	3017	4414	+	1398		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV11	clust_0636
+GV12|SEQ00851	VBIGarVag144721_0851	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854417	395476	396813	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV12	clust_0636
+GV13|SEQ00467	VBIGarVag244533_0467	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486897	59857	61254	+	1398		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV13	clust_0636
+GV14|SEQ00769	VBIGarVag244375_0769	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503426	133780	135117	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV14	clust_0636
+GV15|SEQ00362	VBIGarVag249709_0362	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484243	91195	92532	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV15	clust_0636
+GV16|SEQ00491	VBIGarVag246379_0491	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478126	531110	532519	-	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV16	clust_0636
+GV17|SEQ00284	VBIGarVag146634_0284	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850585	263599	264936	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV17	clust_0636
+GV18|SEQ01263	VBIGarVag4823_1263	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071367	36765	38174	-	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV18	clust_0636
+GV19|SEQ01114	VBIGarVag39333_1116	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629141	1358164	1359573	+	1410		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV19	clust_0636
+GV20|SEQ00393	VBIGarVag188338_0393	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189597	496758	498167	-	1410	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV20	clust_0636
+GV21|SEQ01115	VBIGarVag274454_1116	Gardnerella vaginalis JCP7275	ATJS01000144	PATRIC	CDS	183969085	1253	1831	-	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV21	clust_0636
+GV22|SEQ01170	VBIGarVag276801_1171	Gardnerella vaginalis JCP7276	ATJR01000133	PATRIC	CDS	183971932	1299	1877	-	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV22	clust_0636
+GV24|SEQ01122	VBIGarVag268944_1123	Gardnerella vaginalis JCP7672	ATJP01000120	PATRIC	CDS	183977529	155	835	+	681		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV24	clust_0636
+GV25|SEQ00583	VBIGarVag270495_0583	Gardnerella vaginalis JCP7719	ATJO01000051	PATRIC	CDS	183979112	1680	2222	-	543		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV25	clust_0636
+GV26|SEQ01169	VBIGarVag272749_1169	Gardnerella vaginalis JCP8017A	ATJN01000119	PATRIC	CDS	183983267	6	584	+	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV26	clust_0636
+GV27|SEQ01047	VBIGarVag276930_1047	Gardnerella vaginalis JCP8017B	ATJM01000087	PATRIC	CDS	183985944	76	822	+	747		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV27	clust_0636
+GV28|SEQ01083	VBIGarVag271349_1083	Gardnerella vaginalis JCP8066	ATJL01000142	PATRIC	CDS	183989026	20	583	+	564		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV28	clust_0636
+GV29|SEQ00831	VBIGarVag265473_0831	Gardnerella vaginalis JCP8070	ATJK01000069	PATRIC	CDS	183991147	37	612	+	576		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV29	clust_0636
+GV30|SEQ01318	VBIGarVag267667_1320	Gardnerella vaginalis JCP8108	ATJJ01000164	PATRIC	CDS	183994930	151	729	-	579		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV30	clust_0636
+GV31|SEQ01181	VBIGarVag264983_1181	Gardnerella vaginalis JCP8151A	ATJI01000151	PATRIC	CDS	183997613	52	567	+	516		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV31	clust_0636
+GV32|SEQ00916	VBIGarVag277040_0916	Gardnerella vaginalis JCP8151B	ATJH01000087	PATRIC	CDS	183999814	16	591	+	576		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV32	clust_0636
+GV33|SEQ00244	VBIGarVag265557_0244	Gardnerella vaginalis JCP8481A	ATJG01000021	PATRIC	CDS	184001187	8457	9794	-	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV33	clust_0636
+GV34|SEQ01202	VBIGarVag270440_1202	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	184006134	8222	9559	+	1338		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV34	clust_0636
+GV35|SEQ00963	VBIGarVag272169_0963	Gardnerella vaginalis JCP8522	ATJE01000117	PATRIC	CDS	184008385	52	555	+	504		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	GV35	clust_0636
+INF1|SEQ00330	VBIBifLon182273_0330	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884590	407367	408689	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	INF1	clust_0636
+LON1|SEQ01022	VBIBifLon107831_1023	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119127	1210240	1211562	-	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	LON1	clust_0636
+LON2|SEQ01078	VBIBifLon171405_1080	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581709	1239096	1240418	-	1323	pncB	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	LON2	clust_0636
+LON3|SEQ00888	VBIBifLon156230_0889	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768757	1820807	1822129	-	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	LON3	clust_0636
+LON4|SEQ00338	VBIBifLon48544_0338	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888908	410086	411408	+	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	LON4	clust_0636
+THE1|SEQ00314	VBIBifThe274299_0314	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733798	364938	366260	-	1323		Nicotinate phosphoribosyltransferase (EC 2.4.2.11)	THE1	clust_0636

@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00170	27186556	VBIBifAdo136061_0170	SEQ00170	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+BRE2|SEQ00454	268606832	VBIBifBre337368_0454	SEQ00454	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+BRE4|SEQ00405	268610877	VBIBifBre327712_0405	SEQ00405	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+BRE4|SEQ00417	268610902	VBIBifBre327712_0417	SEQ00417	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+BRE6|SEQ00039	177653169	VBIBifBre268992_0039	SEQ00039	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000004	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+BRE8|SEQ00458	268623453	VBIBifBre176493_0458	SEQ00458	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+BRE9|SEQ00514	58445091	VBIBifBre30019_0514	SEQ00514	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885
+INF1|SEQ00395	46884727	VBIBifLon182273_0395	SEQ00395	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00765124: hypothetical protein	FIG00765121	figfam	clust_1885
+THE1|SEQ00365	124733905	VBIBifThe274299_0365	SEQ00365	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1885

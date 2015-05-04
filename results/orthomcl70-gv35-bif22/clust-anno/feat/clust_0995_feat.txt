@@ -1,0 +1,32 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01465	VBIBifBre337368_1465	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608924	1694664	1695653	-	990		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE2	clust_0995
+BRE3|SEQ01434	VBIBifBre167886_1434	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194612	1677611	1678600	-	990	rbsC_1	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE3	clust_0995
+BRE6|SEQ01340	VBIBifBre268992_1340	Bifidobacterium breve JCP7499	AWSX01000065	PATRIC	CDS	177655914	7206	8195	-	990		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE6	clust_0995
+BRE7|SEQ01435	VBIBifBre340732_1435	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621363	1660979	1661968	-	990		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE7	clust_0995
+BRE8|SEQ01457	VBIBifBre176493_1457	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625520	1704081	1705070	-	990	rbsC1	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE8	clust_0995
+BRE9|SEQ01523	VBIBifBre30019_1523	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447178	1767616	1768605	-	990	rbsC1	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	BRE9	clust_0995
+DEN1|SEQ00525	VBIBifDen165269_0526	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462344	1943685	1944674	-	990	rbsC	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	DEN1	clust_0995
+DEN2|SEQ01562	VBIBifDen39005_1563	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111516	16166	17155	-	990	rbsC	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	DEN2	clust_0995
+GV04|SEQ00313	VBIGarVag246433_0313	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480490	210141	211142	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV04	clust_0995
+GV06|SEQ00410	VBIGarVag244004_0410	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489564	8477	9478	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV06	clust_0995
+GV09|SEQ00175	VBIGarVag169280_0175	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259505	158983	159984	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV09	clust_0995
+GV10|SEQ01178	VBIGarVag136958_1178	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148460	1598991	1599992	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV10	clust_0995
+GV11|SEQ00423	VBIGarVag171052_0423	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549161	3094	4095	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV11	clust_0995
+GV12|SEQ00515	VBIGarVag144721_0515	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853715	7489	8490	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV12	clust_0995
+GV13|SEQ00027	VBIGarVag244533_0027	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485982	8406	9407	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV13	clust_0995
+GV15|SEQ01103	VBIGarVag249709_1103	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485806	82408	83409	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV15	clust_0995
+GV16|SEQ00095	VBIGarVag246379_0095	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477296	7523	8524	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV16	clust_0995
+GV17|SEQ00649	VBIGarVag146634_0649	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851358	79667	80668	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV17	clust_0995
+GV18|SEQ00886	VBIGarVag4823_0886	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070572	7866	8867	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV18	clust_0995
+GV19|SEQ00192	VBIGarVag39333_0192	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627231	226683	227684	+	1002	rbsC	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV19	clust_0995
+GV20|SEQ00072	VBIGarVag188338_0072	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188922	89142	90143	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV20	clust_0995
+GV22|SEQ00375	VBIGarVag276801_0376	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970171	6104	7105	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV22	clust_0995
+GV24|SEQ00448	VBIGarVag268944_0449	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976027	7114	8115	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV24	clust_0995
+GV30|SEQ00609	VBIGarVag267667_0610	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993339	6057	7058	-	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV30	clust_0995
+GV33|SEQ00152	VBIGarVag265557_0152	Gardnerella vaginalis JCP8481A	ATJG01000012	PATRIC	CDS	184000988	5525	6526	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV33	clust_0995
+GV34|SEQ01076	VBIGarVag270440_1076	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005845	29614	30615	+	1002		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	GV34	clust_0995
+INF1|SEQ01494	VBIBifLon182273_1494	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887001	1699311	1700333	-	1023		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	INF1	clust_0995
+LON1|SEQ00038	VBIBifLon107831_0038	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117103	45710	46708	+	999		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON1	clust_0995
+LON2|SEQ00081	VBIBifLon171405_0082	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579656	89353	90375	+	1023	araH2	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON2	clust_0995
+LON3|SEQ00116	VBIBifLon156230_0116	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765859	137925	138947	-	1023		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON3	clust_0995
+LON4|SEQ01466	VBIBifLon48544_1466	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891288	1671214	1672236	-	1023		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON4	clust_0995

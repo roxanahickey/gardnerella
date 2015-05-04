@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00620	VBIGarVag247424_0620	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500661	190905	192791	+	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV03	clust_1291
+GV05|SEQ00639	VBIGarVag174900_0639	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547036	251931	253817	+	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV05	clust_1291
+GV07|SEQ00766	VBIGarVag249177_0766	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493189	21105	22991	-	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV07	clust_1291
+GV10|SEQ00428	VBIGarVag136958_0428	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146908	518296	520182	+	1887	asnB	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV10	clust_1291
+GV12|SEQ00996	VBIGarVag144721_0996	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854727	582296	584182	+	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV12	clust_1291
+GV14|SEQ00435	VBIGarVag244375_0435	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502726	72761	74647	+	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV14	clust_1291
+GV15|SEQ00233	VBIGarVag249709_0233	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483973	66529	68415	+	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV15	clust_1291
+GV17|SEQ00161	VBIGarVag146634_0161	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850319	100221	102107	-	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV17	clust_1291
+GV33|SEQ01143	VBIGarVag265557_1143	Gardnerella vaginalis JCP8481A	ATJG01000157	PATRIC	CDS	184003188	3753	5639	-	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV33	clust_1291
+GV34|SEQ00505	VBIGarVag270440_0505	Gardnerella vaginalis JCP8481B	ATJF01000042	PATRIC	CDS	184004591	3753	5639	-	1887		Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)	GV34	clust_1291

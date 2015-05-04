@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01940	VBIBifAdo136061_1940	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190253	480999	482270	-	1272		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	ADO1	clust_1327
+ANI1|SEQ01298	VBIBifAni240121_1298	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847601	1513248	1514399	-	1152		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	ANI1	clust_1327
+ANI2|SEQ01298	VBIBifAni235968_1298	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850954	1513469	1514620	-	1152		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	ANI2	clust_1327
+ANI3|SEQ01307	VBIBifAni108068_1307	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764972	1518700	1519851	-	1152		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	ANI3	clust_1327
+BIF1|SEQ00431	VBIBifBif87902_0431	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883395	542624	543895	-	1272	gsh	Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BIF1	clust_1327
+BRE1|SEQ01392	VBIBifBre340958_1393	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604801	1643424	1644701	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE1	clust_1327
+BRE2|SEQ01508	VBIBifBre337368_1508	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609010	1743148	1744425	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE2	clust_1327
+BRE3|SEQ01467	VBIBifBre167886_1467	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194678	1714447	1715724	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE3	clust_1327
+BRE4|SEQ01433	VBIBifBre327712_1433	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613000	1673768	1675045	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE4	clust_1327
+BRE5|SEQ01585	VBIBifBre336369_1586	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617359	1779369	1780646	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE5	clust_1327
+BRE6|SEQ00928	VBIBifBre268992_0928	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655044	47193	48470	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE6	clust_1327
+BRE7|SEQ01462	VBIBifBre340732_1462	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621417	1692295	1693572	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE7	clust_1327
+BRE8|SEQ01485	VBIBifBre176493_1485	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625576	1733591	1734868	-	1278	gshA	Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE8	clust_1327
+BRE9|SEQ01549	VBIBifBre30019_1549	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447230	1797135	1798412	-	1278	gshA	Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	BRE9	clust_1327
+INF1|SEQ01602	VBIBifLon182273_1602	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887218	1827788	1829065	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	INF1	clust_1327
+LON1|SEQ01809	VBIBifLon107831_1810	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120784	2186888	2188165	+	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	LON1	clust_1327
+LON2|SEQ01850	VBIBifLon171405_1853	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583331	2219347	2220717	+	1371	gshA	Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	LON2	clust_1327
+LON3|SEQ01094	VBIBifLon156230_1096	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766060	257616	258893	-	1278		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	LON3	clust_1327
+LON4|SEQ01560	VBIBifLon48544_1560	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891478	1791317	1792687	-	1371		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	LON4	clust_1327
+THE1|SEQ00494	VBIBifThe274299_0494	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734164	628620	629930	+	1311		Similar to Glutamate--cysteine ligase (EC 6.3.2.2)	THE1	clust_1327

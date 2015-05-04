@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01141	VBIGarVag247323_1141	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496484	153900	154640	+	741		Transcriptional regulator, AcrR family	GV01	clust_1331
+GV02|SEQ00296	VBIGarVag242669_0296	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497367	96310	97050	-	741		Transcriptional regulator, AcrR family	GV02	clust_1331
+GV08|SEQ00076	VBIGarVag251521_0076	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474517	89206	89946	-	741		Transcriptional regulator, AcrR family	GV08	clust_1331
+GV12|SEQ00080	VBIGarVag144721_0080	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852811	2757	3497	+	741		Transcriptional regulator, AcrR family	GV12	clust_1331
+GV16|SEQ00851	VBIGarVag246379_0851	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478863	958806	959546	-	741		Transcriptional regulator, AcrR family	GV16	clust_1331
+GV18|SEQ01129	VBIGarVag4823_1129	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071088	18726	19466	+	741		Transcriptional regulator, AcrR family	GV18	clust_1331
+GV19|SEQ00769	VBIGarVag39333_0770	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628436	955417	956157	+	741		Transcriptional regulator, AcrR family	GV19	clust_1331
+GV25|SEQ00400	VBIGarVag270495_0400	Gardnerella vaginalis JCP7719	ATJO01000027	PATRIC	CDS	183978712	2146	2886	+	741		Transcriptional regulator, AcrR family	GV25	clust_1331
+GV31|SEQ00559	VBIGarVag264983_0559	Gardnerella vaginalis JCP8151A	ATJI01000023	PATRIC	CDS	183996195	4063	4803	-	741		Transcriptional regulator, AcrR family	GV31	clust_1331

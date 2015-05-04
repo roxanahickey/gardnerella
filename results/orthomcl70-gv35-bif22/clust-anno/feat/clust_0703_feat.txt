@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00514	VBIBifAdo136061_0514	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187295	362500	363093	+	594		16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	ADO1	clust_0703
+ANI1|SEQ00266	VBIBifAni240121_0266	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845440	325352	325927	+	576		16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	ANI1	clust_0703
+ANI2|SEQ00265	VBIBifAni235968_0265	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848793	325354	325929	+	576		16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	ANI2	clust_0703
+ANI3|SEQ00266	VBIBifAni108068_0266	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762806	325355	325930	+	576		16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)	ANI3	clust_0703
+BIF1|SEQ00300	VBIBifBif87902_0300	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883127	368464	369126	+	663		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BIF1	clust_0703
+BRE1|SEQ01668	VBIBifBre340958_1669	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605385	1944558	1945139	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE1	clust_0703
+BRE2|SEQ01773	VBIBifBre337368_1773	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609571	2045104	2045685	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE2	clust_0703
+BRE3|SEQ01737	VBIBifBre167886_1737	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195248	2017393	2017974	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE3	clust_0703
+BRE4|SEQ01707	VBIBifBre327712_1707	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613580	1977342	1977923	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE4	clust_0703
+BRE5|SEQ01829	VBIBifBre336369_1830	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617877	2048324	2048905	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE5	clust_0703
+BRE6|SEQ01362	VBIBifBre268992_1362	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177655964	11112	11693	+	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE6	clust_0703
+BRE7|SEQ01766	VBIBifBre340732_1766	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622055	2028439	2029020	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE7	clust_0703
+BRE8|SEQ01722	VBIBifBre176493_1722	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626079	2001909	2002490	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE8	clust_0703
+BRE9|SEQ01830	VBIBifBre30019_1830	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447823	2105885	2106466	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	BRE9	clust_0703
+DEN1|SEQ00397	VBIBifDen165269_0398	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462081	1775306	1775893	-	588	rsmD	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	DEN1	clust_0703
+DEN2|SEQ02121	VBIBifDen39005_2123	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112682	29721	30308	+	588		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	DEN2	clust_0703
+GV01|SEQ01043	VBIGarVag247323_1043	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496284	41416	42000	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV01	clust_0703
+GV02|SEQ00400	VBIGarVag242669_0400	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497579	210755	211339	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV02	clust_0703
+GV03|SEQ01121	VBIGarVag247424_1121	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501710	56721	57305	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV03	clust_0703
+GV04|SEQ00706	VBIGarVag246433_0706	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481308	35740	36321	+	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV04	clust_0703
+GV05|SEQ00060	VBIGarVag174900_0060	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545827	76761	77345	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV05	clust_0703
+GV06|SEQ01001	VBIGarVag244004_1001	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490815	34187	34771	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV06	clust_0703
+GV07|SEQ00420	VBIGarVag249177_0420	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492464	54798	55262	-	465		"Ribosomal RNA small subunit methyltransferase D "	GV07	clust_0703
+GV08|SEQ00829	VBIGarVag251521_0829	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476087	191663	192247	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV08	clust_0703
+GV09|SEQ00275	VBIGarVag169280_0275	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259716	100631	101212	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV09	clust_0703
+GV10|SEQ00299	VBIGarVag136958_0299	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146630	350605	351069	+	465		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV10	clust_0703
+GV11|SEQ00996	VBIGarVag171052_0996	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550373	12464	13048	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV11	clust_0703
+GV12|SEQ00843	VBIGarVag144721_0843	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854401	387464	388048	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV12	clust_0703
+GV13|SEQ00477	VBIGarVag244533_0477	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486917	69423	70007	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV13	clust_0703
+GV14|SEQ00761	VBIGarVag244375_0761	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503410	126233	126817	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV14	clust_0703
+GV15|SEQ00370	VBIGarVag249709_0370	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484259	100197	100781	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV15	clust_0703
+GV16|SEQ00482	VBIGarVag246379_0482	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478108	522871	523455	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV16	clust_0703
+GV17|SEQ00292	VBIGarVag146634_0292	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850601	272470	273054	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV17	clust_0703
+GV18|SEQ01253	VBIGarVag4823_1253	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071347	27982	28563	+	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV18	clust_0703
+GV19|SEQ01124	VBIGarVag39333_1126	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629161	1367775	1368356	-	582	rsmD	Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV19	clust_0703
+GV20|SEQ00384	VBIGarVag188338_0384	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189579	488360	488944	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV20	clust_0703
+GV22|SEQ00994	VBIGarVag276801_0995	Gardnerella vaginalis JCP7276	ATJR01000074	PATRIC	CDS	183971503	98	679	-	582		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV22	clust_0703
+GV23|SEQ00812	VBIGarVag276017_0812	Gardnerella vaginalis JCP7659	ATJQ01000063	PATRIC	CDS	183974024	103	687	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV23	clust_0703
+GV24|SEQ00855	VBIGarVag268944_0856	Gardnerella vaginalis JCP7672	ATJP01000078	PATRIC	CDS	183976923	6625	7209	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV24	clust_0703
+GV26|SEQ00904	VBIGarVag272749_0904	Gardnerella vaginalis JCP8017A	ATJN01000053	PATRIC	CDS	183982658	107	691	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV26	clust_0703
+GV27|SEQ00576	VBIGarVag276930_0576	Gardnerella vaginalis JCP8017B	ATJM01000022	PATRIC	CDS	183984920	1511	2095	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV27	clust_0703
+GV29|SEQ01130	VBIGarVag265473_1130	Gardnerella vaginalis JCP8070	ATJK01000122	PATRIC	CDS	183991820	2468	2671	-	204		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV29	clust_0703
+GV30|SEQ00914	VBIGarVag267667_0916	Gardnerella vaginalis JCP8108	ATJJ01000073	PATRIC	CDS	183994005	18	605	-	588		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV30	clust_0703
+GV31|SEQ00650	VBIGarVag264983_0650	Gardnerella vaginalis JCP8151A	ATJI01000030	PATRIC	CDS	183996387	465	1055	+	591		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV31	clust_0703
+GV32|SEQ00960	VBIGarVag277040_0960	Gardnerella vaginalis JCP8151B	ATJH01000101	PATRIC	CDS	183999916	2506	2685	-	180		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV32	clust_0703
+GV33|SEQ00252	VBIGarVag265557_0252	Gardnerella vaginalis JCP8481A	ATJG01000021	PATRIC	CDS	184001203	17135	17719	-	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV33	clust_0703
+GV34|SEQ01194	VBIGarVag270440_1194	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	184006118	297	881	+	585		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV34	clust_0703
+GV35|SEQ01166	VBIGarVag272169_1166	Gardnerella vaginalis JCP8522	ATJE01000184	PATRIC	CDS	184008868	24	227	+	204		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	GV35	clust_0703
+INF1|SEQ00274	VBIBifLon182273_0274	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884477	347129	347740	+	612		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	INF1	clust_0703
+LON1|SEQ01066	VBIBifLon107831_1067	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119215	1256513	1257124	-	612		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	LON1	clust_0703
+LON2|SEQ01124	VBIBifLon171405_1126	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581801	1285385	1285996	-	612		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	LON2	clust_0703
+LON3|SEQ00940	VBIBifLon156230_0941	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768861	1875746	1876357	-	612		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	LON3	clust_0703
+LON4|SEQ00293	VBIBifLon48544_0293	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888818	364492	365103	+	612		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	LON4	clust_0703
+THE1|SEQ00291	VBIBifThe274299_0291	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733752	343555	344151	-	597		Ribosomal RNA small subunit methyltransferase D (EC 2.1.1.-)	THE1	clust_0703

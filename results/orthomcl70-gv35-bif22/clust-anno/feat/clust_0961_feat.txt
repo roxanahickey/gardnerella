@@ -1,0 +1,34 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00506	VBIGarVag247323_0506	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495157	250212	251042	-	831		Hydrogen peroxide-inducible genes activator	GV01	clust_0961
+GV02|SEQ00866	VBIGarVag242669_0866	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498574	94445	95275	+	831		Hydrogen peroxide-inducible genes activator	GV02	clust_0961
+GV04|SEQ00993	VBIGarVag246433_0993	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481898	368641	369540	+	900		Hydrogen peroxide-inducible genes activator	GV04	clust_0961
+GV06|SEQ01256	VBIGarVag244004_1256	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491339	116162	117061	-	900		Hydrogen peroxide-inducible genes activator	GV06	clust_0961
+GV07|SEQ00149	VBIGarVag249177_0149	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491885	172340	172558	+	219		Hydrogen peroxide-inducible genes activator	GV07	clust_0961
+GV08|SEQ00011	VBIGarVag251521_0011	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474387	14769	15728	+	960		Hydrogen peroxide-inducible genes activator	GV08	clust_0961
+GV09|SEQ00850	VBIGarVag169280_0850	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260907	238631	239530	+	900		Hydrogen peroxide-inducible genes activator	GV09	clust_0961
+GV10|SEQ00001	VBIGarVag136958_0001	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146006	12	842	-	831	lysR	Hydrogen peroxide-inducible genes activator	GV10	clust_0961
+GV10|SEQ01190	VBIGarVag136958_1190	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148486	1617276	1617491	-	216		Hydrogen peroxide-inducible genes activator	GV10	clust_0961
+GV11|SEQ00777	VBIGarVag171052_0777	Gardnerella vaginalis 41V	AEJE01000050	PATRIC	CDS	52549912	2538	3437	+	900		Hydrogen peroxide-inducible genes activator	GV11	clust_0961
+GV12|SEQ00528	VBIGarVag144721_0528	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853743	25770	26672	-	903		Hydrogen peroxide-inducible genes activator	GV12	clust_0961
+GV13|SEQ00270	VBIGarVag244533_0270	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486484	83359	84258	-	900		Hydrogen peroxide-inducible genes activator	GV13	clust_0961
+GV15|SEQ01090	VBIGarVag249709_1090	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485778	64344	65246	+	903		Hydrogen peroxide-inducible genes activator	GV15	clust_0961
+GV16|SEQ00785	VBIGarVag246379_0785	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478731	884238	885197	+	960		Hydrogen peroxide-inducible genes activator	GV16	clust_0961
+GV17|SEQ00636	VBIGarVag146634_0636	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851330	61603	62505	+	903		Hydrogen peroxide-inducible genes activator	GV17	clust_0961
+GV18|SEQ01102	VBIGarVag4823_1102	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42071033	30561	31520	+	960		Hydrogen peroxide-inducible genes activator	GV18	clust_0961
+GV19|SEQ00826	VBIGarVag39333_0827	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628551	1025282	1026241	-	960	oxyR	Hydrogen peroxide-inducible genes activator	GV19	clust_0961
+GV20|SEQ00722	VBIGarVag188338_0722	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190273	875099	876058	+	960		Hydrogen peroxide-inducible genes activator	GV20	clust_0961
+GV21|SEQ00195	VBIGarVag274454_0195	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967033	57964	58863	-	900		Hydrogen peroxide-inducible genes activator	GV21	clust_0961
+GV22|SEQ00471	VBIGarVag276801_0472	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970373	111415	112314	+	900		Hydrogen peroxide-inducible genes activator	GV22	clust_0961
+GV23|SEQ00261	VBIGarVag276017_0261	Gardnerella vaginalis JCP7659	ATJQ01000013	PATRIC	CDS	183972827	25774	26604	+	831		Hydrogen peroxide-inducible genes activator	GV23	clust_0961
+GV24|SEQ00391	VBIGarVag268944_0392	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975906	58087	59046	-	960		Hydrogen peroxide-inducible genes activator	GV24	clust_0961
+GV25|SEQ01020	VBIGarVag270495_1020	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980085	27550	28380	+	831		Hydrogen peroxide-inducible genes activator	GV25	clust_0961
+GV26|SEQ00586	VBIGarVag272749_0586	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981966	143916	144746	-	831		Hydrogen peroxide-inducible genes activator	GV26	clust_0961
+GV27|SEQ00352	VBIGarVag276930_0352	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984445	28820	29650	+	831		Hydrogen peroxide-inducible genes activator	GV27	clust_0961
+GV28|SEQ00742	VBIGarVag271349_0742	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988239	24854	25684	+	831		Hydrogen peroxide-inducible genes activator	GV28	clust_0961
+GV29|SEQ00060	VBIGarVag265473_0060	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989479	28012	28914	+	903		Hydrogen peroxide-inducible genes activator	GV29	clust_0961
+GV30|SEQ00067	VBIGarVag267667_0067	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992171	58127	59026	-	900		Hydrogen peroxide-inducible genes activator	GV30	clust_0961
+GV31|SEQ00234	VBIGarVag264983_0234	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995509	28952	29572	+	621		Hydrogen peroxide-inducible genes activator	GV31	clust_0961
+GV32|SEQ01130	VBIGarVag277040_1130	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000307	49932	50834	-	903		Hydrogen peroxide-inducible genes activator	GV32	clust_0961
+GV33|SEQ00139	VBIGarVag265557_0139	Gardnerella vaginalis JCP8481A	ATJG01000011	PATRIC	CDS	184000959	10003	10905	+	903		Hydrogen peroxide-inducible genes activator	GV33	clust_0961
+GV34|SEQ01064	VBIGarVag270440_1064	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005819	11400	12302	+	903		Hydrogen peroxide-inducible genes activator	GV34	clust_0961
+GV35|SEQ00087	VBIGarVag272169_0087	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006451	94027	94929	-	903		Hydrogen peroxide-inducible genes activator	GV35	clust_0961

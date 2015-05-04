@@ -1,0 +1,58 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00418	27187099	VBIBifAdo136061_0418	SEQ00418	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+ANI1|SEQ00187	86845278	VBIBifAni240121_0187	SEQ00187	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+ANI2|SEQ00186	86848631	VBIBifAni235968_0186	SEQ00186	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+ANI3|SEQ00189	42762648	VBIBifAni108068_0189	SEQ00189	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BIF1|SEQ01674	86885968	VBIBifBif87902_1674	SEQ01674	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE1|SEQ00207	268602349	VBIBifBre340958_0207	SEQ00207	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE2|SEQ00227	268606362	VBIBifBre337368_0227	SEQ00227	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE3|SEQ00246	54192149	VBIBifBre167886_0246	SEQ00246	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE4|SEQ00225	268610500	VBIBifBre327712_0225	SEQ00225	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE5|SEQ00228	268614556	VBIBifBre336369_0229	SEQ00228	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE6|SEQ02032	177657389	VBIBifBre268992_2032	SEQ02032	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE7|SEQ00222	268618852	VBIBifBre340732_0222	SEQ00222	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE8|SEQ00249	268623019	VBIBifBre176493_0249	SEQ00249	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	amtP	Ammonium transporter	FIG00004764	figfam	clust_0312
+BRE9|SEQ00257	58444555	VBIBifBre30019_0257	SEQ00257	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+DEN1|SEQ00510	43462312	VBIBifDen165269_0511	SEQ00510	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+DEN2|SEQ01347	42111079	VBIBifDen39005_1348	SEQ01347	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+GV01|SEQ00627	85495403	VBIGarVag247323_0627	SEQ00627	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV02|SEQ00110	85496978	VBIGarVag242669_0110	SEQ00110	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV03|SEQ00173	85499726	VBIGarVag247424_0173	SEQ00173	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV04|SEQ00216	85480284	VBIGarVag246433_0216	SEQ00216	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV05|SEQ00275	52546272	VBIGarVag174900_0275	SEQ00275	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV06|SEQ00162	85489039	VBIGarVag244004_0162	SEQ00162	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV07|SEQ00075	85491727	VBIGarVag249177_0075	SEQ00075	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV08|SEQ01027	85476501	VBIGarVag251521_1027	SEQ01027	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV09|SEQ00074	55259291	VBIGarVag169280_0074	SEQ00074	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV10|SEQ00066	32146146	VBIGarVag136958_0066	SEQ00066	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV11|SEQ00892	52550147	VBIGarVag171052_0892	SEQ00892	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV12|SEQ00598	37853893	VBIGarVag144721_0598	SEQ00598	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV13|SEQ00121	85486182	VBIGarVag244533_0121	SEQ00121	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV14|SEQ00583	85503026	VBIGarVag244375_0583	SEQ00583	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV15|SEQ00803	85485165	VBIGarVag249709_0803	SEQ00803	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV16|SEQ00195	85477508	VBIGarVag246379_0195	SEQ00195	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV17|SEQ00536	37851107	VBIGarVag146634_0536	SEQ00536	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV18|SEQ00619	42070003	VBIGarVag4823_0619	SEQ00619	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000116	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV19|SEQ00091	42627016	VBIGarVag39333_0091	SEQ00091	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV20|SEQ01346	54191568	VBIGarVag188338_1346	SEQ01346	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV21|SEQ00390	183967442	VBIGarVag274454_0391	SEQ00390	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000017	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV22|SEQ00232	183969875	VBIGarVag276801_0232	SEQ00232	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000007	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV23|SEQ01070	183974607	VBIGarVag276017_1070	SEQ01070	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000114	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV24|SEQ00165	183975433	VBIGarVag268944_0166	SEQ00165	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000006	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV25|SEQ00134	183978141	VBIGarVag270495_0134	SEQ00134	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000011	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV26|SEQ00230	183981216	VBIGarVag272749_0230	SEQ00230	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV27|SEQ00322	183984383	VBIGarVag276930_0322	SEQ00322	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV28|SEQ00361	183987396	VBIGarVag271349_0361	SEQ00361	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000020	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV29|SEQ00436	183990280	VBIGarVag265473_0436	SEQ00436	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV30|SEQ00706	183993543	VBIGarVag267667_0708	SEQ00706	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV31|SEQ00359	183995767	VBIGarVag264983_0359	SEQ00359	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV32|SEQ00038	183997904	VBIGarVag277040_0038	SEQ00038	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV33|SEQ00374	184001465	VBIGarVag265557_0374	SEQ00374	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000031	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV34|SEQ00311	184004164	VBIGarVag270440_0311	SEQ00311	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000021	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+GV35|SEQ00244	184006776	VBIGarVag272169_0244	SEQ00244	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	NA	Ammonium transporter	FIG00004764	figfam	clust_0312
+INF1|SEQ00185	46884287	VBIBifLon182273_0185	SEQ00185	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+LON1|SEQ01179	21119453	VBIBifLon107831_1180	SEQ01179	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+LON2|SEQ01214	42581993	VBIBifLon171405_1216	SEQ01214	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+LON3|SEQ01293	42769185	VBIBifLon156230_1295	SEQ01293	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+LON4|SEQ00205	46888630	VBIBifLon48544_0205	SEQ00205	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312
+THE1|SEQ00198	124733561	VBIBifThe274299_0198	SEQ00198	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Ammonium transporter	FIG00004764	figfam	clust_0312

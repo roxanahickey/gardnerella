@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE4|SEQ00409	268610885	VBIBifBre327712_0409	SEQ00409	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_2366
+BRE8|SEQ00447	268623430	VBIBifBre176493_0447	SEQ00447	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_2366
+BRE9|SEQ00503	58445068	VBIBifBre30019_0503	SEQ00503	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_2366
+LON2|SEQ00803	42581148	VBIBifLon171405_0804	SEQ00803	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_2366

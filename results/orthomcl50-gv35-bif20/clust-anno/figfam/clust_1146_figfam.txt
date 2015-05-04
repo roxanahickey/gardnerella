@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00382	27187025	VBIBifAdo136061_0382	SEQ00382	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+ADO1|SEQ01498	27189354	VBIBifAdo136061_1498	SEQ01498	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+ANI1|SEQ01463	86847937	VBIBifAni240121_1463	SEQ01463	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+ANI2|SEQ01462	86851288	VBIBifAni235968_1462	SEQ01462	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+ANI3|SEQ01472	42765308	VBIBifAni108068_1472	SEQ01472	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BIF1|SEQ00260	86883037	VBIBifBif87902_0260	SEQ00260	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE1|SEQ00305	268602554	VBIBifBre340958_0305	SEQ00305	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE2|SEQ00366	268606651	VBIBifBre337368_0366	SEQ00366	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE3|SEQ00356	54192379	VBIBifBre167886_0356	SEQ00356	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE4|SEQ00315	268610691	VBIBifBre327712_0315	SEQ00315	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE5|SEQ00337	268614784	VBIBifBre336369_0338	SEQ00337	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE6|SEQ00020	177653126	VBIBifBre268992_0020	SEQ00020	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000001	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE7|SEQ00333	268619084	VBIBifBre340732_0333	SEQ00333	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE8|SEQ00359	268623249	VBIBifBre176493_0359	SEQ00359	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+BRE9|SEQ00407	58444870	VBIBifBre30019_0407	SEQ00407	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1146
+INF1|SEQ01842	46887731	VBIBifLon182273_1842	SEQ01842	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		cell wall surface anchor family protein	FIG01333708	figfam	clust_1146
+LON1|SEQ01587	21120314	VBIBifLon107831_1588	SEQ01587	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		cell wall surface anchor family protein	FIG01333708	figfam	clust_1146
+LON2|SEQ01614	42582833	VBIBifLon171405_1617	SEQ01614	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		cell wall surface anchor family protein	FIG01333708	figfam	clust_1146
+LON3|SEQ01700	42766582	VBIBifLon156230_1703	SEQ01700	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		cell wall surface anchor family protein	FIG01333708	figfam	clust_1146
+LON4|SEQ01787	46891966	VBIBifLon48544_1787	SEQ01787	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		cell wall surface anchor family protein	FIG01333708	figfam	clust_1146

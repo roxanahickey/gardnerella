@@ -1,0 +1,8 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE5|SEQ01945	268618118	VBIBifBre336369_1946	SEQ01945	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1887
+GV12|SEQ00468	37853617	VBIGarVag144721_0468	SEQ00468	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	FIG01108853: hypothetical protein	FIG01108852	figfam	clust_1887
+GV15|SEQ00458	85484446	VBIGarVag249709_0458	SEQ00458	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1887
+GV17|SEQ00382	37850791	VBIGarVag146634_0382	SEQ00382	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1887
+GV29|SEQ00546	183990509	VBIGarVag265473_0546	SEQ00546	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000027	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1887
+GV31|SEQ00903	183996946	VBIGarVag264983_0903	SEQ00903	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000062	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1887
+GV32|SEQ00606	183999120	VBIGarVag277040_0606	SEQ00606	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1887

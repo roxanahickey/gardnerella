@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00823	VBIBifAni240121_0823	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846607	956777	957286	-	510		ABC transporter related	ANI1	clust_1610
+ANI2|SEQ00822	VBIBifAni235968_0822	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849958	956780	957289	-	510		ABC transporter related	ANI2	clust_1610
+ANI3|SEQ00825	VBIBifAni108068_0825	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763972	956782	957291	-	510		ABC transporter related	ANI3	clust_1610
+BIF1|SEQ01388	VBIBifBif87902_1388	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885366	1671195	1672787	+	1593	expZ	ABC transporter related	BIF1	clust_1610
+BRE1|SEQ01466	VBIBifBre340958_1467	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604963	1731112	1732623	+	1512		ABC transporter related	BRE1	clust_1610
+BRE2|SEQ01586	VBIBifBre337368_1586	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609180	1843337	1844848	+	1512		ABC transporter related	BRE2	clust_1610
+BRE3|SEQ01540	VBIBifBre167886_1540	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194839	1802066	1803577	+	1512		ABC transporter related	BRE3	clust_1610
+BRE4|SEQ01513	VBIBifBre327712_1513	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613174	1773925	1775436	+	1512		ABC transporter related	BRE4	clust_1610
+BRE5|SEQ01662	VBIBifBre336369_1663	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617527	1869133	1870644	+	1512		ABC transporter related	BRE5	clust_1610
+BRE9|SEQ01625	VBIBifBre30019_1625	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447396	1887463	1888974	+	1512		ABC transporter related	BRE9	clust_1610
+DEN1|SEQ01561	VBIBifDen165269_1562	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460270	842400	843629	-	1230		Glutathione-regulated potassium-efflux system ATP-binding protein	DEN1	clust_1610
+DEN1|SEQ01562	VBIBifDen165269_1563	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460272	843630	843989	-	360		Glutathione-regulated potassium-efflux system ATP-binding protein	DEN1	clust_1610
+DEN2|SEQ00072	VBIBifDen39005_0072	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108438	11306	11665	+	360		Glutathione-regulated potassium-efflux system ATP-binding protein	DEN2	clust_1610
+DEN2|SEQ00074	VBIBifDen39005_0074	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108442	11832	12893	+	1062		Glutathione-regulated potassium-efflux system ATP-binding protein	DEN2	clust_1610
+THE1|SEQ00925	VBIBifThe274299_0925	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735044	1161460	1162635	+	1176		ABC transporter related	THE1	clust_1610
+THE1|SEQ00926	VBIBifThe274299_0926	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735046	1162613	1163260	+	648		hypothetical protein	THE1	clust_1610

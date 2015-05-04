@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00555	VBIGarVag247323_0555	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495256	306628	307788	-	1161		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV01	clust_0172
+GV02|SEQ00820	VBIGarVag242669_0820	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498482	39340	40500	+	1161		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV02	clust_0172
+GV03|SEQ00986	VBIGarVag247424_0986	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501418	345510	346721	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV03	clust_0172
+GV04|SEQ00650	VBIGarVag246433_0650	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481193	70641	71855	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV04	clust_0172
+GV05|SEQ01033	VBIGarVag174900_1033	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547847	758046	759257	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV05	clust_0172
+GV06|SEQ00262	VBIGarVag244004_0262	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489245	35531	36745	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV06	clust_0172
+GV07|SEQ00298	VBIGarVag249177_0298	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492213	104503	105714	+	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV07	clust_0172
+GV08|SEQ00095	VBIGarVag251521_0095	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474556	110589	111803	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV08	clust_0172
+GV09|SEQ00924	VBIGarVag169280_0924	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261055	329995	331209	-	1215	carA	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV09	clust_0172
+GV10|SEQ00806	VBIGarVag136958_0806	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147684	1050511	1051671	-	1161	carA	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV10	clust_0172
+GV11|SEQ00085	VBIGarVag171052_0085	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548436	17144	18358	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV11	clust_0172
+GV12|SEQ00248	VBIGarVag144721_0248	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853159	208547	209758	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV12	clust_0172
+GV13|SEQ00906	VBIGarVag244533_0906	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487817	20155	21369	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV13	clust_0172
+GV14|SEQ01088	VBIGarVag244375_1088	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504087	170656	171867	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV14	clust_0172
+GV15|SEQ00150	VBIGarVag249709_0150	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483791	80247	81458	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV15	clust_0172
+GV16|SEQ00871	VBIGarVag246379_0871	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478904	980178	981392	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV16	clust_0172
+GV17|SEQ00753	VBIGarVag146634_0753	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851578	62816	64027	+	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV17	clust_0172
+GV18|SEQ00192	VBIGarVag4823_0192	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000067	PATRIC	CDS	42069075	1777	2991	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV18	clust_0172
+GV19|SEQ00749	VBIGarVag39333_0750	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628396	933554	934768	+	1215	carA	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV19	clust_0172
+GV20|SEQ00794	VBIGarVag188338_0794	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190417	963281	964495	-	1215	carA	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV20	clust_0172
+GV21|SEQ00247	VBIGarVag274454_0247	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967142	17350	18564	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV21	clust_0172
+GV22|SEQ00123	VBIGarVag276801_0123	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969635	160757	161971	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV22	clust_0172
+GV23|SEQ00218	VBIGarVag276017_0218	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972740	39010	40224	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV23	clust_0172
+GV24|SEQ00952	VBIGarVag268944_0953	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977131	18888	20102	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV24	clust_0172
+GV25|SEQ00782	VBIGarVag270495_0782	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979535	101870	103030	+	1161		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV25	clust_0172
+GV26|SEQ01026	VBIGarVag272749_1026	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982932	38786	40000	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV26	clust_0172
+GV27|SEQ01088	VBIGarVag276930_1088	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986036	17882	19096	-	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV27	clust_0172
+GV28|SEQ00314	VBIGarVag271349_0314	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987295	97972	99132	+	1161		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV28	clust_0172
+GV29|SEQ00928	VBIGarVag265473_0928	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991349	95405	96565	+	1161		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV29	clust_0172
+GV30|SEQ01269	VBIGarVag267667_1271	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994811	26890	28104	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV30	clust_0172
+GV31|SEQ00508	VBIGarVag264983_0508	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996086	13314	14474	-	1161		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV31	clust_0172
+GV32|SEQ00327	VBIGarVag277040_0327	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998506	171536	172750	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV32	clust_0172
+GV33|SEQ00967	VBIGarVag265557_0967	Gardnerella vaginalis JCP8481A	ATJG01000114	PATRIC	CDS	184002776	884	2095	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV33	clust_0172
+GV34|SEQ00896	VBIGarVag270440_0896	Gardnerella vaginalis JCP8481B	ATJF01000099	PATRIC	CDS	184005446	878	2089	-	1212		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV34	clust_0172
+GV35|SEQ00200	VBIGarVag272169_0200	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006683	107723	108937	+	1215		Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)	GV35	clust_0172

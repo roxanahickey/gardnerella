@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01879	VBIBifAdo136061_1879	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190129	393670	395226	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	ADO1	clust_1368
+ANI1|SEQ01233	VBIBifAni240121_1233	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847457	1433865	1435463	+	1599		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	ANI1	clust_1368
+ANI2|SEQ01233	VBIBifAni235968_1233	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850810	1433869	1435467	+	1599		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	ANI2	clust_1368
+ANI3|SEQ01241	VBIBifAni108068_1241	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764828	1439317	1440915	+	1599		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	ANI3	clust_1368
+BRE1|SEQ01288	VBIBifBre340958_1289	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604593	1520291	1521847	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE1	clust_1368
+BRE2|SEQ01378	VBIBifBre337368_1378	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608746	1596570	1598126	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE2	clust_1368
+BRE3|SEQ00533	VBIBifBre167886_0533	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192741	646765	648342	-	1578		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE3	clust_1368
+BRE4|SEQ01325	VBIBifBre327712_1325	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612782	1546619	1548175	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE4	clust_1368
+BRE5|SEQ01453	VBIBifBre336369_1454	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617095	1631378	1632934	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE5	clust_1368
+BRE6|SEQ00217	VBIBifBre268992_0217	Bifidobacterium breve JCP7499	AWSX01000013	PATRIC	CDS	177653544	33099	34676	+	1578		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE6	clust_1368
+BRE7|SEQ01335	VBIBifBre340732_1335	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621162	1547976	1549532	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE7	clust_1368
+BRE8|SEQ01357	VBIBifBre176493_1357	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625315	1591997	1593553	+	1557	fosC	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE8	clust_1368
+BRE9|SEQ01420	VBIBifBre30019_1420	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446972	1651054	1652610	+	1557	fosC	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	BRE9	clust_1368
+DEN1|SEQ01166	VBIBifDen165269_1167	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459461	374497	376053	-	1557	scrB	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	DEN1	clust_1368
+DEN2|SEQ01378	VBIBifDen39005_1379	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS	42111144	30843	32399	-	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	DEN2	clust_1368
+INF1|SEQ01421	VBIBifLon182273_1421	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886852	1615928	1617484	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	INF1	clust_1368
+LON1|SEQ00112	VBIBifLon107831_0112	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117253	126784	128340	-	1557	cscA	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	LON1	clust_1368
+LON2|SEQ00158	VBIBifLon171405_0159	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579813	171540	173096	-	1557	sacA	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	LON2	clust_1368
+LON3|SEQ00038	VBIBifLon156230_0038	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765699	54214	55770	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	LON3	clust_1368
+LON4|SEQ01392	VBIBifLon48544_1392	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891136	1588806	1590362	+	1557		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	LON4	clust_1368
+THE1|SEQ00554	VBIBifThe274299_0554	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734286	700048	701664	-	1617		Sucrose-6-phosphate hydrolase (EC 3.2.1.26)	THE1	clust_1368

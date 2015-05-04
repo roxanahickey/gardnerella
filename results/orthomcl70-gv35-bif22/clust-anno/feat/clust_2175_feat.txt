@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00105	VBIBifAni240121_0105	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845111	127630	127935	-	306		DNA-damage-inducible protein J	ANI1	clust_2175
+ANI2|SEQ00105	VBIBifAni235968_0105	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848466	127630	127956	-	327		DNA-damage-inducible protein J	ANI2	clust_2175
+ANI3|SEQ00107	VBIBifAni108068_0107	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762482	127630	127935	-	306		DNA-damage-inducible protein J	ANI3	clust_2175
+GV06|SEQ01359	VBIGarVag244004_1359	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491551	249271	249579	-	309		DNA-damage-inducible protein J	GV06	clust_2175
+GV08|SEQ00643	VBIGarVag251521_0643	Gardnerella vaginalis 284V	ADEL01000008	PATRIC	CDS	85475705	12036	12278	-	243		FIG00671976: hypothetical protein	GV08	clust_2175
+GV11|SEQ00720	VBIGarVag171052_0720	Gardnerella vaginalis 41V	AEJE01000046	PATRIC	CDS	52549791	2357	2542	-	186		FIG00671976: hypothetical protein	GV11	clust_2175
+GV14|SEQ00795	VBIGarVag244375_0795	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503478	169237	169479	+	243		FIG00671976: hypothetical protein	GV14	clust_2175
+GV30|SEQ00391	VBIGarVag267667_0392	Gardnerella vaginalis JCP8108	ATJJ01000018	PATRIC	CDS	183992853	1046	1288	-	243		DNA-damage-inducible protein J	GV30	clust_2175
+GV35|SEQ00714	VBIGarVag272169_0714	Gardnerella vaginalis JCP8522	ATJE01000062	PATRIC	CDS	184007806	5240	5536	+	297		DNA-damage-inducible protein J	GV35	clust_2175

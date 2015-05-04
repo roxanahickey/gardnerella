@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV09|SEQ00337	VBIGarVag169280_0337	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259841	41769	42890	-	1122		hypothetical protein	GV09	clust_1654
+GV26|SEQ00805	VBIGarVag272749_0805	Gardnerella vaginalis JCP8017A	ATJN01000044	PATRIC	CDS	183982441	920	2041	+	1122		"Retron-type RNA-directed DNA polymerase "	GV26	clust_1654
+GV27|SEQ00949	VBIGarVag276930_0949	Gardnerella vaginalis JCP8017B	ATJM01000059	PATRIC	CDS	183985719	930	2051	+	1122		"Retron-type RNA-directed DNA polymerase "	GV27	clust_1654
+GV31|SEQ01255	VBIGarVag264983_1255	Gardnerella vaginalis JCP8151A	ATJI01000181	PATRIC	CDS	183997797	3905	5179	-	1275		RNA-directed DNA polymerase (Reverse transcriptase)	GV31	clust_1654
+GV32|SEQ01201	VBIGarVag277040_1201	Gardnerella vaginalis JCP8151B	ATJH01000164	PATRIC	CDS	184000477	1953	3260	+	1308		"Retron-type RNA-directed DNA polymerase "	GV32	clust_1654

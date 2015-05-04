@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01476	VBIBifBre340958_1477	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604983	1745141	1745263	+	123		putative transposase	BRE1	clust_3292
+BRE9|SEQ00347	VBIBifBre30019_0347	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444741	432344	432466	+	123		hypothetical protein	BRE9	clust_3292
+BRE9|SEQ01636	VBIBifBre30019_1636	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447418	1901492	1901614	+	123		hypothetical protein	BRE9	clust_3292

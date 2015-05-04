@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01376	86847759	VBIBifAni240121_1376	SEQ01376	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		polysaccharide biosynthesis protein	FIG00551330	figfam	clust_2282
+ANI2|SEQ01376	86851112	VBIBifAni235968_1376	SEQ01376	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		polysaccharide biosynthesis protein	FIG00551330	figfam	clust_2282
+ANI3|SEQ01386	42765132	VBIBifAni108068_1386	SEQ01386	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		polysaccharide biosynthesis protein	FIG00551330	figfam	clust_2282
+LON4|SEQ00380	46888998	VBIBifLon48544_0380	SEQ00380	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00632944: hypothetical protein	FIG01420506	figfam	clust_2282

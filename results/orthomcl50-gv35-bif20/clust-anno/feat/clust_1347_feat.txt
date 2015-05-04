@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00588	VBIBifAdo136061_0588	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187452	456662	457366	+	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	ADO1	clust_1347
+ANI1|SEQ00349	VBIBifAni240121_0349	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845614	426269	426976	+	708		response regulator of two-component system	ANI1	clust_1347
+ANI2|SEQ00348	VBIBifAni235968_0348	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848967	426271	426978	+	708		response regulator of two-component system	ANI2	clust_1347
+ANI3|SEQ00349	VBIBifAni108068_0349	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762980	426272	426979	+	708		response regulator of two-component system	ANI3	clust_1347
+BIF1|SEQ01566	VBIBifBif87902_1566	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885746	1882057	1882761	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BIF1	clust_1347
+BRE1|SEQ01655	VBIBifBre340958_1656	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605359	1928894	1929598	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE1	clust_1347
+BRE2|SEQ01760	VBIBifBre337368_1760	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609545	2029442	2030146	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE2	clust_1347
+BRE3|SEQ01713	VBIBifBre167886_1713	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195200	1986685	1987389	-	705	regX	Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE3	clust_1347
+BRE4|SEQ01694	VBIBifBre327712_1694	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613554	1961606	1962310	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE4	clust_1347
+BRE5|SEQ01816	VBIBifBre336369_1817	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617851	2032330	2033034	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE5	clust_1347
+BRE6|SEQ01375	VBIBifBre268992_1375	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177655990	26657	27427	+	771		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE6	clust_1347
+BRE7|SEQ01741	VBIBifBre340732_1741	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622005	1998133	1998837	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE7	clust_1347
+BRE8|SEQ01698	VBIBifBre176493_1698	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626031	1971517	1972221	-	705	phoP	Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE8	clust_1347
+BRE9|SEQ01806	VBIBifBre30019_1806	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447775	2075578	2076282	-	705	phoP	Phosphate regulon transcriptional regulatory protein PhoB (SphR)	BRE9	clust_1347
+INF1|SEQ00298	VBIBifLon182273_0298	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884525	376213	376917	+	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	INF1	clust_1347
+LON1|SEQ01053	VBIBifLon107831_1054	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119189	1241965	1242669	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	LON1	clust_1347
+LON2|SEQ01111	VBIBifLon171405_1113	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581775	1270834	1271538	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	LON2	clust_1347
+LON3|SEQ00927	VBIBifLon156230_0928	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768835	1861170	1861874	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	LON3	clust_1347
+LON4|SEQ00306	VBIBifLon48544_0306	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888844	378954	379658	+	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	LON4	clust_1347
+THE1|SEQ01484	VBIBifThe274299_1484	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736216	1827897	1828601	-	705		Phosphate regulon transcriptional regulatory protein PhoB (SphR)	THE1	clust_1347

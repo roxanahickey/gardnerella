@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ01046	VBIGarVag242669_1046	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498948	2988	3701	-	714		hypothetical protein	GV02	clust_1311
+GV23|SEQ00020	VBIGarVag276017_0020	Gardnerella vaginalis JCP7659	ATJQ01000004	PATRIC	CDS	183972328	8286	8999	+	714		"Phosphoglycolate phosphatase "	GV23	clust_1311
+GV25|SEQ01293	VBIGarVag270495_1293	Gardnerella vaginalis JCP7719	ATJO01000185	PATRIC	CDS	183980709	8300	9013	+	714		"Phosphoglycolate phosphatase "	GV25	clust_1311
+GV26|SEQ00334	VBIGarVag272749_0334	Gardnerella vaginalis JCP8017A	ATJN01000020	PATRIC	CDS	183981443	8269	8982	+	714		"Phosphoglycolate phosphatase "	GV26	clust_1311
+GV27|SEQ00194	VBIGarVag276930_0194	Gardnerella vaginalis JCP8017B	ATJM01000006	PATRIC	CDS	183984112	8267	8980	+	714		"Phosphoglycolate phosphatase "	GV27	clust_1311
+GV28|SEQ00111	VBIGarVag271349_0111	Gardnerella vaginalis JCP8066	ATJL01000012	PATRIC	CDS	183986878	8222	8935	+	714		"Phosphoglycolate phosphatase "	GV28	clust_1311
+GV29|SEQ00017	VBIGarVag265473_0017	Gardnerella vaginalis JCP8070	ATJK01000002	PATRIC	CDS	183989381	8367	9080	+	714		"Phosphoglycolate phosphatase "	GV29	clust_1311
+GV31|SEQ00119	VBIGarVag264983_0119	Gardnerella vaginalis JCP8151A	ATJI01000006	PATRIC	CDS	183995270	8287	9000	+	714		"Phosphoglycolate phosphatase "	GV31	clust_1311
+GV32|SEQ00354	VBIGarVag277040_0354	Gardnerella vaginalis JCP8151B	ATJH01000015	PATRIC	CDS	183998561	8287	9000	+	714		"Phosphoglycolate phosphatase "	GV32	clust_1311
+GV35|SEQ00116	VBIGarVag272169_0116	Gardnerella vaginalis JCP8522	ATJE01000004	PATRIC	CDS	184006510	8215	8928	+	714		"Phosphoglycolate phosphatase "	GV35	clust_1311

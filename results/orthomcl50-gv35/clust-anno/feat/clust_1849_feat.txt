@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV18|SEQ00266	VBIGarVag4823_0266	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000076	PATRIC	CDS	42069237	11358	11486	-	129		hypothetical protein	GV18	clust_1849
+GV19|SEQ01176	VBIGarVag39333_1178	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629267	1445183	1445311	-	129		hypothetical protein	GV19	clust_1849
+GV20|SEQ00330	VBIGarVag188338_0330	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189469	420776	420904	+	129		hypothetical protein	GV20	clust_1849

@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00964	VBIBifBif87902_0964	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884490	1175785	1177299	-	1515	galT	UDP-glucose hexose 1-phosphate uridylyltransferase	BIF1	clust_1656
+BRE1|SEQ01864	VBIBifBre340958_1866	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605795	2195045	2196556	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE1	clust_1656
+BRE2|SEQ01954	VBIBifBre337368_1954	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609950	2282047	2283558	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE2	clust_1656
+BRE3|SEQ01925	VBIBifBre167886_1925	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195647	2267897	2269408	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE3	clust_1656
+BRE4|SEQ01903	VBIBifBre327712_1903	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613990	2227876	2229387	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE4	clust_1656
+BRE5|SEQ02043	VBIBifBre336369_2044	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618323	2319884	2321395	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE5	clust_1656
+BRE6|SEQ00500	VBIBifBre268992_0500	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654134	25120	26631	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE6	clust_1656
+BRE7|SEQ01940	VBIBifBre340732_1940	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622420	2257537	2259048	-	1512		UDP-glucose hexose 1-phosphate uridylyltransferase	BRE7	clust_1656
+BRE8|SEQ01900	VBIBifBre176493_1900	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626459	2235361	2236872	-	1512	galT2	UDP-glucose hexose 1-phosphate uridylyltransferase	BRE8	clust_1656
+BRE9|SEQ02029	VBIBifBre30019_2029	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448238	2361620	2363131	-	1512	galT2	UDP-glucose hexose 1-phosphate uridylyltransferase	BRE9	clust_1656
+INF1|SEQ01727	VBIBifLon182273_1727	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887485	1971528	1973075	-	1548		UDP-glucose hexose 1-phosphate uridylyltransferase	INF1	clust_1656
+LON1|SEQ01697	VBIBifLon107831_1698	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120546	2055126	2056502	+	1377	galT2	UDP-glucose hexose 1-phosphate uridylyltransferase	LON1	clust_1656
+LON2|SEQ01731	VBIBifLon171405_1734	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583079	2078964	2080511	+	1548	galT2	UDP-glucose hexose 1-phosphate uridylyltransferase	LON2	clust_1656
+LON3|SEQ01594	VBIBifLon156230_1597	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766358	431043	432590	-	1548		UDP-glucose hexose 1-phosphate uridylyltransferase	LON3	clust_1656
+LON4|SEQ01677	VBIBifLon48544_1677	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891730	1931271	1932818	-	1548		UDP-glucose hexose 1-phosphate uridylyltransferase	LON4	clust_1656

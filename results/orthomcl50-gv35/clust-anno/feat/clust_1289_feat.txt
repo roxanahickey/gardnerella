@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00611	VBIGarVag247424_0611	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500643	183038	184279	-	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV03	clust_1289
+GV05|SEQ00630	VBIGarVag174900_0630	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547018	244064	245305	-	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV05	clust_1289
+GV07|SEQ00774	VBIGarVag249177_0774	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493205	29606	30847	+	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV07	clust_1289
+GV10|SEQ00421	VBIGarVag136958_0421	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146894	510000	511241	-	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV10	clust_1289
+GV12|SEQ00989	VBIGarVag144721_0989	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854713	574019	575203	-	1185		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV12	clust_1289
+GV14|SEQ00426	VBIGarVag244375_0426	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502708	64893	66134	-	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV14	clust_1289
+GV15|SEQ00225	VBIGarVag249709_0225	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483956	57930	59171	-	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV15	clust_1289
+GV17|SEQ00168	VBIGarVag146634_0168	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850333	109218	110402	+	1185		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV17	clust_1289
+GV33|SEQ01151	VBIGarVag265557_1151	Gardnerella vaginalis JCP8481A	ATJG01000157	PATRIC	CDS	184003204	12764	14005	+	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV33	clust_1289
+GV34|SEQ01180	VBIGarVag270440_1180	Gardnerella vaginalis JCP8481B	ATJF01000139	PATRIC	CDS	184006079	5682	6923	-	1242		probably carbamoylphosphate synthase large subunit, evidenced by COGnitor	GV34	clust_1289

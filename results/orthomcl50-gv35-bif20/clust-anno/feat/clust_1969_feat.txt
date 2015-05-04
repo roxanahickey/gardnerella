@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00141	VBIBifBre340958_0141	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602207	187838	188572	-	735		ATP-dependent DNA helicase	BRE1	clust_1969
+BRE2|SEQ00139	VBIBifBre337368_0139	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606176	182891	183883	-	993		ATP-dependent DNA helicase	BRE2	clust_1969
+BRE3|SEQ00146	VBIBifBre167886_0146	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191937	194295	195287	-	993		ATP-dependent DNA helicase	BRE3	clust_1969
+BRE4|SEQ00161	VBIBifBre327712_0161	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610362	212177	213169	-	993		ATP-dependent DNA helicase	BRE4	clust_1969
+BRE5|SEQ00154	VBIBifBre336369_0154	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614398	190725	191735	-	1011		hypothetical protein	BRE5	clust_1969
+BRE6|SEQ02068	VBIBifBre268992_2068	Bifidobacterium breve JCP7499	AWSX01000096	PATRIC	CDS	177657468	7524	8516	-	993		ATP-dependent DNA helicase	BRE6	clust_1969
+BRE7|SEQ00134	VBIBifBre340732_0134	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618666	178462	179454	-	993		ATP-dependent DNA helicase	BRE7	clust_1969
+BRE8|SEQ00161	VBIBifBre176493_0161	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622833	209892	210884	-	993		ATP-dependent DNA helicase	BRE8	clust_1969
+BRE9|SEQ00157	VBIBifBre30019_0157	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444344	210101	211093	-	993		ATP-dependent DNA helicase	BRE9	clust_1969
+LON4|SEQ01914	VBIBifLon48544_1914	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892233	2241705	2242808	+	1104		hypothetical protein	LON4	clust_1969

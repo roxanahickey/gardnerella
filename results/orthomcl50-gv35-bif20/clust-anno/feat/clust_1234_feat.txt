@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00813	VBIBifAdo136061_0813	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187926	695946	697127	+	1182		Cystathionine gamma-lyase (EC 4.4.1.1)	ADO1	clust_1234
+ANI1|SEQ00567	VBIBifAni240121_0567	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846077	666777	667952	-	1176		Cystathionine gamma-lyase (EC 4.4.1.1)	ANI1	clust_1234
+ANI2|SEQ00567	VBIBifAni235968_0567	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849431	666778	667953	-	1176		Cystathionine gamma-lyase (EC 4.4.1.1)	ANI2	clust_1234
+ANI3|SEQ00569	VBIBifAni108068_0569	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763444	666780	667955	-	1176		Cystathionine gamma-lyase (EC 4.4.1.1)	ANI3	clust_1234
+BIF1|SEQ01309	VBIBifBif87902_1309	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885198	1575715	1576902	-	1188	metB	Cystathionine gamma-lyase (EC 4.4.1.1)	BIF1	clust_1234
+BRE1|SEQ00470	VBIBifBre340958_0470	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602895	597285	598469	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	BRE1	clust_1234
+BRE2|SEQ00528	VBIBifBre337368_0528	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606983	653082	654266	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	BRE2	clust_1234
+BRE3|SEQ01335	VBIBifBre167886_1335	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194411	1539412	1540596	-	1185	metC_2	Cystathionine gamma-synthase (EC 2.5.1.48)	BRE3	clust_1234
+BRE4|SEQ00492	VBIBifBre327712_0492	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611054	629084	630268	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	BRE4	clust_1234
+BRE5|SEQ00509	VBIBifBre336369_0510	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615135	618693	619877	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	BRE5	clust_1234
+BRE6|SEQ00460	VBIBifBre268992_0460	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	177654050	47113	48297	-	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	BRE6	clust_1234
+BRE7|SEQ00499	VBIBifBre340732_0499	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619425	630698	631882	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	BRE7	clust_1234
+BRE8|SEQ00531	VBIBifBre176493_0531	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623601	674583	675767	+	1185	metB	Cystathionine gamma-synthase (EC 2.5.1.48)	BRE8	clust_1234
+BRE9|SEQ00584	VBIBifBre30019_0584	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445233	724394	725578	+	1185	metB	Cystathionine gamma-synthase (EC 2.5.1.48)	BRE9	clust_1234
+INF1|SEQ00486	VBIBifLon182273_0486	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884912	614393	615577	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	INF1	clust_1234
+LON1|SEQ00864	VBIBifLon107831_0865	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118805	1005219	1006403	-	1185	metB	Cystathionine gamma-synthase (EC 2.5.1.48)	LON1	clust_1234
+LON2|SEQ00946	VBIBifLon171405_0947	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581438	1059655	1060839	-	1185	metC3	Cystathionine gamma-synthase (EC 2.5.1.48)	LON2	clust_1234
+LON3|SEQ00739	VBIBifLon156230_0739	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768452	1622100	1623284	-	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	LON3	clust_1234
+LON4|SEQ00472	VBIBifLon48544_0472	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889184	588833	590017	+	1185		Cystathionine gamma-synthase (EC 2.5.1.48)	LON4	clust_1234
+THE1|SEQ01229	VBIBifThe274299_1229	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735680	1527459	1528793	-	1335		Cystathionine gamma-lyase (EC 4.4.1.1)	THE1	clust_1234

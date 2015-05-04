@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00835	VBIBifAdo136061_0835	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187978	723438	725420	+	1983		Putative glycosyl hydrolase of unknown function (DUF1680)	ADO1	clust_1539
+ANI1|SEQ01560	VBIBifAni240121_1560	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848156	1878563	1880578	-	2016		Putative glycosyl hydrolase of unknown function (DUF1680)	ANI1	clust_1539
+ANI2|SEQ01557	VBIBifAni235968_1557	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851502	1878786	1880801	-	2016		Putative glycosyl hydrolase of unknown function (DUF1680)	ANI2	clust_1539
+ANI3|SEQ01568	VBIBifAni108068_1569	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765524	1884018	1886033	-	2016		Putative glycosyl hydrolase of unknown function (DUF1680)	ANI3	clust_1539
+BRE1|SEQ00217	VBIBifBre340958_0217	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602370	283511	285133	+	1623		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE1	clust_1539
+BRE2|SEQ00237	VBIBifBre337368_0237	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606384	310650	312461	+	1812		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE2	clust_1539
+BRE3|SEQ00256	VBIBifBre167886_0256	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192171	334635	336446	+	1812		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE3	clust_1539
+BRE5|SEQ00239	VBIBifBre336369_0240	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614579	298003	299172	+	1170		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE5	clust_1539
+BRE7|SEQ00232	VBIBifBre340732_0232	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618874	306230	308038	+	1809		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE7	clust_1539
+BRE8|SEQ00260	VBIBifBre176493_0260	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623043	337711	339522	+	1812		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE8	clust_1539
+BRE9|SEQ00268	VBIBifBre30019_0268	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444578	353139	354194	+	1056		Putative glycosyl hydrolase of unknown function (DUF1680)	BRE9	clust_1539
+INF1|SEQ00198	VBIBifLon182273_0198	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884313	252630	254606	+	1977		Putative glycosyl hydrolase of unknown function (DUF1680)	INF1	clust_1539
+LON1|SEQ01166	VBIBifLon107831_1167	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119427	1365219	1367195	-	1977		Putative glycosyl hydrolase of unknown function (DUF1680)	LON1	clust_1539
+LON2|SEQ01201	VBIBifLon171405_1203	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581967	1379698	1381674	-	1977		Putative glycosyl hydrolase of unknown function (DUF1680)	LON2	clust_1539
+LON3|SEQ01280	VBIBifLon156230_1282	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769159	2009542	2011518	-	1977		Putative glycosyl hydrolase of unknown function (DUF1680)	LON3	clust_1539
+LON4|SEQ00218	VBIBifLon48544_0218	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888656	271750	273726	+	1977		Putative glycosyl hydrolase of unknown function (DUF1680)	LON4	clust_1539

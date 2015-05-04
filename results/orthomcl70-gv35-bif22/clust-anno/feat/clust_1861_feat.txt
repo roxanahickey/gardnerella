@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00074	VBIBifAdo136061_0074	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186340	83054	84175	-	1122		Maltose operon transcriptional repressor MalR, LacI family	ADO1	clust_1861
+BRE1|SEQ01625	VBIBifBre340958_1626	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605290	1898869	1899954	-	1086		Maltose operon transcriptional repressor MalR, LacI family	BRE1	clust_1861
+BRE2|SEQ01733	VBIBifBre337368_1733	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609482	2001403	2002515	-	1113		Maltose operon transcriptional repressor MalR, LacI family	BRE2	clust_1861
+BRE3|SEQ01686	VBIBifBre167886_1686	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195138	1958648	1959775	-	1128		Maltose operon transcriptional repressor MalR, LacI family	BRE3	clust_1861
+BRE4|SEQ01667	VBIBifBre327712_1667	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613491	1933557	1934669	-	1113		Maltose operon transcriptional repressor MalR, LacI family	BRE4	clust_1861
+BRE5|SEQ01789	VBIBifBre336369_1790	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617788	2004286	2005371	-	1086		Maltose operon transcriptional repressor MalR, LacI family	BRE5	clust_1861
+BRE6|SEQ01402	VBIBifBre268992_1402	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656054	11123	12250	+	1128		Maltose operon transcriptional repressor MalR, LacI family	BRE6	clust_1861
+BRE7|SEQ01714	VBIBifBre340732_1714	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621942	1970091	1971218	-	1128		Maltose operon transcriptional repressor MalR, LacI family	BRE7	clust_1861
+BRE8|SEQ01671	VBIBifBre176493_1671	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625968	1943473	1944600	-	1128		Maltose operon transcriptional repressor MalR, LacI family	BRE8	clust_1861
+BRE9|SEQ01779	VBIBifBre30019_1779	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447712	2047527	2048654	-	1128		Maltose operon transcriptional repressor MalR, LacI family	BRE9	clust_1861
+DEN1|SEQ01750	VBIBifDen165269_1751	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460657	1062340	1063278	+	939		Maltose operon transcriptional repressor MalR, LacI family	DEN1	clust_1861
+DEN2|SEQ00449	VBIBifDen39005_0449	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109224	79011	79997	-	987		Maltose operon transcriptional repressor MalR, LacI family	DEN2	clust_1861

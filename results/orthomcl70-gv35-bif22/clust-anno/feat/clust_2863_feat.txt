@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00321	VBIGarVag247323_0321	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494775	17615	17896	+	282		YafQ toxin protein	GV01	clust_2863
+GV14|SEQ01028	VBIGarVag244375_1028	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503964	91524	91805	-	282		YafQ toxin protein	GV14	clust_2863
+GV15|SEQ00592	VBIGarVag249709_0592	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484723	7749	8030	+	282		YafQ toxin protein	GV15	clust_2863
+GV31|SEQ00725	VBIGarVag264983_0725	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996549	6510	6791	+	282		YafQ toxin protein	GV31	clust_2863
+GV32|SEQ00595	VBIGarVag277040_0595	Gardnerella vaginalis JCP8151B	ATJH01000041	PATRIC	CDS	183999097	2338	2619	+	282		YafQ toxin protein	GV32	clust_2863

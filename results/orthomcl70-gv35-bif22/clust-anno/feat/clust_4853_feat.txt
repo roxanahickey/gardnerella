@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01002	VBIBifDen165269_1003	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459127	150421	151413	-	993	alsK	D-allose kinase (EC 2.7.1.55)	DEN1	clust_4853
+DEN2|SEQ01463	VBIBifDen39005_1464	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111315	74317	75309	+	993		D-allose kinase (EC 2.7.1.55)	DEN2	clust_4853

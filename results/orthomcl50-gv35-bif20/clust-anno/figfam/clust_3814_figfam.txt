@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01484	268605000	VBIBifBre340958_1485	SEQ01484	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake	FIG00035268	figfam	clust_3814
+BRE9|SEQ01643	58447433	VBIBifBre30019_1643	SEQ01643	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake	FIG00035268	figfam	clust_3814
+LON2|SEQ01030	42581607	VBIBifLon171405_1031	SEQ01030	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake	FIG00035268	figfam	clust_3814

@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01360	VBIBifAdo136061_1360	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189072	10220	11359	+	1140		capsular polysaccharide biosynthesis protein	ADO1	clust_1436
+BRE1|SEQ00376	VBIBifBre340958_0376	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602701	471437	472555	+	1119		capsular polysaccharide biosynthesis proteinCps4H	BRE1	clust_1436
+BRE2|SEQ00437	VBIBifBre337368_0437	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606798	525524	526612	+	1089		glycosyl transferase group 1	BRE2	clust_1436
+BRE3|SEQ00437	VBIBifBre167886_0437	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192547	542759	543889	+	1131		capsular polysaccharide biosynthesis proteinCps4H	BRE3	clust_1436
+BRE4|SEQ00396	VBIBifBre327712_0396	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610859	495525	496646	+	1122		glycosyl transferase group 1	BRE4	clust_1436
+BRE5|SEQ00414	VBIBifBre336369_0415	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614943	487361	488530	-	1170		capsular polysaccharide biosynthesis protein	BRE5	clust_1436
+BRE5|SEQ00416	VBIBifBre336369_0417	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614947	490826	491947	-	1122		hypothetical protein	BRE5	clust_1436
+BRE5|SEQ00417	VBIBifBre336369_0418	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614949	491944	493089	-	1146		Glycosyltransferase LafA, responsible for the formation of Glc-DAG	BRE5	clust_1436
+BRE5|SEQ00419	VBIBifBre336369_0420	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614953	494674	495462	+	789		glycosyl transferase group 1	BRE5	clust_1436
+BRE6|SEQ00035	VBIBifBre268992_0035	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS	177653159	11321	12448	-	1128		glycosyl transferase group 1	BRE6	clust_1436
+BRE7|SEQ00411	VBIBifBre340732_0411	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619244	506078	507136	+	1059		glycosyl transferase group 1	BRE7	clust_1436
+BRE8|SEQ00437	VBIBifBre176493_0437	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623410	543837	544925	+	1089		glycosyl transferase group 1	BRE8	clust_1436
+BRE9|SEQ00487	VBIBifBre30019_0487	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445036	586872	587915	-	1044		capsular polysaccharide biosynthesis proteinCps4H	BRE9	clust_1436
+BRE9|SEQ00489	VBIBifBre30019_0489	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445040	588372	589493	+	1122		glycosyl transferase group 1	BRE9	clust_1436
+DEN1|SEQ00967	VBIBifDen165269_0968	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459057	107343	108431	+	1089		glycosyl transferase, group 1 family protein	DEN1	clust_1436
+DEN2|SEQ01500	VBIBifDen39005_1501	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111389	117700	118452	-	753		glycosyl transferase, group 1 family protein	DEN2	clust_1436
+INF1|SEQ00392	VBIBifLon182273_0392	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884721	486330	487499	+	1170		capsular polysaccharide biosynthesis protein	INF1	clust_1436
+LON2|SEQ01034	VBIBifLon171405_1035	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581615	1177854	1178996	-	1143		hypothetical protein	LON2	clust_1436
+LON3|SEQ00841	VBIBifLon156230_0841	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768656	1757085	1758215	-	1131		capsular polysaccharide biosynthesis protein	LON3	clust_1436

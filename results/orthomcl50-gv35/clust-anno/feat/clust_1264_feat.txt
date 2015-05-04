@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00057	VBIGarVag244004_0057	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488819	59583	60335	-	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV06	clust_1264
+GV08|SEQ00705	VBIGarVag251521_0705	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475836	58431	59183	-	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV08	clust_1264
+GV09|SEQ00690	VBIGarVag169280_0690	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260575	33566	34318	+	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV09	clust_1264
+GV11|SEQ00980	VBIGarVag171052_0980	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550340	66510	67262	-	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV11	clust_1264
+GV13|SEQ01175	VBIGarVag244533_1175	Gardnerella vaginalis 55152	ADEQ01000023	PATRIC	CDS	85488401	10584	11336	-	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV13	clust_1264
+GV18|SEQ00440	VBIGarVag4823_0440	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000098	PATRIC	CDS	42069613	152	904	-	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV18	clust_1264
+GV19|SEQ01003	VBIGarVag39333_1004	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628917	1238161	1238718	-	558	fabG2	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV19	clust_1264
+GV20|SEQ00557	VBIGarVag188338_0557	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189928	664982	665734	+	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV20	clust_1264
+GV21|SEQ00418	VBIGarVag274454_0419	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967503	4049	4801	+	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV21	clust_1264
+GV24|SEQ00904	VBIGarVag268944_0905	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183977030	48507	49259	-	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV24	clust_1264
+GV30|SEQ00993	VBIGarVag267667_0995	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994182	37995	38747	+	753		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)	GV30	clust_1264

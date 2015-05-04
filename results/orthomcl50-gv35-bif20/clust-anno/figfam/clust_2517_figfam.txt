@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ01300	86885180	VBIBifBif87902_1300	SEQ01300	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2517
+INF1|SEQ00508	46884956	VBIBifLon182273_0508	SEQ00508	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		ATP-dependent DNA helicase recG (EC 3.6.1.-)	FIG01421725	figfam	clust_2517
+LON1|SEQ00845	21118767	VBIBifLon107831_0846	SEQ00845	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		ATP-dependent DNA helicase recG (EC 3.6.1.-)	FIG01421725	figfam	clust_2517
+LON2|SEQ00912	42581370	VBIBifLon171405_0913	SEQ00912	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		ATP-dependent DNA helicase recG (EC 3.6.1.-)	FIG01421725	figfam	clust_2517
+LON3|SEQ00717	42768407	VBIBifLon156230_0717	SEQ00717	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		ATP-dependent DNA helicase recG (EC 3.6.1.-)	FIG01421725	figfam	clust_2517
+LON4|SEQ00494	46889229	VBIBifLon48544_0494	SEQ00494	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		ATP-dependent DNA helicase recG (EC 3.6.1.-)	FIG01421725	figfam	clust_2517

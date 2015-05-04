@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00040	86844977	VBIBifAni240121_0040	SEQ00040	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		oxidoreductase, aldo/keto reductase family	FIG01327425	figfam	clust_3395
+ANI2|SEQ00040	86848332	VBIBifAni235968_0040	SEQ00040	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		oxidoreductase, aldo/keto reductase family	FIG01327425	figfam	clust_3395
+ANI3|SEQ00042	42762348	VBIBifAni108068_0042	SEQ00042	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		oxidoreductase, aldo/keto reductase family	FIG01327425	figfam	clust_3395

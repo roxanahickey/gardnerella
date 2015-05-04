@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01283	VBIBifAdo136061_1283	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188909	221816	222439	-	624		ADP-ribose pyrophosphatase (EC 3.6.1.13)	ADO1	clust_1237
+ANI1|SEQ00966	VBIBifAni240121_0966	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846910	1117907	1118560	-	654		ADP-ribose pyrophosphatase (EC 3.6.1.13)	ANI1	clust_1237
+ANI2|SEQ00966	VBIBifAni235968_0966	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850263	1117910	1118563	-	654		ADP-ribose pyrophosphatase (EC 3.6.1.13)	ANI2	clust_1237
+ANI3|SEQ00970	VBIBifAni108068_0970	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764277	1117911	1118564	-	654		ADP-ribose pyrophosphatase (EC 3.6.1.13)	ANI3	clust_1237
+BIF1|SEQ00742	VBIBifBif87902_0742	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884028	909369	910082	+	714	ndx	possible pyrophosphate-releasing NTPase in MutT family	BIF1	clust_1237
+BRE1|SEQ00708	VBIBifBre340958_0708	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603387	857457	858131	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE1	clust_1237
+BRE2|SEQ00804	VBIBifBre337368_0804	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607549	954308	954982	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE2	clust_1237
+BRE3|SEQ01067	VBIBifBre167886_1067	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193860	1251630	1252304	-	675		possible pyrophosphate-releasing NTPase in MutT family	BRE3	clust_1237
+BRE4|SEQ00743	VBIBifBre327712_0743	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611571	898484	899158	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE4	clust_1237
+BRE5|SEQ00759	VBIBifBre336369_0760	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615649	895773	896447	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE5	clust_1237
+BRE6|SEQ00645	VBIBifBre268992_0645	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654450	7907	8581	-	675		possible pyrophosphate-releasing NTPase in MutT family	BRE6	clust_1237
+BRE7|SEQ00753	VBIBifBre340732_0753	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619949	901585	902259	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE7	clust_1237
+BRE8|SEQ00775	VBIBifBre176493_0775	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624102	942446	943120	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE8	clust_1237
+BRE9|SEQ00826	VBIBifBre30019_0826	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445733	990008	990682	+	675		possible pyrophosphate-releasing NTPase in MutT family	BRE9	clust_1237
+DEN1|SEQ01714	VBIBifDen165269_1715	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460585	1023703	1024329	-	627		ADP-ribose pyrophosphatase (EC 3.6.1.13)	DEN1	clust_1237
+DEN2|SEQ00488	VBIBifDen39005_0488	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109302	117958	118584	+	627		ADP-ribose pyrophosphatase (EC 3.6.1.13)	DEN2	clust_1237
+INF1|SEQ00672	VBIBifLon182273_0672	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885297	824887	825561	+	675		possible pyrophosphate-releasing NTPase in MutT family	INF1	clust_1237
+LON1|SEQ00684	VBIBifLon107831_0685	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118437	798814	799488	-	675		possible pyrophosphate-releasing NTPase in MutT family	LON1	clust_1237
+LON2|SEQ00751	VBIBifLon171405_0752	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581040	839809	840483	-	675	mutT1	possible pyrophosphate-releasing NTPase in MutT family	LON2	clust_1237
+LON3|SEQ00556	VBIBifLon156230_0556	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768077	1414427	1415101	-	675		possible pyrophosphate-releasing NTPase in MutT family	LON3	clust_1237
+LON4|SEQ00663	VBIBifLon48544_0663	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889580	803483	804157	+	675		possible pyrophosphate-releasing NTPase in MutT family	LON4	clust_1237
+THE1|SEQ00884	VBIBifThe274299_0884	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734957	1101977	1102675	+	699		ADP-ribose pyrophosphatase (EC 3.6.1.13)	THE1	clust_1237

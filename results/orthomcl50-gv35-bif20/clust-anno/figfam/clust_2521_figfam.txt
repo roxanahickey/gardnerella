@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00750	86884046	VBIBifBif87902_0750	SEQ00750	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		ATP-dependent Zn protease	FIG01120704	figfam	clust_2521
+INF1|SEQ00691	46885345	VBIBifLon182273_0691	SEQ00691	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		ATP-dependent Zn protease	FIG01120704	figfam	clust_2521
+LON1|SEQ00664	21118389	VBIBifLon107831_0665	SEQ00664	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		COG4868: Uncharacterized protein conserved in bacteria	FIG01752169	figfam	clust_2521
+LON2|SEQ00740	42581010	VBIBifLon171405_0741	SEQ00740	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		ATP-dependent Zn protease	FIG01120704	figfam	clust_2521
+LON3|SEQ00537	42768030	VBIBifLon156230_0537	SEQ00537	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		COG4868: Uncharacterized protein conserved in bacteria	FIG01752169	figfam	clust_2521
+LON4|SEQ00675	46889612	VBIBifLon48544_0675	SEQ00675	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		ATP-dependent Zn protease	FIG01120704	figfam	clust_2521

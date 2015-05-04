@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00582	VBIBifBif87902_0582	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883700	714426	715319	+	894	nadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BIF1	clust_1568
+BRE1|SEQ01186	VBIBifBre340958_1186	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604381	1395549	1396442	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE1	clust_1568
+BRE2|SEQ01274	VBIBifBre337368_1274	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608531	1468747	1469640	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE2	clust_1568
+BRE3|SEQ00638	VBIBifBre167886_0638	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192959	775125	776018	+	894	nadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE3	clust_1568
+BRE4|SEQ01218	VBIBifBre327712_1218	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612560	1419301	1420194	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE4	clust_1568
+BRE5|SEQ01340	VBIBifBre336369_1341	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616861	1498976	1499869	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE5	clust_1568
+BRE6|SEQ01901	VBIBifBre268992_1901	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657115	89083	89976	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE6	clust_1568
+BRE7|SEQ01226	VBIBifBre340732_1226	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620936	1418142	1419035	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE7	clust_1568
+BRE8|SEQ01255	VBIBifBre176493_1255	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625104	1467358	1468251	-	894	nadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE8	clust_1568
+BRE9|SEQ01311	VBIBifBre30019_1311	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446746	1523551	1524444	-	894	nadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	BRE9	clust_1568
+INF1|SEQ01296	VBIBifLon182273_1296	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886596	1462567	1463460	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	INF1	clust_1568
+LON1|SEQ00236	VBIBifLon107831_0236	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117509	280656	281549	+	894	nadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	LON1	clust_1568
+LON2|SEQ00277	VBIBifLon171405_0278	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580057	323333	324226	+	894	nadC	Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	LON2	clust_1568
+LON3|SEQ01965	VBIBifLon156230_1968	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767122	895283	896176	+	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	LON3	clust_1568
+LON4|SEQ01272	VBIBifLon48544_1272	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890888	1437266	1438159	-	894		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	LON4	clust_1568
+THE1|SEQ01304	VBIBifThe274299_1304	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735834	1618900	1619754	+	855		Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	THE1	clust_1568

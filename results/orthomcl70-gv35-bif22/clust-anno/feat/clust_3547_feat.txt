@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00190	VBIBifAni240121_0190	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845284	225946	226218	+	273		Transcriptional regulator, ArsR family	ANI1	clust_3547
+ANI2|SEQ00189	VBIBifAni235968_0189	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848637	225947	226219	+	273		Transcriptional regulator, ArsR family	ANI2	clust_3547
+ANI3|SEQ00192	VBIBifAni108068_0192	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762654	225947	226219	+	273		Transcriptional regulator, ArsR family	ANI3	clust_3547

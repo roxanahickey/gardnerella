@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV10|SEQ00674	32147416	VBIGarVag136958_0674	SEQ00674	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Allantoin permease	FIG00007291	figfam	clust_2689
+GV12|SEQ00110	37852879	VBIGarVag144721_0110	SEQ00110	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Allantoin permease	FIG00007291	figfam	clust_2689
+GV15|SEQ00717	85484989	VBIGarVag249709_0717	SEQ00717	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	Allantoin permease	FIG00007291	figfam	clust_2689
+GV17|SEQ00886	37851849	VBIGarVag146634_0886	SEQ00886	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	NA	Allantoin permease	FIG00007291	figfam	clust_2689
+THE1|SEQ00905	124735002	VBIBifThe274299_0905	SEQ00905	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Hydantoin permease	FIG00139004	figfam	clust_2689

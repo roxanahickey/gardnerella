@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00111	VBIBifLon182273_0111	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884128	137708	138364	+	657		secreted alpha-amylase.	INF1	clust_2687
+LON1|SEQ01264	VBIBifLon107831_1265	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119633	1489531	1490187	-	657		secreted alpha-amylase.	LON1	clust_2687
+LON2|SEQ01291	VBIBifLon171405_1294	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582157	1495924	1496580	-	657		secreted alpha-amylase.	LON2	clust_2687
+LON3|SEQ01368	VBIBifLon156230_1371	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769345	2125642	2126298	-	657		secreted alpha-amylase.	LON3	clust_2687
+LON4|SEQ00120	VBIBifLon48544_0120	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888447	153058	153714	+	657		secreted alpha-amylase.	LON4	clust_2687

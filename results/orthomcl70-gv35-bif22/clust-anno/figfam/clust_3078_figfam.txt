@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE7|SEQ01846	268622223	VBIBifBre340732_1846	SEQ01846	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Sugar-binding periplasmic protein	FIG00972081	figfam	clust_3078
+DEN1|SEQ01447	43460024	VBIBifDen165269_1448	SEQ01447	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3078
+DEN2|SEQ00193	42108702	VBIBifDen39005_0193	SEQ00193	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3078

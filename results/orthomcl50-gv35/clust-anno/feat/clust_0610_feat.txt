@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00150	VBIGarVag247323_0150	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494407	11108	12910	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV01	clust_0610
+GV02|SEQ00423	VBIGarVag242669_0423	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497635	3593	5395	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV02	clust_0610
+GV03|SEQ00691	VBIGarVag247424_0691	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500806	63331	65097	-	1767		Lipid A export ATP-binding/permease protein MsbA	GV03	clust_0610
+GV04|SEQ00823	VBIGarVag246433_0823	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481545	154231	156015	+	1785		Lipid A export ATP-binding/permease protein MsbA	GV04	clust_0610
+GV05|SEQ00746	VBIGarVag174900_0746	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547251	365380	367146	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV05	clust_0610
+GV06|SEQ00043	VBIGarVag244004_0043	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488791	44865	46631	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV06	clust_0610
+GV07|SEQ00666	VBIGarVag249177_0666	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492984	48029	49795	-	1767		Lipid A export ATP-binding/permease protein MsbA	GV07	clust_0610
+GV08|SEQ00716	VBIGarVag251521_0716	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475858	69018	70784	-	1767		Lipid A export ATP-binding/permease protein MsbA	GV08	clust_0610
+GV09|SEQ00681	VBIGarVag169280_0681	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260557	21997	23634	+	1638		Lipid A export ATP-binding/permease protein MsbA	GV09	clust_0610
+GV10|SEQ00483	VBIGarVag136958_0483	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147018	596460	598073	+	1614		Lipid A export ATP-binding/permease protein MsbA	GV10	clust_0610
+GV11|SEQ00299	VBIGarVag171052_0299	Gardnerella vaginalis 41V	AEJE01000022	PATRIC	CDS	52548898	13598	15364	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV11	clust_0610
+GV12|SEQ01063	VBIGarVag144721_1063	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854863	48102	49715	+	1614		Lipid A export ATP-binding/permease protein MsbA	GV12	clust_0610
+GV13|SEQ00964	VBIGarVag244533_0964	Gardnerella vaginalis 55152	ADEQ01000013	PATRIC	CDS	85487937	31151	32917	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV13	clust_0610
+GV14|SEQ00489	VBIGarVag244375_0489	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502835	125244	127046	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV14	clust_0610
+GV15|SEQ01150	VBIGarVag249709_1150	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485901	53710	55476	-	1767		Lipid A export ATP-binding/permease protein MsbA	GV15	clust_0610
+GV16|SEQ00617	VBIGarVag246379_0617	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478382	668597	670381	+	1785		Lipid A export ATP-binding/permease protein MsbA	GV16	clust_0610
+GV17|SEQ01065	VBIGarVag146634_1065	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852224	243598	245211	-	1614		Lipid A export ATP-binding/permease protein MsbA	GV17	clust_0610
+GV18|SEQ00449	VBIGarVag4823_0449	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000098	PATRIC	CDS	42069631	10764	12572	-	1809		Lipid A export ATP-binding/permease protein MsbA	GV18	clust_0610
+GV19|SEQ01015	VBIGarVag39333_1016	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628941	1248777	1250219	-	1443	mdlB	Lipid A export ATP-binding/permease protein MsbA	GV19	clust_0610
+GV20|SEQ00547	VBIGarVag188338_0547	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189908	653423	655225	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV20	clust_0610
+GV21|SEQ00327	VBIGarVag274454_0327	Gardnerella vaginalis JCP7275	ATJS01000012	PATRIC	CDS	183967309	7579	9363	-	1785		Lipid A export ATP-binding/permease protein MsbA	GV21	clust_0610
+GV22|SEQ00310	VBIGarVag276801_0311	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970037	23061	24863	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV22	clust_0610
+GV23|SEQ00513	VBIGarVag276017_0513	Gardnerella vaginalis JCP7659	ATJQ01000039	PATRIC	CDS	183973381	11143	12945	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV23	clust_0610
+GV24|SEQ00913	VBIGarVag268944_0914	Gardnerella vaginalis JCP7672	ATJP01000082	PATRIC	CDS	183977049	5902	7686	-	1785		Lipid A export ATP-binding/permease protein MsbA	GV24	clust_0610
+GV25|SEQ00831	VBIGarVag270495_0831	Gardnerella vaginalis JCP7719	ATJO01000068	PATRIC	CDS	183979637	15642	17444	-	1803		Lipid A export ATP-binding/permease protein MsbA	GV25	clust_0610
+GV26|SEQ00271	VBIGarVag272749_0271	Gardnerella vaginalis JCP8017A	ATJN01000013	PATRIC	CDS	183981306	11731	13533	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV26	clust_0610
+GV27|SEQ00823	VBIGarVag276930_0823	Gardnerella vaginalis JCP8017B	ATJM01000041	PATRIC	CDS	183985443	13473	15275	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV27	clust_0610
+GV28|SEQ01144	VBIGarVag271349_1144	Gardnerella vaginalis JCP8066	ATJL01000175	PATRIC	CDS	183989187	19191	20957	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV28	clust_0610
+GV29|SEQ00714	VBIGarVag265473_0714	Gardnerella vaginalis JCP8070	ATJK01000046	PATRIC	CDS	183990886	19992	21776	+	1785		Lipid A export ATP-binding/permease protein MsbA	GV29	clust_0610
+GV30|SEQ00527	VBIGarVag267667_0528	Gardnerella vaginalis JCP8108	ATJJ01000027	PATRIC	CDS	183993150	26103	27869	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV30	clust_0610
+GV31|SEQ00147	VBIGarVag264983_0147	Gardnerella vaginalis JCP8151A	ATJI01000007	PATRIC	CDS	183995327	22252	24018	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV31	clust_0610
+GV32|SEQ00140	VBIGarVag277040_0140	Gardnerella vaginalis JCP8151B	ATJH01000009	PATRIC	CDS	183998117	22170	23936	+	1767		Lipid A export ATP-binding/permease protein MsbA	GV32	clust_0610
+GV33|SEQ01073	VBIGarVag265557_1073	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003024	7541	9289	+	1749		Lipid A export ATP-binding/permease protein MsbA	GV33	clust_0610
+GV34|SEQ01145	VBIGarVag270440_1145	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005996	36840	38588	-	1749		Lipid A export ATP-binding/permease protein MsbA	GV34	clust_0610
+GV35|SEQ00895	VBIGarVag272169_0895	Gardnerella vaginalis JCP8522	ATJE01000095	PATRIC	CDS	184008221	10423	12225	+	1803		Lipid A export ATP-binding/permease protein MsbA	GV35	clust_0610

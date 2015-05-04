@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ01110	VBIGarVag144721_1110	Gardnerella vaginalis 5-1	NZ_ADAN01000019	PATRIC	CDS	37854969	43	402	+	360		Transcriptional regulator, LysR family	GV12	clust_1968
+GV17|SEQ00461	VBIGarVag146634_0461	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850955	458491	461391	-	2901		hypothetical protein	GV17	clust_1968

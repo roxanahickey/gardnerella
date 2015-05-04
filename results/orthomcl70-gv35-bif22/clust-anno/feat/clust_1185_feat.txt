@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00426	VBIBifAdo136061_0426	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187115	256957	258837	+	1881		Ubiquinone biosynthesis monooxygenase UbiB	ADO1	clust_1185
+ANI1|SEQ00195	VBIBifAni240121_0195	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845294	230643	232793	+	2151	ubiB	Ubiquinone biosynthesis monooxygenase UbiB	ANI1	clust_1185
+ANI2|SEQ00194	VBIBifAni235968_0194	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848647	230644	232794	+	2151	ubiB	Ubiquinone biosynthesis monooxygenase UbiB	ANI2	clust_1185
+ANI3|SEQ00197	VBIBifAni108068_0197	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762664	230644	232794	+	2151		Ubiquinone biosynthesis monooxygenase UbiB	ANI3	clust_1185
+BIF1|SEQ01666	VBIBifBif87902_1666	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885952	2004069	2005880	-	1812		Ubiquinone biosynthesis monooxygenase UbiB	BIF1	clust_1185
+BRE1|SEQ00215	VBIBifBre340958_0215	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602366	281005	282825	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE1	clust_1185
+BRE2|SEQ00236	VBIBifBre337368_0236	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606381	308223	310043	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE2	clust_1185
+BRE3|SEQ00255	VBIBifBre167886_0255	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192168	332208	334028	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE3	clust_1185
+BRE4|SEQ00233	VBIBifBre327712_0233	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610517	306032	307852	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE4	clust_1185
+BRE5|SEQ00237	VBIBifBre336369_0238	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614575	295499	297319	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE5	clust_1185
+BRE6|SEQ02023	VBIBifBre268992_2023	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657370	1125	2945	-	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE6	clust_1185
+BRE7|SEQ00231	VBIBifBre340732_0231	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618871	303803	305623	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE7	clust_1185
+BRE8|SEQ00258	VBIBifBre176493_0258	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623038	335284	337104	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE8	clust_1185
+BRE9|SEQ00265	VBIBifBre30019_0265	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444572	350560	352380	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	BRE9	clust_1185
+DEN1|SEQ00503	VBIBifDen165269_0504	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462298	1914180	1916006	-	1827		Ubiquinone biosynthesis monooxygenase UbiB	DEN1	clust_1185
+DEN2|SEQ01340	VBIBifDen39005_1341	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111065	67878	69704	-	1827		Ubiquinone biosynthesis monooxygenase UbiB	DEN2	clust_1185
+INF1|SEQ00193	VBIBifLon182273_0193	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884303	245748	247568	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	INF1	clust_1185
+LON1|SEQ01171	VBIBifLon107831_1172	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119437	1372099	1373919	-	1821		Ubiquinone biosynthesis monooxygenase UbiB	LON1	clust_1185
+LON2|SEQ01206	VBIBifLon171405_1208	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581977	1386737	1388557	-	1821	aarF	Ubiquinone biosynthesis monooxygenase UbiB	LON2	clust_1185
+LON3|SEQ01285	VBIBifLon156230_1287	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769169	2016581	2018401	-	1821		Ubiquinone biosynthesis monooxygenase UbiB	LON3	clust_1185
+LON4|SEQ00213	VBIBifLon48544_0213	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888646	265026	266846	+	1821		Ubiquinone biosynthesis monooxygenase UbiB	LON4	clust_1185
+THE1|SEQ00205	VBIBifThe274299_0205	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733575	244970	246955	+	1986		Ubiquinone biosynthesis monooxygenase UbiB	THE1	clust_1185

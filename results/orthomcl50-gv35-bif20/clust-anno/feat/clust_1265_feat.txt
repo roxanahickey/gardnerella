@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01313	VBIBifAdo136061_1313	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188971	257784	258671	+	888		COG1272: Predicted membrane protein hemolysin III homolog	ADO1	clust_1265
+ANI1|SEQ00996	VBIBifAni240121_0996	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846972	1154726	1155610	+	885		COG1272: Predicted membrane protein hemolysin III homolog	ANI1	clust_1265
+ANI2|SEQ00996	VBIBifAni235968_0996	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850325	1154729	1155613	+	885		COG1272: Predicted membrane protein hemolysin III homolog	ANI2	clust_1265
+ANI3|SEQ01000	VBIBifAni108068_1000	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764339	1154730	1155614	+	885		COG1272: Predicted membrane protein hemolysin III homolog	ANI3	clust_1265
+BIF1|SEQ00711	VBIBifBif87902_0711	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883962	872289	873176	-	888		COG1272: Predicted membrane protein hemolysin III homolog	BIF1	clust_1265
+BRE1|SEQ00677	VBIBifBre340958_0677	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603321	821013	821957	-	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE1	clust_1265
+BRE2|SEQ00773	VBIBifBre337368_0773	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607483	917836	918780	-	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE2	clust_1265
+BRE3|SEQ01098	VBIBifBre167886_1098	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193927	1287801	1288778	+	978		COG1272: Predicted membrane protein hemolysin III homolog	BRE3	clust_1265
+BRE4|SEQ00712	VBIBifBre327712_0712	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611505	862009	862953	-	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE4	clust_1265
+BRE5|SEQ00728	VBIBifBre336369_0729	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615583	859291	860235	-	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE5	clust_1265
+BRE6|SEQ00676	VBIBifBre268992_0676	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654516	44110	45054	+	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE6	clust_1265
+BRE7|SEQ00722	VBIBifBre340732_0722	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619883	865112	866089	-	978		COG1272: Predicted membrane protein hemolysin III homolog	BRE7	clust_1265
+BRE8|SEQ00744	VBIBifBre176493_0744	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624036	905972	906916	-	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE8	clust_1265
+BRE9|SEQ00795	VBIBifBre30019_0795	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445667	953534	954478	-	945		COG1272: Predicted membrane protein hemolysin III homolog	BRE9	clust_1265
+INF1|SEQ00639	VBIBifLon182273_0639	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885227	786868	787812	-	945		COG1272: Predicted membrane protein hemolysin III homolog	INF1	clust_1265
+LON1|SEQ00717	VBIBifLon107831_0718	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118505	836596	837507	+	912		COG1272: Predicted membrane protein hemolysin III homolog	LON1	clust_1265
+LON2|SEQ00782	VBIBifLon171405_0783	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581104	877558	878502	+	945		COG1272: Predicted membrane protein hemolysin III homolog	LON2	clust_1265
+LON3|SEQ00588	VBIBifLon156230_0588	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768143	1452178	1453122	+	945		COG1272: Predicted membrane protein hemolysin III homolog	LON3	clust_1265
+LON4|SEQ00632	VBIBifLon48544_0632	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889514	765460	766404	-	945		COG1272: Predicted membrane protein hemolysin III homolog	LON4	clust_1265
+THE1|SEQ00845	VBIBifThe274299_0845	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734876	1053726	1054622	-	897		COG1272: Predicted membrane protein hemolysin III homolog	THE1	clust_1265

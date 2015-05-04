@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV09|SEQ00367	55259901	VBIGarVag169280_0367	SEQ00367	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	Single-stranded DNA-binding protein	GO:0003697	single-stranded DNA binding	go	clust_1652
+GV26|SEQ00077	183980889	VBIGarVag272749_0077	SEQ00077	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	NA	Single-stranded DNA-binding protein	GO:0003697	single-stranded DNA binding	go	clust_1652
+GV27|SEQ00067	183983845	VBIGarVag276930_0067	SEQ00067	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	NA	Single-stranded DNA-binding protein	GO:0003697	single-stranded DNA binding	go	clust_1652
+GV31|SEQ00490	183996049	VBIGarVag264983_0490	SEQ00490	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000019	PATRIC	CDS	NA	Single-stranded DNA-binding protein	GO:0003697	single-stranded DNA binding	go	clust_1652
+GV32|SEQ00759	183999446	VBIGarVag277040_0759	SEQ00759	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000050	PATRIC	CDS	NA	Single-stranded DNA-binding protein	GO:0003697	single-stranded DNA binding	go	clust_1652

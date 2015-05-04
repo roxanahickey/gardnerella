@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00636	VBIGarVag246433_0636	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481165	54312	54434	-	123		"Type I restriction-modification system, specificity subunit S "	GV04	clust_2183
+GV16|SEQ00857	VBIGarVag246379_0857	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478875	963868	963990	-	123		"Type I restriction-modification system, specificity subunit S "	GV16	clust_2183
+GV18|SEQ01123	VBIGarVag4823_1123	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071076	14283	14405	+	123		"Type I restriction-modification system, specificity subunit S "	GV18	clust_2183
+GV19|SEQ00763	VBIGarVag39333_0764	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628424	950974	951096	+	123		"Type I restriction-modification system, specificity subunit S "	GV19	clust_2183
+GV20|SEQ00779	VBIGarVag188338_0779	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190387	946964	947083	-	120		"Type I restriction-modification system, specificity subunit S "	GV20	clust_2183
+GV21|SEQ00233	VBIGarVag274454_0233	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967114	1039	1158	-	120		"Type I restriction-modification system, specificity subunit S "	GV21	clust_2183
+GV22|SEQ00137	VBIGarVag276801_0137	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969663	178171	178293	+	123		"Type I restriction-modification system, specificity subunit S "	GV22	clust_2183
+GV24|SEQ00938	VBIGarVag268944_0939	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977103	2560	2682	-	123		"Type I restriction-modification system, specificity subunit S "	GV24	clust_2183

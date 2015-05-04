@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01369	VBIBifBre340958_1370	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604755	1610425	1610655	-	231		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	BRE1	clust_3242
+GV23|SEQ00502	VBIGarVag276017_0502	Gardnerella vaginalis JCP7659	ATJQ01000039	PATRIC	CDS	183973359	12	482	-	471		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV23	clust_3242
+LON3|SEQ01062	VBIBifLon156230_1064	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765995	218182	219267	-	1086		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	LON3	clust_3242
+LON4|SEQ01535	VBIBifLon48544_1535	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891427	1755309	1756400	+	1092		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	LON4	clust_3242

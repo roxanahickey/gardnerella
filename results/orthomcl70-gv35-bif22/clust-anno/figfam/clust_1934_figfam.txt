@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01181	268604371	VBIBifBre340958_1181	SEQ01181	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE2|SEQ01269	268608521	VBIBifBre337368_1269	SEQ01269	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE3|SEQ00643	54192969	VBIBifBre167886_0643	SEQ00643	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE4|SEQ01213	268612550	VBIBifBre327712_1213	SEQ01213	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE5|SEQ01333	268616846	VBIBifBre336369_1334	SEQ01333	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE6|SEQ01896	177657105	VBIBifBre268992_1896	SEQ01896	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE7|SEQ01221	268620926	VBIBifBre340732_1221	SEQ01221	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE8|SEQ01250	268625094	VBIBifBre176493_1250	SEQ01250	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+BRE9|SEQ01306	58446736	VBIBifBre30019_1306	SEQ01306	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+DEN1|SEQ01616	43460385	VBIBifDen165269_1617	SEQ01616	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934
+DEN2|SEQ00588	42109506	VBIBifDen39005_0588	SEQ00588	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS		Transcriptional regulator, PadR family	FIG00002474	figfam	clust_1934

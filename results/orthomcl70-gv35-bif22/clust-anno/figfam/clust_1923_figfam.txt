@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00365	268602679	VBIBifBre340958_0365	SEQ00365	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE2|SEQ00427	268606778	VBIBifBre337368_0427	SEQ00427	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE3|SEQ00424	54192520	VBIBifBre167886_0424	SEQ00424	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE4|SEQ00374	268610814	VBIBifBre327712_0374	SEQ00374	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE6|SEQ00338	177653796	VBIBifBre268992_0338	SEQ00338	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE7|SEQ00400	268619222	VBIBifBre340732_0400	SEQ00400	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE8|SEQ00427	268623390	VBIBifBre176493_0427	SEQ00427	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	galA	Putative galactosidase	FIG00629800	figfam	clust_1923
+BRE9|SEQ00468	58444998	VBIBifBre30019_0468	SEQ00468	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+INF1|SEQ00364	46884664	VBIBifLon182273_0364	SEQ00364	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+LON1|SEQ00991	21119059	VBIBifLon107831_0992	SEQ00991	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923
+LON3|SEQ00854	42768683	VBIBifLon156230_0854	SEQ00854	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Putative galactosidase	FIG00629800	figfam	clust_1923

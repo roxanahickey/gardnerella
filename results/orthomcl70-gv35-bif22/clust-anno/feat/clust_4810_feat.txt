@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00831	VBIBifDen165269_0832	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462970	2354072	2355583	+	1512	xylB2	Beta-xylosidase (EC 3.2.1.37)	DEN1	clust_4810
+DEN2|SEQ00349	VBIBifDen39005_0349	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109021	76152	77663	-	1512		Beta-xylosidase (EC 3.2.1.37)	DEN2	clust_4810

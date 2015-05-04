@@ -1,0 +1,14 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ02010	27190405	VBIBifAdo136061_2010	SEQ02010	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Predicted outer membrane protein	FIG00799454	figfam	clust_1784
+BRE1|SEQ00109	268602143	VBIBifBre340958_0109	SEQ00109	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE2|SEQ00105	268606108	VBIBifBre337368_0105	SEQ00105	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE3|SEQ00108	54191861	VBIBifBre167886_0108	SEQ00108	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE4|SEQ00129	268610298	VBIBifBre327712_0129	SEQ00129	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE5|SEQ00115	268614319	VBIBifBre336369_0115	SEQ00115	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE6|SEQ01249	177655719	VBIBifBre268992_1249	SEQ01249	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000060	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE7|SEQ00101	268618600	VBIBifBre340732_0101	SEQ00101	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE8|SEQ00127	268622765	VBIBifBre176493_0127	SEQ00127	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+BRE9|SEQ00125	58444280	VBIBifBre30019_0125	SEQ00125	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784
+DEN1|SEQ00779	43462864	VBIBifDen165269_0780	SEQ00779	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Predicted outer membrane protein	FIG00799454	figfam	clust_1784
+DEN2|SEQ01040	42110435	VBIBifDen39005_1040	SEQ01040	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS		Predicted outer membrane protein	FIG00799454	figfam	clust_1784
+THE1|SEQ00461	124734098	VBIBifThe274299_0461	SEQ00461	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1784

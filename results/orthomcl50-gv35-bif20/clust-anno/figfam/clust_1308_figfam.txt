@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01198	268604405	VBIBifBre340958_1198	SEQ01198	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE1|SEQ01199	268604407	VBIBifBre340958_1199	SEQ01199	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Spermidine synthase (EC 2.5.1.16)	FIG00000642	figfam	clust_1308
+BRE2|SEQ01288	268608559	VBIBifBre337368_1288	SEQ01288	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE2|SEQ01289	268608561	VBIBifBre337368_1289	SEQ01289	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE3|SEQ00623	54192929	VBIBifBre167886_0623	SEQ00623	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE3|SEQ00624	54192931	VBIBifBre167886_0624	SEQ00624	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE4|SEQ01230	268612584	VBIBifBre327712_1230	SEQ01230	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE4|SEQ01231	268612586	VBIBifBre327712_1231	SEQ01231	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE5|SEQ01352	268616885	VBIBifBre336369_1353	SEQ01352	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE6|SEQ01915	177657143	VBIBifBre268992_1915	SEQ01915	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE6|SEQ01916	177657145	VBIBifBre268992_1916	SEQ01916	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE7|SEQ01240	268620964	VBIBifBre340732_1240	SEQ01240	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE8|SEQ01267	268625128	VBIBifBre176493_1267	SEQ01267	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE9|SEQ01323	58446770	VBIBifBre30019_1323	SEQ01323	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+BRE9|SEQ01324	58446772	VBIBifBre30019_1324	SEQ01324	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+INF1|SEQ01309	46886622	VBIBifLon182273_1309	SEQ01309	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+LON1|SEQ00223	21117483	VBIBifLon107831_0223	SEQ00223	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+LON2|SEQ00263	42580029	VBIBifLon171405_0264	SEQ00263	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+LON3|SEQ01951	42767094	VBIBifLon156230_1954	SEQ01951	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308
+LON4|SEQ01285	46890914	VBIBifLon48544_1285	SEQ01285	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Spermidine synthase-like protein	FIG01313291	figfam	clust_1308

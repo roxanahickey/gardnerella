@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00966	VBIBifAdo136061_0966	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188246	876645	877415	-	771		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	ADO1	clust_1655
+BRE1|SEQ00908	VBIBifBre340958_0908	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603802	1079328	1080071	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE1	clust_1655
+BRE2|SEQ00999	VBIBifBre337368_0999	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607957	1174364	1175107	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE2	clust_1655
+BRE3|SEQ00883	VBIBifBre167886_0883	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193476	1044770	1045513	+	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE3	clust_1655
+BRE4|SEQ01053	VBIBifBre327712_1053	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612223	1223473	1224216	+	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE4	clust_1655
+BRE5|SEQ01052	VBIBifBre336369_1053	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616261	1185989	1186732	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE5	clust_1655
+BRE6|SEQ00605	VBIBifBre268992_0605	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654359	5226	5969	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE6	clust_1655
+BRE7|SEQ00951	VBIBifBre340732_0951	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620363	1120228	1120971	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE7	clust_1655
+BRE8|SEQ00969	VBIBifBre176493_0969	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624506	1156459	1157202	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE8	clust_1655
+BRE9|SEQ01034	VBIBifBre30019_1034	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446166	1219540	1220283	-	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	BRE9	clust_1655
+INF1|SEQ00749	VBIBifLon182273_0749	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885467	919056	919934	-	879		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	INF1	clust_1655
+LON1|SEQ00503	VBIBifLon107831_0504	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118061	586569	587312	+	744		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	LON1	clust_1655
+LON1|SEQ00623	VBIBifLon107831_0624	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118303	719882	720703	+	822		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	LON1	clust_1655
+LON2|SEQ00687	VBIBifLon171405_0688	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580900	758032	758910	+	879		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	LON2	clust_1655
+LON3|SEQ00492	VBIBifLon156230_0492	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767936	1330535	1331356	+	822		COG family: dihydroxyacid dehydratase/phosphogluconate dehydratase	LON3	clust_1655

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00813	VBIGarVag247424_0813	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501059	126540	126740	+	201		hypothetical protein	GV03	clust_1871
+GV05|SEQ00864	VBIGarVag174900_0864	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547496	545318	545506	+	189		streptococcal hemagglutinin protein	GV05	clust_1871
+GV14|SEQ00335	VBIGarVag244375_0335	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502514	172711	172899	+	189		streptococcal hemagglutinin protein	GV14	clust_1871

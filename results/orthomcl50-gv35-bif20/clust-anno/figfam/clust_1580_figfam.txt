@@ -1,0 +1,17 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01953	27190283	VBIBifAdo136061_1953	SEQ01953	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BIF1|SEQ00419	86883369	VBIBifBif87902_0419	SEQ00419	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE1|SEQ01403	268604825	VBIBifBre340958_1404	SEQ01403	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE2|SEQ01519	268609034	VBIBifBre337368_1519	SEQ01519	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE3|SEQ01478	54194702	VBIBifBre167886_1478	SEQ01478	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE4|SEQ01444	268613024	VBIBifBre327712_1444	SEQ01444	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE5|SEQ01596	268617383	VBIBifBre336369_1597	SEQ01596	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE6|SEQ00939	177655068	VBIBifBre268992_0939	SEQ00939	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE7|SEQ01473	268621441	VBIBifBre340732_1473	SEQ01473	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE8|SEQ01496	268625600	VBIBifBre176493_1496	SEQ01496	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	ppx	Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+BRE9|SEQ01560	58447254	VBIBifBre30019_1560	SEQ01560	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+INF1|SEQ01614	46887244	VBIBifLon182273_1614	SEQ01614	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+LON1|SEQ01797	21120758	VBIBifLon107831_1798	SEQ01797	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+LON2|SEQ01836	42583301	VBIBifLon171405_1839	SEQ01836	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+LON3|SEQ01106	42766086	VBIBifLon156230_1108	SEQ01106	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580
+LON4|SEQ01574	46891508	VBIBifLon48544_1574	SEQ01574	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Exopolyphosphatase (EC 3.6.1.11)	FIG00066575	figfam	clust_1580

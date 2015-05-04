@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00563	VBIBifBre340958_0563	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603086	694407	696248	+	1842		Sensory box/GGDEF family protein	BRE1	clust_1976
+BRE2|SEQ00659	VBIBifBre337368_0659	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607250	789507	791963	+	2457		Sensory box/GGDEF family protein	BRE2	clust_1976
+BRE3|SEQ01213	VBIBifBre167886_1213	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194162	1416029	1418227	-	2199		Sensory box/GGDEF family protein	BRE3	clust_1976
+BRE4|SEQ00599	VBIBifBre327712_0599	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611273	736488	738944	+	2457		Sensory box/GGDEF family protein	BRE4	clust_1976
+BRE5|SEQ00618	VBIBifBre336369_0619	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615358	734285	736741	+	2457		Sensory box/GGDEF family protein	BRE5	clust_1976
+BRE6|SEQ01137	VBIBifBre268992_1137	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655486	77451	79391	-	1941		Sensory box/GGDEF family protein	BRE6	clust_1976
+BRE7|SEQ00612	VBIBifBre340732_0612	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619658	739547	742003	+	2457		Sensory box/GGDEF family protein	BRE7	clust_1976
+BRE8|SEQ00634	VBIBifBre176493_0634	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623811	780558	782870	+	2313		hypothetical protein	BRE8	clust_1976
+BRE9|SEQ00681	VBIBifBre30019_0681	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445433	824281	826734	+	2454		GGDEF/EAL/PAS domain containing protein	BRE9	clust_1976
+THE1|SEQ01663	VBIBifThe274299_1663	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736593	2062687	2065281	+	2595		hypothetical protein	THE1	clust_1976

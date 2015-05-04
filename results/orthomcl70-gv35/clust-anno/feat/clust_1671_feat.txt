@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00675	VBIGarVag136958_0675	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147418	874958	876334	+	1377	allB	Allantoinase (EC 3.5.2.5)	GV10	clust_1671
+GV12|SEQ00111	VBIGarVag144721_0111	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852881	42101	43477	+	1377		Allantoinase (EC 3.5.2.5)	GV12	clust_1671
+GV15|SEQ00718	VBIGarVag249709_0718	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484991	189274	190650	+	1377		Allantoinase (EC 3.5.2.5)	GV15	clust_1671
+GV17|SEQ00885	VBIGarVag146634_0885	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851847	100410	101786	-	1377		Allantoinase (EC 3.5.2.5)	GV17	clust_1671

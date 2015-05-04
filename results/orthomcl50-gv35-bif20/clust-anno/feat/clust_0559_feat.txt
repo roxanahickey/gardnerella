@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01207	VBIGarVag247323_1207	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496616	229609	230826	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV01	clust_0559
+GV02|SEQ00245	VBIGarVag242669_0245	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497265	33903	35120	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV02	clust_0559
+GV03|SEQ00824	VBIGarVag247424_0824	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501081	140659	141915	+	1257		COG1524: Uncharacterized proteins of the AP superfamily	GV03	clust_0559
+GV04|SEQ01150	VBIGarVag246433_1150	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482227	62936	64138	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV04	clust_0559
+GV05|SEQ00867	VBIGarVag174900_0867	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547502	550836	552092	+	1257		COG1524: Uncharacterized proteins of the AP superfamily	GV05	clust_0559
+GV06|SEQ00904	VBIGarVag244004_0904	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490613	288025	289227	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV06	clust_0559
+GV07|SEQ00628	VBIGarVag249177_0628	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492907	141745	143001	+	1257		COG1524: Uncharacterized proteins of the AP superfamily	GV07	clust_0559
+GV08|SEQ00460	VBIGarVag251521_0460	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475326	329546	330748	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV08	clust_0559
+GV09|SEQ01132	VBIGarVag169280_1132	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261490	63022	64224	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV09	clust_0559
+GV10|SEQ00616	VBIGarVag136958_0616	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147292	793285	794544	+	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV10	clust_0559
+GV11|SEQ00525	VBIGarVag171052_0525	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549378	3148	4350	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV11	clust_0559
+GV12|SEQ01257	VBIGarVag144721_1257	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855346	144563	145822	+	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV12	clust_0559
+GV13|SEQ00696	VBIGarVag244533_0696	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487376	132700	133902	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV13	clust_0559
+GV14|SEQ00341	VBIGarVag244375_0341	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502526	181235	182524	+	1290		COG1524: Uncharacterized proteins of the AP superfamily	GV14	clust_0559
+GV15|SEQ00676	VBIGarVag249709_0676	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484899	140139	141398	+	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV15	clust_0559
+GV16|SEQ00998	VBIGarVag246379_0998	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479174	1139744	1140946	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV16	clust_0559
+GV17|SEQ00934	VBIGarVag146634_0934	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851954	52759	54018	-	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV17	clust_0559
+GV18|SEQ00137	VBIGarVag4823_0137	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000057	PATRIC	CDS	42068955	4	825	+	822		COG1524: Uncharacterized proteins of the AP superfamily	GV18	clust_0559
+GV19|SEQ00616	VBIGarVag39333_0617	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628116	772436	773638	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV19	clust_0559
+GV20|SEQ00909	VBIGarVag188338_0909	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190663	1112250	1113452	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV20	clust_0559
+GV21|SEQ00518	VBIGarVag274454_0519	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967709	77984	79177	-	1194		COG1524: Uncharacterized proteins of the AP superfamily	GV21	clust_0559
+GV22|SEQ00002	VBIGarVag276801_0002	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969378	2985	4187	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV22	clust_0559
+GV23|SEQ00793	VBIGarVag276017_0793	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973983	4744	5961	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV23	clust_0559
+GV24|SEQ00306	VBIGarVag268944_0307	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975730	38460	39662	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV24	clust_0559
+GV25|SEQ00679	VBIGarVag270495_0679	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979322	9656	10873	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV25	clust_0559
+GV26|SEQ00410	VBIGarVag272749_0410	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981604	22758	23975	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV26	clust_0559
+GV27|SEQ00656	VBIGarVag276930_0656	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985087	15412	16629	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV27	clust_0559
+GV28|SEQ00148	VBIGarVag271349_0148	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986955	29248	30465	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV28	clust_0559
+GV29|SEQ00343	VBIGarVag265473_0343	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990075	23437	24654	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV29	clust_0559
+GV30|SEQ00340	VBIGarVag267667_0341	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992742	2986	4188	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV30	clust_0559
+GV31|SEQ00593	VBIGarVag264983_0593	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996267	4736	5953	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV31	clust_0559
+GV32|SEQ00222	VBIGarVag277040_0222	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998290	37199	38416	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV32	clust_0559
+GV33|SEQ00291	VBIGarVag265557_0291	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001284	33668	34984	-	1317		COG1524: Uncharacterized proteins of the AP superfamily	GV33	clust_0559
+GV34|SEQ00785	VBIGarVag270440_0785	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005200	51257	52573	+	1317		COG1524: Uncharacterized proteins of the AP superfamily	GV34	clust_0559
+GV35|SEQ00361	VBIGarVag272169_0361	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007025	16463	17680	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV35	clust_0559
+ADO1|SEQ01708	VBIBifAdo136061_1708	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189787	192570	193805	-	1236		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	ADO1	clust_0559
+ANI1|SEQ01082	VBIBifAni240121_1082	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847151	1255307	1256584	-	1278		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	ANI1	clust_0559
+ANI2|SEQ01082	VBIBifAni235968_1082	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850504	1255311	1256588	-	1278		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	ANI2	clust_0559
+ANI3|SEQ01086	VBIBifAni108068_1086	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764517	1255312	1256589	-	1278		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	ANI3	clust_0559
+BIF1|SEQ01215	VBIBifBif87902_1215	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885004	1454651	1455883	-	1233		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BIF1	clust_0559
+BRE1|SEQ01126	VBIBifBre340958_1126	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604258	1313308	1314570	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE1	clust_0559
+BRE2|SEQ01214	VBIBifBre337368_1214	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608409	1387780	1389042	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE2	clust_0559
+BRE3|SEQ00697	VBIBifBre167886_0697	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193079	853396	854658	+	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE3	clust_0559
+BRE4|SEQ01159	VBIBifBre327712_1159	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612440	1339524	1340786	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE4	clust_0559
+BRE5|SEQ01279	VBIBifBre336369_1280	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616736	1416474	1417736	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE5	clust_0559
+BRE6|SEQ01843	VBIBifBre268992_1843	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177656997	10493	11755	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE6	clust_0559
+BRE7|SEQ01166	VBIBifBre340732_1166	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620815	1337083	1338345	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE7	clust_0559
+BRE8|SEQ01194	VBIBifBre176493_1194	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624981	1387313	1388575	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE8	clust_0559
+BRE9|SEQ01250	VBIBifBre30019_1250	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446623	1442451	1443713	-	1263		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	BRE9	clust_0559
+INF1|SEQ01239	VBIBifLon182273_1239	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886481	1386866	1388155	-	1290		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	INF1	clust_0559
+LON1|SEQ00293	VBIBifLon107831_0293	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117623	356154	357401	+	1248		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	LON1	clust_0559
+LON2|SEQ00337	VBIBifLon171405_0338	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580177	399533	400507	+	975		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	LON2	clust_0559
+LON3|SEQ00155	VBIBifLon156230_0155	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767238	971544	972812	+	1269		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	LON3	clust_0559
+LON4|SEQ01213	VBIBifLon48544_1213	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890767	1361357	1362625	-	1269		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	LON4	clust_0559
+THE1|SEQ00741	VBIBifThe274299_0741	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734663	937668	938894	+	1227		Alkaline phosphodiesterase I (EC 3.1.4.1) / Nucleotide pyrophosphatase (EC 3.6.1.9)	THE1	clust_0559

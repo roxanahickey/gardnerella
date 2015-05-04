@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01941	VBIBifAdo136061_1941	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190255	482497	487242	-	4746		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	ADO1	clust_1328
+ANI1|SEQ01299	VBIBifAni240121_1299	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847603	1514593	1519257	-	4665		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	ANI1	clust_1328
+ANI2|SEQ01299	VBIBifAni235968_1299	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850956	1514814	1519478	-	4665		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	ANI2	clust_1328
+ANI3|SEQ01308	VBIBifAni108068_1308	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764974	1520045	1524709	-	4665		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	ANI3	clust_1328
+BIF1|SEQ00429	VBIBifBif87902_0429	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883391	536602	541614	+	5013	hgdC	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BIF1	clust_1328
+BRE1|SEQ01393	VBIBifBre340958_1394	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604803	1644867	1649981	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE1	clust_1328
+BRE2|SEQ01509	VBIBifBre337368_1509	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609012	1744590	1749704	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE2	clust_1328
+BRE3|SEQ01468	VBIBifBre167886_1468	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194680	1715891	1721005	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE3	clust_1328
+BRE4|SEQ01434	VBIBifBre327712_1434	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613002	1675209	1680323	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE4	clust_1328
+BRE5|SEQ01586	VBIBifBre336369_1587	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617361	1780812	1785926	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE5	clust_1328
+BRE6|SEQ00929	VBIBifBre268992_0929	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655046	48636	53750	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE6	clust_1328
+BRE7|SEQ01463	VBIBifBre340732_1463	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621419	1693736	1698850	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE7	clust_1328
+BRE8|SEQ01486	VBIBifBre176493_1486	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625578	1735034	1740148	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE8	clust_1328
+BRE9|SEQ01550	VBIBifBre30019_1550	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447232	1798575	1803680	-	5106		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	BRE9	clust_1328
+INF1|SEQ01603	VBIBifLon182273_1603	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887220	1829325	1834439	-	5115		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	INF1	clust_1328
+LON1|SEQ01808	VBIBifLon107831_1809	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120782	2181585	2186723	+	5139		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	LON1	clust_1328
+LON2|SEQ01847	VBIBifLon171405_1850	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583325	2207904	2213042	+	5139		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	LON2	clust_1328
+LON3|SEQ01095	VBIBifLon156230_1097	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766062	259058	264001	-	4944		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	LON3	clust_1328
+LON4|SEQ01563	VBIBifLon48544_1563	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891484	1798968	1804106	-	5139		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	LON4	clust_1328
+THE1|SEQ00493	VBIBifThe274299_0493	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734162	623575	628413	+	4839		Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	THE1	clust_1328

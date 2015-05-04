@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00800	VBIGarVag247323_0800	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495767	14154	15143	-	990		ABC transporter, integral membrane subunit	GV01	clust_0380
+GV02|SEQ00059	VBIGarVag242669_0059	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496876	21015	22004	+	990		ABC transporter, integral membrane subunit	GV02	clust_0380
+GV03|SEQ00198	VBIGarVag247424_0198	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499777	146881	147855	+	975		ABC transporter, integral membrane subunit	GV03	clust_0380
+GV04|SEQ00183	VBIGarVag246433_0183	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480218	48681	49670	-	990		ABC transporter, integral membrane subunit	GV04	clust_0380
+GV05|SEQ00299	VBIGarVag174900_0299	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546321	145226	146230	+	1005		ABC transporter, integral membrane subunit	GV05	clust_0380
+GV06|SEQ00187	VBIGarVag244004_0187	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489089	108788	109777	+	990		ABC transporter, integral membrane subunit	GV06	clust_0380
+GV07|SEQ00048	VBIGarVag249177_0048	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491673	50688	51680	-	993		ABC transporter, integral membrane subunit	GV07	clust_0380
+GV08|SEQ01060	VBIGarVag251521_1060	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476567	166085	167074	+	990		ABC transporter, integral membrane subunit	GV08	clust_0380
+GV09|SEQ00046	VBIGarVag169280_0046	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259233	48880	49884	-	1005		ABC transporter, integral membrane subunit	GV09	clust_0380
+GV10|SEQ00092	VBIGarVag136958_0092	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146198	119897	120871	+	975		ABC transporter, integral membrane subunit	GV10	clust_0380
+GV11|SEQ00866	VBIGarVag171052_0866	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550095	47987	48976	-	990		ABC transporter, integral membrane subunit	GV11	clust_0380
+GV12|SEQ00623	VBIGarVag144721_0623	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853943	143969	144946	+	978		ABC transporter, integral membrane subunit	GV12	clust_0380
+GV13|SEQ00149	VBIGarVag244533_0149	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486238	164394	165383	+	990		ABC transporter, integral membrane subunit	GV13	clust_0380
+GV14|SEQ00552	VBIGarVag244375_0552	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502964	49131	50105	-	975		ABC transporter, integral membrane subunit	GV14	clust_0380
+GV15|SEQ00582	VBIGarVag249709_0582	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484702	332163	333137	-	975		ABC transporter, integral membrane subunit	GV15	clust_0380
+GV16|SEQ00219	VBIGarVag246379_0219	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477556	168682	169686	+	1005		ABC transporter, integral membrane subunit	GV16	clust_0380
+GV17|SEQ00517	VBIGarVag146634_0517	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851069	518525	519499	-	975		ABC transporter, integral membrane subunit	GV17	clust_0380
+GV18|SEQ00153	VBIGarVag4823_0153	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000060	PATRIC	CDS	42068990	316	1305	+	990		ABC transporter, integral membrane subunit	GV18	clust_0380
+GV19|SEQ00063	VBIGarVag39333_0063	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626960	67770	68759	-	990		ABC transporter, integral membrane subunit	GV19	clust_0380
+GV20|SEQ01315	VBIGarVag188338_1315	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191506	1649402	1650391	-	990		ABC transporter, integral membrane subunit	GV20	clust_0380
+GV21|SEQ00958	VBIGarVag274454_0959	Gardnerella vaginalis JCP7275	ATJS01000084	PATRIC	CDS	183968697	2564	3556	-	993		ABC transporter, integral membrane subunit	GV21	clust_0380
+GV22|SEQ00567	VBIGarVag276801_0568	Gardnerella vaginalis JCP7276	ATJR01000017	PATRIC	CDS	183970569	26654	27643	-	990		ABC transporter, integral membrane subunit	GV22	clust_0380
+GV23|SEQ00901	VBIGarVag276017_0901	Gardnerella vaginalis JCP7659	ATJQ01000078	PATRIC	CDS	183974223	6512	7501	+	990		ABC transporter, integral membrane subunit	GV23	clust_0380
+GV24|SEQ00206	VBIGarVag268944_0207	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975518	9948	10937	+	990		ABC transporter, integral membrane subunit	GV24	clust_0380
+GV25|SEQ00568	VBIGarVag270495_0568	Gardnerella vaginalis JCP7719	ATJO01000050	PATRIC	CDS	183979081	4618	5622	-	1005		ABC transporter, integral membrane subunit	GV25	clust_0380
+GV26|SEQ01106	VBIGarVag272749_1106	Gardnerella vaginalis JCP8017A	ATJN01000093	PATRIC	CDS	183983113	8739	9728	+	990		ABC transporter, integral membrane subunit	GV26	clust_0380
+GV27|SEQ01023	VBIGarVag276930_1023	Gardnerella vaginalis JCP8017B	ATJM01000078	PATRIC	CDS	183985886	4632	5621	-	990		ABC transporter, integral membrane subunit	GV27	clust_0380
+GV28|SEQ00429	VBIGarVag271349_0429	Gardnerella vaginalis JCP8066	ATJL01000025	PATRIC	CDS	183987551	14591	15595	+	1005		ABC transporter, integral membrane subunit	GV28	clust_0380
+GV29|SEQ00286	VBIGarVag265473_0286	Gardnerella vaginalis JCP8070	ATJK01000012	PATRIC	CDS	183989951	2570	3559	-	990		ABC transporter, integral membrane subunit	GV29	clust_0380
+GV30|SEQ00323	VBIGarVag267667_0324	Gardnerella vaginalis JCP8108	ATJJ01000011	PATRIC	CDS	183992706	8693	9682	+	990		ABC transporter, integral membrane subunit	GV30	clust_0380
+GV31|SEQ00991	VBIGarVag264983_0991	Gardnerella vaginalis JCP8151A	ATJI01000076	PATRIC	CDS	183997136	14166	15155	+	990		ABC transporter, integral membrane subunit	GV31	clust_0380
+GV32|SEQ00586	VBIGarVag277040_0586	Gardnerella vaginalis JCP8151B	ATJH01000040	PATRIC	CDS	183999078	24342	25346	-	1005		ABC transporter, integral membrane subunit	GV32	clust_0380
+GV33|SEQ00023	VBIGarVag265557_0023	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000705	2079	3038	+	960		ABC transporter, integral membrane subunit	GV33	clust_0380
+GV34|SEQ00016	VBIGarVag270440_0016	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003521	2080	3039	+	960		ABC transporter, integral membrane subunit	GV34	clust_0380
+GV35|SEQ00869	VBIGarVag272169_0869	Gardnerella vaginalis JCP8522	ATJE01000086	PATRIC	CDS	184008156	2550	3539	-	990		ABC transporter, integral membrane subunit	GV35	clust_0380

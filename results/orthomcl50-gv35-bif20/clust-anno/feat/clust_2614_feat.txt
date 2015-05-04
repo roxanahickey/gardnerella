@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00682	VBIGarVag247424_0682	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500788	52232	53419	-	1188		hypothetical protein	GV03	clust_2614
+GV12|SEQ01069	VBIGarVag144721_1069	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854875	56912	58132	+	1221		Inosine monophosphate dehydrogenase-related protein	GV12	clust_2614
+GV14|SEQ00502	VBIGarVag244375_0502	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502861	142005	143198	+	1194		hypothetical protein	GV14	clust_2614
+GV15|SEQ01143	VBIGarVag249709_1143	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485887	45742	46917	-	1176		FIG00672085: hypothetical protein	GV15	clust_2614
+GV17|SEQ01059	VBIGarVag146634_1059	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852212	235621	236793	-	1173		hypothetical protein	GV17	clust_2614

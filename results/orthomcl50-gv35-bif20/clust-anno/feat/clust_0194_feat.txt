@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00391	VBIGarVag247323_0391	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494921	113523	115238	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV01	clust_0194
+GV02|SEQ00975	VBIGarVag242669_0975	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498799	226077	227792	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV02	clust_0194
+GV03|SEQ01058	VBIGarVag247424_1058	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501572	441754	443505	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV03	clust_0194
+GV04|SEQ00937	VBIGarVag246433_0937	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481780	296369	298084	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV04	clust_0194
+GV05|SEQ01171	VBIGarVag174900_1171	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548186	50242	51993	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV05	clust_0194
+GV06|SEQ01315	VBIGarVag244004_1315	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491463	190922	192637	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV06	clust_0194
+GV07|SEQ00230	VBIGarVag249177_0230	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492067	5392	7143	-	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV07	clust_0194
+GV08|SEQ00879	VBIGarVag251521_0879	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476188	48764	50479	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV08	clust_0194
+GV09|SEQ00793	VBIGarVag169280_0793	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260787	166346	168061	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV09	clust_0194
+GV10|SEQ00908	VBIGarVag136958_0908	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147898	1185089	1186840	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV10	clust_0194
+GV11|SEQ01005	VBIGarVag171052_1005	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	52550392	2056	3771	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV11	clust_0194
+GV12|SEQ00315	VBIGarVag144721_0315	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853303	297922	299673	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV12	clust_0194
+GV13|SEQ00328	VBIGarVag244533_0328	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486607	154708	156423	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV13	clust_0194
+GV14|SEQ01156	VBIGarVag244375_1156	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504233	268083	269834	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV14	clust_0194
+GV15|SEQ00890	VBIGarVag249709_0890	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485356	45443	47194	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV15	clust_0194
+GV16|SEQ00729	VBIGarVag246379_0729	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478613	812024	813739	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV16	clust_0194
+GV17|SEQ00567	VBIGarVag146634_0567	Gardnerella vaginalis AMD	NZ_ADAM01000003	PATRIC	CDS	37851174	17137	18888	-	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV17	clust_0194
+GV18|SEQ00521	VBIGarVag4823_0521	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000105	PATRIC	CDS	42069790	13202	14917	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV18	clust_0194
+GV19|SEQ00885	VBIGarVag39333_0886	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628675	1096742	1098457	+	1716	alsS	COG0028: Thiamine pyrophosphate-requiring enzymes	GV19	clust_0194
+GV20|SEQ00665	VBIGarVag188338_0665	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190152	802867	804582	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV20	clust_0194
+GV21|SEQ00027	VBIGarVag274454_0027	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966686	30399	32114	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV21	clust_0194
+GV22|SEQ00414	VBIGarVag276801_0415	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970253	39126	40841	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV22	clust_0194
+GV23|SEQ00591	VBIGarVag276017_0591	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973543	24438	26153	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV23	clust_0194
+GV24|SEQ00133	VBIGarVag268944_0134	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975367	40258	41973	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV24	clust_0194
+GV25|SEQ01129	VBIGarVag270495_1129	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980310	36701	38416	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV25	clust_0194
+GV26|SEQ00476	VBIGarVag272749_0476	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981740	11594	13309	-	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV26	clust_0194
+GV27|SEQ00461	VBIGarVag276930_0461	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984669	160257	161972	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV27	clust_0194
+GV28|SEQ00458	VBIGarVag271349_0458	Gardnerella vaginalis JCP8066	ATJL01000026	PATRIC	CDS	183987610	6344	8059	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV28	clust_0194
+GV29|SEQ00585	VBIGarVag265473_0585	Gardnerella vaginalis JCP8070	ATJK01000034	PATRIC	CDS	183990598	6309	8024	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV29	clust_0194
+GV30|SEQ00124	VBIGarVag267667_0124	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992292	31788	33503	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV30	clust_0194
+GV31|SEQ00868	VBIGarVag264983_0868	Gardnerella vaginalis JCP8151A	ATJI01000058	PATRIC	CDS	183996872	10939	12654	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV31	clust_0194
+GV32|SEQ00093	VBIGarVag277040_0093	Gardnerella vaginalis JCP8151B	ATJH01000005	PATRIC	CDS	183998019	6332	8047	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV32	clust_0194
+GV33|SEQ01118	VBIGarVag265557_1118	Gardnerella vaginalis JCP8481A	ATJG01000154	PATRIC	CDS	184003125	5223	6974	-	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV33	clust_0194
+GV34|SEQ00913	VBIGarVag270440_0913	Gardnerella vaginalis JCP8481B	ATJF01000101	PATRIC	CDS	184005484	1972	3723	+	1752		COG0028: Thiamine pyrophosphate-requiring enzymes	GV34	clust_0194
+GV35|SEQ00330	VBIGarVag272169_0330	Gardnerella vaginalis JCP8522	ATJE01000015	PATRIC	CDS	184006961	6318	8033	+	1716		COG0028: Thiamine pyrophosphate-requiring enzymes	GV35	clust_0194
+ADO1|SEQ00530	VBIBifAdo136061_0530	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187327	381142	382968	-	1827		Acetolactate synthase large subunit (EC 2.2.1.6)	ADO1	clust_0194
+ANI1|SEQ00280	VBIBifAni240121_0280	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845468	343258	345153	-	1896		Acetolactate synthase large subunit (EC 2.2.1.6)	ANI1	clust_0194
+ANI2|SEQ00279	VBIBifAni235968_0279	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848821	343260	345155	-	1896		Acetolactate synthase large subunit (EC 2.2.1.6)	ANI2	clust_0194
+ANI3|SEQ00280	VBIBifAni108068_0280	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762834	343261	345156	-	1896		Acetolactate synthase large subunit (EC 2.2.1.6)	ANI3	clust_0194
+BIF1|SEQ00322	VBIBifBif87902_0322	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883171	389940	391832	+	1893	ilvB	Acetolactate synthase large subunit (EC 2.2.1.6)	BIF1	clust_0194
+BRE1|SEQ00332	VBIBifBre340958_0332	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602608	416360	418324	-	1965		Acetolactate synthase large subunit (EC 2.2.1.6)	BRE1	clust_0194
+BRE2|SEQ00393	VBIBifBre337368_0393	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606705	470704	472668	-	1965		Acetolactate synthase large subunit (EC 2.2.1.6)	BRE2	clust_0194
+BRE3|SEQ00391	VBIBifBre167886_0391	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192450	483591	485555	-	1965	ilvB	Acetolactate synthase large subunit (EC 2.2.1.6)	BRE3	clust_0194
+BRE4|SEQ00342	VBIBifBre327712_0342	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610745	428252	430216	-	1965		Acetolactate synthase large subunit (EC 2.2.1.6)	BRE4	clust_0194
+BRE5|SEQ00369	VBIBifBre336369_0370	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614848	429769	431733	-	1965		Acetolactate synthase large subunit (EC 2.2.1.6)	BRE5	clust_0194
+BRE6|SEQ00871	VBIBifBre268992_0871	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654928	25879	27843	+	1965		Acetolactate synthase large subunit (EC 2.2.1.6)	BRE6	clust_0194
+BRE7|SEQ00365	VBIBifBre340732_0365	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619148	450730	452694	-	1965		Acetolactate synthase large subunit (EC 2.2.1.6)	BRE7	clust_0194
+BRE8|SEQ00389	VBIBifBre176493_0389	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623309	482031	483995	-	1965	ilvB	Acetolactate synthase large subunit (EC 2.2.1.6)	BRE8	clust_0194
+BRE9|SEQ00432	VBIBifBre30019_0432	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444920	522036	524000	-	1965	ilvB	Acetolactate synthase large subunit (EC 2.2.1.6)	BRE9	clust_0194
+INF1|SEQ00319	VBIBifLon182273_0319	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884567	398776	400743	-	1968		Acetolactate synthase large subunit (EC 2.2.1.6)	INF1	clust_0194
+LON1|SEQ01032	VBIBifLon107831_1033	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119147	1218160	1220127	+	1968	ilvB	Acetolactate synthase large subunit (EC 2.2.1.6)	LON1	clust_0194
+LON2|SEQ01089	VBIBifLon171405_1091	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581731	1247022	1248989	+	1968	ilvB	Acetolactate synthase large subunit (EC 2.2.1.6)	LON2	clust_0194
+LON3|SEQ00900	VBIBifLon156230_0901	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768781	1828727	1830694	+	1968		Acetolactate synthase large subunit (EC 2.2.1.6)	LON3	clust_0194
+LON4|SEQ00327	VBIBifLon48544_0327	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888886	401505	403472	-	1968		Acetolactate synthase large subunit (EC 2.2.1.6)	LON4	clust_0194
+THE1|SEQ00306	VBIBifThe274299_0306	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733782	357731	359566	-	1836		Acetolactate synthase large subunit (EC 2.2.1.6)	THE1	clust_0194

@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00465	VBIGarVag247424_0465	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500337	153	710	+	558		hydrolase, putative isochorismatase	GV03	clust_1496
+GV05|SEQ00491	VBIGarVag174900_0491	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546726	61415	61972	+	558		hydrolase, putative isochorismatase	GV05	clust_1496
+GV10|SEQ00270	VBIGarVag136958_0270	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146572	314091	314648	+	558		hydrolase, putative isochorismatase	GV10	clust_1496
+GV12|SEQ00811	VBIGarVag144721_0811	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854337	350840	351397	+	558		hydrolase, putative isochorismatase	GV12	clust_1496
+GV33|SEQ00527	VBIGarVag265557_0527	Gardnerella vaginalis JCP8481A	ATJG01000048	PATRIC	CDS	184001793	2729	3295	-	567		hydrolase, putative isochorismatase	GV33	clust_1496
+GV34|SEQ00547	VBIGarVag270440_0547	Gardnerella vaginalis JCP8481B	ATJF01000049	PATRIC	CDS	184004685	2729	3295	-	567		hydrolase, putative isochorismatase	GV34	clust_1496

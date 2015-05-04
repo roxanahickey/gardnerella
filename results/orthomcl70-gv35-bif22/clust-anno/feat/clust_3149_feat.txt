@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ00025	VBIBifBre327712_0025	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610081	34327	35340	-	1014		MSM (multiple sugar metabolism) operon regulatory protein	BRE4	clust_3149
+BRE6|SEQ01548	VBIBifBre268992_1548	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656362	10305	11375	-	1071		MSM (multiple sugar metabolism) operon regulatory protein	BRE6	clust_3149
+BRE8|SEQ00025	VBIBifBre176493_0025	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622553	34350	35420	-	1071		MSM (multiple sugar metabolism) operon regulatory protein	BRE8	clust_3149
+BRE9|SEQ00025	VBIBifBre30019_0025	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444069	34350	35420	-	1071		MSM (multiple sugar metabolism) operon regulatory protein	BRE9	clust_3149

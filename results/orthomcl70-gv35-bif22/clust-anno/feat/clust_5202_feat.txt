@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01469	VBIBifBre340958_1470	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604969	1739328	1740071	+	744		Transcriptional regulator, MerR family	BRE1	clust_5202
+BRE9|SEQ01629	VBIBifBre30019_1629	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447404	1895679	1896422	+	744		Transcriptional activator BmrR for multidrug resistance transporter	BRE9	clust_5202

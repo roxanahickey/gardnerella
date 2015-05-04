@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00079	VBIBifBre340958_0079	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602077	102233	103294	-	1062		hypothetical protein	BRE1	clust_1680
+BRE2|SEQ00072	VBIBifBre337368_0072	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606035	94868	95929	-	1062		hypothetical protein	BRE2	clust_1680
+BRE3|SEQ00077	VBIBifBre167886_0077	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191793	101179	102240	-	1062		Bacterial regulatory proteins, AsnC family	BRE3	clust_1680
+BRE4|SEQ00093	VBIBifBre327712_0093	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610220	121291	122352	-	1062		hypothetical protein	BRE4	clust_1680
+BRE5|SEQ00081	VBIBifBre336369_0081	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614244	101308	102369	-	1062		Bacterial regulatory proteins, AsnC family	BRE5	clust_1680
+BRE6|SEQ01278	VBIBifBre268992_1278	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655784	34693	35754	+	1062		hypothetical protein	BRE6	clust_1680
+BRE7|SEQ00071	VBIBifBre340732_0071	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618535	92366	93427	-	1062		hypothetical protein	BRE7	clust_1680
+BRE8|SEQ00093	VBIBifBre176493_0093	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622692	117654	118715	-	1062		Bacterial regulatory proteins, AsnC family	BRE8	clust_1680
+BRE9|SEQ00093	VBIBifBre30019_0093	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444211	117882	118943	-	1062		COG3177: Uncharacterized conserved protein	BRE9	clust_1680
+INF1|SEQ01931	VBIBifLon182273_1931	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887920	2219536	2220606	+	1071		Bacterial regulatory proteins, AsnC family	INF1	clust_1680
+LON1|SEQ01491	VBIBifLon107831_1492	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120112	1806151	1807221	-	1071		Bacterial regulatory proteins, AsnC family	LON1	clust_1680
+LON2|SEQ01523	VBIBifLon171405_1526	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582641	1822547	1823617	-	1071		Bacterial regulatory proteins, AsnC family	LON2	clust_1680
+LON3|SEQ01815	VBIBifLon156230_1818	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766819	695397	696467	+	1071		Bacterial regulatory proteins, AsnC family	LON3	clust_1680
+LON4|SEQ01883	VBIBifLon48544_1883	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892169	2186212	2187282	+	1071		Bacterial regulatory proteins, AsnC family	LON4	clust_1680

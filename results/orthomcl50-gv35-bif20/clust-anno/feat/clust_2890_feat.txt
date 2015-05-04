@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ00971	VBIGarVag144721_0971	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854677	553849	555513	+	1665		hypothetical protein	GV12	clust_2890
+BIF1|SEQ01192	VBIBifBif87902_1192	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884957	1427036	1428760	-	1725		hypothetical protein	BIF1	clust_2890
+BRE1|SEQ01104	VBIBifBre340958_1104	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604214	1289494	1291197	-	1704		hypothetical protein	BRE1	clust_2890
+INF1|SEQ01212	VBIBifLon182273_1212	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886427	1360731	1362056	-	1326		hypothetical protein	INF1	clust_2890

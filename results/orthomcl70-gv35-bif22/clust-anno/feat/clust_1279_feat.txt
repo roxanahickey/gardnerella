@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01818	VBIBifAdo136061_1818	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190007	326858	328057	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	ADO1	clust_1279
+ANI1|SEQ01200	VBIBifAni240121_1200	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847390	1394469	1395671	+	1203		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	ANI1	clust_1279
+ANI2|SEQ01200	VBIBifAni235968_1200	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850743	1394473	1395675	+	1203		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	ANI2	clust_1279
+ANI3|SEQ01208	VBIBifAni108068_1208	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764761	1399921	1401123	+	1203		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	ANI3	clust_1279
+BIF1|SEQ00521	VBIBifBif87902_0521	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883577	648494	649693	-	1200	serA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BIF1	clust_1279
+BRE1|SEQ01237	VBIBifBre340958_1237	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604484	1452237	1453436	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE1	clust_1279
+BRE2|SEQ01327	VBIBifBre337368_1327	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608638	1528527	1529726	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE2	clust_1279
+BRE3|SEQ00585	VBIBifBre167886_0585	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192852	715221	716420	-	1200	serA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE3	clust_1279
+BRE4|SEQ01268	VBIBifBre327712_1268	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612661	1475585	1476784	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE4	clust_1279
+BRE5|SEQ01391	VBIBifBre336369_1392	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616964	1554309	1555508	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE5	clust_1279
+BRE6|SEQ01953	VBIBifBre268992_1953	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657220	148145	149344	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE6	clust_1279
+BRE7|SEQ01279	VBIBifBre340732_1279	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621043	1477613	1478812	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE7	clust_1279
+BRE8|SEQ01306	VBIBifBre176493_1306	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625207	1524047	1525246	+	1200	serA1	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE8	clust_1279
+BRE9|SEQ01362	VBIBifBre30019_1362	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446849	1580512	1581711	+	1200	serA1	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	BRE9	clust_1279
+DEN1|SEQ01215	VBIBifDen165269_1216	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459559	436861	438060	-	1200	serA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	DEN1	clust_1279
+DEN2|SEQ01720	VBIBifDen39005_1721	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000030	PATRIC	CDS	42111837	24725	25924	-	1200	serA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	DEN2	clust_1279
+INF1|SEQ01366	VBIBifLon182273_1366	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886736	1551146	1552345	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	INF1	clust_1279
+LON1|SEQ00163	VBIBifLon107831_0163	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117361	188529	189728	-	1200	serA	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	LON1	clust_1279
+LON2|SEQ00208	VBIBifLon171405_0209	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579919	232436	233635	-	1200	serA2	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	LON2	clust_1279
+LON3|SEQ01897	VBIBifLon156230_1900	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766986	805438	806637	-	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	LON3	clust_1279
+LON4|SEQ01330	VBIBifLon48544_1330	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891004	1506946	1508145	+	1200		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	LON4	clust_1279
+THE1|SEQ00605	VBIBifThe274299_0605	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734388	762828	764057	-	1230		D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	THE1	clust_1279

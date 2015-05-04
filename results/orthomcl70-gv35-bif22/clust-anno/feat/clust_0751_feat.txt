@@ -1,0 +1,53 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00559	VBIBifAdo136061_0559	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187392	412125	412904	-	780		Regulator of polyketide synthase expression	ADO1	clust_0751
+ANI1|SEQ00316	VBIBifAni240121_0316	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845546	380795	381586	+	792		Regulator of polyketide synthase expression	ANI1	clust_0751
+ANI2|SEQ00315	VBIBifAni235968_0315	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848899	380797	381588	+	792		Regulator of polyketide synthase expression	ANI2	clust_0751
+ANI3|SEQ00316	VBIBifAni108068_0316	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762912	380798	381589	+	792		Regulator of polyketide synthase expression	ANI3	clust_0751
+BIF1|SEQ01605	VBIBifBif87902_1605	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885827	1939424	1940242	+	819		Regulator of polyketide synthase expression	BIF1	clust_0751
+BRE1|SEQ01690	VBIBifBre340958_1691	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605435	1975618	1976529	+	912		Regulator of polyketide synthase expression	BRE1	clust_0751
+BRE2|SEQ01795	VBIBifBre337368_1795	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609621	2076112	2077023	+	912		Regulator of polyketide synthase expression	BRE2	clust_0751
+BRE3|SEQ01758	VBIBifBre167886_1758	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195296	2048082	2048993	+	912		Regulator of polyketide synthase expression	BRE3	clust_0751
+BRE4|SEQ01729	VBIBifBre327712_1729	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613630	2008331	2009266	+	936		Regulator of polyketide synthase expression	BRE4	clust_0751
+BRE5|SEQ01851	VBIBifBre336369_1852	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617928	2078922	2079833	+	912		Regulator of polyketide synthase expression	BRE5	clust_0751
+BRE6|SEQ00588	VBIBifBre268992_0588	Bifidobacterium breve JCP7499	AWSX01000032	PATRIC	CDS	177654324	8960	9871	-	912		Regulator of polyketide synthase expression	BRE6	clust_0751
+BRE7|SEQ01788	VBIBifBre340732_1788	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622105	2059241	2060155	+	915		Regulator of polyketide synthase expression	BRE7	clust_0751
+BRE8|SEQ01745	VBIBifBre176493_1745	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626131	2032654	2033589	+	936		Regulator of polyketide synthase expression	BRE8	clust_0751
+BRE9|SEQ01851	VBIBifBre30019_1851	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447871	2136656	2137567	+	912		Regulator of polyketide synthase expression	BRE9	clust_0751
+DEN1|SEQ00350	VBIBifDen165269_0351	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461981	1727204	1727983	+	780		Regulator of polyketide synthase expression	DEN1	clust_0751
+DEN2|SEQ02170	VBIBifDen39005_2172	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112786	77629	78408	-	780		Regulator of polyketide synthase expression	DEN2	clust_0751
+GV01|SEQ00910	VBIGarVag247323_0910	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495995	133418	134524	-	1107		Regulator of polyketide synthase expression	GV01	clust_0751
+GV02|SEQ01153	VBIGarVag242669_1153	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499177	127034	128131	+	1098		Regulator of polyketide synthase expression	GV02	clust_0751
+GV03|SEQ00057	VBIGarVag247424_0057	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499479	92083	93468	+	1386		Regulator of polyketide synthase expression	GV03	clust_0751
+GV04|SEQ01318	VBIGarVag246433_1318	Gardnerella vaginalis 0288E	ADEN01000014	PATRIC	CDS	85482581	2909	4198	-	1290		Regulator of polyketide synthase expression	GV04	clust_0751
+GV05|SEQ01096	VBIGarVag174900_1096	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52547978	37115	38518	-	1404		Regulator of polyketide synthase expression	GV05	clust_0751
+GV06|SEQ01129	VBIGarVag244004_1129	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491084	101802	103091	+	1290		Regulator of polyketide synthase expression	GV06	clust_0751
+GV07|SEQ00731	VBIGarVag249177_0731	Gardnerella vaginalis 1500E	ADES01000013	PATRIC	CDS	85493115	28796	30073	+	1278		Regulator of polyketide synthase expression	GV07	clust_0751
+GV08|SEQ00214	VBIGarVag251521_0214	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474812	49082	50371	-	1290		Regulator of polyketide synthase expression	GV08	clust_0751
+GV09|SEQ00599	VBIGarVag169280_0599	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260387	362056	363345	+	1290		Regulator of polyketide synthase expression	GV09	clust_0751
+GV10|SEQ01058	VBIGarVag136958_1058	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148206	1430791	1431633	+	843		Regulator of polyketide synthase expression	GV10	clust_0751
+GV11|SEQ01081	VBIGarVag171052_1081	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550553	21943	23232	+	1290		Regulator of polyketide synthase expression	GV11	clust_0751
+GV12|SEQ00466	VBIGarVag144721_0466	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853613	538844	540205	+	1362		Regulator of polyketide synthase expression	GV12	clust_0751
+GV13|SEQ00572	VBIGarVag244533_0572	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487114	74726	76015	-	1290		Regulator of polyketide synthase expression	GV13	clust_0751
+GV14|SEQ01177	VBIGarVag244375_1177	Gardnerella vaginalis 6119V5	ADEW01000012	PATRIC	CDS	85504280	1872	3194	-	1323		Regulator of polyketide synthase expression	GV14	clust_0751
+GV15|SEQ00081	VBIGarVag249709_0081	Gardnerella vaginalis 6420B	ADEP01000002	PATRIC	CDS	85483649	6208	7569	-	1362		Regulator of polyketide synthase expression	GV15	clust_0751
+GV16|SEQ01250	VBIGarVag246379_1250	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479701	1475551	1476840	+	1290		Regulator of polyketide synthase expression	GV16	clust_0751
+GV17|SEQ00692	VBIGarVag146634_0692	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851447	47161	48507	-	1347		Regulator of polyketide synthase expression	GV17	clust_0751
+GV18|SEQ00341	VBIGarVag4823_0341	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000088	PATRIC	CDS	42069401	7742	9031	+	1290		Regulator of polyketide synthase expression	GV18	clust_0751
+GV19|SEQ00359	VBIGarVag39333_0360	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627581	435966	436802	-	837		Regulator of polyketide synthase expression	GV19	clust_0751
+GV20|SEQ01157	VBIGarVag188338_1157	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191180	1449543	1450832	+	1290		Regulator of polyketide synthase expression	GV20	clust_0751
+GV22|SEQ01083	VBIGarVag276801_1084	Gardnerella vaginalis JCP7276	ATJR01000102	PATRIC	CDS	183971719	5827	6057	-	231		Regulator of polyketide synthase expression	GV22	clust_0751
+GV23|SEQ01247	VBIGarVag276017_1247	Gardnerella vaginalis JCP7659	ATJQ01000210	PATRIC	CDS	183975073	1471	1701	-	231		Regulator of polyketide synthase expression	GV23	clust_0751
+GV24|SEQ01225	VBIGarVag268944_1226	Gardnerella vaginalis JCP7672	ATJP01000165	PATRIC	CDS	183977800	11197	12486	-	1290		Regulator of polyketide synthase expression	GV24	clust_0751
+GV25|SEQ00990	VBIGarVag270495_0990	Gardnerella vaginalis JCP7719	ATJO01000116	PATRIC	CDS	183980020	54	284	+	231		Regulator of polyketide synthase expression	GV25	clust_0751
+GV26|SEQ01245	VBIGarVag272749_1245	Gardnerella vaginalis JCP8017A	ATJN01000149	PATRIC	CDS	183983449	1435	1893	-	459		Regulator of polyketide synthase expression	GV26	clust_0751
+GV27|SEQ01264	VBIGarVag276930_1264	Gardnerella vaginalis JCP8017B	ATJM01000146	PATRIC	CDS	183986449	119	349	+	231		Regulator of polyketide synthase expression	GV27	clust_0751
+GV28|SEQ01067	VBIGarVag271349_1067	Gardnerella vaginalis JCP8066	ATJL01000135	PATRIC	CDS	183988985	59	289	+	231		Regulator of polyketide synthase expression	GV28	clust_0751
+GV30|SEQ01057	VBIGarVag267667_1059	Gardnerella vaginalis JCP8108	ATJJ01000099	PATRIC	CDS	183994327	3480	4769	+	1290		Regulator of polyketide synthase expression	GV30	clust_0751
+GV33|SEQ00883	VBIGarVag265557_0883	Gardnerella vaginalis JCP8481A	ATJG01000096	PATRIC	CDS	184002584	3398	4828	+	1431		Regulator of polyketide synthase expression	GV33	clust_0751
+GV34|SEQ00893	VBIGarVag270440_0893	Gardnerella vaginalis JCP8481B	ATJF01000098	PATRIC	CDS	184005439	114	1544	-	1431		Regulator of polyketide synthase expression	GV34	clust_0751
+INF1|SEQ01851	VBIBifLon182273_1851	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887751	2115744	2116574	+	831		Regulator of polyketide synthase expression	INF1	clust_0751
+LON1|SEQ01578	VBIBifLon107831_1579	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120294	1916324	1917184	-	861		Regulator of polyketide synthase expression	LON1	clust_0751
+LON2|SEQ01604	VBIBifLon171405_1607	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582811	1926814	1927629	-	816		Regulator of polyketide synthase expression	LON2	clust_0751
+LON3|SEQ01711	VBIBifLon156230_1714	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766606	574921	575751	+	831		Regulator of polyketide synthase expression	LON3	clust_0751
+LON4|SEQ01797	VBIBifLon48544_1797	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891988	2075894	2076754	+	861		Regulator of polyketide synthase expression	LON4	clust_0751
+THE1|SEQ01516	VBIBifThe274299_1516	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736282	1874621	1875640	+	1020		Regulator of polyketide synthase expression	THE1	clust_0751

@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00687	VBIBifAni240121_0687	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846323	805980	806633	+	654		Histone acetyltransferase HPA2 and related acetyltransferases	ANI1	clust_1466
+ANI2|SEQ00687	VBIBifAni235968_0687	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849676	805983	806636	+	654		Histone acetyltransferase HPA2 and related acetyltransferases	ANI2	clust_1466
+ANI3|SEQ00689	VBIBifAni108068_0689	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763688	805982	806638	+	657		Histone acetyltransferase HPA2 and related acetyltransferases	ANI3	clust_1466
+BIF1|SEQ01111	VBIBifBif87902_1111	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884790	1330246	1330878	-	633		hypothetical protein	BIF1	clust_1466
+BRE1|SEQ01161	VBIBifBre340958_1161	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604330	1360511	1361149	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE1	clust_1466
+BRE2|SEQ01249	VBIBifBre337368_1249	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608480	1434814	1435452	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE2	clust_1466
+BRE3|SEQ00663	VBIBifBre167886_0663	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193010	809307	809945	-	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE3	clust_1466
+BRE4|SEQ01193	VBIBifBre327712_1193	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612509	1384244	1384882	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE4	clust_1466
+BRE5|SEQ01313	VBIBifBre336369_1314	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616805	1462439	1463077	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE5	clust_1466
+BRE6|SEQ01876	VBIBifBre268992_1876	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657064	55150	55788	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE6	clust_1466
+BRE7|SEQ01201	VBIBifBre340732_1201	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620886	1384222	1384860	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE7	clust_1466
+BRE8|SEQ01230	VBIBifBre176493_1230	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625054	1433425	1434063	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE8	clust_1466
+BRE9|SEQ01286	VBIBifBre30019_1286	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446695	1489631	1490269	+	639		Histone acetyltransferase HPA2 and related acetyltransferases	BRE9	clust_1466
+INF1|SEQ01273	VBIBifLon182273_1273	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886549	1433330	1433971	+	642		Histone acetyltransferase HPA2 and related acetyltransferases	INF1	clust_1466
+LON1|SEQ00259	VBIBifLon107831_0259	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117555	310148	310789	-	642		Histone acetyltransferase HPA2 and related acetyltransferases	LON1	clust_1466
+LON2|SEQ00300	VBIBifLon171405_0301	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580103	352845	353486	-	642	argA	Histone acetyltransferase HPA2 and related acetyltransferases	LON2	clust_1466
+LON3|SEQ01988	VBIBifLon156230_1991	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767168	924771	925412	-	642		Histone acetyltransferase HPA2 and related acetyltransferases	LON3	clust_1466
+LON4|SEQ01248	VBIBifLon48544_1248	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890838	1407941	1408582	+	642		Histone acetyltransferase HPA2 and related acetyltransferases	LON4	clust_1466

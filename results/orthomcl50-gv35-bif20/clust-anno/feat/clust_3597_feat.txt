@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01276	VBIBifAni240121_1276	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847557	1486002	1486700	-	699		Phage shock protein A	ANI1	clust_3597
+ANI2|SEQ01276	VBIBifAni235968_1276	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850910	1486009	1486707	-	699		Phage shock protein A	ANI2	clust_3597
+ANI3|SEQ01285	VBIBifAni108068_1285	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764928	1491455	1492153	-	699		Phage shock protein A	ANI3	clust_3597

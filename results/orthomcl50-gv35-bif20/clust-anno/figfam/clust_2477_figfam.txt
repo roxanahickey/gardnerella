@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00730	268603437	VBIBifBre340958_0730	SEQ00730	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2477
+BRE2|SEQ00826	268607599	VBIBifBre337368_0826	SEQ00826	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2477
+BRE9|SEQ00333	58444712	VBIBifBre30019_0333	SEQ00333	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		COG2826: Transposase and inactivated derivatives, IS30 family	FIG01403453	figfam	clust_2477

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00110	VBIBifAni240121_0110	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845121	131417	132403	-	987		Dienelactone hydrolase and related enzymes	ANI1	clust_3527
+ANI2|SEQ00110	VBIBifAni235968_0110	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848476	131417	132403	-	987		Dienelactone hydrolase and related enzymes	ANI2	clust_3527
+ANI3|SEQ00112	VBIBifAni108068_0112	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762492	131417	132403	-	987		Dienelactone hydrolase and related enzymes	ANI3	clust_3527

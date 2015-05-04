@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01472	VBIBifBre337368_1472	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608938	1702122	1703327	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	BRE2	clust_1450
+BRE3|SEQ01442	VBIBifBre167886_1442	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194628	1685070	1686275	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	BRE3	clust_1450
+BRE6|SEQ00887	VBIBifBre268992_0887	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177654962	3051	4256	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	BRE6	clust_1450
+BRE7|SEQ01442	VBIBifBre340732_1442	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621377	1668441	1669646	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	BRE7	clust_1450
+BRE8|SEQ01465	VBIBifBre176493_1465	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625536	1711534	1712739	-	1206	bdhA	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	BRE8	clust_1450
+BRE9|SEQ01530	VBIBifBre30019_1530	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447192	1775074	1776279	-	1206	bdhA	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	BRE9	clust_1450
+GV02|SEQ01045	VBIGarVag242669_1045	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498946	1780	2985	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV02	clust_1450
+GV23|SEQ00021	VBIGarVag276017_0021	Gardnerella vaginalis JCP7659	ATJQ01000004	PATRIC	CDS	183972330	9002	10207	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV23	clust_1450
+GV25|SEQ01294	VBIGarVag270495_1294	Gardnerella vaginalis JCP7719	ATJO01000185	PATRIC	CDS	183980711	9016	10230	+	1215		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV25	clust_1450
+GV26|SEQ00335	VBIGarVag272749_0335	Gardnerella vaginalis JCP8017A	ATJN01000020	PATRIC	CDS	183981445	8985	10199	+	1215		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV26	clust_1450
+GV27|SEQ00195	VBIGarVag276930_0195	Gardnerella vaginalis JCP8017B	ATJM01000006	PATRIC	CDS	183984114	8983	10197	+	1215		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV27	clust_1450
+GV28|SEQ00112	VBIGarVag271349_0112	Gardnerella vaginalis JCP8066	ATJL01000012	PATRIC	CDS	183986880	8938	10143	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV28	clust_1450
+GV29|SEQ00018	VBIGarVag265473_0018	Gardnerella vaginalis JCP8070	ATJK01000002	PATRIC	CDS	183989383	9083	10288	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV29	clust_1450
+GV31|SEQ00120	VBIGarVag264983_0120	Gardnerella vaginalis JCP8151A	ATJI01000006	PATRIC	CDS	183995272	9003	10208	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV31	clust_1450
+GV32|SEQ00355	VBIGarVag277040_0355	Gardnerella vaginalis JCP8151B	ATJH01000015	PATRIC	CDS	183998563	9003	10208	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV32	clust_1450
+GV35|SEQ00117	VBIGarVag272169_0117	Gardnerella vaginalis JCP8522	ATJE01000004	PATRIC	CDS	184006512	8931	10136	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV35	clust_1450
+INF1|SEQ01576	VBIBifLon182273_1576	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887166	1798395	1799600	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	INF1	clust_1450
+LON2|SEQ01868	VBIBifLon171405_1871	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583367	2239986	2241191	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	LON2	clust_1450
+LON3|SEQ01074	VBIBifLon156230_1076	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766020	234947	236152	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	LON3	clust_1450

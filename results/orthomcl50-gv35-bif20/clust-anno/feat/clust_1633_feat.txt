@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00104	VBIBifBif87902_0104	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882706	129812	130630	+	819	bloH	hypothetical protein	BIF1	clust_1633
+BRE1|SEQ00836	VBIBifBre340958_0836	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603656	1001039	1001848	+	810		hydrolase, alpha/beta fold family	BRE1	clust_1633
+BRE2|SEQ00918	VBIBifBre337368_0918	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607792	1083109	1083930	+	822		hydrolase, alpha/beta fold family	BRE2	clust_1633
+BRE3|SEQ00961	VBIBifBre167886_0961	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193634	1129578	1130399	-	822		hydrolase, alpha/beta fold family	BRE3	clust_1633
+BRE4|SEQ00866	VBIBifBre327712_0866	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611831	1038760	1039569	+	810		hydrolase, alpha/beta fold family	BRE4	clust_1633
+BRE5|SEQ00888	VBIBifBre336369_0889	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615923	1041555	1042364	+	810		hydrolase, alpha/beta fold family	BRE5	clust_1633
+BRE6|SEQ00794	VBIBifBre268992_0794	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654760	2178	2999	-	822		hydrolase, alpha/beta fold family	BRE6	clust_1633
+BRE7|SEQ00868	VBIBifBre340732_0868	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620193	1031019	1031840	+	822		hydrolase, alpha/beta fold family	BRE7	clust_1633
+BRE8|SEQ00897	VBIBifBre176493_0897	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624360	1077399	1078220	+	822		hydrolase, alpha/beta fold family	BRE8	clust_1633
+BRE9|SEQ00951	VBIBifBre30019_0951	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445998	1130590	1131411	+	822		hydrolase, alpha/beta fold family	BRE9	clust_1633
+INF1|SEQ00783	VBIBifLon182273_0783	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885535	954516	955337	+	822		hydrolase, alpha/beta fold family	INF1	clust_1633
+LON1|SEQ00591	VBIBifLon107831_0592	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118239	684407	685228	-	822		hydrolase, alpha/beta fold family	LON1	clust_1633
+LON2|SEQ00650	VBIBifLon171405_0651	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580826	719783	720604	-	822	mhpC1	hydrolase, alpha/beta fold family	LON2	clust_1633
+LON3|SEQ00457	VBIBifLon156230_0457	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767866	1295075	1295896	-	822		hydrolase, alpha/beta fold family	LON3	clust_1633
+LON4|SEQ00755	VBIBifLon48544_0755	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889781	911862	912683	+	822		hydrolase, alpha/beta fold family	LON4	clust_1633

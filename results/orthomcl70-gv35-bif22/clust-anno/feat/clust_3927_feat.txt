@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00922	VBIBifAdo136061_0922	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188154	826897	827637	+	741		Glutamate transport ATP-binding protein	ADO1	clust_3927
+DEN1|SEQ02013	VBIBifDen165269_2014	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461197	1299511	1300305	-	795		Glutamate transport ATP-binding protein	DEN1	clust_3927
+DEN2|SEQ01128	VBIBifDen39005_1128	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000021	PATRIC	CDS	42110623	15262	16089	-	828	glnQ	Glutamate transport ATP-binding protein	DEN2	clust_3927

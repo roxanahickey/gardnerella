@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01865	27190101	VBIBifAdo136061_1865	SEQ01865	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Twitching motility protein PilT	FIG00034926	figfam	clust_3183
+THE1|SEQ00252	124733670	VBIBifThe274299_0252	SEQ00252	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Twitching motility protein PilT	FIG00034926	figfam	clust_3183
+THE1|SEQ00565	124734308	VBIBifThe274299_0565	SEQ00565	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Twitching motility protein PilT	FIG00034926	figfam	clust_3183

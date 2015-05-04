@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00904	VBIGarVag247323_0904	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495983	128684	130078	+	1395		Guanine-hypoxanthine permease	GV01	clust_0373
+GV02|SEQ01158	VBIGarVag242669_1158	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499187	131298	132584	-	1287		Guanine-hypoxanthine permease	GV02	clust_0373
+GV03|SEQ00325	VBIGarVag247424_0325	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500042	285382	286776	+	1395		Guanine-hypoxanthine permease	GV03	clust_0373
+GV04|SEQ01362	VBIGarVag246433_1362	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482675	45714	47108	+	1395		Guanine-hypoxanthine permease	GV04	clust_0373
+GV05|SEQ00425	VBIGarVag174900_0425	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546581	283285	284679	+	1395		Guanine-hypoxanthine permease	GV05	clust_0373
+GV06|SEQ01135	VBIGarVag244004_1135	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491096	106314	107708	-	1395		Guanine-hypoxanthine permease	GV06	clust_0373
+GV07|SEQ01115	VBIGarVag249177_1115	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493925	8213	9604	-	1392		Guanine-hypoxanthine permease	GV07	clust_0373
+GV08|SEQ00208	VBIGarVag251521_0208	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474800	44709	46103	+	1395		Guanine-hypoxanthine permease	GV08	clust_0373
+GV09|SEQ00604	VBIGarVag169280_0604	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260397	366554	367948	-	1395		Guanine-hypoxanthine permease	GV09	clust_0373
+GV10|SEQ00205	VBIGarVag136958_0205	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146432	251497	252891	+	1395		Guanine-hypoxanthine permease	GV10	clust_0373
+GV11|SEQ01086	VBIGarVag171052_1086	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550563	26484	27878	-	1395		Guanine-hypoxanthine permease	GV11	clust_0373
+GV12|SEQ00743	VBIGarVag144721_0743	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854191	287584	288978	+	1395		Guanine-hypoxanthine permease	GV12	clust_0373
+GV13|SEQ00567	VBIGarVag244533_0567	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487104	70092	71486	+	1395		Guanine-hypoxanthine permease	GV13	clust_0373
+GV14|SEQ00128	VBIGarVag244375_0128	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502083	117536	118930	-	1395		Guanine-hypoxanthine permease	GV14	clust_0373
+GV15|SEQ00463	VBIGarVag249709_0463	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484456	199817	201220	-	1404		Guanine-hypoxanthine permease	GV15	clust_0373
+GV16|SEQ01256	VBIGarVag246379_1256	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479713	1480032	1481426	-	1395		Guanine-hypoxanthine permease	GV16	clust_0373
+GV17|SEQ00386	VBIGarVag146634_0386	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850799	372160	373563	-	1404		Guanine-hypoxanthine permease	GV17	clust_0373
+GV18|SEQ00347	VBIGarVag4823_0347	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000088	PATRIC	CDS	42069413	12006	13103	-	1098		Guanine-hypoxanthine permease	GV18	clust_0373
+GV19|SEQ00353	VBIGarVag39333_0354	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627569	431597	432991	+	1395		Guanine-hypoxanthine permease	GV19	clust_0373
+GV20|SEQ01163	VBIGarVag188338_1163	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191192	1453807	1455201	-	1395		Guanine-hypoxanthine permease	GV20	clust_0373
+GV21|SEQ01059	VBIGarVag274454_1060	Gardnerella vaginalis JCP7275	ATJS01000121	PATRIC	CDS	183968948	1454	2848	+	1395		Guanine-hypoxanthine permease	GV21	clust_0373
+GV22|SEQ01077	VBIGarVag276801_1078	Gardnerella vaginalis JCP7276	ATJR01000102	PATRIC	CDS	183971707	1453	2847	+	1395		Guanine-hypoxanthine permease	GV22	clust_0373
+GV23|SEQ00709	VBIGarVag276017_0709	Gardnerella vaginalis JCP7659	ATJQ01000047	PATRIC	CDS	183973788	1500	2894	-	1395		Guanine-hypoxanthine permease	GV23	clust_0373
+GV24|SEQ01220	VBIGarVag268944_1221	Gardnerella vaginalis JCP7672	ATJP01000165	PATRIC	CDS	183977790	6610	8004	+	1395		Guanine-hypoxanthine permease	GV24	clust_0373
+GV25|SEQ00638	VBIGarVag270495_0638	Gardnerella vaginalis JCP7719	ATJO01000059	PATRIC	CDS	183979236	693	1979	+	1287		Guanine-hypoxanthine permease	GV25	clust_0373
+GV26|SEQ01080	VBIGarVag272749_1080	Gardnerella vaginalis JCP8017A	ATJN01000083	PATRIC	CDS	183983050	1613	2899	-	1287		Guanine-hypoxanthine permease	GV26	clust_0373
+GV27|SEQ00984	VBIGarVag276930_0984	Gardnerella vaginalis JCP8017B	ATJM01000070	PATRIC	CDS	183985800	1672	3066	-	1395		Guanine-hypoxanthine permease	GV27	clust_0373
+GV28|SEQ00688	VBIGarVag271349_0688	Gardnerella vaginalis JCP8066	ATJL01000060	PATRIC	CDS	183988122	1640	3034	-	1395		Guanine-hypoxanthine permease	GV28	clust_0373
+GV29|SEQ00558	VBIGarVag265473_0558	Gardnerella vaginalis JCP8070	ATJK01000028	PATRIC	CDS	183990534	6286	7680	+	1395		Guanine-hypoxanthine permease	GV29	clust_0373
+GV30|SEQ00535	VBIGarVag267667_0536	Gardnerella vaginalis JCP8108	ATJJ01000028	PATRIC	CDS	183993167	6028	7422	+	1395		Guanine-hypoxanthine permease	GV30	clust_0373
+GV31|SEQ00101	VBIGarVag264983_0101	Gardnerella vaginalis JCP8151A	ATJI01000004	PATRIC	CDS	183995230	3185	4471	-	1287		Guanine-hypoxanthine permease	GV31	clust_0373
+GV32|SEQ01273	VBIGarVag277040_1273	Gardnerella vaginalis JCP8151B	ATJH01000180	PATRIC	CDS	184000643	6410	7804	+	1395		Guanine-hypoxanthine permease	GV32	clust_0373
+GV33|SEQ00438	VBIGarVag265557_0438	Gardnerella vaginalis JCP8481A	ATJG01000040	PATRIC	CDS	184001604	2411	3805	-	1395		Guanine-hypoxanthine permease	GV33	clust_0373
+GV34|SEQ00272	VBIGarVag270440_0272	Gardnerella vaginalis JCP8481B	ATJF01000018	PATRIC	CDS	184004081	14687	16081	+	1395		Guanine-hypoxanthine permease	GV34	clust_0373
+GV35|SEQ00986	VBIGarVag272169_0986	Gardnerella vaginalis JCP8522	ATJE01000127	PATRIC	CDS	184008445	3140	4534	-	1395		Guanine-hypoxanthine permease	GV35	clust_0373
+ADO1|SEQ00595	VBIBifAdo136061_0595	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187466	462929	464404	-	1476		Guanine-hypoxanthine permease	ADO1	clust_0373
+ANI1|SEQ00354	VBIBifAni240121_0354	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845624	431206	432600	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	ANI1	clust_0373
+ANI2|SEQ00353	VBIBifAni235968_0353	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848977	431208	432602	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	ANI2	clust_0373
+ANI3|SEQ00354	VBIBifAni108068_0354	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762990	431209	432603	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	ANI3	clust_0373
+BIF1|SEQ01561	VBIBifBif87902_1561	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885736	1874896	1876290	-	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BIF1	clust_0373
+BRE1|SEQ01650	VBIBifBre340958_1651	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605349	1922499	1923893	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE1	clust_0373
+BRE2|SEQ01755	VBIBifBre337368_1755	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609535	2023051	2024445	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE2	clust_0373
+BRE3|SEQ01708	VBIBifBre167886_1708	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195190	1980296	1981690	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE3	clust_0373
+BRE4|SEQ01689	VBIBifBre327712_1689	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613544	1955210	1956604	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE4	clust_0373
+BRE5|SEQ01811	VBIBifBre336369_1812	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617841	2025938	2027332	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE5	clust_0373
+BRE6|SEQ01380	VBIBifBre268992_1380	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177656000	32435	33829	-	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE6	clust_0373
+BRE7|SEQ01736	VBIBifBre340732_1736	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621995	1991738	1993132	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE7	clust_0373
+BRE8|SEQ01693	VBIBifBre176493_1693	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626021	1965121	1966515	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE8	clust_0373
+BRE9|SEQ01801	VBIBifBre30019_1801	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447765	2069176	2070570	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	BRE9	clust_0373
+INF1|SEQ01825	VBIBifLon182273_1825	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887696	2071759	2073153	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	INF1	clust_0373
+LON1|SEQ01600	VBIBifLon107831_1601	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120340	1955149	1956543	-	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	LON1	clust_0373
+LON2|SEQ01630	VBIBifLon171405_1633	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582865	1972419	1973813	-	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	LON2	clust_0373
+LON3|SEQ01689	VBIBifLon156230_1692	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766560	531766	533160	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	LON3	clust_0373
+LON4|SEQ01774	VBIBifLon48544_1774	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891940	2032271	2033665	+	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	LON4	clust_0373
+THE1|SEQ01477	VBIBifThe274299_1477	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736202	1819970	1821364	-	1395		Xanthine/uracil/thiamine/ascorbate permease family protein	THE1	clust_0373

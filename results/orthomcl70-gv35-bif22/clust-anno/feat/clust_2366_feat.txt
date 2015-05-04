@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00446	VBIBifBre337368_0446	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606816	537582	537854	-	273		Mobile element protein	BRE2	clust_2366
+BRE4|SEQ00409	VBIBifBre327712_0409	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610885	513512	514624	+	1113		Mobile element protein	BRE4	clust_2366
+BRE6|SEQ00025	VBIBifBre268992_0025	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS	177653139	78	350	+	273		Mobile element protein	BRE6	clust_2366
+BRE8|SEQ00447	VBIBifBre176493_0447	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623430	555896	557470	-	1575		Mobile element protein	BRE8	clust_2366
+BRE9|SEQ00499	VBIBifBre30019_0499	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445060	600464	600736	-	273		COG4584: Transposase and inactivated derivatives	BRE9	clust_2366
+BRE9|SEQ00503	VBIBifBre30019_0503	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445068	603260	604588	-	1329		Mobile element protein	BRE9	clust_2366
+LON2|SEQ00803	VBIBifLon171405_0804	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581148	903982	905472	+	1491		Mobile element protein	LON2	clust_2366

@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01872	VBIBifAdo136061_1872	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190115	386721	387164	+	444		Transcriptional regulator, MerR family	ADO1	clust_2365
+ANI1|SEQ00116	VBIBifAni240121_0116	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845133	137095	137493	+	399		Transcriptional regulator, MerR family	ANI1	clust_2365
+ANI2|SEQ00116	VBIBifAni235968_0116	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848488	137095	137493	+	399		Transcriptional regulator, MerR family	ANI2	clust_2365
+ANI3|SEQ00118	VBIBifAni108068_0118	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762504	137095	137493	+	399		Transcriptional regulator, MerR family	ANI3	clust_2365
+DEN1|SEQ01173	VBIBifDen165269_1174	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459475	384091	384513	-	423		Transcriptional regulator, MerR family	DEN1	clust_2365
+DEN2|SEQ01385	VBIBifDen39005_1386	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS	42111158	40437	40859	-	423		Transcriptional regulator, MerR family	DEN2	clust_2365
+THE1|SEQ01388	VBIBifThe274299_1388	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736014	1727844	1728290	-	447		putative HTH-type transcriptional regulator	THE1	clust_2365

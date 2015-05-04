@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00365	VBIBifBre340958_0365	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602679	455346	458039	+	2694		Putative galactosidase	BRE1	clust_1900
+BRE2|SEQ00427	VBIBifBre337368_0427	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606778	511416	514109	+	2694		Putative galactosidase	BRE2	clust_1900
+BRE3|SEQ00424	VBIBifBre167886_0424	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192520	524120	526813	+	2694		Putative galactosidase	BRE3	clust_1900
+BRE4|SEQ00374	VBIBifBre327712_0374	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610814	468814	471507	+	2694		Putative galactosidase	BRE4	clust_1900
+BRE6|SEQ00338	VBIBifBre268992_0338	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653796	3625	6318	+	2694		Putative galactosidase	BRE6	clust_1900
+BRE7|SEQ00400	VBIBifBre340732_0400	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619222	491339	494032	+	2694		Putative galactosidase	BRE7	clust_1900
+BRE8|SEQ00427	VBIBifBre176493_0427	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623390	529727	532420	+	2694	galA	Putative galactosidase	BRE8	clust_1900
+BRE9|SEQ00468	VBIBifBre30019_0468	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444998	562557	565250	+	2694	galA	Putative galactosidase	BRE9	clust_1900
+INF1|SEQ00364	VBIBifLon182273_0364	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884664	451963	454656	+	2694		Putative galactosidase	INF1	clust_1900
+LON1|SEQ00991	VBIBifLon107831_0992	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119059	1167523	1170036	-	2514		Putative galactosidase	LON1	clust_1900
+LON3|SEQ00854	VBIBifLon156230_0854	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768683	1772490	1775183	-	2694		Putative galactosidase	LON3	clust_1900

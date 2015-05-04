@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01839	VBIBifBre340958_1841	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605745	2164418	2165743	-	1326		Multiple sugar ABC transporter, substrate-binding protein	BRE1	clust_2335
+BRE5|SEQ02017	VBIBifBre336369_2018	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618270	2288202	2289527	-	1326		Multiple sugar ABC transporter, substrate-binding protein	BRE5	clust_2335
+BRE9|SEQ02005	VBIBifBre30019_2005	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448190	2330885	2332210	-	1326		Multiple sugar ABC transporter, substrate-binding protein	BRE9	clust_2335
+DEN1|SEQ00747	VBIBifDen165269_0748	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462800	2236539	2237864	+	1326	malE	Multiple sugar ABC transporter, substrate-binding protein	DEN1	clust_2335
+DEN2|SEQ00007	VBIBifDen39005_0007	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS	42108295	8151	9476	-	1326		Multiple sugar ABC transporter, substrate-binding protein	DEN2	clust_2335
+LON2|SEQ01471	VBIBifLon171405_1474	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582529	1719034	1720359	+	1326		Multiple sugar ABC transporter, substrate-binding protein	LON2	clust_2335
+LON3|SEQ01555	VBIBifLon156230_1558	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769731	2373505	2374830	+	1326		Multiple sugar ABC transporter, substrate-binding protein	LON3	clust_2335
+LON4|SEQ01943	VBIBifLon48544_1944	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892303	2306148	2307473	-	1326		Multiple sugar ABC transporter, substrate-binding protein	LON4	clust_2335

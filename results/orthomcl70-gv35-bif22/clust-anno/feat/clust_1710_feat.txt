@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00329	VBIBifBre340958_0329	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602602	414912	415331	-	420		plasmid stability protein StbB	BRE1	clust_1710
+BRE2|SEQ00390	VBIBifBre337368_0390	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606699	469253	469675	-	423		plasmid stability protein StbB	BRE2	clust_1710
+BRE3|SEQ00388	VBIBifBre167886_0388	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192444	482139	482561	-	423		plasmid stability protein StbB	BRE3	clust_1710
+BRE4|SEQ00339	VBIBifBre327712_0339	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610739	426803	427222	-	420		plasmid stability protein StbB	BRE4	clust_1710
+BRE5|SEQ00366	VBIBifBre336369_0367	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614842	428318	428740	-	423		plasmid stability protein StbB	BRE5	clust_1710
+BRE6|SEQ00874	VBIBifBre268992_0874	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654934	28873	29295	+	423		plasmid stability protein StbB	BRE6	clust_1710
+BRE7|SEQ00362	VBIBifBre340732_0362	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619142	449278	449700	-	423		plasmid stability protein StbB	BRE7	clust_1710
+BRE8|SEQ00386	VBIBifBre176493_0386	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623303	480579	481001	-	423		plasmid stability protein StbB	BRE8	clust_1710
+BRE9|SEQ00429	VBIBifBre30019_0429	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444914	520585	520860	-	276		plasmid stability protein StbB	BRE9	clust_1710
+INF1|SEQ00316	VBIBifLon182273_0316	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884561	397342	397761	-	420		plasmid stability protein StbB	INF1	clust_1710
+LON1|SEQ01035	VBIBifLon107831_1036	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119153	1221142	1221561	+	420	stbB	plasmid stability protein StbB	LON1	clust_1710
+LON2|SEQ01092	VBIBifLon171405_1094	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581737	1250004	1250423	+	420	vapC	plasmid stability protein StbB	LON2	clust_1710
+LON3|SEQ00903	VBIBifLon156230_0904	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768787	1831709	1832128	+	420		plasmid stability protein StbB	LON3	clust_1710
+LON4|SEQ00324	VBIBifLon48544_0324	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888880	400071	400490	-	420		plasmid stability protein StbB	LON4	clust_1710

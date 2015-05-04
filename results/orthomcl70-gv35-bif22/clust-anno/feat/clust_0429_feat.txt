@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01261	VBIBifAdo136061_1261	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188863	193198	193557	-	360		Putative Holliday junction resolvase (EC 3.1.-.-)	ADO1	clust_0429
+ANI1|SEQ00928	VBIBifAni240121_0928	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846831	1074727	1075218	-	492		Putative Holliday junction resolvase (EC 3.1.-.-)	ANI1	clust_0429
+ANI2|SEQ00927	VBIBifAni235968_0927	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850182	1074730	1075179	-	450		Putative Holliday junction resolvase YggF	ANI2	clust_0429
+ANI3|SEQ00931	VBIBifAni108068_0931	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764197	1074731	1075222	-	492		Putative Holliday junction resolvase (EC 3.1.-.-)	ANI3	clust_0429
+BIF1|SEQ00795	VBIBifBif87902_0795	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884137	976160	976597	+	438		Putative Holliday junction resolvase (EC 3.1.-.-)	BIF1	clust_0429
+BRE1|SEQ00856	VBIBifBre340958_0856	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603696	1019735	1020187	+	453		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE1	clust_0429
+BRE2|SEQ00938	VBIBifBre337368_0938	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607832	1101577	1102029	+	453		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE2	clust_0429
+BRE3|SEQ00940	VBIBifBre167886_0940	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193592	1111503	1111934	-	432		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE3	clust_0429
+BRE4|SEQ00888	VBIBifBre327712_0888	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611875	1057648	1057944	+	297		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE4	clust_0429
+BRE5|SEQ00907	VBIBifBre336369_0908	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615961	1059958	1060389	+	432		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE5	clust_0429
+BRE6|SEQ00774	VBIBifBre268992_0774	Bifidobacterium breve JCP7499	AWSX01000040	PATRIC	CDS	177654719	1265	1717	-	453		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE6	clust_0429
+BRE7|SEQ00888	VBIBifBre340732_0888	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620233	1049494	1049925	+	432		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE7	clust_0429
+BRE8|SEQ00918	VBIBifBre176493_0918	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624402	1095850	1096302	+	453		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE8	clust_0429
+BRE9|SEQ00971	VBIBifBre30019_0971	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446038	1149046	1149498	+	453		Putative Holliday junction resolvase (EC 3.1.-.-)	BRE9	clust_0429
+DEN1|SEQ01652	VBIBifDen165269_1653	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460459	951416	951871	-	456		Putative Holliday junction resolvase (EC 3.1.-.-)	DEN1	clust_0429
+DEN2|SEQ00551	VBIBifDen39005_0551	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109430	190410	190865	+	456		Putative Holliday junction resolvase (EC 3.1.-.-)	DEN2	clust_0429
+GV01|SEQ01100	VBIGarVag247323_1100	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496401	102867	103397	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV01	clust_0429
+GV02|SEQ00339	VBIGarVag242669_0339	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497454	145963	146493	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV02	clust_0429
+GV03|SEQ00530	VBIGarVag247424_0530	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500467	84079	84537	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV03	clust_0429
+GV04|SEQ00763	VBIGarVag246433_0763	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481425	93660	94130	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV04	clust_0429
+GV05|SEQ00551	VBIGarVag174900_0551	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546846	145542	146000	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV05	clust_0429
+GV06|SEQ00325	VBIGarVag244004_0325	Gardnerella vaginalis 1400E	ADER01000008	PATRIC	CDS	85489376	19660	20130	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV06	clust_0429
+GV07|SEQ00861	VBIGarVag249177_0861	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493393	135151	135609	-	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV07	clust_0429
+GV08|SEQ00774	VBIGarVag251521_0774	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475974	132496	132966	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV08	clust_0429
+GV09|SEQ00220	VBIGarVag169280_0220	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259603	42372	42842	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV09	clust_0429
+GV10|SEQ00347	VBIGarVag136958_0347	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146732	404585	405040	+	456		Putative Holliday junction resolvase (EC 3.1.-.-)	GV10	clust_0429
+GV11|SEQ00319	VBIGarVag171052_0319	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548939	21577	22047	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV11	clust_0429
+GV12|SEQ00889	VBIGarVag144721_0889	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854499	440827	441285	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV12	clust_0429
+GV13|SEQ00426	VBIGarVag244533_0426	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486812	20665	21135	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV13	clust_0429
+GV14|SEQ00835	VBIGarVag244375_0835	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503559	28639	29097	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV14	clust_0429
+GV15|SEQ00316	VBIGarVag249709_0316	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484145	40928	41392	-	465		Putative Holliday junction resolvase (EC 3.1.-.-)	GV15	clust_0429
+GV16|SEQ00540	VBIGarVag246379_0540	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478228	588248	588718	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV16	clust_0429
+GV17|SEQ00248	VBIGarVag146634_0248	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850507	219442	219906	-	465		Putative Holliday junction resolvase (EC 3.1.-.-)	GV17	clust_0429
+GV18|SEQ01307	VBIGarVag4823_1307	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071457	85472	85942	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV18	clust_0429
+GV19|SEQ01071	VBIGarVag39333_1072	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629053	1310401	1310871	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV19	clust_0429
+GV20|SEQ00436	VBIGarVag188338_0436	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189686	547718	548188	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV20	clust_0429
+GV21|SEQ00577	VBIGarVag274454_0578	Gardnerella vaginalis JCP7275	ATJS01000031	PATRIC	CDS	183967834	7217	7717	-	501		Putative Holliday junction resolvase (EC 3.1.-.-)	GV21	clust_0429
+GV22|SEQ01054	VBIGarVag276801_1055	Gardnerella vaginalis JCP7276	ATJR01000091	PATRIC	CDS	183971650	149	619	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV22	clust_0429
+GV23|SEQ01219	VBIGarVag276017_1219	Gardnerella vaginalis JCP7659	ATJQ01000196	PATRIC	CDS	183975003	1854	2384	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV23	clust_0429
+GV24|SEQ00639	VBIGarVag268944_0640	Gardnerella vaginalis JCP7672	ATJP01000044	PATRIC	CDS	183976451	2415	2885	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV24	clust_0429
+GV25|SEQ00974	VBIGarVag270495_0974	Gardnerella vaginalis JCP7719	ATJO01000109	PATRIC	CDS	183979981	1851	2381	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV25	clust_0429
+GV26|SEQ01186	VBIGarVag272749_1186	Gardnerella vaginalis JCP8017A	ATJN01000133	PATRIC	CDS	183983315	158	688	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV26	clust_0429
+GV27|SEQ01258	VBIGarVag276930_1258	Gardnerella vaginalis JCP8017B	ATJM01000145	PATRIC	CDS	183986436	2457	2987	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV27	clust_0429
+GV28|SEQ00852	VBIGarVag271349_0852	Gardnerella vaginalis JCP8066	ATJL01000069	PATRIC	CDS	183988469	2585	3115	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV28	clust_0429
+GV29|SEQ01023	VBIGarVag265473_1023	Gardnerella vaginalis JCP8070	ATJK01000100	PATRIC	CDS	183991568	1322	1852	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV29	clust_0429
+GV30|SEQ00627	VBIGarVag267667_0628	Gardnerella vaginalis JCP8108	ATJJ01000038	PATRIC	CDS	183993376	7554	8024	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV30	clust_0429
+GV31|SEQ01179	VBIGarVag264983_1179	Gardnerella vaginalis JCP8151A	ATJI01000148	PATRIC	CDS	183997606	1269	1799	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV31	clust_0429
+GV32|SEQ00828	VBIGarVag277040_0828	Gardnerella vaginalis JCP8151B	ATJH01000060	PATRIC	CDS	183999596	7792	8322	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV32	clust_0429
+GV33|SEQ00935	VBIGarVag265557_0935	Gardnerella vaginalis JCP8481A	ATJG01000107	PATRIC	CDS	184002705	4630	5088	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV33	clust_0429
+GV34|SEQ00987	VBIGarVag270440_0987	Gardnerella vaginalis JCP8481B	ATJF01000112	PATRIC	CDS	184005650	15179	15637	-	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV34	clust_0429
+GV35|SEQ00919	VBIGarVag272169_0919	Gardnerella vaginalis JCP8522	ATJE01000101	PATRIC	CDS	184008275	1927	2457	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV35	clust_0429
+INF1|SEQ00798	VBIBifLon182273_0798	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885565	971144	971581	+	438		Putative Holliday junction resolvase YggF	INF1	clust_0429
+LON1|SEQ00576	VBIBifLon107831_0577	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118209	668220	668657	-	438		Putative Holliday junction resolvase YggF	LON1	clust_0429
+LON2|SEQ00635	VBIBifLon171405_0636	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580796	703540	703977	-	438		Putative Holliday junction resolvase YggF	LON2	clust_0429
+LON3|SEQ00442	VBIBifLon156230_0442	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767836	1278831	1279268	-	438		Putative Holliday junction resolvase YggF	LON3	clust_0429
+LON4|SEQ00770	VBIBifLon48544_0770	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889811	928489	928926	+	438		Putative Holliday junction resolvase YggF	LON4	clust_0429
+THE1|SEQ00955	VBIBifThe274299_0955	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735104	1196535	1197017	+	483		Putative Holliday junction resolvase YggF	THE1	clust_0429

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV06|SEQ00945	85490698	VBIGarVag244004_0945	SEQ00945	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	NA	Type II restriction endonuclease	FIG01526052	figfam	clust_2019
+GV11|SEQ00567	52549466	VBIGarVag171052_0567	SEQ00567	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	NA	Type II restriction endonuclease	FIG01526052	figfam	clust_2019
+GV13|SEQ00654	85487289	VBIGarVag244533_0654	SEQ00654	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	Type II restriction endonuclease	FIG01526052	figfam	clust_2019

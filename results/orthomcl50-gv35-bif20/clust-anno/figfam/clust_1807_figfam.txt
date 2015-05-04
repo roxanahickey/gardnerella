@@ -1,0 +1,13 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01793	27189957	VBIBifAdo136061_1793	SEQ01793	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+BIF1|SEQ00555	86883645	VBIBifBif87902_0555	SEQ00555	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV03|SEQ00610	85500641	VBIGarVag247424_0610	SEQ00610	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV05|SEQ00629	52547016	VBIGarVag174900_0629	SEQ00629	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV07|SEQ00775	85493207	VBIGarVag249177_0775	SEQ00775	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV10|SEQ00420	32146892	VBIGarVag136958_0420	SEQ00420	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV12|SEQ00988	37854711	VBIGarVag144721_0988	SEQ00988	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV14|SEQ00425	85502706	VBIGarVag244375_0425	SEQ00425	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV15|SEQ00224	85483954	VBIGarVag249709_0224	SEQ00224	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV17|SEQ00169	37850335	VBIGarVag146634_0169	SEQ00169	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV33|SEQ01152	184003206	VBIGarVag265557_1152	SEQ01152	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000157	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807
+GV34|SEQ01179	184006077	VBIGarVag270440_1179	SEQ01179	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000139	PATRIC	CDS	NA	Aspartate racemase (EC 5.1.1.13)	FIG00004410	figfam	clust_1807

@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00102	VBIBifBre340958_0102	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602128	132313	133365	+	1053		Sucrose operon repressor ScrR, LacI family	BRE1	clust_1681
+BRE2|SEQ00095	VBIBifBre337368_0095	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606087	124933	125985	+	1053		Sucrose operon repressor ScrR, LacI family	BRE2	clust_1681
+BRE3|SEQ00099	VBIBifBre167886_0099	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191842	131259	132311	+	1053		Sucrose operon repressor ScrR, LacI family	BRE3	clust_1681
+BRE4|SEQ00116	VBIBifBre327712_0116	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610271	151372	152424	+	1053		Sucrose operon repressor ScrR, LacI family	BRE4	clust_1681
+BRE5|SEQ00105	VBIBifBre336369_0105	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614298	131768	132820	+	1053		Sucrose operon repressor ScrR, LacI family	BRE5	clust_1681
+BRE6|SEQ01256	VBIBifBre268992_1256	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655736	4647	5699	-	1053		Sucrose operon repressor ScrR, LacI family	BRE6	clust_1681
+BRE7|SEQ00094	VBIBifBre340732_0094	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618585	122619	123671	+	1053		Sucrose operon repressor ScrR, LacI family	BRE7	clust_1681
+BRE8|SEQ00116	VBIBifBre176493_0116	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622742	147704	148756	+	1053	scrR2	Sucrose operon repressor ScrR, LacI family	BRE8	clust_1681
+BRE9|SEQ00114	VBIBifBre30019_0114	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444257	147956	149008	+	1053	scrR2	Sucrose operon repressor ScrR, LacI family	BRE9	clust_1681
+INF1|SEQ00102	VBIBifLon182273_0102	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884110	125648	126691	+	1044		Sucrose operon repressor ScrR, LacI family	INF1	clust_1681
+LON1|SEQ01273	VBIBifLon107831_1274	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119651	1500956	1501939	-	984	scrR	Sucrose operon repressor ScrR, LacI family	LON1	clust_1681
+LON3|SEQ01380	VBIBifLon156230_1383	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769369	2139578	2140621	-	1044		Sucrose operon repressor ScrR, LacI family	LON3	clust_1681
+LON4|SEQ00111	VBIBifLon48544_0111	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888429	141146	142189	+	1044		Sucrose operon repressor ScrR, LacI family	LON4	clust_1681
+THE1|SEQ00108	VBIBifThe274299_0108	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733379	126180	127316	+	1137		Sucrose operon repressor ScrR, LacI family	THE1	clust_1681

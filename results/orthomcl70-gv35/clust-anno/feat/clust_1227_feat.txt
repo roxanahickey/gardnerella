@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01142	VBIGarVag247323_1142	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496486	154846	155751	+	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV01	clust_1227
+GV02|SEQ00295	VBIGarVag242669_0295	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497365	95216	96121	-	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV02	clust_1227
+GV07|SEQ00716	VBIGarVag249177_0716	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493084	95067	95972	-	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV07	clust_1227
+GV08|SEQ00075	VBIGarVag251521_0075	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474515	88111	89016	-	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV08	clust_1227
+GV12|SEQ00081	VBIGarVag144721_0081	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852813	3703	4608	+	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV12	clust_1227
+GV16|SEQ00850	VBIGarVag246379_0850	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478861	957711	958616	-	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV16	clust_1227
+GV18|SEQ01130	VBIGarVag4823_1130	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071090	19656	20561	+	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV18	clust_1227
+GV19|SEQ00770	VBIGarVag39333_0771	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628438	956347	957252	+	906	polC	DNA polymerase III alpha subunit (EC 2.7.7.7)	GV19	clust_1227
+GV24|SEQ00925	VBIGarVag268944_0926	Gardnerella vaginalis JCP7672	ATJP01000082	PATRIC	CDS	183977073	20442	21347	-	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV24	clust_1227
+GV25|SEQ00401	VBIGarVag270495_0401	Gardnerella vaginalis JCP7719	ATJO01000027	PATRIC	CDS	183978714	3092	3997	+	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV25	clust_1227
+GV31|SEQ00558	VBIGarVag264983_0558	Gardnerella vaginalis JCP8151A	ATJI01000023	PATRIC	CDS	183996193	2970	3875	-	906		DNA polymerase III alpha subunit (EC 2.7.7.7)	GV31	clust_1227

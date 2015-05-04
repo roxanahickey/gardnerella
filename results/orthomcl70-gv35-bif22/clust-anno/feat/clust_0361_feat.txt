@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00491	VBIBifAdo136061_0491	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187249	335706	337037	+	1332		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	ADO1	clust_0361
+ANI1|SEQ00247	VBIBifAni240121_0247	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845402	293354	294676	+	1323		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	ANI1	clust_0361
+ANI2|SEQ00246	VBIBifAni235968_0246	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848755	293356	294678	+	1323		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	ANI2	clust_0361
+ANI3|SEQ00247	VBIBifAni108068_0247	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762768	293357	294679	+	1323		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	ANI3	clust_0361
+BIF1|SEQ00194	VBIBifBif87902_0194	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882899	245982	247307	+	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BIF1	clust_0361
+BRE1|SEQ01726	VBIBifBre340958_1727	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605509	2014837	2016162	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE1	clust_0361
+BRE2|SEQ01830	VBIBifBre337368_1830	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609693	2115372	2116697	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE2	clust_0361
+BRE3|SEQ01794	VBIBifBre167886_1794	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195370	2087337	2088662	-	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE3	clust_0361
+BRE4|SEQ01766	VBIBifBre327712_1766	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613706	2047679	2049004	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE4	clust_0361
+BRE5|SEQ01891	VBIBifBre336369_1892	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618010	2121056	2122381	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE5	clust_0361
+BRE6|SEQ01220	VBIBifBre268992_1220	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS	177655660	23042	24367	+	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE6	clust_0361
+BRE7|SEQ01825	VBIBifBre340732_1825	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622181	2098423	2099748	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE7	clust_0361
+BRE8|SEQ01781	VBIBifBre176493_1781	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626206	2071889	2073214	-	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE8	clust_0361
+BRE9|SEQ01887	VBIBifBre30019_1887	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447945	2175875	2177200	-	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	BRE9	clust_0361
+DEN1|SEQ00425	VBIBifDen165269_0426	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462137	1811689	1813014	-	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	DEN1	clust_0361
+DEN2|SEQ01081	VBIBifDen39005_1081	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000019	PATRIC	CDS	42110521	4437	5762	-	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	DEN2	clust_0361
+GV01|SEQ00884	VBIGarVag247323_0884	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495941	106141	107499	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV01	clust_0361
+GV02|SEQ01176	VBIGarVag242669_1176	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499225	154036	155394	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV02	clust_0361
+GV03|SEQ00303	VBIGarVag247424_0303	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499994	260095	261591	+	1497		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV03	clust_0361
+GV04|SEQ01336	VBIGarVag246433_1336	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482621	13774	15132	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV04	clust_0361
+GV05|SEQ00405	VBIGarVag174900_0405	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546539	258624	260120	+	1497		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV05	clust_0361
+GV06|SEQ00539	VBIGarVag244004_0539	Gardnerella vaginalis 1400E	ADER01000016	PATRIC	CDS	85489842	14047	15405	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV06	clust_0361
+GV07|SEQ01135	VBIGarVag249177_1135	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493967	33365	34861	-	1497		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV07	clust_0361
+GV08|SEQ00182	VBIGarVag251521_0182	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474746	13525	14883	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV08	clust_0361
+GV09|SEQ00632	VBIGarVag169280_0632	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260455	398155	399513	-	1359	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV09	clust_0361
+GV10|SEQ00187	VBIGarVag136958_0187	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146394	227744	229105	+	1362	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV10	clust_0361
+GV11|SEQ01113	VBIGarVag171052_1113	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550619	58765	60123	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV11	clust_0361
+GV12|SEQ00725	VBIGarVag144721_0725	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854153	263722	265083	+	1362		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV12	clust_0361
+GV13|SEQ00540	VBIGarVag244533_0540	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487048	38527	39885	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV13	clust_0361
+GV14|SEQ00149	VBIGarVag244375_0149	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502127	142762	144258	-	1497		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV14	clust_0361
+GV15|SEQ00482	VBIGarVag249709_0482	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484496	223720	225153	-	1434		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV15	clust_0361
+GV16|SEQ01284	VBIGarVag246379_1284	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479771	1511896	1513254	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV16	clust_0361
+GV17|SEQ00405	VBIGarVag146634_0405	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850839	396100	397461	-	1362		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV17	clust_0361
+GV18|SEQ00798	VBIGarVag4823_0798	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000129	PATRIC	CDS	42070391	3027	4385	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV18	clust_0361
+GV19|SEQ00325	VBIGarVag39333_0326	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627511	399431	400789	+	1359	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV19	clust_0361
+GV20|SEQ01190	VBIGarVag188338_1190	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191248	1485613	1486971	-	1359	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV20	clust_0361
+GV21|SEQ00909	VBIGarVag274454_0910	Gardnerella vaginalis JCP7275	ATJS01000071	PATRIC	CDS	183968578	7329	8687	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV21	clust_0361
+GV22|SEQ01026	VBIGarVag276801_1027	Gardnerella vaginalis JCP7276	ATJR01000084	PATRIC	CDS	183971583	3310	4668	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV22	clust_0361
+GV23|SEQ00426	VBIGarVag276017_0426	Gardnerella vaginalis JCP7659	ATJQ01000031	PATRIC	CDS	183973189	2016	3374	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV23	clust_0361
+GV24|SEQ01130	VBIGarVag268944_1131	Gardnerella vaginalis JCP7672	ATJP01000124	PATRIC	CDS	183977549	2229	3587	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV24	clust_0361
+GV25|SEQ00422	VBIGarVag270495_0422	Gardnerella vaginalis JCP7719	ATJO01000033	PATRIC	CDS	183978766	1988	3346	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV25	clust_0361
+GV26|SEQ00692	VBIGarVag272749_0692	Gardnerella vaginalis JCP8017A	ATJN01000033	PATRIC	CDS	183982188	5994	7352	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV26	clust_0361
+GV27|SEQ01063	VBIGarVag276930_1063	Gardnerella vaginalis JCP8017B	ATJM01000091	PATRIC	CDS	183985982	7137	8495	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV27	clust_0361
+GV28|SEQ01081	VBIGarVag271349_1081	Gardnerella vaginalis JCP8066	ATJL01000141	PATRIC	CDS	183989021	7109	8467	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV28	clust_0361
+GV29|SEQ00407	VBIGarVag265473_0407	Gardnerella vaginalis JCP8070	ATJK01000019	PATRIC	CDS	183990215	8774	10132	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV29	clust_0361
+GV30|SEQ00584	VBIGarVag267667_0585	Gardnerella vaginalis JCP8108	ATJJ01000033	PATRIC	CDS	183993282	7311	8669	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV30	clust_0361
+GV31|SEQ01044	VBIGarVag264983_1044	Gardnerella vaginalis JCP8151A	ATJI01000093	PATRIC	CDS	183997263	7355	8713	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV31	clust_0361
+GV32|SEQ00799	VBIGarVag277040_0799	Gardnerella vaginalis JCP8151B	ATJH01000055	PATRIC	CDS	183999533	7203	8561	-	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV32	clust_0361
+GV33|SEQ00064	VBIGarVag265557_0064	Gardnerella vaginalis JCP8481A	ATJG01000006	PATRIC	CDS	184000788	1874	3235	+	1362		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV33	clust_0361
+GV34|SEQ00281	VBIGarVag270440_0281	Gardnerella vaginalis JCP8481B	ATJF01000019	PATRIC	CDS	184004102	10165	11526	-	1362		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV34	clust_0361
+GV35|SEQ00781	VBIGarVag272169_0781	Gardnerella vaginalis JCP8522	ATJE01000072	PATRIC	CDS	184007956	21946	23304	+	1359		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	GV35	clust_0361
+INF1|SEQ01883	VBIBifLon182273_1883	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887823	2157117	2158442	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	INF1	clust_0361
+LON1|SEQ01553	VBIBifLon107831_1554	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120236	1878488	1879813	+	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	LON1	clust_0361
+LON2|SEQ01577	VBIBifLon171405_1580	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582749	1888965	1890290	+	1326	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	LON2	clust_0361
+LON3|SEQ01758	VBIBifLon156230_1761	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766703	626103	627428	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	LON3	clust_0361
+LON4|SEQ01824	VBIBifLon48544_1824	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892050	2113189	2114514	-	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	LON4	clust_0361
+THE1|SEQ00269	VBIBifThe274299_0269	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733708	316983	318308	+	1326		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	THE1	clust_0361

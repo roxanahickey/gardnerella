@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00044	VBIBifBif87902_0044	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882585	56764	57276	+	513		DNA-binding response regulator	BIF1	clust_3816
+DEN1|SEQ00483	VBIBifDen165269_0484	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462258	1886556	1887272	-	717		hypothetical protein	DEN1	clust_3816
+DEN2|SEQ01319	VBIBifDen39005_1320	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111023	40262	40978	-	717		hypothetical protein	DEN2	clust_3816

@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01535	27189431	VBIBifAdo136061_1535	SEQ01535	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2880
+BIF1|SEQ00049	86882595	VBIBifBif87902_0049	SEQ00049	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2880
+BRE5|SEQ01948	268618124	VBIBifBre336369_1949	SEQ01948	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		1,4-beta-N-acetylmuramidase	FIG01472404	figfam	clust_2880
+GV33|SEQ01253	184003454	VBIGarVag265557_1253	SEQ01253	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	NA	FIG00672237: hypothetical protein	FIG00672236	figfam	clust_2880
+GV34|SEQ00107	184003709	VBIGarVag270440_0107	SEQ00107	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	NA	FIG00672237: hypothetical protein	FIG00672236	figfam	clust_2880

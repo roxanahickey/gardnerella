@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00863	VBIBifDen165269_0864	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463034	2398407	2399375	+	969		ABC-type polysaccharide transport system, permease component	DEN1	clust_4818
+DEN2|SEQ00316	VBIBifDen39005_0316	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108955	32357	33325	-	969		ABC-type polysaccharide transport system, permease component	DEN2	clust_4818

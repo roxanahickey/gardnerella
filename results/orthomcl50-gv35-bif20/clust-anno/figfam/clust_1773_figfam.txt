@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00068	86882634	VBIBifBif87902_0068	SEQ00068	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1773
+BRE1|SEQ00798	268603580	VBIBifBre340958_0798	SEQ00798	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+BRE4|SEQ00826	268611751	VBIBifBre327712_0826	SEQ00826	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+BRE5|SEQ00828	268615801	VBIBifBre336369_0829	SEQ00828	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+BRE8|SEQ00854	268624273	VBIBifBre176493_0854	SEQ00854	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+BRE9|SEQ00904	58445902	VBIBifBre30019_0904	SEQ00904	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+INF1|SEQ00751	46885471	VBIBifLon182273_0751	SEQ00751	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+LON3|SEQ00490	42767932	VBIBifLon156230_0490	SEQ00490	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773
+LON4|SEQ00722	46889714	VBIBifLon48544_0722	SEQ00722	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00425752: hypothetical protein	FIG01608207	figfam	clust_1773

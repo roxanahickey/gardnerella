@@ -1,0 +1,15 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01360	27189072	VBIBifAdo136061_1360	SEQ01360	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		capsular polysaccharide biosynthesis protein	FIG00031969	figfam	clust_1545
+BRE1|SEQ00376	268602701	VBIBifBre340958_0376	SEQ00376	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		capsular polysaccharide biosynthesis proteinCps4H	FIG00623681	figfam	clust_1545
+BRE2|SEQ00437	268606798	VBIBifBre337368_0437	SEQ00437	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+BRE3|SEQ00437	54192547	VBIBifBre167886_0437	SEQ00437	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		capsular polysaccharide biosynthesis proteinCps4H	FIG00623681	figfam	clust_1545
+BRE4|SEQ00396	268610859	VBIBifBre327712_0396	SEQ00396	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+BRE5|SEQ00416	268614947	VBIBifBre336369_0417	SEQ00416	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1545
+BRE5|SEQ00419	268614953	VBIBifBre336369_0420	SEQ00419	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+BRE6|SEQ00035	177653159	VBIBifBre268992_0035	SEQ00035	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+BRE7|SEQ00411	268619244	VBIBifBre340732_0411	SEQ00411	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+BRE8|SEQ00437	268623410	VBIBifBre176493_0437	SEQ00437	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+BRE9|SEQ00489	58445040	VBIBifBre30019_0489	SEQ00489	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		glycosyl transferase group 1	FIG00498216	figfam	clust_1545
+INF1|SEQ00392	46884721	VBIBifLon182273_0392	SEQ00392	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		capsular polysaccharide biosynthesis protein	FIG00031969	figfam	clust_1545
+LON2|SEQ01034	42581615	VBIBifLon171405_1035	SEQ01034	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1545
+LON3|SEQ00841	42768656	VBIBifLon156230_0841	SEQ00841	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		capsular polysaccharide biosynthesis protein	FIG00031969	figfam	clust_1545

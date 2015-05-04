@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01348	VBIBifBre340958_1349	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604713	1586717	1586914	-	198		Prokaryotic ubiquitin-like protein Pup	BRE1	clust_1986
+BRE2|SEQ01435	VBIBifBre337368_1435	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608863	1661277	1661474	-	198		Prokaryotic ubiquitin-like protein Pup	BRE2	clust_1986
+BRE3|SEQ00476	VBIBifBre167886_0476	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192627	583429	583626	+	198		Prokaryotic ubiquitin-like protein Pup	BRE3	clust_1986
+BRE4|SEQ01380	VBIBifBre327712_1380	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612892	1611314	1611511	-	198		Prokaryotic ubiquitin-like protein Pup	BRE4	clust_1986
+BRE5|SEQ01512	VBIBifBre336369_1513	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617213	1697871	1698068	-	198		Prokaryotic ubiquitin-like protein Pup	BRE5	clust_1986
+BRE6|SEQ00273	VBIBifBre268992_0273	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653657	51061	51258	-	198		Prokaryotic ubiquitin-like protein Pup	BRE6	clust_1986
+BRE7|SEQ01395	VBIBifBre340732_1395	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621283	1614329	1614526	-	198		Prokaryotic ubiquitin-like protein Pup	BRE7	clust_1986
+BRE8|SEQ01414	VBIBifBre176493_1414	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625431	1656694	1656891	-	198		Prokaryotic ubiquitin-like protein Pup	BRE8	clust_1986
+BRE9|SEQ01479	VBIBifBre30019_1479	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447090	1717479	1717676	-	198		Prokaryotic ubiquitin-like protein Pup	BRE9	clust_1986
+THE1|SEQ01141	VBIBifThe274299_1141	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735499	1419777	1419968	-	192		hypothetical protein	THE1	clust_1986

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01070	VBIBifDen165269_1071	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459265	245861	246400	-	540		ABC transporter membrane-spanning permease - glutamine transport	DEN1	clust_4873
+DEN2|SEQ02031	VBIBifDen39005_2033	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112499	17762	18301	-	540		ABC transporter membrane-spanning permease - glutamine transport	DEN2	clust_4873

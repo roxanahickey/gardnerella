@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01692	VBIBifBif87902_1692	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886007	2037389	2038231	-	843	yxeH	Hydrolase (HAD superfamily)	BIF1	clust_1597
+BRE1|SEQ00901	VBIBifBre340958_0901	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603788	1074505	1075350	+	846		Hydrolase (HAD superfamily)	BRE1	clust_1597
+BRE2|SEQ00983	VBIBifBre337368_0983	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607924	1156446	1157291	+	846		Hydrolase (HAD superfamily)	BRE2	clust_1597
+BRE3|SEQ00896	VBIBifBre167886_0896	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193502	1056405	1057250	-	846		Hydrolase (HAD superfamily)	BRE3	clust_1597
+BRE4|SEQ01060	VBIBifBre327712_1060	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612237	1228196	1229041	-	846		Hydrolase (HAD superfamily)	BRE4	clust_1597
+BRE5|SEQ01041	VBIBifBre336369_1042	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616239	1174453	1175298	+	846		Hydrolase (HAD superfamily)	BRE5	clust_1597
+BRE6|SEQ00190	VBIBifBre268992_0190	Bifidobacterium breve JCP7499	AWSX01000012	PATRIC	CDS	177653489	19576	20421	+	846		Hydrolase (HAD superfamily)	BRE6	clust_1597
+BRE7|SEQ00933	VBIBifBre340732_0933	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620325	1105306	1106151	+	846		Hydrolase (HAD superfamily)	BRE7	clust_1597
+BRE8|SEQ00963	VBIBifBre176493_0963	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624494	1151637	1152482	+	846		Hydrolase (HAD superfamily)	BRE8	clust_1597
+BRE9|SEQ01017	VBIBifBre30019_1017	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446132	1204987	1205832	+	846		Hydrolase (HAD superfamily)	BRE9	clust_1597
+INF1|SEQ00942	VBIBifLon182273_0942	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885863	1099765	1100610	+	846		Hydrolase (HAD superfamily)	INF1	clust_1597
+LON1|SEQ00515	VBIBifLon107831_0516	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118085	599916	600770	-	855		Hydrolase (HAD superfamily)	LON1	clust_1597
+LON2|SEQ00581	VBIBifLon171405_0582	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580686	642429	643286	-	858		Hydrolase (HAD superfamily)	LON2	clust_1597
+LON3|SEQ00386	VBIBifLon156230_0386	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767722	1213640	1214494	-	855		Hydrolase (HAD superfamily)	LON3	clust_1597
+LON4|SEQ00826	VBIBifLon48544_0826	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889925	993091	993936	+	846		Hydrolase (HAD superfamily)	LON4	clust_1597
+THE1|SEQ00272	VBIBifThe274299_0272	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733714	321647	322732	-	1086		Hydrolase (HAD superfamily)	THE1	clust_1597

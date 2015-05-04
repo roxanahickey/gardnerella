@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01245	27188831	VBIBifAdo136061_1245	SEQ01245	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+ANI1|SEQ00901	86846776	VBIBifAni240121_0901	SEQ00901	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+ANI2|SEQ00900	86850127	VBIBifAni235968_0900	SEQ00900	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+ANI3|SEQ00903	42764141	VBIBifAni108068_0903	SEQ00903	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BIF1|SEQ00812	86884171	VBIBifBif87902_0812	SEQ00812	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE1|SEQ00871	268603726	VBIBifBre340958_0871	SEQ00871	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE2|SEQ00953	268607862	VBIBifBre337368_0953	SEQ00953	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE3|SEQ00925	54193562	VBIBifBre167886_0925	SEQ00925	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE4|SEQ00903	268611905	VBIBifBre327712_0903	SEQ00903	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE5|SEQ00922	268615991	VBIBifBre336369_0923	SEQ00922	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE6|SEQ00759	177654688	VBIBifBre268992_0759	SEQ00759	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE7|SEQ00903	268620263	VBIBifBre340732_0903	SEQ00903	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE8|SEQ00933	268624432	VBIBifBre176493_0933	SEQ00933	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+BRE9|SEQ00986	58446068	VBIBifBre30019_0986	SEQ00986	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+INF1|SEQ00815	46885599	VBIBifLon182273_0815	SEQ00815	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+LON1|SEQ00558	21118173	VBIBifLon107831_0559	SEQ00558	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+LON2|SEQ00618	42580762	VBIBifLon171405_0619	SEQ00618	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+LON3|SEQ00425	42767802	VBIBifLon156230_0425	SEQ00425	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+LON4|SEQ00787	46889845	VBIBifLon48544_0787	SEQ00787	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279
+THE1|SEQ00969	124735133	VBIBifThe274299_0969	SEQ00969	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		rRNA methylases	FIG00431541	figfam	clust_1279

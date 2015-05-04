@@ -1,0 +1,48 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01651	VBIBifBif87902_1651	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885921	1987728	1989788	-	2061	rho	Transcription termination factor Rho	BIF1	clust_0793
+BRE1|SEQ00240	VBIBifBre340958_0240	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602418	308038	310014	+	1977		Transcription termination factor Rho	BRE1	clust_0793
+BRE2|SEQ00272	VBIBifBre337368_0272	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606456	346142	348118	+	1977		Transcription termination factor Rho	BRE2	clust_0793
+BRE3|SEQ00290	VBIBifBre167886_0290	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192241	368770	370746	+	1977	rho	Transcription termination factor Rho	BRE3	clust_0793
+BRE4|SEQ00256	VBIBifBre327712_0256	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610565	330436	332412	+	1977		Transcription termination factor Rho	BRE4	clust_0793
+BRE5|SEQ00275	VBIBifBre336369_0276	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614653	331610	333586	+	1977		Transcription termination factor Rho	BRE5	clust_0793
+BRE6|SEQ00307	VBIBifBre268992_0307	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS	177653730	1502	3478	-	1977		Transcription termination factor Rho	BRE6	clust_0793
+BRE7|SEQ00268	VBIBifBre340732_0268	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618948	341666	343642	+	1977		Transcription termination factor Rho	BRE7	clust_0793
+BRE8|SEQ00294	VBIBifBre176493_0294	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623113	373157	375133	+	1977	rho	Transcription termination factor Rho	BRE8	clust_0793
+BRE9|SEQ00304	VBIBifBre30019_0304	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444653	387003	388973	+	1971	rho	Transcription termination factor Rho	BRE9	clust_0793
+DEN1|SEQ02155	VBIBifDen165269_2157	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463299	32022	34070	+	2049	rho	Transcription termination factor Rho	DEN1	clust_0793
+DEN2|SEQ00982	VBIBifDen39005_0982	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110317	81874	83922	-	2049	rho	Transcription termination factor Rho	DEN2	clust_0793
+GV01|SEQ00792	VBIGarVag247323_0792	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495751	3283	5232	-	1950		Transcription termination factor Rho	GV01	clust_0793
+GV02|SEQ00068	VBIGarVag242669_0068	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496894	30838	32751	+	1914		Transcription termination factor Rho	GV02	clust_0793
+GV03|SEQ00206	VBIGarVag247424_0206	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499793	156833	158749	+	1917		Transcription termination factor Rho	GV03	clust_0793
+GV04|SEQ00175	VBIGarVag246433_0175	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480202	37764	39758	-	1995		Transcription termination factor Rho	GV04	clust_0793
+GV05|SEQ00307	VBIGarVag174900_0307	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546337	155208	157124	+	1917		Transcription termination factor Rho	GV05	clust_0793
+GV06|SEQ00195	VBIGarVag244004_0195	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489105	118711	120705	+	1995		Transcription termination factor Rho	GV06	clust_0793
+GV07|SEQ00040	VBIGarVag249177_0040	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491657	39784	41709	-	1926		Transcription termination factor Rho	GV07	clust_0793
+GV08|SEQ01068	VBIGarVag251521_1068	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476583	176005	177999	+	1995		Transcription termination factor Rho	GV08	clust_0793
+GV09|SEQ00038	VBIGarVag169280_0038	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259217	37966	39960	-	1995	rho	Transcription termination factor Rho	GV09	clust_0793
+GV10|SEQ00100	VBIGarVag136958_0100	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146214	130733	132703	+	1971	rho	Transcription termination factor Rho	GV10	clust_0793
+GV11|SEQ00858	VBIGarVag171052_0858	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550079	37003	38997	-	1995		Transcription termination factor Rho	GV11	clust_0793
+GV12|SEQ00631	VBIGarVag144721_0631	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853959	154755	156716	+	1962		Transcription termination factor Rho	GV12	clust_0793
+GV13|SEQ00157	VBIGarVag244533_0157	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486254	174317	176311	+	1995		Transcription termination factor Rho	GV13	clust_0793
+GV14|SEQ00544	VBIGarVag244375_0544	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502948	38275	40191	-	1917		Transcription termination factor Rho	GV14	clust_0793
+GV15|SEQ00572	VBIGarVag249709_0572	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484682	318827	320797	-	1971		Transcription termination factor Rho	GV15	clust_0793
+GV16|SEQ00227	VBIGarVag246379_0227	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477572	178610	180604	+	1995		Transcription termination factor Rho	GV16	clust_0793
+GV17|SEQ00505	VBIGarVag146634_0505	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851045	505099	507069	-	1971		Transcription termination factor Rho	GV17	clust_0793
+GV18|SEQ00125	VBIGarVag4823_0125	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000053	PATRIC	CDS	42068927	2121	4115	+	1995		Transcription termination factor Rho	GV18	clust_0793
+GV19|SEQ00055	VBIGarVag39333_0055	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626944	56852	58846	-	1995	rho	Transcription termination factor Rho	GV19	clust_0793
+GV20|SEQ01307	VBIGarVag188338_1307	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191490	1638485	1640479	-	1995	rho	Transcription termination factor Rho	GV20	clust_0793
+GV21|SEQ00116	VBIGarVag274454_0116	Gardnerella vaginalis JCP7275	ATJS01000007	PATRIC	CDS	183966872	4266	6257	+	1992		Transcription termination factor Rho	GV21	clust_0793
+GV22|SEQ00559	VBIGarVag276801_0560	Gardnerella vaginalis JCP7276	ATJR01000017	PATRIC	CDS	183970553	15748	17724	-	1977		Transcription termination factor Rho	GV22	clust_0793
+GV23|SEQ00395	VBIGarVag276017_0395	Gardnerella vaginalis JCP7659	ATJQ01000026	PATRIC	CDS	183973118	16323	18236	-	1914		Transcription termination factor Rho	GV23	clust_0793
+GV24|SEQ00214	VBIGarVag268944_0215	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975534	19867	21861	+	1995		Transcription termination factor Rho	GV24	clust_0793
+GV25|SEQ00166	VBIGarVag270495_0166	Gardnerella vaginalis JCP7719	ATJO01000013	PATRIC	CDS	183978211	2254	4176	+	1923		Transcription termination factor Rho	GV25	clust_0793
+GV26|SEQ00611	VBIGarVag272749_0611	Gardnerella vaginalis JCP8017A	ATJN01000031	PATRIC	CDS	183982018	2369	4282	+	1914		Transcription termination factor Rho	GV26	clust_0793
+GV27|SEQ00734	VBIGarVag276930_0734	Gardnerella vaginalis JCP8017B	ATJM01000033	PATRIC	CDS	183985255	15086	16999	-	1914		Transcription termination factor Rho	GV27	clust_0793
+GV28|SEQ00437	VBIGarVag271349_0437	Gardnerella vaginalis JCP8066	ATJL01000025	PATRIC	CDS	183987567	22476	24389	+	1914		Transcription termination factor Rho	GV28	clust_0793
+GV29|SEQ00788	VBIGarVag265473_0788	Gardnerella vaginalis JCP8070	ATJK01000061	PATRIC	CDS	183991049	14955	16868	-	1914		Transcription termination factor Rho	GV29	clust_0793
+GV30|SEQ00905	VBIGarVag267667_0907	Gardnerella vaginalis JCP8108	ATJJ01000070	PATRIC	CDS	183993984	36907	38901	-	1995		Transcription termination factor Rho	GV30	clust_0793
+GV31|SEQ00926	VBIGarVag264983_0926	Gardnerella vaginalis JCP8151A	ATJI01000067	PATRIC	CDS	183996997	4279	6192	+	1914		Transcription termination factor Rho	GV31	clust_0793
+GV32|SEQ00578	VBIGarVag277040_0578	Gardnerella vaginalis JCP8151B	ATJH01000040	PATRIC	CDS	183999062	13474	15387	-	1914		Transcription termination factor Rho	GV32	clust_0793
+GV33|SEQ00032	VBIGarVag265557_0032	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000723	12209	14125	+	1917		Transcription termination factor Rho	GV33	clust_0793
+GV34|SEQ00025	VBIGarVag270440_0025	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003539	12210	14126	+	1917		Transcription termination factor Rho	GV34	clust_0793
+GV35|SEQ00829	VBIGarVag272169_0829	Gardnerella vaginalis JCP8522	ATJE01000081	PATRIC	CDS	184008071	4180	6093	+	1914		Transcription termination factor Rho	GV35	clust_0793

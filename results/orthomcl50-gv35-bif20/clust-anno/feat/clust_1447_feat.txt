@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01012	VBIBifAdo136061_1012	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188338	930614	931672	-	1059		Beta-hexosaminidase (EC 3.2.1.52)	ADO1	clust_1447
+ANI1|SEQ01013	VBIBifAni240121_1013	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847008	1174399	1175838	+	1440		Beta-hexosaminidase (EC 3.2.1.52)	ANI1	clust_1447
+ANI2|SEQ01013	VBIBifAni235968_1013	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850361	1174402	1175841	+	1440		Beta-hexosaminidase (EC 3.2.1.52)	ANI2	clust_1447
+ANI3|SEQ01017	VBIBifAni108068_1017	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764375	1174403	1175842	+	1440		Beta-hexosaminidase (EC 3.2.1.52)	ANI3	clust_1447
+BIF1|SEQ00684	VBIBifBif87902_0684	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883905	841304	842590	-	1287	nagZ	Beta-hexosaminidase (EC 3.2.1.52)	BIF1	clust_1447
+BRE1|SEQ00663	VBIBifBre340958_0663	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603291	803230	804600	-	1371		Beta-hexosaminidase (EC 3.2.1.52)	BRE1	clust_1447
+BRE2|SEQ00759	VBIBifBre337368_0759	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607453	900078	901295	-	1218		Beta-hexosaminidase (EC 3.2.1.52)	BRE2	clust_1447
+BRE3|SEQ01112	VBIBifBre167886_1112	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193957	1305191	1306561	+	1371		Beta-hexosaminidase (EC 3.2.1.52)	BRE3	clust_1447
+BRE4|SEQ00698	VBIBifBre327712_0698	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611475	844226	845443	-	1218		Beta-hexosaminidase (EC 3.2.1.52)	BRE4	clust_1447
+BRE6|SEQ00084	VBIBifBre268992_0084	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653266	26138	26851	-	714		Beta-hexosaminidase (EC 3.2.1.52)	BRE6	clust_1447
+BRE7|SEQ00708	VBIBifBre340732_0708	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619853	847353	848570	-	1218		Beta-hexosaminidase (EC 3.2.1.52)	BRE7	clust_1447
+BRE8|SEQ00729	VBIBifBre176493_0729	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624004	888214	888927	-	714		Beta-hexosaminidase (EC 3.2.1.52)	BRE8	clust_1447
+BRE9|SEQ00780	VBIBifBre30019_0780	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445635	935776	936489	-	714		Beta-hexosaminidase (EC 3.2.1.52)	BRE9	clust_1447
+INF1|SEQ00625	VBIBifLon182273_0625	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885197	768601	769803	-	1203		Beta-hexosaminidase (EC 3.2.1.52)	INF1	clust_1447
+LON1|SEQ00734	VBIBifLon107831_0735	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118541	856162	857337	+	1176		Beta-hexosaminidase (EC 3.2.1.52)	LON1	clust_1447
+LON2|SEQ00796	VBIBifLon171405_0797	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581134	895568	896770	+	1203	bglX1	Beta-hexosaminidase (EC 3.2.1.52)	LON2	clust_1447
+LON3|SEQ00602	VBIBifLon156230_0602	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768173	1470148	1471350	+	1203		Beta-hexosaminidase (EC 3.2.1.52)	LON3	clust_1447
+LON4|SEQ00618	VBIBifLon48544_0618	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889484	747191	748396	-	1206		Beta-hexosaminidase (EC 3.2.1.52)	LON4	clust_1447

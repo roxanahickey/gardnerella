@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01431	86847873	VBIBifAni240121_1431	SEQ01431	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		putative receptor protein	FIG00949350	figfam	clust_3634
+ANI2|SEQ01430	86851224	VBIBifAni235968_1430	SEQ01430	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		putative receptor protein	FIG00949350	figfam	clust_3634
+ANI3|SEQ01440	42765244	VBIBifAni108068_1440	SEQ01440	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		putative receptor protein	FIG00949350	figfam	clust_3634

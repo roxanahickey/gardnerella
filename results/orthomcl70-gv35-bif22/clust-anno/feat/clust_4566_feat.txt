@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00222	VBIBifAdo136061_0222	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186680	12347	12913	-	567		Phage antirepressor protein	ADO1	clust_4566
+INF1|SEQ00878	VBIBifLon182273_0878	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885735	1046576	1047355	-	780		Phage antirepressor protein	INF1	clust_4566

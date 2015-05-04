@@ -1,0 +1,15 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00925	VBIGarVag246433_0925	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481756	280621	281871	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV04	clust_1155
+GV06|SEQ01326	VBIGarVag244004_1326	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491485	208270	209520	+	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV06	clust_1155
+GV08|SEQ00866	VBIGarVag251521_0866	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476162	33017	34267	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV08	clust_1155
+GV09|SEQ00782	VBIGarVag169280_0782	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260765	149452	150702	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV09	clust_1155
+GV11|SEQ01018	VBIGarVag171052_1018	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	52550418	19404	20654	+	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV11	clust_1155
+GV13|SEQ00340	VBIGarVag244533_0340	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486631	172056	173306	+	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV13	clust_1155
+GV16|SEQ00718	VBIGarVag246379_0718	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478591	795130	796380	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV16	clust_1155
+GV18|SEQ00203	VBIGarVag4823_0203	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000068	PATRIC	CDS	42069099	4740	5933	-	1194		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV18	clust_1155
+GV19|SEQ00897	VBIGarVag39333_0898	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628699	1112955	1114205	+	1251	yihS	N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV19	clust_1155
+GV20|SEQ00653	VBIGarVag188338_0653	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190127	787139	788389	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV20	clust_1155
+GV21|SEQ00015	VBIGarVag274454_0015	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966662	14670	15920	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV21	clust_1155
+GV22|SEQ00402	VBIGarVag276801_0403	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970229	23377	24627	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV22	clust_1155
+GV24|SEQ00122	VBIGarVag268944_0123	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975345	23364	24614	-	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV24	clust_1155
+GV30|SEQ00136	VBIGarVag267667_0136	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992316	49132	50382	+	1251		N-acylglucosamine 2-epimerase (EC 5.1.3.8)	GV30	clust_1155

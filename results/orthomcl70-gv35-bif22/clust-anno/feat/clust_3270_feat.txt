@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00944	VBIBifAdo136061_0944	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188202	852603	853154	+	552		Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter	ADO1	clust_3270
+DEN1|SEQ01989	VBIBifDen165269_1990	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461145	1272082	1272621	-	540		Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter	DEN1	clust_3270
+DEN2|SEQ00839	VBIBifDen39005_0839	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110028	11440	11979	+	540		Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter	DEN2	clust_3270
+THE1|SEQ00785	VBIBifThe274299_0785	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734753	986451	987155	+	705		Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter	THE1	clust_3270

@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00974	VBIBifAdo136061_0974	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188262	885419	887422	+	2004		Ferrous iron transport protein B	ADO1	clust_2914
+ANI1|SEQ01025	VBIBifAni240121_1025	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847032	1183478	1185529	+	2052		Ferrous iron transport protein B	ANI1	clust_2914
+ANI2|SEQ01025	VBIBifAni235968_1025	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850385	1183481	1185532	+	2052		Ferrous iron transport protein B	ANI2	clust_2914
+ANI3|SEQ01029	VBIBifAni108068_1029	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764399	1183482	1185533	+	2052		Ferrous iron transport protein B	ANI3	clust_2914
+THE1|SEQ00930	VBIBifThe274299_0930	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735054	1165957	1168221	+	2265		Ferrous iron transport protein B	THE1	clust_2914

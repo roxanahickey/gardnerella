@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE4|SEQ00924	268611949	VBIBifBre327712_0924	SEQ00924	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		two-component system, sensor protein	FIG00723648	figfam	clust_2427
+BRE5|SEQ01162	268616496	VBIBifBre336369_1163	SEQ01162	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		two-component system, sensor protein	FIG00723648	figfam	clust_2427
+BRE7|SEQ01075	268620627	VBIBifBre340732_1075	SEQ01075	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		two-component system, sensor protein	FIG00723648	figfam	clust_2427
+BRE9|SEQ01161	58446439	VBIBifBre30019_1161	SEQ01161	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		two-component system, sensor protein	FIG00723648	figfam	clust_2427
+GV12|SEQ01188	37855204	VBIGarVag144721_1188	SEQ01188	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	NA	two-component system sensor kinase	FIG01170547	figfam	clust_2427
+LON2|SEQ00508	42580538	VBIBifLon171405_0509	SEQ00508	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		two-component system, sensor protein	FIG00723648	figfam	clust_2427

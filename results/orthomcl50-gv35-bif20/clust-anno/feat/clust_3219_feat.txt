@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00319	VBIBifBre337368_0319	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606550	389708	389905	-	198		hypothetical protein	BRE2	clust_3219
+BRE6|SEQ00553	VBIBifBre268992_0553	Bifidobacterium breve JCP7499	AWSX01000030	PATRIC	CDS	177654250	5238	5435	+	198		hypothetical protein	BRE6	clust_3219
+LON1|SEQ01101	VBIBifLon107831_1102	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119295	1296182	1296379	+	198		hypothetical protein	LON1	clust_3219

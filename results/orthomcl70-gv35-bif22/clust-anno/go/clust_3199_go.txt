@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV09|SEQ00001	55259140	VBIGarVag169280_0001	SEQ00001	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000001	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_3199
+GV09|SEQ00001	55259140	VBIGarVag169280_0001	SEQ00001	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000001	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_3199
+GV09|SEQ00001	55259140	VBIGarVag169280_0001	SEQ00001	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000001	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_3199
+GV16|SEQ00265	85477650	VBIGarVag246379_0265	SEQ00265	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_3199
+GV16|SEQ00265	85477650	VBIGarVag246379_0265	SEQ00265	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_3199
+GV16|SEQ00265	85477650	VBIGarVag246379_0265	SEQ00265	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_3199

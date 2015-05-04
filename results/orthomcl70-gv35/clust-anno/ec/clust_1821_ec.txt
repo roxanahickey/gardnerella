@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+GV13|SEQ00484	85486931	VBIGarVag244533_0484	SEQ00484	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	NA	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase	ec	clust_1821
+GV16|SEQ00475	85478094	VBIGarVag246379_0475	SEQ00475	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase	ec	clust_1821
+GV20|SEQ00377	54189565	VBIGarVag188338_0377	SEQ00377	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase	ec	clust_1821

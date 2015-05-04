@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE5|SEQ01558	268617305	VBIBifBre336369_1559	SEQ01558	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		FIG00413957: hypothetical protein	FIG01358125	figfam	clust_3141
+BRE6|SEQ00906	177655000	VBIBifBre268992_0906	SEQ00906	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS		FIG00413957: hypothetical protein	FIG01358125	figfam	clust_3141
+DEN1|SEQ01105	43459337	VBIBifDen165269_1106	SEQ01105	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		FIG00413957: hypothetical protein	FIG01358125	figfam	clust_3141
+DEN2|SEQ02066	42112571	VBIBifDen39005_2068	SEQ02066	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS		FIG00413957: hypothetical protein	FIG01358125	figfam	clust_3141

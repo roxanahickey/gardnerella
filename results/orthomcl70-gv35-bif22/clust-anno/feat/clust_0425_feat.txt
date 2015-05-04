@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01272	VBIBifAdo136061_1272	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188885	204259	204840	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	ADO1	clust_0425
+ANI1|SEQ00936	VBIBifAni240121_0936	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846847	1083656	1084237	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	ANI1	clust_0425
+ANI2|SEQ00935	VBIBifAni235968_0935	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850198	1083551	1084240	+	690		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	ANI2	clust_0425
+ANI3|SEQ00939	VBIBifAni108068_0939	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764213	1083660	1084241	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	ANI3	clust_0425
+BIF1|SEQ00783	VBIBifBif87902_0783	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884113	960221	960802	-	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BIF1	clust_0425
+BRE1|SEQ00840	VBIBifBre340958_0840	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603664	1004411	1004992	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE1	clust_0425
+BRE2|SEQ00922	VBIBifBre337368_0922	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607800	1086189	1086770	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE2	clust_0425
+BRE3|SEQ00957	VBIBifBre167886_0957	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193626	1126744	1127325	+	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE3	clust_0425
+BRE4|SEQ00870	VBIBifBre327712_0870	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611839	1042141	1042722	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE4	clust_0425
+BRE5|SEQ00891	VBIBifBre336369_0892	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615929	1044608	1045189	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE5	clust_0425
+BRE6|SEQ00790	VBIBifBre268992_0790	Bifidobacterium breve JCP7499	AWSX01000040	PATRIC	CDS	177654751	16457	17038	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE6	clust_0425
+BRE7|SEQ00872	VBIBifBre340732_0872	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620201	1034099	1034680	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE7	clust_0425
+BRE8|SEQ00901	VBIBifBre176493_0901	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624368	1080476	1081057	-	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE8	clust_0425
+BRE9|SEQ00955	VBIBifBre30019_0955	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446006	1133670	1134251	-	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	BRE9	clust_0425
+DEN1|SEQ01663	VBIBifDen165269_1664	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460481	962929	963510	+	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	DEN1	clust_0425
+DEN2|SEQ00539	VBIBifDen39005_0539	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109406	178772	179353	-	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	DEN2	clust_0425
+GV01|SEQ01086	VBIGarVag247323_1086	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496373	87991	88575	-	585		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV01	clust_0425
+GV02|SEQ00352	VBIGarVag242669_0352	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497480	160903	161484	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV02	clust_0425
+GV03|SEQ00519	VBIGarVag247424_0519	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500445	72468	73049	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV03	clust_0425
+GV04|SEQ00750	VBIGarVag246433_0750	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481399	78842	79423	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV04	clust_0425
+GV05|SEQ00541	VBIGarVag174900_0541	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546826	133863	134444	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV05	clust_0425
+GV06|SEQ01038	VBIGarVag244004_1038	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490892	69516	70097	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV06	clust_0425
+GV07|SEQ00872	VBIGarVag249177_0872	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493415	146402	147034	+	633		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV07	clust_0425
+GV08|SEQ00785	VBIGarVag251521_0785	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475996	146894	147475	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV08	clust_0425
+GV09|SEQ00232	VBIGarVag169280_0232	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259627	56900	57481	+	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV09	clust_0425
+GV10|SEQ00335	VBIGarVag136958_0335	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146708	392431	392901	-	471	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV10	clust_0425
+GV11|SEQ00274	VBIGarVag171052_0274	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	52548844	32816	33397	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV11	clust_0425
+GV12|SEQ00878	VBIGarVag144721_0878	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854477	428631	429212	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV12	clust_0425
+GV13|SEQ00438	VBIGarVag244533_0438	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486836	35140	35721	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV13	clust_0425
+GV14|SEQ00825	VBIGarVag244375_0825	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503539	17126	17707	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV14	clust_0425
+GV15|SEQ00327	VBIGarVag249709_0327	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484167	52614	53195	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV15	clust_0425
+GV16|SEQ00527	VBIGarVag246379_0527	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478201	573453	574034	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV16	clust_0425
+GV17|SEQ00258	VBIGarVag146634_0258	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850527	231119	231700	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV17	clust_0425
+GV18|SEQ01294	VBIGarVag4823_1294	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071431	70836	71417	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV18	clust_0425
+GV19|SEQ01082	VBIGarVag39333_1083	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629075	1324924	1325505	+	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV19	clust_0425
+GV20|SEQ00425	VBIGarVag188338_0425	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189664	533207	533788	-	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV20	clust_0425
+GV21|SEQ01196	VBIGarVag274454_1197	Gardnerella vaginalis JCP7275	ATJS01000175	PATRIC	CDS	183969278	338	919	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV21	clust_0425
+GV22|SEQ01003	VBIGarVag276801_1004	Gardnerella vaginalis JCP7276	ATJR01000077	PATRIC	CDS	183971524	139	720	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV22	clust_0425
+GV23|SEQ01132	VBIGarVag276017_1132	Gardnerella vaginalis JCP7659	ATJQ01000144	PATRIC	CDS	183974765	784	1368	-	585		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV23	clust_0425
+GV24|SEQ00628	VBIGarVag268944_0629	Gardnerella vaginalis JCP7672	ATJP01000042	PATRIC	CDS	183976427	13929	14510	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV24	clust_0425
+GV25|SEQ01215	VBIGarVag270495_1215	Gardnerella vaginalis JCP7719	ATJO01000163	PATRIC	CDS	183980525	1010	1591	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV25	clust_0425
+GV26|SEQ01273	VBIGarVag272749_1273	Gardnerella vaginalis JCP8017A	ATJN01000155	PATRIC	CDS	183983519	936	1517	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV26	clust_0425
+GV27|SEQ01172	VBIGarVag276930_1172	Gardnerella vaginalis JCP8017B	ATJM01000122	PATRIC	CDS	183986233	851	1432	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV27	clust_0425
+GV28|SEQ01185	VBIGarVag271349_1185	Gardnerella vaginalis JCP8066	ATJL01000178	PATRIC	CDS	183989278	6501	7082	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV28	clust_0425
+GV29|SEQ01125	VBIGarVag265473_1125	Gardnerella vaginalis JCP8070	ATJK01000121	PATRIC	CDS	183991809	86	667	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV29	clust_0425
+GV30|SEQ00726	VBIGarVag267667_0728	Gardnerella vaginalis JCP8108	ATJJ01000044	PATRIC	CDS	183993584	6365	6946	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV30	clust_0425
+GV31|SEQ01131	VBIGarVag264983_1131	Gardnerella vaginalis JCP8151A	ATJI01000122	PATRIC	CDS	183997480	6330	6914	+	585		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV31	clust_0425
+GV32|SEQ00938	VBIGarVag277040_0938	Gardnerella vaginalis JCP8151B	ATJH01000095	PATRIC	CDS	183999866	665	1249	+	585		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV32	clust_0425
+GV33|SEQ00622	VBIGarVag265557_0622	Gardnerella vaginalis JCP8481A	ATJG01000057	PATRIC	CDS	184001992	78	659	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV33	clust_0425
+GV34|SEQ00694	VBIGarVag270440_0694	Gardnerella vaginalis JCP8481B	ATJF01000072	PATRIC	CDS	184005006	78	659	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV34	clust_0425
+GV35|SEQ00495	VBIGarVag272169_0495	Gardnerella vaginalis JCP8522	ATJE01000027	PATRIC	CDS	184007313	6036	6617	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	GV35	clust_0425
+INF1|SEQ00787	VBIBifLon182273_0787	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885543	957513	958094	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	INF1	clust_0425
+LON1|SEQ00587	VBIBifLon107831_0588	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118231	681650	682231	+	582	xpt	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	LON1	clust_0425
+LON2|SEQ00646	VBIBifLon171405_0647	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580818	717027	717608	+	582	apt2	Xanthine phosphoribosyltransferase (EC 2.4.2.22)	LON2	clust_0425
+LON3|SEQ00453	VBIBifLon156230_0453	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767858	1292318	1292899	+	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	LON3	clust_0425
+LON4|SEQ00759	VBIBifLon48544_0759	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889789	914858	915439	-	582		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	LON4	clust_0425
+THE1|SEQ00945	VBIBifThe274299_0945	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735084	1184840	1185424	-	585		Xanthine phosphoribosyltransferase (EC 2.4.2.22)	THE1	clust_0425

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+GV22|SEQ00121	183969631	VBIGarVag276801_0121	SEQ00121	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	NA	DNA-cytosine methyltransferase (EC 2.1.1.37)	2.1.1.37	DNA (cytosine-5-)-methyltransferase	ec	clust_2036
+GV28|SEQ00044	183986738	VBIGarVag271349_0044	SEQ00044	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000006	PATRIC	CDS	NA	DNA-cytosine methyltransferase (EC 2.1.1.37)	2.1.1.37	DNA (cytosine-5-)-methyltransferase	ec	clust_2036
+LON1|SEQ00336	21117713	VBIBifLon107831_0336	SEQ00336	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	DNA-cytosine methyltransferase (EC 2.1.1.37)	2.1.1.37	DNA (cytosine-5-)-methyltransferase	ec	clust_2036

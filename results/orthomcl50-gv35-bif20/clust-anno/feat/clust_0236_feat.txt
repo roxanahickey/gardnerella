@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00109	VBIGarVag247323_0109	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494318	147897	149798	+	1902		Lipid A export ATP-binding/permease protein MsbA	GV01	clust_0236
+GV02|SEQ00571	VBIGarVag242669_0571	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497952	191419	193344	-	1926		Lipid A export ATP-binding/permease protein MsbA	GV02	clust_0236
+GV03|SEQ01084	VBIGarVag247424_1084	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501630	10227	12149	+	1923		Lipid A export ATP-binding/permease protein MsbA	GV03	clust_0236
+GV04|SEQ00520	VBIGarVag246433_0520	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480932	170866	172716	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV04	clust_0236
+GV05|SEQ00022	VBIGarVag174900_0022	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545744	30375	32279	+	1905		Lipid A export ATP-binding/permease protein MsbA	GV05	clust_0236
+GV06|SEQ01067	VBIGarVag244004_1067	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490960	25207	27120	-	1914		Lipid A export ATP-binding/permease protein MsbA	GV06	clust_0236
+GV07|SEQ00455	VBIGarVag249177_0455	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492540	99977	101899	-	1923		Lipid A export ATP-binding/permease protein MsbA	GV07	clust_0236
+GV08|SEQ00277	VBIGarVag251521_0277	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474939	71996	73846	+	1851		Lipid A export ATP-binding/permease protein MsbA	GV08	clust_0236
+GV09|SEQ00536	VBIGarVag169280_0536	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260261	282071	283921	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV09	clust_0236
+GV10|SEQ00986	VBIGarVag136958_0986	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148058	1291870	1293720	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV10	clust_0236
+GV11|SEQ00183	VBIGarVag171052_0183	Gardnerella vaginalis 41V	AEJE01000010	PATRIC	CDS	52548650	9690	11573	-	1884		Lipid A export ATP-binding/permease protein MsbA	GV11	clust_0236
+GV12|SEQ00388	VBIGarVag144721_0388	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853453	400421	402271	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV12	clust_0236
+GV13|SEQ01311	VBIGarVag244533_1311	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488676	46525	48375	+	1851		Lipid A export ATP-binding/permease protein MsbA	GV13	clust_0236
+GV14|SEQ00727	VBIGarVag244375_0727	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503336	80952	82847	+	1896		Lipid A export ATP-binding/permease protein MsbA	GV14	clust_0236
+GV15|SEQ00963	VBIGarVag249709_0963	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485506	144001	145881	-	1881		Lipid A export ATP-binding/permease protein MsbA	GV15	clust_0236
+GV16|SEQ01184	VBIGarVag246379_1184	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479568	1395504	1397354	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV16	clust_0236
+GV17|SEQ01137	VBIGarVag146634_1137	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852373	81393	83243	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV17	clust_0236
+GV18|SEQ00713	VBIGarVag4823_0713	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000122	PATRIC	CDS	42070205	18567	20447	-	1881		Lipid A export ATP-binding/permease protein MsbA	GV18	clust_0236
+GV19|SEQ00426	VBIGarVag39333_0427	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627715	514264	516144	+	1881		Lipid A export ATP-binding/permease protein MsbA	GV19	clust_0236
+GV20|SEQ01092	VBIGarVag188338_1092	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191050	1369809	1371659	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV20	clust_0236
+GV21|SEQ00934	VBIGarVag274454_0935	Gardnerella vaginalis JCP7275	ATJS01000079	PATRIC	CDS	183968640	5062	6912	+	1851		Lipid A export ATP-binding/permease protein MsbA	GV21	clust_0236
+GV22|SEQ00762	VBIGarVag276801_0763	Gardnerella vaginalis JCP7276	ATJR01000033	PATRIC	CDS	183970979	2203	4053	-	1851		Lipid A export ATP-binding/permease protein MsbA	GV22	clust_0236
+GV23|SEQ01113	VBIGarVag276017_1113	Gardnerella vaginalis JCP7659	ATJQ01000130	PATRIC	CDS	183974713	6769	8712	+	1944		Lipid A export ATP-binding/permease protein MsbA	GV23	clust_0236
+GV24|SEQ00596	VBIGarVag268944_0597	Gardnerella vaginalis JCP7672	ATJP01000035	PATRIC	CDS	183976356	5139	6989	+	1851		Lipid A export ATP-binding/permease protein MsbA	GV24	clust_0236
+GV25|SEQ00592	VBIGarVag270495_0592	Gardnerella vaginalis JCP7719	ATJO01000053	PATRIC	CDS	183979132	4326	6257	+	1932		Lipid A export ATP-binding/permease protein MsbA	GV25	clust_0236
+GV26|SEQ01164	VBIGarVag272749_1164	Gardnerella vaginalis JCP8017A	ATJN01000117	PATRIC	CDS	183983255	136	2067	+	1932		Lipid A export ATP-binding/permease protein MsbA	GV26	clust_0236
+GV27|SEQ01175	VBIGarVag276930_1175	Gardnerella vaginalis JCP8017B	ATJM01000125	PATRIC	CDS	183986242	2335	4266	-	1932		Lipid A export ATP-binding/permease protein MsbA	GV27	clust_0236
+GV28|SEQ00961	VBIGarVag271349_0961	Gardnerella vaginalis JCP8066	ATJL01000098	PATRIC	CDS	183988724	162	2063	+	1902		Lipid A export ATP-binding/permease protein MsbA	GV28	clust_0236
+GV29|SEQ01002	VBIGarVag265473_1002	Gardnerella vaginalis JCP8070	ATJK01000092	PATRIC	CDS	183991516	2307	4217	-	1911		Lipid A export ATP-binding/permease protein MsbA	GV29	clust_0236
+GV30|SEQ00738	VBIGarVag267667_0740	Gardnerella vaginalis JCP8108	ATJJ01000046	PATRIC	CDS	183993610	2166	4049	-	1884		Lipid A export ATP-binding/permease protein MsbA	GV30	clust_0236
+GV31|SEQ01174	VBIGarVag264983_1174	Gardnerella vaginalis JCP8151A	ATJI01000145	PATRIC	CDS	183997593	1895	3802	-	1908		Lipid A export ATP-binding/permease protein MsbA	GV31	clust_0236
+GV32|SEQ00983	VBIGarVag277040_0983	Gardnerella vaginalis JCP8151B	ATJH01000115	PATRIC	CDS	183999980	2311	4212	-	1902		Lipid A export ATP-binding/permease protein MsbA	GV32	clust_0236
+GV33|SEQ00224	VBIGarVag265557_0224	Gardnerella vaginalis JCP8481A	ATJG01000019	PATRIC	CDS	184001143	4608	6452	+	1845		Lipid A export ATP-binding/permease protein MsbA	GV33	clust_0236
+GV34|SEQ00485	VBIGarVag270440_0485	Gardnerella vaginalis JCP8481B	ATJF01000038	PATRIC	CDS	184004547	4608	6452	+	1845		Lipid A export ATP-binding/permease protein MsbA	GV34	clust_0236
+GV35|SEQ00969	VBIGarVag272169_0969	Gardnerella vaginalis JCP8522	ATJE01000119	PATRIC	CDS	184008399	194	2095	+	1902		Lipid A export ATP-binding/permease protein MsbA	GV35	clust_0236
+ADO1|SEQ01918	VBIBifAdo136061_1918	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190209	452910	454604	-	1695		ABC transporter, ATP-binding/permease protein	ADO1	clust_0236
+ANI1|SEQ01286	VBIBifAni240121_1286	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847577	1496455	1498428	-	1974		ABC transporter, ATP-binding/permease protein	ANI1	clust_0236
+ANI2|SEQ01286	VBIBifAni235968_1286	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850930	1496461	1498434	-	1974		ABC transporter, ATP-binding/permease protein	ANI2	clust_0236
+ANI3|SEQ01295	VBIBifAni108068_1295	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764948	1501907	1503880	-	1974		ABC transporter, ATP-binding/permease protein	ANI3	clust_0236
+BIF1|SEQ00434	VBIBifBif87902_0434	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883401	550515	552398	+	1884	yfiB	ABC transporter, ATP-binding/permease protein	BIF1	clust_0236
+BRE1|SEQ01384	VBIBifBre340958_1385	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604785	1633447	1635408	-	1962		ABC transporter, ATP-binding/permease protein	BRE1	clust_0236
+BRE2|SEQ01483	VBIBifBre337368_1483	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608960	1714203	1716164	-	1962		ABC transporter, ATP-binding/permease protein	BRE2	clust_0236
+BRE3|SEQ01453	VBIBifBre167886_1453	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194650	1697152	1699110	-	1959		ABC transporter, ATP-binding/permease protein	BRE3	clust_0236
+BRE4|SEQ01425	VBIBifBre327712_1425	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612984	1663791	1665752	-	1962		ABC transporter, ATP-binding/permease protein	BRE4	clust_0236
+BRE5|SEQ01550	VBIBifBre336369_1551	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617289	1743003	1744961	-	1959		ABC transporter, ATP-binding/permease protein	BRE5	clust_0236
+BRE6|SEQ00898	VBIBifBre268992_0898	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177654984	15132	17093	-	1962		ABC transporter, ATP-binding/permease protein	BRE6	clust_0236
+BRE7|SEQ01453	VBIBifBre340732_1453	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621399	1680524	1682485	-	1962		ABC transporter, ATP-binding/permease protein	BRE7	clust_0236
+BRE8|SEQ01476	VBIBifBre176493_1476	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625558	1723617	1725575	-	1959		ABC transporter, ATP-binding/permease protein	BRE8	clust_0236
+BRE9|SEQ01541	VBIBifBre30019_1541	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447214	1787158	1789119	-	1962		ABC transporter, ATP-binding/permease protein	BRE9	clust_0236
+INF1|SEQ01587	VBIBifLon182273_1587	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887188	1810475	1812433	-	1959		ABC transporter, ATP-binding/permease protein	INF1	clust_0236
+LON1|SEQ01819	VBIBifLon107831_1820	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120804	2196796	2198754	+	1959		ABC transporter, ATP-binding/permease protein	LON1	clust_0236
+LON2|SEQ01857	VBIBifLon171405_1860	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583345	2227153	2229111	+	1959	mdlB6	ABC transporter, ATP-binding/permease protein	LON2	clust_0236
+LON3|SEQ01085	VBIBifLon156230_1087	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766042	247027	248985	-	1959		ABC transporter, ATP-binding/permease protein	LON3	clust_0236
+LON4|SEQ01551	VBIBifLon48544_1551	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891460	1781251	1783209	-	1959		ABC transporter, ATP-binding/permease protein	LON4	clust_0236
+THE1|SEQ00498	VBIBifThe274299_0498	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734172	633991	635904	+	1914		ABC transporter, ATP-binding/permease protein	THE1	clust_0236

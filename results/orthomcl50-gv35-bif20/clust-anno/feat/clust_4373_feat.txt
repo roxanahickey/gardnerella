@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01442	VBIBifAdo136061_1442	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189242	111184	111411	-	228		COG0568: DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	ADO1	clust_4373
+LON3|SEQ01215	VBIBifLon156230_1217	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769027	1947277	1947462	-	186		COG0568: DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)	LON3	clust_4373

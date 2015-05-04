@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV07|SEQ00150	VBIGarVag249177_0150	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491887	172713	173906	-	1194		Tryptophan synthase beta chain (EC 4.2.1.20)	GV07	clust_1440
+GV10|SEQ01189	VBIGarVag136958_1189	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148484	1615922	1617115	+	1194	trpB	Tryptophan synthase beta chain (EC 4.2.1.20)	GV10	clust_1440
+GV12|SEQ00527	VBIGarVag144721_0527	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853741	24416	25609	+	1194		Tryptophan synthase beta chain (EC 4.2.1.20)	GV12	clust_1440
+GV15|SEQ01091	VBIGarVag249709_1091	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485780	65410	66603	-	1194		Tryptophan synthase beta chain (EC 4.2.1.20)	GV15	clust_1440
+GV17|SEQ00637	VBIGarVag146634_0637	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851332	62669	63862	-	1194		Tryptophan synthase beta chain (EC 4.2.1.20)	GV17	clust_1440
+GV33|SEQ00140	VBIGarVag265557_0140	Gardnerella vaginalis JCP8481A	ATJG01000011	PATRIC	CDS	184000961	11064	12257	-	1194		Tryptophan synthase beta chain (EC 4.2.1.20)	GV33	clust_1440
+GV34|SEQ01065	VBIGarVag270440_1065	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005821	12461	13654	-	1194		Tryptophan synthase beta chain (EC 4.2.1.20)	GV34	clust_1440

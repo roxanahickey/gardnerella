@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00783	VBIBifAni240121_0783	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846525	915825	916415	-	591		Hypothetical protein VC0266 (sugar utilization related?)	ANI1	clust_3520
+ANI2|SEQ00782	VBIBifAni235968_0782	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849876	915828	916418	-	591		Hypothetical protein VC0266 (sugar utilization related?)	ANI2	clust_3520
+ANI3|SEQ00784	VBIBifAni108068_0784	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763888	915830	916420	-	591		Hypothetical protein VC0266 (sugar utilization related?)	ANI3	clust_3520

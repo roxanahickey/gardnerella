@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01776	VBIBifAdo136061_1776	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189923	279911	280720	-	810		Nudix-related transcriptional regulator NrtR	ADO1	clust_1307
+ANI1|SEQ01142	VBIBifAni240121_1142	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847272	1337796	1338605	-	810	nrtR	Nudix-related transcriptional regulator NrtR	ANI1	clust_1307
+ANI2|SEQ01142	VBIBifAni235968_1142	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850625	1337800	1338609	-	810	nrtR	Nudix-related transcriptional regulator NrtR	ANI2	clust_1307
+ANI3|SEQ01151	VBIBifAni108068_1151	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764647	1343248	1344057	-	810		Nudix-related transcriptional regulator NrtR	ANI3	clust_1307
+BIF1|SEQ00579	VBIBifBif87902_0579	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883694	710346	711128	+	783	nudF	Nudix-related transcriptional regulator NrtR	BIF1	clust_1307
+BRE1|SEQ01189	VBIBifBre340958_1189	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604387	1399440	1400276	-	837		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE1	clust_1307
+BRE2|SEQ01277	VBIBifBre337368_1277	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608537	1472645	1473472	-	828		Nudix-related transcriptional regulator NrtR	BRE2	clust_1307
+BRE3|SEQ00635	VBIBifBre167886_0635	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192953	771293	772120	+	828		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE3	clust_1307
+BRE4|SEQ01221	VBIBifBre327712_1221	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612566	1423192	1424073	-	882		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE4	clust_1307
+BRE5|SEQ01343	VBIBifBre336369_1344	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616867	1502874	1503701	-	828		Nudix-related transcriptional regulator NrtR	BRE5	clust_1307
+BRE6|SEQ01904	VBIBifBre268992_1904	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657121	92974	93810	-	837		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE6	clust_1307
+BRE7|SEQ01229	VBIBifBre340732_1229	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620942	1422033	1422914	-	882		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE7	clust_1307
+BRE8|SEQ01258	VBIBifBre176493_1258	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625110	1471249	1472130	-	882		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE8	clust_1307
+BRE9|SEQ01314	VBIBifBre30019_1314	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446752	1527534	1528415	-	882		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	BRE9	clust_1307
+INF1|SEQ01299	VBIBifLon182273_1299	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886602	1466527	1467354	-	828		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	INF1	clust_1307
+LON1|SEQ00233	VBIBifLon107831_0233	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117503	276765	277592	+	828		Nudix-related transcriptional regulator NrtR	LON1	clust_1307
+LON2|SEQ00274	VBIBifLon171405_0275	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580051	319430	320257	+	828		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	LON2	clust_1307
+LON3|SEQ01962	VBIBifLon156230_1965	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767116	891388	892215	+	828		Nudix-related transcriptional regulator NrtR	LON3	clust_1307
+LON4|SEQ01275	VBIBifLon48544_1275	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890894	1441226	1442053	-	828		narrowly conserved hypothetical protein possibly in the MutT/Nudix family	LON4	clust_1307
+THE1|SEQ01301	VBIBifThe274299_1301	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735828	1614412	1615329	+	918		Nudix-related transcriptional regulator NrtR	THE1	clust_1307

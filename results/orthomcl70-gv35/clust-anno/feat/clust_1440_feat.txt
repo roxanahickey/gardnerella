@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00599	VBIGarVag242669_0599	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498008	230424	231797	-	1374		DNA-cytosine methyltransferase (EC 2.1.1.37)	GV02	clust_1440
+GV10|SEQ00470	VBIGarVag136958_0470	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146992	571928	573001	+	1074	dcm_2	DNA-cytosine methyltransferase (EC 2.1.1.37)	GV10	clust_1440
+GV12|SEQ01045	VBIGarVag144721_1045	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854827	18345	19418	+	1074		DNA-cytosine methyltransferase (EC 2.1.1.37)	GV12	clust_1440
+GV18|SEQ01028	VBIGarVag4823_1028	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070879	16420	17421	-	1002		DNA-cytosine methyltransferase (EC 2.1.1.37)	GV18	clust_1440
+GV19|SEQ01294	VBIGarVag39333_1297	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629525	1609905	1610906	-	1002	ngoPIIM	DNA-cytosine methyltransferase (EC 2.1.1.37)	GV19	clust_1440
+GV22|SEQ00121	VBIGarVag276801_0121	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969631	157857	159203	+	1347		DNA-cytosine methyltransferase (EC 2.1.1.37)	GV22	clust_1440
+GV23|SEQ00457	VBIGarVag276017_0457	Gardnerella vaginalis JCP7659	ATJQ01000035	PATRIC	CDS	183973261	10275	11648	-	1374		DNA-cytosine methyltransferase (EC 2.1.1.37)	GV23	clust_1440

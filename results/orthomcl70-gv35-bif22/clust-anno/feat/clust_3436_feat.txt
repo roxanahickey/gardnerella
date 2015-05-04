@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE6|SEQ00300	VBIBifBre268992_0300	Bifidobacterium breve JCP7499	AWSX01000016	PATRIC	CDS	177653715	9522	10352	+	831		Maltose/maltodextrin ABC transporter, permease protein MalG	BRE6	clust_3436
+DEN1|SEQ00798	VBIBifDen165269_0799	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462902	2308646	2309476	+	831		Maltose/maltodextrin ABC transporter, permease protein MalG	DEN1	clust_3436
+DEN2|SEQ01060	VBIBifDen39005_1060	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110475	59634	60464	+	831		Maltose/maltodextrin ABC transporter, permease protein MalG	DEN2	clust_3436

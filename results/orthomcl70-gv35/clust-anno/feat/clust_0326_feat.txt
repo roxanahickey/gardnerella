@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00667	VBIGarVag247323_0667	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495487	90847	91962	-	1116		Sortase (surface protein transpeptidase)	GV01	clust_0326
+GV02|SEQ00152	VBIGarVag242669_0152	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497066	125603	126718	-	1116		Sortase (surface protein transpeptidase)	GV02	clust_0326
+GV03|SEQ00132	VBIGarVag247424_0132	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499640	62603	63709	+	1107		Sortase (surface protein transpeptidase)	GV03	clust_0326
+GV04|SEQ00261	VBIGarVag246433_0261	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480378	143239	144354	-	1116		Sortase (surface protein transpeptidase)	GV04	clust_0326
+GV05|SEQ00234	VBIGarVag174900_0234	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546186	62686	63792	+	1107		Sortase (surface protein transpeptidase)	GV05	clust_0326
+GV06|SEQ00115	VBIGarVag244004_0115	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488941	16022	17137	+	1116		Sortase (surface protein transpeptidase)	GV06	clust_0326
+GV07|SEQ00115	VBIGarVag249177_0115	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491811	130608	131714	-	1107		Sortase (surface protein transpeptidase)	GV07	clust_0326
+GV08|SEQ00980	VBIGarVag251521_0980	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476403	67018	68133	+	1116		Sortase (surface protein transpeptidase)	GV08	clust_0326
+GV09|SEQ00121	VBIGarVag169280_0121	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259389	92553	93668	-	1116		Sortase (surface protein transpeptidase)	GV09	clust_0326
+GV10|SEQ00025	VBIGarVag136958_0025	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146060	32916	34022	+	1107		Sortase (surface protein transpeptidase)	GV10	clust_0326
+GV11|SEQ00474	VBIGarVag171052_0474	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549271	67823	68938	+	1116		Sortase (surface protein transpeptidase)	GV11	clust_0326
+GV12|SEQ00556	VBIGarVag144721_0556	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853805	61335	62441	+	1107		Sortase (surface protein transpeptidase)	GV12	clust_0326
+GV13|SEQ00074	VBIGarVag244533_0074	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486084	70953	72068	+	1116		Sortase (surface protein transpeptidase)	GV13	clust_0326
+GV14|SEQ00624	VBIGarVag244375_0624	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503112	137055	138161	-	1107		Sortase (surface protein transpeptidase)	GV14	clust_0326
+GV15|SEQ01063	VBIGarVag249709_1063	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485718	29059	30165	-	1107		Sortase (surface protein transpeptidase)	GV15	clust_0326
+GV16|SEQ00148	VBIGarVag246379_0148	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477410	75582	76697	+	1116		Sortase (surface protein transpeptidase)	GV16	clust_0326
+GV17|SEQ00612	VBIGarVag146634_0612	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851276	28989	30095	-	1107		Sortase (surface protein transpeptidase)	GV17	clust_0326
+GV18|SEQ00929	VBIGarVag4823_0929	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000134	PATRIC	CDS	42070662	11708	12823	-	1116		Sortase (surface protein transpeptidase)	GV18	clust_0326
+GV19|SEQ00139	VBIGarVag39333_0139	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627117	159997	161112	-	1116		Sortase (surface protein transpeptidase)	GV19	clust_0326
+GV20|SEQ00018	VBIGarVag188338_0018	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188806	20956	22071	-	1116		Sortase (surface protein transpeptidase)	GV20	clust_0326
+GV21|SEQ00214	VBIGarVag274454_0214	Gardnerella vaginalis JCP7275	ATJS01000010	PATRIC	CDS	183967075	7214	8329	+	1116		Sortase (surface protein transpeptidase)	GV21	clust_0326
+GV22|SEQ00171	VBIGarVag276801_0171	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969732	39195	40310	-	1116		Sortase (surface protein transpeptidase)	GV22	clust_0326
+GV23|SEQ00084	VBIGarVag276017_0084	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972463	51420	52535	-	1116		Sortase (surface protein transpeptidase)	GV23	clust_0326
+GV24|SEQ00069	VBIGarVag268944_0070	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975232	63978	65093	-	1116		Sortase (surface protein transpeptidase)	GV24	clust_0326
+GV25|SEQ00007	VBIGarVag270495_0007	Gardnerella vaginalis JCP7719	ATJO01000001	PATRIC	CDS	183977871	6270	7385	+	1116		Sortase (surface protein transpeptidase)	GV25	clust_0326
+GV26|SEQ00189	VBIGarVag272749_0189	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981130	6275	7390	+	1116		Sortase (surface protein transpeptidase)	GV26	clust_0326
+GV27|SEQ00280	VBIGarVag276930_0280	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984295	34591	35706	+	1116		Sortase (surface protein transpeptidase)	GV27	clust_0326
+GV28|SEQ00184	VBIGarVag271349_0184	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987029	7517	8632	+	1116		Sortase (surface protein transpeptidase)	GV28	clust_0326
+GV29|SEQ00276	VBIGarVag265473_0276	Gardnerella vaginalis JCP8070	ATJK01000011	PATRIC	CDS	183989930	21758	22873	-	1116		Sortase (surface protein transpeptidase)	GV29	clust_0326
+GV30|SEQ00204	VBIGarVag267667_0204	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992458	37183	38298	-	1116		Sortase (surface protein transpeptidase)	GV30	clust_0326
+GV31|SEQ00401	VBIGarVag264983_0401	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995855	80303	81418	-	1116		Sortase (surface protein transpeptidase)	GV31	clust_0326
+GV32|SEQ00081	VBIGarVag277040_0081	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997994	65518	66633	-	1116		Sortase (surface protein transpeptidase)	GV32	clust_0326
+GV33|SEQ00110	VBIGarVag265557_0110	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000893	26117	27223	-	1107		Sortase (surface protein transpeptidase)	GV33	clust_0326
+GV34|SEQ01034	VBIGarVag270440_1034	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005750	51547	52653	-	1107		Sortase (surface protein transpeptidase)	GV34	clust_0326
+GV35|SEQ00286	VBIGarVag272169_0286	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006864	56119	57234	-	1116		Sortase (surface protein transpeptidase)	GV35	clust_0326

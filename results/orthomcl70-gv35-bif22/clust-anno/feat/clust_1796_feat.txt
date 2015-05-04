@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01389	VBIBifBre340958_1390	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604795	1639350	1639637	-	288		hypothetical protein with possible nucleotidyltransferase domain	BRE1	clust_1796
+BRE2|SEQ01494	VBIBifBre337368_1494	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608982	1727426	1727749	-	324		hypothetical protein with possible nucleotidyltransferase domain	BRE2	clust_1796
+BRE3|SEQ01464	VBIBifBre167886_1464	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194672	1710374	1710697	-	324		hypothetical protein with possible nucleotidyltransferase domain	BRE3	clust_1796
+BRE4|SEQ01430	VBIBifBre327712_1430	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612994	1669694	1670017	-	324		hypothetical protein with possible nucleotidyltransferase domain	BRE4	clust_1796
+BRE5|SEQ01556	VBIBifBre336369_1557	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617301	1750701	1751024	-	324		hypothetical protein with possible nucleotidyltransferase domain	BRE5	clust_1796
+BRE6|SEQ00904	VBIBifBre268992_0904	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177654996	22829	23260	-	432		hypothetical protein with possible nucleotidyltransferase domain	BRE6	clust_1796
+BRE7|SEQ01459	VBIBifBre340732_1459	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621411	1688221	1688544	-	324		hypothetical protein with possible nucleotidyltransferase domain	BRE7	clust_1796
+BRE8|SEQ01482	VBIBifBre176493_1482	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625570	1729517	1729804	-	288		hypothetical protein with possible nucleotidyltransferase domain	BRE8	clust_1796
+BRE9|SEQ01546	VBIBifBre30019_1546	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447224	1793061	1793348	-	288		hypothetical protein with possible nucleotidyltransferase domain	BRE9	clust_1796
+INF1|SEQ01598	VBIBifLon182273_1598	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887210	1823702	1823989	-	288		hypothetical protein with possible nucleotidyltransferase domain	INF1	clust_1796
+LON1|SEQ01813	VBIBifLon107831_1814	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120792	2191963	2192250	+	288		hypothetical protein with possible nucleotidyltransferase domain	LON1	clust_1796
+LON3|SEQ01090	VBIBifLon156230_1092	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766052	253531	253818	-	288		hypothetical protein with possible nucleotidyltransferase domain	LON3	clust_1796
+LON4|SEQ01556	VBIBifLon48544_1556	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891470	1787744	1788031	-	288		hypothetical protein with possible nucleotidyltransferase domain	LON4	clust_1796

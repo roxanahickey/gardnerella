@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00161	VBIBifAdo136061_0161	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186538	101313	102977	-	1665		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ADO1	clust_1097
+ANI1|SEQ01360	VBIBifAni240121_1360	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847727	1606067	1607677	-	1611		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ANI1	clust_1097
+ANI1|SEQ01380	VBIBifAni240121_1380	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847767	1631221	1632756	-	1536		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ANI1	clust_1097
+ANI2|SEQ01360	VBIBifAni235968_1360	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851080	1606285	1607895	-	1611		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ANI2	clust_1097
+ANI2|SEQ01380	VBIBifAni235968_1380	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851120	1631439	1632974	-	1536		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ANI2	clust_1097
+ANI3|SEQ01370	VBIBifAni108068_1370	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765100	1611516	1613126	-	1611		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ANI3	clust_1097
+ANI3|SEQ01389	VBIBifAni108068_1389	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765138	1636670	1638205	-	1536		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	ANI3	clust_1097
+BRE1|SEQ00372	VBIBifBre340958_0372	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602693	465925	467685	-	1761		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE1	clust_1097
+BRE2|SEQ00434	VBIBifBre337368_0434	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606792	522033	523751	-	1719		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE2	clust_1097
+BRE3|SEQ00431	VBIBifBre167886_0431	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192535	534699	536303	-	1605		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE3	clust_1097
+BRE4|SEQ00381	VBIBifBre327712_0381	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610828	479394	481001	-	1608		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE4	clust_1097
+BRE5|SEQ00405	VBIBifBre336369_0406	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614925	476764	478482	-	1719		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE5	clust_1097
+BRE6|SEQ00346	VBIBifBre268992_0346	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653814	14267	15751	-	1485		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE6	clust_1097
+BRE7|SEQ00407	VBIBifBre340732_0407	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619236	501940	503658	-	1719		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE7	clust_1097
+BRE8|SEQ00434	VBIBifBre176493_0434	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623404	540345	542063	-	1719	rfbP	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE8	clust_1097
+BRE9|SEQ00475	VBIBifBre30019_0475	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445012	573158	574876	-	1719	rfbP	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	BRE9	clust_1097
+DEN1|SEQ00962	VBIBifDen165269_0963	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459047	102668	104338	+	1671	rfbP	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	DEN1	clust_1097
+DEN2|SEQ01505	VBIBifDen39005_1506	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111399	121388	123058	-	1671		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	DEN2	clust_1097
+INF1|SEQ00373	VBIBifLon182273_0373	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884682	463719	465437	-	1719		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	INF1	clust_1097
+LON1|SEQ00970	VBIBifLon107831_0971	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119017	1144676	1145827	-	1152		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	LON1	clust_1097
+LON1|SEQ00983	VBIBifLon107831_0984	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119043	1156834	1158318	+	1485	rfbP	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	LON1	clust_1097
+LON2|SEQ01041	VBIBifLon171405_1042	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581629	1187209	1188876	-	1668		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	LON2	clust_1097
+LON3|SEQ00845	VBIBifLon156230_0845	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768665	1761965	1763716	+	1752		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	LON3	clust_1097
+LON4|SEQ00374	VBIBifLon48544_0374	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888986	461085	462680	+	1596		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	LON4	clust_1097
+THE1|SEQ00347	VBIBifThe274299_0347	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733868	407173	408363	-	1191		Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	THE1	clust_1097

@@ -1,0 +1,18 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00817	27187934	VBIBifAdo136061_0817	SEQ00817	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BIF1|SEQ01305	86885190	VBIBifBif87902_1305	SEQ01305	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE1|SEQ00474	268602903	VBIBifBre340958_0474	SEQ00474	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE2|SEQ00550	268607028	VBIBifBre337368_0550	SEQ00550	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE3|SEQ01331	54194403	VBIBifBre167886_1331	SEQ01331	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE4|SEQ00496	268611062	VBIBifBre327712_0496	SEQ00496	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE5|SEQ00513	268615143	VBIBifBre336369_0514	SEQ00513	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE6|SEQ00436	177654001	VBIBifBre268992_0436	SEQ00436	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE7|SEQ00503	268619433	VBIBifBre340732_0503	SEQ00503	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+BRE8|SEQ00535	268623609	VBIBifBre176493_0535	SEQ00535	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	aap1	Amino acid permease	FIG01345058	figfam	clust_1491
+BRE9|SEQ00588	58445241	VBIBifBre30019_0588	SEQ00588	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+INF1|SEQ00491	46884922	VBIBifLon182273_0491	SEQ00491	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+LON1|SEQ00859	21118795	VBIBifLon107831_0860	SEQ00859	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+LON2|SEQ00939	42581424	VBIBifLon171405_0940	SEQ00939	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+LON3|SEQ00732	42768438	VBIBifLon156230_0732	SEQ00732	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+LON4|SEQ00480	46889201	VBIBifLon48544_0480	SEQ00480	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491
+THE1|SEQ01222	124735666	VBIBifThe274299_1222	SEQ01222	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Amino acid permease	FIG01345058	figfam	clust_1491

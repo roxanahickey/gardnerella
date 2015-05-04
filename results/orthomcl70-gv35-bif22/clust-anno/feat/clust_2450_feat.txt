@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00146	VBIBifAni240121_0146	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845193	170427	171524	-	1098	ege	Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	ANI1	clust_2450
+ANI2|SEQ00146	VBIBifAni235968_0146	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848548	170427	171524	-	1098		Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	ANI2	clust_2450
+ANI3|SEQ00148	VBIBifAni108068_0148	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762564	170427	171524	-	1098		Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	ANI3	clust_2450
+BRE3|SEQ01240	VBIBifBre167886_1240	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194216	1447860	1448945	+	1086		Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	BRE3	clust_2450
+BRE5|SEQ00590	VBIBifBre336369_0591	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615302	705131	706216	-	1086		Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	BRE5	clust_2450
+DEN1|SEQ00574	VBIBifDen165269_0575	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462442	2011948	2013009	+	1062		Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	DEN1	clust_2450
+DEN2|SEQ01612	VBIBifDen39005_1613	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111616	84428	85489	+	1062		Endoglucanase E precursor (EC 3.2.1.4) (EgE) (Endo-1,4-beta-glucanase E) (Cellulase E)	DEN2	clust_2450

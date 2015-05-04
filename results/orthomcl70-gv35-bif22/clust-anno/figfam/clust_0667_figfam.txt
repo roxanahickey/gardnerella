@@ -1,0 +1,56 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00777	27187854	VBIBifAdo136061_0777	SEQ00777	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+ANI1|SEQ00536	86846015	VBIBifAni240121_0536	SEQ00536	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+ANI2|SEQ00536	86849369	VBIBifAni235968_0536	SEQ00536	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+ANI3|SEQ00538	42763382	VBIBifAni108068_0538	SEQ00538	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BIF1|SEQ01346	86885279	VBIBifBif87902_1346	SEQ01346	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE1|SEQ01413	268604846	VBIBifBre340958_1414	SEQ01413	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE2|SEQ01529	268609055	VBIBifBre337368_1529	SEQ01529	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE3|SEQ01488	54194723	VBIBifBre167886_1488	SEQ01488	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE4|SEQ01454	268613045	VBIBifBre327712_1454	SEQ01454	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE5|SEQ01606	268617404	VBIBifBre336369_1607	SEQ01606	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE6|SEQ00949	177655089	VBIBifBre268992_0949	SEQ00949	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE7|SEQ01483	268621462	VBIBifBre340732_1483	SEQ01483	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+BRE8|SEQ01507	268625623	VBIBifBre176493_1507	SEQ01507	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	pepO	metallopeptidase	FIG01362679	figfam	clust_0667
+BRE9|SEQ01570	58447275	VBIBifBre30019_1570	SEQ01570	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+DEN1|SEQ00112	43461477	VBIBifDen165269_0112	SEQ00112	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+DEN2|SEQ01901	42112219	VBIBifDen39005_1902	SEQ01901	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+GV01|SEQ00362	85494863	VBIGarVag247323_0362	SEQ00362	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV02|SEQ00693	85498210	VBIGarVag242669_0693	SEQ00693	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV03|SEQ01165	85501798	VBIGarVag247424_1165	SEQ01165	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV04|SEQ00900	85481706	VBIGarVag246433_0900	SEQ00900	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV05|SEQ00105	52545917	VBIGarVag174900_0105	SEQ00105	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV06|SEQ01353	85491539	VBIGarVag244004_1353	SEQ01353	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV07|SEQ01103	85493897	VBIGarVag249177_1103	SEQ01103	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000025	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV08|SEQ00839	85476108	VBIGarVag251521_0839	SEQ00839	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV09|SEQ00756	55260713	VBIGarVag169280_0756	SEQ00756	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV10|SEQ00939	32147960	VBIGarVag136958_0939	SEQ00939	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV11|SEQ00067	52548398	VBIGarVag171052_0067	SEQ00067	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000003	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV12|SEQ00343	37853359	VBIGarVag144721_0343	SEQ00343	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV13|SEQ00365	85486681	VBIGarVag244533_0365	SEQ00365	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV14|SEQ00802	85503492	VBIGarVag244375_0802	SEQ00802	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV15|SEQ00918	85485412	VBIGarVag249709_0918	SEQ00918	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV16|SEQ00693	85478541	VBIGarVag246379_0693	SEQ00693	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV17|SEQ01092	37852279	VBIGarVag146634_1092	SEQ01092	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV18|SEQ00577	42069911	VBIGarVag4823_0577	SEQ00577	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000112	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV19|SEQ00924	42628753	VBIGarVag39333_0925	SEQ00924	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV20|SEQ00626	54190073	VBIGarVag188338_0626	SEQ00626	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV21|SEQ00942	183968658	VBIGarVag274454_0943	SEQ00942	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000081	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV23|SEQ00339	183972994	VBIGarVag276017_0339	SEQ00339	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000020	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV25|SEQ01174	183980412	VBIGarVag270495_1174	SEQ01174	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000134	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV26|SEQ00872	183982590	VBIGarVag272749_0872	SEQ00872	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000051	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV27|SEQ00783	183985361	VBIGarVag276930_0783	SEQ00783	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000039	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV28|SEQ00998	183988820	VBIGarVag271349_0998	SEQ00998	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000114	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV29|SEQ00217	183989805	VBIGarVag265473_0217	SEQ00217	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000008	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV30|SEQ00861	183993893	VBIGarVag267667_0863	SEQ00861	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000069	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV31|SEQ00457	183995980	VBIGarVag264983_0457	SEQ00457	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000016	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV32|SEQ00370	183998603	VBIGarVag277040_0370	SEQ00370	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000017	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV33|SEQ00806	184002406	VBIGarVag265557_0806	SEQ00806	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000086	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV34|SEQ00645	184004896	VBIGarVag270440_0645	SEQ00645	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000064	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+GV35|SEQ00721	184007821	VBIGarVag272169_0721	SEQ00721	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000063	PATRIC	CDS	NA	metallopeptidase	FIG01362679	figfam	clust_0667
+INF1|SEQ01628	46887272	VBIBifLon182273_1628	SEQ01628	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+LON1|SEQ01784	21120732	VBIBifLon107831_1785	SEQ01784	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+LON2|SEQ01822	42583273	VBIBifLon171405_1825	SEQ01822	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+LON3|SEQ01119	42766112	VBIBifLon156230_1121	SEQ01119	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+LON4|SEQ01587	46891534	VBIBifLon48544_1587	SEQ01587	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667
+THE1|SEQ01271	124735764	VBIBifThe274299_1271	SEQ01271	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		metallopeptidase	FIG01362679	figfam	clust_0667

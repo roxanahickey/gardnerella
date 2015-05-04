@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV13|SEQ00652	VBIGarVag244533_0652	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487285	78089	79279	-	1191		"Serine/threonine protein kinase "	GV13	clust_3800
+BRE4|SEQ00757	VBIBifBre327712_0757	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611600	913946	915148	+	1203		Serine/threonine protein kinase PrkC, regulator of stationary phase	BRE4	clust_3800
+BRE7|SEQ00944	VBIBifBre340732_0944	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620349	1115124	1116401	-	1278		hypothetical protein	BRE7	clust_3800

@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00611	VBIBifAdo136061_0611	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187504	477773	479272	+	1500		Amino acid permease-associated region precursor	ADO1	clust_0628
+ANI1|SEQ00370	VBIBifAni240121_0370	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845662	447902	449506	+	1605		Amino acid permease-associated region precursor	ANI1	clust_0628
+ANI2|SEQ00370	VBIBifAni235968_0370	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849017	447904	449508	+	1605		Amino acid permease-associated region precursor	ANI2	clust_0628
+ANI3|SEQ00371	VBIBifAni108068_0371	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763030	447905	449509	+	1605		Amino acid permease-associated region precursor	ANI3	clust_0628
+BRE1|SEQ01635	VBIBifBre340958_1636	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605312	1906524	1908050	-	1527		Amino acid permease-associated region precursor	BRE1	clust_0628
+BRE2|SEQ01740	VBIBifBre337368_1740	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609498	2007079	2008605	-	1527		Amino acid permease-associated region precursor	BRE2	clust_0628
+BRE3|SEQ01693	VBIBifBre167886_1693	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195154	1964323	1965849	-	1527		Amino acid permease-associated region precursor	BRE3	clust_0628
+BRE4|SEQ01674	VBIBifBre327712_1674	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613507	1939233	1940759	-	1527		Amino acid permease-associated region precursor	BRE4	clust_0628
+BRE5|SEQ01796	VBIBifBre336369_1797	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617804	2009962	2011488	-	1527		Amino acid permease-associated region precursor	BRE5	clust_0628
+BRE6|SEQ01395	VBIBifBre268992_1395	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656038	5048	6574	+	1527		Amino acid permease-associated region precursor	BRE6	clust_0628
+BRE7|SEQ01721	VBIBifBre340732_1721	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621958	1975767	1977293	-	1527		Amino acid permease-associated region precursor	BRE7	clust_0628
+BRE8|SEQ01678	VBIBifBre176493_1678	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625984	1949149	1950675	-	1527	aap4	Amino acid permease-associated region precursor	BRE8	clust_0628
+BRE9|SEQ01786	VBIBifBre30019_1786	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447728	2053203	2054729	-	1527	aap4	Amino acid permease-associated region precursor	BRE9	clust_0628
+DEN1|SEQ00295	VBIBifDen165269_0296	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461863	1656257	1657756	-	1500		Amino acid permease-associated region precursor	DEN1	clust_0628
+DEN2|SEQ02228	VBIBifDen39005_2231	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112911	147840	149339	+	1500		Amino acid permease-associated region precursor	DEN2	clust_0628
+GV01|SEQ00929	VBIGarVag247323_0929	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496039	155068	156723	+	1656		Amino acid permease-associated region precursor	GV01	clust_0628
+GV02|SEQ01137	VBIGarVag242669_1137	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499139	105143	106786	-	1644		Amino acid permease-associated region precursor	GV02	clust_0628
+GV03|SEQ00340	VBIGarVag247424_0340	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500078	303403	304983	+	1581		Amino acid permease-associated region precursor	GV03	clust_0628
+GV04|SEQ00045	VBIGarVag246433_0045	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479928	39961	41571	-	1611		Amino acid permease-associated region precursor	GV04	clust_0628
+GV05|SEQ00440	VBIGarVag174900_0440	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546618	14950	16476	+	1527		Amino acid permease-associated region precursor	GV05	clust_0628
+GV06|SEQ00593	VBIGarVag244004_0593	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489957	34963	36594	-	1632		Amino acid permease-associated region precursor	GV06	clust_0628
+GV07|SEQ00487	VBIGarVag249177_0487	Gardnerella vaginalis 1500E	ADES01000008	PATRIC	CDS	85492611	12202	13830	+	1629		Amino acid permease-associated region precursor	GV07	clust_0628
+GV08|SEQ01181	VBIGarVag251521_1181	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476821	294647	296257	+	1611		Amino acid permease-associated region precursor	GV08	clust_0628
+GV09|SEQ01212	VBIGarVag169280_1212	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261663	81105	82715	+	1611		Amino acid permease-associated region precursor	GV09	clust_0628
+GV10|SEQ00218	VBIGarVag136958_0218	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146464	267121	268704	+	1584		Amino acid permease-associated region precursor	GV10	clust_0628
+GV11|SEQ01143	VBIGarVag171052_1143	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550685	9579	11210	-	1632		Amino acid permease-associated region precursor	GV11	clust_0628
+GV12|SEQ00758	VBIGarVag144721_0758	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854227	304293	305924	+	1632		Amino acid permease-associated region precursor	GV12	clust_0628
+GV13|SEQ01080	VBIGarVag244533_1080	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488187	78619	80238	+	1620		Amino acid permease-associated region precursor	GV13	clust_0628
+GV14|SEQ00113	VBIGarVag244375_0113	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502047	100186	101766	-	1581		Amino acid permease-associated region precursor	GV14	clust_0628
+GV15|SEQ00447	VBIGarVag249709_0447	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484418	179819	181450	-	1632		Amino acid permease-associated region precursor	GV15	clust_0628
+GV16|SEQ00332	VBIGarVag246379_0332	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477794	298888	300498	+	1611		Amino acid permease-associated region precursor	GV16	clust_0628
+GV17|SEQ00370	VBIGarVag146634_0370	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850761	352239	353870	-	1632		Amino acid permease-associated region precursor	GV17	clust_0628
+GV18|SEQ00108	VBIGarVag4823_0108	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000049	PATRIC	CDS	42068889	2698	3594	-	897		Amino acid permease-associated region precursor	GV18	clust_0628
+GV19|SEQ01277	VBIGarVag39333_1280	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629481	1590306	1591916	-	1611		Amino acid permease-associated region precursor	GV19	clust_0628
+GV20|SEQ00220	VBIGarVag188338_0220	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189236	259735	261345	+	1611		Amino acid permease-associated region precursor	GV20	clust_0628
+GV21|SEQ00802	VBIGarVag274454_0803	Gardnerella vaginalis JCP7275	ATJS01000057	PATRIC	CDS	183968332	2391	4022	+	1632		Amino acid permease-associated region precursor	GV21	clust_0628
+GV22|SEQ00208	VBIGarVag276801_0208	Gardnerella vaginalis JCP7276	ATJR01000005	PATRIC	CDS	183969813	15707	17317	-	1611		Amino acid permease-associated region precursor	GV22	clust_0628
+GV23|SEQ01172	VBIGarVag276017_1172	Gardnerella vaginalis JCP7659	ATJQ01000163	PATRIC	CDS	183974868	16077	17747	-	1671		Amino acid permease-associated region precursor	GV23	clust_0628
+GV24|SEQ00576	VBIGarVag268944_0577	Gardnerella vaginalis JCP7672	ATJP01000034	PATRIC	CDS	183976313	4641	6272	+	1632		Amino acid permease-associated region precursor	GV24	clust_0628
+GV25|SEQ00896	VBIGarVag270495_0896	Gardnerella vaginalis JCP7719	ATJO01000081	PATRIC	CDS	183979788	8766	10397	+	1632		Amino acid permease-associated region precursor	GV25	clust_0628
+GV26|SEQ01262	VBIGarVag272749_1262	Gardnerella vaginalis JCP8017A	ATJN01000153	PATRIC	CDS	183983489	6047	7678	-	1632		Amino acid permease-associated region precursor	GV26	clust_0628
+GV27|SEQ01244	VBIGarVag276930_1244	Gardnerella vaginalis JCP8017B	ATJM01000140	PATRIC	CDS	183986397	5679	7310	-	1632		Amino acid permease-associated region precursor	GV27	clust_0628
+GV28|SEQ00406	VBIGarVag271349_0406	Gardnerella vaginalis JCP8066	ATJL01000023	PATRIC	CDS	183987501	2397	4040	+	1644		Amino acid permease-associated region precursor	GV28	clust_0628
+GV29|SEQ00650	VBIGarVag265473_0650	Gardnerella vaginalis JCP8070	ATJK01000040	PATRIC	CDS	183990742	18251	19894	-	1644		Amino acid permease-associated region precursor	GV29	clust_0628
+GV30|SEQ00455	VBIGarVag267667_0456	Gardnerella vaginalis JCP8108	ATJJ01000022	PATRIC	CDS	183992993	18052	19683	-	1632		Amino acid permease-associated region precursor	GV30	clust_0628
+GV31|SEQ00765	VBIGarVag264983_0765	Gardnerella vaginalis JCP8151A	ATJI01000041	PATRIC	CDS	183996639	15838	17520	-	1683		Amino acid permease-associated region precursor	GV31	clust_0628
+GV32|SEQ00493	VBIGarVag277040_0493	Gardnerella vaginalis JCP8151B	ATJH01000027	PATRIC	CDS	183998869	15826	17454	-	1629		Amino acid permease-associated region precursor	GV32	clust_0628
+GV33|SEQ00083	VBIGarVag265557_0083	Gardnerella vaginalis JCP8481A	ATJG01000007	PATRIC	CDS	184000835	13655	15235	+	1581		Amino acid permease-associated region precursor	GV33	clust_0628
+GV34|SEQ00246	VBIGarVag270440_0246	Gardnerella vaginalis JCP8481B	ATJF01000016	PATRIC	CDS	184004025	13655	15235	+	1581		Amino acid permease-associated region precursor	GV34	clust_0628
+GV35|SEQ00820	VBIGarVag272169_0820	Gardnerella vaginalis JCP8522	ATJE01000079	PATRIC	CDS	184008049	6505	8175	+	1671		Amino acid permease-associated region precursor	GV35	clust_0628
+INF1|SEQ01808	VBIBifLon182273_1808	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887656	2054022	2055548	-	1527		Amino acid permease-associated region precursor	INF1	clust_0628
+LON1|SEQ01616	VBIBifLon107831_1617	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120378	1973506	1975032	+	1527		Amino acid permease-associated region precursor	LON1	clust_0628
+LON2|SEQ01646	VBIBifLon171405_1649	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582903	1990775	1992301	+	1527	potE2	Amino acid permease-associated region precursor	LON2	clust_0628
+LON3|SEQ01673	VBIBifLon156230_1676	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766522	513960	515486	-	1527		Amino acid permease-associated region precursor	LON3	clust_0628
+LON4|SEQ01757	VBIBifLon48544_1757	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891899	2014464	2015990	-	1527		Amino acid permease-associated region precursor	LON4	clust_0628
+THE1|SEQ01458	VBIBifThe274299_1458	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736158	1795828	1797447	-	1620		Amino acid permease-associated region precursor	THE1	clust_0628

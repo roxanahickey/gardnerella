@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00201	VBIBifDen165269_0202	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461669	1560899	1562716	+	1818		Transport ATP-binding protein CydC	DEN1	clust_2326
+DEN2|SEQ01993	VBIBifDen39005_1995	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112418	230392	232209	+	1818		Transport ATP-binding protein CydC	DEN2	clust_2326
+GV11|SEQ00106	VBIGarVag171052_0106	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548480	9131	10642	+	1512		ABC transporter, ATP-binding/permease protein	GV11	clust_2326
+GV13|SEQ00207	VBIGarVag244533_0207	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486357	10108	11619	-	1512		ABC transporter, ATP-binding/permease protein	GV13	clust_2326
+GV17|SEQ00137	VBIGarVag146634_0137	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850271	73216	74961	+	1746		ABC transporter, ATP-binding/permease protein	GV17	clust_2326
+GV23|SEQ00178	VBIGarVag276017_0178	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972657	33602	35347	+	1746		ABC transporter, ATP-binding/permease protein	GV23	clust_2326
+GV25|SEQ00077	VBIGarVag270495_0077	Gardnerella vaginalis JCP7719	ATJO01000004	PATRIC	CDS	183978014	17	811	+	795		ABC transporter, ATP-binding/permease protein	GV25	clust_2326
+GV30|SEQ01324	VBIGarVag267667_1326	Gardnerella vaginalis JCP8108	ATJJ01000165	PATRIC	CDS	183994944	4882	6627	-	1746		ABC transporter, ATP-binding/permease protein	GV30	clust_2326

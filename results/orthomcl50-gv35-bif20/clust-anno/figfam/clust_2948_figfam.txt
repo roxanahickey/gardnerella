@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00044	27186280	VBIBifAdo136061_0044	SEQ00044	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS		Esterase/lipase	FIG00932446	figfam	clust_2948
+BRE2|SEQ01487	268608968	VBIBifBre337368_1487	SEQ01487	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Esterase/lipase	FIG00932446	figfam	clust_2948
+BRE3|SEQ01457	54194658	VBIBifBre167886_1457	SEQ01457	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Esterase/lipase	FIG00932446	figfam	clust_2948
+INF1|SEQ01591	46887196	VBIBifLon182273_1591	SEQ01591	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Esterase/lipase	FIG00932446	figfam	clust_2948

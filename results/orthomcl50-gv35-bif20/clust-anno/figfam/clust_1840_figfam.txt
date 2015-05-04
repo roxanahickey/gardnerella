@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01508	268605049	VBIBifBre340958_1509	SEQ01508	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE2|SEQ01617	268609242	VBIBifBre337368_1617	SEQ01617	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE3|SEQ01405	54194552	VBIBifBre167886_1405	SEQ01405	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE3|SEQ01572	54194903	VBIBifBre167886_1572	SEQ01572	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE4|SEQ01548	268613244	VBIBifBre327712_1548	SEQ01548	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE6|SEQ01981	177657280	VBIBifBre268992_1981	SEQ01981	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE7|SEQ01608	268621723	VBIBifBre340732_1608	SEQ01608	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE8|SEQ01557	268625733	VBIBifBre176493_1557	SEQ01557	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+BRE9|SEQ01668	58447483	VBIBifBre30019_1668	SEQ01668	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+LON1|SEQ00061	21117149	VBIBifLon107831_0061	SEQ00061	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840
+LON3|SEQ00201	42767335	VBIBifLon156230_0201	SEQ00201	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_1840

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00876	VBIGarVag247323_0876	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495921	97826	99253	+	1428		Branched-chain amino acid transport system carrier protein	GV01	clust_0434
+GV02|SEQ01183	VBIGarVag242669_1183	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499243	162520	163989	-	1470		Branched-chain amino acid transport system carrier protein	GV02	clust_0434
+GV03|SEQ00290	VBIGarVag247424_0290	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499963	246285	247754	+	1470		Branched-chain amino acid transport system carrier protein	GV03	clust_0434
+GV04|SEQ00061	VBIGarVag246433_0061	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479970	58529	59998	-	1470		Branched-chain amino acid transport system carrier protein	GV04	clust_0434
+GV05|SEQ00392	VBIGarVag174900_0392	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546509	245291	246253	+	963		Branched-chain amino acid transport system carrier protein	GV05	clust_0434
+GV06|SEQ00609	VBIGarVag244004_0609	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489999	53407	54834	-	1428		Branched-chain amino acid transport system carrier protein	GV06	clust_0434
+GV07|SEQ01150	VBIGarVag249177_1150	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494001	52052	53512	-	1461		Branched-chain amino acid transport system carrier protein	GV07	clust_0434
+GV08|SEQ01164	VBIGarVag251521_1164	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476777	276221	277648	+	1428		Branched-chain amino acid transport system carrier protein	GV08	clust_0434
+GV09|SEQ01196	VBIGarVag169280_1196	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261621	62788	64257	+	1470	brnQ	Branched-chain amino acid transport system carrier protein	GV09	clust_0434
+GV10|SEQ00180	VBIGarVag136958_0180	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146376	219594	221063	+	1470	brnQ	Branched-chain amino acid transport system carrier protein	GV10	clust_0434
+GV11|SEQ01161	VBIGarVag171052_1161	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550731	30081	31514	-	1434		Branched-chain amino acid transport system carrier protein	GV11	clust_0434
+GV12|SEQ00718	VBIGarVag144721_0718	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854135	255584	257053	+	1470		Branched-chain amino acid transport system carrier protein	GV12	clust_0434
+GV13|SEQ01064	VBIGarVag244533_1064	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488145	60249	61676	+	1428		Branched-chain amino acid transport system carrier protein	GV13	clust_0434
+GV14|SEQ00162	VBIGarVag244375_0162	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502158	156659	158119	-	1461		Branched-chain amino acid transport system carrier protein	GV14	clust_0434
+GV15|SEQ00491	VBIGarVag249709_0491	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484518	234947	236224	-	1278		Branched-chain amino acid transport system carrier protein	GV15	clust_0434
+GV16|SEQ00316	VBIGarVag246379_0316	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477752	280441	281910	+	1470		Branched-chain amino acid transport system carrier protein	GV16	clust_0434
+GV17|SEQ00417	VBIGarVag146634_0417	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850867	410027	411442	-	1416		Branched-chain amino acid transport system carrier protein	GV17	clust_0434
+GV18|SEQ01030	VBIGarVag4823_1030	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070883	18439	19908	-	1470		Branched-chain amino acid transport system carrier protein	GV18	clust_0434
+GV19|SEQ01296	VBIGarVag39333_1299	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629529	1611924	1613393	-	1470	brnQ	Branched-chain amino acid transport system carrier protein	GV19	clust_0434
+GV20|SEQ00200	VBIGarVag188338_0200	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189186	234608	236077	+	1470	brnQ	Branched-chain amino acid transport system carrier protein	GV20	clust_0434
+GV21|SEQ00993	VBIGarVag274454_0994	Gardnerella vaginalis JCP7275	ATJS01000092	PATRIC	CDS	183968777	4605	6074	-	1470		Branched-chain amino acid transport system carrier protein	GV21	clust_0434
+GV22|SEQ01043	VBIGarVag276801_1044	Gardnerella vaginalis JCP7276	ATJR01000088	PATRIC	CDS	183971623	4659	6128	-	1470		Branched-chain amino acid transport system carrier protein	GV22	clust_0434
+GV23|SEQ01063	VBIGarVag276017_1063	Gardnerella vaginalis JCP7659	ATJQ01000112	PATRIC	CDS	183974591	1228	2655	+	1428		Branched-chain amino acid transport system carrier protein	GV23	clust_0434
+GV24|SEQ00849	VBIGarVag268944_0850	Gardnerella vaginalis JCP7672	ATJP01000077	PATRIC	CDS	183976910	4634	6103	-	1470		Branched-chain amino acid transport system carrier protein	GV24	clust_0434
+GV25|SEQ00561	VBIGarVag270495_0561	Gardnerella vaginalis JCP7719	ATJO01000046	PATRIC	CDS	183979061	4641	6110	-	1470		Branched-chain amino acid transport system carrier protein	GV25	clust_0434
+GV26|SEQ00682	VBIGarVag272749_0682	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982161	41287	42714	+	1428		Branched-chain amino acid transport system carrier protein	GV26	clust_0434
+GV27|SEQ00997	VBIGarVag276930_0997	Gardnerella vaginalis JCP8017B	ATJM01000074	PATRIC	CDS	183985830	1137	2564	+	1428		Branched-chain amino acid transport system carrier protein	GV27	clust_0434
+GV28|SEQ00717	VBIGarVag271349_0717	Gardnerella vaginalis JCP8066	ATJL01000063	PATRIC	CDS	183988187	4879	6348	-	1470		Branched-chain amino acid transport system carrier protein	GV28	clust_0434
+GV29|SEQ00400	VBIGarVag265473_0400	Gardnerella vaginalis JCP8070	ATJK01000019	PATRIC	CDS	183990197	589	2016	+	1428		Branched-chain amino acid transport system carrier protein	GV29	clust_0434
+GV30|SEQ00816	VBIGarVag267667_0818	Gardnerella vaginalis JCP8108	ATJJ01000061	PATRIC	CDS	183993787	6568	7995	-	1428		Branched-chain amino acid transport system carrier protein	GV30	clust_0434
+GV31|SEQ00663	VBIGarVag264983_0663	Gardnerella vaginalis JCP8151A	ATJI01000032	PATRIC	CDS	183996416	1317	2786	-	1470		Branched-chain amino acid transport system carrier protein	GV31	clust_0434
+GV32|SEQ00674	VBIGarVag277040_0674	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999261	24735	26204	+	1470		Branched-chain amino acid transport system carrier protein	GV32	clust_0434
+GV33|SEQ00687	VBIGarVag265557_0687	Gardnerella vaginalis JCP8481A	ATJG01000064	PATRIC	CDS	184002137	12045	13487	-	1443		Branched-chain amino acid transport system carrier protein	GV33	clust_0434
+GV34|SEQ00366	VBIGarVag270440_0366	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004289	12043	13485	-	1443		Branched-chain amino acid transport system carrier protein	GV34	clust_0434
+GV35|SEQ00773	VBIGarVag272169_0773	Gardnerella vaginalis JCP8522	ATJE01000072	PATRIC	CDS	184007936	13328	14755	+	1428		Branched-chain amino acid transport system carrier protein	GV35	clust_0434

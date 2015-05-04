@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00985	VBIBifAdo136061_0985	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188284	898567	899784	+	1218		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	ADO1	clust_2490
+BIF1|SEQ01064	VBIBifBif87902_1064	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884696	1283822	1285009	-	1188	hsdS	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	BIF1	clust_2490
+BRE2|SEQ01460	VBIBifBre337368_1460	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608914	1687803	1688003	-	201		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	BRE2	clust_2490
+INF1|SEQ01564	VBIBifLon182273_1564	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887142	1781878	1783035	-	1158		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	INF1	clust_2490
+INF1|SEQ01568	VBIBifLon182273_1568	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887150	1788106	1788549	-	444		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	INF1	clust_2490
+LON1|SEQ01835	VBIBifLon107831_1836	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120836	2219603	2220823	+	1221	hsdS	Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	LON1	clust_2490

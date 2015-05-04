@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01006	VBIBifAdo136061_1006	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188326	925881	926396	-	516		Flavodoxin	ADO1	clust_2320
+ANI1|SEQ00115	VBIBifAni240121_0115	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845131	136098	136754	-	657		putative flavodoxin	ANI1	clust_2320
+ANI2|SEQ00115	VBIBifAni235968_0115	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848486	136098	136754	-	657		putative flavodoxin	ANI2	clust_2320
+ANI3|SEQ00117	VBIBifAni108068_0117	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762502	136098	136754	-	657		putative flavodoxin	ANI3	clust_2320
+DEN1|SEQ01938	VBIBifDen165269_1939	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461043	1220591	1221106	+	516		Flavodoxin	DEN1	clust_2320
+DEN2|SEQ00891	VBIBifDen39005_0891	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110134	62952	63467	-	516		Flavodoxin	DEN2	clust_2320
+LON1|SEQ01202	VBIBifLon107831_1203	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119503	1412613	1412990	-	378		Flavodoxin	LON1	clust_2320
+LON4|SEQ00181	VBIBifLon48544_0181	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888578	225950	226351	+	402		Flavodoxin	LON4	clust_2320

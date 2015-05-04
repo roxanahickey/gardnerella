@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00430	VBIBifAdo136061_0430	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187123	263043	263684	-	642		Uracil phosphoribosyltransferase (EC 2.4.2.9)	ADO1	clust_0316
+ANI1|SEQ00197	VBIBifAni240121_0197	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845298	234037	234678	-	642		Uracil phosphoribosyltransferase (EC 2.4.2.9)	ANI1	clust_0316
+ANI2|SEQ00196	VBIBifAni235968_0196	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848651	234038	234679	-	642		Uracil phosphoribosyltransferase (EC 2.4.2.9)	ANI2	clust_0316
+ANI3|SEQ00199	VBIBifAni108068_0199	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762668	234038	234679	-	642	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	ANI3	clust_0316
+BIF1|SEQ00147	VBIBifBif87902_0147	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882798	182398	183039	-	642	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	BIF1	clust_0316
+BRE1|SEQ01745	VBIBifBre340958_1746	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605547	2038484	2039110	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE1	clust_0316
+BRE2|SEQ01853	VBIBifBre337368_1853	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609739	2143547	2144173	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE2	clust_0316
+BRE3|SEQ01814	VBIBifBre167886_1814	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195410	2110930	2111556	+	627	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE3	clust_0316
+BRE4|SEQ01786	VBIBifBre327712_1786	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613746	2071313	2071939	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE4	clust_0316
+BRE5|SEQ01911	VBIBifBre336369_1912	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618050	2144659	2145285	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE5	clust_0316
+BRE6|SEQ01200	VBIBifBre268992_1200	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS	177655620	153	779	-	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE6	clust_0316
+BRE7|SEQ01848	VBIBifBre340732_1848	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622227	2126580	2127221	+	642		Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE7	clust_0316
+BRE8|SEQ01802	VBIBifBre176493_1802	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626248	2095472	2096098	+	627	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE8	clust_0316
+BRE9|SEQ01909	VBIBifBre30019_1909	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447989	2202016	2202642	+	627	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	BRE9	clust_0316
+DEN1|SEQ00498	VBIBifDen165269_0499	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462288	1902791	1903432	+	642	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	DEN1	clust_0316
+DEN2|SEQ01335	VBIBifDen39005_1336	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111055	56498	57139	+	642	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	DEN2	clust_0316
+GV01|SEQ00618	VBIGarVag247323_0618	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495385	30333	30971	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV01	clust_0316
+GV02|SEQ00101	VBIGarVag242669_0101	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496960	65083	65721	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV02	clust_0316
+GV03|SEQ00181	VBIGarVag247424_0181	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499743	126372	127010	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV03	clust_0316
+GV04|SEQ00207	VBIGarVag246433_0207	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480266	73254	73892	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV04	clust_0316
+GV05|SEQ00281	VBIGarVag174900_0281	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546285	124687	125325	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV05	clust_0316
+GV06|SEQ00167	VBIGarVag244004_0167	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489049	88518	89156	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV06	clust_0316
+GV07|SEQ00069	VBIGarVag249177_0069	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491715	72113	72751	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV07	clust_0316
+GV08|SEQ01036	VBIGarVag251521_1036	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476519	141796	142434	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV08	clust_0316
+GV09|SEQ00069	VBIGarVag169280_0069	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259281	20661	21299	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV09	clust_0316
+GV10|SEQ00072	VBIGarVag136958_0072	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146158	93729	94367	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV10	clust_0316
+GV11|SEQ00887	VBIGarVag171052_0887	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550137	69212	69850	+	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV11	clust_0316
+GV12|SEQ00605	VBIGarVag144721_0605	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853907	122143	122781	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV12	clust_0316
+GV13|SEQ00126	VBIGarVag244533_0126	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486192	143509	144147	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV13	clust_0316
+GV14|SEQ00574	VBIGarVag244375_0574	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503008	75593	76231	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV14	clust_0316
+GV15|SEQ00798	VBIGarVag249709_0798	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485154	14104	14712	+	609	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV15	clust_0316
+GV16|SEQ00200	VBIGarVag246379_0200	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477518	148031	148669	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV16	clust_0316
+GV17|SEQ00531	VBIGarVag146634_0531	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851097	535874	536482	+	609		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV17	clust_0316
+GV18|SEQ00624	VBIGarVag4823_0624	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000116	PATRIC	CDS	42070013	11234	11872	-	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV18	clust_0316
+GV19|SEQ00086	VBIGarVag39333_0086	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627006	92334	92972	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV19	clust_0316
+GV20|SEQ01337	VBIGarVag188338_1337	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191550	1673176	1673814	+	639	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV20	clust_0316
+GV21|SEQ00557	VBIGarVag274454_0558	Gardnerella vaginalis JCP7275	ATJS01000029	PATRIC	CDS	183967792	6805	7443	+	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV21	clust_0316
+GV22|SEQ00522	VBIGarVag276801_0523	Gardnerella vaginalis JCP7276	ATJR01000015	PATRIC	CDS	183970477	3790	4428	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV22	clust_0316
+GV23|SEQ01041	VBIGarVag276017_1041	Gardnerella vaginalis JCP7659	ATJQ01000107	PATRIC	CDS	183974540	239	847	+	609		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV23	clust_0316
+GV24|SEQ00157	VBIGarVag268944_0158	Gardnerella vaginalis JCP7672	ATJP01000006	PATRIC	CDS	183975417	8525	9163	+	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV24	clust_0316
+GV25|SEQ00927	VBIGarVag270495_0927	Gardnerella vaginalis JCP7719	ATJO01000092	PATRIC	CDS	183979865	1420	2058	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV25	clust_0316
+GV26|SEQ00245	VBIGarVag272749_0245	Gardnerella vaginalis JCP8017A	ATJN01000011	PATRIC	CDS	183981252	2693	3301	-	609		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV26	clust_0316
+GV27|SEQ00499	VBIGarVag276930_0499	Gardnerella vaginalis JCP8017B	ATJM01000016	PATRIC	CDS	183984750	3764	4402	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV27	clust_0316
+GV28|SEQ00560	VBIGarVag271349_0560	Gardnerella vaginalis JCP8066	ATJL01000039	PATRIC	CDS	183987835	2401	3039	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV28	clust_0316
+GV29|SEQ00444	VBIGarVag265473_0444	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	183990296	36868	37506	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV29	clust_0316
+GV30|SEQ00711	VBIGarVag267667_0713	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993553	19514	20152	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV30	clust_0316
+GV31|SEQ00352	VBIGarVag264983_0352	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995753	21178	21786	+	609		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV31	clust_0316
+GV32|SEQ00031	VBIGarVag277040_0031	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997890	6462	7100	+	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV32	clust_0316
+GV33|SEQ00368	VBIGarVag265557_0368	Gardnerella vaginalis JCP8481A	ATJG01000031	PATRIC	CDS	184001453	10845	11345	+	501		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV33	clust_0316
+GV34|SEQ00305	VBIGarVag270440_0305	Gardnerella vaginalis JCP8481B	ATJF01000021	PATRIC	CDS	184004152	18461	19099	+	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV34	clust_0316
+GV35|SEQ00685	VBIGarVag272169_0685	Gardnerella vaginalis JCP8522	ATJE01000058	PATRIC	CDS	184007744	2389	3027	-	639		Uracil phosphoribosyltransferase (EC 2.4.2.9)	GV35	clust_0316
+INF1|SEQ01898	VBIBifLon182273_1898	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887853	2174886	2175512	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	INF1	clust_0316
+LON1|SEQ01538	VBIBifLon107831_1539	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120206	1861413	1862039	-	627	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	LON1	clust_0316
+LON2|SEQ01562	VBIBifLon171405_1565	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582719	1873419	1874045	-	627	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	LON2	clust_0316
+LON3|SEQ01773	VBIBifLon156230_1776	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766733	644018	644644	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	LON3	clust_0316
+LON4|SEQ01838	VBIBifLon48544_1838	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892078	2129420	2130046	+	627		Uracil phosphoribosyltransferase (EC 2.4.2.9)	LON4	clust_0316
+THE1|SEQ00207	VBIBifThe274299_0207	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733579	248346	248987	-	642	upp	Uracil phosphoribosyltransferase (EC 2.4.2.9)	THE1	clust_0316

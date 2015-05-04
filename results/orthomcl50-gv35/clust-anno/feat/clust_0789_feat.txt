@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01014	VBIGarVag247323_1014	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496217	247066	247800	+	735		probable DeoR-type transcriptional regulator	GV01	clust_0789
+GV02|SEQ01056	VBIGarVag242669_1056	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498968	14494	15228	-	735		probable DeoR-type transcriptional regulator	GV02	clust_0789
+GV03|SEQ00480	VBIGarVag247424_0480	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500367	19842	20834	+	993		probable DeoR-type transcriptional regulator	GV03	clust_0789
+GV04|SEQ00525	VBIGarVag246433_0525	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480942	179933	180733	-	801		probable DeoR-type transcriptional regulator	GV04	clust_0789
+GV05|SEQ00506	VBIGarVag174900_0506	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546756	81392	82327	+	936		probable DeoR-type transcriptional regulator	GV05	clust_0789
+GV06|SEQ01072	VBIGarVag244004_1072	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490970	34260	35060	-	801		probable DeoR-type transcriptional regulator	GV06	clust_0789
+GV07|SEQ00905	VBIGarVag249177_0905	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493481	196541	197476	-	936		probable DeoR-type transcriptional regulator	GV07	clust_0789
+GV08|SEQ00272	VBIGarVag251521_0272	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474929	63994	64794	+	801		probable DeoR-type transcriptional regulator	GV08	clust_0789
+GV09|SEQ00541	VBIGarVag169280_0541	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260271	291492	292292	-	801		probable DeoR-type transcriptional regulator	GV09	clust_0789
+GV10|SEQ00285	VBIGarVag136958_0285	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146602	333851	334708	+	858		probable DeoR-type transcriptional regulator	GV10	clust_0789
+GV11|SEQ00188	VBIGarVag171052_0188	Gardnerella vaginalis 41V	AEJE01000010	PATRIC	CDS	52548660	19338	20138	-	801		probable DeoR-type transcriptional regulator	GV11	clust_0789
+GV12|SEQ00827	VBIGarVag144721_0827	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854369	370836	371693	+	858		probable DeoR-type transcriptional regulator	GV12	clust_0789
+GV13|SEQ01305	VBIGarVag244533_1305	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488664	38365	39165	+	801		probable DeoR-type transcriptional regulator	GV13	clust_0789
+GV14|SEQ00049	VBIGarVag244375_0049	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501914	35221	36156	-	936		probable DeoR-type transcriptional regulator	GV14	clust_0789
+GV15|SEQ00387	VBIGarVag249709_0387	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484293	118897	119754	-	858		probable DeoR-type transcriptional regulator	GV15	clust_0789
+GV16|SEQ01190	VBIGarVag246379_1190	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479580	1404693	1405493	-	801		probable DeoR-type transcriptional regulator	GV16	clust_0789
+GV17|SEQ00308	VBIGarVag146634_0308	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850633	291459	292316	-	858		probable DeoR-type transcriptional regulator	GV17	clust_0789
+GV18|SEQ00413	VBIGarVag4823_0413	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000095	PATRIC	CDS	42069556	8040	8840	+	801		probable DeoR-type transcriptional regulator	GV18	clust_0789
+GV19|SEQ00419	VBIGarVag39333_0420	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627701	506558	507358	+	801	agaR	probable DeoR-type transcriptional regulator	GV19	clust_0789
+GV20|SEQ01097	VBIGarVag188338_1097	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191060	1379231	1380031	-	801		probable DeoR-type transcriptional regulator	GV20	clust_0789
+GV21|SEQ01111	VBIGarVag274454_1112	Gardnerella vaginalis JCP7275	ATJS01000143	PATRIC	CDS	183969076	303	1103	+	801		probable DeoR-type transcriptional regulator	GV21	clust_0789
+GV22|SEQ01192	VBIGarVag276801_1193	Gardnerella vaginalis JCP7276	ATJR01000156	PATRIC	CDS	183972003	2111	2911	-	801		probable DeoR-type transcriptional regulator	GV22	clust_0789
+GV23|SEQ01251	VBIGarVag276017_1251	Gardnerella vaginalis JCP7659	ATJQ01000214	PATRIC	CDS	183975085	419	1153	+	735		probable DeoR-type transcriptional regulator	GV23	clust_0789
+GV24|SEQ00838	VBIGarVag268944_0839	Gardnerella vaginalis JCP7672	ATJP01000075	PATRIC	CDS	183976886	485	1285	+	801		probable DeoR-type transcriptional regulator	GV24	clust_0789
+GV26|SEQ01188	VBIGarVag272749_1188	Gardnerella vaginalis JCP8017A	ATJN01000133	PATRIC	CDS	183983319	2404	3138	+	735		probable DeoR-type transcriptional regulator	GV26	clust_0789
+GV27|SEQ01256	VBIGarVag276930_1256	Gardnerella vaginalis JCP8017B	ATJM01000145	PATRIC	CDS	183986432	8	742	-	735		probable DeoR-type transcriptional regulator	GV27	clust_0789
+GV28|SEQ01205	VBIGarVag271349_1205	Gardnerella vaginalis JCP8066	ATJL01000194	PATRIC	CDS	183989334	15	245	+	231		probable DeoR-type transcriptional regulator	GV28	clust_0789
+GV29|SEQ01032	VBIGarVag265473_1032	Gardnerella vaginalis JCP8070	ATJK01000104	PATRIC	CDS	183991592	608	1399	-	792		probable DeoR-type transcriptional regulator	GV29	clust_0789
+GV30|SEQ00931	VBIGarVag267667_0933	Gardnerella vaginalis JCP8108	ATJJ01000083	PATRIC	CDS	183994049	175	975	+	801		probable DeoR-type transcriptional regulator	GV30	clust_0789
+GV31|SEQ00849	VBIGarVag264983_0849	Gardnerella vaginalis JCP8151A	ATJI01000057	PATRIC	CDS	183996833	105	896	-	792		probable DeoR-type transcriptional regulator	GV31	clust_0789
+GV32|SEQ01178	VBIGarVag277040_1178	Gardnerella vaginalis JCP8151B	ATJH01000152	PATRIC	CDS	184000419	26380	27171	+	792		probable DeoR-type transcriptional regulator	GV32	clust_0789
+GV33|SEQ00490	VBIGarVag265557_0490	Gardnerella vaginalis JCP8481A	ATJG01000045	PATRIC	CDS	184001716	13584	14504	+	921		probable DeoR-type transcriptional regulator	GV33	clust_0789
+GV34|SEQ00637	VBIGarVag270440_0637	Gardnerella vaginalis JCP8481B	ATJF01000063	PATRIC	CDS	184004879	13528	14448	+	921		probable DeoR-type transcriptional regulator	GV34	clust_0789
+GV35|SEQ01090	VBIGarVag272169_1090	Gardnerella vaginalis JCP8522	ATJE01000157	PATRIC	CDS	184008683	504	1238	+	735		probable DeoR-type transcriptional regulator	GV35	clust_0789

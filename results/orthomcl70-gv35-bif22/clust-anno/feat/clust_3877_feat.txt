@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV23|SEQ00024	VBIGarVag276017_0024	Gardnerella vaginalis JCP7659	ATJQ01000005	PATRIC	CDS	183972337	149	961	+	813		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV23	clust_3877
+GV25|SEQ00494	VBIGarVag270495_0494	Gardnerella vaginalis JCP7719	ATJO01000040	PATRIC	CDS	183978921	6245	7057	-	813		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV25	clust_3877
+GV32|SEQ00725	VBIGarVag277040_0725	Gardnerella vaginalis JCP8151B	ATJH01000048	PATRIC	CDS	183999370	8036	8845	-	810		4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	GV32	clust_3877

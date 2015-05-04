@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00302	VBIBifAdo136061_0302	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186854	98108	99454	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	ADO1	clust_1198
+ANI1|SEQ00010	VBIBifAni240121_0010	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844912	14018	15364	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	ANI1	clust_1198
+ANI2|SEQ00010	VBIBifAni235968_0010	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848267	14018	15364	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	ANI2	clust_1198
+ANI3|SEQ00010	VBIBifAni108068_0010	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762280	14018	15364	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	ANI3	clust_1198
+BIF1|SEQ00017	VBIBifBif87902_0017	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882527	19448	20794	-	1347	gdh	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BIF1	clust_1198
+BRE1|SEQ00012	VBIBifBre340958_0012	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268601938	17848	19194	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE1	clust_1198
+BRE2|SEQ00013	VBIBifBre337368_0013	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605910	17874	19220	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE2	clust_1198
+BRE3|SEQ00013	VBIBifBre167886_0013	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191659	17922	19268	-	1347	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE3	clust_1198
+BRE4|SEQ00013	VBIBifBre327712_0013	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610053	17849	19195	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE4	clust_1198
+BRE5|SEQ00012	VBIBifBre336369_0012	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614100	17870	19216	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE5	clust_1198
+BRE6|SEQ01537	VBIBifBre268992_1537	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656335	45349	46695	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE6	clust_1198
+BRE7|SEQ00013	VBIBifBre340732_0013	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618412	17871	19217	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE7	clust_1198
+BRE8|SEQ00013	VBIBifBre176493_0013	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622525	17872	19218	-	1347	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE8	clust_1198
+BRE9|SEQ00013	VBIBifBre30019_0013	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444041	17872	19218	-	1347	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	BRE9	clust_1198
+INF1|SEQ00010	VBIBifLon182273_0010	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883917	14100	15446	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	INF1	clust_1198
+LON1|SEQ01362	VBIBifLon107831_1363	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119837	1611068	1612414	+	1347	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	LON1	clust_1198
+LON2|SEQ01403	VBIBifLon171405_1406	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582390	1626320	1627666	+	1347	gdhA	NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	LON2	clust_1198
+LON3|SEQ01483	VBIBifLon156230_1486	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769585	2271180	2272526	+	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	LON3	clust_1198
+LON4|SEQ00010	VBIBifLon48544_0010	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888218	14100	15446	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	LON4	clust_1198
+THE1|SEQ00010	VBIBifThe274299_0010	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733175	15350	16696	-	1347		NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	THE1	clust_1198

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00995	VBIBifAdo136061_0995	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188304	911627	912415	-	789		YbbM seven transmembrane helix protein	ADO1	clust_1241
+ANI1|SEQ00155	VBIBifAni240121_0155	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845211	180925	181791	+	867	ybbM	YbbM seven transmembrane helix protein	ANI1	clust_1241
+ANI2|SEQ00155	VBIBifAni235968_0155	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848566	180925	181791	+	867	ybbM	YbbM seven transmembrane helix protein	ANI2	clust_1241
+ANI3|SEQ00157	VBIBifAni108068_0157	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762582	180925	181791	+	867		YbbM seven transmembrane helix protein	ANI3	clust_1241
+BIF1|SEQ01082	VBIBifBif87902_1082	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884732	1304654	1305445	+	792		YbbM seven transmembrane helix protein	BIF1	clust_1241
+BRE1|SEQ00564	VBIBifBre340958_0564	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603088	696466	697254	-	789		YbbM seven transmembrane helix protein	BRE1	clust_1241
+BRE2|SEQ00660	VBIBifBre337368_0660	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607252	792181	792969	-	789		YbbM seven transmembrane helix protein	BRE2	clust_1241
+BRE3|SEQ01212	VBIBifBre167886_1212	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194160	1415023	1415811	+	789		YbbM seven transmembrane helix protein	BRE3	clust_1241
+BRE4|SEQ00600	VBIBifBre327712_0600	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611275	739162	739950	-	789		YbbM seven transmembrane helix protein	BRE4	clust_1241
+BRE5|SEQ00619	VBIBifBre336369_0620	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615360	736959	737747	-	789		YbbM seven transmembrane helix protein	BRE5	clust_1241
+BRE6|SEQ01136	VBIBifBre268992_1136	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655484	76445	77233	+	789		YbbM seven transmembrane helix protein	BRE6	clust_1241
+BRE7|SEQ00613	VBIBifBre340732_0613	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619660	742221	743009	-	789		YbbM seven transmembrane helix protein	BRE7	clust_1241
+BRE8|SEQ00635	VBIBifBre176493_0635	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623813	783088	783876	-	789		YbbM seven transmembrane helix protein	BRE8	clust_1241
+BRE9|SEQ00682	VBIBifBre30019_0682	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445435	826952	827740	-	789		YbbM seven transmembrane helix protein	BRE9	clust_1241
+INF1|SEQ01462	VBIBifLon182273_1462	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886937	1661244	1662044	+	801		YbbM seven transmembrane helix protein	INF1	clust_1241
+LON1|SEQ00069	VBIBifLon107831_0069	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117165	80905	81705	-	801		YbbM seven transmembrane helix protein	LON1	clust_1241
+LON2|SEQ00115	VBIBifLon171405_0116	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579725	126755	127555	-	801		YbbM seven transmembrane helix protein	LON2	clust_1241
+LON3|SEQ00081	VBIBifLon156230_0081	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765787	99431	100231	+	801		YbbM seven transmembrane helix protein	LON3	clust_1241
+LON4|SEQ01434	VBIBifLon48544_1434	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891224	1634057	1634857	+	801		YbbM seven transmembrane helix protein	LON4	clust_1241
+THE1|SEQ00804	VBIBifThe274299_0804	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734792	1010688	1011590	-	903		YbbM seven transmembrane helix protein	THE1	clust_1241

@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01299	VBIBifBif87902_1299	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885178	1562172	1562462	-	291		widely conserved hypothetical protein with duf51	BIF1	clust_2013
+BRE2|SEQ01533	VBIBifBre337368_1533	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609063	1780068	1780760	-	693		COG1355, Predicted dioxygenase	BRE2	clust_2013
+BRE4|SEQ01458	VBIBifBre327712_1458	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613053	1710687	1711379	-	693		COG1355, Predicted dioxygenase	BRE4	clust_2013
+BRE5|SEQ01610	VBIBifBre336369_1611	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617412	1817152	1818753	-	1602		COG1355, Predicted dioxygenase	BRE5	clust_2013
+INF1|SEQ01633	VBIBifLon182273_1633	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887283	1869033	1870421	-	1389		COG1355, Predicted dioxygenase	INF1	clust_2013
+LON1|SEQ01779	VBIBifLon107831_1780	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120722	2145423	2147213	+	1791		COG1355, Predicted dioxygenase / COG2078: Uncharacterized ACR	LON1	clust_2013
+LON2|SEQ01816	VBIBifLon171405_1819	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583261	2171516	2173306	+	1791		COG1355, Predicted dioxygenase	LON2	clust_2013
+LON3|SEQ01124	VBIBifLon156230_1126	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766122	298366	300156	-	1791		COG1355, Predicted dioxygenase / COG2078: Uncharacterized ACR	LON3	clust_2013
+LON4|SEQ01592	VBIBifLon48544_1592	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891544	1838477	1840267	-	1791		COG1355, Predicted dioxygenase	LON4	clust_2013
+THE1|SEQ01723	VBIBifThe274299_1723	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736728	2138058	2139818	-	1761		Candidate gene for the hypothesized phosphomevalonate decarboxylase; COG1355, Predicted dioxygenase	THE1	clust_2013

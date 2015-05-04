@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ00389	27187039	VBIBifAdo136061_0389	SEQ00389	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Sulfur carrier protein adenylyltransferase ThiF	GO:0003824	catalytic activity	go	clust_2417
+GV10|SEQ00677	32147422	VBIGarVag136958_0677	SEQ00677	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Sulfur carrier protein adenylyltransferase ThiF	GO:0003824	catalytic activity	go	clust_2417
+GV12|SEQ00113	37852885	VBIGarVag144721_0113	SEQ00113	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Sulfur carrier protein adenylyltransferase ThiF	GO:0003824	catalytic activity	go	clust_2417
+GV15|SEQ00720	85484995	VBIGarVag249709_0720	SEQ00720	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	Sulfur carrier protein adenylyltransferase ThiF	GO:0003824	catalytic activity	go	clust_2417
+GV17|SEQ00883	37851843	VBIGarVag146634_0883	SEQ00883	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	NA	Sulfur carrier protein adenylyltransferase ThiF	GO:0003824	catalytic activity	go	clust_2417
+THE1|SEQ00143	124733449	VBIBifThe274299_0143	SEQ00143	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Sulfur carrier protein adenylyltransferase ThiF	GO:0003824	catalytic activity	go	clust_2417

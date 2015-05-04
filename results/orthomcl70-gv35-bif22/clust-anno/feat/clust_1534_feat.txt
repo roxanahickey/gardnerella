@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00271	VBIBifAni240121_0271	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845450	328531	331989	+	3459		Beta-galactosidase (EC 3.2.1.23)	ANI1	clust_1534
+ANI2|SEQ00270	VBIBifAni235968_0270	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848803	328533	331991	+	3459		Beta-galactosidase (EC 3.2.1.23)	ANI2	clust_1534
+ANI3|SEQ00271	VBIBifAni108068_0271	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762816	328534	331992	+	3459		Beta-galactosidase (EC 3.2.1.23)	ANI3	clust_1534
+BIF1|SEQ00139	VBIBifBif87902_0139	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882782	170425	174300	-	3876	lacZ	Beta-galactosidase (EC 3.2.1.23)	BIF1	clust_1534
+BRE3|SEQ01720	VBIBifBre167886_1720	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195214	1994586	1997750	-	3165		Evolved beta-D-galactosidase, alpha subunit	BRE3	clust_1534
+BRE7|SEQ01749	VBIBifBre340732_1749	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622021	2005948	2009112	-	3165		Evolved beta-D-galactosidase, alpha subunit	BRE7	clust_1534
+BRE8|SEQ01705	VBIBifBre176493_1705	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626045	1979418	1982582	-	3165	lacZ5a	Evolved beta-D-galactosidase, alpha subunit	BRE8	clust_1534
+BRE9|SEQ01813	VBIBifBre30019_1813	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447789	2083394	2086558	-	3165	lacZ7a	Evolved beta-D-galactosidase, alpha subunit	BRE9	clust_1534
+GV06|SEQ00392	VBIGarVag244004_0392	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489527	61677	64694	-	3018	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV06	clust_1534
+GV09|SEQ01260	VBIGarVag169280_1260	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261763	124530	127349	+	2820		Evolved beta-D-galactosidase, alpha subunit	GV09	clust_1534
+GV13|SEQ00401	VBIGarVag244533_0401	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486761	39440	42457	-	3018	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV13	clust_1534
+GV16|SEQ00383	VBIGarVag246379_0383	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477900	347732	350749	+	3018	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV16	clust_1534
+GV18|SEQ00252	VBIGarVag4823_0252	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069207	5674	8493	+	2820	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV18	clust_1534
+GV19|SEQ01226	VBIGarVag39333_1228	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629375	1545715	1548534	-	2820	ebgA	Evolved beta-D-galactosidase, alpha subunit	GV19	clust_1534
+GV20|SEQ00268	VBIGarVag188338_0268	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189337	303132	305951	+	2820		Evolved beta-D-galactosidase, alpha subunit	GV20	clust_1534
+GV30|SEQ00014	VBIGarVag267667_0014	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992064	15331	18348	-	3018		Evolved beta-D-galactosidase, alpha subunit	GV30	clust_1534
+INF1|SEQ00291	VBIBifLon182273_0291	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884511	367239	370403	+	3165		Evolved beta-D-galactosidase, alpha subunit	INF1	clust_1534

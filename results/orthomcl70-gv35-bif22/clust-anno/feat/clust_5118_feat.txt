@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ02098	VBIBifDen165269_2100	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463175	53595	54614	-	1020	epsI	glycosyltransferase family 2 protein	DEN1	clust_5118
+DEN2|SEQ01270	VBIBifDen39005_1271	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110919	53614	54633	-	1020		glycosyltransferase family 2 protein	DEN2	clust_5118

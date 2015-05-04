@@ -1,0 +1,13 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00630	86883797	VBIBifBif87902_0630	SEQ00630	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Cold shock protein CspA	FIG00004100	figfam	clust_1792
+BRE1|SEQ01332	268604681	VBIBifBre340958_1333	SEQ01332	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+BRE3|SEQ00492	54192659	VBIBifBre167886_0492	SEQ00492	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+BRE5|SEQ01496	268617181	VBIBifBre336369_1497	SEQ01496	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+BRE6|SEQ00257	177653625	VBIBifBre268992_0257	SEQ00257	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+BRE7|SEQ01379	268621251	VBIBifBre340732_1379	SEQ01379	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+BRE9|SEQ01463	58447058	VBIBifBre30019_1463	SEQ01463	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+INF1|SEQ01532	46887078	VBIBifLon182273_1532	SEQ01532	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+LON1|SEQ00001	21117029	VBIBifLon107831_0001	SEQ00001	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+LON2|SEQ00042	42579577	VBIBifLon171405_0042	SEQ00042	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+LON3|SEQ01031	42765933	VBIBifLon156230_1033	SEQ01031	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792
+LON4|SEQ01504	46891364	VBIBifLon48544_1504	SEQ01504	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Cold shock protein CspG	FIG00007828	figfam	clust_1792

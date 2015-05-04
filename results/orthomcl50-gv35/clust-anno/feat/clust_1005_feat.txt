@@ -1,0 +1,25 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00426	VBIGarVag247424_0426	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500257	46697	47428	-	732		Sulfur carrier protein adenylyltransferase ThiF	GV03	clust_1005
+GV04|SEQ01219	VBIGarVag246433_1219	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482367	65268	65996	+	729		Sulfur carrier protein adenylyltransferase ThiF	GV04	clust_1005
+GV05|SEQ00152	VBIGarVag174900_0152	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546013	50212	50943	+	732		Sulfur carrier protein adenylyltransferase ThiF	GV05	clust_1005
+GV06|SEQ00484	VBIGarVag244004_0484	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489726	50996	51724	-	729		Sulfur carrier protein adenylyltransferase ThiF	GV06	clust_1005
+GV07|SEQ01047	VBIGarVag249177_1047	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493780	46592	47323	-	732		Sulfur carrier protein adenylyltransferase ThiF	GV07	clust_1005
+GV08|SEQ00549	VBIGarVag251521_0549	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475512	47107	47835	-	729		Sulfur carrier protein adenylyltransferase ThiF	GV08	clust_1005
+GV09|SEQ01045	VBIGarVag169280_1045	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261311	60655	61383	+	729		Sulfur carrier protein adenylyltransferase ThiF	GV09	clust_1005
+GV10|SEQ01131	VBIGarVag136958_1131	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148360	1533352	1533960	-	609		Sulfur carrier protein adenylyltransferase ThiF	GV10	clust_1005
+GV11|SEQ00241	VBIGarVag171052_0241	Gardnerella vaginalis 41V	AEJE01000017	PATRIC	CDS	52548774	24328	25056	-	729		Sulfur carrier protein adenylyltransferase ThiF	GV11	clust_1005
+GV12|SEQ00037	VBIGarVag144721_0037	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852724	48009	48698	-	690		Sulfur carrier protein adenylyltransferase ThiF	GV12	clust_1005
+GV13|SEQ01233	VBIGarVag244533_1233	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488518	60186	60791	+	606		Sulfur carrier protein adenylyltransferase ThiF	GV13	clust_1005
+GV14|SEQ00915	VBIGarVag244375_0915	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503725	45530	46261	+	732		Sulfur carrier protein adenylyltransferase ThiF	GV14	clust_1005
+GV15|SEQ00037	VBIGarVag249709_0037	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483560	42432	43163	+	732		Sulfur carrier protein adenylyltransferase ThiF	GV15	clust_1005
+GV16|SEQ00051	VBIGarVag246379_0051	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477206	65868	66473	+	606		Sulfur carrier protein adenylyltransferase ThiF	GV16	clust_1005
+GV17|SEQ00036	VBIGarVag146634_0036	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850068	48004	48735	-	732		Sulfur carrier protein adenylyltransferase ThiF	GV17	clust_1005
+GV18|SEQ00825	VBIGarVag4823_0825	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000130	PATRIC	CDS	42070448	18319	18432	+	114		Sulfur carrier protein adenylyltransferase ThiF	GV18	clust_1005
+GV19|SEQ00251	VBIGarVag39333_0251	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627355	306029	306757	+	729	thiF	Sulfur carrier protein adenylyltransferase ThiF	GV19	clust_1005
+GV20|SEQ01259	VBIGarVag188338_1259	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191394	1579381	1579986	-	606		Sulfur carrier protein adenylyltransferase ThiF	GV20	clust_1005
+GV21|SEQ01075	VBIGarVag274454_1076	Gardnerella vaginalis JCP7275	ATJS01000126	PATRIC	CDS	183968985	1521	2249	+	729		Sulfur carrier protein adenylyltransferase ThiF	GV21	clust_1005
+GV22|SEQ00538	VBIGarVag276801_0539	Gardnerella vaginalis JCP7276	ATJR01000016	PATRIC	CDS	183970510	5681	6409	-	729		Sulfur carrier protein adenylyltransferase ThiF	GV22	clust_1005
+GV24|SEQ00670	VBIGarVag268944_0671	Gardnerella vaginalis JCP7672	ATJP01000052	PATRIC	CDS	183976521	5693	6421	-	729		Sulfur carrier protein adenylyltransferase ThiF	GV24	clust_1005
+GV30|SEQ01312	VBIGarVag267667_1314	Gardnerella vaginalis JCP8108	ATJJ01000162	PATRIC	CDS	183994916	2873	3478	+	606		Sulfur carrier protein adenylyltransferase ThiF	GV30	clust_1005
+GV33|SEQ00765	VBIGarVag265557_0765	Gardnerella vaginalis JCP8481A	ATJG01000080	PATRIC	CDS	184002315	3601	4332	+	732		Sulfur carrier protein adenylyltransferase ThiF	GV33	clust_1005
+GV34|SEQ00567	VBIGarVag270440_0567	Gardnerella vaginalis JCP8481B	ATJF01000052	PATRIC	CDS	184004728	3539	4270	+	732		Sulfur carrier protein adenylyltransferase ThiF	GV34	clust_1005

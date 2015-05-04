@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01611	268605262	VBIBifBre340958_1612	SEQ01611	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+BRE2|SEQ01719	268609454	VBIBifBre337368_1719	SEQ01719	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+BRE3|SEQ01672	54195110	VBIBifBre167886_1672	SEQ01672	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+BRE4|SEQ01653	268613463	VBIBifBre327712_1653	SEQ01653	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+BRE5|SEQ01774	268617758	VBIBifBre336369_1775	SEQ01774	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+BRE8|SEQ01657	268625940	VBIBifBre176493_1657	SEQ01657	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+DEN1|SEQ00281	43461833	VBIBifDen165269_0282	SEQ00281	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266
+DEN2|SEQ02242	42112941	VBIBifDen39005_2245	SEQ02242	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS		Ribitol/Xylitol/Arabitol transporter, MFS superfamily	FIG00130805	figfam	clust_2266

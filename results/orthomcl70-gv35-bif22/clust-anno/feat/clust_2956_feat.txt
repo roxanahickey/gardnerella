@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00369	VBIBifAdo136061_0369	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186998	186105	186275	+	171		Lactam utilization protein LamB	ADO1	clust_2956
+DEN1|SEQ00592	VBIBifDen165269_0593	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462478	2035334	2036209	-	876		Lactam utilization protein LamB	DEN1	clust_2956
+DEN2|SEQ01629	VBIBifDen39005_1630	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111650	107814	108689	-	876		Lactam utilization protein LamB	DEN2	clust_2956
+LON2|SEQ00921	VBIBifLon171405_0922	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581388	1031569	1032330	-	762		Lactam utilization protein LamB	LON2	clust_2956
+THE1|SEQ01216	VBIBifThe274299_1216	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735654	1512325	1513131	-	807		Lactam utilization protein LamB	THE1	clust_2956

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+LON1|SEQ01488	VBIBifLon107831_1489	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120106	1802216	1803532	+	1317		solute binding protein of ABC transporter system	LON1	clust_3937
+LON3|SEQ01818	VBIBifLon156230_1821	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766825	699086	700402	-	1317		solute binding protein of ABC transporter system	LON3	clust_3937

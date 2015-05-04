@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ00572	43462438	VBIBifDen165269_0573	SEQ00572	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Multiple sugar ABC transporter, substrate-binding protein	GO:0006810	transport	go	clust_4761
+DEN1|SEQ00572	43462438	VBIBifDen165269_0573	SEQ00572	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Multiple sugar ABC transporter, substrate-binding protein	GO:0005215	transporter activity	go	clust_4761
+DEN2|SEQ01610	42111612	VBIBifDen39005_1611	SEQ01610	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	NA	Multiple sugar ABC transporter, substrate-binding protein	GO:0006810	transport	go	clust_4761
+DEN2|SEQ01610	42111612	VBIBifDen39005_1611	SEQ01610	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	NA	Multiple sugar ABC transporter, substrate-binding protein	GO:0005215	transporter activity	go	clust_4761

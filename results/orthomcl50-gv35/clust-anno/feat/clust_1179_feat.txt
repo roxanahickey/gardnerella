@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00220	VBIGarVag246433_0220	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480294	88654	89502	+	849		ABC-type sugar transport systems, permease components	GV04	clust_1179
+GV06|SEQ00158	VBIGarVag244004_0158	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489029	75218	76066	-	849		ABC-type sugar transport systems, permease components	GV06	clust_1179
+GV08|SEQ01023	VBIGarVag251521_1023	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476491	126187	127035	-	849		ABC-type sugar transport systems, permease components	GV08	clust_1179
+GV09|SEQ00078	VBIGarVag169280_0078	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259301	33664	34512	+	849		ABC-type sugar transport systems, permease components	GV09	clust_1179
+GV13|SEQ00117	VBIGarVag244533_0117	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486172	130189	131121	-	933		ABC-type sugar transport systems, permease components	GV13	clust_1179
+GV16|SEQ00191	VBIGarVag246379_0191	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477498	134741	135673	-	933		ABC-type sugar transport systems, permease components	GV16	clust_1179
+GV18|SEQ00294	VBIGarVag4823_0294	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000082	PATRIC	CDS	42069299	973	1821	+	849		ABC-type sugar transport systems, permease components	GV18	clust_1179
+GV19|SEQ00095	VBIGarVag39333_0095	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627026	105327	106259	+	933		ABC-type sugar transport systems, permease components	GV19	clust_1179
+GV20|SEQ01350	VBIGarVag188338_1350	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191578	1688507	1689439	+	933		ABC-type sugar transport systems, permease components	GV20	clust_1179
+GV21|SEQ00386	VBIGarVag274454_0386	Gardnerella vaginalis JCP7275	ATJS01000017	PATRIC	CDS	183967432	12580	13512	-	933		ABC-type sugar transport systems, permease components	GV21	clust_1179
+GV22|SEQ00236	VBIGarVag276801_0237	Gardnerella vaginalis JCP7276	ATJR01000007	PATRIC	CDS	183969885	10935	11783	+	849		ABC-type sugar transport systems, permease components	GV22	clust_1179
+GV24|SEQ00026	VBIGarVag268944_0027	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975144	5135	6067	+	933		ABC-type sugar transport systems, permease components	GV24	clust_1179
+GV30|SEQ00702	VBIGarVag267667_0703	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993533	6209	7141	-	933		ABC-type sugar transport systems, permease components	GV30	clust_1179

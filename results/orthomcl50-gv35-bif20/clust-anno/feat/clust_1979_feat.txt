@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01091	VBIBifBre337368_1091	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608155	1276067	1276366	+	300		COG4367: Uncharacterized protein conserved in bacteria	BRE2	clust_1979
+BRE4|SEQ00958	VBIBifBre327712_0958	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612020	1120924	1121106	-	183		COG4367: Uncharacterized protein conserved in bacteria	BRE4	clust_1979
+BRE5|SEQ01144	VBIBifBre336369_1145	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616459	1287624	1287923	+	300		COG4367: Uncharacterized protein conserved in bacteria	BRE5	clust_1979
+BRE8|SEQ01063	VBIBifBre176493_1063	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624708	1259819	1260001	+	183		COG4367: Uncharacterized protein conserved in bacteria	BRE8	clust_1979
+BRE9|SEQ01128	VBIBifBre30019_1128	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446370	1323031	1323213	+	183		COG4367: Uncharacterized protein conserved in bacteria	BRE9	clust_1979
+INF1|SEQ01012	VBIBifLon182273_1012	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886007	1162321	1162503	-	183		COG4367: Uncharacterized protein conserved in bacteria	INF1	clust_1979
+LON1|SEQ00464	VBIBifLon107831_0464	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117983	547594	547776	+	183		COG4367: Uncharacterized protein conserved in bacteria	LON1	clust_1979
+LON2|SEQ00493	VBIBifLon171405_0494	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580507	565045	565227	+	183		COG4367: Uncharacterized protein conserved in bacteria	LON2	clust_1979
+LON3|SEQ00328	VBIBifLon156230_0328	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767605	1160021	1160203	+	183		COG4367: Uncharacterized protein conserved in bacteria	LON3	clust_1979
+LON4|SEQ00890	VBIBifLon48544_0890	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890056	1054216	1054398	-	183		COG4367: Uncharacterized protein conserved in bacteria	LON4	clust_1979

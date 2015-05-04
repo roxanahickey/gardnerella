@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00674	VBIGarVag136958_0674	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147416	873472	874956	+	1485	ncs	Allantoin permease	GV10	clust_1684
+GV12|SEQ00110	VBIGarVag144721_0110	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852879	40615	42099	+	1485		Allantoin permease	GV12	clust_1684
+GV15|SEQ00717	VBIGarVag249709_0717	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484989	187788	189272	+	1485		Allantoin permease	GV15	clust_1684
+GV17|SEQ00886	VBIGarVag146634_0886	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851849	101788	103272	-	1485		Allantoin permease	GV17	clust_1684

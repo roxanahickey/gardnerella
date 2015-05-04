@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00290	VBIGarVag247323_0290	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494703	27404	28693	+	1290		Xanthine/uracil permease family	GV01	clust_0674
+GV02|SEQ00661	VBIGarVag242669_0661	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498139	22601	23890	-	1290		Xanthine/uracil permease family	GV02	clust_0674
+GV03|SEQ00773	VBIGarVag247424_0773	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500977	63344	64633	+	1290		Xanthine/uracil permease family	GV03	clust_0674
+GV04|SEQ01083	VBIGarVag246433_1083	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482087	35758	37047	+	1290		Xanthine/uracil permease family	GV04	clust_0674
+GV05|SEQ00826	VBIGarVag174900_0826	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547418	490076	491365	+	1290		Xanthine/uracil permease family	GV05	clust_0674
+GV06|SEQ00665	VBIGarVag244004_0665	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490114	22583	23872	-	1290		Xanthine/uracil permease family	GV06	clust_0674
+GV07|SEQ00584	VBIGarVag249177_0584	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492817	72736	74025	+	1290		Xanthine/uracil permease family	GV07	clust_0674
+GV08|SEQ00140	VBIGarVag251521_0140	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474651	170321	171610	-	1290		Xanthine/uracil permease family	GV08	clust_0674
+GV09|SEQ00968	VBIGarVag169280_0968	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261148	389791	391080	-	1290		Xanthine/uracil permease family	GV09	clust_0674
+GV10|SEQ00573	VBIGarVag136958_0573	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147204	730880	732169	+	1290		Xanthine/uracil permease family	GV10	clust_0674
+GV11|SEQ00663	VBIGarVag171052_0663	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549673	22133	23422	-	1290		Xanthine/uracil permease family	GV11	clust_0674
+GV12|SEQ01208	VBIGarVag144721_1208	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855246	74641	75930	+	1290		Xanthine/uracil permease family	GV12	clust_0674
+GV13|SEQ00605	VBIGarVag244533_0605	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487183	22588	23877	-	1290		Xanthine/uracil permease family	GV13	clust_0674
+GV14|SEQ00289	VBIGarVag244375_0289	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502420	112799	114088	+	1290		Xanthine/uracil permease family	GV14	clust_0674
+GV15|SEQ00631	VBIGarVag249709_0631	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484807	71665	72954	+	1290		Xanthine/uracil permease family	GV15	clust_0674
+GV16|SEQ00915	VBIGarVag246379_0915	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478997	1039836	1041125	-	1290		Xanthine/uracil permease family	GV16	clust_0674
+GV17|SEQ00978	VBIGarVag146634_0978	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852044	115448	116737	-	1290		Xanthine/uracil permease family	GV17	clust_0674
+GV19|SEQ00702	VBIGarVag39333_0703	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628298	873795	875084	+	1290	ncs	Xanthine/uracil permease family	GV19	clust_0674
+GV20|SEQ00838	VBIGarVag188338_0838	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190510	1023087	1024376	-	1290		Xanthine/uracil permease family	GV20	clust_0674
+GV21|SEQ00291	VBIGarVag274454_0291	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967234	76646	77935	-	1290		Xanthine/uracil permease family	GV21	clust_0674
+GV22|SEQ00076	VBIGarVag276801_0076	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969537	95803	97092	+	1290		Xanthine/uracil permease family	GV22	clust_0674
+GV23|SEQ00127	VBIGarVag276017_0127	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972551	25800	27089	+	1290		Xanthine/uracil permease family	GV23	clust_0674
+GV24|SEQ00996	VBIGarVag268944_0997	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977223	78639	79928	-	1290		Xanthine/uracil permease family	GV24	clust_0674
+GV25|SEQ00735	VBIGarVag270495_0735	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979437	38818	40107	+	1290		Xanthine/uracil permease family	GV25	clust_0674
+GV26|SEQ00375	VBIGarVag272749_0375	Gardnerella vaginalis JCP8017A	ATJN01000024	PATRIC	CDS	183981529	100	1389	+	1290		Xanthine/uracil permease family	GV26	clust_0674
+GV27|SEQ00107	VBIGarVag276930_0107	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983928	22746	24035	-	1290		Xanthine/uracil permease family	GV27	clust_0674
+GV28|SEQ00266	VBIGarVag271349_0266	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987195	34617	35906	+	1290		Xanthine/uracil permease family	GV28	clust_0674
+GV29|SEQ00880	VBIGarVag265473_0880	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991249	32131	33420	+	1290		Xanthine/uracil permease family	GV29	clust_0674
+GV30|SEQ00265	VBIGarVag267667_0266	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992588	31196	32485	-	1290		Xanthine/uracil permease family	GV30	clust_0674
+GV31|SEQ00020	VBIGarVag264983_0020	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995058	24979	26268	+	1290		Xanthine/uracil permease family	GV31	clust_0674
+GV32|SEQ00279	VBIGarVag277040_0279	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998406	108263	109552	+	1290		Xanthine/uracil permease family	GV32	clust_0674
+GV33|SEQ01204	VBIGarVag265557_1204	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003341	20408	21697	-	1290		Xanthine/uracil permease family	GV33	clust_0674
+GV34|SEQ00710	VBIGarVag270440_0710	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005039	10745	12034	+	1290		Xanthine/uracil permease family	GV34	clust_0674
+GV35|SEQ00154	VBIGarVag272169_0154	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006587	45171	46460	+	1290		Xanthine/uracil permease family	GV35	clust_0674
+ADO1|SEQ00992	VBIBifAdo136061_0992	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188298	907089	908390	+	1302		Xanthine/uracil permease family	ADO1	clust_0674
+ANI1|SEQ01039	VBIBifAni240121_1039	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847060	1201821	1203152	+	1332		Xanthine/uracil permease family	ANI1	clust_0674
+ANI2|SEQ01039	VBIBifAni235968_1039	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850413	1201824	1203155	+	1332		Xanthine/uracil permease family	ANI2	clust_0674
+ANI3|SEQ01043	VBIBifAni108068_1043	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764427	1201825	1203156	+	1332		Xanthine/uracil permease family	ANI3	clust_0674
+BIF1|SEQ01086	VBIBifBif87902_1086	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884740	1306885	1308174	-	1290	rutG	Xanthine/uracil permease family	BIF1	clust_0674
+BRE1|SEQ00819	VBIBifBre340958_0819	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603622	980589	981878	+	1290		Xanthine/uracil permease family	BRE1	clust_0674
+BRE2|SEQ00900	VBIBifBre337368_0900	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607756	1062661	1063950	+	1290		Xanthine/uracil permease family	BRE2	clust_0674
+BRE3|SEQ00981	VBIBifBre167886_0981	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193674	1151646	1152935	-	1290		Xanthine/uracil permease family	BRE3	clust_0674
+BRE4|SEQ00847	VBIBifBre327712_0847	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611793	1019074	1020363	+	1290		Xanthine/uracil permease family	BRE4	clust_0674
+BRE5|SEQ00852	VBIBifBre336369_0853	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615850	1004064	1005353	+	1290		Xanthine/uracil permease family	BRE5	clust_0674
+BRE6|SEQ00812	VBIBifBre268992_0812	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654796	22225	23514	-	1290		Xanthine/uracil permease family	BRE6	clust_0674
+BRE7|SEQ00849	VBIBifBre340732_0849	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620155	1011102	1012391	+	1290		Xanthine/uracil permease family	BRE7	clust_0674
+BRE8|SEQ00879	VBIBifBre176493_0879	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624324	1056876	1058165	+	1290	pyrP	Xanthine/uracil permease family	BRE8	clust_0674
+BRE9|SEQ00934	VBIBifBre30019_0934	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445964	1110074	1111363	+	1290	pyrP	Xanthine/uracil permease family	BRE9	clust_0674
+INF1|SEQ00762	VBIBifLon182273_0762	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885493	933334	934623	+	1290		Xanthine/uracil permease family	INF1	clust_0674
+LON1|SEQ00611	VBIBifLon107831_0612	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118279	705133	706422	-	1290	pyrP	Xanthine/uracil permease family	LON1	clust_0674
+LON2|SEQ00671	VBIBifLon171405_0672	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580868	740477	741766	-	1290	uraA2	Xanthine/uracil permease family	LON2	clust_0674
+LON3|SEQ00478	VBIBifLon156230_0478	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767908	1315789	1317078	-	1290		Xanthine/uracil permease family	LON3	clust_0674
+LON4|SEQ00734	VBIBifLon48544_0734	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889739	890687	891976	+	1290		Xanthine/uracil permease family	LON4	clust_0674
+THE1|SEQ00802	VBIBifThe274299_0802	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734788	1009204	1010496	+	1293		Xanthine/uracil permease family	THE1	clust_0674

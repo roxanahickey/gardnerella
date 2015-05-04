@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01357	VBIBifBre340958_1358	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604731	1594810	1595523	+	714		possible alpha beta hydrolase	BRE1	clust_2107
+BRE2|SEQ01444	VBIBifBre337368_1444	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608881	1669368	1670081	+	714		possible alpha beta hydrolase	BRE2	clust_2107
+BRE3|SEQ00467	VBIBifBre167886_0467	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192609	574820	575533	-	714		possible alpha beta hydrolase	BRE3	clust_2107
+BRE4|SEQ01389	VBIBifBre327712_1389	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612910	1619407	1620120	+	714		possible alpha beta hydrolase	BRE4	clust_2107
+BRE5|SEQ01521	VBIBifBre336369_1522	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617231	1705928	1706641	+	714		possible alpha beta hydrolase	BRE5	clust_2107
+BRE6|SEQ00277	VBIBifBre268992_0277	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653665	54768	55328	+	561		possible alpha beta hydrolase	BRE6	clust_2107
+BRE7|SEQ01404	VBIBifBre340732_1404	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621301	1622422	1623135	+	714		possible alpha beta hydrolase	BRE7	clust_2107
+BRE8|SEQ01423	VBIBifBre176493_1423	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625449	1664787	1665500	+	714		possible alpha beta hydrolase	BRE8	clust_2107
+BRE9|SEQ01488	VBIBifBre30019_1488	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447108	1725572	1726285	+	714		possible alpha beta hydrolase	BRE9	clust_2107

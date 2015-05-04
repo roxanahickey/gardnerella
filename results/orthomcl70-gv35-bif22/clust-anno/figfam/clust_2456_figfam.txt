@@ -1,0 +1,8 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01505	27189368	VBIBifAdo136061_1505	SEQ01505	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Possible membrane protein	FIG01121868	figfam	clust_2456
+ANI1|SEQ01467	86847945	VBIBifAni240121_1467	SEQ01467	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Possible membrane protein	FIG01121868	figfam	clust_2456
+ANI2|SEQ01466	86851296	VBIBifAni235968_1466	SEQ01466	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Possible membrane protein	FIG01121868	figfam	clust_2456
+ANI3|SEQ01476	42765316	VBIBifAni108068_1476	SEQ01476	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Possible membrane protein	FIG01121868	figfam	clust_2456
+BIF1|SEQ00256	86883029	VBIBifBif87902_0256	SEQ00256	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		membrane protein	FIG00773824	figfam	clust_2456
+DEN1|SEQ02131	43463251	VBIBifDen165269_2133	SEQ02131	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		Possible membrane protein	FIG01121868	figfam	clust_2456
+DEN2|SEQ01007	42110367	VBIBifDen39005_1007	SEQ01007	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		Possible membrane protein	FIG01121868	figfam	clust_2456

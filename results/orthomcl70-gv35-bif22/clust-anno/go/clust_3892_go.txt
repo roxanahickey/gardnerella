@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE3|SEQ01296	54194330	VBIBifBre167886_1296	SEQ01296	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Zinc uptake regulation protein ZUR	GO:0003700	transcription factor activity	go	clust_3892
+BRE8|SEQ00568	268623677	VBIBifBre176493_0568	SEQ00568	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	NA	Zinc uptake regulation protein ZUR	GO:0003700	transcription factor activity	go	clust_3892
+BRE9|SEQ00624	58445316	VBIBifBre30019_0624	SEQ00624	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Zinc uptake regulation protein ZUR	GO:0003700	transcription factor activity	go	clust_3892

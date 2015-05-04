@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00059	VBIBifAni240121_0059	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845015	67012	68553	-	1542		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	ANI1	clust_1798
+ANI2|SEQ00059	VBIBifAni235968_0059	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848370	67012	68553	-	1542		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	ANI2	clust_1798
+ANI3|SEQ00061	VBIBifAni108068_0061	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762386	67012	68553	-	1542		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	ANI3	clust_1798
+INF1|SEQ00091	VBIBifLon182273_0091	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884088	112002	113549	+	1548		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	INF1	clust_1798
+INF1|SEQ01758	VBIBifLon182273_1758	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887549	2011247	2012815	-	1569		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	INF1	clust_1798
+LON1|SEQ01285	VBIBifLon107831_1286	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119675	1512913	1514460	-	1548	abfA1	Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON1	clust_1798
+LON1|SEQ01666	VBIBifLon107831_1667	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120482	2016437	2018005	+	1569	abfA3	Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON1	clust_1798
+LON2|SEQ01701	VBIBifLon171405_1704	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583017	2040167	2041735	+	1569	abfA5	Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON2	clust_1798
+LON3|SEQ01391	VBIBifLon156230_1394	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769391	2153762	2155309	-	1548		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON3	clust_1798
+LON3|SEQ01623	VBIBifLon156230_1626	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766418	471132	472700	-	1569		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON3	clust_1798
+LON4|SEQ00104	VBIBifLon48544_0104	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888415	132145	133692	+	1548		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON4	clust_1798
+LON4|SEQ01707	VBIBifLon48544_1707	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891792	1971482	1973050	-	1569		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON4	clust_1798

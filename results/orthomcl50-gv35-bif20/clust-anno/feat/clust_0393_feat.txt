@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00959	VBIGarVag247323_0959	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496101	182632	183906	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV01	clust_0393
+GV02|SEQ01107	VBIGarVag242669_1107	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499076	78017	79291	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV02	clust_0393
+GV03|SEQ00371	VBIGarVag247424_0371	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500143	329718	330992	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV03	clust_0393
+GV04|SEQ00009	VBIGarVag246433_0009	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479854	7522	8796	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV04	clust_0393
+GV05|SEQ00471	VBIGarVag174900_0471	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546683	41199	42473	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV05	clust_0393
+GV06|SEQ00562	VBIGarVag244004_0562	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489893	8025	9299	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV06	clust_0393
+GV07|SEQ00935	VBIGarVag249177_0935	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493543	232523	233797	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV07	clust_0393
+GV08|SEQ01211	VBIGarVag251521_1211	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476883	321722	322996	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV08	clust_0393
+GV09|SEQ01243	VBIGarVag169280_1243	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261727	108182	109456	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV09	clust_0393
+GV10|SEQ00251	VBIGarVag136958_0251	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146532	293324	294601	+	1278	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV10	clust_0393
+GV11|SEQ00596	VBIGarVag171052_0596	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549529	26579	27853	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV11	clust_0393
+GV12|SEQ00791	VBIGarVag144721_0791	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854295	330530	331807	+	1278		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV12	clust_0393
+GV13|SEQ01112	VBIGarVag244533_1112	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488253	105955	107229	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV13	clust_0393
+GV14|SEQ00082	VBIGarVag244375_0082	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501982	72382	73656	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV14	clust_0393
+GV15|SEQ00414	VBIGarVag249709_0414	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484349	153831	155108	-	1278	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV15	clust_0393
+GV16|SEQ00366	VBIGarVag246379_0366	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477864	331593	332867	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV16	clust_0393
+GV17|SEQ00337	VBIGarVag146634_0337	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850693	326232	327509	-	1278		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV17	clust_0393
+GV18|SEQ00846	VBIGarVag4823_0846	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000131	PATRIC	CDS	42070491	5774	6919	-	1146	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV18	clust_0393
+GV19|SEQ01244	VBIGarVag39333_1246	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629413	1563569	1564843	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV19	clust_0393
+GV20|SEQ00251	VBIGarVag188338_0251	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189301	286840	288114	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV20	clust_0393
+GV21|SEQ00707	VBIGarVag274454_0708	Gardnerella vaginalis JCP7275	ATJS01000045	PATRIC	CDS	183968116	1489	2763	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV21	clust_0393
+GV22|SEQ00967	VBIGarVag276801_0968	Gardnerella vaginalis JCP7276	ATJR01000059	PATRIC	CDS	183971434	1510	2784	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV22	clust_0393
+GV23|SEQ00702	VBIGarVag276017_0702	Gardnerella vaginalis JCP7659	ATJQ01000045	PATRIC	CDS	183973772	1538	2812	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV23	clust_0393
+GV24|SEQ00818	VBIGarVag268944_0819	Gardnerella vaginalis JCP7672	ATJP01000069	PATRIC	CDS	183976840	2006	3280	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV24	clust_0393
+GV25|SEQ00802	VBIGarVag270495_0802	Gardnerella vaginalis JCP7719	ATJO01000066	PATRIC	CDS	183979577	1495	2769	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV25	clust_0393
+GV26|SEQ00822	VBIGarVag272749_0822	Gardnerella vaginalis JCP8017A	ATJN01000047	PATRIC	CDS	183982478	1470	2810	+	1341		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV26	clust_0393
+GV27|SEQ00696	VBIGarVag276930_0696	Gardnerella vaginalis JCP8017B	ATJM01000031	PATRIC	CDS	183985173	1497	2771	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV27	clust_0393
+GV28|SEQ00647	VBIGarVag271349_0647	Gardnerella vaginalis JCP8066	ATJL01000044	PATRIC	CDS	183988022	1999	3273	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV28	clust_0393
+GV29|SEQ00731	VBIGarVag265473_0731	Gardnerella vaginalis JCP8070	ATJK01000048	PATRIC	CDS	183990922	1537	2811	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV29	clust_0393
+GV30|SEQ00733	VBIGarVag267667_0735	Gardnerella vaginalis JCP8108	ATJJ01000045	PATRIC	CDS	183993599	3161	4435	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV30	clust_0393
+GV31|SEQ00677	VBIGarVag264983_0677	Gardnerella vaginalis JCP8151A	ATJI01000033	PATRIC	CDS	183996445	2010	3284	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV31	clust_0393
+GV32|SEQ00633	VBIGarVag277040_0633	Gardnerella vaginalis JCP8151B	ATJH01000043	PATRIC	CDS	183999177	1533	2807	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV32	clust_0393
+GV33|SEQ00790	VBIGarVag265557_0790	Gardnerella vaginalis JCP8481A	ATJG01000082	PATRIC	CDS	184002368	2006	3280	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV33	clust_0393
+GV34|SEQ01215	VBIGarVag270440_1215	Gardnerella vaginalis JCP8481B	ATJF01000152	PATRIC	CDS	184006164	801	2075	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV34	clust_0393
+GV35|SEQ00752	VBIGarVag272169_0752	Gardnerella vaginalis JCP8522	ATJE01000067	PATRIC	CDS	184007889	2018	3292	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV35	clust_0393
+ADO1|SEQ00653	VBIBifAdo136061_0653	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187590	518931	520268	+	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	ADO1	clust_0393
+ANI1|SEQ00406	VBIBifAni240121_0406	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845736	478706	480055	+	1350	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	ANI1	clust_0393
+ANI2|SEQ00406	VBIBifAni235968_0406	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849091	478708	480057	+	1350		Preprotein translocase secY subunit (TC 3.A.5.1.1)	ANI2	clust_0393
+ANI3|SEQ00407	VBIBifAni108068_0407	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763104	478709	480058	+	1350		Preprotein translocase secY subunit (TC 3.A.5.1.1)	ANI3	clust_0393
+BIF1|SEQ01504	VBIBifBif87902_1504	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885612	1820975	1822243	-	1269	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	BIF1	clust_0393
+BRE1|SEQ01581	VBIBifBre340958_1582	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605201	1859136	1860473	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE1	clust_0393
+BRE2|SEQ01689	VBIBifBre337368_1689	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609393	1961673	1963010	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE2	clust_0393
+BRE3|SEQ01642	VBIBifBre167886_1642	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195049	1918920	1920257	-	1338	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE3	clust_0393
+BRE4|SEQ01623	VBIBifBre327712_1623	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613402	1893919	1895256	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE4	clust_0393
+BRE5|SEQ01744	VBIBifBre336369_1745	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617697	1964653	1965990	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE5	clust_0393
+BRE6|SEQ01453	VBIBifBre268992_1453	Bifidobacterium breve JCP7499	AWSX01000070	PATRIC	CDS	177656159	26192	27529	+	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE6	clust_0393
+BRE7|SEQ01676	VBIBifBre340732_1676	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621865	1936527	1937864	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE7	clust_0393
+BRE8|SEQ01627	VBIBifBre176493_1627	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625879	1903716	1905053	-	1338	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE8	clust_0393
+BRE9|SEQ01740	VBIBifBre30019_1740	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447633	2013972	2015309	-	1338	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	BRE9	clust_0393
+INF1|SEQ01770	VBIBifLon182273_1770	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887575	2022019	2023356	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	INF1	clust_0393
+LON1|SEQ01654	VBIBifLon107831_1655	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120456	2005851	2007188	+	1338	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	LON1	clust_0393
+LON2|SEQ01689	VBIBifLon171405_1692	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582991	2029626	2030963	+	1338	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	LON2	clust_0393
+LON3|SEQ01635	VBIBifLon156230_1638	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766444	481958	483295	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	LON3	clust_0393
+LON4|SEQ01719	VBIBifLon48544_1719	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891818	1982308	1983645	-	1338		Preprotein translocase secY subunit (TC 3.A.5.1.1)	LON4	clust_0393
+THE1|SEQ01423	VBIBifThe274299_1423	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736086	1765524	1766861	-	1338	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	THE1	clust_0393

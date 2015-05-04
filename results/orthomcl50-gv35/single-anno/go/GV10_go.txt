@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV10|SEQ00288	32146608	VBIGarVag136958_0288	SEQ00288	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Single-stranded DNA-binding protein	GO:0003697	single-stranded DNA binding	go	NA
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0003735	structural constituent of ribosome	go	NA
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0005840	ribosome	go	NA
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0006412	translation	go	NA
+GV10|SEQ00851	32147776	VBIGarVag136958_0851	SEQ00851	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	LSU ribosomal protein L9p	GO:0005622	intracellular	go	NA
+GV10|SEQ00852	32147778	VBIGarVag136958_0852	SEQ00852	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	tRNA pseudouridine 13 synthase (EC 4.2.1.-)	GO:0008033	tRNA processing	go	NA
+GV10|SEQ00852	32147778	VBIGarVag136958_0852	SEQ00852	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	tRNA pseudouridine 13 synthase (EC 4.2.1.-)	GO:0004730	pseudouridylate synthase activity	go	NA
+GV10|SEQ00853	32147780	VBIGarVag136958_0853	SEQ00853	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Alanine dehydrogenase (EC 1.4.1.1)	GO:0000286	alanine dehydrogenase activity	go	NA
+GV10|SEQ00854	32147782	VBIGarVag136958_0854	SEQ00854	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Adenylate cyclase (EC 4.6.1.1)	GO:0004016	adenylate cyclase activity	go	NA

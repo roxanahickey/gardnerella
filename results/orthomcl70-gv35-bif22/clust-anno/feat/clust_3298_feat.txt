@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01862	VBIBifAdo136061_1862	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190095	374169	374597	-	429		Type IV pilin PilA	ADO1	clust_3298
+THE1|SEQ00163	VBIBifThe274299_0163	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733489	189026	189451	+	426		Type IV pilin PilA	THE1	clust_3298
+THE1|SEQ00164	VBIBifThe274299_0164	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733491	189990	190487	+	498		Type IV pilin PilA	THE1	clust_3298

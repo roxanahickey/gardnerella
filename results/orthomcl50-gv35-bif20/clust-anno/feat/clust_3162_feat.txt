@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE4|SEQ01308	VBIBifBre327712_1308	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612747	1527990	1528754	-	765		ATPase component of general energizing module of ECF transporters	BRE4	clust_3162
+BRE5|SEQ01435	VBIBifBre336369_1436	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617058	1613155	1613919	-	765		ATPase component of general energizing module of ECF transporters	BRE5	clust_3162
+BRE7|SEQ01318	VBIBifBre340732_1318	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621127	1529345	1530109	-	765		ATPase component of general energizing module of ECF transporters	BRE7	clust_3162
+BRE9|SEQ01402	VBIBifBre30019_1402	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446935	1632928	1633692	-	765		ATPase component of general energizing module of ECF transporters	BRE9	clust_3162

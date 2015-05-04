@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00480	VBIBifAni240121_0480	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845894	570265	571260	-	996		LacI-type transcriptional regulator	ANI1	clust_1784
+ANI2|SEQ00480	VBIBifAni235968_0480	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849249	570267	571262	-	996	lacI	LacI-type transcriptional regulator	ANI2	clust_1784
+ANI3|SEQ00482	VBIBifAni108068_0482	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763262	570268	571263	-	996		LacI-type transcriptional regulator	ANI3	clust_1784
+BIF1|SEQ01426	VBIBifBif87902_1426	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885450	1715943	1716944	-	1002	lacR	LacI-type transcriptional regulator	BIF1	clust_1784
+BRE1|SEQ01507	VBIBifBre340958_1508	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605047	1778871	1779881	-	1011		LacI-type transcriptional regulator	BRE1	clust_1784
+BRE2|SEQ01616	VBIBifBre337368_1616	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609240	1881472	1882482	-	1011		LacI-type transcriptional regulator	BRE2	clust_1784
+BRE3|SEQ01571	VBIBifBre167886_1571	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194901	1838479	1839489	-	1011		LacI-type transcriptional regulator	BRE3	clust_1784
+BRE4|SEQ01547	VBIBifBre327712_1547	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613242	1813572	1814582	-	1011		LacI-type transcriptional regulator	BRE4	clust_1784
+BRE5|SEQ01671	VBIBifBre336369_1672	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617545	1884065	1885075	-	1011		LacI-type transcriptional regulator	BRE5	clust_1784
+BRE6|SEQ01980	VBIBifBre268992_1980	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657278	124	1134	-	1011		LacI-type transcriptional regulator	BRE6	clust_1784
+BRE7|SEQ01607	VBIBifBre340732_1607	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621721	1856057	1857067	-	1011		LacI-type transcriptional regulator	BRE7	clust_1784
+BRE8|SEQ01556	VBIBifBre176493_1556	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625731	1823435	1824445	-	1011		LacI-type transcriptional regulator	BRE8	clust_1784
+BRE9|SEQ01667	VBIBifBre30019_1667	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447481	1933754	1934764	-	1011		LacI-type transcriptional regulator	BRE9	clust_1784

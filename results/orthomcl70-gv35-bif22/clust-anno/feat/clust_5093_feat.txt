@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01968	VBIBifDen165269_1969	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461103	1251647	1252099	-	453		Transcriptional regulator, GntR family	DEN1	clust_5093
+DEN2|SEQ00860	VBIBifDen39005_0860	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110070	31961	32413	+	453		Transcriptional regulator, GntR family	DEN2	clust_5093

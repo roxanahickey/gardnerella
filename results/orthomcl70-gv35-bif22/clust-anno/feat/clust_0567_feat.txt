@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00913	VBIBifAdo136061_0913	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188136	813621	814445	+	825		Signal transduction histidine kinase	ADO1	clust_0567
+ANI1|SEQ00664	VBIBifAni240121_0664	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846277	775338	777146	+	1809		Signal transduction histidine kinase	ANI1	clust_0567
+ANI2|SEQ00664	VBIBifAni235968_0664	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849630	775341	777149	+	1809		Signal transduction histidine kinase	ANI2	clust_0567
+ANI3|SEQ00666	VBIBifAni108068_0666	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763642	775406	777151	+	1746		Signal transduction histidine kinase	ANI3	clust_0567
+BIF1|SEQ00635	VBIBifBif87902_0635	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883807	778416	780365	+	1950	baeS	Signal transduction histidine kinase	BIF1	clust_0567
+BRE1|SEQ01327	VBIBifBre340958_1328	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604671	1564653	1566578	-	1926		Signal transduction histidine kinase	BRE1	clust_0567
+BRE2|SEQ01415	VBIBifBre337368_1415	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608822	1639208	1641133	-	1926		Signal transduction histidine kinase	BRE2	clust_0567
+BRE3|SEQ00497	VBIBifBre167886_0497	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192669	603762	605687	+	1926		Signal transduction histidine kinase	BRE3	clust_0567
+BRE4|SEQ01360	VBIBifBre327712_1360	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612852	1589251	1591176	-	1926		Signal transduction histidine kinase	BRE4	clust_0567
+BRE5|SEQ01491	VBIBifBre336369_1492	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617171	1675814	1677739	-	1926		Signal transduction histidine kinase	BRE5	clust_0567
+BRE6|SEQ00252	VBIBifBre268992_0252	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653615	29000	30925	-	1926		Signal transduction histidine kinase	BRE6	clust_0567
+BRE7|SEQ01374	VBIBifBre340732_1374	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621241	1592270	1594195	-	1926		Signal transduction histidine kinase	BRE7	clust_0567
+BRE8|SEQ01393	VBIBifBre176493_1393	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625388	1634629	1636554	-	1926	bbukinG	Signal transduction histidine kinase	BRE8	clust_0567
+BRE9|SEQ01458	VBIBifBre30019_1458	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447048	1695416	1697341	-	1926		Signal transduction histidine kinase	BRE9	clust_0567
+DEN1|SEQ02024	VBIBifDen165269_2026	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461219	1314043	1315890	-	1848		Signal transduction histidine kinase	DEN1	clust_0567
+DEN2|SEQ01139	VBIBifDen39005_1140	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000021	PATRIC	CDS	42110645	29828	31573	-	1746		Signal transduction histidine kinase	DEN2	clust_0567
+GV01|SEQ00423	VBIGarVag247323_0423	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494985	147845	149866	+	2022		Signal transduction histidine kinase	GV01	clust_0567
+GV02|SEQ00943	VBIGarVag242669_0943	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498735	191444	193474	-	2031		Signal transduction histidine kinase	GV02	clust_0567
+GV03|SEQ00846	VBIGarVag247424_0846	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501125	164319	166265	+	1947		Signal transduction histidine kinase	GV03	clust_0567
+GV04|SEQ01113	VBIGarVag246433_1113	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482150	19797	21830	-	2034		Signal transduction histidine kinase	GV04	clust_0567
+GV05|SEQ00889	VBIGarVag174900_0889	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547546	574495	576441	+	1947		Signal transduction histidine kinase	GV05	clust_0567
+GV06|SEQ00941	VBIGarVag244004_0941	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490690	330327	332360	+	2034		Signal transduction histidine kinase	GV06	clust_0567
+GV07|SEQ00508	VBIGarVag249177_0508	Gardnerella vaginalis 1500E	ADES01000009	PATRIC	CDS	85492656	17621	19567	+	1947		Signal transduction histidine kinase	GV07	clust_0567
+GV08|SEQ00496	VBIGarVag251521_0496	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475400	371853	373886	+	2034		Signal transduction histidine kinase	GV08	clust_0567
+GV09|SEQ01095	VBIGarVag169280_1095	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261413	19880	21913	-	2034		Signal transduction histidine kinase	GV09	clust_0567
+GV10|SEQ00637	VBIGarVag136958_0637	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147334	816767	818713	+	1947		Signal transduction histidine kinase	GV10	clust_0567
+GV11|SEQ00563	VBIGarVag171052_0563	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549458	45526	47559	+	2034		Signal transduction histidine kinase	GV11	clust_0567
+GV12|SEQ01280	VBIGarVag144721_1280	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855392	168331	169992	+	1662		Signal transduction histidine kinase	GV12	clust_0567
+GV13|SEQ00658	VBIGarVag244533_0658	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487297	89539	91572	-	2034		Signal transduction histidine kinase	GV13	clust_0567
+GV14|SEQ00363	VBIGarVag244375_0363	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502570	204819	206765	+	1947		Signal transduction histidine kinase	GV14	clust_0567
+GV15|SEQ00699	VBIGarVag249709_0699	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484945	163630	165579	+	1950		Signal transduction histidine kinase	GV15	clust_0567
+GV16|SEQ00962	VBIGarVag246379_0962	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479099	1096588	1098621	-	2034		Signal transduction histidine kinase	GV16	clust_0567
+GV17|SEQ00911	VBIGarVag146634_0911	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851908	28578	30242	-	1665		Signal transduction histidine kinase	GV17	clust_0567
+GV18|SEQ00066	VBIGarVag4823_0066	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000038	PATRIC	CDS	42068794	125	2158	-	2034		Signal transduction histidine kinase	GV18	clust_0567
+GV19|SEQ00655	VBIGarVag39333_0656	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628196	814745	816778	+	2034		Signal transduction histidine kinase	GV19	clust_0567
+GV20|SEQ00872	VBIGarVag188338_0872	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190586	1069081	1071114	-	2034		Signal transduction histidine kinase	GV20	clust_0567
+GV21|SEQ00482	VBIGarVag274454_0483	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967634	34894	36927	-	2034		Signal transduction histidine kinase	GV21	clust_0567
+GV22|SEQ00039	VBIGarVag276801_0039	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969455	45282	47315	+	2034		Signal transduction histidine kinase	GV22	clust_0567
+GV23|SEQ00623	VBIGarVag276017_0623	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973607	58739	60742	+	2004		Signal transduction histidine kinase	GV23	clust_0567
+GV24|SEQ00334	VBIGarVag268944_0335	Gardnerella vaginalis JCP7672	ATJP01000018	PATRIC	CDS	183975789	2662	4695	+	2034		Signal transduction histidine kinase	GV24	clust_0567
+GV25|SEQ01097	VBIGarVag270495_1097	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980246	1940	3943	-	2004		Signal transduction histidine kinase	GV25	clust_0567
+GV26|SEQ00508	VBIGarVag272749_0508	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981804	45866	47878	+	2013		Signal transduction histidine kinase	GV26	clust_0567
+GV27|SEQ00429	VBIGarVag276930_0429	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984605	125688	127700	-	2013		Signal transduction histidine kinase	GV27	clust_0567
+GV28|SEQ00819	VBIGarVag271349_0819	Gardnerella vaginalis JCP8066	ATJL01000066	PATRIC	CDS	183988400	1963	3966	-	2004		Signal transduction histidine kinase	GV28	clust_0567
+GV29|SEQ00139	VBIGarVag265473_0139	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989643	125046	127058	-	2013		Signal transduction histidine kinase	GV29	clust_0567
+GV30|SEQ00376	VBIGarVag267667_0377	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992817	45328	47343	+	2016		Signal transduction histidine kinase	GV30	clust_0567
+GV31|SEQ00312	VBIGarVag264983_0312	Gardnerella vaginalis JCP8151A	ATJI01000012	PATRIC	CDS	183995672	2186	4189	-	2004		Signal transduction histidine kinase	GV31	clust_0567
+GV32|SEQ01051	VBIGarVag277040_1051	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000142	24540	26543	+	2004		Signal transduction histidine kinase	GV32	clust_0567
+GV33|SEQ00269	VBIGarVag265557_0269	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001240	9085	11019	-	1935		Signal transduction histidine kinase	GV33	clust_0567
+GV34|SEQ00807	VBIGarVag270440_0807	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005244	75222	77156	+	1935		Signal transduction histidine kinase	GV34	clust_0567
+GV35|SEQ00557	VBIGarVag272169_0557	Gardnerella vaginalis JCP8522	ATJE01000037	PATRIC	CDS	184007451	1963	3975	-	2013		Signal transduction histidine kinase	GV35	clust_0567
+INF1|SEQ01527	VBIBifLon182273_1527	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887068	1739860	1741851	-	1992		Signal transduction histidine kinase	INF1	clust_0567
+LON1|SEQ00006	VBIBifLon107831_0006	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117039	4258	6165	+	1908		Signal transduction histidine kinase	LON1	clust_0567
+LON2|SEQ00048	VBIBifLon171405_0048	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579589	47835	49826	+	1992	baeS1	Signal transduction histidine kinase	LON2	clust_0567
+LON3|SEQ01026	VBIBifLon156230_1028	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765923	178457	180448	-	1992		Signal transduction histidine kinase	LON3	clust_0567
+LON4|SEQ01499	VBIBifLon48544_1499	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891354	1716115	1718106	-	1992		Signal transduction histidine kinase	LON4	clust_0567
+THE1|SEQ01120	VBIBifThe274299_1120	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735457	1397189	1399114	-	1926		Signal transduction histidine kinase	THE1	clust_0567

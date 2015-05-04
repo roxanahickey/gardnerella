@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00824	VBIBifAni240121_0824	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846611	957681	958202	+	522		transcription repressor	ANI1	clust_3525
+ANI2|SEQ00823	VBIBifAni235968_0823	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849962	957684	958205	+	522		transcription repressor	ANI2	clust_3525
+ANI3|SEQ00826	VBIBifAni108068_0826	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763976	957686	958207	+	522		transcription repressor	ANI3	clust_3525

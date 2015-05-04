@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01698	268605453	VBIBifBre340958_1699	SEQ01698	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Polysaccharide deacetylase	FIG00004655	figfam	clust_2134
+BRE4|SEQ01738	268613650	VBIBifBre327712_1738	SEQ01738	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Polysaccharide deacetylase	FIG00004655	figfam	clust_2134
+BRE5|SEQ01859	268617946	VBIBifBre336369_1860	SEQ01859	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Polysaccharide deacetylase	FIG00004655	figfam	clust_2134

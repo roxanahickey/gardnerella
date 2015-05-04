@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ00632	43462560	VBIBifDen165269_0633	SEQ00632	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		L-asparagine permease	FIG00554902	figfam	clust_4000
+DEN2|SEQ01674	42111742	VBIBifDen39005_1675	SEQ01674	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS		L-asparagine permease	FIG00554902	figfam	clust_4000
+THE1|SEQ01559	124736374	VBIBifThe274299_1559	SEQ01559	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		L-asparagine permease	FIG00554902	figfam	clust_4000

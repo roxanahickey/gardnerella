@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00121	VBIGarVag247323_0121	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494348	163054	163404	+	351		Ribonucleotide reductase transcriptional regulator NrdR	GV01	clust_0623
+GV02|SEQ00558	VBIGarVag242669_0558	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497919	177947	178297	-	351		Ribonucleotide reductase transcriptional regulator NrdR	GV02	clust_0623
+GV03|SEQ00671	VBIGarVag247424_0671	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500766	40458	40913	-	456		Ribonucleotide reductase transcriptional regulator NrdR	GV03	clust_0623
+GV04|SEQ00485	VBIGarVag246433_0485	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480856	123744	124193	-	450		Ribonucleotide reductase transcriptional regulator NrdR	GV04	clust_0623
+GV05|SEQ00761	VBIGarVag174900_0761	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547281	385211	385666	+	456		Ribonucleotide reductase transcriptional regulator NrdR	GV05	clust_0623
+GV06|SEQ00743	VBIGarVag244004_0743	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490276	70563	71012	+	450		Ribonucleotide reductase transcriptional regulator NrdR	GV06	clust_0623
+GV07|SEQ00648	VBIGarVag249177_0648	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492948	27148	27603	-	456		Ribonucleotide reductase transcriptional regulator NrdR	GV07	clust_0623
+GV08|SEQ00312	VBIGarVag251521_0312	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475015	122113	122466	+	354	nrdR	Ribonucleotide reductase transcriptional regulator NrdR	GV08	clust_0623
+GV09|SEQ00499	VBIGarVag169280_0499	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260180	233104	233457	-	354	nrdR	Ribonucleotide reductase transcriptional regulator NrdR	GV09	clust_0623
+GV10|SEQ00503	VBIGarVag136958_0503	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147058	620677	621012	+	336	nrdR	Ribonucleotide reductase transcriptional regulator NrdR	GV10	clust_0623
+GV11|SEQ00394	VBIGarVag171052_0394	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549098	89644	89997	-	354		Ribonucleotide reductase transcriptional regulator NrdR	GV11	clust_0623
+GV12|SEQ01079	VBIGarVag144721_1079	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854895	69074	69529	+	456		Ribonucleotide reductase transcriptional regulator NrdR	GV12	clust_0623
+GV13|SEQ00861	VBIGarVag244533_0861	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487722	358254	358607	-	354		Ribonucleotide reductase transcriptional regulator NrdR	GV13	clust_0623
+GV14|SEQ00224	VBIGarVag244375_0224	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502283	10244	10699	+	456		Ribonucleotide reductase transcriptional regulator NrdR	GV14	clust_0623
+GV15|SEQ01131	VBIGarVag249709_1131	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485863	32750	33205	-	456		Ribonucleotide reductase transcriptional regulator NrdR	GV15	clust_0623
+GV16|SEQ01149	VBIGarVag246379_1149	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479492	1348460	1348813	-	354	nrdR	Ribonucleotide reductase transcriptional regulator NrdR	GV16	clust_0623
+GV17|SEQ01047	VBIGarVag146634_1047	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852188	221079	221534	-	456		Ribonucleotide reductase transcriptional regulator NrdR	GV17	clust_0623
+GV18|SEQ00944	VBIGarVag4823_0944	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	42070693	17303	17752	-	450		Ribonucleotide reductase transcriptional regulator NrdR	GV18	clust_0623
+GV19|SEQ00459	VBIGarVag39333_0460	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627787	562603	563052	+	450	nrdR	Ribonucleotide reductase transcriptional regulator NrdR	GV19	clust_0623
+GV20|SEQ01059	VBIGarVag188338_1059	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190978	1322887	1323240	-	354	nrdR	Ribonucleotide reductase transcriptional regulator NrdR	GV20	clust_0623
+GV21|SEQ00096	VBIGarVag274454_0096	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	183966830	19278	19727	-	450		Ribonucleotide reductase transcriptional regulator NrdR	GV21	clust_0623
+GV22|SEQ00264	VBIGarVag276801_0265	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969944	22020	22373	-	354		Ribonucleotide reductase transcriptional regulator NrdR	GV22	clust_0623
+GV23|SEQ00305	VBIGarVag276017_0305	Gardnerella vaginalis JCP7659	ATJQ01000017	PATRIC	CDS	183972923	10772	11122	+	351		Ribonucleotide reductase transcriptional regulator NrdR	GV23	clust_0623
+GV24|SEQ00707	VBIGarVag268944_0708	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976600	22502	22951	-	450		Ribonucleotide reductase transcriptional regulator NrdR	GV24	clust_0623
+GV25|SEQ00307	VBIGarVag270495_0307	Gardnerella vaginalis JCP7719	ATJO01000019	PATRIC	CDS	183978513	10660	11010	+	351		Ribonucleotide reductase transcriptional regulator NrdR	GV25	clust_0623
+GV26|SEQ00754	VBIGarVag272749_0754	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	183982327	10785	11135	+	351		Ribonucleotide reductase transcriptional regulator NrdR	GV26	clust_0623
+GV27|SEQ00530	VBIGarVag276930_0530	Gardnerella vaginalis JCP8017B	ATJM01000017	PATRIC	CDS	183984813	22549	22899	-	351		Ribonucleotide reductase transcriptional regulator NrdR	GV27	clust_0623
+GV28|SEQ00349	VBIGarVag271349_0349	Gardnerella vaginalis JCP8066	ATJL01000019	PATRIC	CDS	183987367	22602	22952	-	351		Ribonucleotide reductase transcriptional regulator NrdR	GV28	clust_0623
+GV29|SEQ00389	VBIGarVag265473_0389	Gardnerella vaginalis JCP8070	ATJK01000018	PATRIC	CDS	183990170	22602	22952	-	351		Ribonucleotide reductase transcriptional regulator NrdR	GV29	clust_0623
+GV30|SEQ01194	VBIGarVag267667_1196	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	183994636	15273	15578	+	306		Ribonucleotide reductase transcriptional regulator NrdR	GV30	clust_0623
+GV31|SEQ00446	VBIGarVag264983_0446	Gardnerella vaginalis JCP8151A	ATJI01000014	PATRIC	CDS	183995952	22620	22970	-	351		Ribonucleotide reductase transcriptional regulator NrdR	GV31	clust_0623
+GV32|SEQ00166	VBIGarVag277040_0166	Gardnerella vaginalis JCP8151B	ATJH01000012	PATRIC	CDS	183998176	10784	11134	+	351		Ribonucleotide reductase transcriptional regulator NrdR	GV32	clust_0623
+GV33|SEQ00411	VBIGarVag265557_0411	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001544	36496	36951	-	456		Ribonucleotide reductase transcriptional regulator NrdR	GV33	clust_0623
+GV34|SEQ00088	VBIGarVag270440_0088	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003668	43895	44350	-	456		Ribonucleotide reductase transcriptional regulator NrdR	GV34	clust_0623
+GV35|SEQ00538	VBIGarVag272169_0538	Gardnerella vaginalis JCP8522	ATJE01000036	PATRIC	CDS	184007412	10783	11133	+	351		Ribonucleotide reductase transcriptional regulator NrdR	GV35	clust_0623

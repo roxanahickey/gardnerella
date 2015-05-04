@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00027	VBIBifAdo136061_0027	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186246	25045	26076	+	1032		Maltose operon transcriptional repressor MalR, LacI family	ADO1	clust_1902
+BRE1|SEQ00490	VBIBifBre340958_0490	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602937	617542	618651	+	1110		transcriptional regulator	BRE1	clust_1902
+BRE2|SEQ00567	VBIBifBre337368_0567	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607064	699718	700827	+	1110		transcriptional regulator	BRE2	clust_1902
+BRE3|SEQ01316	VBIBifBre167886_1316	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194370	1519221	1520330	-	1110		transcriptional regulator	BRE3	clust_1902
+BRE4|SEQ00511	VBIBifBre327712_0511	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611094	649398	650459	+	1062		LacI-family transcriptional regulator	BRE4	clust_1902
+BRE5|SEQ00530	VBIBifBre336369_0531	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615179	639839	640948	+	1110		transcriptional regulator	BRE5	clust_1902
+BRE6|SEQ00420	VBIBifBre268992_0420	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	177653967	334	1443	-	1110		transcriptional regulator	BRE6	clust_1902
+BRE7|SEQ00521	VBIBifBre340732_0521	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619471	651675	652784	+	1110		LacI-family transcriptional regulator	BRE7	clust_1902
+BRE8|SEQ00550	VBIBifBre176493_0550	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623641	694890	695951	+	1062		LacI-family transcriptional regulator	BRE8	clust_1902
+BRE9|SEQ00605	VBIBifBre30019_0605	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445278	745425	746486	+	1062		LacI-family transcriptional regulator	BRE9	clust_1902
+LON3|SEQ01505	VBIBifLon156230_1508	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769629	2298363	2299376	+	1014		transcriptional regulator	LON3	clust_1902

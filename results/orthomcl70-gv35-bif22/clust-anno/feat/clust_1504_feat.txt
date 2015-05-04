@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00493	VBIBifBif87902_0493	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883521	618228	619268	-	1041		COG family: predicted transcriptional regulator	BIF1	clust_1504
+BRE1|SEQ01266	VBIBifBre340958_1267	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604548	1494706	1495755	+	1050		COG family: predicted transcriptional regulator	BRE1	clust_1504
+BRE2|SEQ01356	VBIBifBre337368_1356	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608702	1570983	1572032	+	1050		COG family: predicted transcriptional regulator	BRE2	clust_1504
+BRE3|SEQ00555	VBIBifBre167886_0555	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192785	672855	673904	-	1050		COG family: predicted transcriptional regulator	BRE3	clust_1504
+BRE4|SEQ01297	VBIBifBre327712_1297	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612725	1518041	1519090	+	1050		COG family: predicted transcriptional regulator	BRE4	clust_1504
+BRE5|SEQ01424	VBIBifBre336369_1425	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617036	1603206	1604255	+	1050		COG family: predicted transcriptional regulator	BRE5	clust_1504
+BRE6|SEQ00195	VBIBifBre268992_0195	Bifidobacterium breve JCP7499	AWSX01000013	PATRIC	CDS	177653500	7635	8684	+	1050		COG family: predicted transcriptional regulator	BRE6	clust_1504
+BRE7|SEQ01307	VBIBifBre340732_1307	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621105	1519396	1520445	+	1050		COG family: predicted transcriptional regulator	BRE7	clust_1504
+BRE8|SEQ01335	VBIBifBre176493_1335	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625271	1566509	1567558	+	1050		COG family: predicted transcriptional regulator	BRE8	clust_1504
+BRE9|SEQ01391	VBIBifBre30019_1391	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446913	1622979	1624028	+	1050		COG family: predicted transcriptional regulator	BRE9	clust_1504
+INF1|SEQ01621	VBIBifLon182273_1621	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887258	1855771	1856856	+	1086		COG family: predicted transcriptional regulator	INF1	clust_1504
+LON1|SEQ01790	VBIBifLon107831_1791	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120744	2159397	2160482	-	1086		COG family: predicted transcriptional regulator	LON1	clust_1504
+LON2|SEQ01829	VBIBifLon171405_1832	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583287	2185483	2186568	-	1086		COG family: predicted transcriptional regulator	LON2	clust_1504
+LON3|SEQ00014	VBIBifLon156230_0014	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765651	30144	31190	+	1047		COG family: predicted transcriptional regulator	LON3	clust_1504
+LON3|SEQ01113	VBIBifLon156230_1115	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766100	285103	286188	+	1086		COG family: predicted transcriptional regulator	LON3	clust_1504
+LON4|SEQ01368	VBIBifLon48544_1368	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891087	1564736	1565782	+	1047		COG family: predicted transcriptional regulator	LON4	clust_1504
+LON4|SEQ01581	VBIBifLon48544_1581	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891522	1825208	1826293	+	1086		COG family: predicted transcriptional regulator	LON4	clust_1504
+THE1|SEQ01340	VBIBifThe274299_1340	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735908	1666076	1667206	+	1131		COG2378: Predicted transcriptional regulator	THE1	clust_1504

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00694	VBIBifLon182273_0694	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885351	854187	854642	+	456		COG0477: Permeases of the major facilitator superfamily	INF1	clust_3954
+LON4|SEQ00678	VBIBifLon48544_0678	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889620	824172	824366	+	195		COG0477: Permeases of the major facilitator superfamily	LON4	clust_3954

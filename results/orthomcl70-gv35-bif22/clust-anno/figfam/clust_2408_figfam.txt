@@ -1,0 +1,8 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00257	27186754	VBIBifAdo136061_0257	SEQ00257	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408
+BIF1|SEQ00105	86882708	VBIBifBif87902_0105	SEQ00105	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408
+INF1|SEQ00072	46884046	VBIBifLon182273_0072	SEQ00072	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408
+LON1|SEQ01300	21119709	VBIBifLon107831_1301	SEQ01300	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408
+LON2|SEQ01331	42582241	VBIBifLon171405_1334	SEQ01331	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408
+LON3|SEQ01414	42769441	VBIBifLon156230_1417	SEQ01414	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408
+LON4|SEQ00080	46888363	VBIBifLon48544_0080	SEQ00080	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		GNAT family acetyltransferase YjcF	FIG00003802	figfam	clust_2408

@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ00723	43462752	VBIBifDen165269_0724	SEQ00723	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		putative permease protein, subunit of ABC transporter	FIG01440749	figfam	clust_4001
+DEN2|SEQ00032	42108345	VBIBifDen39005_0032	SEQ00032	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS		putative permease protein, subunit of ABC transporter	FIG01440749	figfam	clust_4001
+THE1|SEQ00516	124734208	VBIBifThe274299_0516	SEQ00516	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Hydroxymethylpyrimidine ABC transporter, transmembrane component	FIG00014444	figfam	clust_4001

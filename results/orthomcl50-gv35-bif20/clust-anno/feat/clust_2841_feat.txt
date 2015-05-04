@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01829	VBIBifAdo136061_1829	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190029	341021	341662	-	642		ABC transporter, ATP-binding protein	ADO1	clust_2841
+BIF1|SEQ00682	VBIBifBif87902_0682	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883901	839389	840210	+	822	lolD	ABC transporter, ATP-binding protein	BIF1	clust_2841
+BIF1|SEQ01434	VBIBifBif87902_1434	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885466	1723584	1724186	+	603		ABC transporter, ATP-binding protein	BIF1	clust_2841
+BRE7|SEQ01545	VBIBifBre340732_1545	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621597	1793504	1794232	-	729		ABC transporter, ATP-binding protein	BRE7	clust_2841
+THE1|SEQ01249	VBIBifThe274299_1249	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735720	1553647	1554345	-	699		ABC transporter, ATP-binding protein	THE1	clust_2841

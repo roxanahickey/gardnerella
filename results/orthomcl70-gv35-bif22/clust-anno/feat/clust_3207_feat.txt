@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00284	VBIBifBif87902_0284	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883095	349937	350830	+	894		hypothetical protein	BIF1	clust_3207
+DEN1|SEQ01790	VBIBifDen165269_1791	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460737	1097225	1097893	-	669		hypothetical protein	DEN1	clust_3207
+DEN2|SEQ00407	VBIBifDen39005_0407	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109140	44395	45063	+	669		hypothetical protein	DEN2	clust_3207
+LON2|SEQ01200	VBIBifLon171405_1202	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581965	1377878	1378915	+	1038		Hypothetical protein, CF-32 family	LON2	clust_3207

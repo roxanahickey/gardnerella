@@ -1,0 +1,73 @@
+---
+title: "Analysis of OrthoMCL results from 35 Gardnerella genomes"
+author: "Roxana Hickey"
+date: "March 20, 2015"
+output: html_document
+---
+
+Load ouput from Gardnerella-only OrthoMCL summary
+```{r setup}
+## Run orthomcl_summary.R with custom parameters via run_orthomcl_summary_gv.R
+setwd("~/Documents/research/gardnerella/gardnerella-git")
+# source("code/run_orthomcl_summary_gv35_id50.R") # 50% clustering, 35 GV genomes
+# source("code/run_orthomcl_summary_gv35_id70.R") # 70% clustering, 35 GV genomes
+
+## Load output
+load("results/orthomcl-summary-gv/orthomcl_summary.RData")
+```
+
+SANDBOX
+```{r sandbox}
+dir.out <- "sandbox/functional-anno-gv/"
+dir.create(dir.out)
+
+## replace ortho_id with cds_id for singletons
+key.feat.cds$ortho_id <- as.character(key.feat.cds$ortho_id)
+key.feat.cds$ortho_id[is.na(key.feat.cds$ortho_id)] <- as.character(key.feat.cds$cds_id[is.na(key.feat.cds$ortho_id)])
+
+## add clade info to feature table
+key.clade <- data.frame(id_short=names(cutg), clade_id=cutg)
+key.feat.cds <- merge(key.feat.cds, key.clade, by="id_short")
+write.table(key.feat.cds, paste(dir.out, "cds_feature_key_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+
+## add clade info to annotation tables
+# save original annotation key
+anno.figfam <- merge(key.anno$figfam, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
+write.table(anno.figfam, paste(dir.out, "anno_figfam_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+
+anno.ec <- merge(key.anno$ec, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
+write.table(anno.ec, paste(dir.out, "anno_ec_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+
+anno.go <- merge(key.anno$go, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
+write.table(anno.go, paste(dir.out, "anno_go_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+
+anno.path <- merge(key.anno$path, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
+write.table(anno.path, paste(dir.out, "anno_path_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+
+#####
+## write empty data frame to keep track of selected gene annotations
+func <- list()
+
+# sialidase
+func$sialidase <- key.feat.cds[grep("Sialidase", key.feat.cds$product, ignore.case = TRUE),]
+# unique(key.feat.cds$genome_name[!(key.feat.cds$genome_name %in% func$sialidase$genome_name)])
+
+# amylase
+func$amylase <- key.feat.cds[grep("amylase", key.feat.cds$product, ignore.case = TRUE),]
+
+# lysin
+func$lysin <- key.feat.cds[grep("lysin", key.feat.cds$product, ignore.case = TRUE),]
+func$lysin <- func$lysin[-grep("Lysine", func$lysin$product),]
+
+# cytolysin (Thiol-activated cytolysin = vaginolysin)
+func$cytolysin <- key.feat.cds[grep("cytolysin", key.feat.cds$product, ignore.case = TRUE),]
+unique(key.feat.cds$genome_name[!(key.feat.cds$genome_name %in% func$cytolysin$genome_name)])
+
+# toxin
+func$toxin <- key.feat.cds[grep("toxin", key.feat.cds$product, ignore.case = TRUE),]
+
+# plasmid
+func$plasmid <- key.feat.cds[grep("plasmid", key.feat.cds$product, ignore.case = TRUE),]
+
+
+```

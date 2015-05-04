@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00162	VBIBifAni240121_0162	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845225	189895	191616	-	1722		putative ABC transporter integral membrane protein	ANI1	clust_3538
+ANI2|SEQ00162	VBIBifAni235968_0162	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848580	189896	191617	-	1722		putative ABC transporter integral membrane protein	ANI2	clust_3538
+ANI3|SEQ00164	VBIBifAni108068_0164	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762596	189896	191617	-	1722		putative ABC transporter integral membrane protein	ANI3	clust_3538

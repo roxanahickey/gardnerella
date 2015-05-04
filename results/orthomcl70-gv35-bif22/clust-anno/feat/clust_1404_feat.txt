@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01552	VBIBifAdo136061_1552	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189474	16864	17109	+	246		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	ADO1	clust_1404
+ANI1|SEQ00880	VBIBifAni240121_0880	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846732	1021155	1021640	+	486		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	ANI1	clust_1404
+ANI2|SEQ00879	VBIBifAni235968_0879	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850083	1021158	1021643	+	486		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	ANI2	clust_1404
+ANI3|SEQ00882	VBIBifAni108068_0882	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764097	1021159	1021644	+	486		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	ANI3	clust_1404
+BIF1|SEQ00149	VBIBifBif87902_0149	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882802	183534	184091	-	558	bcp	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BIF1	clust_1404
+BRE1|SEQ00903	VBIBifBre340958_0903	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603792	1075875	1076321	+	447		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE1	clust_1404
+BRE2|SEQ00988	VBIBifBre337368_0988	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607935	1163999	1164406	+	408		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE2	clust_1404
+BRE3|SEQ00894	VBIBifBre167886_0894	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193498	1055434	1055880	-	447		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE3	clust_1404
+BRE4|SEQ01058	VBIBifBre327712_1058	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612233	1227225	1227671	-	447		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE4	clust_1404
+BRE5|SEQ01047	VBIBifBre336369_1048	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616251	1182144	1182689	+	546		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE5	clust_1404
+BRE6|SEQ00600	VBIBifBre268992_0600	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654349	1630	2217	+	588		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE6	clust_1404
+BRE7|SEQ00935	VBIBifBre340732_0935	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620330	1106538	1107092	+	555		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE7	clust_1404
+BRE8|SEQ00965	VBIBifBre176493_0965	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624498	1153007	1153453	+	447	bcp	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE8	clust_1404
+BRE9|SEQ01020	VBIBifBre30019_1020	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446138	1206477	1207061	+	585	bcp	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	BRE9	clust_1404
+INF1|SEQ00945	VBIBifLon182273_0945	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885870	1101393	1101800	+	408		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	INF1	clust_1404
+LON1|SEQ00512	VBIBifLon107831_0513	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118079	598222	598668	-	447	bcp	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	LON1	clust_1404
+LON2|SEQ00579	VBIBifLon171405_0580	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580682	641550	642086	-	537	ahpC1	Thiol peroxidase, Bcp-type (EC 1.11.1.15)	LON2	clust_1404
+LON3|SEQ00382	VBIBifLon156230_0382	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767714	1211996	1212394	-	399		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	LON3	clust_1404
+LON4|SEQ00828	VBIBifLon48544_0828	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889929	994461	994868	+	408		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	LON4	clust_1404
+THE1|SEQ01638	VBIBifThe274299_1638	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736541	2032450	2032965	+	516		Thiol peroxidase, Bcp-type (EC 1.11.1.15)	THE1	clust_1404

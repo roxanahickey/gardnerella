@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01439	27189234	VBIBifAdo136061_1439	SEQ01439	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2277
+BRE6|SEQ01022	177655249	VBIBifBre268992_1022	SEQ01022	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000053	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2277
+GV09|SEQ00361	55259889	VBIGarVag169280_0361	SEQ00361	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	NA	phage-related terminase	FIG01609515	figfam	clust_2277
+GV26|SEQ00068	183980871	VBIGarVag272749_0068	SEQ00068	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2277
+GV27|SEQ00076	183983863	VBIGarVag276930_0076	SEQ00076	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2277
+GV31|SEQ00971	183997093	VBIGarVag264983_0971	SEQ00971	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2277
+GV32|SEQ00770	183999471	VBIGarVag277040_0770	SEQ00770	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_2277
+LON3|SEQ01211	42769017	VBIBifLon156230_1213	SEQ01211	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2277

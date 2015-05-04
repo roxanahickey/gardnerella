@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01494	VBIBifAdo136061_1494	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189346	153115	153936	-	822		Fumarylacetoacetate hydrolase family protein	ADO1	clust_0320
+ANI1|SEQ01459	VBIBifAni240121_1459	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847929	1744028	1744849	-	822		Fumarylacetoacetate hydrolase family protein	ANI1	clust_0320
+ANI2|SEQ01458	VBIBifAni235968_1458	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851280	1744248	1745069	-	822		Fumarylacetoacetate hydrolase family protein	ANI2	clust_0320
+ANI3|SEQ01468	VBIBifAni108068_1468	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765300	1749479	1750300	-	822		Fumarylacetoacetate hydrolase family protein	ANI3	clust_0320
+BIF1|SEQ00265	VBIBifBif87902_0265	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883047	330661	331476	+	816		Fumarylacetoacetate hydrolase family protein	BIF1	clust_0320
+BRE1|SEQ01752	VBIBifBre340958_1753	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605561	2046632	2047453	-	822		Fumarylacetoacetate hydrolase family protein	BRE1	clust_0320
+BRE2|SEQ01860	VBIBifBre337368_1860	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609753	2151668	2152489	-	822		Fumarylacetoacetate hydrolase family protein	BRE2	clust_0320
+BRE3|SEQ01821	VBIBifBre167886_1821	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195424	2119053	2119874	-	822		Fumarylacetoacetate hydrolase family protein	BRE3	clust_0320
+BRE4|SEQ01793	VBIBifBre327712_1793	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613760	2079434	2080255	-	822		Fumarylacetoacetate hydrolase family protein	BRE4	clust_0320
+BRE5|SEQ01918	VBIBifBre336369_1919	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618064	2152781	2153602	-	822		Fumarylacetoacetate hydrolase family protein	BRE5	clust_0320
+BRE6|SEQ01193	VBIBifBre268992_1193	Bifidobacterium breve JCP7499	AWSX01000058	PATRIC	CDS	177655605	18028	18849	+	822		Fumarylacetoacetate hydrolase family protein	BRE6	clust_0320
+BRE7|SEQ01855	VBIBifBre340732_1855	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622241	2134718	2135539	-	822		Fumarylacetoacetate hydrolase family protein	BRE7	clust_0320
+BRE8|SEQ01809	VBIBifBre176493_1809	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626262	2103594	2104415	-	822		Fumarylacetoacetate hydrolase family protein	BRE8	clust_0320
+BRE9|SEQ01916	VBIBifBre30019_1916	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448003	2210137	2210958	-	822		Fumarylacetoacetate hydrolase family protein	BRE9	clust_0320
+DEN1|SEQ02139	VBIBifDen165269_2141	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463267	13265	14086	+	822		Fumarylacetoacetate hydrolase family protein	DEN1	clust_0320
+DEN2|SEQ00999	VBIBifDen39005_0999	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110351	101862	102683	-	822		Fumarylacetoacetate hydrolase family protein	DEN2	clust_0320
+GV01|SEQ00808	VBIGarVag247323_0808	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495783	22487	23302	+	816		Fumarylacetoacetate hydrolase family protein	GV01	clust_0320
+GV02|SEQ00053	VBIGarVag242669_0053	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496864	12905	13720	-	816		Fumarylacetoacetate hydrolase family protein	GV02	clust_0320
+GV03|SEQ00188	VBIGarVag247424_0188	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499757	135279	136094	-	816		Fumarylacetoacetate hydrolase family protein	GV03	clust_0320
+GV04|SEQ00194	VBIGarVag246433_0194	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480240	60405	61220	+	816		Fumarylacetoacetate hydrolase family protein	GV04	clust_0320
+GV05|SEQ00288	VBIGarVag174900_0288	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546299	133581	134396	-	816		Fumarylacetoacetate hydrolase family protein	GV05	clust_0320
+GV06|SEQ00176	VBIGarVag244004_0176	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489067	97205	98020	-	816		Fumarylacetoacetate hydrolase family protein	GV06	clust_0320
+GV07|SEQ00058	VBIGarVag249177_0058	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491693	62512	63327	+	816		Fumarylacetoacetate hydrolase family protein	GV07	clust_0320
+GV08|SEQ01048	VBIGarVag251521_1048	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476543	154431	155246	-	816		Fumarylacetoacetate hydrolase family protein	GV08	clust_0320
+GV09|SEQ00057	VBIGarVag169280_0057	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259256	8600	9415	+	816		Fumarylacetoacetate hydrolase family protein	GV09	clust_0320
+GV10|SEQ00081	VBIGarVag136958_0081	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146176	105986	106801	+	816		Fumarylacetoacetate hydrolase family protein	GV10	clust_0320
+GV11|SEQ00877	VBIGarVag171052_0877	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550117	59683	60498	+	816		Fumarylacetoacetate hydrolase family protein	GV11	clust_0320
+GV12|SEQ00615	VBIGarVag144721_0615	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853927	133712	134527	+	816		Fumarylacetoacetate hydrolase family protein	GV12	clust_0320
+GV13|SEQ00137	VBIGarVag244533_0137	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486214	152910	153725	-	816		Fumarylacetoacetate hydrolase family protein	GV13	clust_0320
+GV14|SEQ00563	VBIGarVag244375_0563	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502986	60898	61713	+	816		Fumarylacetoacetate hydrolase family protein	GV14	clust_0320
+GV15|SEQ00791	VBIGarVag249709_0791	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485140	5111	5926	+	816		Fumarylacetoacetate hydrolase family protein	GV15	clust_0320
+GV16|SEQ00213	VBIGarVag246379_0213	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477544	160678	161493	-	816		Fumarylacetoacetate hydrolase family protein	GV16	clust_0320
+GV17|SEQ00523	VBIGarVag146634_0523	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851081	526881	527696	+	816		Fumarylacetoacetate hydrolase family protein	GV17	clust_0320
+GV18|SEQ00094	VBIGarVag4823_0094	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000045	PATRIC	CDS	42068857	180	995	+	816		Fumarylacetoacetate hydrolase family protein	GV18	clust_0320
+GV19|SEQ00075	VBIGarVag39333_0075	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626984	79484	80299	+	816	fahA	Fumarylacetoacetate hydrolase family protein	GV19	clust_0320
+GV20|SEQ01326	VBIGarVag188338_1326	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191528	1661116	1661931	+	816		Fumarylacetoacetate hydrolase family protein	GV20	clust_0320
+GV21|SEQ01037	VBIGarVag274454_1038	Gardnerella vaginalis JCP7275	ATJS01000111	PATRIC	CDS	183968894	741	1556	+	816		Fumarylacetoacetate hydrolase family protein	GV21	clust_0320
+GV22|SEQ00959	VBIGarVag276801_0960	Gardnerella vaginalis JCP7276	ATJR01000056	PATRIC	CDS	183971415	454	1269	+	816		Fumarylacetoacetate hydrolase family protein	GV22	clust_0320
+GV23|SEQ00984	VBIGarVag276017_0984	Gardnerella vaginalis JCP7659	ATJQ01000092	PATRIC	CDS	183974407	666	1481	-	816		Fumarylacetoacetate hydrolase family protein	GV23	clust_0320
+GV24|SEQ01054	VBIGarVag268944_1055	Gardnerella vaginalis JCP7672	ATJP01000098	PATRIC	CDS	183977363	820	1635	+	816		Fumarylacetoacetate hydrolase family protein	GV24	clust_0320
+GV25|SEQ00574	VBIGarVag270495_0574	Gardnerella vaginalis JCP7719	ATJO01000050	PATRIC	CDS	183979093	12872	13687	+	816		Fumarylacetoacetate hydrolase family protein	GV25	clust_0320
+GV26|SEQ01098	VBIGarVag272749_1098	Gardnerella vaginalis JCP8017A	ATJN01000093	PATRIC	CDS	183983097	661	1476	-	816		Fumarylacetoacetate hydrolase family protein	GV26	clust_0320
+GV27|SEQ01169	VBIGarVag276930_1169	Gardnerella vaginalis JCP8017B	ATJM01000120	PATRIC	CDS	183986225	833	1648	+	816		Fumarylacetoacetate hydrolase family protein	GV27	clust_0320
+GV28|SEQ00423	VBIGarVag271349_0423	Gardnerella vaginalis JCP8066	ATJL01000025	PATRIC	CDS	183987539	6482	7297	-	816		Fumarylacetoacetate hydrolase family protein	GV28	clust_0320
+GV29|SEQ00293	VBIGarVag265473_0293	Gardnerella vaginalis JCP8070	ATJK01000012	PATRIC	CDS	183989965	10895	11710	+	816		Fumarylacetoacetate hydrolase family protein	GV29	clust_0320
+GV30|SEQ00597	VBIGarVag267667_0598	Gardnerella vaginalis JCP8108	ATJJ01000035	PATRIC	CDS	183993313	2100	2915	+	816		Fumarylacetoacetate hydrolase family protein	GV30	clust_0320
+GV31|SEQ00985	VBIGarVag264983_0985	Gardnerella vaginalis JCP8151A	ATJI01000076	PATRIC	CDS	183997124	6072	6887	-	816		Fumarylacetoacetate hydrolase family protein	GV31	clust_0320
+GV32|SEQ00629	VBIGarVag277040_0629	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999168	30204	31019	-	816		Fumarylacetoacetate hydrolase family protein	GV32	clust_0320
+GV33|SEQ00360	VBIGarVag265557_0360	Gardnerella vaginalis JCP8481A	ATJG01000031	PATRIC	CDS	184001437	880	1695	+	816		Fumarylacetoacetate hydrolase family protein	GV33	clust_0320
+GV34|SEQ00297	VBIGarVag270440_0297	Gardnerella vaginalis JCP8481B	ATJF01000021	PATRIC	CDS	184004136	8634	9449	+	816		Fumarylacetoacetate hydrolase family protein	GV34	clust_0320
+GV35|SEQ00875	VBIGarVag272169_0875	Gardnerella vaginalis JCP8522	ATJE01000086	PATRIC	CDS	184008168	10830	11645	+	816		Fumarylacetoacetate hydrolase family protein	GV35	clust_0320
+INF1|SEQ01906	VBIBifLon182273_1906	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887869	2184434	2185255	-	822		Fumarylacetoacetate hydrolase family protein	INF1	clust_0320
+LON1|SEQ01530	VBIBifLon107831_1531	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120190	1851670	1852491	+	822		Fumarylacetoacetate hydrolase family protein	LON1	clust_0320
+LON2|SEQ01554	VBIBifLon171405_1557	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582703	1863676	1864497	+	822	mhpD	Fumarylacetoacetate hydrolase family protein	LON2	clust_0320
+LON3|SEQ01781	VBIBifLon156230_1784	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766749	653554	654375	-	822		Fumarylacetoacetate hydrolase family protein	LON3	clust_0320
+LON4|SEQ01846	VBIBifLon48544_1846	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892094	2138953	2139774	-	822		Fumarylacetoacetate hydrolase family protein	LON4	clust_0320
+THE1|SEQ01590	VBIBifThe274299_1590	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736437	1969856	1970683	-	828		Fumarylacetoacetate hydrolase family protein	THE1	clust_0320

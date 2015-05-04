@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01100	VBIBifAdo136061_1100	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188523	7341	8462	-	1122		Methionine synthase II (cobalamin-independent)	ADO1	clust_3936
+DEN1|SEQ01570	VBIBifDen165269_1571	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460288	849880	851001	+	1122		Methionine synthase II (cobalamin-independent)	DEN1	clust_3936
+DEN2|SEQ00064	VBIBifDen39005_0064	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108422	4294	5415	-	1122		Methionine synthase II (cobalamin-independent)	DEN2	clust_3936

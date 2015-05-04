@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00821	VBIBifDen165269_0822	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462950	2339578	2340612	+	1035	lplB	binding-protein-dependent transport systems inner membrane component	DEN1	clust_4804
+DEN2|SEQ00359	VBIBifDen39005_0359	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109041	91123	92157	-	1035		binding-protein-dependent transport systems inner membrane component	DEN2	clust_4804

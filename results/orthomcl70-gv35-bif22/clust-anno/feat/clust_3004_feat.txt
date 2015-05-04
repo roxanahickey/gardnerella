@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ01078	VBIGarVag136958_1078	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148248	1454110	1457295	-	3186		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GV10	clust_3004
+GV12|SEQ00489	VBIGarVag144721_0489	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853661	561841	565131	-	3291		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GV12	clust_3004
+GV15|SEQ00845	VBIGarVag249709_0845	Gardnerella vaginalis 6420B	ADEP01000009	PATRIC	CDS	85485257	22379	25657	+	3279		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GV15	clust_3004
+GV17|SEQ00673	VBIGarVag146634_0673	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851407	22298	25594	+	3297		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	GV17	clust_3004

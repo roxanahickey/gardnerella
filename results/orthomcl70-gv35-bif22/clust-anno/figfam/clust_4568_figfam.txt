@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00314	27186884	VBIBifAdo136061_0314	SEQ00314	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Catabolite control protein A	FIG00048507	figfam	clust_4568
+BIF1|SEQ00031	86882559	VBIBifBif87902_0031	SEQ00031	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		transcriptional regulator, LacI family	FIG00946344	figfam	clust_4568

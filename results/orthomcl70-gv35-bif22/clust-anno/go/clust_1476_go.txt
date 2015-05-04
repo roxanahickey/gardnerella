@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ01378	27189108	VBIBifAdo136061_1378	SEQ01378	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	NA	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	GO:0016020	membrane	go	clust_1476
+ADO1|SEQ01378	27189108	VBIBifAdo136061_1378	SEQ01378	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	NA	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	GO:0005215	transporter activity	go	clust_1476
+ADO1|SEQ01378	27189108	VBIBifAdo136061_1378	SEQ01378	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	NA	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	GO:0006810	transport	go	clust_1476

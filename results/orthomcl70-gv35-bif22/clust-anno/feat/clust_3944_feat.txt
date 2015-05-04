@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01492	VBIBifAdo136061_1492	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189342	149156	150091	+	936		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ADO1	clust_3944
+DEN1|SEQ02142	VBIBifDen165269_2144	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463273	17078	18085	-	1008		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	DEN1	clust_3944
+DEN2|SEQ00996	VBIBifDen39005_0996	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110345	97864	98484	+	621		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	DEN2	clust_3944

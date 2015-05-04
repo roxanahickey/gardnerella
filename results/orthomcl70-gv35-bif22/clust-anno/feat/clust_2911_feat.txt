@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00834	VBIBifAni240121_0834	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846639	968886	969503	-	618		uncharacterized low-complexity protein	ANI1	clust_2911
+ANI2|SEQ00833	VBIBifAni235968_0833	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849990	968889	969506	-	618		uncharacterized low-complexity protein	ANI2	clust_2911
+ANI3|SEQ00836	VBIBifAni108068_0836	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764004	968891	969508	-	618		uncharacterized low-complexity protein	ANI3	clust_2911
+DEN1|SEQ01589	VBIBifDen165269_1590	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460331	871144	871833	-	690		hypothetical protein	DEN1	clust_2911
+DEN2|SEQ00616	VBIBifDen39005_0616	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109562	270445	271134	+	690		hypothetical protein	DEN2	clust_2911

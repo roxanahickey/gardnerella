@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV27|SEQ01226	VBIGarVag276930_1226	Gardnerella vaginalis JCP8017B	ATJM01000138	PATRIC	CDS	183986357	1458	1619	+	162		hypothetical protein	GV27	clust_3719
+GV28|SEQ01123	VBIGarVag271349_1123	Gardnerella vaginalis JCP8066	ATJL01000166	PATRIC	CDS	183989134	1534	1671	+	138		hypothetical protein	GV28	clust_3719
+GV35|SEQ01149	VBIGarVag272169_1149	Gardnerella vaginalis JCP8522	ATJE01000169	PATRIC	CDS	184008817	3198	3353	+	156		hypothetical protein	GV35	clust_3719

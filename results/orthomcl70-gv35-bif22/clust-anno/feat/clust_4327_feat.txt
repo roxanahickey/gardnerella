@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00014	VBIBifBif87902_0014	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882521	15356	16507	+	1152		Lysophospholipase (EC 3.1.1.5)	BIF1	clust_4327
+THE1|SEQ00008	VBIBifThe274299_0008	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733171	12691	13920	+	1230		Lysophospholipase (EC 3.1.1.5)	THE1	clust_4327

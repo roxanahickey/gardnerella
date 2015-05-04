@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00932	VBIBifAdo136061_0932	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188174	838159	838779	+	621		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	ADO1	clust_0139
+ANI1|SEQ01065	VBIBifAni240121_1065	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847116	1234538	1235152	-	615		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	ANI1	clust_0139
+ANI2|SEQ01065	VBIBifAni235968_1065	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850469	1234542	1235156	-	615		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	ANI2	clust_0139
+ANI3|SEQ01069	VBIBifAni108068_1069	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764483	1234543	1235157	-	615		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	ANI3	clust_0139
+BIF1|SEQ01148	VBIBifBif87902_1148	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884868	1377286	1377897	-	612	clpP	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BIF1	clust_0139
+BRE1|SEQ00756	VBIBifBre340958_0756	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603494	911142	911765	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE1	clust_0139
+BRE2|SEQ00853	VBIBifBre337368_0853	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607658	1007896	1008519	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE2	clust_0139
+BRE3|SEQ01032	VBIBifBre167886_1032	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193780	1211539	1212162	-	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE3	clust_0139
+BRE4|SEQ00785	VBIBifBre327712_0785	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611665	949512	950135	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE4	clust_0139
+BRE5|SEQ00798	VBIBifBre336369_0799	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615737	942568	943191	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE5	clust_0139
+BRE6|SEQ01622	VBIBifBre268992_1622	Bifidobacterium breve JCP7499	AWSX01000075	PATRIC	CDS	177656520	14217	14840	-	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE6	clust_0139
+BRE7|SEQ00788	VBIBifBre340732_0788	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620028	941591	942214	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE7	clust_0139
+BRE8|SEQ00811	VBIBifBre176493_0811	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624183	984708	985331	+	624	clpP1	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE8	clust_0139
+BRE9|SEQ00861	VBIBifBre30019_0861	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445812	1030057	1030680	+	624	clpP1	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	BRE9	clust_0139
+DEN1|SEQ02002	VBIBifDen165269_2003	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461175	1286448	1287038	-	591	clpP2	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	DEN1	clust_0139
+DEN2|SEQ01117	VBIBifDen39005_1117	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000021	PATRIC	CDS	42110601	2231	2821	-	591	clpP_2	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	DEN2	clust_0139
+GV01|SEQ01223	VBIGarVag247323_1223	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496648	249603	250214	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV01	clust_0139
+GV02|SEQ00229	VBIGarVag242669_0229	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497233	14539	15150	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV02	clust_0139
+GV03|SEQ00946	VBIGarVag247424_0946	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501337	289577	290188	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV03	clust_0139
+GV04|SEQ01132	VBIGarVag246433_1132	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482190	40614	41225	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV04	clust_0139
+GV05|SEQ00993	VBIGarVag174900_0993	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547766	703063	703674	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV05	clust_0139
+GV06|SEQ00922	VBIGarVag244004_0922	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490650	310919	311530	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV06	clust_0139
+GV07|SEQ00337	VBIGarVag249177_0337	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492292	160206	160817	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV07	clust_0139
+GV08|SEQ00477	VBIGarVag251521_0477	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475360	352458	353069	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV08	clust_0139
+GV09|SEQ01114	VBIGarVag169280_1114	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261453	40701	41312	-	612	clpP_2	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV09	clust_0139
+GV10|SEQ00769	VBIGarVag136958_0769	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147610	997635	998246	-	612	clpP_2	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV10	clust_0139
+GV11|SEQ00543	VBIGarVag171052_0543	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549415	26128	26739	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV11	clust_0139
+GV12|SEQ00209	VBIGarVag144721_0209	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853081	155984	156595	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV12	clust_0139
+GV13|SEQ00678	VBIGarVag244533_0678	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487339	110369	110980	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV13	clust_0139
+GV14|SEQ01049	VBIGarVag244375_1049	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504008	115522	116133	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV14	clust_0139
+GV15|SEQ00114	VBIGarVag249709_0114	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483718	27419	28030	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV15	clust_0139
+GV16|SEQ00981	VBIGarVag246379_0981	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479139	1117404	1118015	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV16	clust_0139
+GV17|SEQ00789	VBIGarVag146634_0789	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851650	116410	117021	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV17	clust_0139
+GV18|SEQ00582	VBIGarVag4823_0582	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000113	PATRIC	CDS	42069922	2004	2615	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV18	clust_0139
+GV19|SEQ00635	VBIGarVag39333_0636	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628154	795349	795960	+	612	clpP	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV19	clust_0139
+GV20|SEQ00891	VBIGarVag188338_0891	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190626	1089900	1090511	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV20	clust_0139
+GV21|SEQ00501	VBIGarVag274454_0502	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967674	55700	56311	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV21	clust_0139
+GV22|SEQ00020	VBIGarVag276801_0020	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969415	25886	26497	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV22	clust_0139
+GV23|SEQ00809	VBIGarVag276017_0809	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183974015	24692	25303	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV23	clust_0139
+GV24|SEQ00289	VBIGarVag268944_0290	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975696	16138	16749	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV24	clust_0139
+GV25|SEQ00695	VBIGarVag270495_0695	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979354	29617	30228	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV25	clust_0139
+GV26|SEQ00393	VBIGarVag272749_0393	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981570	3362	3973	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV26	clust_0139
+GV27|SEQ00673	VBIGarVag276930_0673	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985121	35414	36025	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV27	clust_0139
+GV28|SEQ00131	VBIGarVag271349_0131	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986921	9949	10560	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV28	clust_0139
+GV29|SEQ00327	VBIGarVag265473_0327	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990043	4138	4749	-	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV29	clust_0139
+GV30|SEQ00357	VBIGarVag267667_0358	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992777	25906	26517	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV30	clust_0139
+GV31|SEQ00611	VBIGarVag264983_0611	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996304	24657	25268	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV31	clust_0139
+GV32|SEQ00239	VBIGarVag277040_0239	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998324	57095	57706	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV32	clust_0139
+GV33|SEQ00473	VBIGarVag265557_0473	Gardnerella vaginalis JCP8481A	ATJG01000043	PATRIC	CDS	184001678	18560	19171	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV33	clust_0139
+GV34|SEQ00538	VBIGarVag270440_0538	Gardnerella vaginalis JCP8481B	ATJF01000047	PATRIC	CDS	184004663	18560	19171	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV34	clust_0139
+GV35|SEQ00377	VBIGarVag272169_0377	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007057	36360	36971	+	612		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	GV35	clust_0139
+INF1|SEQ00723	VBIBifLon182273_0723	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885411	885202	885825	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	INF1	clust_0139
+LON1|SEQ00646	VBIBifLon107831_0647	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118353	749837	750460	-	624	clp1	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	LON1	clust_0139
+LON2|SEQ00710	VBIBifLon171405_0711	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580950	788044	788667	-	624	clpP2	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	LON2	clust_0139
+LON3|SEQ00519	VBIBifLon156230_0519	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767994	1367480	1368103	-	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	LON3	clust_0139
+LON4|SEQ00701	VBIBifLon48544_0701	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889668	850118	850741	+	624		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	LON4	clust_0139
+THE1|SEQ00769	VBIBifThe274299_0769	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734719	967414	968040	+	627		ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)	THE1	clust_0139

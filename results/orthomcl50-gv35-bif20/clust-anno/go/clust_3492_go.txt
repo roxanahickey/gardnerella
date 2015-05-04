@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ANI1|SEQ00586	86846116	VBIBifAni240121_0586	SEQ00586	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	Glycerol dehydrogenase (EC 1.1.1.6)	GO:0008888	glycerol dehydrogenase activity	go	clust_3492
+ANI2|SEQ00585	86849467	VBIBifAni235968_0585	SEQ00585	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	Glycerol dehydrogenase (EC 1.1.1.6)	GO:0008888	glycerol dehydrogenase activity	go	clust_3492
+ANI3|SEQ00587	42763480	VBIBifAni108068_0587	SEQ00587	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	Glycerol dehydrogenase (EC 1.1.1.6)	GO:0008888	glycerol dehydrogenase activity	go	clust_3492

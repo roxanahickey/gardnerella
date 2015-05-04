@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01457	VBIBifAni240121_1457	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847925	1739594	1741000	+	1407		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ANI1	clust_3765
+ANI2|SEQ01456	VBIBifAni235968_1456	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851276	1739814	1741220	+	1407		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ANI2	clust_3765
+ANI3|SEQ01466	VBIBifAni108068_1466	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765296	1745045	1746451	+	1407		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ANI3	clust_3765

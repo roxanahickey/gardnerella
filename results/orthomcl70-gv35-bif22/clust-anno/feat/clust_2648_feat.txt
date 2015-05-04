@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01518	VBIBifAdo136061_1518	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189396	176953	177918	-	966		Ribose operon repressor	ADO1	clust_2648
+ANI1|SEQ01481	VBIBifAni240121_1481	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847975	1764660	1765706	-	1047		Ribose operon repressor	ANI1	clust_2648
+ANI2|SEQ01479	VBIBifAni235968_1479	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851324	1764880	1765926	-	1047		Ribose operon repressor	ANI2	clust_2648
+ANI3|SEQ01490	VBIBifAni108068_1490	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765346	1770111	1771157	-	1047		Ribose operon repressor	ANI3	clust_2648
+DEN1|SEQ02104	VBIBifDen165269_2106	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463187	62776	63807	+	1032	purR3	Ribose operon repressor	DEN1	clust_2648
+DEN2|SEQ01276	VBIBifDen39005_1277	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110931	62744	63826	+	1083		Ribose operon repressor	DEN2	clust_2648

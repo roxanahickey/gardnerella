@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE8|SEQ01125	268624837	VBIBifBre176493_1125	SEQ01125	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Type IV secretory pathway, VirD4 components	FIG00947139	figfam	clust_2895
+DEN1|SEQ02203	43463395	VBIBifDen165269_2205	SEQ02203	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		Type IV secretory pathway, VirD4 components	FIG00947139	figfam	clust_2895
+DEN2|SEQ00933	42110219	VBIBifDen39005_0933	SEQ00933	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		Type IV secretory pathway, VirD4 components	FIG00947139	figfam	clust_2895
+LON1|SEQ00343	21117727	VBIBifLon107831_0343	SEQ00343	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Type IV secretory pathway, VirD4 components	FIG00947139	figfam	clust_2895
+LON3|SEQ00209	42767351	VBIBifLon156230_0209	SEQ00209	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Type IV secretory pathway, VirD4 components	FIG00947139	figfam	clust_2895

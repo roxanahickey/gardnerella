@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00039	VBIGarVag247424_0039	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499441	54426	56537	+	2112		Galactofuranosyl transferase (EC 2.-.-.-)	GV03	clust_1522
+GV05|SEQ01113	VBIGarVag174900_1113	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548014	73531	75648	-	2118		Galactofuranosyl transferase (EC 2.-.-.-)	GV05	clust_1522
+GV07|SEQ00371	VBIGarVag249177_0371	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492365	29436	31580	+	2145		Galactofuranosyl transferase (EC 2.-.-.-)	GV07	clust_1522
+GV14|SEQ00681	VBIGarVag244375_0681	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503242	13814	15967	-	2154		Galactofuranosyl transferase (EC 2.-.-.-)	GV14	clust_1522
+GV15|SEQ01025	VBIGarVag249709_1025	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485632	235646	237790	+	2145		Galactofuranosyl transferase (EC 2.-.-.-)	GV15	clust_1522
+GV17|SEQ01191	VBIGarVag146634_1191	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852483	173138	175282	+	2145		Galactofuranosyl transferase (EC 2.-.-.-)	GV17	clust_1522

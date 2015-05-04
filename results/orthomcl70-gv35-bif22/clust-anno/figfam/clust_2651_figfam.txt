@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01523	86848067	VBIBifAni240121_1523	SEQ01523	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		CONSERVED MEMBRANE PROTEIN	FIG00818075	figfam	clust_2651
+ANI2|SEQ01521	86851416	VBIBifAni235968_1521	SEQ01521	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		CONSERVED MEMBRANE PROTEIN	FIG00818075	figfam	clust_2651
+ANI3|SEQ01532	42765438	VBIBifAni108068_1532	SEQ01532	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		CONSERVED MEMBRANE PROTEIN	FIG00818075	figfam	clust_2651
+DEN1|SEQ00845	43462998	VBIBifDen165269_0846	SEQ00845	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		CONSERVED MEMBRANE PROTEIN	FIG00818075	figfam	clust_2651
+DEN2|SEQ00334	42108991	VBIBifDen39005_0334	SEQ00334	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS		CONSERVED MEMBRANE PROTEIN	FIG00818075	figfam	clust_2651
+THE1|SEQ01659	124736585	VBIBifThe274299_1659	SEQ01659	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		CONSERVED MEMBRANE PROTEIN	FIG00818075	figfam	clust_2651

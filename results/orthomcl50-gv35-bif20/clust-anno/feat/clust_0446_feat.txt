@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00218	VBIGarVag247323_0218	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494552	96930	98276	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV01	clust_0446
+GV02|SEQ00490	VBIGarVag242669_0490	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497777	87147	88493	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV02	clust_0446
+GV03|SEQ00541	VBIGarVag247424_0541	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500489	95424	96827	+	1404		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV03	clust_0446
+GV04|SEQ00420	VBIGarVag246433_0420	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480720	30137	31483	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV04	clust_0446
+GV05|SEQ00562	VBIGarVag174900_0562	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546868	156798	158192	+	1395		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV05	clust_0446
+GV06|SEQ00815	VBIGarVag244004_0815	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490426	167443	168789	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV06	clust_0446
+GV07|SEQ00851	VBIGarVag249177_0851	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493373	122930	124291	-	1362		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV07	clust_0446
+GV08|SEQ00377	VBIGarVag251521_0377	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475151	217145	218491	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV08	clust_0446
+GV09|SEQ00434	VBIGarVag169280_0434	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260044	137863	139209	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV09	clust_0446
+GV10|SEQ00356	VBIGarVag136958_0356	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146750	416009	417340	+	1332	sufS	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV10	clust_0446
+GV11|SEQ00327	VBIGarVag171052_0327	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52548956	1327	2673	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV11	clust_0446
+GV12|SEQ00899	VBIGarVag144721_0899	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854519	452566	453924	+	1359		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV12	clust_0446
+GV13|SEQ00791	VBIGarVag244533_0791	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487576	259375	260721	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV13	clust_0446
+GV14|SEQ00846	VBIGarVag244375_0846	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503581	40064	41437	+	1374		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV14	clust_0446
+GV15|SEQ00306	VBIGarVag249709_0306	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484125	28118	29488	-	1371		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV15	clust_0446
+GV16|SEQ01085	VBIGarVag246379_1085	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479358	1254888	1256234	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV16	clust_0446
+GV17|SEQ00238	VBIGarVag146634_0238	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850487	206695	208065	-	1371		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV17	clust_0446
+GV18|SEQ01205	VBIGarVag4823_1205	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071246	19749	21095	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV18	clust_0446
+GV19|SEQ00525	VBIGarVag39333_0526	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627925	656916	658262	+	1347	iscS	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV19	clust_0446
+GV20|SEQ00995	VBIGarVag188338_0995	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190844	1227486	1228832	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV20	clust_0446
+GV21|SEQ01033	VBIGarVag274454_1034	Gardnerella vaginalis JCP7275	ATJS01000108	PATRIC	CDS	183968883	1530	1871	-	342		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV21	clust_0446
+GV22|SEQ01308	VBIGarVag276801_1309	Gardnerella vaginalis JCP7276	ATJR01000177	PATRIC	CDS	183972266	4221	5567	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV22	clust_0446
+GV23|SEQ00979	VBIGarVag276017_0979	Gardnerella vaginalis JCP7659	ATJQ01000090	PATRIC	CDS	183974395	4472	5818	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV23	clust_0446
+GV24|SEQ00537	VBIGarVag268944_0538	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976219	34394	35740	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV24	clust_0446
+GV25|SEQ00188	VBIGarVag270495_0188	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978256	1572	2918	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV25	clust_0446
+GV26|SEQ00743	VBIGarVag272749_0743	Gardnerella vaginalis JCP8017A	ATJN01000039	PATRIC	CDS	183982300	6074	6541	-	468		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV26	clust_0446
+GV27|SEQ00180	VBIGarVag276930_0180	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984081	64519	65865	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV27	clust_0446
+GV28|SEQ00608	VBIGarVag271349_0608	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987937	48800	50146	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV28	clust_0446
+GV29|SEQ00222	VBIGarVag265473_0222	Gardnerella vaginalis JCP8070	ATJK01000009	PATRIC	CDS	183989816	66	617	+	552		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV29	clust_0446
+GV30|SEQ00795	VBIGarVag267667_0797	Gardnerella vaginalis JCP8108	ATJJ01000058	PATRIC	CDS	183993740	13	378	+	366		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV30	clust_0446
+GV31|SEQ00196	VBIGarVag264983_0196	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995430	47579	48925	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV31	clust_0446
+GV32|SEQ00445	VBIGarVag277040_0445	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998762	49156	50502	+	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV32	clust_0446
+GV33|SEQ00617	VBIGarVag265557_0617	Gardnerella vaginalis JCP8481A	ATJG01000056	PATRIC	CDS	184001981	1452	2831	+	1380		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV33	clust_0446
+GV34|SEQ00977	VBIGarVag270440_0977	Gardnerella vaginalis JCP8481B	ATJF01000112	PATRIC	CDS	184005630	2738	4117	-	1380		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV34	clust_0446
+GV35|SEQ00454	VBIGarVag272169_0454	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007228	1600	2946	-	1347		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	GV35	clust_0446
+ADO1|SEQ01249	VBIBifAdo136061_1249	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188839	174094	175368	-	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	ADO1	clust_0446
+ANI1|SEQ00906	VBIBifAni240121_0906	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846786	1051995	1053266	-	1272		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	ANI1	clust_0446
+ANI2|SEQ00905	VBIBifAni235968_0905	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850137	1051998	1053269	-	1272	sufS	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	ANI2	clust_0446
+ANI3|SEQ00908	VBIBifAni108068_0908	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764151	1051999	1053270	-	1272		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	ANI3	clust_0446
+BIF1|SEQ00808	VBIBifBif87902_0808	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884163	989455	990726	+	1272	csd	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BIF1	clust_0446
+BRE1|SEQ00867	VBIBifBre340958_0867	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603718	1032923	1034197	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE1	clust_0446
+BRE2|SEQ00949	VBIBifBre337368_0949	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607854	1114761	1116035	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE2	clust_0446
+BRE3|SEQ00929	VBIBifBre167886_0929	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193570	1097497	1098771	-	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE3	clust_0446
+BRE4|SEQ00899	VBIBifBre327712_0899	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611897	1070675	1071949	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE4	clust_0446
+BRE5|SEQ00918	VBIBifBre336369_0919	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615983	1073124	1074398	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE5	clust_0446
+BRE6|SEQ00763	VBIBifBre268992_0763	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS	177654696	24081	25355	-	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE6	clust_0446
+BRE7|SEQ00899	VBIBifBre340732_0899	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620255	1062656	1063930	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE7	clust_0446
+BRE8|SEQ00929	VBIBifBre176493_0929	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624424	1109033	1110307	+	1275	iscS/sufS	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE8	clust_0446
+BRE9|SEQ00982	VBIBifBre30019_0982	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446060	1162229	1163503	+	1275	iscS/sufS	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	BRE9	clust_0446
+INF1|SEQ00811	VBIBifLon182273_0811	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885591	986188	987462	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	INF1	clust_0446
+LON1|SEQ00562	VBIBifLon107831_0563	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118181	652491	653696	-	1206		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	LON1	clust_0446
+LON2|SEQ00622	VBIBifLon171405_0623	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580770	687659	688933	-	1275	csdB	Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	LON2	clust_0446
+LON3|SEQ00429	VBIBifLon156230_0429	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767810	1262950	1264224	-	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	LON3	clust_0446
+LON4|SEQ00783	VBIBifLon48544_0783	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889837	943534	944808	+	1275		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	LON4	clust_0446
+THE1|SEQ00966	VBIBifThe274299_0966	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735127	1214888	1216165	+	1278		Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	THE1	clust_0446

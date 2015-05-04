@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00393	VBIGarVag244004_0393	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489529	64708	65355	-	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV06	clust_1387
+GV09|SEQ01259	VBIGarVag169280_1259	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261761	123671	124318	+	648	pgmB	Beta-phosphoglucomutase (EC 5.4.2.6)	GV09	clust_1387
+GV13|SEQ00402	VBIGarVag244533_0402	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486763	42471	43118	-	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV13	clust_1387
+GV16|SEQ00382	VBIGarVag246379_0382	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477898	347071	347718	+	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV16	clust_1387
+GV18|SEQ00251	VBIGarVag4823_0251	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069205	4815	5462	+	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV18	clust_1387
+GV19|SEQ01227	VBIGarVag39333_1229	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629377	1548746	1549393	-	648	yvdM	Beta-phosphoglucomutase (EC 5.4.2.6)	GV19	clust_1387
+GV20|SEQ00267	VBIGarVag188338_0267	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189335	302273	302920	+	648	pgmB	Beta-phosphoglucomutase (EC 5.4.2.6)	GV20	clust_1387
+GV30|SEQ00015	VBIGarVag267667_0015	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992066	18362	19009	-	648		Beta-phosphoglucomutase (EC 5.4.2.6)	GV30	clust_1387

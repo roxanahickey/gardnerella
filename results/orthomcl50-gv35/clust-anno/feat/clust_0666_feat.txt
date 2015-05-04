@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00287	VBIGarVag247323_0287	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494697	24458	25276	+	819		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV01	clust_0666
+GV02|SEQ00664	VBIGarVag242669_0664	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498145	26045	26875	-	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV02	clust_0666
+GV03|SEQ00770	VBIGarVag247424_0770	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500971	60485	61258	+	774		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV03	clust_0666
+GV04|SEQ01080	VBIGarVag246433_1080	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482081	32900	33655	+	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV04	clust_0666
+GV05|SEQ00823	VBIGarVag174900_0823	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547412	487217	487990	+	774		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV05	clust_0666
+GV06|SEQ00668	VBIGarVag244004_0668	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490120	25966	26721	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV06	clust_0666
+GV07|SEQ00582	VBIGarVag249177_0582	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492813	70326	71126	+	801		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV07	clust_0666
+GV08|SEQ00143	VBIGarVag251521_0143	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474657	173703	174446	-	744		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV08	clust_0666
+GV09|SEQ00971	VBIGarVag169280_0971	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261154	393173	393916	-	744		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV09	clust_0666
+GV10|SEQ00570	VBIGarVag136958_0570	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147198	728005	728790	+	786		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV10	clust_0666
+GV11|SEQ00666	VBIGarVag171052_0666	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549679	25523	26278	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV11	clust_0666
+GV12|SEQ01205	VBIGarVag144721_1205	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855240	71766	72551	+	786		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV12	clust_0666
+GV13|SEQ00608	VBIGarVag244533_0608	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487189	25977	26732	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV13	clust_0666
+GV14|SEQ00287	VBIGarVag244375_0287	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502416	110447	111220	+	774		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV14	clust_0666
+GV15|SEQ00628	VBIGarVag249709_0628	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484801	68813	69577	+	765		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV15	clust_0666
+GV16|SEQ00918	VBIGarVag246379_0918	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479003	1043227	1043982	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV16	clust_0666
+GV17|SEQ00981	VBIGarVag146634_0981	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852050	118825	119589	-	765		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV17	clust_0666
+GV18|SEQ00541	VBIGarVag4823_0541	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069832	17189	17932	+	744		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV18	clust_0666
+GV19|SEQ00699	VBIGarVag39333_0700	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628292	871395	871694	+	300		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV19	clust_0666
+GV20|SEQ00841	VBIGarVag188338_0841	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190516	1026471	1027226	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV20	clust_0666
+GV21|SEQ00294	VBIGarVag274454_0294	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967240	80035	80790	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV21	clust_0666
+GV22|SEQ00073	VBIGarVag276801_0073	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969531	92946	93701	+	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV22	clust_0666
+GV23|SEQ00124	VBIGarVag276017_0124	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972545	22857	23675	+	819		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV23	clust_0666
+GV24|SEQ00999	VBIGarVag268944_1000	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977229	82032	82787	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV24	clust_0666
+GV25|SEQ00732	VBIGarVag270495_0732	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979431	35856	36686	+	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV25	clust_0666
+GV26|SEQ00372	VBIGarVag272749_0372	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981522	22874	23692	+	819		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV26	clust_0666
+GV27|SEQ00110	VBIGarVag276930_0110	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983934	26166	26984	-	819		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV27	clust_0666
+GV28|SEQ00263	VBIGarVag271349_0263	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987189	31631	32461	+	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV28	clust_0666
+GV29|SEQ00877	VBIGarVag265473_0877	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991243	29162	29992	+	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV29	clust_0666
+GV30|SEQ00268	VBIGarVag267667_0269	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992594	34584	35339	-	756		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV30	clust_0666
+GV31|SEQ00017	VBIGarVag264983_0017	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995052	21994	22824	+	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV31	clust_0666
+GV32|SEQ00276	VBIGarVag277040_0276	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998400	105277	106107	+	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV32	clust_0666
+GV33|SEQ01207	VBIGarVag265557_1207	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003347	23803	24666	-	864		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV33	clust_0666
+GV34|SEQ00707	VBIGarVag270440_0707	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005033	7776	8639	+	864		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV34	clust_0666
+GV35|SEQ00151	VBIGarVag272169_0151	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006581	42203	43033	+	831		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV35	clust_0666

@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01852	VBIBifLon182273_1852	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887753	2116666	2117418	-	753		Transcriptional regulator, IclR family	INF1	clust_2761
+LON1|SEQ01577	VBIBifLon107831_1578	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120292	1915465	1916217	+	753		Transcriptional regulator, IclR family	LON1	clust_2761
+LON2|SEQ01603	VBIBifLon171405_1606	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582809	1925955	1926707	+	753		Transcriptional regulator, IclR family	LON2	clust_2761
+LON3|SEQ01712	VBIBifLon156230_1715	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766608	575843	576595	-	753		Transcriptional regulator, IclR family	LON3	clust_2761
+LON4|SEQ01798	VBIBifLon48544_1798	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891990	2076861	2077613	-	753		Transcriptional regulator, IclR family	LON4	clust_2761

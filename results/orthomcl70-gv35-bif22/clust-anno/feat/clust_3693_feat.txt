@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01084	VBIBifAni240121_1084	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847155	1259465	1260424	-	960		Putative glucose uptake permease	ANI1	clust_3693
+ANI2|SEQ01084	VBIBifAni235968_1084	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850508	1259469	1260428	-	960		Putative glucose uptake permease	ANI2	clust_3693
+ANI3|SEQ01088	VBIBifAni108068_1088	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764521	1259470	1260429	-	960	glcU	Putative glucose uptake permease	ANI3	clust_3693

@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+INF1|SEQ01412	46886834	VBIBifLon182273_1412	SEQ01412	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Cell division protein FtsH (EC 3.4.24.-)	FIG00018369	figfam	clust_2815
+LON1|SEQ00121	21117271	VBIBifLon107831_0121	SEQ00121	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Cell division protein FtsH (EC 3.4.24.-)	FIG00018369	figfam	clust_2815
+LON2|SEQ00167	42579831	VBIBifLon171405_0168	SEQ00167	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Cell division protein FtsH (EC 3.4.24.-)	FIG00018369	figfam	clust_2815
+LON3|SEQ00029	42765681	VBIBifLon156230_0029	SEQ00029	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Cell division protein FtsH (EC 3.4.24.-)	FIG00018369	figfam	clust_2815
+LON4|SEQ01383	46891117	VBIBifLon48544_1383	SEQ01383	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Cell division protein FtsH (EC 3.4.24.-)	FIG00018369	figfam	clust_2815

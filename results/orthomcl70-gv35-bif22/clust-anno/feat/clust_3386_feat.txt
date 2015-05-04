@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01610	VBIBifDen165269_1611	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460373	899387	902059	-	2673		1,3 propanediol dehydrogenase	DEN1	clust_3386
+DEN2|SEQ00594	VBIBifDen39005_0594	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109518	240221	242893	+	2673		1,3 propanediol dehydrogenase	DEN2	clust_3386
+THE1|SEQ00477	VBIBifThe274299_0477	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734130	605431	608172	-	2742		1,3 propanediol dehydrogenase	THE1	clust_3386

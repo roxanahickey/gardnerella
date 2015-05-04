@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV10|SEQ00475	32147002	VBIGarVag136958_0475	SEQ00475	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Iron(III) dicitrate transport protein FecA	FIG00036176	figfam	clust_1813
+GV12|SEQ01054	37854845	VBIGarVag144721_1054	SEQ01054	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	NA	Transcriptional regulator KdgR, KDG operon repressor	FIG00096162	figfam	clust_1813

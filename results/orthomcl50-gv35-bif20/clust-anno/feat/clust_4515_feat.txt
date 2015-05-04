@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00381	VBIBifBre340958_0381	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602711	477550	478551	+	1002		Glycosyltransferase (EC 2.4.1.-)	BRE1	clust_4515
+BRE3|SEQ00442	VBIBifBre167886_0442	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192557	548872	549873	+	1002		Glycosyltransferase (EC 2.4.1.-)	BRE3	clust_4515

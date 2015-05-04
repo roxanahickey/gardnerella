@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE2|SEQ01471	268608936	VBIBifBre337368_1471	SEQ01471	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+BRE3|SEQ01441	54194626	VBIBifBre167886_1441	SEQ01441	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+BRE6|SEQ00886	177654960	VBIBifBre268992_0886	SEQ00886	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+BRE7|SEQ01441	268621375	VBIBifBre340732_1441	SEQ01441	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+BRE8|SEQ01463	268625532	VBIBifBre176493_1463	SEQ01463	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+BRE9|SEQ01529	58447190	VBIBifBre30019_1529	SEQ01529	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+INF1|SEQ01575	46887164	VBIBifLon182273_1575	SEQ01575	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+LON2|SEQ01869	42583369	VBIBifLon171405_1872	SEQ01869	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126
+LON3|SEQ01073	42766018	VBIBifLon156230_1075	SEQ01073	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	NA	Ribokinase (EC 2.7.1.15)	GO:0004747	ribokinase activity	go	clust_2126

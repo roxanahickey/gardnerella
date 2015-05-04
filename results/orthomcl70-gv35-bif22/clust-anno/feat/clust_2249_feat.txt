@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01074	VBIBifBre340958_1074	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604154	1262950	1263183	-	234		hypothetical protein	BRE1	clust_2249
+BRE2|SEQ01204	VBIBifBre337368_1204	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608389	1379157	1379390	-	234		hypothetical protein	BRE2	clust_2249
+BRE3|SEQ00707	VBIBifBre167886_0707	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193099	863048	863281	+	234		hypothetical protein	BRE3	clust_2249
+BRE4|SEQ01149	VBIBifBre327712_1149	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612420	1330901	1331134	-	234		hypothetical protein	BRE4	clust_2249
+BRE6|SEQ01833	VBIBifBre268992_1833	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177656977	1870	2103	-	234		hypothetical protein	BRE6	clust_2249
+BRE7|SEQ01156	VBIBifBre340732_1156	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620795	1328460	1328693	-	234		hypothetical protein	BRE7	clust_2249
+BRE8|SEQ01184	VBIBifBre176493_1184	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624961	1378690	1378923	-	234		hypothetical protein	BRE8	clust_2249
+BRE9|SEQ01240	VBIBifBre30019_1240	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446603	1433828	1434061	-	234		hypothetical protein	BRE9	clust_2249

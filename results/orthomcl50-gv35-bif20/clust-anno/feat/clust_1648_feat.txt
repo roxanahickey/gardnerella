@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00965	VBIBifBif87902_0965	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884492	1177299	1178387	-	1089		N-acetylhexosamine 1-kinase	BIF1	clust_1648
+BRE1|SEQ01544	VBIBifBre340958_1545	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605123	1817054	1818124	-	1071		N-acetylhexosamine 1-kinase	BRE1	clust_1648
+BRE2|SEQ01653	VBIBifBre337368_1653	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609317	1919630	1920700	-	1071		N-acetylhexosamine 1-kinase	BRE2	clust_1648
+BRE3|SEQ01606	VBIBifBre167886_1606	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194973	1876814	1877884	-	1071		N-acetylhexosamine 1-kinase	BRE3	clust_1648
+BRE4|SEQ01585	VBIBifBre327712_1585	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613321	1851938	1853008	-	1071		N-acetylhexosamine 1-kinase	BRE4	clust_1648
+BRE5|SEQ01708	VBIBifBre336369_1709	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617621	1922555	1923625	-	1071		N-acetylhexosamine 1-kinase	BRE5	clust_1648
+BRE6|SEQ02017	VBIBifBre268992_2017	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657354	38682	39752	-	1071		N-acetylhexosamine 1-kinase	BRE6	clust_1648
+BRE7|SEQ01640	VBIBifBre340732_1640	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621789	1894426	1895496	-	1071		N-acetylhexosamine 1-kinase	BRE7	clust_1648
+BRE8|SEQ01591	VBIBifBre176493_1591	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625803	1861592	1862662	-	1071		N-acetylhexosamine 1-kinase	BRE8	clust_1648
+BRE9|SEQ01704	VBIBifBre30019_1704	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447557	1971866	1972936	-	1071		N-acetylhexosamine 1-kinase	BRE9	clust_1648
+INF1|SEQ01728	VBIBifLon182273_1728	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887487	1973122	1974201	-	1080		N-acetylhexosamine 1-kinase	INF1	clust_1648
+LON1|SEQ01696	VBIBifLon107831_1697	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120544	2053829	2054908	+	1080		N-acetylhexosamine 1-kinase	LON1	clust_1648
+LON2|SEQ01730	VBIBifLon171405_1733	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583077	2077838	2078917	+	1080		N-acetylhexosamine 1-kinase	LON2	clust_1648
+LON3|SEQ01595	VBIBifLon156230_1598	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766360	432637	433716	-	1080		N-acetylhexosamine 1-kinase	LON3	clust_1648
+LON4|SEQ01678	VBIBifLon48544_1678	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891732	1932865	1933944	-	1080		N-acetylhexosamine 1-kinase	LON4	clust_1648

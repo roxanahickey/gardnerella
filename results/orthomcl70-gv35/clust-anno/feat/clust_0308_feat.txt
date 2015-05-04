@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00714	VBIGarVag247323_0714	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495589	153036	153617	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV01	clust_0308
+GV02|SEQ00197	VBIGarVag242669_0197	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497164	184643	185224	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV02	clust_0308
+GV03|SEQ00109	VBIGarVag247424_0109	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499588	31356	31934	+	579	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV03	clust_0308
+GV04|SEQ00308	VBIGarVag246433_0308	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480480	204573	205154	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV04	clust_0308
+GV05|SEQ00211	VBIGarVag174900_0211	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546134	31366	31944	+	579		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV05	clust_0308
+GV06|SEQ00415	VBIGarVag244004_0415	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489574	14558	15139	-	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV06	clust_0308
+GV07|SEQ00151	VBIGarVag249177_0151	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491889	174475	175053	-	579	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV07	clust_0308
+GV08|SEQ00933	VBIGarVag251521_0933	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476301	6839	7420	-	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV08	clust_0308
+GV09|SEQ00170	VBIGarVag169280_0170	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259495	153414	153995	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV09	clust_0308
+GV10|SEQ01188	VBIGarVag136958_1188	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148482	1614765	1615346	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV10	clust_0308
+GV11|SEQ00428	VBIGarVag171052_0428	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549171	9128	9709	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV11	clust_0308
+GV12|SEQ00525	VBIGarVag144721_0525	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853737	23258	23839	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV12	clust_0308
+GV13|SEQ00032	VBIGarVag244533_0032	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485992	14426	15007	-	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV13	clust_0308
+GV14|SEQ00649	VBIGarVag244375_0649	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503168	168785	169363	-	579	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV14	clust_0308
+GV15|SEQ01093	VBIGarVag249709_1093	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485784	67175	67756	-	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV15	clust_0308
+GV16|SEQ00100	VBIGarVag246379_0100	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477306	13558	14139	-	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV16	clust_0308
+GV17|SEQ00639	VBIGarVag146634_0639	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851336	64434	65015	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV17	clust_0308
+GV18|SEQ00891	VBIGarVag4823_0891	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070582	13865	14446	-	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV18	clust_0308
+GV19|SEQ00187	VBIGarVag39333_0187	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627221	221104	221685	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV19	clust_0308
+GV20|SEQ00067	VBIGarVag188338_0067	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188912	83563	84144	+	582	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV20	clust_0308
+GV21|SEQ01207	VBIGarVag274454_1208	Gardnerella vaginalis JCP7275	ATJS01000183	PATRIC	CDS	183969308	3474	4055	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV21	clust_0308
+GV22|SEQ00370	VBIGarVag276801_0371	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970161	482	1063	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV22	clust_0308
+GV23|SEQ00816	VBIGarVag276017_0816	Gardnerella vaginalis JCP7659	ATJQ01000064	PATRIC	CDS	183974033	778	1359	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV23	clust_0308
+GV24|SEQ00443	VBIGarVag268944_0444	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976017	1535	2116	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV24	clust_0308
+GV25|SEQ00128	VBIGarVag270495_0128	Gardnerella vaginalis JCP7719	ATJO01000010	PATRIC	CDS	183978128	1685	2266	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV25	clust_0308
+GV26|SEQ01143	VBIGarVag272749_1143	Gardnerella vaginalis JCP8017A	ATJN01000103	PATRIC	CDS	183983197	1706	2287	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV26	clust_0308
+GV27|SEQ01043	VBIGarVag276930_1043	Gardnerella vaginalis JCP8017B	ATJM01000085	PATRIC	CDS	183985934	774	1355	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV27	clust_0308
+GV28|SEQ01021	VBIGarVag271349_1021	Gardnerella vaginalis JCP8066	ATJL01000122	PATRIC	CDS	183988874	1687	2268	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV28	clust_0308
+GV29|SEQ00526	VBIGarVag265473_0526	Gardnerella vaginalis JCP8070	ATJK01000025	PATRIC	CDS	183990465	4669	5250	+	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV29	clust_0308
+GV30|SEQ00614	VBIGarVag267667_0615	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993349	12134	12715	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV30	clust_0308
+GV31|SEQ00703	VBIGarVag264983_0703	Gardnerella vaginalis JCP8151A	ATJI01000035	PATRIC	CDS	183996501	6625	7206	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV31	clust_0308
+GV32|SEQ00184	VBIGarVag277040_0184	Gardnerella vaginalis JCP8151B	ATJH01000013	PATRIC	CDS	183998213	752	1333	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV32	clust_0308
+GV33|SEQ00142	VBIGarVag265557_0142	Gardnerella vaginalis JCP8481A	ATJG01000011	PATRIC	CDS	184000965	12824	13405	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV33	clust_0308
+GV34|SEQ01066	VBIGarVag270440_1066	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005823	14221	14802	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV34	clust_0308
+GV35|SEQ00001	VBIGarVag272169_0001	Gardnerella vaginalis JCP8522	ATJE01000001	PATRIC	CDS	184006271	745	1326	-	582		Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	GV35	clust_0308

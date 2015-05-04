@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00537	VBIBifBif87902_0537	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883609	668836	670119	-	1284		Predicted glucose transporter in maltodextrin utilization gene cluster	BIF1	clust_1937
+BRE1|SEQ01221	VBIBifBre340958_1221	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604451	1433705	1434493	+	789		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE1	clust_1937
+BRE2|SEQ01311	VBIBifBre337368_1311	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608605	1509806	1510783	+	978		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE2	clust_1937
+BRE3|SEQ00600	VBIBifBre167886_0600	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192883	734164	734952	-	789		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE3	clust_1937
+BRE4|SEQ01253	VBIBifBre327712_1253	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612630	1457053	1457841	+	789		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE4	clust_1937
+BRE6|SEQ01938	VBIBifBre268992_1938	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657189	129616	130404	+	789		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE6	clust_1937
+BRE7|SEQ01264	VBIBifBre340732_1264	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621012	1459080	1459868	+	789		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE7	clust_1937
+BRE8|SEQ01290	VBIBifBre176493_1290	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625174	1505516	1506304	+	789		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE8	clust_1937
+BRE9|SEQ01347	VBIBifBre30019_1347	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446818	1562217	1562768	+	552		Predicted glucose transporter in maltodextrin utilization gene cluster	BRE9	clust_1937
+LON4|SEQ01313	VBIBifLon48544_1313	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890970	1485721	1486965	+	1245		Predicted glucose transporter in maltodextrin utilization gene cluster	LON4	clust_1937
+THE1|SEQ00646	VBIBifThe274299_0646	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734470	818947	820251	-	1305		Predicted glucose transporter in maltodextrin utilization gene cluster	THE1	clust_1937

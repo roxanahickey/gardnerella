@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00969	VBIGarVag247323_0969	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496123	191738	192784	+	1047	nusA	Transcription termination protein NusA	GV01	clust_0493
+GV02|SEQ01098	VBIGarVag242669_1098	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499056	69139	70185	-	1047	nusA	Transcription termination protein NusA	GV02	clust_0493
+GV03|SEQ00385	VBIGarVag247424_0385	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500173	340551	341588	+	1038	nusA	Transcription termination protein NusA	GV03	clust_0493
+GV04|SEQ01349	VBIGarVag246433_1349	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482649	30326	31372	+	1047	nusA	Transcription termination protein NusA	GV04	clust_0493
+GV05|SEQ00483	VBIGarVag174900_0483	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546710	50350	51387	+	1038		Transcription termination protein NusA	GV05	clust_0493
+GV06|SEQ01148	VBIGarVag244004_1148	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491122	122077	123126	-	1050	nusA	Transcription termination protein NusA	GV06	clust_0493
+GV07|SEQ00924	VBIGarVag249177_0924	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493519	223351	224388	-	1038	nusA	Transcription termination protein NusA	GV07	clust_0493
+GV08|SEQ00195	VBIGarVag251521_0195	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474774	29695	30744	+	1050	nusA	Transcription termination protein NusA	GV08	clust_0493
+GV09|SEQ00618	VBIGarVag169280_0618	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260425	381904	382950	-	1047	nusA	Transcription termination protein NusA	GV09	clust_0493
+GV10|SEQ00262	VBIGarVag136958_0262	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146556	302831	303913	+	1083	nusA	Transcription termination protein NusA	GV10	clust_0493
+GV11|SEQ01099	VBIGarVag171052_1099	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550589	42177	43226	-	1050		Transcription termination protein NusA	GV11	clust_0493
+GV12|SEQ00802	VBIGarVag144721_0802	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854319	339526	340608	+	1083		Transcription termination protein NusA	GV12	clust_0493
+GV13|SEQ00554	VBIGarVag244533_0554	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487078	54990	56039	+	1050	nusA	Transcription termination protein NusA	GV13	clust_0493
+GV14|SEQ00069	VBIGarVag244375_0069	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501954	61845	62882	-	1038	nusA	Transcription termination protein NusA	GV14	clust_0493
+GV15|SEQ00404	VBIGarVag249709_0404	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484327	145028	146110	-	1083	nusA	Transcription termination protein NusA	GV15	clust_0493
+GV16|SEQ01269	VBIGarVag246379_1269	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479739	1495765	1496814	-	1050	nusA	Transcription termination protein NusA	GV16	clust_0493
+GV17|SEQ00326	VBIGarVag146634_0326	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850669	317552	318634	-	1083		Transcription termination protein NusA	GV17	clust_0493
+GV18|SEQ00813	VBIGarVag4823_0813	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000129	PATRIC	CDS	42070423	19743	20792	+	1050	nusA	Transcription termination protein NusA	GV18	clust_0493
+GV19|SEQ00341	VBIGarVag39333_0342	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627545	416146	417195	+	1050	nusA	Transcription termination protein NusA	GV19	clust_0493
+GV20|SEQ01176	VBIGarVag188338_1176	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191218	1469492	1470541	-	1050	nusA	Transcription termination protein NusA	GV20	clust_0493
+GV21|SEQ01003	VBIGarVag274454_1004	Gardnerella vaginalis JCP7275	ATJS01000096	PATRIC	CDS	183968803	1271	2320	+	1050		Transcription termination protein NusA	GV21	clust_0493
+GV22|SEQ00963	VBIGarVag276801_0964	Gardnerella vaginalis JCP7276	ATJR01000058	PATRIC	CDS	183971425	1364	2413	+	1050		Transcription termination protein NusA	GV22	clust_0493
+GV23|SEQ00985	VBIGarVag276017_0985	Gardnerella vaginalis JCP7659	ATJQ01000093	PATRIC	CDS	183974410	898	1944	-	1047		Transcription termination protein NusA	GV23	clust_0493
+GV24|SEQ01035	VBIGarVag268944_1036	Gardnerella vaginalis JCP7672	ATJP01000092	PATRIC	CDS	183977319	1026	2072	-	1047		Transcription termination protein NusA	GV24	clust_0493
+GV25|SEQ00871	VBIGarVag270495_0871	Gardnerella vaginalis JCP7719	ATJO01000076	PATRIC	CDS	183979725	1269	2315	+	1047		Transcription termination protein NusA	GV25	clust_0493
+GV26|SEQ01092	VBIGarVag272749_1092	Gardnerella vaginalis JCP8017A	ATJN01000088	PATRIC	CDS	183983079	1277	2323	+	1047		Transcription termination protein NusA	GV26	clust_0493
+GV27|SEQ00970	VBIGarVag276930_0970	Gardnerella vaginalis JCP8017B	ATJM01000065	PATRIC	CDS	183985767	1277	2323	+	1047		Transcription termination protein NusA	GV27	clust_0493
+GV28|SEQ00947	VBIGarVag271349_0947	Gardnerella vaginalis JCP8066	ATJL01000089	PATRIC	CDS	183988687	1450	2496	+	1047		Transcription termination protein NusA	GV28	clust_0493
+GV29|SEQ00580	VBIGarVag265473_0580	Gardnerella vaginalis JCP8070	ATJK01000033	PATRIC	CDS	183990587	5655	6701	+	1047		Transcription termination protein NusA	GV29	clust_0493
+GV30|SEQ01288	VBIGarVag267667_1290	Gardnerella vaginalis JCP8108	ATJJ01000149	PATRIC	CDS	183994853	1286	2335	+	1050		Transcription termination protein NusA	GV30	clust_0493
+GV31|SEQ00995	VBIGarVag264983_0995	Gardnerella vaginalis JCP8151A	ATJI01000077	PATRIC	CDS	183997145	1219	2265	+	1047		Transcription termination protein NusA	GV31	clust_0493
+GV32|SEQ00873	VBIGarVag277040_0873	Gardnerella vaginalis JCP8151B	ATJH01000071	PATRIC	CDS	183999708	892	1938	-	1047		Transcription termination protein NusA	GV32	clust_0493
+GV33|SEQ00877	VBIGarVag265557_0877	Gardnerella vaginalis JCP8481A	ATJG01000093	PATRIC	CDS	184002567	989	2071	-	1083		Transcription termination protein NusA	GV33	clust_0493
+GV34|SEQ00663	VBIGarVag270440_0663	Gardnerella vaginalis JCP8481B	ATJF01000070	PATRIC	CDS	184004938	2853	3935	+	1083		Transcription termination protein NusA	GV34	clust_0493
+GV35|SEQ01133	VBIGarVag272169_1133	Gardnerella vaginalis JCP8522	ATJE01000165	PATRIC	CDS	184008781	1263	2309	+	1047		Transcription termination protein NusA	GV35	clust_0493

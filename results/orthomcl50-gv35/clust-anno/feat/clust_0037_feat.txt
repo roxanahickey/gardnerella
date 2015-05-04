@@ -1,0 +1,37 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00351	VBIGarVag247323_0351	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494841	62261	63169	+	909		Methylase of polypeptide chain release factors	GV01	clust_0037
+GV02|SEQ00704	VBIGarVag242669_0704	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498232	22044	22952	-	909		Methylase of polypeptide chain release factors	GV02	clust_0037
+GV03|SEQ01156	VBIGarVag247424_1156	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501780	98862	99767	+	906		Methylase of polypeptide chain release factors	GV03	clust_0037
+GV04|SEQ00889	VBIGarVag246433_0889	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481684	236029	236928	+	900		Methylase of polypeptide chain release factors	GV04	clust_0037
+GV05|SEQ00096	VBIGarVag174900_0096	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545899	119079	119984	+	906		Methylase of polypeptide chain release factors	GV05	clust_0037
+GV06|SEQ01363	VBIGarVag244004_1363	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491559	253194	254102	-	909		Methylase of polypeptide chain release factors	GV06	clust_0037
+GV07|SEQ00391	VBIGarVag249177_0391	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492406	15792	16712	-	921		Methylase of polypeptide chain release factors	GV07	clust_0037
+GV08|SEQ00647	VBIGarVag251521_0647	Gardnerella vaginalis 284V	ADEL01000008	PATRIC	CDS	85475713	15969	16868	-	900		Methylase of polypeptide chain release factors	GV08	clust_0037
+GV09|SEQ00745	VBIGarVag169280_0745	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260691	105481	106389	+	909	prmC	Methylase of polypeptide chain release factors	GV09	clust_0037
+GV10|SEQ00951	VBIGarVag136958_0951	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147984	1242308	1243222	-	915	prmC	Methylase of polypeptide chain release factors	GV10	clust_0037
+GV11|SEQ00725	VBIGarVag171052_0725	Gardnerella vaginalis 41V	AEJE01000046	PATRIC	CDS	52549801	6292	7200	-	909		Methylase of polypeptide chain release factors	GV11	clust_0037
+GV12|SEQ00355	VBIGarVag144721_0355	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853383	351232	352146	-	915		Methylase of polypeptide chain release factors	GV12	clust_0037
+GV13|SEQ00004	VBIGarVag244533_0004	Gardnerella vaginalis 55152	ADEQ01000001	PATRIC	CDS	85485935	11546	12058	+	513		Methylase of polypeptide chain release factors	GV13	clust_0037
+GV13|SEQ00005	VBIGarVag244533_0005	Gardnerella vaginalis 55152	ADEQ01000001	PATRIC	CDS	85485937	12012	12455	+	444		Methylase of polypeptide chain release factors	GV13	clust_0037
+GV14|SEQ00791	VBIGarVag244375_0791	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503470	164501	165430	+	930		Methylase of polypeptide chain release factors	GV14	clust_0037
+GV15|SEQ00930	VBIGarVag249709_0930	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485436	93375	94373	-	999		Methylase of polypeptide chain release factors	GV15	clust_0037
+GV16|SEQ00682	VBIGarVag246379_0682	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478519	751118	752026	+	909		Methylase of polypeptide chain release factors	GV16	clust_0037
+GV17|SEQ01103	VBIGarVag146634_1103	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852301	30924	31922	-	999		Methylase of polypeptide chain release factors	GV17	clust_0037
+GV18|SEQ00789	VBIGarVag4823_0789	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000128	PATRIC	CDS	42070372	9051	9959	-	909		Methylase of polypeptide chain release factors	GV18	clust_0037
+GV19|SEQ00936	VBIGarVag39333_0937	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628777	1157872	1158780	-	909	hemK	Methylase of polypeptide chain release factors	GV19	clust_0037
+GV20|SEQ00615	VBIGarVag188338_0615	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190051	742805	743704	+	900	prmC	Methylase of polypeptide chain release factors	GV20	clust_0037
+GV21|SEQ01189	VBIGarVag274454_1190	Gardnerella vaginalis JCP7275	ATJS01000172	PATRIC	CDS	183969261	5937	6845	-	909		Methylase of polypeptide chain release factors	GV21	clust_0037
+GV22|SEQ01133	VBIGarVag276801_1134	Gardnerella vaginalis JCP7276	ATJR01000118	PATRIC	CDS	183971839	323	1222	+	900		Methylase of polypeptide chain release factors	GV22	clust_0037
+GV23|SEQ00530	VBIGarVag276017_0530	Gardnerella vaginalis JCP7659	ATJQ01000040	PATRIC	CDS	183973416	10763	11662	+	900		Methylase of polypeptide chain release factors	GV23	clust_0037
+GV24|SEQ00658	VBIGarVag268944_0659	Gardnerella vaginalis JCP7672	ATJP01000048	PATRIC	CDS	183976493	11069	11968	-	900		Methylase of polypeptide chain release factors	GV24	clust_0037
+GV25|SEQ01159	VBIGarVag270495_1159	Gardnerella vaginalis JCP7719	ATJO01000131	PATRIC	CDS	183980379	681	1589	+	909		Methylase of polypeptide chain release factors	GV25	clust_0037
+GV26|SEQ00884	VBIGarVag272749_0884	Gardnerella vaginalis JCP8017A	ATJN01000051	PATRIC	CDS	183982614	22293	23201	-	909		Methylase of polypeptide chain release factors	GV26	clust_0037
+GV27|SEQ00795	VBIGarVag276930_0795	Gardnerella vaginalis JCP8017B	ATJM01000039	PATRIC	CDS	183985385	22291	23199	-	909		Methylase of polypeptide chain release factors	GV27	clust_0037
+GV28|SEQ01007	VBIGarVag271349_1007	Gardnerella vaginalis JCP8066	ATJL01000116	PATRIC	CDS	183988840	576	1463	-	888		Methylase of polypeptide chain release factors	GV28	clust_0037
+GV29|SEQ00980	VBIGarVag265473_0980	Gardnerella vaginalis JCP8070	ATJK01000084	PATRIC	CDS	183991464	707	1594	+	888		Methylase of polypeptide chain release factors	GV29	clust_0037
+GV30|SEQ01141	VBIGarVag267667_1143	Gardnerella vaginalis JCP8108	ATJJ01000115	PATRIC	CDS	183994513	598	1506	+	909		Methylase of polypeptide chain release factors	GV30	clust_0037
+GV31|SEQ00467	VBIGarVag264983_0467	Gardnerella vaginalis JCP8151A	ATJI01000016	PATRIC	CDS	183996000	11584	12471	-	888		Methylase of polypeptide chain release factors	GV31	clust_0037
+GV32|SEQ00914	VBIGarVag277040_0914	Gardnerella vaginalis JCP8151B	ATJH01000085	PATRIC	CDS	183999808	4655	5551	-	897		Methylase of polypeptide chain release factors	GV32	clust_0037
+GV33|SEQ00700	VBIGarVag265557_0700	Gardnerella vaginalis JCP8481A	ATJG01000069	PATRIC	CDS	184002168	1927	2841	+	915		Methylase of polypeptide chain release factors	GV33	clust_0037
+GV34|SEQ00519	VBIGarVag270440_0519	Gardnerella vaginalis JCP8481B	ATJF01000045	PATRIC	CDS	184004622	1928	2842	+	915		Methylase of polypeptide chain release factors	GV34	clust_0037
+GV35|SEQ00710	VBIGarVag272169_0710	Gardnerella vaginalis JCP8522	ATJE01000062	PATRIC	CDS	184007798	590	1477	+	888		Methylase of polypeptide chain release factors	GV35	clust_0037

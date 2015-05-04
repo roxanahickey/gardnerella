@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00958	VBIGarVag242669_0958	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498765	206580	206750	+	171		FIG00672502: hypothetical protein	GV02	clust_1849
+GV13|SEQ00673	VBIGarVag244533_0673	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487327	104632	104772	+	141		Esterase/lipase	GV13	clust_1849
+GV19|SEQ00640	VBIGarVag39333_0641	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628166	801547	801687	-	141		Esterase/lipase	GV19	clust_1849

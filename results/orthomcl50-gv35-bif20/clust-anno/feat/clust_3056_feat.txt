@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01938	VBIBifAdo136061_1938	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190249	478062	480188	-	2127		Beta-galactosidase (EC 3.2.1.23)	ADO1	clust_3056
+ANI1|SEQ00047	VBIBifAni240121_0047	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844991	55366	57471	-	2106		Beta-galactosidase (EC 3.2.1.23)	ANI1	clust_3056
+ANI2|SEQ00047	VBIBifAni235968_0047	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848346	55366	57471	-	2106		Beta-galactosidase (EC 3.2.1.23)	ANI2	clust_3056
+ANI3|SEQ00049	VBIBifAni108068_0049	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762362	55366	57471	-	2106		Beta-galactosidase (EC 3.2.1.23)	ANI3	clust_3056

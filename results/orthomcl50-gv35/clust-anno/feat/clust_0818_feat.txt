@@ -1,0 +1,35 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01199	VBIGarVag247323_1199	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496600	217574	218758	+	1185		Permeases of the major facilitator superfamily	GV01	clust_0818
+GV02|SEQ00254	VBIGarVag242669_0254	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497283	46004	47194	-	1191		Permeases of the major facilitator superfamily	GV02	clust_0818
+GV03|SEQ00812	VBIGarVag247424_0812	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501057	125188	126375	+	1188		Permeases of the major facilitator superfamily	GV03	clust_0818
+GV04|SEQ01324	VBIGarVag246433_1324	Gardnerella vaginalis 0288E	ADEN01000015	PATRIC	CDS	85482594	5208	6386	-	1179		Permeases of the major facilitator superfamily	GV04	clust_0818
+GV05|SEQ00863	VBIGarVag174900_0863	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547494	543964	545145	+	1182		Permeases of the major facilitator superfamily	GV05	clust_0818
+GV06|SEQ00895	VBIGarVag244004_0895	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490595	274512	275690	+	1179		Permeases of the major facilitator superfamily	GV06	clust_0818
+GV07|SEQ00624	VBIGarVag249177_0624	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492899	133335	134516	+	1182		Permeases of the major facilitator superfamily	GV07	clust_0818
+GV08|SEQ00456	VBIGarVag251521_0456	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475318	323080	324258	+	1179		Permeases of the major facilitator superfamily	GV08	clust_0818
+GV09|SEQ01136	VBIGarVag169280_1136	Gardnerella vaginalis 315-A	AFDI01000012	PATRIC	CDS	55261500	2067	3245	+	1179		Permeases of the major facilitator superfamily	GV09	clust_0818
+GV10|SEQ00611	VBIGarVag136958_0611	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147282	785798	786979	+	1182		Permeases of the major facilitator superfamily	GV10	clust_0818
+GV11|SEQ01333	VBIGarVag171052_1333	Gardnerella vaginalis 41V	AEJE01000072	PATRIC	CDS	52551105	2233	3411	-	1179		Permeases of the major facilitator superfamily	GV11	clust_0818
+GV12|SEQ01251	VBIGarVag144721_1251	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855334	137119	138306	+	1188		Permeases of the major facilitator superfamily	GV12	clust_0818
+GV13|SEQ00699	VBIGarVag244533_0699	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487382	139540	140718	-	1179		Permeases of the major facilitator superfamily	GV13	clust_0818
+GV14|SEQ00334	VBIGarVag244375_0334	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502512	171357	172538	+	1182		Permeases of the major facilitator superfamily	GV14	clust_0818
+GV15|SEQ00673	VBIGarVag249709_0673	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484893	134135	135310	+	1176		Permeases of the major facilitator superfamily	GV15	clust_0818
+GV16|SEQ01003	VBIGarVag246379_1003	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479184	1149119	1150297	-	1179		Permeases of the major facilitator superfamily	GV16	clust_0818
+GV17|SEQ00937	VBIGarVag146634_0937	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851960	58847	60022	-	1176		Permeases of the major facilitator superfamily	GV17	clust_0818
+GV19|SEQ00610	VBIGarVag39333_0611	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628104	762850	764028	+	1179		Permeases of the major facilitator superfamily	GV19	clust_0818
+GV20|SEQ00915	VBIGarVag188338_0915	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190675	1121765	1122943	-	1179		Permeases of the major facilitator superfamily	GV20	clust_0818
+GV21|SEQ00520	VBIGarVag274454_0521	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967713	82145	83323	-	1179		Permeases of the major facilitator superfamily	GV21	clust_0818
+GV22|SEQ00660	VBIGarVag276801_0661	Gardnerella vaginalis JCP7276	ATJR01000023	PATRIC	CDS	183970761	2647	3825	-	1179		Permeases of the major facilitator superfamily	GV22	clust_0818
+GV23|SEQ00346	VBIGarVag276017_0346	Gardnerella vaginalis JCP7659	ATJQ01000022	PATRIC	CDS	183973014	125	1309	-	1185		Permeases of the major facilitator superfamily	GV23	clust_0818
+GV24|SEQ01120	VBIGarVag268944_1121	Gardnerella vaginalis JCP7672	ATJP01000118	PATRIC	CDS	183977523	2098	3276	+	1179		Permeases of the major facilitator superfamily	GV24	clust_0818
+GV25|SEQ00675	VBIGarVag270495_0675	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979314	3321	4505	+	1185		Permeases of the major facilitator superfamily	GV25	clust_0818
+GV26|SEQ00419	VBIGarVag272749_0419	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981622	34861	36045	-	1185		Permeases of the major facilitator superfamily	GV26	clust_0818
+GV27|SEQ00647	VBIGarVag276930_0647	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985069	3340	4524	+	1185		Permeases of the major facilitator superfamily	GV27	clust_0818
+GV28|SEQ00152	VBIGarVag271349_0152	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986963	35573	36757	-	1185		Permeases of the major facilitator superfamily	GV28	clust_0818
+GV29|SEQ00348	VBIGarVag265473_0348	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990085	29741	30925	-	1185		Permeases of the major facilitator superfamily	GV29	clust_0818
+GV30|SEQ00492	VBIGarVag267667_0493	Gardnerella vaginalis JCP8108	ATJJ01000025	PATRIC	CDS	183993078	2103	3281	+	1179		Permeases of the major facilitator superfamily	GV30	clust_0818
+GV31|SEQ00590	VBIGarVag264983_0590	Gardnerella vaginalis JCP8151A	ATJI01000026	PATRIC	CDS	183996260	12259	13443	+	1185		Permeases of the major facilitator superfamily	GV31	clust_0818
+GV32|SEQ00217	VBIGarVag277040_0217	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998280	30915	32099	+	1185		Permeases of the major facilitator superfamily	GV32	clust_0818
+GV33|SEQ00293	VBIGarVag265557_0293	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001288	37803	38978	-	1176		Permeases of the major facilitator superfamily	GV33	clust_0818
+GV34|SEQ00783	VBIGarVag270440_0783	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005196	47263	48438	+	1176		Permeases of the major facilitator superfamily	GV34	clust_0818
+GV35|SEQ00358	VBIGarVag272169_0358	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007019	10180	11364	+	1185		Permeases of the major facilitator superfamily	GV35	clust_0818

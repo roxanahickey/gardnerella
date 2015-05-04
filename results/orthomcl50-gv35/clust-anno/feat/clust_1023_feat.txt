@@ -1,0 +1,25 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01265	VBIGarVag247323_1265	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496735	42194	43534	+	1341		Gluconate transporter family protein	GV01	clust_1023
+GV02|SEQ00008	VBIGarVag242669_0008	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496771	1243	2493	-	1251		Gluconate transporter family protein	GV02	clust_1023
+GV04|SEQ01257	VBIGarVag246433_1257	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482444	114786	116126	+	1341		Gluconate transporter family protein	GV04	clust_1023
+GV06|SEQ00448	VBIGarVag244004_0448	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489654	1116	2456	-	1341		Gluconate transporter family protein	GV06	clust_1023
+GV08|SEQ00513	VBIGarVag251521_0513	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475440	1245	2585	-	1341		Gluconate transporter family protein	GV08	clust_1023
+GV09|SEQ01078	VBIGarVag169280_1078	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261378	105958	107298	+	1341		Gluconate transporter family protein	GV09	clust_1023
+GV11|SEQ00759	VBIGarVag171052_0759	Gardnerella vaginalis 41V	AEJE01000048	PATRIC	CDS	52549874	1202	2542	-	1341		Gluconate transporter family protein	GV11	clust_1023
+GV13|SEQ01271	VBIGarVag244533_1271	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488594	108823	110163	+	1341		Gluconate transporter family protein	GV13	clust_1023
+GV16|SEQ00087	VBIGarVag246379_0087	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477279	111552	112892	+	1341		Gluconate transporter family protein	GV16	clust_1023
+GV18|SEQ00168	VBIGarVag4823_0168	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000063	PATRIC	CDS	42069023	4207	5547	+	1341		Gluconate transporter family protein	GV18	clust_1023
+GV19|SEQ00291	VBIGarVag39333_0292	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627435	355816	357156	+	1341	gntP	Gluconate transporter family protein	GV19	clust_1023
+GV20|SEQ01222	VBIGarVag188338_1222	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191320	1530126	1531466	-	1341		Gluconate transporter family protein	GV20	clust_1023
+GV21|SEQ00796	VBIGarVag274454_0797	Gardnerella vaginalis JCP7275	ATJS01000055	PATRIC	CDS	183968310	5912	7252	+	1341		Gluconate transporter family protein	GV21	clust_1023
+GV22|SEQ00754	VBIGarVag276801_0755	Gardnerella vaginalis JCP7276	ATJR01000031	PATRIC	CDS	183970959	18291	19631	+	1341		Gluconate transporter family protein	GV22	clust_1023
+GV23|SEQ00843	VBIGarVag276017_0843	Gardnerella vaginalis JCP7659	ATJQ01000067	PATRIC	CDS	183974092	1831	3171	-	1341		Gluconate transporter family protein	GV23	clust_1023
+GV24|SEQ00167	VBIGarVag268944_0168	Gardnerella vaginalis JCP7672	ATJP01000007	PATRIC	CDS	183975438	1342	2682	-	1341		Gluconate transporter family protein	GV24	clust_1023
+GV25|SEQ01237	VBIGarVag270495_1237	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980581	1935	3275	-	1341		Gluconate transporter family protein	GV25	clust_1023
+GV26|SEQ00713	VBIGarVag272749_0713	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982235	1775	3115	-	1341		Gluconate transporter family protein	GV26	clust_1023
+GV27|SEQ00769	VBIGarVag276930_0769	Gardnerella vaginalis JCP8017B	ATJM01000036	PATRIC	CDS	183985328	17530	18870	+	1341		Gluconate transporter family protein	GV27	clust_1023
+GV29|SEQ01189	VBIGarVag265473_1189	Gardnerella vaginalis JCP8070	ATJK01000170	PATRIC	CDS	183991990	1213	2553	-	1341		Gluconate transporter family protein	GV29	clust_1023
+GV30|SEQ01223	VBIGarVag267667_1225	Gardnerella vaginalis JCP8108	ATJJ01000138	PATRIC	CDS	183994706	1811	3151	-	1341		Gluconate transporter family protein	GV30	clust_1023
+GV31|SEQ00819	VBIGarVag264983_0819	Gardnerella vaginalis JCP8151A	ATJI01000052	PATRIC	CDS	183996768	1927	3267	-	1341		Gluconate transporter family protein	GV31	clust_1023
+GV32|SEQ01232	VBIGarVag277040_1232	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	184000548	1925	3175	-	1251		Gluconate transporter family protein	GV32	clust_1023
+GV35|SEQ00705	VBIGarVag272169_0705	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007785	22732	23982	+	1251		Gluconate transporter family protein	GV35	clust_1023

@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00160	VBIGarVag247323_0160	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494427	21879	22469	-	591		FIG00672407: hypothetical protein	GV01	clust_1097
+GV03|SEQ00686	VBIGarVag247424_0686	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500796	58581	59129	-	549		hypothetical protein	GV03	clust_1097
+GV06|SEQ00046	VBIGarVag244004_0046	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488797	50078	50626	+	549		hypothetical protein	GV06	clust_1097
+GV07|SEQ00664	VBIGarVag249177_0664	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492980	46497	47045	-	549		hypothetical protein	GV07	clust_1097
+GV10|SEQ00486	VBIGarVag136958_0486	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147024	600350	600940	+	591		hypothetical protein	GV10	clust_1097
+GV11|SEQ00926	VBIGarVag171052_0926	Gardnerella vaginalis 41V	AEJE01000054	PATRIC	CDS	52550223	279	620	-	342		hypothetical protein	GV11	clust_1097
+GV13|SEQ01165	VBIGarVag244533_1165	Gardnerella vaginalis 55152	ADEQ01000023	PATRIC	CDS	85488381	2716	3264	+	549		hypothetical protein	GV13	clust_1097
+GV14|SEQ00496	VBIGarVag244375_0496	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502849	132910	133458	+	549		hypothetical protein	GV14	clust_1097
+GV15|SEQ01149	VBIGarVag249709_1149	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485899	52848	53438	-	591		FIG00672407: hypothetical protein	GV15	clust_1097
+GV17|SEQ01064	VBIGarVag146634_1064	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852222	242737	243327	-	591		hypothetical protein	GV17	clust_1097
+GV21|SEQ00320	VBIGarVag274454_0320	Gardnerella vaginalis JCP7275	ATJS01000012	PATRIC	CDS	183967295	1350	1898	-	549		Abortive infection protein AbiGI	GV21	clust_1097
+GV29|SEQ00704	VBIGarVag265473_0704	Gardnerella vaginalis JCP8070	ATJK01000046	PATRIC	CDS	183990866	10225	10818	+	594		Abortive infection protein AbiGI	GV29	clust_1097
+GV30|SEQ00859	VBIGarVag267667_0861	Gardnerella vaginalis JCP8108	ATJJ01000068	PATRIC	CDS	183993888	366	971	+	606		Abortive infection protein AbiGI	GV30	clust_1097
+GV31|SEQ00137	VBIGarVag264983_0137	Gardnerella vaginalis JCP8151A	ATJI01000007	PATRIC	CDS	183995307	12463	13053	+	591		Abortive infection protein AbiGI	GV31	clust_1097
+GV32|SEQ00130	VBIGarVag277040_0130	Gardnerella vaginalis JCP8151B	ATJH01000009	PATRIC	CDS	183998097	12426	13016	+	591		Abortive infection protein AbiGI	GV32	clust_1097
+GV33|SEQ01077	VBIGarVag265557_1077	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003032	12083	12688	+	606		hypothetical protein	GV33	clust_1097
+GV34|SEQ01141	VBIGarVag270440_1141	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005988	33441	34046	-	606		hypothetical protein	GV34	clust_1097
+BRE4|SEQ00961	VBIBifBre327712_0961	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612026	1122819	1123079	+	261		narrowly conserved hypothetical protein	BRE4	clust_1097
+BRE8|SEQ01060	VBIBifBre176493_1060	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624702	1257845	1258447	-	603		narrowly conserved hypothetical protein	BRE8	clust_1097
+BRE9|SEQ01125	VBIBifBre30019_1125	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446364	1321058	1321318	-	261		narrowly conserved hypothetical protein	BRE9	clust_1097
+INF1|SEQ01015	VBIBifLon182273_1015	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886013	1163920	1164501	+	582		narrowly conserved hypothetical protein	INF1	clust_1097
+LON1|SEQ00461	VBIBifLon107831_0461	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117977	545618	545878	-	261		narrowly conserved hypothetical protein	LON1	clust_1097
+LON2|SEQ00490	VBIBifLon171405_0491	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580501	563048	563236	-	189		narrowly conserved hypothetical protein	LON2	clust_1097
+LON3|SEQ00324	VBIBifLon156230_0324	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767596	1158045	1158314	-	270		narrowly conserved hypothetical protein	LON3	clust_1097
+LON4|SEQ00893	VBIBifLon48544_0893	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890062	1055815	1056372	+	558		narrowly conserved hypothetical protein	LON4	clust_1097

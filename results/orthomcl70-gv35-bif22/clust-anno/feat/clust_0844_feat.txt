@@ -1,0 +1,42 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00488	VBIBifAni240121_0488	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845910	579057	580025	-	969		ABC-type sugar transport systems, permease components	ANI1	clust_0844
+ANI2|SEQ00488	VBIBifAni235968_0488	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849265	579059	580027	-	969		ABC-type sugar transport systems, permease components	ANI2	clust_0844
+ANI3|SEQ00490	VBIBifAni108068_0490	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763278	579060	580028	-	969		ABC-type sugar transport systems, permease components	ANI3	clust_0844
+BRE1|SEQ00458	VBIBifBre340958_0458	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602871	581925	582857	+	933		ABC-type sugar transport systems, permease components	BRE1	clust_0844
+BRE2|SEQ00423	VBIBifBre337368_0423	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606770	505809	506771	+	963		ABC-type sugar transport systems, permease components	BRE2	clust_0844
+BRE2|SEQ00516	VBIBifBre337368_0516	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606959	637722	638654	+	933		ABC-type sugar transport systems, permease components	BRE2	clust_0844
+BRE3|SEQ00420	VBIBifBre167886_0420	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192512	518513	519475	+	963		ABC-type sugar transport systems, permease components	BRE3	clust_0844
+BRE3|SEQ01347	VBIBifBre167886_1347	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194435	1555024	1555956	-	933		ABC-type sugar transport systems, permease components	BRE3	clust_0844
+BRE4|SEQ00370	VBIBifBre327712_0370	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610806	463207	464169	+	963		ABC-type sugar transport systems, permease components	BRE4	clust_0844
+BRE4|SEQ00480	VBIBifBre327712_0480	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611030	613730	614656	+	927		ABC-type sugar transport systems, permease components	BRE4	clust_0844
+BRE5|SEQ00497	VBIBifBre336369_0498	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615111	603341	604267	+	927		ABC-type sugar transport systems, permease components	BRE5	clust_0844
+BRE6|SEQ00834	VBIBifBre268992_0834	Bifidobacterium breve JCP7499	AWSX01000044	PATRIC	CDS	177654846	37	873	+	837		ABC-type sugar transport systems, permease components	BRE6	clust_0844
+BRE7|SEQ00396	VBIBifBre340732_0396	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619214	485723	486685	+	963		ABC-type sugar transport systems, permease components	BRE7	clust_0844
+BRE7|SEQ00487	VBIBifBre340732_0487	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619401	615345	616271	+	927		ABC-type sugar transport systems, permease components	BRE7	clust_0844
+BRE8|SEQ00519	VBIBifBre176493_0519	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623577	659232	660155	+	924		ABC-type sugar transport systems, permease components	BRE8	clust_0844
+BRE9|SEQ00464	VBIBifBre30019_0464	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444990	556949	557911	+	963		ABC-type sugar transport systems, permease components	BRE9	clust_0844
+BRE9|SEQ00572	VBIBifBre30019_0572	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445209	709040	709966	+	927		ABC-type sugar transport systems, permease components	BRE9	clust_0844
+DEN1|SEQ00912	VBIBifDen165269_0913	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458947	49859	50695	+	837		ABC-type sugar transport systems, permease components	DEN1	clust_0844
+DEN2|SEQ01775	VBIBifDen39005_1776	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000031	PATRIC	CDS	42111950	31908	32948	+	1041		ABC-type sugar transport systems, permease components	DEN2	clust_0844
+GV04|SEQ00220	VBIGarVag246433_0220	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480294	88654	89502	+	849		ABC-type sugar transport systems, permease components	GV04	clust_0844
+GV06|SEQ00158	VBIGarVag244004_0158	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489029	75218	76066	-	849		ABC-type sugar transport systems, permease components	GV06	clust_0844
+GV08|SEQ01023	VBIGarVag251521_1023	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476491	126187	127035	-	849		ABC-type sugar transport systems, permease components	GV08	clust_0844
+GV09|SEQ00078	VBIGarVag169280_0078	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259301	33664	34512	+	849		ABC-type sugar transport systems, permease components	GV09	clust_0844
+GV13|SEQ00117	VBIGarVag244533_0117	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486172	130189	131121	-	933		ABC-type sugar transport systems, permease components	GV13	clust_0844
+GV16|SEQ00191	VBIGarVag246379_0191	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477498	134741	135673	-	933		ABC-type sugar transport systems, permease components	GV16	clust_0844
+GV18|SEQ00294	VBIGarVag4823_0294	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000082	PATRIC	CDS	42069299	973	1821	+	849		ABC-type sugar transport systems, permease components	GV18	clust_0844
+GV19|SEQ00095	VBIGarVag39333_0095	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627026	105327	106259	+	933		ABC-type sugar transport systems, permease components	GV19	clust_0844
+GV20|SEQ01350	VBIGarVag188338_1350	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191578	1688507	1689439	+	933		ABC-type sugar transport systems, permease components	GV20	clust_0844
+GV21|SEQ00386	VBIGarVag274454_0386	Gardnerella vaginalis JCP7275	ATJS01000017	PATRIC	CDS	183967432	12580	13512	-	933		ABC-type sugar transport systems, permease components	GV21	clust_0844
+GV22|SEQ00236	VBIGarVag276801_0237	Gardnerella vaginalis JCP7276	ATJR01000007	PATRIC	CDS	183969885	10935	11783	+	849		ABC-type sugar transport systems, permease components	GV22	clust_0844
+GV24|SEQ00026	VBIGarVag268944_0027	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975144	5135	6067	+	933		ABC-type sugar transport systems, permease components	GV24	clust_0844
+GV30|SEQ00702	VBIGarVag267667_0703	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993533	6209	7141	-	933		ABC-type sugar transport systems, permease components	GV30	clust_0844
+INF1|SEQ00360	VBIBifLon182273_0360	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884656	446377	447339	+	963		ABC-type sugar transport systems, permease components	INF1	clust_0844
+INF1|SEQ00470	VBIBifLon182273_0470	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884879	594699	595625	+	927		ABC-type sugar transport systems, permease components	INF1	clust_0844
+INF1|SEQ02040	VBIBifLon182273_2040	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888159	2390395	2391324	+	930		ABC-type sugar transport systems, permease components	INF1	clust_0844
+LON1|SEQ00880	VBIBifLon107831_0881	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118837	1025168	1026094	-	927		ABC-type sugar transport systems, permease components	LON1	clust_0844
+LON1|SEQ00995	VBIBifLon107831_0996	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119067	1174840	1175763	-	924		ABC-type sugar transport systems, permease components	LON1	clust_0844
+LON2|SEQ00961	VBIBifLon171405_0962	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581468	1079485	1080411	-	927		ABC-type sugar transport systems, permease components	LON2	clust_0844
+LON2|SEQ01052	VBIBifLon171405_1054	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581651	1203735	1204697	-	963		ABC-type sugar transport systems, permease components	LON2	clust_0844
+LON3|SEQ00858	VBIBifLon156230_0859	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768691	1779813	1780775	-	963		ABC-type sugar transport systems, permease components	LON3	clust_0844
+LON4|SEQ00457	VBIBifLon48544_0457	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889153	569165	570091	+	927		ABC-type sugar transport systems, permease components	LON4	clust_0844

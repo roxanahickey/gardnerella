@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV05|SEQ00082	52545871	VBIGarVag174900_0082	SEQ00082	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	NA	Signal peptidase I (EC 3.4.21.89)	GO:0006508	proteolysis	go	clust_3995
+GV05|SEQ00082	52545871	VBIGarVag174900_0082	SEQ00082	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	NA	Signal peptidase I (EC 3.4.21.89)	GO:0008236	serine-type peptidase activity	go	clust_3995
+GV14|SEQ00783	85503454	VBIGarVag244375_0783	SEQ00783	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	NA	Signal peptidase I (EC 3.4.21.89)	GO:0008236	serine-type peptidase activity	go	clust_3995
+GV14|SEQ00783	85503454	VBIGarVag244375_0783	SEQ00783	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	NA	Signal peptidase I (EC 3.4.21.89)	GO:0006508	proteolysis	go	clust_3995

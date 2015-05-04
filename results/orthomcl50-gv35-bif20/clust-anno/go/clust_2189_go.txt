@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ00736	27187770	VBIBifAdo136061_0736	SEQ00736	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Maltose/maltodextrin ABC transporter, permease protein MalG	GO:0005215	transporter activity	go	clust_2189
+ADO1|SEQ00736	27187770	VBIBifAdo136061_0736	SEQ00736	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Maltose/maltodextrin ABC transporter, permease protein MalG	GO:0016020	membrane	go	clust_2189
+ADO1|SEQ00736	27187770	VBIBifAdo136061_0736	SEQ00736	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	NA	Maltose/maltodextrin ABC transporter, permease protein MalG	GO:0006810	transport	go	clust_2189

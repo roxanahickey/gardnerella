@@ -1,0 +1,11 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01371	86847749	VBIBifAni240121_1371	SEQ01371	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Glycosyl transferase, family 2	FIG00454917	figfam	clust_1490
+ANI2|SEQ01371	86851102	VBIBifAni235968_1371	SEQ01371	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Glycosyl transferase, family 2	FIG00454917	figfam	clust_1490
+ANI3|SEQ01381	42765122	VBIBifAni108068_1381	SEQ01381	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Glycosyl transferase, family 2	FIG00454917	figfam	clust_1490
+BRE2|SEQ00440	268606804	VBIBifBre337368_0440	SEQ00440	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		glycosyl transferase family 2	FIG01446397	figfam	clust_1490
+BRE4|SEQ00399	268610865	VBIBifBre327712_0399	SEQ00399	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		glycosyl transferase family 2	FIG01446397	figfam	clust_1490
+BRE6|SEQ00032	177653153	VBIBifBre268992_0032	SEQ00032	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS		glycosyl transferase family 2	FIG01446397	figfam	clust_1490
+BRE8|SEQ00440	268623416	VBIBifBre176493_0440	SEQ00440	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		glycosyl transferase family 2	FIG01446397	figfam	clust_1490
+BRE9|SEQ00492	58445046	VBIBifBre30019_0492	SEQ00492	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		glycosyl transferase family 2	FIG01446397	figfam	clust_1490
+GV17|SEQ01194	37852489	VBIGarVag146634_1194	SEQ01194	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	NA	Ubiquitin-protein ligase	FIG01308320	figfam	clust_1490
+THE1|SEQ00068	124733297	VBIBifThe274299_0068	SEQ00068	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		Beta-1,3-glucosyltransferase	FIG00086697	figfam	clust_1490

@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01289	VBIBifBif87902_1289	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885156	1553521	1553643	+	123	rpmJ	LSU ribosomal protein L36p	BIF1	clust_2556
+BRE3|SEQ01291	VBIBifBre167886_1291	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194320	1498642	1498764	+	123	rpmJ_1	LSU ribosomal protein L36p	BRE3	clust_2556
+BRE6|SEQ00396	VBIBifBre268992_0396	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653917	2505	2627	+	123		LSU ribosomal protein L36p	BRE6	clust_2556
+BRE7|SEQ00546	VBIBifBre340732_0546	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619522	673239	673361	-	123		LSU ribosomal protein L36p	BRE7	clust_2556
+BRE8|SEQ00573	VBIBifBre176493_0573	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623687	716409	716531	-	123		LSU ribosomal protein L36p	BRE8	clust_2556
+THE1|SEQ00087	VBIBifThe274299_0087	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733337	106538	106660	-	123		LSU ribosomal protein L36p	THE1	clust_2556

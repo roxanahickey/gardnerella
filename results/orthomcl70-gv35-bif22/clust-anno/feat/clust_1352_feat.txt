@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00163	VBIBifAdo136061_0163	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186542	104636	106039	-	1404		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	ADO1	clust_1352
+ANI1|SEQ01395	VBIBifAni240121_1395	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847797	1654901	1656373	-	1473	wzc	Tyrosine-protein kinase Wzc (EC 2.7.10.2)	ANI1	clust_1352
+ANI2|SEQ01394	VBIBifAni235968_1394	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851148	1655120	1656592	-	1473	wzc	Tyrosine-protein kinase Wzc (EC 2.7.10.2)	ANI2	clust_1352
+ANI3|SEQ01404	VBIBifAni108068_1404	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765168	1660351	1661823	-	1473		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	ANI3	clust_1352
+BRE1|SEQ00402	VBIBifBre340958_0402	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602757	497993	499429	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE1	clust_1352
+BRE2|SEQ00459	VBIBifBre337368_0459	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606842	553986	555422	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE2	clust_1352
+BRE3|SEQ01402	VBIBifBre167886_1402	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194546	1638299	1639735	-	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE3	clust_1352
+BRE4|SEQ00424	VBIBifBre327712_0424	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610916	530032	531468	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE4	clust_1352
+BRE5|SEQ00435	VBIBifBre336369_0436	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614985	511677	513113	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE5	clust_1352
+BRE6|SEQ01418	VBIBifBre268992_1418	Bifidobacterium breve JCP7499	AWSX01000069	PATRIC	CDS	177656087	4365	5801	-	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE6	clust_1352
+BRE7|SEQ00432	VBIBifBre340732_0432	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619289	531524	532960	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE7	clust_1352
+BRE8|SEQ00464	VBIBifBre176493_0464	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623465	575558	576994	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE8	clust_1352
+BRE9|SEQ00518	VBIBifBre30019_0518	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445099	625221	626657	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	BRE9	clust_1352
+DEN1|SEQ00960	VBIBifDen165269_0961	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459043	99499	100977	+	1479		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	DEN1	clust_1352
+DEN2|SEQ01507	VBIBifDen39005_1508	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111403	124750	126144	-	1395		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	DEN2	clust_1352
+INF1|SEQ00406	VBIBifLon182273_0406	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884750	505930	507366	+	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	INF1	clust_1352
+LON1|SEQ00944	VBIBifLon107831_0945	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118965	1114888	1116324	-	1437		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	LON1	clust_1352
+LON2|SEQ01039	VBIBifLon171405_1040	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581625	1183662	1185140	-	1479		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	LON2	clust_1352
+LON3|SEQ00817	VBIBifLon156230_0817	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768608	1730223	1731653	-	1431		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	LON3	clust_1352
+LON4|SEQ00376	VBIBifLon48544_0376	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888990	464755	466233	+	1479		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	LON4	clust_1352
+THE1|SEQ00396	VBIBifThe274299_0396	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733967	478125	479525	+	1401		Tyrosine-protein kinase Wzc (EC 2.7.10.2)	THE1	clust_1352

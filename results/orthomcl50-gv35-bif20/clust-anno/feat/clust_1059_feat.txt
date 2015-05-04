@@ -1,0 +1,27 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00413	VBIGarVag247424_0413	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500231	29714	29980	+	267		Phosphocarrier protein of PTS system	GV03	clust_1059
+GV05|SEQ00165	VBIGarVag174900_0165	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546039	67664	67930	-	267		Phosphocarrier protein of PTS system	GV05	clust_1059
+GV07|SEQ01034	VBIGarVag249177_1034	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493754	29597	29863	+	267		Phosphocarrier protein of PTS system	GV07	clust_1059
+GV10|SEQ01118	VBIGarVag136958_1118	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148334	1516094	1516360	+	267		Phosphocarrier protein of PTS system	GV10	clust_1059
+GV12|SEQ00024	VBIGarVag144721_0024	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852698	30715	30981	+	267		Phosphocarrier protein of PTS system	GV12	clust_1059
+GV14|SEQ00928	VBIGarVag244375_0928	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503751	62969	63235	-	267		Phosphocarrier protein of PTS system	GV14	clust_1059
+GV15|SEQ00050	VBIGarVag249709_0050	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483586	60135	60401	-	267		Phosphocarrier protein of PTS system	GV15	clust_1059
+GV17|SEQ00023	VBIGarVag146634_0023	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850042	30736	31002	+	267		Phosphocarrier protein of PTS system	GV17	clust_1059
+ADO1|SEQ00471	VBIBifAdo136061_0471	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187205	311858	312118	-	261		Phosphotransferase system, phosphocarrier protein HPr	ADO1	clust_1059
+BIF1|SEQ01714	VBIBifBif87902_1714	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886051	2059010	2059270	+	261	ptsH	Phosphocarrier protein of PTS system	BIF1	clust_1059
+BRE1|SEQ00169	VBIBifBre340958_0169	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602264	223684	223944	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE1	clust_1059
+BRE2|SEQ00168	VBIBifBre337368_0168	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606235	218915	219175	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE2	clust_1059
+BRE3|SEQ00188	VBIBifBre167886_0188	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192024	242914	243174	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE3	clust_1059
+BRE4|SEQ00189	VBIBifBre327712_0189	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610419	248183	248443	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE4	clust_1059
+BRE5|SEQ00183	VBIBifBre336369_0183	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614457	226788	227048	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE5	clust_1059
+BRE6|SEQ00168	VBIBifBre268992_0168	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653444	25555	25815	+	261		Phosphotransferase system, phosphocarrier protein HPr	BRE6	clust_1059
+BRE6|SEQ00326	VBIBifBre268992_0326	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS	177653769	23581	23841	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE6	clust_1059
+BRE7|SEQ00162	VBIBifBre340732_0162	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618723	214491	214751	-	261		Phosphotransferase system, phosphocarrier protein HPr	BRE7	clust_1059
+BRE8|SEQ00189	VBIBifBre176493_0189	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622890	245851	246111	-	261	ptsH	Phosphotransferase system, phosphocarrier protein HPr	BRE8	clust_1059
+BRE9|SEQ00196	VBIBifBre30019_0196	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444424	258718	258978	-	261	ptsH	Phosphotransferase system, phosphocarrier protein HPr	BRE9	clust_1059
+INF1|SEQ00209	VBIBifLon182273_0209	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884337	269929	270189	+	261		Phosphotransferase system, phosphocarrier protein HPr	INF1	clust_1059
+LON1|SEQ01156	VBIBifLon107831_1157	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119405	1349627	1349887	-	261	ptsH	Phosphotransferase system, phosphocarrier protein HPr	LON1	clust_1059
+LON2|SEQ01188	VBIBifLon171405_1190	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581939	1361082	1361342	-	261	ptsH	Phosphotransferase system, phosphocarrier protein HPr	LON2	clust_1059
+LON3|SEQ01269	VBIBifLon156230_1271	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769135	1993943	1994203	-	261		Phosphotransferase system, phosphocarrier protein HPr	LON3	clust_1059
+LON4|SEQ00228	VBIBifLon48544_0228	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888678	289064	289324	+	261		Phosphotransferase system, phosphocarrier protein HPr	LON4	clust_1059
+THE1|SEQ00245	VBIBifThe274299_0245	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733656	289105	289368	-	264		Phosphotransferase system, phosphocarrier protein HPr	THE1	clust_1059

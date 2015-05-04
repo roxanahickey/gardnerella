@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00146	86882796	VBIBifBif87902_0146	SEQ00146	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		LSU m3Psi1915 methyltransferase RlmH	FIG01280345	figfam	clust_1322
+DEN1|SEQ00108	43461469	VBIBifDen165269_0108	SEQ00108	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		LSU m3Psi1915 methyltransferase RlmH	FIG01280345	figfam	clust_1322
+DEN2|SEQ01896	42112208	VBIBifDen39005_1897	SEQ01896	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS		LSU m3Psi1915 methyltransferase RlmH	FIG01280345	figfam	clust_1322
+THE1|SEQ01587	124736431	VBIBifThe274299_1587	SEQ01587	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		LSU m3Psi1915 methyltransferase RlmH	FIG01280345	figfam	clust_1322

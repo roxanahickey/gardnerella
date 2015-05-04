@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00161	VBIBifAni240121_0161	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845223	189540	189857	-	318		ABC lipoprotein transporter, permease component	ANI1	clust_3537
+ANI2|SEQ00161	VBIBifAni235968_0161	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848578	189541	189858	-	318		ABC lipoprotein transporter, permease component	ANI2	clust_3537
+ANI3|SEQ00163	VBIBifAni108068_0163	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762594	189541	189858	-	318		ABC lipoprotein transporter, permease component	ANI3	clust_3537

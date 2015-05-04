@@ -1,0 +1,24 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01532	VBIBifAdo136061_1532	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189424	198703	199647	+	945		possible glycosyltransferase	ADO1	clust_1128
+ANI1|SEQ01363	VBIBifAni240121_1363	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847733	1610224	1611162	-	939		possible glycosyltransferase	ANI1	clust_1128
+ANI2|SEQ01363	VBIBifAni235968_1363	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851086	1610442	1611449	-	1008		possible glycosyltransferase	ANI2	clust_1128
+ANI3|SEQ01373	VBIBifAni108068_1373	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765106	1615673	1616611	-	939		possible glycosyltransferase	ANI3	clust_1128
+BIF1|SEQ00050	VBIBifBif87902_0050	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882597	62196	63140	-	945	wcaA	possible glycosyltransferase	BIF1	clust_1128
+BRE1|SEQ01780	VBIBifBre340958_1781	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605619	2079775	2080740	+	966		possible glycosyltransferase	BRE1	clust_1128
+BRE2|SEQ01882	VBIBifBre337368_1882	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609798	2182523	2183488	+	966		possible glycosyltransferase	BRE2	clust_1128
+BRE3|SEQ01844	VBIBifBre167886_1844	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195471	2149907	2150872	+	966		possible glycosyltransferase	BRE3	clust_1128
+BRE7|SEQ01870	VBIBifBre340732_1870	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622272	2156520	2157485	+	966		possible glycosyltransferase	BRE7	clust_1128
+BRE8|SEQ01832	VBIBifBre176493_1832	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626309	2134448	2135413	+	966		possible glycosyltransferase	BRE8	clust_1128
+BRE9|SEQ01933	VBIBifBre30019_1933	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448038	2235048	2235989	+	942		possible glycosyltransferase	BRE9	clust_1128
+GV10|SEQ01047	VBIGarVag136958_1047	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148182	1396220	1397152	+	933		Glycosyltransferase	GV10	clust_1128
+GV12|SEQ00454	VBIGarVag144721_0454	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853587	505086	506018	+	933		Glycosyltransferase	GV12	clust_1128
+GV33|SEQ01252	VBIGarVag265557_1252	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003450	16181	17107	+	927		Glycosyltransferase	GV33	clust_1128
+GV34|SEQ00106	VBIGarVag270440_0106	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003705	16211	17137	+	927		Glycosyltransferase	GV34	clust_1128
+INF1|SEQ01921	VBIBifLon182273_1921	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887900	2205627	2206568	+	942		possible glycosyltransferase	INF1	clust_1128
+LON1|SEQ01505	VBIBifLon107831_1506	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120140	1824585	1825541	-	957		possible glycosyltransferase	LON1	clust_1128
+LON1|SEQ01514	VBIBifLon107831_1515	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120158	1835181	1836137	+	957		possible glycosyltransferase	LON1	clust_1128
+LON2|SEQ01534	VBIBifLon171405_1537	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582663	1836540	1837484	-	945	wcaA3	possible glycosyltransferase	LON2	clust_1128
+LON2|SEQ01551	VBIBifLon171405_1554	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582697	1859814	1860767	+	954		possible glycosyltransferase	LON2	clust_1128
+LON3|SEQ01800	VBIBifLon156230_1803	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766789	677059	678000	+	942		possible glycosyltransferase	LON3	clust_1128
+LON4|SEQ01873	VBIBifLon48544_1873	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892149	2172455	2173210	+	756		possible glycosyltransferase	LON4	clust_1128
+THE1|SEQ00384	VBIBifThe274299_0384	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733943	456916	457869	-	954		possible glycosyltransferase	THE1	clust_1128

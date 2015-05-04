@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00803	VBIBifBre340958_0803	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603590	965655	966467	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE1	clust_2088
+BRE2|SEQ00884	VBIBifBre337368_0884	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607724	1047719	1048531	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE2	clust_2088
+BRE3|SEQ00987	VBIBifBre167886_0987	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193686	1156793	1157605	+	813	nagB_3	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE3	clust_2088
+BRE4|SEQ00831	VBIBifBre327712_0831	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611761	1004109	1004921	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE4	clust_2088
+BRE5|SEQ00833	VBIBifBre336369_0834	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615811	986863	987675	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE5	clust_2088
+BRE6|SEQ01777	VBIBifBre268992_1777	Bifidobacterium breve JCP7499	AWSX01000082	PATRIC	CDS	177656861	448	1260	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE6	clust_2088
+BRE7|SEQ00833	VBIBifBre340732_0833	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620123	996149	996961	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE7	clust_2088
+BRE8|SEQ00859	VBIBifBre176493_0859	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624283	1039264	1040076	-	813	nagB2	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE8	clust_2088
+BRE9|SEQ00918	VBIBifBre30019_0918	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445932	1095119	1095931	-	813	nagB2	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	BRE9	clust_2088

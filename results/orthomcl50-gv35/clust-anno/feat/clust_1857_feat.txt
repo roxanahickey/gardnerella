@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00772	VBIGarVag242669_0772	Gardnerella vaginalis 00703C2mash	ADEU01000015	PATRIC	CDS	85498381	34068	38828	-	4761		hypothetical protein	GV02	clust_1857
+GV03|SEQ00787	VBIGarVag247424_0787	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501007	84808	89634	+	4827		DNA helicase related protein	GV03	clust_1857
+GV15|SEQ00647	VBIGarVag249709_0647	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484841	94635	99437	+	4803		hypothetical protein	GV15	clust_1857

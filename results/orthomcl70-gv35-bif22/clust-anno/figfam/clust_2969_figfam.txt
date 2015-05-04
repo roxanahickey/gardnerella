@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01072	27188466	VBIBifAdo136061_1072	SEQ01072	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Phage terminase, large subunit	FIG01304530	figfam	clust_2969
+BRE5|SEQ00952	268616054	VBIBifBre336369_0953	SEQ00952	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Phage terminase, large subunit	FIG01304530	figfam	clust_2969
+DEN1|SEQ01858	43460875	VBIBifDen165269_1859	SEQ01858	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Phage terminase, large subunit	FIG01304530	figfam	clust_2969
+DEN2|SEQ00801	42109947	VBIBifDen39005_0801	SEQ00801	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS		Phage terminase, large subunit	FIG01304530	figfam	clust_2969
+INF1|SEQ00854	46885679	VBIBifLon182273_0854	SEQ00854	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Phage terminase, large subunit	FIG01304530	figfam	clust_2969

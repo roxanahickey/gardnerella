@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE8|SEQ01131	268624851	VBIBifBre176493_1131	SEQ01131	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		ABC-type amino acid transport system, permease component	FIG00782350	figfam	clust_3482
+LON1|SEQ00350	21117741	VBIBifLon107831_0350	SEQ00350	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		ABC-type amino acid transport system, permease component	FIG00782350	figfam	clust_3482
+LON3|SEQ00216	42767365	VBIBifLon156230_0216	SEQ00216	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		ABC-type amino acid transport system, permease component	FIG00782350	figfam	clust_3482

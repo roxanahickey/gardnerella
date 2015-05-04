@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV09|SEQ00367	VBIGarVag169280_0367	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259901	66696	67172	-	477		Single-stranded DNA-binding protein	GV09	clust_1652
+GV26|SEQ00077	VBIGarVag272749_0077	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980889	18723	19217	-	495		Single-stranded DNA-binding protein	GV26	clust_1652
+GV27|SEQ00067	VBIGarVag276930_0067	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983845	42969	43463	+	495		Single-stranded DNA-binding protein	GV27	clust_1652
+GV31|SEQ00490	VBIGarVag264983_0490	Gardnerella vaginalis JCP8151A	ATJI01000019	PATRIC	CDS	183996049	6079	6555	+	477		Single-stranded DNA-binding protein	GV31	clust_1652
+GV32|SEQ00759	VBIGarVag277040_0759	Gardnerella vaginalis JCP8151B	ATJH01000050	PATRIC	CDS	183999446	6071	6547	+	477		Single-stranded DNA-binding protein	GV32	clust_1652

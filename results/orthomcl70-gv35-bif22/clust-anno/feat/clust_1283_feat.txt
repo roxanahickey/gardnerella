@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01844	VBIBifAdo136061_1844	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190059	353059	354459	-	1401		Histidinol dehydrogenase (EC 1.1.1.23)	ADO1	clust_1283
+ANI1|SEQ01216	VBIBifAni240121_1216	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847423	1413534	1414916	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	ANI1	clust_1283
+ANI2|SEQ01216	VBIBifAni235968_1216	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850776	1413538	1414920	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	ANI2	clust_1283
+ANI3|SEQ01224	VBIBifAni108068_1224	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764794	1418986	1420368	-	1383	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	ANI3	clust_1283
+BIF1|SEQ00500	VBIBifBif87902_0500	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883535	624193	625590	+	1398	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	BIF1	clust_1283
+BRE1|SEQ01254	VBIBifBre340958_1254	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604518	1472636	1474033	-	1398		Histidinol dehydrogenase (EC 1.1.1.23)	BRE1	clust_1283
+BRE2|SEQ01344	VBIBifBre337368_1344	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608672	1548917	1550299	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	BRE2	clust_1283
+BRE3|SEQ00567	VBIBifBre167886_0567	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192815	694566	695963	+	1398	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	BRE3	clust_1283
+BRE4|SEQ01285	VBIBifBre327712_1285	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612695	1495984	1497381	-	1398		Histidinol dehydrogenase (EC 1.1.1.23)	BRE4	clust_1283
+BRE5|SEQ01408	VBIBifBre336369_1409	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616998	1574830	1576212	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	BRE5	clust_1283
+BRE6|SEQ01970	VBIBifBre268992_1970	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657254	168544	169926	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	BRE6	clust_1283
+BRE7|SEQ01296	VBIBifBre340732_1296	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621077	1498011	1499393	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	BRE7	clust_1283
+BRE8|SEQ01323	VBIBifBre176493_1323	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625241	1544439	1545821	-	1383	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	BRE8	clust_1283
+BRE9|SEQ01379	VBIBifBre30019_1379	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446883	1600909	1602306	-	1398	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	BRE9	clust_1283
+DEN1|SEQ01186	VBIBifDen165269_1187	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459501	399380	400897	+	1518	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	DEN1	clust_1283
+DEN2|SEQ01399	VBIBifDen39005_1400	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS	42111186	55768	57240	+	1473	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	DEN2	clust_1283
+INF1|SEQ01385	VBIBifLon182273_1385	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886774	1571891	1573288	-	1398		Histidinol dehydrogenase (EC 1.1.1.23)	INF1	clust_1283
+LON1|SEQ00144	VBIBifLon107831_0144	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117323	167562	168959	+	1398	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	LON1	clust_1283
+LON2|SEQ00189	VBIBifLon171405_0190	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579881	211508	212890	+	1383	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	LON2	clust_1283
+LON3|SEQ01877	VBIBifLon156230_1880	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766946	784498	785895	+	1398		Histidinol dehydrogenase (EC 1.1.1.23)	LON3	clust_1283
+LON4|SEQ01351	VBIBifLon48544_1351	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891047	1530141	1531523	-	1383		Histidinol dehydrogenase (EC 1.1.1.23)	LON4	clust_1283
+THE1|SEQ00587	VBIBifThe274299_0587	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734352	742002	743399	+	1398	hisD	Histidinol dehydrogenase (EC 1.1.1.23)	THE1	clust_1283

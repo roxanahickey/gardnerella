@@ -1,0 +1,33 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00856	VBIGarVag247323_0856	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495881	71164	72615	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV01	clust_0985
+GV02|SEQ01202	VBIGarVag242669_1202	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499281	189197	190573	-	1377		archaeal ATPase, fused to C-terminal DUF234 domain	GV02	clust_0985
+GV03|SEQ00271	VBIGarVag247424_0271	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499925	220800	222251	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV03	clust_0985
+GV04|SEQ00080	VBIGarVag246433_0080	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480008	83966	85417	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV04	clust_0985
+GV05|SEQ00372	VBIGarVag174900_0372	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546469	219285	220736	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV05	clust_0985
+GV06|SEQ00632	VBIGarVag244004_0632	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490045	83233	84684	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV06	clust_0985
+GV08|SEQ01145	VBIGarVag251521_1145	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476739	250860	252311	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV08	clust_0985
+GV09|SEQ01177	VBIGarVag169280_1177	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261583	37353	38804	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV09	clust_0985
+GV11|SEQ01184	VBIGarVag171052_1184	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550777	59983	61434	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV11	clust_0985
+GV13|SEQ01044	VBIGarVag244533_1044	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488105	34340	35716	-	1377		archaeal ATPase, fused to C-terminal DUF234 domain	GV13	clust_0985
+GV16|SEQ00297	VBIGarVag246379_0297	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477714	254991	256442	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV16	clust_0985
+GV18|SEQ00455	VBIGarVag4823_0455	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000099	PATRIC	CDS	42069644	4862	6313	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV18	clust_0985
+GV19|SEQ01315	VBIGarVag39333_1318	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629567	1637342	1638793	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV19	clust_0985
+GV20|SEQ00181	VBIGarVag188338_0181	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189148	209193	210644	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV20	clust_0985
+GV21|SEQ00752	VBIGarVag274454_0753	Gardnerella vaginalis JCP7275	ATJS01000050	PATRIC	CDS	183968213	10718	12169	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV21	clust_0985
+GV22|SEQ00614	VBIGarVag276801_0615	Gardnerella vaginalis JCP7276	ATJR01000020	PATRIC	CDS	183970666	6352	7803	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV22	clust_0985
+GV23|SEQ00369	VBIGarVag276017_0369	Gardnerella vaginalis JCP7659	ATJQ01000025	PATRIC	CDS	183973065	14240	15691	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV23	clust_0985
+GV26|SEQ00661	VBIGarVag272749_0661	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982119	14247	15698	+	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV26	clust_0985
+GV27|SEQ00866	VBIGarVag276930_0866	Gardnerella vaginalis JCP8017B	ATJM01000043	PATRIC	CDS	183985531	10773	12224	-	1452		archaeal ATPase, fused to C-terminal DUF234 domain	GV27	clust_0985
+GV30|SEQ00295	VBIGarVag267667_0296	Gardnerella vaginalis JCP8108	ATJJ01000010	PATRIC	CDS	183992649	12303	13766	+	1464		archaeal ATPase, fused to C-terminal DUF234 domain	GV30	clust_0985
+BRE2|SEQ00136	VBIBifBre337368_0136	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606170	180437	180724	+	288		archaeal ATPase, fused to C-terminal DUF234 domain	BRE2	clust_0985
+BRE3|SEQ00144	VBIBifBre167886_0144	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191933	191841	192128	+	288		archaeal ATPase, fused to C-terminal DUF234 domain	BRE3	clust_0985
+BRE5|SEQ00151	VBIBifBre336369_0151	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614391	188305	188592	+	288		archaeal ATPase, fused to C-terminal DUF234 domain	BRE5	clust_0985
+BRE6|SEQ02065	VBIBifBre268992_2065	Bifidobacterium breve JCP7499	AWSX01000096	PATRIC	CDS	177657462	5070	5357	+	288		archaeal ATPase, fused to C-terminal DUF234 domain	BRE6	clust_0985
+BRE7|SEQ00132	VBIBifBre340732_0132	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618662	176010	176297	+	288		archaeal ATPase, fused to C-terminal DUF234 domain	BRE7	clust_0985
+BRE9|SEQ00155	VBIBifBre30019_0155	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444340	207647	207934	+	288		archaeal ATPase, fused to C-terminal DUF234 domain	BRE9	clust_0985
+INF1|SEQ01959	VBIBifLon182273_1959	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887978	2268588	2270000	-	1413		archaeal ATPase, fused to C-terminal DUF234 domain	INF1	clust_0985
+LON1|SEQ01363	VBIBifLon107831_1364	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119839	1612791	1614212	-	1422		archaeal ATPase, fused to C-terminal DUF234 domain	LON1	clust_0985
+LON1|SEQ01450	VBIBifLon107831_1451	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120028	1741614	1743026	+	1413		archaeal ATPase, fused to C-terminal DUF234 domain	LON1	clust_0985
+LON2|SEQ01495	VBIBifLon171405_1498	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582583	1773553	1774893	+	1341		archaeal ATPase, fused to C-terminal DUF234 domain	LON2	clust_0985
+LON3|SEQ01859	VBIBifLon156230_1862	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766910	761028	762440	-	1413		archaeal ATPase, fused to C-terminal DUF234 domain	LON3	clust_0985
+THE1|SEQ01362	VBIBifThe274299_1362	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735958	1689259	1690677	+	1419		archaeal ATPase, fused to C-terminal DUF234 domain	THE1	clust_0985

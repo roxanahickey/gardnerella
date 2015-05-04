@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00274	VBIGarVag247323_0274	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494671	6669	7844	-	1176		transporter, major facilitator family protein	GV01	clust_0984
+GV02|SEQ00677	VBIGarVag242669_0677	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498171	43469	44644	+	1176		transporter, major facilitator family protein	GV02	clust_0984
+GV04|SEQ01067	VBIGarVag246433_1067	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482055	13286	14572	-	1287		transporter, major facilitator family protein	GV04	clust_0984
+GV06|SEQ00681	VBIGarVag244004_0681	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490146	45174	46349	+	1176		transporter, major facilitator family protein	GV06	clust_0984
+GV08|SEQ00156	VBIGarVag251521_0156	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474683	192774	194060	+	1287		transporter, major facilitator family protein	GV08	clust_0984
+GV09|SEQ00984	VBIGarVag169280_0984	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261180	412205	413491	+	1287		transporter, major facilitator family protein	GV09	clust_0984
+GV11|SEQ00680	VBIGarVag171052_0680	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549707	44619	45905	+	1287		transporter, major facilitator family protein	GV11	clust_0984
+GV13|SEQ00621	VBIGarVag244533_0621	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487215	45189	46364	+	1176		transporter, major facilitator family protein	GV13	clust_0984
+GV16|SEQ00931	VBIGarVag246379_0931	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479029	1062288	1063574	+	1287		transporter, major facilitator family protein	GV16	clust_0984
+GV18|SEQ00171	VBIGarVag4823_0171	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000065	PATRIC	CDS	42069031	42	158	+	117		transporter, major facilitator family protein	GV18	clust_0984
+GV19|SEQ00686	VBIGarVag39333_0687	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628266	851354	852640	-	1287	fucP	transporter, major facilitator family protein	GV19	clust_0984
+GV20|SEQ00854	VBIGarVag188338_0854	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190542	1045558	1046844	+	1287		transporter, major facilitator family protein	GV20	clust_0984
+GV21|SEQ00307	VBIGarVag274454_0307	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967266	99142	100428	+	1287		transporter, major facilitator family protein	GV21	clust_0984
+GV22|SEQ00060	VBIGarVag276801_0060	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969505	73359	74645	-	1287		transporter, major facilitator family protein	GV22	clust_0984
+GV23|SEQ00109	VBIGarVag276017_0109	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972515	5077	6363	-	1287		transporter, major facilitator family protein	GV23	clust_0984
+GV24|SEQ01012	VBIGarVag268944_1013	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977255	101084	102370	+	1287		transporter, major facilitator family protein	GV24	clust_0984
+GV25|SEQ00719	VBIGarVag270495_0719	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979405	18087	19373	-	1287		transporter, major facilitator family protein	GV25	clust_0984
+GV26|SEQ00358	VBIGarVag272749_0358	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981494	5080	6366	-	1287		transporter, major facilitator family protein	GV26	clust_0984
+GV27|SEQ00124	VBIGarVag276930_0124	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983962	43492	44778	+	1287		transporter, major facilitator family protein	GV27	clust_0984
+GV28|SEQ00249	VBIGarVag271349_0249	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987161	12082	13368	-	1287		transporter, major facilitator family protein	GV28	clust_0984
+GV29|SEQ00864	VBIGarVag265473_0864	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991217	11430	12716	-	1287		transporter, major facilitator family protein	GV29	clust_0984
+GV30|SEQ00282	VBIGarVag267667_0283	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992622	53682	54968	+	1287		transporter, major facilitator family protein	GV30	clust_0984
+GV31|SEQ00004	VBIGarVag264983_0004	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995026	4238	5524	-	1287		transporter, major facilitator family protein	GV31	clust_0984
+GV32|SEQ00263	VBIGarVag277040_0263	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998374	87444	88730	-	1287		transporter, major facilitator family protein	GV32	clust_0984
+GV35|SEQ00136	VBIGarVag272169_0136	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006551	22643	23929	-	1287		transporter, major facilitator family protein	GV35	clust_0984

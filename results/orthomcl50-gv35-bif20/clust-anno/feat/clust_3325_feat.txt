@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01455	VBIBifAdo136061_1455	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189268	115056	115196	-	141		COG1403: Restriction endonuclease	ADO1	clust_3325
+BRE6|SEQ01005	VBIBifBre268992_1005	Bifidobacterium breve JCP7499	AWSX01000053	PATRIC	CDS	177655215	3113	3526	+	414		hypothetical protein	BRE6	clust_3325
+LON3|SEQ01226	VBIBifLon156230_1228	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769049	1950749	1951081	-	333		COG1403: Restriction endonuclease	LON3	clust_3325

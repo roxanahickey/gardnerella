@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01016	86847014	VBIBifAni240121_1016	SEQ01016	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein	FIG01329983	figfam	clust_3559
+ANI2|SEQ01016	86850367	VBIBifAni235968_1016	SEQ01016	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein	FIG01329983	figfam	clust_3559
+ANI3|SEQ01020	42764381	VBIBifAni108068_1020	SEQ01020	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein	FIG01329983	figfam	clust_3559

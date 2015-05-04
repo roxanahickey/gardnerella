@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00522	VBIGarVag247323_0522	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495189	271071	272102	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV01	clust_0160
+GV02|SEQ00850	VBIGarVag242669_0850	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498542	73412	74443	+	1032	hrcA	Heat-inducible transcription repressor HrcA	GV02	clust_0160
+GV03|SEQ00965	VBIGarVag247424_0965	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501376	319080	320111	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV03	clust_0160
+GV04|SEQ01037	VBIGarVag246433_1037	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481986	425147	426178	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV04	clust_0160
+GV05|SEQ01013	VBIGarVag174900_1013	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547807	731932	732963	-	1032		Heat-inducible transcription repressor HrcA	GV05	clust_0160
+GV06|SEQ01212	VBIGarVag244004_1212	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491251	59544	60575	+	1032	hrcA	Heat-inducible transcription repressor HrcA	GV06	clust_0160
+GV07|SEQ00318	VBIGarVag249177_0318	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492253	130758	131789	+	1032	hrcA	Heat-inducible transcription repressor HrcA	GV07	clust_0160
+GV08|SEQ00055	VBIGarVag251521_0055	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474475	71310	72341	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV08	clust_0160
+GV09|SEQ00894	VBIGarVag169280_0894	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260995	295127	296158	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV09	clust_0160
+GV10|SEQ00788	VBIGarVag136958_0788	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147648	1026647	1027678	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV10	clust_0160
+GV11|SEQ00090	VBIGarVag171052_0090	Gardnerella vaginalis 41V	AEJE01000005	PATRIC	CDS	52548447	4259	5290	+	1032		Heat-inducible transcription repressor HrcA	GV11	clust_0160
+GV12|SEQ00230	VBIGarVag144721_0230	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853123	184950	185981	-	1032		Heat-inducible transcription repressor HrcA	GV12	clust_0160
+GV13|SEQ00225	VBIGarVag244533_0225	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486393	26764	27795	+	1032	hrcA	Heat-inducible transcription repressor HrcA	GV13	clust_0160
+GV14|SEQ01069	VBIGarVag244375_1069	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504049	145028	146059	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV14	clust_0160
+GV15|SEQ00133	VBIGarVag249709_0133	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483757	56517	57548	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV15	clust_0160
+GV16|SEQ00829	VBIGarVag246379_0829	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478819	940792	941823	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV16	clust_0160
+GV17|SEQ00770	VBIGarVag146634_0770	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851612	86733	87764	+	1032		Heat-inducible transcription repressor HrcA	GV17	clust_0160
+GV18|SEQ00474	VBIGarVag4823_0474	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000101	PATRIC	CDS	42069684	9522	10553	+	1032	hrcA	Heat-inducible transcription repressor HrcA	GV18	clust_0160
+GV19|SEQ00781	VBIGarVag39333_0782	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628460	968640	969671	+	1032	hrcA	Heat-inducible transcription repressor HrcA	GV19	clust_0160
+GV20|SEQ00766	VBIGarVag188338_0766	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190361	931650	932681	-	1032	hrcA	Heat-inducible transcription repressor HrcA	GV20	clust_0160
+GV21|SEQ00151	VBIGarVag274454_0151	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183966945	1350	2381	+	1032		Heat-inducible transcription repressor HrcA	GV21	clust_0160
+GV22|SEQ00514	VBIGarVag276801_0515	Gardnerella vaginalis JCP7276	ATJR01000014	PATRIC	CDS	183970460	43159	44190	-	1032		Heat-inducible transcription repressor HrcA	GV22	clust_0160
+GV23|SEQ00246	VBIGarVag276017_0246	Gardnerella vaginalis JCP7659	ATJQ01000013	PATRIC	CDS	183972797	4774	5805	+	1032		Heat-inducible transcription repressor HrcA	GV23	clust_0160
+GV24|SEQ00347	VBIGarVag268944_0348	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975818	1447	2478	+	1032		Heat-inducible transcription repressor HrcA	GV24	clust_0160
+GV25|SEQ01004	VBIGarVag270495_1004	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980053	6489	7520	+	1032		Heat-inducible transcription repressor HrcA	GV25	clust_0160
+GV26|SEQ00602	VBIGarVag272749_0602	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981998	164715	165746	-	1032		Heat-inducible transcription repressor HrcA	GV26	clust_0160
+GV27|SEQ00336	VBIGarVag276930_0336	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984413	7820	8851	+	1032		Heat-inducible transcription repressor HrcA	GV27	clust_0160
+GV28|SEQ00728	VBIGarVag271349_0728	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988211	3994	5025	+	1032		Heat-inducible transcription repressor HrcA	GV28	clust_0160
+GV29|SEQ00045	VBIGarVag265473_0045	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989449	7088	8119	+	1032		Heat-inducible transcription repressor HrcA	GV29	clust_0160
+GV30|SEQ00023	VBIGarVag267667_0023	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992083	1532	2563	+	1032		Heat-inducible transcription repressor HrcA	GV30	clust_0160
+GV31|SEQ00219	VBIGarVag264983_0219	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995479	7769	8800	+	1032		Heat-inducible transcription repressor HrcA	GV31	clust_0160
+GV32|SEQ01144	VBIGarVag277040_1144	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000335	70720	71751	-	1032		Heat-inducible transcription repressor HrcA	GV32	clust_0160
+GV33|SEQ00705	VBIGarVag265557_0705	Gardnerella vaginalis JCP8481A	ATJG01000071	PATRIC	CDS	184002180	491	1723	+	1233		Heat-inducible transcription repressor HrcA	GV33	clust_0160
+GV34|SEQ00621	VBIGarVag270440_0621	Gardnerella vaginalis JCP8481B	ATJF01000060	PATRIC	CDS	184004844	1389	2621	+	1233		Heat-inducible transcription repressor HrcA	GV34	clust_0160
+GV35|SEQ00101	VBIGarVag272169_0101	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006479	114805	115836	-	1032		Heat-inducible transcription repressor HrcA	GV35	clust_0160

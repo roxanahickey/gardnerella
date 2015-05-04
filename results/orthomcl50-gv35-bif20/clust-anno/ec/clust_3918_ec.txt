@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+BRE2|SEQ00546	268607020	VBIBifBre337368_0546	SEQ00546	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	NA	Uronate isomerase (EC 5.3.1.12)	5.3.1.12	Glucuronate isomerase	ec	clust_3918
+BRE6|SEQ00440	177654009	VBIBifBre268992_0440	SEQ00440	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS	NA	Uronate isomerase (EC 5.3.1.12)	5.3.1.12	Glucuronate isomerase	ec	clust_3918

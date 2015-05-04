@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00508	VBIBifAni240121_0508	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845959	604071	604280	+	210		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent	ANI1	clust_3596
+ANI2|SEQ00508	VBIBifAni235968_0508	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849313	604072	604281	+	210		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent	ANI2	clust_3596
+ANI3|SEQ00510	VBIBifAni108068_0510	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763326	604074	604283	+	210		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent	ANI3	clust_3596

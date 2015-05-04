@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV09|SEQ00350	VBIGarVag169280_0350	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259867	54856	55476	-	621		Phage major tail protein	GV09	clust_1663
+GV26|SEQ00058	VBIGarVag272749_0058	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980851	6952	7545	-	594		hypothetical protein	GV26	clust_1663
+GV27|SEQ00085	VBIGarVag276930_0085	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983881	54641	55234	+	594		hypothetical protein	GV27	clust_1663
+GV31|SEQ00961	VBIGarVag264983_0961	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	183997073	5012	5605	-	594		Phage major tail protein	GV31	clust_1663
+GV32|SEQ00780	VBIGarVag277040_0780	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	183999491	7747	8340	+	594		hypothetical protein	GV32	clust_1663

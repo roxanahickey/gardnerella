@@ -1,0 +1,40 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01095	VBIGarVag247323_1095	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496391	96628	98460	+	1833		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV01	clust_0012
+GV02|SEQ00344	VBIGarVag242669_0344	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497464	150951	152783	-	1833		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV02	clust_0012
+GV04|SEQ00382	VBIGarVag246433_0382	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480639	125186	126532	+	1347		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV04	clust_0012
+GV04|SEQ00758	VBIGarVag246433_0758	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481415	87120	89090	+	1971		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV04	clust_0012
+GV06|SEQ00330	VBIGarVag244004_0330	Gardnerella vaginalis 1400E	ADER01000008	PATRIC	CDS	85489386	24719	26698	-	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV06	clust_0012
+GV06|SEQ00720	VBIGarVag244004_0720	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490230	41152	42486	+	1335		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV06	clust_0012
+GV08|SEQ00622	VBIGarVag251521_0622	Gardnerella vaginalis 284V	ADEL01000007	PATRIC	CDS	85475660	34132	35466	-	1335		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV08	clust_0012
+GV08|SEQ00779	VBIGarVag251521_0779	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475984	137536	139506	-	1971		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV08	clust_0012
+GV09|SEQ00225	VBIGarVag169280_0225	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259613	47412	49391	-	1980	galT	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV09	clust_0012
+GV09|SEQ01316	VBIGarVag169280_1316	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261885	239418	240764	+	1347	galT	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV09	clust_0012
+GV11|SEQ00324	VBIGarVag171052_0324	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548949	26614	28593	-	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV11	clust_0012
+GV11|SEQ00713	VBIGarVag171052_0713	Gardnerella vaginalis 41V	AEJE01000044	PATRIC	CDS	52549775	10992	12326	-	1335		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV11	clust_0012
+GV13|SEQ00431	VBIGarVag244533_0431	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486822	25717	27696	-	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV13	clust_0012
+GV13|SEQ01001	VBIGarVag244533_1001	Gardnerella vaginalis 55152	ADEQ01000015	PATRIC	CDS	85488018	26343	27677	+	1335		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV13	clust_0012
+GV16|SEQ00448	VBIGarVag246379_0448	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478040	480587	481933	+	1347		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV16	clust_0012
+GV16|SEQ00535	VBIGarVag246379_0535	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478218	581699	583678	+	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV16	clust_0012
+GV18|SEQ00614	VBIGarVag4823_0614	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000115	PATRIC	CDS	42069990	3869	5215	-	1347		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV18	clust_0012
+GV18|SEQ01301	VBIGarVag4823_1301	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071445	78923	80902	+	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV18	clust_0012
+GV19|SEQ01076	VBIGarVag39333_1077	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629063	1315440	1317419	-	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV19	clust_0012
+GV19|SEQ01162	VBIGarVag39333_1164	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629237	1416805	1418151	-	1347		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV19	clust_0012
+GV20|SEQ00346	VBIGarVag188338_0346	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189503	447803	449149	+	1347	galT_1	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV20	clust_0012
+GV20|SEQ00431	VBIGarVag188338_0431	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189676	541157	543136	+	1980	galT_2	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV20	clust_0012
+GV21|SEQ00582	VBIGarVag274454_0583	Gardnerella vaginalis JCP7275	ATJS01000031	PATRIC	CDS	183967844	12255	14234	-	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV21	clust_0012
+GV21|SEQ00767	VBIGarVag274454_0768	Gardnerella vaginalis JCP7275	ATJS01000053	PATRIC	CDS	183968250	4166	5521	+	1356		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV21	clust_0012
+GV22|SEQ00184	VBIGarVag276801_0184	Gardnerella vaginalis JCP7276	ATJR01000003	PATRIC	CDS	183969761	7343	8689	+	1347		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV22	clust_0012
+GV22|SEQ00784	VBIGarVag276801_0785	Gardnerella vaginalis JCP7276	ATJR01000037	PATRIC	CDS	183971027	7313	9292	+	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV22	clust_0012
+GV23|SEQ00987	VBIGarVag276017_0987	Gardnerella vaginalis JCP7659	ATJQ01000094	PATRIC	CDS	183974415	4	1371	+	1368		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV23	clust_0012
+GV24|SEQ00470	VBIGarVag268944_0471	Gardnerella vaginalis JCP7672	ATJP01000023	PATRIC	CDS	183976075	15501	16847	+	1347		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV24	clust_0012
+GV24|SEQ00622	VBIGarVag268944_0623	Gardnerella vaginalis JCP7672	ATJP01000042	PATRIC	CDS	183976415	4414	6393	-	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV24	clust_0012
+GV25|SEQ00933	VBIGarVag270495_0933	Gardnerella vaginalis JCP7719	ATJO01000094	PATRIC	CDS	183979879	2627	3961	-	1335		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV25	clust_0012
+GV26|SEQ01129	VBIGarVag272749_1129	Gardnerella vaginalis JCP8017A	ATJN01000098	PATRIC	CDS	183983164	34	1395	+	1362		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV26	clust_0012
+GV27|SEQ01263	VBIGarVag276930_1263	Gardnerella vaginalis JCP8017B	ATJM01000145	PATRIC	CDS	183986446	7430	8581	-	1152		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV27	clust_0012
+GV28|SEQ00857	VBIGarVag271349_0857	Gardnerella vaginalis JCP8066	ATJL01000069	PATRIC	CDS	183988479	7504	9336	-	1833		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV28	clust_0012
+GV29|SEQ00951	VBIGarVag265473_0951	Gardnerella vaginalis JCP8070	ATJK01000076	PATRIC	CDS	183991398	37	1410	+	1374		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV29	clust_0012
+GV30|SEQ00622	VBIGarVag267667_0623	Gardnerella vaginalis JCP8108	ATJJ01000038	PATRIC	CDS	183993366	1008	2987	+	1980		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV30	clust_0012
+GV30|SEQ00761	VBIGarVag267667_0763	Gardnerella vaginalis JCP8108	ATJJ01000048	PATRIC	CDS	183993658	11005	12339	-	1335		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV30	clust_0012
+GV31|SEQ01007	VBIGarVag264983_1007	Gardnerella vaginalis JCP8151A	ATJI01000083	PATRIC	CDS	183997175	14	1387	+	1374		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV31	clust_0012
+GV32|SEQ00823	VBIGarVag277040_0823	Gardnerella vaginalis JCP8151B	ATJH01000060	PATRIC	CDS	183999586	1577	3403	+	1827		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV32	clust_0012
+GV35|SEQ00858	VBIGarVag272169_0858	Gardnerella vaginalis JCP8522	ATJE01000084	PATRIC	CDS	184008132	2518	3879	-	1362		Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)	GV35	clust_0012

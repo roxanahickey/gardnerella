@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00342	VBIBifAdo136061_0342	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186940	150142	150603	-	462		hypothetical protein	ADO1	clust_1482
+BIF1|SEQ00302	VBIBifBif87902_0302	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883131	370103	370555	-	453		Molecular chaperone (small heat shock protein)	BIF1	clust_1482
+BRE1|SEQ00072	VBIBifBre340958_0072	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602062	93268	93771	+	504		Molecular chaperone (small heat shock protein)	BRE1	clust_1482
+BRE2|SEQ00064	VBIBifBre337368_0064	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606018	85904	86407	+	504		Molecular chaperone (small heat shock protein)	BRE2	clust_1482
+BRE3|SEQ00070	VBIBifBre167886_0070	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191778	92215	92718	+	504		Molecular chaperone (small heat shock protein)	BRE3	clust_1482
+BRE4|SEQ00086	VBIBifBre327712_0086	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610205	112331	112834	+	504		Molecular chaperone (small heat shock protein)	BRE4	clust_1482
+BRE5|SEQ00073	VBIBifBre336369_0073	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614227	92347	92850	+	504		Molecular chaperone (small heat shock protein)	BRE5	clust_1482
+BRE6|SEQ01285	VBIBifBre268992_1285	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655799	44214	44717	-	504		Molecular chaperone (small heat shock protein)	BRE6	clust_1482
+BRE7|SEQ00063	VBIBifBre340732_0063	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618518	83401	83904	+	504		Molecular chaperone (small heat shock protein)	BRE7	clust_1482
+BRE8|SEQ00086	VBIBifBre176493_0086	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622677	108690	109193	+	504	hsp20	Molecular chaperone (small heat shock protein)	BRE8	clust_1482
+BRE9|SEQ00086	VBIBifBre30019_0086	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444196	108922	109425	+	504	hsp20	Molecular chaperone (small heat shock protein)	BRE9	clust_1482
+INF1|SEQ00062	VBIBifLon182273_0062	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884026	74632	75135	+	504		Molecular chaperone (small heat shock protein)	INF1	clust_1482
+LON1|SEQ01314	VBIBifLon107831_1315	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119737	1551126	1551629	-	504		Molecular chaperone (small heat shock protein)	LON1	clust_1482
+LON2|SEQ01346	VBIBifLon171405_1349	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582272	1557962	1558465	-	504	ibpA	Molecular chaperone (small heat shock protein)	LON2	clust_1482
+LON3|SEQ01425	VBIBifLon156230_1428	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769463	2199500	2200003	-	504		Molecular chaperone (small heat shock protein)	LON3	clust_1482
+LON4|SEQ00069	VBIBifLon48544_0069	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888341	87403	87906	+	504		Molecular chaperone (small heat shock protein)	LON4	clust_1482
+THE1|SEQ01632	VBIBifThe274299_1632	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736529	2022769	2023233	-	465		hypothetical protein	THE1	clust_1482

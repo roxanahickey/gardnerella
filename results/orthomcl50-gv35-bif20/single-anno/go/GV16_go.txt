@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV16|SEQ00531	85478210	VBIGarVag246379_0531	SEQ00531	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	ABC transporter permease protein	GO:0016020	membrane	go	NA
+GV16|SEQ00531	85478210	VBIGarVag246379_0531	SEQ00531	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	ABC transporter permease protein	GO:0006810	transport	go	NA
+GV16|SEQ00531	85478210	VBIGarVag246379_0531	SEQ00531	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	ABC transporter permease protein	GO:0005215	transporter activity	go	NA
+GV16|SEQ00859	85478879	VBIGarVag246379_0859	SEQ00859	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0015450	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	go	NA
+GV16|SEQ00859	85478879	VBIGarVag246379_0859	SEQ00859	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0009306	protein secretion	go	NA
+GV16|SEQ00859	85478879	VBIGarVag246379_0859	SEQ00859	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0016021	integral to membrane	go	NA

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE6|SEQ00298	VBIBifBre268992_0298	Bifidobacterium breve JCP7499	AWSX01000016	PATRIC	CDS	177653711	7222	8544	+	1323		extracellular solute-binding protein, family 1	BRE6	clust_3434
+DEN1|SEQ00796	VBIBifDen165269_0797	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462898	2306341	2307663	+	1323		extracellular solute-binding protein, family 1	DEN1	clust_3434
+DEN2|SEQ01058	VBIBifDen39005_1058	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110471	57329	58651	+	1323		extracellular solute-binding protein, family 1	DEN2	clust_3434

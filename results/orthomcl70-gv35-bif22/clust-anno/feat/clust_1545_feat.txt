@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00843	VBIBifAdo136061_0843	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187994	734682	735860	+	1179		Aspartate aminotransferase (EC 2.6.1.1)	ADO1	clust_1545
+ANI1|SEQ01262	VBIBifAni240121_1262	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847518	1463716	1464900	-	1185		Aspartate aminotransferase (EC 2.6.1.1)	ANI1	clust_1545
+ANI2|SEQ01262	VBIBifAni235968_1262	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850871	1463721	1464905	-	1185		Aspartate aminotransferase (EC 2.6.1.1)	ANI2	clust_1545
+ANI3|SEQ01271	VBIBifAni108068_1271	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764890	1469167	1470351	-	1185		Aspartate aminotransferase (EC 2.6.1.1)	ANI3	clust_1545
+BIF1|SEQ01114	VBIBifBif87902_1114	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884796	1334601	1335803	-	1203	mtnE	Aspartate aminotransferase (EC 2.6.1.1)	BIF1	clust_1545
+BRE1|SEQ00532	VBIBifBre340958_0532	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603021	661872	663122	+	1251		hypothetical protein	BRE1	clust_1545
+BRE2|SEQ00617	VBIBifBre337368_0617	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607164	747734	748984	+	1251		hypothetical protein	BRE2	clust_1545
+BRE3|SEQ01262	VBIBifBre167886_1262	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194262	1468558	1469808	-	1251		hypothetical protein	BRE3	clust_1545
+BRE4|SEQ00560	VBIBifBre327712_0560	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611192	697275	698525	+	1251		hypothetical protein	BRE4	clust_1545
+BRE5|SEQ00569	VBIBifBre336369_0570	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615257	684594	685844	+	1251		hypothetical protein	BRE5	clust_1545
+BRE6|SEQ01172	VBIBifBre268992_1172	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655561	109577	110827	-	1251		hypothetical protein	BRE6	clust_1545
+BRE7|SEQ00571	VBIBifBre340732_0571	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619572	700328	701578	+	1251		hypothetical protein	BRE7	clust_1545
+BRE8|SEQ00596	VBIBifBre176493_0596	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623733	741584	742834	+	1251		hypothetical protein	BRE8	clust_1545
+BRE9|SEQ00650	VBIBifBre30019_0650	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445368	793340	794590	+	1251		hypothetical protein	BRE9	clust_1545
+DEN1|SEQ00054	VBIBifDen165269_0054	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461353	1392354	1393529	-	1176	mtnV	Aspartate aminotransferase (EC 2.6.1.1)	DEN1	clust_1545
+DEN2|SEQ01840	VBIBifDen39005_1841	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112086	61855	63030	-	1176		Aspartate aminotransferase (EC 2.6.1.1)	DEN2	clust_1545
+THE1|SEQ01312	VBIBifThe274299_1312	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735850	1627313	1628539	-	1227		hypothetical protein	THE1	clust_1545

@@ -1,0 +1,45 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00038	VBIGarVag247323_0038	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494172	53559	54458	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV01	clust_0827
+GV02|SEQ00643	VBIGarVag242669_0643	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498100	289131	290030	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV02	clust_0827
+GV04|SEQ00544	VBIGarVag246433_0544	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480980	202737	203636	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV04	clust_0827
+GV06|SEQ01091	VBIGarVag244004_1091	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491008	54079	54978	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV06	clust_0827
+GV08|SEQ00251	VBIGarVag251521_0251	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474887	41207	42106	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV08	clust_0827
+GV09|SEQ00561	VBIGarVag169280_0561	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260311	314119	315018	+	900	rfbA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV09	clust_0827
+GV11|SEQ00700	VBIGarVag171052_0700	Gardnerella vaginalis 41V	AEJE01000043	PATRIC	CDS	52549748	15787	16686	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV11	clust_0827
+GV13|SEQ01283	VBIGarVag244533_1283	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488619	15716	16615	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV13	clust_0827
+GV16|SEQ01211	VBIGarVag246379_1211	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479623	1427460	1428359	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV16	clust_0827
+GV18|SEQ01062	VBIGarVag4823_1062	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000140	PATRIC	CDS	42070948	24694	25593	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV18	clust_0827
+GV19|SEQ00398	VBIGarVag39333_0399	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627659	483806	484705	-	900	rmlA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV19	clust_0827
+GV20|SEQ01119	VBIGarVag188338_1119	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191104	1402035	1402934	+	900	rfbA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV20	clust_0827
+GV21|SEQ00669	VBIGarVag274454_0670	Gardnerella vaginalis JCP7275	ATJS01000040	PATRIC	CDS	183968033	18595	19494	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV21	clust_0827
+GV22|SEQ00631	VBIGarVag276801_0632	Gardnerella vaginalis JCP7276	ATJR01000021	PATRIC	CDS	183970701	2914	3813	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV22	clust_0827
+GV23|SEQ01038	VBIGarVag276017_1038	Gardnerella vaginalis JCP7659	ATJQ01000106	PATRIC	CDS	183974531	16500	17399	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV23	clust_0827
+GV24|SEQ01233	VBIGarVag268944_1234	Gardnerella vaginalis JCP7672	ATJP01000169	PATRIC	CDS	183977820	2900	3799	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV24	clust_0827
+GV25|SEQ00950	VBIGarVag270495_0950	Gardnerella vaginalis JCP7719	ATJO01000103	PATRIC	CDS	183979925	3061	3960	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV25	clust_0827
+GV26|SEQ00828	VBIGarVag272749_0828	Gardnerella vaginalis JCP8017A	ATJN01000048	PATRIC	CDS	183982493	3096	3995	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV26	clust_0827
+GV27|SEQ01308	VBIGarVag276930_1308	Gardnerella vaginalis JCP8017B	ATJM01000172	PATRIC	CDS	183986567	3094	3993	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV27	clust_0827
+GV28|SEQ00657	VBIGarVag271349_0657	Gardnerella vaginalis JCP8066	ATJL01000048	PATRIC	CDS	183988048	3795	4694	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV28	clust_0827
+GV29|SEQ00315	VBIGarVag265473_0315	Gardnerella vaginalis JCP8070	ATJK01000013	PATRIC	CDS	183990012	22042	22941	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV29	clust_0827
+GV30|SEQ00676	VBIGarVag267667_0677	Gardnerella vaginalis JCP8108	ATJJ01000041	PATRIC	CDS	183993479	18471	19370	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV30	clust_0827
+GV31|SEQ01062	VBIGarVag264983_1062	Gardnerella vaginalis JCP8151A	ATJI01000099	PATRIC	CDS	183997313	3147	4046	-	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV31	clust_0827
+GV32|SEQ00517	VBIGarVag277040_0517	Gardnerella vaginalis JCP8151B	ATJH01000028	PATRIC	CDS	183998926	16367	17266	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV32	clust_0827
+GV35|SEQ00954	VBIGarVag272169_0954	Gardnerella vaginalis JCP8522	ATJE01000111	PATRIC	CDS	184008357	16412	17311	+	900		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GV35	clust_0827
+ADO1|SEQ00173	VBIBifAdo136061_0173	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186562	118189	119094	-	906		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	ADO1	clust_0827
+ANI1|SEQ01365	VBIBifAni240121_1365	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847737	1613342	1614232	-	891		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	ANI1	clust_0827
+ANI2|SEQ01365	VBIBifAni235968_1365	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851090	1613560	1614450	-	891		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	ANI2	clust_0827
+ANI3|SEQ01375	VBIBifAni108068_1375	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765110	1618791	1619681	-	891		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	ANI3	clust_0827
+BRE1|SEQ01775	VBIBifBre340958_1776	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605608	2073950	2074861	-	912		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE1	clust_0827
+BRE2|SEQ01878	VBIBifBre337368_1878	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609789	2176698	2177609	-	912		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE2	clust_0827
+BRE3|SEQ01839	VBIBifBre167886_1839	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195460	2144082	2144993	-	912	rfbA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE3	clust_0827
+BRE4|SEQ01825	VBIBifBre327712_1825	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613826	2117604	2118509	+	906		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE4	clust_0827
+BRE5|SEQ01943	VBIBifBre336369_1944	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618114	2182699	2183592	-	894		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE5	clust_0827
+BRE6|SEQ01293	VBIBifBre268992_1293	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655817	5063	5968	+	906		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE6	clust_0827
+BRE7|SEQ01865	VBIBifBre340732_1865	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622261	2150696	2151607	-	912		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE7	clust_0827
+BRE8|SEQ01827	VBIBifBre176493_1827	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626298	2128623	2129534	-	912	rmlA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE8	clust_0827
+BRE9|SEQ01929	VBIBifBre30019_1929	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448029	2229221	2230135	-	915	rmlA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	BRE9	clust_0827
+INF1|SEQ01917	VBIBifLon182273_1917	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887891	2199800	2200714	-	915		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	INF1	clust_0827
+LON1|SEQ00962	VBIBifLon107831_0963	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119001	1132138	1133043	-	906	rmlA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	LON1	clust_0827
+LON2|SEQ01539	VBIBifLon171405_1542	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582673	1842760	1843581	+	822	rfbA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	LON2	clust_0827
+LON3|SEQ01796	VBIBifLon156230_1799	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766781	671233	672147	-	915		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	LON3	clust_0827
+LON4|SEQ01864	VBIBifLon48544_1864	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892131	2161060	2162031	-	972		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	LON4	clust_0827
+THE1|SEQ00373	VBIBifThe274299_0373	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733921	436248	437156	+	909		Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	THE1	clust_0827

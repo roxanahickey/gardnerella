@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ01976	27190335	VBIBifAdo136061_1976	SEQ01976	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	NA	Maltose operon transcriptional repressor MalR, LacI family	GO:0003700	transcription factor activity	go	clust_2204
+ADO1|SEQ01976	27190335	VBIBifAdo136061_1976	SEQ01976	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	NA	Maltose operon transcriptional repressor MalR, LacI family	GO:0005622	intracellular	go	clust_2204

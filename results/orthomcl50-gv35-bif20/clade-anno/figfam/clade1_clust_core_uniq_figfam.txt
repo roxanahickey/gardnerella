@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00314	27186884	VBIBifAdo136061_0314	SEQ00314	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Catabolite control protein A	FIG00048507	figfam	clust_4353
+ADO1|SEQ01695	27189761	VBIBifAdo136061_1695	SEQ01695	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3173
+ADO1|SEQ01752	27189875	VBIBifAdo136061_1752	SEQ01752	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Transcriptional regulator, AraC family	FIG00510130	figfam	clust_4385
+ADO1|SEQ01962	27190301	VBIBifAdo136061_1962	SEQ01962	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_4394
+BIF1|SEQ00031	86882559	VBIBifBif87902_0031	SEQ00031	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		transcriptional regulator, LacI family	FIG00946344	figfam	clust_4353
+BIF1|SEQ01034	86884634	VBIBifBif87902_1034	SEQ01034	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		probable conserved transmembrane protein	FIG01741506	figfam	clust_4394
+BIF1|SEQ01085	86884738	VBIBifBif87902_1085	SEQ01085	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Transcriptional regulator, AraC family	FIG00510130	figfam	clust_4385
+BIF1|SEQ01171	86884915	VBIBifBif87902_1171	SEQ01171	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3173
+BIF1|SEQ01198	86884969	VBIBifBif87902_1198	SEQ01198	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3173

@@ -1,0 +1,22 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01744	VBIBifAdo136061_1744	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189859	240999	241703	-	705		regulatory protein, LuxR:Response regulator receiver	ADO1	clust_1360
+ANI1|SEQ01115	VBIBifAni240121_1115	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847217	1302810	1303466	+	657		regulatory protein, LuxR:Response regulator receiver	ANI1	clust_1360
+ANI2|SEQ01115	VBIBifAni235968_1115	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850570	1302814	1303470	+	657		regulatory protein, LuxR:Response regulator receiver	ANI2	clust_1360
+ANI3|SEQ01121	VBIBifAni108068_1121	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764587	1302815	1303471	+	657		regulatory protein, LuxR:Response regulator receiver	ANI3	clust_1360
+BIF1|SEQ00763	VBIBifBif87902_0763	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884072	942895	943587	-	693		regulatory protein, LuxR:Response regulator receiver	BIF1	clust_1360
+BRE1|SEQ00824	VBIBifBre340958_0824	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603632	987516	988169	-	654		regulatory protein, LuxR:Response regulator receiver	BRE1	clust_1360
+BRE2|SEQ00905	VBIBifBre337368_0905	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607766	1069589	1070242	-	654		regulatory protein, LuxR:Response regulator receiver	BRE2	clust_1360
+BRE3|SEQ00976	VBIBifBre167886_0976	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193664	1145286	1145939	+	654		regulatory protein, LuxR:Response regulator receiver	BRE3	clust_1360
+BRE4|SEQ00852	VBIBifBre327712_0852	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611803	1026226	1026879	-	654		regulatory protein, LuxR:Response regulator receiver	BRE4	clust_1360
+BRE5|SEQ00857	VBIBifBre336369_0858	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615860	1011060	1011713	-	654		regulatory protein, LuxR:Response regulator receiver	BRE5	clust_1360
+BRE6|SEQ00807	VBIBifBre268992_0807	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654786	15866	16519	+	654		regulatory protein, LuxR:Response regulator receiver	BRE6	clust_1360
+BRE7|SEQ00854	VBIBifBre340732_0854	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620165	1018254	1018907	-	654		regulatory protein, LuxR:Response regulator receiver	BRE7	clust_1360
+BRE8|SEQ00884	VBIBifBre176493_0884	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624334	1063871	1064524	-	654	bburE	regulatory protein, LuxR:Response regulator receiver	BRE8	clust_1360
+BRE9|SEQ00939	VBIBifBre30019_0939	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445974	1117070	1117708	-	639		regulatory protein, LuxR:Response regulator receiver	BRE9	clust_1360
+DEN1|SEQ01290	VBIBifDen165269_1291	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459709	526535	527197	+	663		regulatory protein, LuxR:Response regulator receiver	DEN1	clust_1360
+DEN2|SEQ00674	VBIBifDen39005_0674	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109683	50616	51278	+	663		regulatory protein, LuxR:Response regulator receiver	DEN2	clust_1360
+INF1|SEQ00770	VBIBifLon182273_0770	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885509	944192	944845	-	654		regulatory protein, LuxR:Response regulator receiver	INF1	clust_1360
+LON1|SEQ00603	VBIBifLon107831_0604	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118263	694911	695564	+	654		regulatory protein, LuxR:Response regulator receiver	LON1	clust_1360
+LON2|SEQ00663	VBIBifLon171405_0664	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580852	730274	730927	+	654		regulatory protein, LuxR:Response regulator receiver	LON2	clust_1360
+LON3|SEQ00470	VBIBifLon156230_0470	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767892	1305567	1306220	+	654		regulatory protein, LuxR:Response regulator receiver	LON3	clust_1360
+LON4|SEQ00742	VBIBifLon48544_0742	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889755	901526	902179	-	654		regulatory protein, LuxR:Response regulator receiver	LON4	clust_1360

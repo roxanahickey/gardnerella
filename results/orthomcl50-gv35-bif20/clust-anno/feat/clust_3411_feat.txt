@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00114	VBIBifAni240121_0114	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845129	134766	136061	-	1296		Oxidoreductase (EC 1.1.1.-)	ANI1	clust_3411
+ANI2|SEQ00114	VBIBifAni235968_0114	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848484	134766	136061	-	1296		Oxidoreductase (EC 1.1.1.-)	ANI2	clust_3411
+ANI3|SEQ00116	VBIBifAni108068_0116	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762500	134766	136061	-	1296		Oxidoreductase (EC 1.1.1.-)	ANI3	clust_3411

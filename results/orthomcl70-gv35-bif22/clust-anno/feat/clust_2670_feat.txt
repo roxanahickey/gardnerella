@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00786	VBIBifBre340958_0786	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603556	947120	949363	+	2244		Excinuclease ABC subunit A paralog of unknown function	BRE1	clust_2670
+BRE3|SEQ01003	VBIBifBre167886_1003	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193718	1173897	1176140	-	2244		Excinuclease ABC subunit A paralog of unknown function	BRE3	clust_2670
+BRE4|SEQ00814	VBIBifBre327712_0814	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611727	985576	987819	+	2244		Excinuclease ABC subunit A paralog of unknown function	BRE4	clust_2670
+BRE7|SEQ00816	VBIBifBre340732_0816	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620089	977617	979860	+	2244		Excinuclease ABC subunit A paralog of unknown function	BRE7	clust_2670
+BRE8|SEQ00841	VBIBifBre176493_0841	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624247	1020729	1022972	+	2244	drrC	Excinuclease ABC subunit A paralog of unknown function	BRE8	clust_2670
+BRE9|SEQ00888	VBIBifBre30019_0888	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445870	1066127	1068370	+	2244	drrC	Excinuclease ABC subunit A paralog of unknown function	BRE9	clust_2670

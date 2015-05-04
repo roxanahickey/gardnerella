@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01124	VBIBifDen165269_1125	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459375	316074	316976	+	903		Fructokinase (EC 2.7.1.4)	DEN1	clust_4891
+DEN2|SEQ02085	VBIBifDen39005_2087	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112609	87966	88868	+	903		Fructokinase (EC 2.7.1.4)	DEN2	clust_4891

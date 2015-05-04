@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00644	VBIBifAni240121_0644	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846237	755472	755687	+	216		Prokaryotic ubiquitin-like protein Pup	ANI1	clust_3628
+ANI2|SEQ00643	VBIBifAni235968_0643	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849588	755475	755690	+	216		Prokaryotic ubiquitin-like protein Pup	ANI2	clust_3628
+ANI3|SEQ00645	VBIBifAni108068_0645	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763600	755477	755692	+	216		Prokaryotic ubiquitin-like protein Pup	ANI3	clust_3628

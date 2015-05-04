@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00753	27187804	VBIBifAdo136061_0753	SEQ00753	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		possible TetR-type transcriptional regulator	FIG01480580	figfam	clust_3919
+DEN1|SEQ00838	43462984	VBIBifDen165269_0839	SEQ00838	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		possible TetR-type transcriptional regulator	FIG01480580	figfam	clust_3919
+DEN2|SEQ00342	42109007	VBIBifDen39005_0342	SEQ00342	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS		possible TetR-type transcriptional regulator	FIG01480580	figfam	clust_3919

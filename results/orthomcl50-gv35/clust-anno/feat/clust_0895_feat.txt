@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00736	VBIGarVag247323_0736	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495634	17488	18543	+	1056		transcriptional regulator, LacI family	GV01	clust_0895
+GV02|SEQ01013	VBIGarVag242669_1013	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498881	17883	18794	+	912		transcriptional regulator, LacI family	GV02	clust_0895
+GV03|SEQ00295	VBIGarVag247424_0295	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499973	252646	253710	+	1065		transcriptional regulator, LacI family	GV03	clust_0895
+GV04|SEQ01185	VBIGarVag246433_1185	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482299	17508	18566	+	1059		transcriptional regulator, LacI family	GV04	clust_0895
+GV05|SEQ00397	VBIGarVag174900_0397	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546519	251145	252209	+	1065		transcriptional regulator, LacI family	GV05	clust_0895
+GV06|SEQ00513	VBIGarVag244004_0513	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489785	22965	24020	-	1056		transcriptional regulator, LacI family	GV06	clust_0895
+GV07|SEQ01145	VBIGarVag249177_1145	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493991	46096	47160	-	1065		transcriptional regulator, LacI family	GV07	clust_0895
+GV08|SEQ00567	VBIGarVag251521_0567	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475549	13959	15020	+	1062		transcriptional regulator, LacI family	GV08	clust_0895
+GV09|SEQ01014	VBIGarVag169280_1014	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261249	17520	18578	+	1059		transcriptional regulator, LacI family	GV09	clust_0895
+GV10|SEQ01157	VBIGarVag136958_1157	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148412	1567917	1568960	-	1044		transcriptional regulator, LacI family	GV10	clust_0895
+GV11|SEQ00029	VBIGarVag171052_0029	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548320	39362	40423	-	1062		transcriptional regulator, LacI family	GV11	clust_0895
+GV12|SEQ00062	VBIGarVag144721_0062	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852774	79879	80613	-	735		transcriptional regulator, LacI family	GV12	clust_0895
+GV13|SEQ01203	VBIGarVag244533_1203	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488458	15957	17018	+	1062		transcriptional regulator, LacI family	GV13	clust_0895
+GV14|SEQ00157	VBIGarVag244375_0157	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502148	150703	151767	-	1065		transcriptional regulator, LacI family	GV14	clust_0895
+GV16|SEQ00020	VBIGarVag246379_0020	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477144	17626	18684	+	1059		transcriptional regulator, LacI family	GV16	clust_0895
+GV17|SEQ00412	VBIGarVag146634_0412	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850857	404067	405131	-	1065		transcriptional regulator, LacI family	GV17	clust_0895
+GV18|SEQ00758	VBIGarVag4823_0758	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070306	4377	5435	+	1059		transcriptional regulator, LacI family	GV18	clust_0895
+GV19|SEQ00218	VBIGarVag39333_0218	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627289	258474	259532	+	1059		transcriptional regulator, LacI family	GV19	clust_0895
+GV20|SEQ00099	VBIGarVag188338_0099	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188982	120933	121991	+	1059		transcriptional regulator, LacI family	GV20	clust_0895
+GV21|SEQ00637	VBIGarVag274454_0638	Gardnerella vaginalis JCP7275	ATJS01000039	PATRIC	CDS	183967968	10385	11446	+	1062		transcriptional regulator, LacI family	GV21	clust_0895
+GV22|SEQ00595	VBIGarVag276801_0596	Gardnerella vaginalis JCP7276	ATJR01000018	PATRIC	CDS	183970626	17381	18439	+	1059		transcriptional regulator, LacI family	GV22	clust_0895
+GV23|SEQ00535	VBIGarVag276017_0535	Gardnerella vaginalis JCP7659	ATJQ01000041	PATRIC	CDS	183973427	416	1471	-	1056		transcriptional regulator, LacI family	GV23	clust_0895
+GV24|SEQ00193	VBIGarVag268944_0194	Gardnerella vaginalis JCP7672	ATJP01000008	PATRIC	CDS	183975491	12023	13081	+	1059		transcriptional regulator, LacI family	GV24	clust_0895
+GV25|SEQ00482	VBIGarVag270495_0482	Gardnerella vaginalis JCP7719	ATJO01000039	PATRIC	CDS	183978896	17253	18290	+	1038		transcriptional regulator, LacI family	GV25	clust_0895
+GV26|SEQ01295	VBIGarVag272749_1295	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983572	21812	22867	-	1056		transcriptional regulator, LacI family	GV26	clust_0895
+GV27|SEQ00854	VBIGarVag276930_0854	Gardnerella vaginalis JCP8017B	ATJM01000042	PATRIC	CDS	183985506	17270	18307	+	1038		transcriptional regulator, LacI family	GV27	clust_0895
+GV29|SEQ00667	VBIGarVag265473_0667	Gardnerella vaginalis JCP8070	ATJK01000041	PATRIC	CDS	183990783	14050	15105	+	1056		transcriptional regulator, LacI family	GV29	clust_0895
+GV30|SEQ00159	VBIGarVag267667_0159	Gardnerella vaginalis JCP8108	ATJJ01000004	PATRIC	CDS	183992363	19722	20783	-	1062		transcriptional regulator, LacI family	GV30	clust_0895
+GV33|SEQ00682	VBIGarVag265557_0682	Gardnerella vaginalis JCP8481A	ATJG01000064	PATRIC	CDS	184002127	6079	7143	-	1065		transcriptional regulator, LacI family	GV33	clust_0895
+GV34|SEQ00361	VBIGarVag270440_0361	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004279	6077	7141	-	1065		transcriptional regulator, LacI family	GV34	clust_0895

@@ -1,0 +1,34 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00227	VBIGarVag247323_0227	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494570	109406	110362	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV01	clust_0832
+GV02|SEQ00499	VBIGarVag242669_0499	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497795	99629	100585	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV02	clust_0832
+GV03|SEQ00669	VBIGarVag247424_0669	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500762	36745	37701	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV03	clust_0832
+GV04|SEQ00426	VBIGarVag246433_0426	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480732	40805	41761	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV04	clust_0832
+GV05|SEQ00763	VBIGarVag174900_0763	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547285	388424	389380	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV05	clust_0832
+GV06|SEQ00809	VBIGarVag244004_0809	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490414	157176	158132	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV06	clust_0832
+GV07|SEQ00646	VBIGarVag249177_0646	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492944	23459	24415	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV07	clust_0832
+GV08|SEQ00371	VBIGarVag251521_0371	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475139	206866	207822	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV08	clust_0832
+GV09|SEQ00440	VBIGarVag169280_0440	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260056	148532	149488	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV09	clust_0832
+GV10|SEQ00505	VBIGarVag136958_0505	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147062	623692	624648	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV10	clust_0832
+GV11|SEQ00333	VBIGarVag171052_0333	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52548969	11997	12953	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV11	clust_0832
+GV12|SEQ01081	VBIGarVag144721_1081	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854899	72209	73165	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV12	clust_0832
+GV13|SEQ00797	VBIGarVag244533_0797	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487588	270041	270997	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV13	clust_0832
+GV14|SEQ00226	VBIGarVag244375_0226	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502287	13428	14384	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV14	clust_0832
+GV16|SEQ01091	VBIGarVag246379_1091	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479370	1265552	1266508	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV16	clust_0832
+GV18|SEQ01198	VBIGarVag4823_1198	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071232	9485	10441	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV18	clust_0832
+GV19|SEQ00519	VBIGarVag39333_0520	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627913	646655	647611	+	957	rihB	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV19	clust_0832
+GV20|SEQ01001	VBIGarVag188338_1001	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190856	1238155	1239111	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV20	clust_0832
+GV21|SEQ00730	VBIGarVag274454_0731	Gardnerella vaginalis JCP7275	ATJS01000046	PATRIC	CDS	183968163	21661	22617	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV21	clust_0832
+GV22|SEQ00366	VBIGarVag276801_0367	Gardnerella vaginalis JCP7276	ATJR01000010	PATRIC	CDS	183970152	24139	25095	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV22	clust_0832
+GV23|SEQ00969	VBIGarVag276017_0969	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974374	44963	45919	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV23	clust_0832
+GV24|SEQ00531	VBIGarVag268944_0532	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976207	24137	25093	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV24	clust_0832
+GV25|SEQ00197	VBIGarVag270495_0197	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978274	14012	14968	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV25	clust_0832
+GV26|SEQ00011	VBIGarVag272749_0011	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980750	11825	12781	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV26	clust_0832
+GV27|SEQ00170	VBIGarVag276930_0170	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984061	52430	53386	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV27	clust_0832
+GV28|SEQ00601	VBIGarVag271349_0601	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987923	38513	39469	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV28	clust_0832
+GV29|SEQ00204	VBIGarVag265473_0204	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989778	38436	39392	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV29	clust_0832
+GV30|SEQ00652	VBIGarVag267667_0653	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	183993429	23678	24634	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV30	clust_0832
+GV31|SEQ00189	VBIGarVag264983_0189	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995416	37292	38248	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV31	clust_0832
+GV32|SEQ00438	VBIGarVag277040_0438	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998748	38869	39825	+	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV32	clust_0832
+GV33|SEQ00409	VBIGarVag265557_0409	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001540	32803	33759	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV33	clust_0832
+GV34|SEQ00086	VBIGarVag270440_0086	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003664	40202	41158	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV34	clust_0832
+GV35|SEQ00461	VBIGarVag272169_0461	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007242	12286	13242	-	957		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV35	clust_0832

@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+LON1|SEQ01479	21120088	VBIBifLon107831_1480	SEQ01479	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00424555: hypothetical protein	FIG01606434	figfam	clust_4051
+LON3|SEQ01829	42766848	VBIBifLon156230_1832	SEQ01829	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00424555: hypothetical protein	FIG01606434	figfam	clust_4051

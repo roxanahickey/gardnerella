@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV05|SEQ00082	VBIGarVag174900_0082	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545871	98049	98279	+	231		Signal peptidase I (EC 3.4.21.89)	GV05	clust_3995
+GV14|SEQ00783	VBIGarVag244375_0783	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503454	147276	147506	+	231		Signal peptidase I (EC 3.4.21.89)	GV14	clust_3995

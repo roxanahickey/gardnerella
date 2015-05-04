@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01730	VBIBifBre340958_1731	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605517	2019839	2020627	+	789		Cysteine ABC transporter, permease protein	BRE1	clust_2137
+BRE2|SEQ01834	VBIBifBre337368_1834	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609701	2120374	2121159	+	786		Cysteine ABC transporter, permease protein	BRE2	clust_2137
+BRE3|SEQ01798	VBIBifBre167886_1798	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195378	2092339	2093127	+	789		Cysteine ABC transporter, permease protein	BRE3	clust_2137
+BRE4|SEQ01770	VBIBifBre327712_1770	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613714	2052681	2053466	+	786		Cysteine ABC transporter, permease protein	BRE4	clust_2137
+BRE5|SEQ01895	VBIBifBre336369_1896	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618018	2126044	2126832	+	789		Cysteine ABC transporter, permease protein	BRE5	clust_2137
+BRE6|SEQ01216	VBIBifBre268992_1216	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS	177655652	18577	19365	-	789		Cysteine ABC transporter, permease protein	BRE6	clust_2137
+BRE7|SEQ01829	VBIBifBre340732_1829	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622189	2103426	2104214	+	789		Cysteine ABC transporter, permease protein	BRE7	clust_2137
+BRE8|SEQ01785	VBIBifBre176493_1785	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626214	2076891	2077679	+	789		Cysteine ABC transporter, permease protein	BRE8	clust_2137
+BRE9|SEQ01891	VBIBifBre30019_1891	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447953	2180877	2181665	+	789		Cysteine ABC transporter, permease protein	BRE9	clust_2137

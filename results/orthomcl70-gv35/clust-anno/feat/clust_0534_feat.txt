@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01100	VBIGarVag247323_1100	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496401	102867	103397	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV01	clust_0534
+GV02|SEQ00339	VBIGarVag242669_0339	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497454	145963	146493	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV02	clust_0534
+GV03|SEQ00530	VBIGarVag247424_0530	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500467	84079	84537	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV03	clust_0534
+GV04|SEQ00763	VBIGarVag246433_0763	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481425	93660	94130	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV04	clust_0534
+GV05|SEQ00551	VBIGarVag174900_0551	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546846	145542	146000	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV05	clust_0534
+GV06|SEQ00325	VBIGarVag244004_0325	Gardnerella vaginalis 1400E	ADER01000008	PATRIC	CDS	85489376	19660	20130	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV06	clust_0534
+GV07|SEQ00861	VBIGarVag249177_0861	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493393	135151	135609	-	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV07	clust_0534
+GV08|SEQ00774	VBIGarVag251521_0774	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475974	132496	132966	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV08	clust_0534
+GV09|SEQ00220	VBIGarVag169280_0220	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259603	42372	42842	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV09	clust_0534
+GV10|SEQ00347	VBIGarVag136958_0347	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146732	404585	405040	+	456		Putative Holliday junction resolvase (EC 3.1.-.-)	GV10	clust_0534
+GV11|SEQ00319	VBIGarVag171052_0319	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548939	21577	22047	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV11	clust_0534
+GV12|SEQ00889	VBIGarVag144721_0889	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854499	440827	441285	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV12	clust_0534
+GV13|SEQ00426	VBIGarVag244533_0426	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486812	20665	21135	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV13	clust_0534
+GV14|SEQ00835	VBIGarVag244375_0835	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503559	28639	29097	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV14	clust_0534
+GV15|SEQ00316	VBIGarVag249709_0316	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484145	40928	41392	-	465		Putative Holliday junction resolvase (EC 3.1.-.-)	GV15	clust_0534
+GV16|SEQ00540	VBIGarVag246379_0540	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478228	588248	588718	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV16	clust_0534
+GV17|SEQ00248	VBIGarVag146634_0248	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850507	219442	219906	-	465		Putative Holliday junction resolvase (EC 3.1.-.-)	GV17	clust_0534
+GV18|SEQ01307	VBIGarVag4823_1307	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071457	85472	85942	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV18	clust_0534
+GV19|SEQ01071	VBIGarVag39333_1072	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629053	1310401	1310871	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV19	clust_0534
+GV20|SEQ00436	VBIGarVag188338_0436	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189686	547718	548188	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV20	clust_0534
+GV21|SEQ00577	VBIGarVag274454_0578	Gardnerella vaginalis JCP7275	ATJS01000031	PATRIC	CDS	183967834	7217	7717	-	501		Putative Holliday junction resolvase (EC 3.1.-.-)	GV21	clust_0534
+GV22|SEQ01054	VBIGarVag276801_1055	Gardnerella vaginalis JCP7276	ATJR01000091	PATRIC	CDS	183971650	149	619	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV22	clust_0534
+GV23|SEQ01219	VBIGarVag276017_1219	Gardnerella vaginalis JCP7659	ATJQ01000196	PATRIC	CDS	183975003	1854	2384	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV23	clust_0534
+GV24|SEQ00639	VBIGarVag268944_0640	Gardnerella vaginalis JCP7672	ATJP01000044	PATRIC	CDS	183976451	2415	2885	-	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV24	clust_0534
+GV25|SEQ00974	VBIGarVag270495_0974	Gardnerella vaginalis JCP7719	ATJO01000109	PATRIC	CDS	183979981	1851	2381	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV25	clust_0534
+GV26|SEQ01186	VBIGarVag272749_1186	Gardnerella vaginalis JCP8017A	ATJN01000133	PATRIC	CDS	183983315	158	688	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV26	clust_0534
+GV27|SEQ01258	VBIGarVag276930_1258	Gardnerella vaginalis JCP8017B	ATJM01000145	PATRIC	CDS	183986436	2457	2987	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV27	clust_0534
+GV28|SEQ00852	VBIGarVag271349_0852	Gardnerella vaginalis JCP8066	ATJL01000069	PATRIC	CDS	183988469	2585	3115	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV28	clust_0534
+GV29|SEQ01023	VBIGarVag265473_1023	Gardnerella vaginalis JCP8070	ATJK01000100	PATRIC	CDS	183991568	1322	1852	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV29	clust_0534
+GV30|SEQ00627	VBIGarVag267667_0628	Gardnerella vaginalis JCP8108	ATJJ01000038	PATRIC	CDS	183993376	7554	8024	+	471		Putative Holliday junction resolvase (EC 3.1.-.-)	GV30	clust_0534
+GV31|SEQ01179	VBIGarVag264983_1179	Gardnerella vaginalis JCP8151A	ATJI01000148	PATRIC	CDS	183997606	1269	1799	-	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV31	clust_0534
+GV32|SEQ00828	VBIGarVag277040_0828	Gardnerella vaginalis JCP8151B	ATJH01000060	PATRIC	CDS	183999596	7792	8322	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV32	clust_0534
+GV33|SEQ00935	VBIGarVag265557_0935	Gardnerella vaginalis JCP8481A	ATJG01000107	PATRIC	CDS	184002705	4630	5088	+	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV33	clust_0534
+GV34|SEQ00987	VBIGarVag270440_0987	Gardnerella vaginalis JCP8481B	ATJF01000112	PATRIC	CDS	184005650	15179	15637	-	459		Putative Holliday junction resolvase (EC 3.1.-.-)	GV34	clust_0534
+GV35|SEQ00919	VBIGarVag272169_0919	Gardnerella vaginalis JCP8522	ATJE01000101	PATRIC	CDS	184008275	1927	2457	+	531		Putative Holliday junction resolvase (EC 3.1.-.-)	GV35	clust_0534

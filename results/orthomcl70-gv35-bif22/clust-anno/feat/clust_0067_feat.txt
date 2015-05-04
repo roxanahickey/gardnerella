@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00059	VBIBifAdo136061_0059	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186310	62865	63872	+	1008		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	ADO1	clust_0067
+BIF1|SEQ00543	VBIBifBif87902_0543	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883621	675759	677015	+	1257	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BIF1	clust_0067
+BRE1|SEQ00802	VBIBifBre340958_0802	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603588	964317	965522	-	1206		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE1	clust_0067
+BRE1|SEQ01215	VBIBifBre340958_1215	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604439	1426502	1427779	-	1278		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE1	clust_0067
+BRE2|SEQ00883	VBIBifBre337368_0883	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607722	1046381	1047586	-	1206		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE2	clust_0067
+BRE2|SEQ01305	VBIBifBre337368_1305	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608593	1502604	1503881	-	1278		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE2	clust_0067
+BRE3|SEQ00606	VBIBifBre167886_0606	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192895	740879	742156	+	1278		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE3	clust_0067
+BRE3|SEQ00988	VBIBifBre167886_0988	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193688	1157738	1158943	+	1206		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE3	clust_0067
+BRE4|SEQ00830	VBIBifBre327712_0830	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611759	1002771	1003976	-	1206		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE4	clust_0067
+BRE4|SEQ01247	VBIBifBre327712_1247	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612618	1449848	1451125	-	1278		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE4	clust_0067
+BRE5|SEQ00832	VBIBifBre336369_0833	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615809	985525	986730	-	1206		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE5	clust_0067
+BRE5|SEQ01370	VBIBifBre336369_1371	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616921	1529660	1530937	-	1278		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE5	clust_0067
+BRE6|SEQ01778	VBIBifBre268992_1778	Bifidobacterium breve JCP7499	AWSX01000082	PATRIC	CDS	177656863	1354	2598	+	1245		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE6	clust_0067
+BRE6|SEQ01932	VBIBifBre268992_1932	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657177	122411	123703	-	1293		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE6	clust_0067
+BRE7|SEQ00832	VBIBifBre340732_0832	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620121	994811	996016	-	1206		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE7	clust_0067
+BRE7|SEQ01257	VBIBifBre340732_1257	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620998	1451875	1453167	-	1293		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE7	clust_0067
+BRE8|SEQ00858	VBIBifBre176493_0858	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624281	1037926	1039131	-	1206	nagA1	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE8	clust_0067
+BRE8|SEQ01284	VBIBifBre176493_1284	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625162	1498313	1499590	-	1278	nagA2	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE8	clust_0067
+BRE9|SEQ00917	VBIBifBre30019_0917	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445930	1093781	1094986	-	1206	nagA1	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE9	clust_0067
+BRE9|SEQ01339	VBIBifBre30019_1339	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446802	1554586	1555878	-	1293	nagA2	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	BRE9	clust_0067
+DEN1|SEQ02056	VBIBifDen165269_2058	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463091	908	2161	+	1254	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	DEN1	clust_0067
+DEN1|SEQ02189	VBIBifDen165269_2191	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463367	75016	76263	+	1248	nagA2	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	DEN1	clust_0067
+DEN2|SEQ00948	VBIBifDen39005_0948	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110249	39701	40948	-	1248	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	DEN2	clust_0067
+DEN2|SEQ01225	VBIBifDen39005_1226	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110829	929	2182	+	1254	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	DEN2	clust_0067
+GV01|SEQ00702	VBIGarVag247323_0702	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495563	134126	135385	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV01	clust_0067
+GV02|SEQ00186	VBIGarVag242669_0186	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497140	168844	170103	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV02	clust_0067
+GV03|SEQ00101	VBIGarVag247424_0101	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499570	16616	17875	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV03	clust_0067
+GV04|SEQ00296	VBIGarVag246433_0296	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480454	187913	189172	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV04	clust_0067
+GV05|SEQ00203	VBIGarVag174900_0203	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546116	16626	17885	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV05	clust_0067
+GV06|SEQ00425	VBIGarVag244004_0425	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489596	29841	31100	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV06	clust_0067
+GV07|SEQ00160	VBIGarVag249177_0160	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491909	188628	189887	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV07	clust_0067
+GV08|SEQ00944	VBIGarVag251521_0944	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476325	22160	23419	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV08	clust_0067
+GV09|SEQ00158	VBIGarVag169280_0158	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259469	137249	138508	+	1260	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV09	clust_0067
+GV11|SEQ00439	VBIGarVag171052_0439	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549195	24299	25558	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV11	clust_0067
+GV13|SEQ00041	VBIGarVag244533_0041	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486012	30189	31448	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV13	clust_0067
+GV14|SEQ00657	VBIGarVag244375_0657	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503186	182771	184030	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV14	clust_0067
+GV16|SEQ00112	VBIGarVag246379_0112	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477332	28850	30109	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV16	clust_0067
+GV18|SEQ00260	VBIGarVag4823_0260	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000075	PATRIC	CDS	42069224	6003	7262	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV18	clust_0067
+GV19|SEQ00175	VBIGarVag39333_0175	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627195	204683	205942	+	1260	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV19	clust_0067
+GV20|SEQ00056	VBIGarVag188338_0056	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188888	67585	68844	+	1260	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV20	clust_0067
+GV21|SEQ01135	VBIGarVag274454_1136	Gardnerella vaginalis JCP7275	ATJS01000152	PATRIC	CDS	183969133	1808	3067	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV21	clust_0067
+GV22|SEQ00985	VBIGarVag276801_0986	Gardnerella vaginalis JCP7276	ATJR01000068	PATRIC	CDS	183971479	451	1710	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV22	clust_0067
+GV23|SEQ01105	VBIGarVag276017_1105	Gardnerella vaginalis JCP7659	ATJQ01000127	PATRIC	CDS	183974690	9974	11233	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV23	clust_0067
+GV24|SEQ00102	VBIGarVag268944_0103	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975304	104720	105979	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV24	clust_0067
+GV25|SEQ00882	VBIGarVag270495_0882	Gardnerella vaginalis JCP7719	ATJO01000079	PATRIC	CDS	183979750	62	298	+	237		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV25	clust_0067
+GV26|SEQ00801	VBIGarVag272749_0801	Gardnerella vaginalis JCP8017A	ATJN01000043	PATRIC	CDS	183982430	8077	9336	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV26	clust_0067
+GV27|SEQ00547	VBIGarVag276930_0547	Gardnerella vaginalis JCP8017B	ATJM01000018	PATRIC	CDS	183984852	8075	9334	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV27	clust_0067
+GV28|SEQ01064	VBIGarVag271349_1064	Gardnerella vaginalis JCP8066	ATJL01000134	PATRIC	CDS	183988976	8092	9351	+	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV28	clust_0067
+GV29|SEQ00987	VBIGarVag265473_0987	Gardnerella vaginalis JCP8070	ATJK01000085	PATRIC	CDS	183991479	2720	3451	-	732		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV29	clust_0067
+GV30|SEQ00551	VBIGarVag267667_0552	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993206	4233	5492	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV30	clust_0067
+GV31|SEQ01089	VBIGarVag264983_1089	Gardnerella vaginalis JCP8151A	ATJI01000105	PATRIC	CDS	183997377	2693	3952	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV31	clust_0067
+GV32|SEQ01254	VBIGarVag277040_1254	Gardnerella vaginalis JCP8151B	ATJH01000171	PATRIC	CDS	184000596	4102	5361	-	1260		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	GV32	clust_0067
+INF1|SEQ01330	VBIBifLon182273_1330	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886664	1503377	1504660	-	1284		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	INF1	clust_0067
+LON1|SEQ00202	VBIBifLon107831_0202	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117441	239436	240719	+	1284	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	LON1	clust_0067
+LON2|SEQ00243	VBIBifLon171405_0244	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579989	282132	283415	+	1284	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	LON2	clust_0067
+LON3|SEQ01930	VBIBifLon156230_1933	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767052	854005	855399	+	1395		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	LON3	clust_0067
+LON4|SEQ01306	VBIBifLon48544_1306	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890956	1478074	1479357	-	1284		N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)	LON4	clust_0067

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE8|SEQ01144	VBIBifBre176493_1144	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624878	1333943	1334080	-	138		FIG00425706: hypothetical protein	BRE8	clust_4342
+LON3|SEQ00231	VBIBifLon156230_0231	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767395	1053516	1053653	-	138		FIG00425706: hypothetical protein	LON3	clust_4342

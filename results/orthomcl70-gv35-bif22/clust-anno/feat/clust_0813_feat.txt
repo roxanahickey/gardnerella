@@ -1,0 +1,45 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00590	VBIBifBif87902_0590	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883717	723741	724724	+	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BIF1	clust_0813
+BRE1|SEQ01803	VBIBifBre340958_1804	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605665	2110207	2111190	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE1	clust_0813
+BRE2|SEQ01902	VBIBifBre337368_1902	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609838	2208537	2209520	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE2	clust_0813
+BRE3|SEQ01874	VBIBifBre167886_1874	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195531	2188126	2189109	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE3	clust_0813
+BRE4|SEQ01853	VBIBifBre327712_1853	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613882	2154364	2155347	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE4	clust_0813
+BRE5|SEQ01967	VBIBifBre336369_1968	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618162	2220067	2221050	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE5	clust_0813
+BRE6|SEQ01312	VBIBifBre268992_1312	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655855	30182	31165	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE6	clust_0813
+BRE7|SEQ01890	VBIBifBre340732_1890	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622312	2184106	2185089	-	984		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE7	clust_0813
+BRE9|SEQ01951	VBIBifBre30019_1951	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448074	2260730	2261713	-	984	oppB3	Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	BRE9	clust_0813
+GV01|SEQ01253	VBIGarVag247323_1253	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496711	26100	26972	+	873		binding-protein-dependent transport systems inner membrane component	GV01	clust_0813
+GV02|SEQ00020	VBIGarVag242669_0020	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496795	17792	18664	-	873		binding-protein-dependent transport systems inner membrane component	GV02	clust_0813
+GV03|SEQ00400	VBIGarVag247424_0400	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500205	13554	14426	-	873		binding-protein-dependent transport systems inner membrane component	GV03	clust_0813
+GV04|SEQ01244	VBIGarVag246433_1244	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482417	98735	99655	+	921		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV04	clust_0813
+GV05|SEQ00180	VBIGarVag174900_0180	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546069	83377	84270	+	894		binding-protein-dependent transport systems inner membrane component	GV05	clust_0813
+GV06|SEQ00459	VBIGarVag244004_0459	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489676	17683	18555	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV06	clust_0813
+GV07|SEQ01020	VBIGarVag249177_1020	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493726	13520	14257	-	738		binding-protein-dependent transport systems inner membrane component	GV07	clust_0813
+GV08|SEQ00526	VBIGarVag251521_0526	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475466	17759	18679	-	921		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV08	clust_0813
+GV09|SEQ01066	VBIGarVag169280_1066	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261354	89921	90841	+	921		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV09	clust_0813
+GV10|SEQ01105	VBIGarVag136958_1105	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148308	1498932	1499804	-	873		binding-protein-dependent transport systems inner membrane component	GV10	clust_0813
+GV11|SEQ00770	VBIGarVag171052_0770	Gardnerella vaginalis 41V	AEJE01000048	PATRIC	CDS	52549896	17767	18639	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV11	clust_0813
+GV12|SEQ00010	VBIGarVag144721_0010	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852670	13519	14391	-	873		binding-protein-dependent transport systems inner membrane component	GV12	clust_0813
+GV13|SEQ01259	VBIGarVag244533_1259	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488570	92728	93600	+	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV13	clust_0813
+GV14|SEQ00941	VBIGarVag244375_0941	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503777	78523	79395	+	873		binding-protein-dependent transport systems inner membrane component	GV14	clust_0813
+GV15|SEQ00064	VBIGarVag249709_0064	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483614	76719	77591	+	873		binding-protein-dependent transport systems inner membrane component	GV15	clust_0813
+GV16|SEQ00075	VBIGarVag246379_0075	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477255	95561	96433	+	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV16	clust_0813
+GV17|SEQ00009	VBIGarVag146634_0009	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850014	13539	14411	-	873		binding-protein-dependent transport systems inner membrane component	GV17	clust_0813
+GV18|SEQ00275	VBIGarVag4823_0275	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000078	PATRIC	CDS	42069257	1449	2321	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV18	clust_0813
+GV19|SEQ00279	VBIGarVag39333_0280	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627411	339711	340604	+	894		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV19	clust_0813
+GV20|SEQ01234	VBIGarVag188338_1234	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191344	1546557	1547477	-	921		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV20	clust_0813
+GV21|SEQ00454	VBIGarVag274454_0455	Gardnerella vaginalis JCP7275	ATJS01000023	PATRIC	CDS	183967576	9182	10054	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV21	clust_0813
+GV22|SEQ00742	VBIGarVag276801_0743	Gardnerella vaginalis JCP7276	ATJR01000031	PATRIC	CDS	183970935	2238	3158	+	921		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV22	clust_0813
+GV23|SEQ00855	VBIGarVag276017_0855	Gardnerella vaginalis JCP7659	ATJQ01000067	PATRIC	CDS	183974116	18380	19252	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV23	clust_0813
+GV24|SEQ00179	VBIGarVag268944_0180	Gardnerella vaginalis JCP7672	ATJP01000007	PATRIC	CDS	183975462	17799	18671	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV24	clust_0813
+GV25|SEQ01249	VBIGarVag270495_1249	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980605	18484	19356	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV25	clust_0813
+GV26|SEQ00725	VBIGarVag272749_0725	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982259	18364	19236	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV26	clust_0813
+GV27|SEQ00757	VBIGarVag276930_0757	Gardnerella vaginalis JCP8017B	ATJM01000036	PATRIC	CDS	183985304	1409	2281	+	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV27	clust_0813
+GV28|SEQ01040	VBIGarVag271349_1040	Gardnerella vaginalis JCP8066	ATJL01000128	PATRIC	CDS	183988920	14356	15228	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV28	clust_0813
+GV29|SEQ01200	VBIGarVag265473_1200	Gardnerella vaginalis JCP8070	ATJK01000170	PATRIC	CDS	183992012	17812	18684	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV29	clust_0813
+GV30|SEQ01234	VBIGarVag267667_1236	Gardnerella vaginalis JCP8108	ATJJ01000138	PATRIC	CDS	183994728	18378	19250	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV30	clust_0813
+GV31|SEQ00831	VBIGarVag264983_0831	Gardnerella vaginalis JCP8151A	ATJI01000052	PATRIC	CDS	183996792	18579	19451	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV31	clust_0813
+GV32|SEQ01244	VBIGarVag277040_1244	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	184000572	18526	19398	-	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV32	clust_0813
+GV33|SEQ00713	VBIGarVag265557_0713	Gardnerella vaginalis JCP8481A	ATJG01000073	PATRIC	CDS	184002198	2300	3220	+	921		binding-protein-dependent transport systems inner membrane component	GV33	clust_0813
+GV34|SEQ00819	VBIGarVag270440_0819	Gardnerella vaginalis JCP8481B	ATJF01000082	PATRIC	CDS	184005270	2348	3220	+	873		binding-protein-dependent transport systems inner membrane component	GV34	clust_0813
+GV35|SEQ00692	VBIGarVag272169_0692	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007759	6392	7264	+	873		Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)	GV35	clust_0813

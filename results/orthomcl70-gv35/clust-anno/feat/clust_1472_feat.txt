@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00330	VBIGarVag246433_0330	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480525	11673	13001	+	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV04	clust_1472
+GV06|SEQ00372	VBIGarVag244004_0372	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489487	36588	37916	-	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV06	clust_1472
+GV08|SEQ01243	VBIGarVag251521_1243	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476949	362779	364107	+	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV08	clust_1472
+GV11|SEQ00512	VBIGarVag171052_0512	Gardnerella vaginalis 41V	AEJE01000031	PATRIC	CDS	52549349	10320	11648	-	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV11	clust_1472
+GV20|SEQ00293	VBIGarVag188338_0293	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189387	332967	334295	+	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV20	clust_1472
+GV21|SEQ00583	VBIGarVag274454_0584	Gardnerella vaginalis JCP7275	ATJS01000032	PATRIC	CDS	183967847	335	1663	-	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV21	clust_1472
+GV24|SEQ00013	VBIGarVag268944_0013	Gardnerella vaginalis JCP7672	ATJP01000001	PATRIC	CDS	183975112	13197	14525	+	1329		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV24	clust_1472

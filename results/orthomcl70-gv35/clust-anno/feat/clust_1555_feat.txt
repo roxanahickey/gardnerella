@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV11|SEQ00109	VBIGarVag171052_0109	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548486	13101	13835	+	735		Transmembrane component BL0694 of energizing module of predicted ECF transporter	GV11	clust_1555
+GV13|SEQ00204	VBIGarVag244533_0204	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486351	6992	7726	-	735		Transmembrane component BL0694 of energizing module of predicted ECF transporter	GV13	clust_1555
+GV17|SEQ00140	VBIGarVag146634_0140	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850277	77358	78092	+	735		Transmembrane component BL0694 of energizing module of predicted ECF transporter	GV17	clust_1555
+GV23|SEQ00181	VBIGarVag276017_0181	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972663	37744	38478	+	735		Transmembrane component BL0694 of energizing module of predicted ECF transporter	GV23	clust_1555
+GV25|SEQ00080	VBIGarVag270495_0080	Gardnerella vaginalis JCP7719	ATJO01000004	PATRIC	CDS	183978020	3208	3942	+	735		Transmembrane component BL0694 of energizing module of predicted ECF transporter	GV25	clust_1555
+GV30|SEQ01321	VBIGarVag267667_1323	Gardnerella vaginalis JCP8108	ATJJ01000165	PATRIC	CDS	183994938	1689	2423	-	735		Transmembrane component BL0694 of energizing module of predicted ECF transporter	GV30	clust_1555

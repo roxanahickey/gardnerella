@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+LON1|SEQ00783	21118639	VBIBifLon107831_0784	SEQ00783	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	Beta-glucuronidase	ec	NA
+LON1|SEQ01261	21119627	VBIBifLon107831_1262	SEQ01261	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Maltodextrin glucosidase (EC 3.2.1.20)	3.2.1.20	Alpha-glucosidase	ec	NA
+LON1|SEQ01434	21119995	VBIBifLon107831_1435	SEQ01434	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	1.-.-.-	Oxidoreductases.	ec	NA
+LON1|SEQ01510	21120150	VBIBifLon107831_1511	SEQ01510	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	NA	Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)	2.7.7.39	Glycerol-3-phosphate cytidylyltransferase	ec	NA

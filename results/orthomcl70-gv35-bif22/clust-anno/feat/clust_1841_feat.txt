@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00097	VBIBifBre340958_0097	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602118	127180	127293	+	114		hypothetical protein	BRE1	clust_1841
+BRE2|SEQ00090	VBIBifBre337368_0090	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606077	119800	119913	+	114		hypothetical protein	BRE2	clust_1841
+BRE3|SEQ00094	VBIBifBre167886_0094	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191832	126127	126240	+	114		FIG00423959: hypothetical protein	BRE3	clust_1841
+BRE4|SEQ00111	VBIBifBre327712_0111	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610261	146240	146353	+	114		hypothetical protein	BRE4	clust_1841
+BRE6|SEQ01261	VBIBifBre268992_1261	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655746	10718	10831	-	114		hypothetical protein	BRE6	clust_1841
+BRE7|SEQ00089	VBIBifBre340732_0089	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618575	117487	117600	+	114		hypothetical protein	BRE7	clust_1841
+BRE8|SEQ00111	VBIBifBre176493_0111	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622732	142572	142685	+	114		hypothetical protein	BRE8	clust_1841
+BRE9|SEQ00110	VBIBifBre30019_0110	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444249	142823	142936	+	114		FIG01305669: hypothetical protein	BRE9	clust_1841
+INF1|SEQ00088	VBIBifLon182273_0088	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884082	108321	108434	+	114		FIG00423959: hypothetical protein	INF1	clust_1841
+LON1|SEQ01288	VBIBifLon107831_1289	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119681	1518028	1518141	-	114		hypothetical protein	LON1	clust_1841
+LON3|SEQ01394	VBIBifLon156230_1397	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769397	2158877	2158990	-	114		Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	LON3	clust_1841
+LON4|SEQ00100	VBIBifLon48544_0100	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888407	128464	128577	+	114		FIG00423959: hypothetical protein	LON4	clust_1841

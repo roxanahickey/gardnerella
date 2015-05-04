@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01011	VBIBifAdo136061_1011	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188336	930245	930583	+	339		branched-chain amino acid transport	ADO1	clust_2265
+BIF1|SEQ01440	VBIBifBif87902_1440	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885478	1729535	1729717	+	183	alzD	branched-chain amino acid permease	BIF1	clust_2265
+INF1|SEQ01701	VBIBifLon182273_1701	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887429	1943762	1944094	+	333		branched-chain amino acid permease	INF1	clust_2265
+LON1|SEQ01722	VBIBifLon107831_1723	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120598	2083974	2084306	-	333	alzD	branched-chain amino acid permease	LON1	clust_2265
+LON2|SEQ01756	VBIBifLon171405_1759	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583131	2107958	2108290	-	333	azlD	branched-chain amino acid permease	LON2	clust_2265
+LON3|SEQ01569	VBIBifLon156230_1572	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766306	403277	403609	+	333		branched-chain amino acid permease	LON3	clust_2265
+LON4|SEQ01651	VBIBifLon48544_1651	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891673	1903508	1903840	+	333		branched-chain amino acid permease	LON4	clust_2265
+THE1|SEQ01097	VBIBifThe274299_1097	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735405	1363815	1364138	-	324		branched-chain amino acid permease	THE1	clust_2265

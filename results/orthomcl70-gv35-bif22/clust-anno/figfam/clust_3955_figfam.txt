@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01657	27189685	VBIBifAdo136061_1657	SEQ01657	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3955
+DEN1|SEQ02225	43463439	VBIBifDen165269_2227	SEQ02225	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		sulfate adenylyltransferase, subunit 2	FIG01897541	figfam	clust_3955
+DEN2|SEQ00910	42110173	VBIBifDen39005_0910	SEQ00910	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		sulfate adenylyltransferase, subunit 2	FIG01897541	figfam	clust_3955

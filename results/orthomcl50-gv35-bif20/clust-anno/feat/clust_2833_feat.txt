@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01234	VBIBifAdo136061_1234	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188807	157798	159165	-	1368		putative riboflavin-specific deaminase	ADO1	clust_2833
+ANI1|SEQ01506	VBIBifAni240121_1506	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848033	1799634	1801265	-	1632		hypothetical protein	ANI1	clust_2833
+ANI2|SEQ01504	VBIBifAni235968_1504	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851382	1799854	1801485	-	1632		hypothetical protein	ANI2	clust_2833
+ANI3|SEQ01515	VBIBifAni108068_1515	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765404	1805085	1806716	-	1632		hypothetical protein	ANI3	clust_2833
+BIF1|SEQ01754	VBIBifBif87902_1754	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886132	2109181	2110860	-	1680		putative riboflavin-specific deaminase	BIF1	clust_2833

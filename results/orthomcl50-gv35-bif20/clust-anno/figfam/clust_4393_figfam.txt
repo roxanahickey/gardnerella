@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01951	27190277	VBIBifAdo136061_1951	SEQ01951	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		ParA	FIG01498265	figfam	clust_4393
+LON3|SEQ01731	42766646	VBIBifLon156230_1734	SEQ01731	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Chromosome (plasmid) partitioning protein ParA	FIG01304329	figfam	clust_4393

@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ01319	VBIGarVag244004_1319	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491471	197271	198368	-	1098		regulatory protein, LacI	GV06	clust_1456
+GV09|SEQ00789	VBIGarVag169280_0789	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260779	160605	161711	+	1107		regulatory protein, LacI	GV09	clust_1456
+GV11|SEQ01010	VBIGarVag171052_1010	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	52550402	8406	9503	-	1098		regulatory protein, LacI	GV11	clust_1456
+GV13|SEQ00332	VBIGarVag244533_0332	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486615	161057	162154	-	1098		regulatory protein, LacI	GV13	clust_1456
+GV16|SEQ00725	VBIGarVag246379_0725	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478605	806283	807389	+	1107		regulatory protein, LacI	GV16	clust_1456
+GV24|SEQ00129	VBIGarVag268944_0130	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975359	34517	35623	+	1107		regulatory protein, LacI	GV24	clust_1456
+GV30|SEQ00128	VBIGarVag267667_0128	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992300	38134	39231	-	1098		regulatory protein, LacI	GV30	clust_1456

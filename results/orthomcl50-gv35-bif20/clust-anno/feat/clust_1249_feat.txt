@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01887	VBIBifAdo136061_1887	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190145	404054	405232	-	1179		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	ADO1	clust_1249
+ANI1|SEQ01242	VBIBifAni240121_1242	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847476	1443880	1445070	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	ANI1	clust_1249
+ANI2|SEQ01242	VBIBifAni235968_1242	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850829	1443885	1445075	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	ANI2	clust_1249
+ANI3|SEQ01250	VBIBifAni108068_1250	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764846	1449331	1450521	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	ANI3	clust_1249
+BIF1|SEQ00481	VBIBifBif87902_0481	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883497	602295	603485	+	1191	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BIF1	clust_1249
+BRE1|SEQ00594	VBIBifBre340958_0594	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603152	729870	731060	+	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE1	clust_1249
+BRE2|SEQ00689	VBIBifBre337368_0689	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607313	823961	825151	+	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE2	clust_1249
+BRE3|SEQ01181	VBIBifBre167886_1181	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194095	1381524	1382714	-	1191	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE3	clust_1249
+BRE4|SEQ00629	VBIBifBre327712_0629	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611336	770985	772175	+	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE4	clust_1249
+BRE5|SEQ00648	VBIBifBre336369_0649	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615421	769386	770576	+	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE5	clust_1249
+BRE6|SEQ01107	VBIBifBre268992_1107	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655423	44141	45331	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE6	clust_1249
+BRE7|SEQ00642	VBIBifBre340732_0642	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619720	774000	775190	+	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE7	clust_1249
+BRE8|SEQ00664	VBIBifBre176493_0664	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623873	814912	816102	+	1191	ispC	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE8	clust_1249
+BRE9|SEQ00711	VBIBifBre30019_0711	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445495	858786	859976	+	1191	ispC	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	BRE9	clust_1249
+INF1|SEQ01429	VBIBifLon182273_1429	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886868	1625983	1627173	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	INF1	clust_1249
+LON1|SEQ00104	VBIBifLon107831_0104	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117237	117192	118382	+	1191	ispC	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	LON1	clust_1249
+LON2|SEQ00149	VBIBifLon171405_0150	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579795	161961	163151	+	1191	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	LON2	clust_1249
+LON3|SEQ00047	VBIBifLon156230_0047	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765717	64156	65346	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	LON3	clust_1249
+LON4|SEQ01401	VBIBifLon48544_1401	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891154	1598780	1599970	-	1191		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	LON4	clust_1249
+THE1|SEQ00547	VBIBifThe274299_0547	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734272	692181	693368	+	1188		1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	THE1	clust_1249

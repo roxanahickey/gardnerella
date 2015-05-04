@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00377	268602703	VBIBifBre340958_0377	SEQ00377	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		capsular polysaccharide biosynthesis protein	FIG00031969	figfam	clust_2527
+DEN2|SEQ01499	42111387	VBIBifDen39005_1500	SEQ01499	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS		glycosyl transferase, group 1 family protein	FIG00954133	figfam	clust_2527
+INF1|SEQ00390	46884717	VBIBifLon182273_0390	SEQ00390	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		capsular polysaccharide biosynthesis protein	FIG00031969	figfam	clust_2527
+LON3|SEQ00840	42768654	VBIBifLon156230_0840	SEQ00840	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		capsular polysaccharide biosynthesis protein	FIG00031969	figfam	clust_2527

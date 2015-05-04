@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ01152	43459431	VBIBifDen165269_1153	SEQ01152	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		transcriptional regulator, HxlR family	FIG00745775	figfam	clust_4895
+DEN2|SEQ01364	42111114	VBIBifDen39005_1365	SEQ01364	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000027	PATRIC	CDS		transcriptional regulator, HxlR family	FIG00745775	figfam	clust_4895

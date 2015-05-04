@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV23|SEQ00495	VBIGarVag276017_0495	Gardnerella vaginalis JCP7659	ATJQ01000038	PATRIC	CDS	183973344	315	617	+	303		"Type I restriction-modification system, specificity subunit S "	GV23	clust_4525
+GV25|SEQ00845	VBIGarVag270495_0845	Gardnerella vaginalis JCP7719	ATJO01000068	PATRIC	CDS	183979665	30851	31396	-	546		"Type I restriction-modification system, specificity subunit S "	GV25	clust_4525

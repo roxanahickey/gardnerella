@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00970	VBIBifAdo136061_0970	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188254	881731	883782	+	2052		Permeases of the major facilitator superfamily	ADO1	clust_1498
+BIF1|SEQ00069	VBIBifBif87902_0069	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882636	86721	88772	+	2052	yhcA	Permeases of the major facilitator superfamily	BIF1	clust_1498
+BRE1|SEQ00799	VBIBifBre340958_0799	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603582	960029	962080	+	2052		Permeases of the major facilitator superfamily	BRE1	clust_1498
+BRE2|SEQ00880	VBIBifBre337368_0880	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607716	1042092	1044143	+	2052		Permeases of the major facilitator superfamily	BRE2	clust_1498
+BRE3|SEQ00991	VBIBifBre167886_0991	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193694	1161180	1163231	-	2052		Permeases of the major facilitator superfamily	BRE3	clust_1498
+BRE4|SEQ00827	VBIBifBre327712_0827	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611753	998282	1000534	+	2253		Permeases of the major facilitator superfamily	BRE4	clust_1498
+BRE5|SEQ00829	VBIBifBre336369_0830	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615803	981012	983063	+	2052		Permeases of the major facilitator superfamily	BRE5	clust_1498
+BRE6|SEQ01596	VBIBifBre268992_1596	Bifidobacterium breve JCP7499	AWSX01000074	PATRIC	CDS	177656463	444	2495	-	2052		Permeases of the major facilitator superfamily	BRE6	clust_1498
+BRE7|SEQ00829	VBIBifBre340732_0829	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620115	990524	992575	+	2052		Permeases of the major facilitator superfamily	BRE7	clust_1498
+BRE8|SEQ00855	VBIBifBre176493_0855	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624275	1033636	1035687	+	2052	betA	Permeases of the major facilitator superfamily	BRE8	clust_1498
+BRE9|SEQ00905	VBIBifBre30019_0905	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445904	1082074	1084125	+	2052	betA	Permeases of the major facilitator superfamily	BRE9	clust_1498
+INF1|SEQ00752	VBIBifLon182273_0752	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885473	921330	923381	+	2052		Permeases of the major facilitator superfamily	INF1	clust_1498
+LON1|SEQ00621	VBIBifLon107831_0622	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118299	716378	718429	-	2052		Permeases of the major facilitator superfamily	LON1	clust_1498
+LON2|SEQ00682	VBIBifLon171405_0683	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580890	751720	753771	-	2052		Permeases of the major facilitator superfamily	LON2	clust_1498
+LON3|SEQ00489	VBIBifLon156230_0489	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767930	1327032	1329083	-	2052		Permeases of the major facilitator superfamily	LON3	clust_1498
+LON4|SEQ00723	VBIBifLon48544_0723	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889716	878681	880732	+	2052		Permeases of the major facilitator superfamily	LON4	clust_1498
+THE1|SEQ00071	VBIBifThe274299_0071	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733303	91290	93338	+	2049		hypothetical protein	THE1	clust_1498

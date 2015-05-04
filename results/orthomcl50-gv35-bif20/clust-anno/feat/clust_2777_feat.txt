@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01962	VBIBifLon182273_1962	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887984	2271585	2274782	-	3198		Bacterial surface proteins containing Ig-like domains	INF1	clust_2777
+LON1|SEQ01443	VBIBifLon107831_1444	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120013	1734235	1737111	+	2877		Bacterial surface proteins containing Ig-like domains	LON1	clust_2777
+LON2|SEQ01490	VBIBifLon171405_1493	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582573	1750415	1753612	+	3198		Bacterial surface proteins containing Ig-like domains	LON2	clust_2777
+LON3|SEQ01863	VBIBifLon156230_1866	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766918	764025	767222	-	3198		Bacterial surface proteins containing Ig-like domains	LON3	clust_2777
+LON4|SEQ01919	VBIBifLon48544_1919	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892243	2262549	2265746	-	3198		Bacterial surface proteins containing Ig-like domains	LON4	clust_2777

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00685	VBIBifAdo136061_0685	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187658	552221	552901	-	681		two component transcriptional regulator, LuxR family	ADO1	clust_1341
+ANI1|SEQ00432	VBIBifAni240121_0432	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845793	508385	509095	-	711		two component transcriptional regulator, LuxR family	ANI1	clust_1341
+ANI2|SEQ00432	VBIBifAni235968_0432	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849148	508387	509097	-	711		two component transcriptional regulator, LuxR family	ANI2	clust_1341
+ANI3|SEQ00434	VBIBifAni108068_0434	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763162	508388	509098	-	711		two component transcriptional regulator, LuxR family	ANI3	clust_1341
+BIF1|SEQ01463	VBIBifBif87902_1463	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885526	1754496	1755227	+	732		two component transcriptional regulator, LuxR family	BIF1	clust_1341
+BRE1|SEQ01541	VBIBifBre340958_1542	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605117	1815084	1815767	+	684		two component transcriptional regulator, LuxR family	BRE1	clust_1341
+BRE2|SEQ01650	VBIBifBre337368_1650	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609311	1917660	1918343	+	684		two component transcriptional regulator, LuxR family	BRE2	clust_1341
+BRE3|SEQ01603	VBIBifBre167886_1603	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194967	1874844	1875527	+	684		two component transcriptional regulator, LuxR family	BRE3	clust_1341
+BRE4|SEQ01582	VBIBifBre327712_1582	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613315	1849968	1850651	+	684		two component transcriptional regulator, LuxR family	BRE4	clust_1341
+BRE5|SEQ01705	VBIBifBre336369_1706	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617615	1920582	1921265	+	684		two component transcriptional regulator, LuxR family	BRE5	clust_1341
+BRE6|SEQ02014	VBIBifBre268992_2014	Bifidobacterium breve JCP7499	AWSX01000090	PATRIC	CDS	177657348	36712	37395	+	684		two component transcriptional regulator, LuxR family	BRE6	clust_1341
+BRE7|SEQ01638	VBIBifBre340732_1638	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621785	1892456	1893139	+	684		two component transcriptional regulator, LuxR family	BRE7	clust_1341
+BRE8|SEQ01588	VBIBifBre176493_1588	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625797	1859622	1860305	+	684	bburH	two component transcriptional regulator, LuxR family	BRE8	clust_1341
+BRE9|SEQ01701	VBIBifBre30019_1701	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447551	1969896	1970579	+	684		two component transcriptional regulator, LuxR family	BRE9	clust_1341
+INF1|SEQ01725	VBIBifLon182273_1725	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887480	1969693	1970388	+	696		two component transcriptional regulator, LuxR family	INF1	clust_1341
+LON1|SEQ01699	VBIBifLon107831_1700	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120550	2057641	2058336	-	696		two component transcriptional regulator, LuxR family	LON1	clust_1341
+LON2|SEQ01733	VBIBifLon171405_1736	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583083	2081651	2082346	-	696		two component transcriptional regulator, LuxR family	LON2	clust_1341
+LON3|SEQ01592	VBIBifLon156230_1595	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766354	429208	429903	+	696		two component transcriptional regulator, LuxR family	LON3	clust_1341
+LON4|SEQ01675	VBIBifLon48544_1675	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891725	1929436	1930131	+	696		two component transcriptional regulator, LuxR family	LON4	clust_1341
+THE1|SEQ01372	VBIBifThe274299_1372	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735980	1706963	1707655	+	693		two component transcriptional regulator, LuxR family	THE1	clust_1341

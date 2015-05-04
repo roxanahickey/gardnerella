@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV09|SEQ01270	55261783	VBIGarVag169280_1270	SEQ01270	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_5210
+GV09|SEQ01270	55261783	VBIGarVag169280_1270	SEQ01270	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_5210
+GV09|SEQ01270	55261783	VBIGarVag169280_1270	SEQ01270	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_5210
+GV20|SEQ00279	54189359	VBIGarVag188338_0279	SEQ00279	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	clust_5210
+GV20|SEQ00279	54189359	VBIGarVag188338_0279	SEQ00279	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	clust_5210
+GV20|SEQ00279	54189359	VBIGarVag188338_0279	SEQ00279	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	clust_5210

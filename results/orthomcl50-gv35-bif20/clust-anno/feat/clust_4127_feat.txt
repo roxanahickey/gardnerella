@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00765	VBIBifBif87902_0765	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884076	944930	945193	+	264	pacL	cation-transporting ATPase, E1-E2 family	BIF1	clust_4127
+BRE5|SEQ00860	VBIBifBre336369_0861	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615866	1013924	1014052	+	129		hypothetical protein	BRE5	clust_4127

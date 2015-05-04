@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01502	VBIBifAni240121_1502	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848023	1792611	1794557	+	1947		hypothetical protein	ANI1	clust_2649
+ANI2|SEQ01500	VBIBifAni235968_1500	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851372	1792831	1794777	+	1947		hypothetical protein	ANI2	clust_2649
+ANI3|SEQ01511	VBIBifAni108068_1511	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765394	1798062	1800008	+	1947		hypothetical protein	ANI3	clust_2649
+DEN1|SEQ02077	VBIBifDen165269_2079	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463133	28378	30249	+	1872		narrowly conserved hypothetical protein with possible glycosyltransferase domain	DEN1	clust_2649
+DEN2|SEQ01248	VBIBifDen39005_1249	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110875	28396	30267	+	1872		narrowly conserved hypothetical protein with possible glycosyltransferase domain	DEN2	clust_2649
+LON1|SEQ01512	VBIBifLon107831_1513	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120154	1832484	1834382	-	1899		narrowly conserved hypothetical protein with possible glycosyltransferase domain	LON1	clust_2649

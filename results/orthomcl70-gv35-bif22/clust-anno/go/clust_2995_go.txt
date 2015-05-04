@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ00478	43462248	VBIBifDen165269_0479	SEQ00478	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Beta-galactosidase (EC 3.2.1.23)	GO:0004565	beta-galactosidase activity	go	clust_2995
+DEN1|SEQ00760	43462826	VBIBifDen165269_0761	SEQ00760	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Beta-galactosidase (EC 3.2.1.23)	GO:0004565	beta-galactosidase activity	go	clust_2995
+DEN2|SEQ01020	42110395	VBIBifDen39005_1020	SEQ01020	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	NA	Beta-galactosidase (EC 3.2.1.23)	GO:0004565	beta-galactosidase activity	go	clust_2995
+DEN2|SEQ01314	42111013	VBIBifDen39005_1315	SEQ01314	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	NA	Beta-galactosidase (EC 3.2.1.23)	GO:0004565	beta-galactosidase activity	go	clust_2995

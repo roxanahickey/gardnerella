@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00247	VBIBifBre340958_0247	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602432	316725	318527	+	1803		Alpha-galactosidase (EC 3.2.1.22)	BRE1	clust_2226
+BRE2|SEQ00279	VBIBifBre337368_0279	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606470	354843	356645	+	1803		"Alpha-galactosidase "	BRE2	clust_2226
+BRE3|SEQ00298	VBIBifBre167886_0298	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192257	377457	379259	+	1803		"Alpha-galactosidase "	BRE3	clust_2226
+BRE4|SEQ00263	VBIBifBre327712_0263	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610579	339129	340931	+	1803		"Alpha-galactosidase "	BRE4	clust_2226
+BRE5|SEQ00282	VBIBifBre336369_0283	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614667	340298	342100	+	1803		"Alpha-galactosidase "	BRE5	clust_2226
+BRE6|SEQ00353	VBIBifBre268992_0353	Bifidobacterium breve JCP7499	AWSX01000018	PATRIC	CDS	177653828	22357	24159	+	1803		Alpha-galactosidase (EC 3.2.1.22)	BRE6	clust_2226
+BRE7|SEQ00275	VBIBifBre340732_0275	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618962	350359	352161	+	1803		"Alpha-galactosidase "	BRE7	clust_2226
+BRE8|SEQ00301	VBIBifBre176493_0301	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623127	381850	383652	+	1803		"Alpha-galactosidase "	BRE8	clust_2226

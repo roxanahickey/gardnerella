@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01351	VBIBifDen165269_1352	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459831	601317	602648	+	1332		hypothetical protein	DEN1	clust_2955
+DEN1|SEQ01355	VBIBifDen165269_1356	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459839	607854	608132	+	279		Transcriptional regulator, XRE family	DEN1	clust_2955
+DEN2|SEQ00736	VBIBifDen39005_0736	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109807	126171	126629	+	459		Transcriptional regulator	DEN2	clust_2955
+LON2|SEQ00575	VBIBifLon171405_0576	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580674	637178	637333	-	156		hypothetical protein	LON2	clust_2955
+LON4|SEQ00843	VBIBifLon48544_0843	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889959	1008199	1008426	+	228		hypothetical protein	LON4	clust_2955

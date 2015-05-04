@@ -1,0 +1,27 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01578	27189526	VBIBifAdo136061_1578	SEQ01578	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+ANI1|SEQ00257	86845422	VBIBifAni240121_0257	SEQ00257	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+ANI2|SEQ00256	86848775	VBIBifAni235968_0256	SEQ00256	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+ANI3|SEQ00257	42762788	VBIBifAni108068_0257	SEQ00257	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+BIF1|SEQ01059	86884686	VBIBifBif87902_1059	SEQ01059	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BIF1|SEQ01132	86884832	VBIBifBif87902_1132	SEQ01132	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+BRE1|SEQ00640	268603245	VBIBifBre340958_0640	SEQ00640	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE2|SEQ00737	268607409	VBIBifBre337368_0737	SEQ00737	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE3|SEQ01134	54194001	VBIBifBre167886_1134	SEQ01134	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE4|SEQ00675	268611429	VBIBifBre327712_0675	SEQ00675	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE5|SEQ00688	268615501	VBIBifBre336369_0689	SEQ00688	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE6|SEQ00061	177653218	VBIBifBre268992_0061	SEQ00061	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE7|SEQ00686	268619809	VBIBifBre340732_0686	SEQ00686	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE8|SEQ00708	268623961	VBIBifBre176493_0708	SEQ00708	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+BRE9|SEQ00758	58445590	VBIBifBre30019_0758	SEQ00758	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+DEN1|SEQ00412	43462111	VBIBifDen165269_0413	SEQ00412	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+DEN1|SEQ01428	43459986	VBIBifDen165269_1429	SEQ01428	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+DEN2|SEQ00212	42108740	VBIBifDen39005_0212	SEQ00212	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+DEN2|SEQ02106	42112652	VBIBifDen39005_2108	SEQ02106	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+INF1|SEQ00603	46885152	VBIBifLon182273_0603	SEQ00603	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+LON1|SEQ00756	21118585	VBIBifLon107831_0757	SEQ00756	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+LON2|SEQ00823	42581188	VBIBifLon171405_0824	SEQ00823	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+LON3|SEQ00625	42768219	VBIBifLon156230_0625	SEQ00625	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+LON4|SEQ00596	46889439	VBIBifLon48544_0596	SEQ00596	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073
+THE1|SEQ00284	124733738	VBIBifThe274299_0284	SEQ00284	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1073
+THE1|SEQ01746	124736776	VBIBifThe274299_1746	SEQ01746	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		FIG028593: membrane protein	FIG00975484	figfam	clust_1073

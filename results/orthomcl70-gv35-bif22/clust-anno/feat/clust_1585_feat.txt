@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01331	VBIBifBif87902_1331	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885249	1609422	1610867	+	1446	aldH	Aldehyde dehydrogenase (EC 1.2.1.3)	BIF1	clust_1585
+BRE1|SEQ00518	VBIBifBre340958_0518	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602993	642741	644300	+	1560		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE1	clust_1585
+BRE2|SEQ00596	VBIBifBre337368_0596	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607122	725048	726526	+	1479		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE2	clust_1585
+BRE3|SEQ01282	VBIBifBre167886_1282	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194302	1490975	1492534	-	1560		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE3	clust_1585
+BRE4|SEQ00539	VBIBifBre327712_0539	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611150	674629	676107	+	1479		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE4	clust_1585
+BRE5|SEQ00548	VBIBifBre336369_0549	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615215	659415	660893	+	1479		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE5	clust_1585
+BRE6|SEQ00388	VBIBifBre268992_0388	Bifidobacterium breve JCP7499	AWSX01000020	PATRIC	CDS	177653900	13853	15331	-	1479		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE6	clust_1585
+BRE7|SEQ00551	VBIBifBre340732_0551	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619532	677610	679169	+	1560		Aldehyde dehydrogenase (EC 1.2.1.3)	BRE7	clust_1585
+BRE8|SEQ00582	VBIBifBre176493_0582	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623705	722639	724198	+	1560	aldH	Aldehyde dehydrogenase (EC 1.2.1.3)	BRE8	clust_1585
+BRE9|SEQ00632	VBIBifBre30019_0632	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445332	770576	772135	+	1560	aldH	Aldehyde dehydrogenase (EC 1.2.1.3)	BRE9	clust_1585
+INF1|SEQ00520	VBIBifLon182273_0520	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884982	654911	656548	+	1638		Aldehyde dehydrogenase (EC 1.2.1.3)	INF1	clust_1585
+LON1|SEQ00833	VBIBifLon107831_0834	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118741	966340	967977	-	1638	aldH	Aldehyde dehydrogenase (EC 1.2.1.3)	LON1	clust_1585
+LON2|SEQ00900	VBIBifLon171405_0901	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581344	1005042	1006679	-	1638	putA1	Aldehyde dehydrogenase (EC 1.2.1.3)	LON2	clust_1585
+LON3|SEQ00705	VBIBifLon156230_0705	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768381	1581426	1583063	-	1638		Aldehyde dehydrogenase (EC 1.2.1.3)	LON3	clust_1585
+LON4|SEQ00506	VBIBifLon48544_0506	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889255	630313	631950	+	1638		Aldehyde dehydrogenase (EC 1.2.1.3)	LON4	clust_1585
+THE1|SEQ01176	VBIBifThe274299_1176	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735572	1461531	1462895	-	1365		Aldehyde dehydrogenase (EC 1.2.1.3)	THE1	clust_1585

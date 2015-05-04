@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00648	VBIGarVag247323_0648	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495449	67119	68129	-	1011		Inner membrane protein translocase component YidC, long form	GV01	clust_0342
+GV02|SEQ00131	VBIGarVag242669_0131	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497024	101896	102906	-	1011		Inner membrane protein translocase component YidC, long form	GV02	clust_0342
+GV03|SEQ00151	VBIGarVag247424_0151	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499678	86397	87410	+	1014		Inner membrane protein translocase component YidC, long form	GV03	clust_0342
+GV04|SEQ00242	VBIGarVag246433_0242	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480340	119976	120983	-	1008		Inner membrane protein translocase component YidC, long form	GV04	clust_0342
+GV05|SEQ00253	VBIGarVag174900_0253	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546224	86480	87493	+	1014		Inner membrane protein translocase component YidC, long form	GV05	clust_0342
+GV06|SEQ00134	VBIGarVag244004_0134	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488979	39434	40441	+	1008		Inner membrane protein translocase component YidC, long form	GV06	clust_0342
+GV07|SEQ00095	VBIGarVag249177_0095	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491771	106921	107934	-	1014		Inner membrane protein translocase component YidC, long form	GV07	clust_0342
+GV08|SEQ00999	VBIGarVag251521_0999	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476441	90389	91396	+	1008		Inner membrane protein translocase component YidC, long form	GV08	clust_0342
+GV09|SEQ00101	VBIGarVag169280_0101	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259349	69287	70294	-	1008		Inner membrane protein translocase component YidC, long form	GV09	clust_0342
+GV10|SEQ00044	VBIGarVag136958_0044	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146098	57123	57899	+	777	yidC	Inner membrane protein translocase component YidC, long form	GV10	clust_0342
+GV11|SEQ00899	VBIGarVag171052_0899	Gardnerella vaginalis 41V	AEJE01000052	PATRIC	CDS	52550164	3913	4923	+	1011		Inner membrane protein translocase component YidC, long form	GV11	clust_0342
+GV12|SEQ00576	VBIGarVag144721_0576	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853845	85305	86318	+	1014		Inner membrane protein translocase component YidC, long form	GV12	clust_0342
+GV13|SEQ00093	VBIGarVag244533_0093	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486122	94354	95358	+	1005		Inner membrane protein translocase component YidC, long form	GV13	clust_0342
+GV14|SEQ00604	VBIGarVag244375_0604	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503072	113382	114395	-	1014		Inner membrane protein translocase component YidC, long form	GV14	clust_0342
+GV15|SEQ01043	VBIGarVag249709_1043	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485677	5188	6201	-	1014		Inner membrane protein translocase component YidC, long form	GV15	clust_0342
+GV16|SEQ00167	VBIGarVag246379_0167	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477448	98953	99960	+	1008		Inner membrane protein translocase component YidC, long form	GV16	clust_0342
+GV17|SEQ00592	VBIGarVag146634_0592	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851236	5119	6132	-	1014		Inner membrane protein translocase component YidC, long form	GV17	clust_0342
+GV18|SEQ00908	VBIGarVag4823_0908	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000133	PATRIC	CDS	42070619	8318	9325	-	1008		Inner membrane protein translocase component YidC, long form	GV18	clust_0342
+GV19|SEQ00118	VBIGarVag39333_0118	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627074	136734	137741	-	1008	oxaA	Inner membrane protein translocase component YidC, long form	GV19	clust_0342
+GV20|SEQ01374	VBIGarVag188338_1374	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191628	1724213	1725220	-	1008		Inner membrane protein translocase component YidC, long form	GV20	clust_0342
+GV21|SEQ00364	VBIGarVag274454_0364	Gardnerella vaginalis JCP7275	ATJS01000016	PATRIC	CDS	183967387	895	1902	+	1008		Inner membrane protein translocase component YidC, long form	GV21	clust_0342
+GV22|SEQ00152	VBIGarVag276801_0152	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969694	15924	16931	-	1008		Inner membrane protein translocase component YidC, long form	GV22	clust_0342
+GV23|SEQ00064	VBIGarVag276017_0064	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972423	27711	28721	-	1011		Inner membrane protein translocase component YidC, long form	GV23	clust_0342
+GV24|SEQ00050	VBIGarVag268944_0051	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975194	40703	41710	-	1008		Inner membrane protein translocase component YidC, long form	GV24	clust_0342
+GV25|SEQ00155	VBIGarVag270495_0155	Gardnerella vaginalis JCP7719	ATJO01000011	PATRIC	CDS	183978187	32360	33370	-	1011		Inner membrane protein translocase component YidC, long form	GV25	clust_0342
+GV26|SEQ00209	VBIGarVag272749_0209	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981170	30081	31091	+	1011		Inner membrane protein translocase component YidC, long form	GV26	clust_0342
+GV27|SEQ00301	VBIGarVag276930_0301	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984337	58397	59407	+	1011		Inner membrane protein translocase component YidC, long form	GV27	clust_0342
+GV28|SEQ00205	VBIGarVag271349_0205	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987071	31373	32383	+	1011		Inner membrane protein translocase component YidC, long form	GV28	clust_0342
+GV29|SEQ00415	VBIGarVag265473_0415	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	183990234	967	1977	+	1011		Inner membrane protein translocase component YidC, long form	GV29	clust_0342
+GV30|SEQ00185	VBIGarVag267667_0185	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992420	13914	14918	-	1005		Inner membrane protein translocase component YidC, long form	GV30	clust_0342
+GV31|SEQ00380	VBIGarVag264983_0380	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995813	56575	57585	-	1011		Inner membrane protein translocase component YidC, long form	GV31	clust_0342
+GV32|SEQ00060	VBIGarVag277040_0060	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997952	41813	42823	-	1011		Inner membrane protein translocase component YidC, long form	GV32	clust_0342
+GV33|SEQ00090	VBIGarVag265557_0090	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000853	2164	3177	-	1014		Inner membrane protein translocase component YidC, long form	GV33	clust_0342
+GV34|SEQ01015	VBIGarVag270440_1015	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005712	27594	28607	-	1014		Inner membrane protein translocase component YidC, long form	GV34	clust_0342
+GV35|SEQ00265	VBIGarVag272169_0265	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006822	32388	33398	-	1011		Inner membrane protein translocase component YidC, long form	GV35	clust_0342

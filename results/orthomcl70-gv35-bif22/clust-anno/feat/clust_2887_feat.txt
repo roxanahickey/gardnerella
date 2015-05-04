@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01755	VBIBifAdo136061_1755	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189881	251194	252198	-	1005		probable LacI-type transcriptional regulator	ADO1	clust_2887
+BRE4|SEQ00021	VBIBifBre327712_0021	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610073	26861	27922	+	1062		probable LacI-type transcriptional regulator	BRE4	clust_2887
+BRE6|SEQ01544	VBIBifBre268992_1544	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656354	2839	3900	+	1062		probable LacI-type transcriptional regulator	BRE6	clust_2887
+BRE8|SEQ00021	VBIBifBre176493_0021	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622545	26884	27945	+	1062		probable LacI-type transcriptional regulator	BRE8	clust_2887
+BRE9|SEQ00021	VBIBifBre30019_0021	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444061	26884	27945	+	1062		probable LacI-type transcriptional regulator	BRE9	clust_2887

@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ02152	VBIBifDen165269_2154	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463293	28100	29995	+	1896		FIG00425074: hypothetical protein	DEN1	clust_2283
+DEN2|SEQ00985	VBIBifDen39005_0985	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110323	85949	86833	-	885		FIG00425074: hypothetical protein	DEN2	clust_2283
+DEN2|SEQ00986	VBIBifDen39005_0986	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110325	86830	87849	-	1020		FIG00425074: hypothetical protein	DEN2	clust_2283
+INF1|SEQ00224	VBIBifLon182273_0224	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884367	286254	288122	+	1869		FIG00425074: hypothetical protein	INF1	clust_2283
+LON1|SEQ01142	VBIBifLon107831_1143	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119377	1333512	1335365	-	1854		FIG00425074: hypothetical protein	LON1	clust_2283
+LON2|SEQ01174	VBIBifLon171405_1176	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581911	1345027	1346880	-	1854		FIG00425074: hypothetical protein	LON2	clust_2283
+LON3|SEQ01255	VBIBifLon156230_1257	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769107	1977828	1979681	-	1854		FIG00425074: hypothetical protein	LON3	clust_2283
+LON4|SEQ00242	VBIBifLon48544_0242	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888706	303586	305439	+	1854		FIG00425074: hypothetical protein	LON4	clust_2283

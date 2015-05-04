@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00984	VBIBifBre337368_0984	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607926	1158415	1159581	+	1167		MFS general substrate transporter	BRE2	clust_4128
+BRE5|SEQ01042	VBIBifBre336369_1043	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616241	1176338	1177591	+	1254		MFS general substrate transporter	BRE5	clust_4128

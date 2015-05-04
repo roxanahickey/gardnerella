@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00331	VBIBifAdo136061_0331	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186918	136013	136957	-	945		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	ADO1	clust_0284
+ANI1|SEQ00080	VBIBifAni240121_0080	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845057	96044	97069	-	1026		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	ANI1	clust_0284
+ANI2|SEQ00080	VBIBifAni235968_0080	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848412	96044	97069	-	1026		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	ANI2	clust_0284
+ANI3|SEQ00082	VBIBifAni108068_0082	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762428	96044	97069	-	1026		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	ANI3	clust_0284
+BIF1|SEQ00084	VBIBifBif87902_0084	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882666	103896	104879	-	984	pknA	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BIF1	clust_0284
+BRE1|SEQ00064	VBIBifBre340958_0064	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602046	81453	82403	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE1	clust_0284
+BRE2|SEQ00056	VBIBifBre337368_0056	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606002	74089	75039	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE2	clust_0284
+BRE3|SEQ00062	VBIBifBre167886_0062	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191762	80400	81350	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE3	clust_0284
+BRE4|SEQ00078	VBIBifBre327712_0078	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610189	100518	101468	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE4	clust_0284
+BRE5|SEQ00065	VBIBifBre336369_0065	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614211	80536	81486	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE5	clust_0284
+BRE6|SEQ01786	VBIBifBre268992_1786	Bifidobacterium breve JCP7499	AWSX01000083	PATRIC	CDS	177656880	10141	11091	+	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE6	clust_0284
+BRE7|SEQ00055	VBIBifBre340732_0055	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618502	71535	72485	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE7	clust_0284
+BRE8|SEQ00078	VBIBifBre176493_0078	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622661	96825	97775	-	951	pknA1	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE8	clust_0284
+BRE9|SEQ00078	VBIBifBre30019_0078	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444180	97109	98059	-	951	pknA1	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	BRE9	clust_0284
+DEN1|SEQ00652	VBIBifDen165269_0653	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462602	2112954	2113898	+	945	pknA2	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	DEN1	clust_0284
+DEN2|SEQ01695	VBIBifDen39005_1696	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111786	185437	186381	+	945		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	DEN2	clust_0284
+GV01|SEQ00665	VBIGarVag247323_0665	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495483	87590	88555	+	966		Serine/threonine protein kinase	GV01	clust_0284
+GV02|SEQ00150	VBIGarVag242669_0150	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497062	122346	123311	+	966		Serine/threonine protein kinase	GV02	clust_0284
+GV03|SEQ00134	VBIGarVag247424_0134	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499644	65884	66846	-	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV03	clust_0284
+GV04|SEQ00259	VBIGarVag246433_0259	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480374	139959	140924	+	966		Serine/threonine protein kinase	GV04	clust_0284
+GV05|SEQ00236	VBIGarVag174900_0236	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546190	65967	66929	-	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV05	clust_0284
+GV06|SEQ00117	VBIGarVag244004_0117	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488945	19494	20459	-	966		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV06	clust_0284
+GV07|SEQ00113	VBIGarVag249177_0113	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491807	127476	128438	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV07	clust_0284
+GV08|SEQ00982	VBIGarVag251521_0982	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476407	70448	71413	-	966		Serine/threonine protein kinase	GV08	clust_0284
+GV09|SEQ00119	VBIGarVag169280_0119	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259385	89272	90237	+	966		Serine/threonine protein kinase	GV09	clust_0284
+GV10|SEQ00027	VBIGarVag136958_0027	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146064	36425	37387	-	963		Serine/threonine protein kinase	GV10	clust_0284
+GV11|SEQ00476	VBIGarVag171052_0476	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549275	71273	72238	-	966		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV11	clust_0284
+GV12|SEQ00558	VBIGarVag144721_0558	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853809	64844	65806	-	963		Serine/threonine protein kinase	GV12	clust_0284
+GV13|SEQ00076	VBIGarVag244533_0076	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486088	74415	75380	-	966		Serine/threonine protein kinase	GV13	clust_0284
+GV14|SEQ00622	VBIGarVag244375_0622	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503108	133934	134896	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV14	clust_0284
+GV15|SEQ01061	VBIGarVag249709_1061	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485714	25695	26657	+	963		Serine/threonine protein kinase	GV15	clust_0284
+GV16|SEQ00150	VBIGarVag246379_0150	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477414	79012	79977	-	966		Serine/threonine protein kinase	GV16	clust_0284
+GV17|SEQ00610	VBIGarVag146634_0610	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851272	25625	26587	+	963		Serine/threonine protein kinase	GV17	clust_0284
+GV18|SEQ00927	VBIGarVag4823_0927	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000134	PATRIC	CDS	42070658	8428	9393	+	966		Serine/threonine protein kinase	GV18	clust_0284
+GV19|SEQ00137	VBIGarVag39333_0137	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627113	157053	157682	+	630	pknA	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV19	clust_0284
+GV20|SEQ00016	VBIGarVag188338_0016	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188802	17676	18641	+	966		Serine/threonine protein kinase	GV20	clust_0284
+GV21|SEQ00216	VBIGarVag274454_0216	Gardnerella vaginalis JCP7275	ATJS01000010	PATRIC	CDS	183967079	10663	11628	-	966		"Serine/threonine-protein kinase PknA "	GV21	clust_0284
+GV22|SEQ00169	VBIGarVag276801_0169	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969728	35914	36879	+	966		Serine/threonine protein kinase	GV22	clust_0284
+GV23|SEQ00082	VBIGarVag276017_0082	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972459	48166	49131	+	966		"Serine/threonine-protein kinase PknA "	GV23	clust_0284
+GV24|SEQ00067	VBIGarVag268944_0068	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975228	60698	61663	+	966		Serine/threonine protein kinase	GV24	clust_0284
+GV25|SEQ00009	VBIGarVag270495_0009	Gardnerella vaginalis JCP7719	ATJO01000001	PATRIC	CDS	183977875	9676	10641	-	966		"Serine/threonine-protein kinase PknA "	GV25	clust_0284
+GV26|SEQ00191	VBIGarVag272749_0191	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981134	9679	10644	-	966		"Serine/threonine-protein kinase PknA "	GV26	clust_0284
+GV27|SEQ00282	VBIGarVag276930_0282	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984299	37995	38960	-	966		"Serine/threonine-protein kinase PknA "	GV27	clust_0284
+GV28|SEQ00186	VBIGarVag271349_0186	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987033	10922	11887	-	966		"Serine/threonine-protein kinase PknA "	GV28	clust_0284
+GV29|SEQ00274	VBIGarVag265473_0274	Gardnerella vaginalis JCP8070	ATJK01000011	PATRIC	CDS	183989926	18473	19438	+	966		"Serine/threonine-protein kinase PknA "	GV29	clust_0284
+GV30|SEQ00202	VBIGarVag267667_0202	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992454	33901	34866	+	966		"Serine/threonine-protein kinase PknA "	GV30	clust_0284
+GV31|SEQ00399	VBIGarVag264983_0399	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995851	77049	78014	+	966		"Serine/threonine-protein kinase PknA "	GV31	clust_0284
+GV32|SEQ00079	VBIGarVag277040_0079	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997990	62259	63224	+	966		"Serine/threonine-protein kinase PknA "	GV32	clust_0284
+GV33|SEQ00108	VBIGarVag265557_0108	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000889	22767	23729	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV33	clust_0284
+GV34|SEQ01032	VBIGarVag270440_1032	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005746	48197	49159	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV34	clust_0284
+GV35|SEQ00284	VBIGarVag272169_0284	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006860	52861	53826	+	966		"Serine/threonine-protein kinase PknA "	GV35	clust_0284
+INF1|SEQ00048	VBIBifLon182273_0048	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883997	59662	60612	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	INF1	clust_0284
+LON1|SEQ01327	VBIBifLon107831_1328	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119763	1565550	1566500	+	951	pknA	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	LON1	clust_0284
+LON2|SEQ01359	VBIBifLon171405_1362	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582298	1572378	1573328	+	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	LON2	clust_0284
+LON3|SEQ01439	VBIBifLon156230_1442	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769493	2213917	2214867	+	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	LON3	clust_0284
+LON4|SEQ00057	VBIBifLon48544_0057	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888317	72531	73481	-	951		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	LON4	clust_0284
+THE1|SEQ00037	VBIBifThe274299_0037	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733233	47385	48416	+	1032		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	THE1	clust_0284

@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00651	VBIGarVag247323_0651	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495455	69604	71340	+	1737	dnaA	Chromosomal replication initiator protein DnaA	GV01	clust_0297
+GV02|SEQ00135	VBIGarVag242669_0135	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497032	104381	106117	+	1737	dnaA	Chromosomal replication initiator protein DnaA	GV02	clust_0297
+GV03|SEQ00148	VBIGarVag247424_0148	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499672	83340	85004	-	1665	dnaA	Chromosomal replication initiator protein DnaA	GV03	clust_0297
+GV04|SEQ00245	VBIGarVag246433_0245	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480346	122402	124009	+	1608	dnaA	Chromosomal replication initiator protein DnaA	GV04	clust_0297
+GV05|SEQ00250	VBIGarVag174900_0250	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546218	83423	85087	-	1665		Chromosomal replication initiator protein DnaA	GV05	clust_0297
+GV06|SEQ00131	VBIGarVag244004_0131	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488973	36409	38016	-	1608	dnaA	Chromosomal replication initiator protein DnaA	GV06	clust_0297
+GV07|SEQ00099	VBIGarVag249177_0099	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491779	109325	110989	+	1665	dnaA	Chromosomal replication initiator protein DnaA	GV07	clust_0297
+GV08|SEQ00996	VBIGarVag251521_0996	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476435	87363	88970	-	1608	dnaA	Chromosomal replication initiator protein DnaA	GV08	clust_0297
+GV09|SEQ00104	VBIGarVag169280_0104	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259355	71713	73320	+	1608	dnaA	Chromosomal replication initiator protein DnaA	GV09	clust_0297
+GV10|SEQ00041	VBIGarVag136958_0041	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146092	53866	55485	-	1620	dnaA	Chromosomal replication initiator protein DnaA	GV10	clust_0297
+GV11|SEQ00896	VBIGarVag171052_0896	Gardnerella vaginalis 41V	AEJE01000052	PATRIC	CDS	52550158	888	2495	-	1608		Chromosomal replication initiator protein DnaA	GV11	clust_0297
+GV12|SEQ00572	VBIGarVag144721_0572	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853837	82284	83903	-	1620		Chromosomal replication initiator protein DnaA	GV12	clust_0297
+GV13|SEQ00090	VBIGarVag244533_0090	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486116	91329	92936	-	1608	dnaA	Chromosomal replication initiator protein DnaA	GV13	clust_0297
+GV14|SEQ00608	VBIGarVag244375_0608	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503080	115784	117445	+	1662	dnaA	Chromosomal replication initiator protein DnaA	GV14	clust_0297
+GV15|SEQ01047	VBIGarVag249709_1047	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485685	7603	9216	+	1614	dnaA	Chromosomal replication initiator protein DnaA	GV15	clust_0297
+GV16|SEQ00164	VBIGarVag246379_0164	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477442	95927	97534	-	1608	dnaA	Chromosomal replication initiator protein DnaA	GV16	clust_0297
+GV17|SEQ00596	VBIGarVag146634_0596	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851244	7533	9146	+	1614		Chromosomal replication initiator protein DnaA	GV17	clust_0297
+GV18|SEQ00912	VBIGarVag4823_0912	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000133	PATRIC	CDS	42070627	10744	12351	+	1608	dnaA	Chromosomal replication initiator protein DnaA	GV18	clust_0297
+GV19|SEQ00122	VBIGarVag39333_0122	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627082	139160	140767	+	1608	dnaA	Chromosomal replication initiator protein DnaA	GV19	clust_0297
+GV20|SEQ00001	VBIGarVag188338_0001	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188772	120	1727	+	1608	dnaA	Chromosomal replication initiator protein DnaA	GV20	clust_0297
+GV21|SEQ00230	VBIGarVag274454_0230	Gardnerella vaginalis JCP7275	ATJS01000010	PATRIC	CDS	183967107	27578	29185	-	1608		Chromosomal replication initiator protein DnaA	GV21	clust_0297
+GV22|SEQ00155	VBIGarVag276801_0155	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969700	18350	19957	+	1608		Chromosomal replication initiator protein DnaA	GV22	clust_0297
+GV23|SEQ00068	VBIGarVag276017_0068	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972431	30196	31932	+	1737		Chromosomal replication initiator protein DnaA	GV23	clust_0297
+GV24|SEQ00053	VBIGarVag268944_0054	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975200	43129	44736	+	1608		Chromosomal replication initiator protein DnaA	GV24	clust_0297
+GV25|SEQ00024	VBIGarVag270495_0024	Gardnerella vaginalis JCP7719	ATJO01000001	PATRIC	CDS	183977905	26890	28626	-	1737		Chromosomal replication initiator protein DnaA	GV25	clust_0297
+GV26|SEQ00205	VBIGarVag272749_0205	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981162	26870	28606	-	1737		Chromosomal replication initiator protein DnaA	GV26	clust_0297
+GV27|SEQ00297	VBIGarVag276930_0297	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984329	55186	56922	-	1737		Chromosomal replication initiator protein DnaA	GV27	clust_0297
+GV28|SEQ00201	VBIGarVag271349_0201	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987063	28163	29899	-	1737		Chromosomal replication initiator protein DnaA	GV28	clust_0297
+GV29|SEQ00259	VBIGarVag265473_0259	Gardnerella vaginalis JCP8070	ATJK01000011	PATRIC	CDS	183989896	496	2232	+	1737		Chromosomal replication initiator protein DnaA	GV29	clust_0297
+GV30|SEQ00188	VBIGarVag267667_0188	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992426	16336	17952	+	1617		Chromosomal replication initiator protein DnaA	GV30	clust_0297
+GV31|SEQ00384	VBIGarVag264983_0384	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995821	59060	60796	+	1737		Chromosomal replication initiator protein DnaA	GV31	clust_0297
+GV32|SEQ00064	VBIGarVag277040_0064	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997960	44296	46032	+	1737		Chromosomal replication initiator protein DnaA	GV32	clust_0297
+GV33|SEQ00094	VBIGarVag265557_0094	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000861	4591	6252	+	1662		Chromosomal replication initiator protein DnaA	GV33	clust_0297
+GV34|SEQ01018	VBIGarVag270440_1018	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005718	30021	31682	+	1662		Chromosomal replication initiator protein DnaA	GV34	clust_0297
+GV35|SEQ00269	VBIGarVag272169_0269	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006830	34872	36608	+	1737		Chromosomal replication initiator protein DnaA	GV35	clust_0297
+ADO1|SEQ00294	VBIBifAdo136061_0294	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186838	87239	88693	+	1455		Chromosomal replication initiator protein DnaA	ADO1	clust_0297
+ANI1|SEQ00001	VBIBifAni240121_0001	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844894	134	1885	+	1752	dnaA	Chromosomal replication initiator protein DnaA	ANI1	clust_0297
+ANI2|SEQ00001	VBIBifAni235968_0001	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848249	134	1885	+	1752	dnaA	Chromosomal replication initiator protein DnaA	ANI2	clust_0297
+ANI3|SEQ00001	VBIBifAni108068_0001	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762262	134	1885	+	1752	dnaA	Chromosomal replication initiator protein DnaA	ANI3	clust_0297
+BIF1|SEQ00001	VBIBifBif87902_0001	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882495	1	1590	+	1590	dnaA	Chromosomal replication initiator protein DnaA	BIF1	clust_0297
+BRE1|SEQ00001	VBIBifBre340958_0001	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268601916	1	1467	+	1467		Chromosomal replication initiator protein DnaA	BRE1	clust_0297
+BRE2|SEQ00001	VBIBifBre337368_0001	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268605886	1	1467	+	1467		Chromosomal replication initiator protein DnaA	BRE2	clust_0297
+BRE3|SEQ00001	VBIBifBre167886_0001	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191635	76	1542	+	1467	dnaA	Chromosomal replication initiator protein DnaA	BRE3	clust_0297
+BRE4|SEQ00001	VBIBifBre327712_0001	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610029	1	1467	+	1467		Chromosomal replication initiator protein DnaA	BRE4	clust_0297
+BRE5|SEQ00001	VBIBifBre336369_0001	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614078	1	1467	+	1467		Chromosomal replication initiator protein DnaA	BRE5	clust_0297
+BRE6|SEQ01526	VBIBifBre268992_1526	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656313	27477	28943	+	1467		Chromosomal replication initiator protein DnaA	BRE6	clust_0297
+BRE7|SEQ00001	VBIBifBre340732_0001	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618388	1	1467	+	1467		Chromosomal replication initiator protein DnaA	BRE7	clust_0297
+BRE8|SEQ00001	VBIBifBre176493_0001	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622501	1	1467	+	1467	dnaA	Chromosomal replication initiator protein DnaA	BRE8	clust_0297
+BRE9|SEQ00001	VBIBifBre30019_0001	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444017	1	1467	+	1467	dnaA	Chromosomal replication initiator protein DnaA	BRE9	clust_0297
+INF1|SEQ00001	VBIBifLon182273_0001	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46883899	1	1503	+	1503		Chromosomal replication initiator protein DnaA	INF1	clust_0297
+LON1|SEQ01370	VBIBifLon107831_1371	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119853	1624263	1625765	-	1503	dnaA	Chromosomal replication initiator protein DnaA	LON1	clust_0297
+LON2|SEQ01412	VBIBifLon171405_1415	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582408	1640261	1641763	-	1503	dnaA	Chromosomal replication initiator protein DnaA	LON2	clust_0297
+LON3|SEQ01492	VBIBifLon156230_1495	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769603	2285125	2286627	-	1503		Chromosomal replication initiator protein DnaA	LON3	clust_0297
+LON4|SEQ00001	VBIBifLon48544_0001	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888200	1	1503	+	1503		Chromosomal replication initiator protein DnaA	LON4	clust_0297
+THE1|SEQ00001	VBIBifThe274299_0001	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733157	268	2190	+	1923	dnaA	Chromosomal replication initiator protein DnaA	THE1	clust_0297

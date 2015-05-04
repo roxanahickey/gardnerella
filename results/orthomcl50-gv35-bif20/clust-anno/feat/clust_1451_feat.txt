@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00850	VBIBifAni240121_0850	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846672	987051	987680	+	630		possible phospholipase/carboxylesterase	ANI1	clust_1451
+ANI2|SEQ00849	VBIBifAni235968_0849	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850023	987054	987683	+	630		possible phospholipase/carboxylesterase	ANI2	clust_1451
+ANI3|SEQ00852	VBIBifAni108068_0852	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764037	987056	987685	+	630		possible phospholipase/carboxylesterase	ANI3	clust_1451
+BIF1|SEQ01088	VBIBifBif87902_1088	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884744	1309552	1310121	+	570		possible phospholipase/carboxylesterase	BIF1	clust_1451
+BRE1|SEQ00911	VBIBifBre340958_0911	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603808	1081800	1082543	-	744		possible phospholipase/carboxylesterase	BRE1	clust_1451
+BRE2|SEQ01002	VBIBifBre337368_1002	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607963	1176878	1177588	-	711		possible phospholipase/carboxylesterase	BRE2	clust_1451
+BRE3|SEQ00880	VBIBifBre167886_0880	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193470	1042298	1043041	+	744		possible phospholipase/carboxylesterase	BRE3	clust_1451
+BRE4|SEQ01050	VBIBifBre327712_1050	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612217	1220991	1221701	+	711		possible phospholipase/carboxylesterase	BRE4	clust_1451
+BRE5|SEQ01055	VBIBifBre336369_1056	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616267	1188516	1189226	-	711		possible phospholipase/carboxylesterase	BRE5	clust_1451
+BRE6|SEQ00608	VBIBifBre268992_0608	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654365	7740	8483	-	744		possible phospholipase/carboxylesterase	BRE6	clust_1451
+BRE7|SEQ00954	VBIBifBre340732_0954	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620369	1122743	1123486	-	744		possible phospholipase/carboxylesterase	BRE7	clust_1451
+BRE8|SEQ00972	VBIBifBre176493_0972	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624512	1158986	1159729	-	744		possible phospholipase/carboxylesterase	BRE8	clust_1451
+BRE9|SEQ01037	VBIBifBre30019_1037	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446172	1222055	1222765	-	711		possible phospholipase/carboxylesterase	BRE9	clust_1451
+INF1|SEQ00959	VBIBifLon182273_0959	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885898	1115872	1116504	-	633		possible phospholipase/carboxylesterase	INF1	clust_1451
+LON1|SEQ00501	VBIBifLon107831_0502	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118057	584055	584798	+	744		possible phospholipase/carboxylesterase	LON1	clust_1451
+LON2|SEQ00556	VBIBifLon171405_0557	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580636	618588	619220	+	633		possible phospholipase/carboxylesterase	LON2	clust_1451
+LON3|SEQ00368	VBIBifLon156230_0368	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767686	1196387	1197019	+	633		possible phospholipase/carboxylesterase	LON3	clust_1451
+LON4|SEQ00848	VBIBifLon48544_0848	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889969	1014852	1015484	-	633		possible phospholipase/carboxylesterase	LON4	clust_1451

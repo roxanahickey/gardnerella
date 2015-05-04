@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01290	VBIBifBif87902_1290	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885158	1553643	1553813	+	171	rpmF	LSU ribosomal protein L32p	BIF1	clust_2803
+BRE3|SEQ01292	VBIBifBre167886_1292	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194322	1498764	1498931	+	168		hypothetical protein	BRE3	clust_2803
+BRE6|SEQ00397	VBIBifBre268992_0397	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653919	2627	2794	+	168		hypothetical protein	BRE6	clust_2803
+BRE7|SEQ00545	VBIBifBre340732_0545	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619520	673072	673239	-	168		hypothetical protein	BRE7	clust_2803
+BRE8|SEQ00572	VBIBifBre176493_0572	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623685	716242	716409	-	168		hypothetical protein	BRE8	clust_2803

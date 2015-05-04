@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00647	VBIBifBif87902_0647	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883831	792880	793386	+	507		YbaK/prolyl-tRNA synthetase associated region	BIF1	clust_1939
+BRE1|SEQ01312	VBIBifBre340958_1313	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604641	1546118	1546669	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE1	clust_1939
+BRE2|SEQ01402	VBIBifBre337368_1402	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608796	1622401	1622952	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE2	clust_1939
+BRE3|SEQ00510	VBIBifBre167886_0510	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192695	621943	622494	+	552		YbaK/prolyl-tRNA synthetase associated region	BRE3	clust_1939
+BRE4|SEQ01348	VBIBifBre327712_1348	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612828	1572447	1572998	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE4	clust_1939
+BRE5|SEQ01477	VBIBifBre336369_1478	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617143	1657218	1657769	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE5	clust_1939
+BRE6|SEQ00240	VBIBifBre268992_0240	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653591	12194	12745	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE6	clust_1939
+BRE7|SEQ01360	VBIBifBre340732_1360	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621213	1573806	1574357	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE7	clust_1939
+BRE8|SEQ01380	VBIBifBre176493_1380	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625361	1617823	1618374	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE8	clust_1939
+BRE9|SEQ01443	VBIBifBre30019_1443	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447018	1676882	1677433	-	552		YbaK/prolyl-tRNA synthetase associated region	BRE9	clust_1939
+THE1|SEQ01108	VBIBifThe274299_1108	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735433	1381509	1382087	-	579		YbaK/prolyl-tRNA synthetase associated region	THE1	clust_1939

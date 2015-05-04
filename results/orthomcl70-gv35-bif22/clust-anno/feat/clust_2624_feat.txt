@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01681	VBIBifAdo136061_1681	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189733	157826	159232	-	1407		FIG00512164: hypothetical protein	ADO1	clust_2624
+BRE8|SEQ01129	VBIBifBre176493_1129	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624846	1315805	1317763	-	1959		FIG00512164: hypothetical protein	BRE8	clust_2624
+DEN1|SEQ02199	VBIBifDen165269_2201	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463387	86145	87551	+	1407		FIG00512164: hypothetical protein	DEN1	clust_2624
+DEN2|SEQ00937	VBIBifDen39005_0937	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110227	28412	29818	-	1407		FIG00512164: hypothetical protein	DEN2	clust_2624
+LON1|SEQ00348	VBIBifLon107831_0348	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117737	411628	413226	-	1599		FIG00512164: hypothetical protein	LON1	clust_2624
+LON3|SEQ00214	VBIBifLon156230_0214	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767361	1034281	1035795	-	1515		FIG00512164: hypothetical protein	LON3	clust_2624

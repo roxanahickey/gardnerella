@@ -1,0 +1,15 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00948	86846872	VBIBifAni240121_0948	SEQ00948	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1722
+ANI2|SEQ00947	86850223	VBIBifAni235968_0947	SEQ00947	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1722
+ANI3|SEQ00951	42764237	VBIBifAni108068_0951	SEQ00951	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1722
+BIF1|SEQ00280	86883087	VBIBifBif87902_0280	SEQ00280	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE1|SEQ01677	268605403	VBIBifBre340958_1678	SEQ01677	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE2|SEQ01782	268609589	VBIBifBre337368_1782	SEQ01782	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE3|SEQ01746	54195266	VBIBifBre167886_1746	SEQ01746	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE4|SEQ01716	268613598	VBIBifBre327712_1716	SEQ01716	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE5|SEQ01838	268617895	VBIBifBre336369_1839	SEQ01838	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE6|SEQ01353	177655946	VBIBifBre268992_1353	SEQ01353	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE7|SEQ01775	268622073	VBIBifBre340732_1775	SEQ01775	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE8|SEQ01731	268626097	VBIBifBre176493_1731	SEQ01731	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+BRE9|SEQ01839	58447841	VBIBifBre30019_1839	SEQ01839	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722
+LON3|SEQ00949	42768879	VBIBifLon156230_0950	SEQ00949	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Phage DNA-binding protein	FIG01048663	figfam	clust_1722

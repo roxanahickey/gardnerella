@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01506	VBIBifAdo136061_1506	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189370	165096	165827	-	732		Glycerol uptake facilitator protein	ADO1	clust_0318
+ANI1|SEQ01468	VBIBifAni240121_1468	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847947	1754478	1755212	-	735		Glycerol uptake facilitator protein	ANI1	clust_0318
+ANI2|SEQ01467	VBIBifAni235968_1467	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851298	1754698	1755432	-	735		Glycerol uptake facilitator protein	ANI2	clust_0318
+ANI3|SEQ01477	VBIBifAni108068_1477	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765318	1759929	1760663	-	735		Glycerol uptake facilitator protein	ANI3	clust_0318
+BIF1|SEQ00255	VBIBifBif87902_0255	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883027	317237	317968	+	732	glpF	Glycerol uptake facilitator protein	BIF1	clust_0318
+BRE1|SEQ00224	VBIBifBre340958_0224	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602386	289969	290700	+	732		Glycerol uptake facilitator protein	BRE1	clust_0318
+BRE2|SEQ00257	VBIBifBre337368_0257	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606426	327995	328729	+	735		Glycerol uptake facilitator protein	BRE2	clust_0318
+BRE3|SEQ00275	VBIBifBre167886_0275	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192211	350619	351353	+	735	gla	Glycerol uptake facilitator protein	BRE3	clust_0318
+BRE4|SEQ00241	VBIBifBre327712_0241	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610535	312371	313102	+	732		Glycerol uptake facilitator protein	BRE4	clust_0318
+BRE5|SEQ00260	VBIBifBre336369_0261	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614623	313462	314196	+	735		Glycerol uptake facilitator protein	BRE5	clust_0318
+BRE6|SEQ00324	VBIBifBre268992_0324	Bifidobacterium breve JCP7499	AWSX01000017	PATRIC	CDS	177653765	20919	21653	-	735		Glycerol uptake facilitator protein	BRE6	clust_0318
+BRE7|SEQ00253	VBIBifBre340732_0253	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618918	323570	324304	+	735		Glycerol uptake facilitator protein	BRE7	clust_0318
+BRE8|SEQ00279	VBIBifBre176493_0279	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623083	355056	355790	+	735	glpF	Glycerol uptake facilitator protein	BRE8	clust_0318
+BRE9|SEQ00289	VBIBifBre30019_0289	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444623	368856	369590	+	735	glpF	Glycerol uptake facilitator protein	BRE9	clust_0318
+DEN1|SEQ02130	VBIBifDen165269_2132	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463249	1606	2337	+	732	glpF	Glycerol uptake facilitator protein	DEN1	clust_0318
+DEN2|SEQ01008	VBIBifDen39005_1008	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110369	113613	114344	-	732	gla	Glycerol uptake facilitator protein	DEN2	clust_0318
+GV01|SEQ00811	VBIGarVag247323_0811	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495789	25396	26127	-	732		Glycerol uptake facilitator protein	GV01	clust_0318
+GV02|SEQ00050	VBIGarVag242669_0050	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496858	10078	10809	+	732		Glycerol uptake facilitator protein	GV02	clust_0318
+GV03|SEQ00185	VBIGarVag247424_0185	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499751	132442	133173	+	732		Glycerol uptake facilitator protein	GV03	clust_0318
+GV04|SEQ00197	VBIGarVag246433_0197	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480246	63305	64036	-	732		Glycerol uptake facilitator protein	GV04	clust_0318
+GV05|SEQ00285	VBIGarVag174900_0285	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546293	130757	131488	+	732		Glycerol uptake facilitator protein	GV05	clust_0318
+GV06|SEQ00173	VBIGarVag244004_0173	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489061	94408	95139	+	732		Glycerol uptake facilitator protein	GV06	clust_0318
+GV07|SEQ00063	VBIGarVag249177_0063	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491703	66045	66776	-	732		Glycerol uptake facilitator protein	GV07	clust_0318
+GV08|SEQ01045	VBIGarVag251521_1045	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476537	151603	152334	+	732		Glycerol uptake facilitator protein	GV08	clust_0318
+GV09|SEQ00060	VBIGarVag169280_0060	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259262	11512	12243	-	732	gla	Glycerol uptake facilitator protein	GV09	clust_0318
+GV10|SEQ00078	VBIGarVag136958_0078	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146170	103188	103904	+	717	gla	Glycerol uptake facilitator protein	GV10	clust_0318
+GV11|SEQ00882	VBIGarVag171052_0882	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550127	63235	63966	-	732		Glycerol uptake facilitator protein	GV11	clust_0318
+GV12|SEQ00612	VBIGarVag144721_0612	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853921	130887	131618	+	732		Glycerol uptake facilitator protein	GV12	clust_0318
+GV13|SEQ00132	VBIGarVag244533_0132	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486204	149453	150184	+	732		Glycerol uptake facilitator protein	GV13	clust_0318
+GV14|SEQ00566	VBIGarVag244375_0566	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502992	63870	64601	-	732		Glycerol uptake facilitator protein	GV14	clust_0318
+GV15|SEQ00794	VBIGarVag249709_0794	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485146	8000	8731	-	732		Glycerol uptake facilitator protein	GV15	clust_0318
+GV16|SEQ00210	VBIGarVag246379_0210	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477538	157877	158608	+	732		Glycerol uptake facilitator protein	GV16	clust_0318
+GV17|SEQ00526	VBIGarVag146634_0526	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851087	529770	530501	-	732		Glycerol uptake facilitator protein	GV17	clust_0318
+GV18|SEQ00097	VBIGarVag4823_0097	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000045	PATRIC	CDS	42068863	3092	3823	-	732		Glycerol uptake facilitator protein	GV18	clust_0318
+GV19|SEQ00078	VBIGarVag39333_0078	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626990	82396	83127	-	732	glpE	Glycerol uptake facilitator protein	GV19	clust_0318
+GV20|SEQ01329	VBIGarVag188338_1329	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191534	1664028	1664759	-	732	gla	Glycerol uptake facilitator protein	GV20	clust_0318
+GV21|SEQ00551	VBIGarVag274454_0552	Gardnerella vaginalis JCP7275	ATJS01000029	PATRIC	CDS	183967780	821	1552	-	732		Glycerol uptake facilitator protein	GV21	clust_0318
+GV22|SEQ00531	VBIGarVag276801_0532	Gardnerella vaginalis JCP7276	ATJR01000015	PATRIC	CDS	183970495	13715	14446	+	732		Glycerol uptake facilitator protein	GV22	clust_0318
+GV23|SEQ00469	VBIGarVag276017_0469	Gardnerella vaginalis JCP7659	ATJQ01000036	PATRIC	CDS	183973288	433	1143	-	711		Glycerol uptake facilitator protein	GV23	clust_0318
+GV24|SEQ00614	VBIGarVag268944_0615	Gardnerella vaginalis JCP7672	ATJP01000041	PATRIC	CDS	183976398	484	1215	-	732		Glycerol uptake facilitator protein	GV24	clust_0318
+GV25|SEQ00577	VBIGarVag270495_0577	Gardnerella vaginalis JCP7719	ATJO01000050	PATRIC	CDS	183979099	15758	16489	-	732		Glycerol uptake facilitator protein	GV25	clust_0318
+GV26|SEQ00776	VBIGarVag272749_0776	Gardnerella vaginalis JCP8017A	ATJN01000041	PATRIC	CDS	183982372	2633	3364	+	732		Glycerol uptake facilitator protein	GV26	clust_0318
+GV27|SEQ00206	VBIGarVag276930_0206	Gardnerella vaginalis JCP8017B	ATJM01000007	PATRIC	CDS	183984137	3027	3758	+	732		Glycerol uptake facilitator protein	GV27	clust_0318
+GV28|SEQ00418	VBIGarVag271349_0418	Gardnerella vaginalis JCP8066	ATJL01000025	PATRIC	CDS	183987529	3090	3821	+	732		Glycerol uptake facilitator protein	GV28	clust_0318
+GV29|SEQ00296	VBIGarVag265473_0296	Gardnerella vaginalis JCP8070	ATJK01000012	PATRIC	CDS	183989971	13816	14547	-	732		Glycerol uptake facilitator protein	GV29	clust_0318
+GV30|SEQ00720	VBIGarVag267667_0722	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993571	29294	30025	+	732		Glycerol uptake facilitator protein	GV30	clust_0318
+GV31|SEQ00981	VBIGarVag264983_0981	Gardnerella vaginalis JCP8151A	ATJI01000076	PATRIC	CDS	183997116	2983	3714	+	732		Glycerol uptake facilitator protein	GV31	clust_0318
+GV32|SEQ00624	VBIGarVag277040_0624	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999158	26699	27430	+	732		Glycerol uptake facilitator protein	GV32	clust_0318
+GV33|SEQ00364	VBIGarVag265557_0364	Gardnerella vaginalis JCP8481A	ATJG01000031	PATRIC	CDS	184001445	4159	4890	-	732		Glycerol uptake facilitator protein	GV33	clust_0318
+GV34|SEQ00301	VBIGarVag270440_0301	Gardnerella vaginalis JCP8481B	ATJF01000021	PATRIC	CDS	184004144	11913	12644	-	732		Glycerol uptake facilitator protein	GV34	clust_0318
+GV35|SEQ00392	VBIGarVag272169_0392	Gardnerella vaginalis JCP8522	ATJE01000020	PATRIC	CDS	184007092	305	1036	-	732		Glycerol uptake facilitator protein	GV35	clust_0318
+INF1|SEQ00211	VBIBifLon182273_0211	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884341	272102	272836	+	735		Glycerol uptake facilitator protein	INF1	clust_0318
+LON1|SEQ01154	VBIBifLon107831_1155	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119401	1346980	1347714	-	735	glpF	Glycerol uptake facilitator protein	LON1	clust_0318
+LON2|SEQ01186	VBIBifLon171405_1188	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581935	1358435	1359169	-	735	glpF2	Glycerol uptake facilitator protein	LON2	clust_0318
+LON3|SEQ01267	VBIBifLon156230_1269	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769131	1991296	1992030	-	735		Glycerol uptake facilitator protein	LON3	clust_0318
+LON4|SEQ00230	VBIBifLon48544_0230	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888682	291237	291971	+	735		Glycerol uptake facilitator protein	LON4	clust_0318
+THE1|SEQ01623	VBIBifThe274299_1623	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736511	2011441	2012172	+	732		Glycerol uptake facilitator protein	THE1	clust_0318

@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01224	VBIBifAdo136061_1224	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188787	150394	151011	-	618		Substrate-specific component BL0695 of predicted ECF transporter	ADO1	clust_1521
+ANI1|SEQ00176	VBIBifAni240121_0176	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845254	209807	210448	+	642		Substrate-specific component BL0695 of predicted ECF transporter	ANI1	clust_1521
+ANI2|SEQ00175	VBIBifAni235968_0175	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848607	209808	210449	+	642		Substrate-specific component BL0695 of predicted ECF transporter	ANI2	clust_1521
+ANI3|SEQ00178	VBIBifAni108068_0178	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762624	209808	210449	+	642		Substrate-specific component BL0695 of predicted ECF transporter	ANI3	clust_1521
+BRE1|SEQ00932	VBIBifBre340958_0932	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603851	1107410	1108057	-	648		Substrate-specific component BL0695 of predicted ECF transporter	BRE1	clust_1521
+BRE5|SEQ01078	VBIBifBre336369_1079	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616314	1214492	1215271	-	780		Substrate-specific component BL0695 of predicted ECF transporter	BRE5	clust_1521
+BRE7|SEQ00976	VBIBifBre340732_0976	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620414	1148396	1148923	-	528		Substrate-specific component BL0695 of predicted ECF transporter	BRE7	clust_1521
+GV11|SEQ00108	VBIGarVag171052_0108	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548484	12508	13101	+	594		Substrate-specific component BL0695 of predicted ECF transporter	GV11	clust_1521
+GV13|SEQ00205	VBIGarVag244533_0205	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486353	7726	8175	-	450		Substrate-specific component BL0695 of predicted ECF transporter	GV13	clust_1521
+GV17|SEQ00139	VBIGarVag146634_0139	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850275	76774	77358	+	585		Substrate-specific component BL0695 of predicted ECF transporter	GV17	clust_1521
+GV23|SEQ00180	VBIGarVag276017_0180	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972661	37322	37744	+	423		Substrate-specific component BL0695 of predicted ECF transporter	GV23	clust_1521
+GV25|SEQ00079	VBIGarVag270495_0079	Gardnerella vaginalis JCP7719	ATJO01000004	PATRIC	CDS	183978018	2624	3208	+	585		Substrate-specific component BL0695 of predicted ECF transporter	GV25	clust_1521
+GV30|SEQ01322	VBIGarVag267667_1324	Gardnerella vaginalis JCP8108	ATJJ01000165	PATRIC	CDS	183994940	2423	3016	-	594		Substrate-specific component BL0695 of predicted ECF transporter	GV30	clust_1521
+INF1|SEQ01137	VBIBifLon182273_1137	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886270	1278990	1279637	+	648		Substrate-specific component BL0695 of predicted ECF transporter	INF1	clust_1521
+LON1|SEQ00393	VBIBifLon107831_0393	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117829	466393	467040	-	648		Substrate-specific component BL0695 of predicted ECF transporter	LON1	clust_1521
+LON2|SEQ00401	VBIBifLon171405_0402	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580310	465061	465708	-	648		Substrate-specific component BL0695 of predicted ECF transporter	LON2	clust_1521
+LON3|SEQ00258	VBIBifLon156230_0258	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767451	1080394	1081041	-	648		Substrate-specific component BL0695 of predicted ECF transporter	LON3	clust_1521
+LON4|SEQ01160	VBIBifLon48544_1160	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890654	1306656	1307303	+	648		Substrate-specific component BL0695 of predicted ECF transporter	LON4	clust_1521

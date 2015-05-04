@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00338	VBIBifBif87902_0338	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883207	412422	413333	-	912	sorC	transcriptional regulator, SorC family	BIF1	clust_1881
+DEN1|SEQ00715	VBIBifDen165269_0716	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462736	2199048	2200019	+	972		transcriptional regulator, SorC family	DEN1	clust_1881
+DEN2|SEQ00040	VBIBifDen39005_0040	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS	42108361	45992	46963	-	972		transcriptional regulator, SorC family	DEN2	clust_1881
+GV04|SEQ00112	VBIGarVag246433_0112	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480072	119803	120777	+	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV04	clust_1881
+GV08|SEQ01114	VBIGarVag251521_1114	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476677	222639	223613	-	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV08	clust_1881
+GV09|SEQ01146	VBIGarVag169280_1146	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261521	6701	7675	-	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV09	clust_1881
+GV11|SEQ00416	VBIGarVag171052_0416	Gardnerella vaginalis 41V	AEJE01000028	PATRIC	CDS	52549146	350	1324	+	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV11	clust_1881
+GV13|SEQ01019	VBIGarVag244533_1019	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488055	6852	7826	-	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV13	clust_1881
+GV20|SEQ00148	VBIGarVag188338_0148	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189082	173786	174760	-	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV20	clust_1881
+GV21|SEQ00776	VBIGarVag274454_0777	Gardnerella vaginalis JCP7275	ATJS01000054	PATRIC	CDS	183968269	629	1603	+	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV21	clust_1881
+GV22|SEQ00695	VBIGarVag276801_0696	Gardnerella vaginalis JCP7276	ATJR01000028	PATRIC	CDS	183970838	872	1846	+	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV22	clust_1881
+GV24|SEQ00259	VBIGarVag268944_0260	Gardnerella vaginalis JCP7672	ATJP01000011	PATRIC	CDS	183975628	3504	4478	-	975		Deoxyribonucleoside regulator DeoR (transcriptional repressor)	GV24	clust_1881

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01076	VBIBifAni240121_1076	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847139	1248787	1249785	-	999		Methionine ABC transporter substrate-binding protein	ANI1	clust_1397
+ANI2|SEQ01076	VBIBifAni235968_1076	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850492	1248791	1249789	-	999		Methionine ABC transporter substrate-binding protein	ANI2	clust_1397
+ANI3|SEQ01080	VBIBifAni108068_1080	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764505	1248792	1249790	-	999		Methionine ABC transporter substrate-binding protein	ANI3	clust_1397
+BRE1|SEQ00742	VBIBifBre340958_0742	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603465	895410	896390	+	981		Methionine ABC transporter substrate-binding protein	BRE1	clust_1397
+BRE2|SEQ00839	VBIBifBre337368_0839	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607629	992245	993225	+	981		Methionine ABC transporter substrate-binding protein	BRE2	clust_1397
+BRE3|SEQ01046	VBIBifBre167886_1046	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193809	1226914	1227894	-	981		Methionine ABC transporter substrate-binding protein	BRE3	clust_1397
+BRE4|SEQ00771	VBIBifBre327712_0771	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611636	933779	934759	+	981		Methionine ABC transporter substrate-binding protein	BRE4	clust_1397
+BRE5|SEQ00785	VBIBifBre336369_0786	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615710	926919	927899	+	981		Methionine ABC transporter substrate-binding protein	BRE5	clust_1397
+BRE6|SEQ01635	VBIBifBre268992_1635	Bifidobacterium breve JCP7499	AWSX01000075	PATRIC	CDS	177656547	29505	30485	-	981		Methionine ABC transporter substrate-binding protein	BRE6	clust_1397
+BRE7|SEQ00774	VBIBifBre340732_0774	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620000	925983	926963	+	981		Methionine ABC transporter substrate-binding protein	BRE7	clust_1397
+BRE8|SEQ00798	VBIBifBre176493_0798	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624157	968831	969811	+	981		Methionine ABC transporter substrate-binding protein	BRE8	clust_1397
+BRE9|SEQ00847	VBIBifBre30019_0847	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445784	1014405	1015385	+	981		Methionine ABC transporter substrate-binding protein	BRE9	clust_1397
+DEN1|SEQ01331	VBIBifDen165269_1332	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459791	580557	581528	+	972		Methionine ABC transporter substrate-binding protein	DEN1	clust_1397
+DEN2|SEQ00715	VBIBifDen39005_0715	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109765	104638	105609	+	972		Methionine ABC transporter substrate-binding protein	DEN2	clust_1397
+INF1|SEQ00710	VBIBifLon182273_0710	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885384	869318	870298	+	981		Methionine ABC transporter substrate-binding protein	INF1	clust_1397
+LON1|SEQ00659	VBIBifLon107831_0660	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118379	765361	766341	-	981		Methionine ABC transporter substrate-binding protein	LON1	clust_1397
+LON2|SEQ00723	VBIBifLon171405_0724	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580976	803571	804551	-	981	nlpA	Methionine ABC transporter substrate-binding protein	LON2	clust_1397
+LON3|SEQ00532	VBIBifLon156230_0532	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768020	1383005	1383985	-	981		Methionine ABC transporter substrate-binding protein	LON3	clust_1397
+LON4|SEQ00688	VBIBifLon48544_0688	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889641	834240	835220	+	981		Methionine ABC transporter substrate-binding protein	LON4	clust_1397
+THE1|SEQ00757	VBIBifThe274299_0757	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734695	953408	954397	+	990		Methionine ABC transporter substrate-binding protein	THE1	clust_1397

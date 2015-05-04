@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01409	VBIBifAdo136061_1409	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189172	82166	83200	-	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	ADO1	clust_1018
+ANI1|SEQ01420	VBIBifAni240121_1420	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847849	1684377	1685405	-	1029		Homoserine O-succinyltransferase (EC 2.3.1.46)	ANI1	clust_1018
+ANI2|SEQ01419	VBIBifAni235968_1419	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851200	1684596	1685624	-	1029		Homoserine O-succinyltransferase (EC 2.3.1.46)	ANI2	clust_1018
+ANI3|SEQ01429	VBIBifAni108068_1429	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765220	1689827	1690855	-	1029		Homoserine O-succinyltransferase (EC 2.3.1.46)	ANI3	clust_1018
+BIF1|SEQ01615	VBIBifBif87902_1615	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885847	1949096	1950130	-	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	BIF1	clust_1018
+BRE1|SEQ00259	VBIBifBre340958_0259	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602458	334465	335499	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE1	clust_1018
+BRE2|SEQ00321	VBIBifBre337368_0321	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606556	390834	391868	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE2	clust_1018
+BRE3|SEQ00310	VBIBifBre167886_0310	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192283	395062	396096	+	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE3	clust_1018
+BRE4|SEQ00275	VBIBifBre327712_0275	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610605	356887	357921	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE4	clust_1018
+BRE5|SEQ00297	VBIBifBre336369_0298	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614700	358965	359999	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE5	clust_1018
+BRE6|SEQ00551	VBIBifBre268992_0551	Bifidobacterium breve JCP7499	AWSX01000030	PATRIC	CDS	177654244	3276	4310	-	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE6	clust_1018
+BRE7|SEQ00287	VBIBifBre340732_0287	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618988	368093	369127	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE7	clust_1018
+BRE8|SEQ00313	VBIBifBre176493_0313	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623153	399584	400618	+	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE8	clust_1018
+BRE9|SEQ00363	VBIBifBre30019_0363	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444778	441619	442653	+	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	BRE9	clust_1018
+DEN1|SEQ00002	VBIBifDen165269_0002	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458865	1155	2189	+	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	DEN1	clust_1018
+DEN2|SEQ01786	VBIBifDen39005_1787	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42111976	1176	2210	+	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	DEN2	clust_1018
+GV07|SEQ00010	VBIGarVag249177_0010	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491595	8811	9842	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV07	clust_1018
+GV10|SEQ00130	VBIGarVag136958_0130	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146276	162847	163878	+	1032	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	GV10	clust_1018
+GV12|SEQ00668	VBIGarVag144721_0668	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854035	197977	199008	+	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV12	clust_1018
+GV14|SEQ00514	VBIGarVag244375_0514	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502886	7410	8441	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV14	clust_1018
+GV15|SEQ00542	VBIGarVag249709_0542	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484620	287636	288667	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV15	clust_1018
+GV17|SEQ00474	VBIGarVag146634_0474	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850981	473897	474928	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV17	clust_1018
+GV33|SEQ00646	VBIGarVag265557_0646	Gardnerella vaginalis JCP8481A	ATJG01000061	PATRIC	CDS	184002046	335	1366	+	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV33	clust_1018
+GV34|SEQ00725	VBIGarVag270440_0725	Gardnerella vaginalis JCP8481B	ATJF01000074	PATRIC	CDS	184005072	335	1366	+	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV34	clust_1018
+INF1|SEQ00241	VBIBifLon182273_0241	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884403	308967	310001	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	INF1	clust_1018
+LON1|SEQ01099	VBIBifLon107831_1100	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119289	1294216	1295250	-	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	LON1	clust_1018
+LON2|SEQ01157	VBIBifLon171405_1159	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581875	1323148	1324182	-	1035	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	LON2	clust_1018
+LON3|SEQ00983	VBIBifLon156230_0984	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768955	1918409	1919443	-	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	LON3	clust_1018
+LON4|SEQ00259	VBIBifLon48544_0259	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888742	326284	327318	+	1035		Homoserine O-succinyltransferase (EC 2.3.1.46)	LON4	clust_1018
+THE1|SEQ01556	VBIBifThe274299_1556	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736366	1920748	1921860	-	1113		Homoserine O-succinyltransferase (EC 2.3.1.46)	THE1	clust_1018

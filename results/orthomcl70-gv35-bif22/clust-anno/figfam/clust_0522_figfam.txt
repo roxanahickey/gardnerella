@@ -1,0 +1,58 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00952	27188218	VBIBifAdo136061_0952	SEQ00952	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+ANI1|SEQ01045	86847072	VBIBifAni240121_1045	SEQ01045	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+ANI2|SEQ01045	86850425	VBIBifAni235968_1045	SEQ01045	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+ANI3|SEQ01049	42764439	VBIBifAni108068_1049	SEQ01049	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BIF1|SEQ01122	86884812	VBIBifBif87902_1122	SEQ01122	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE1|SEQ00776	268603536	VBIBifBre340958_0776	SEQ00776	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE2|SEQ00871	268607698	VBIBifBre337368_0871	SEQ00871	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE3|SEQ01013	54193738	VBIBifBre167886_1013	SEQ01013	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE4|SEQ00804	268611707	VBIBifBre327712_0804	SEQ00804	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE5|SEQ00816	268615777	VBIBifBre336369_0817	SEQ00816	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE6|SEQ01604	177656479	VBIBifBre268992_1604	SEQ01604	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000074	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE7|SEQ00806	268620068	VBIBifBre340732_0806	SEQ00806	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE8|SEQ00831	268624227	VBIBifBre176493_0831	SEQ00831	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	pap	proline iminopeptidase	FIG00672356	figfam	clust_0522
+BRE9|SEQ00879	58445852	VBIBifBre30019_0879	SEQ00879	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+DEN1|SEQ01981	43461129	VBIBifDen165269_1982	SEQ01981	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+DEN2|SEQ00848	42110046	VBIBifDen39005_0848	SEQ00848	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV01|SEQ00284	85494691	VBIGarVag247323_0284	SEQ00284	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV02|SEQ00667	85498151	VBIGarVag242669_0667	SEQ00667	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV03|SEQ00767	85500965	VBIGarVag247424_0767	SEQ00767	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV04|SEQ01077	85482075	VBIGarVag246433_1077	SEQ01077	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV05|SEQ00820	52547406	VBIGarVag174900_0820	SEQ00820	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV06|SEQ00671	85490126	VBIGarVag244004_0671	SEQ00671	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV07|SEQ00579	85492807	VBIGarVag249177_0579	SEQ00579	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV08|SEQ00146	85474663	VBIGarVag251521_0146	SEQ00146	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV09|SEQ00974	55261160	VBIGarVag169280_0974	SEQ00974	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV10|SEQ00567	32147192	VBIGarVag136958_0567	SEQ00567	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV11|SEQ00669	52549685	VBIGarVag171052_0669	SEQ00669	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV12|SEQ01202	37855234	VBIGarVag144721_1202	SEQ01202	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV13|SEQ00611	85487195	VBIGarVag244533_0611	SEQ00611	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV14|SEQ00284	85502410	VBIGarVag244375_0284	SEQ00284	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV15|SEQ00625	85484795	VBIGarVag249709_0625	SEQ00625	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV16|SEQ00921	85479009	VBIGarVag246379_0921	SEQ00921	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV17|SEQ00984	37852056	VBIGarVag146634_0984	SEQ00984	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV18|SEQ00538	42069826	VBIGarVag4823_0538	SEQ00538	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV19|SEQ00696	42628286	VBIGarVag39333_0697	SEQ00696	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV20|SEQ00844	54190522	VBIGarVag188338_0844	SEQ00844	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV21|SEQ00297	183967246	VBIGarVag274454_0297	SEQ00297	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV22|SEQ00070	183969525	VBIGarVag276801_0070	SEQ00070	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV23|SEQ00121	183972539	VBIGarVag276017_0121	SEQ00121	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV24|SEQ01002	183977235	VBIGarVag268944_1003	SEQ01002	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV25|SEQ00729	183979425	VBIGarVag270495_0729	SEQ00729	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV26|SEQ00369	183981516	VBIGarVag272749_0369	SEQ00369	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV27|SEQ00113	183983940	VBIGarVag276930_0113	SEQ00113	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV28|SEQ00260	183987183	VBIGarVag271349_0260	SEQ00260	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV29|SEQ00874	183991237	VBIGarVag265473_0874	SEQ00874	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV30|SEQ00271	183992600	VBIGarVag267667_0272	SEQ00271	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV31|SEQ00014	183995046	VBIGarVag264983_0014	SEQ00014	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV32|SEQ00273	183998394	VBIGarVag277040_0273	SEQ00273	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV33|SEQ01210	184003353	VBIGarVag265557_1210	SEQ01210	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV34|SEQ00704	184005027	VBIGarVag270440_0704	SEQ00704	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+GV35|SEQ00148	184006575	VBIGarVag272169_0148	SEQ00148	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	NA	proline iminopeptidase	FIG00672356	figfam	clust_0522
+INF1|SEQ00740	46885449	VBIBifLon182273_0740	SEQ00740	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+LON1|SEQ00628	21118313	VBIBifLon107831_0629	SEQ00628	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+LON2|SEQ00692	42580910	VBIBifLon171405_0693	SEQ00692	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+LON3|SEQ00502	42767956	VBIBifLon156230_0502	SEQ00502	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+LON4|SEQ00718	46889706	VBIBifLon48544_0718	SEQ00718	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522
+THE1|SEQ00793	124734769	VBIBifThe274299_0793	SEQ00793	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		proline iminopeptidase	FIG00672356	figfam	clust_0522

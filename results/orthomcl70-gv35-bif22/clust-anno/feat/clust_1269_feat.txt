@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00237	VBIBifAdo136061_0237	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186712	27571	28488	-	918		Magnesium and cobalt transport protein CorA	ADO1	clust_1269
+ANI1|SEQ00752	VBIBifAni240121_0752	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846459	883217	884167	+	951	corA	Magnesium and cobalt transport protein CorA	ANI1	clust_1269
+ANI2|SEQ00752	VBIBifAni235968_0752	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849812	883220	884170	+	951	corA	Magnesium and cobalt transport protein CorA	ANI2	clust_1269
+ANI3|SEQ00753	VBIBifAni108068_0753	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763822	883222	884172	+	951		Magnesium and cobalt transport protein CorA	ANI3	clust_1269
+BIF1|SEQ01002	VBIBifBif87902_1002	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884568	1219808	1220725	-	918	corA	Magnesium and cobalt transport protein CorA	BIF1	clust_1269
+BRE1|SEQ01055	VBIBifBre340958_1055	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604115	1234883	1235833	-	951		Magnesium and cobalt transport protein CorA	BRE1	clust_1269
+BRE2|SEQ01173	VBIBifBre337368_1173	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608327	1342949	1343899	-	951		Magnesium and cobalt transport protein CorA	BRE2	clust_1269
+BRE3|SEQ00726	VBIBifBre167886_0726	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193138	887725	888675	+	951		Magnesium and cobalt transport protein CorA	BRE3	clust_1269
+BRE4|SEQ01127	VBIBifBre327712_1127	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612376	1300985	1301935	-	951		Magnesium and cobalt transport protein CorA	BRE4	clust_1269
+BRE5|SEQ01221	VBIBifBre336369_1222	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616620	1352490	1353440	-	951		Magnesium and cobalt transport protein CorA	BRE5	clust_1269
+BRE6|SEQ01799	VBIBifBre268992_1799	Bifidobacterium breve JCP7499	AWSX01000084	PATRIC	CDS	177656907	3535	4485	-	951		Magnesium and cobalt transport protein CorA	BRE6	clust_1269
+BRE7|SEQ01132	VBIBifBre340732_1132	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620747	1295761	1296711	-	951		Magnesium and cobalt transport protein CorA	BRE7	clust_1269
+BRE8|SEQ01157	VBIBifBre176493_1157	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624907	1346505	1347455	-	951	corA	Magnesium and cobalt transport protein CorA	BRE8	clust_1269
+BRE9|SEQ01219	VBIBifBre30019_1219	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446561	1401148	1402098	-	951	corA	Magnesium and cobalt transport protein CorA	BRE9	clust_1269
+DEN1|SEQ01465	VBIBifDen165269_1466	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460064	736901	737851	+	951		Magnesium and cobalt transport protein CorA	DEN1	clust_1269
+DEN2|SEQ00175	VBIBifDen39005_0175	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108662	117442	118392	-	951		Magnesium and cobalt transport protein CorA	DEN2	clust_1269
+INF1|SEQ01173	VBIBifLon182273_1173	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886349	1317258	1318208	-	951		Magnesium and cobalt transport protein CorA	INF1	clust_1269
+LON1|SEQ00306	VBIBifLon107831_0306	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117649	369405	370355	+	951	corA	Magnesium and cobalt transport protein CorA	LON1	clust_1269
+LON2|SEQ00365	VBIBifLon171405_0366	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580236	426594	427544	+	951	corA	Magnesium and cobalt transport protein CorA	LON2	clust_1269
+LON3|SEQ00171	VBIBifLon156230_0171	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767271	988301	989251	+	951		Magnesium and cobalt transport protein CorA	LON3	clust_1269
+LON4|SEQ01196	VBIBifLon48544_1196	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890733	1344929	1345879	-	951		Magnesium and cobalt transport protein CorA	LON4	clust_1269
+THE1|SEQ01714	VBIBifThe274299_1714	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736705	2128853	2129794	-	942		Magnesium and cobalt transport protein CorA	THE1	clust_1269

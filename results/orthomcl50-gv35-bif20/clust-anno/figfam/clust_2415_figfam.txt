@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01836	268605739	VBIBifBre340958_1838	SEQ01836	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		ABC-type sugar transport system, permease component	FIG00005339	figfam	clust_2415
+BRE5|SEQ02014	268618264	VBIBifBre336369_2015	SEQ02014	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		ABC-type sugar transport system, permease component	FIG00005339	figfam	clust_2415
+BRE9|SEQ02002	58448184	VBIBifBre30019_2002	SEQ02002	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		ABC-type sugar transport system, permease component	FIG00005339	figfam	clust_2415
+LON2|SEQ01474	42582535	VBIBifLon171405_1477	SEQ01474	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		ABC-type sugar transport system, permease component	FIG00005339	figfam	clust_2415
+LON3|SEQ01558	42769737	VBIBifLon156230_1561	SEQ01558	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		ABC-type sugar transport system, permease component	FIG00005339	figfam	clust_2415
+LON4|SEQ01940	46892297	VBIBifLon48544_1941	SEQ01940	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		ABC-type sugar transport system, permease component	FIG00005339	figfam	clust_2415

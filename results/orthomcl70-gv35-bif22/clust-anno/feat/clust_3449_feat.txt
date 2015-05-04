@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ02069	VBIBifDen165269_2071	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463117	15031	16836	+	1806		hypothetical protein	DEN1	clust_3449
+DEN2|SEQ01238	VBIBifDen39005_1239	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110855	15053	16594	+	1542		hypothetical protein	DEN2	clust_3449
+LON4|SEQ01869	VBIBifLon48544_1869	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892141	2166573	2168969	-	2397		1,4-beta-N-acetylmuramidase	LON4	clust_3449

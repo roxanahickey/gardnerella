@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+LON2|SEQ01395	VBIBifLon171405_1398	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582370	1617325	1618650	-	1326	gabT	aminotransferase class-III protein	LON2	clust_3731
+LON3|SEQ01474	VBIBifLon156230_1477	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769563	2261167	2262492	-	1326		aminotransferase class-III protein	LON3	clust_3731
+THE1|SEQ00338	VBIBifThe274299_0338	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733850	395432	396646	-	1215		aminotransferase class-III protein	THE1	clust_3731

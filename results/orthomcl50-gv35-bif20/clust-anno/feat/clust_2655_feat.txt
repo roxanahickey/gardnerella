@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00455	VBIBifAdo136061_0455	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187173	292738	293757	+	1020		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	ADO1	clust_2655
+BRE2|SEQ01507	VBIBifBre337368_1507	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609008	1741728	1743086	+	1359		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	BRE2	clust_2655
+BRE6|SEQ00927	VBIBifBre268992_0927	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655042	45773	47131	+	1359		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	BRE6	clust_2655
+LON1|SEQ01486	VBIBifLon107831_1487	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120102	1800764	1801798	+	1035		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	LON1	clust_2655
+LON3|SEQ01820	VBIBifLon156230_1823	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766829	700826	701860	-	1035		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	LON3	clust_2655

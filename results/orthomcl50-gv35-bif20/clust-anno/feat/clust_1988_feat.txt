@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01659	VBIBifAdo136061_1659	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189689	143543	144097	-	555		sulfate adenylyltransferase, subunit 2	ADO1	clust_1988
+BRE1|SEQ01492	VBIBifBre340958_1493	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605016	1762614	1763618	-	1005		hypothetical protein	BRE1	clust_1988
+BRE2|SEQ01602	VBIBifBre337368_1602	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609212	1865213	1866217	-	1005		hypothetical protein	BRE2	clust_1988
+BRE3|SEQ01557	VBIBifBre167886_1557	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194873	1823137	1823682	-	546		hypothetical protein	BRE3	clust_1988
+BRE3|SEQ01558	VBIBifBre167886_1558	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194875	1823860	1824141	-	282		hypothetical protein	BRE3	clust_1988
+BRE4|SEQ01531	VBIBifBre327712_1531	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613210	1797321	1797866	-	546		hypothetical protein	BRE4	clust_1988
+BRE4|SEQ01532	VBIBifBre327712_1532	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613212	1798044	1798325	-	282		hypothetical protein	BRE4	clust_1988
+BRE7|SEQ01575	VBIBifBre340732_1575	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621657	1818263	1819255	-	993		hypothetical protein	BRE7	clust_1988
+BRE9|SEQ01651	VBIBifBre30019_1651	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447449	1915873	1916151	-	279		hypothetical protein	BRE9	clust_1988
+BRE9|SEQ01655	VBIBifBre30019_1655	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447457	1918721	1919428	-	708		hypothetical protein	BRE9	clust_1988

@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ01424	VBIBifBre167886_1424	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194592	1662727	1663416	-	690	cas4	CRISPR-associated RecB family exonuclease Cas4b	BRE3	clust_2598
+BRE4|SEQ01412	VBIBifBre327712_1412	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612958	1643917	1644606	-	690		CRISPR-associated RecB family exonuclease Cas4b	BRE4	clust_2598
+BRE7|SEQ01426	VBIBifBre340732_1426	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621345	1646091	1646780	-	690		CRISPR-associated RecB family exonuclease Cas4b	BRE7	clust_2598
+BRE8|SEQ01448	VBIBifBre176493_1448	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625502	1689196	1689885	-	690	cas4	CRISPR-associated RecB family exonuclease Cas4b	BRE8	clust_2598
+BRE9|SEQ01511	VBIBifBre30019_1511	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447154	1750177	1750866	-	690	cas4	CRISPR-associated RecB family exonuclease Cas4b	BRE9	clust_2598
+THE1|SEQ00639	VBIBifThe274299_0639	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734456	811035	811703	+	669		CRISPR-associated RecB family exonuclease Cas4b	THE1	clust_2598

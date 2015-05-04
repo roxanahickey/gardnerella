@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00591	VBIBifDen165269_0592	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462476	2033526	2035307	-	1782		Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	DEN1	clust_3232
+DEN2|SEQ01628	VBIBifDen39005_1629	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111648	106006	107787	-	1782		Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	DEN2	clust_3232
+LON2|SEQ00920	VBIBifLon171405_0921	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581386	1029935	1031539	-	1605		Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	LON2	clust_3232
+THE1|SEQ01215	VBIBifThe274299_1215	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735652	1510550	1512328	-	1779		Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54) / Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)	THE1	clust_3232

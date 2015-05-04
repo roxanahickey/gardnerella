@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01094	VBIBifAdo136061_1094	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188511	1064	2323	+	1260		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	ADO1	clust_1873
+ADO1|SEQ01414	VBIBifAdo136061_1414	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189184	85398	86630	-	1233		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	ADO1	clust_1873
+BIF1|SEQ00113	VBIBifBif87902_0113	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882726	137451	137933	-	483		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	BIF1	clust_1873
+BIF1|SEQ00114	VBIBifBif87902_0114	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882728	138130	138666	-	537		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	BIF1	clust_1873
+BRE4|SEQ00754	VBIBifBre327712_0754	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611594	910760	911887	-	1128		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	BRE4	clust_1873
+BRE5|SEQ00931	VBIBifBre336369_0932	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616011	1086101	1087336	-	1236		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	BRE5	clust_1873
+BRE9|SEQ00325	VBIBifBre30019_0325	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444695	413212	413592	+	381		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	BRE9	clust_1873
+DEN1|SEQ01688	VBIBifDen165269_1689	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460531	990963	992207	-	1245		COG3757: Lyzozyme M1 (1,4-beta-N-acetylmuramidase)	DEN1	clust_1873
+DEN2|SEQ00515	VBIBifDen39005_0515	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109358	150075	151319	+	1245		COG3757: Lyzozyme M1 (1,4-beta-N-acetylmuramidase)	DEN2	clust_1873
+INF1|SEQ01113	VBIBifLon182273_1113	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886222	1245179	1246297	+	1119		bacteriophage lysin	INF1	clust_1873
+LON2|SEQ00566	VBIBifLon171405_0567	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580656	627618	628352	+	735	acm	Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	LON2	clust_1873
+LON3|SEQ00988	VBIBifLon156230_0989	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768967	1921649	1922881	-	1233		Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	LON3	clust_1873

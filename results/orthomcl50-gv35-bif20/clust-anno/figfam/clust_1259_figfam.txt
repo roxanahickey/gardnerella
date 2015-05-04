@@ -1,0 +1,21 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01579	27189528	VBIBifAdo136061_1579	SEQ01579	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+ANI1|SEQ00731	86846411	VBIBifAni240121_0731	SEQ00731	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+ANI2|SEQ00731	86849764	VBIBifAni235968_0731	SEQ00731	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+ANI3|SEQ00732	42763774	VBIBifAni108068_0732	SEQ00732	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BIF1|SEQ01060	86884688	VBIBifBif87902_1060	SEQ01060	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE1|SEQ00639	268603243	VBIBifBre340958_0639	SEQ00639	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE2|SEQ00736	268607407	VBIBifBre337368_0736	SEQ00736	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE3|SEQ01135	54194003	VBIBifBre167886_1135	SEQ01135	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE4|SEQ00674	268611427	VBIBifBre327712_0674	SEQ00674	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE5|SEQ00687	268615499	VBIBifBre336369_0688	SEQ00687	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE6|SEQ00060	177653216	VBIBifBre268992_0060	SEQ00060	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE7|SEQ00685	268619807	VBIBifBre340732_0685	SEQ00685	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE8|SEQ00707	268623959	VBIBifBre176493_0707	SEQ00707	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+BRE9|SEQ00757	58445588	VBIBifBre30019_0757	SEQ00757	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+INF1|SEQ00602	46885150	VBIBifLon182273_0602	SEQ00602	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+LON1|SEQ00757	21118587	VBIBifLon107831_0758	SEQ00757	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+LON2|SEQ00824	42581190	VBIBifLon171405_0825	SEQ00824	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+LON3|SEQ00626	42768221	VBIBifLon156230_0626	SEQ00626	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+LON4|SEQ00595	46889437	VBIBifLon48544_0595	SEQ00595	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259
+THE1|SEQ01747	124736778	VBIBifThe274299_1747	SEQ01747	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		HD family hydrolase, diverged	FIG01350746	figfam	clust_1259

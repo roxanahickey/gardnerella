@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01198	VBIBifAdo136061_1198	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188735	116736	117155	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	ADO1	clust_1287
+ANI1|SEQ00870	VBIBifAni240121_0870	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846712	1008316	1008735	-	420	pyrL	Aspartate carbamoyltransferase regulatory chain (PyrI)	ANI1	clust_1287
+ANI2|SEQ00869	VBIBifAni235968_0869	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850063	1008319	1008738	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	ANI2	clust_1287
+ANI3|SEQ00872	VBIBifAni108068_0872	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764077	1008321	1008740	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	ANI3	clust_1287
+BIF1|SEQ00863	VBIBifBif87902_0863	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884275	1067755	1068174	+	420	pyrI	Aspartate carbamoyltransferase regulatory chain (PyrI)	BIF1	clust_1287
+BRE1|SEQ00919	VBIBifBre340958_0919	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603824	1093456	1093875	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE1	clust_1287
+BRE2|SEQ01011	VBIBifBre337368_1011	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607981	1188547	1188966	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE2	clust_1287
+BRE3|SEQ00871	VBIBifBre167886_0871	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193452	1030965	1031384	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE3	clust_1287
+BRE4|SEQ01042	VBIBifBre327712_1042	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612201	1209627	1210046	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE4	clust_1287
+BRE5|SEQ01063	VBIBifBre336369_1064	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616283	1200184	1200603	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE5	clust_1287
+BRE6|SEQ00617	VBIBifBre268992_0617	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654383	19397	19816	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE6	clust_1287
+BRE7|SEQ00963	VBIBifBre340732_0963	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620387	1134412	1134831	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE7	clust_1287
+BRE8|SEQ00980	VBIBifBre176493_0980	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624528	1170653	1171072	+	420	pyrI	Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE8	clust_1287
+BRE9|SEQ01046	VBIBifBre30019_1046	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446190	1233724	1234143	+	420	pyrI	Aspartate carbamoyltransferase regulatory chain (PyrI)	BRE9	clust_1287
+INF1|SEQ00967	VBIBifLon182273_0967	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885914	1127121	1127540	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	INF1	clust_1287
+LON1|SEQ00493	VBIBifLon107831_0494	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118041	572920	573339	-	420	pyrI	Aspartate carbamoyltransferase regulatory chain (PyrI)	LON1	clust_1287
+LON2|SEQ00548	VBIBifLon171405_0549	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580620	607549	607968	-	420	pyrI	Aspartate carbamoyltransferase regulatory chain (PyrI)	LON2	clust_1287
+LON3|SEQ00360	VBIBifLon156230_0360	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767670	1185348	1185767	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	LON3	clust_1287
+LON4|SEQ00856	VBIBifLon48544_0856	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889985	1026104	1026523	+	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	LON4	clust_1287
+THE1|SEQ01086	VBIBifThe274299_1086	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735383	1350692	1351111	-	420		Aspartate carbamoyltransferase regulatory chain (PyrI)	THE1	clust_1287

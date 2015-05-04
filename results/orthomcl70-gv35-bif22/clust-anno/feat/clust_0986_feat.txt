@@ -1,0 +1,33 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00235	VBIBifDen165269_0236	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461739	1601644	1603044	+	1401		possible chlorohydrolase-like protein	DEN1	clust_0986
+DEN2|SEQ02288	VBIBifDen39005_2291	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42113035	202551	203951	-	1401		possible chlorohydrolase-like protein	DEN2	clust_0986
+GV01|SEQ00979	VBIGarVag247323_0979	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496143	203776	205197	-	1422		possible chlorohydrolase-like protein	GV01	clust_0986
+GV02|SEQ01088	VBIGarVag242669_1088	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499036	56712	58133	+	1422		possible chlorohydrolase-like protein	GV02	clust_0986
+GV04|SEQ00562	VBIGarVag246433_0562	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481016	226971	228392	+	1422		possible chlorohydrolase-like protein	GV04	clust_0986
+GV06|SEQ01109	VBIGarVag244004_1109	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491044	78015	79436	+	1422		possible chlorohydrolase-like protein	GV06	clust_0986
+GV08|SEQ00233	VBIGarVag251521_0233	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474851	16653	18074	-	1422		possible chlorohydrolase-like protein	GV08	clust_0986
+GV09|SEQ00579	VBIGarVag169280_0579	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260347	338531	339952	+	1422		possible chlorohydrolase-like protein	GV09	clust_0986
+GV11|SEQ01126	VBIGarVag171052_1126	Gardnerella vaginalis 41V	AEJE01000066	PATRIC	CDS	52550648	399	1820	-	1422		possible chlorohydrolase-like protein	GV11	clust_0986
+GV13|SEQ00581	VBIGarVag244533_0581	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487132	86556	87977	-	1422		possible chlorohydrolase-like protein	GV13	clust_0986
+GV16|SEQ01229	VBIGarVag246379_1229	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479659	1451899	1453320	+	1422		possible chlorohydrolase-like protein	GV16	clust_0986
+GV18|SEQ01044	VBIGarVag4823_1044	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000140	PATRIC	CDS	42070912	148	1569	-	1422		possible chlorohydrolase-like protein	GV18	clust_0986
+GV19|SEQ00380	VBIGarVag39333_0381	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627623	459260	460681	-	1422		possible chlorohydrolase-like protein	GV19	clust_0986
+GV20|SEQ01137	VBIGarVag188338_1137	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191140	1426073	1427494	+	1422		possible chlorohydrolase-like protein	GV20	clust_0986
+GV21|SEQ00532	VBIGarVag274454_0533	Gardnerella vaginalis JCP7275	ATJS01000026	PATRIC	CDS	183967739	7251	8672	+	1422		possible chlorohydrolase-like protein	GV21	clust_0986
+GV22|SEQ00721	VBIGarVag276801_0722	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970891	16678	18099	-	1422		possible chlorohydrolase-like protein	GV22	clust_0986
+GV23|SEQ00833	VBIGarVag276017_0833	Gardnerella vaginalis JCP7659	ATJQ01000065	PATRIC	CDS	183974068	9785	11206	-	1422		possible chlorohydrolase-like protein	GV23	clust_0986
+GV24|SEQ00800	VBIGarVag268944_0801	Gardnerella vaginalis JCP7672	ATJP01000065	PATRIC	CDS	183976800	4647	6068	-	1422		possible chlorohydrolase-like protein	GV24	clust_0986
+GV25|SEQ00435	VBIGarVag270495_0435	Gardnerella vaginalis JCP7719	ATJO01000034	PATRIC	CDS	183978795	7291	8712	+	1422		possible chlorohydrolase-like protein	GV25	clust_0986
+GV26|SEQ00319	VBIGarVag272749_0319	Gardnerella vaginalis JCP8017A	ATJN01000019	PATRIC	CDS	183981412	9773	11194	-	1422		possible chlorohydrolase-like protein	GV26	clust_0986
+GV27|SEQ00610	VBIGarVag276930_0610	Gardnerella vaginalis JCP8017B	ATJM01000027	PATRIC	CDS	183984993	9784	11205	-	1422		possible chlorohydrolase-like protein	GV27	clust_0986
+GV28|SEQ00704	VBIGarVag271349_0704	Gardnerella vaginalis JCP8066	ATJL01000062	PATRIC	CDS	183988156	9576	10997	-	1422		possible chlorohydrolase-like protein	GV28	clust_0986
+GV29|SEQ00366	VBIGarVag265473_0366	Gardnerella vaginalis JCP8070	ATJK01000017	PATRIC	CDS	183990122	9681	11102	-	1422		possible chlorohydrolase-like protein	GV29	clust_0986
+GV30|SEQ00474	VBIGarVag267667_0475	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993041	6694	8115	+	1422		possible chlorohydrolase-like protein	GV30	clust_0986
+GV31|SEQ01204	VBIGarVag264983_1204	Gardnerella vaginalis JCP8151A	ATJI01000162	PATRIC	CDS	183997672	9715	11136	-	1422		possible chlorohydrolase-like protein	GV31	clust_0986
+GV32|SEQ00646	VBIGarVag277040_0646	Gardnerella vaginalis JCP8151B	ATJH01000044	PATRIC	CDS	183999204	9670	11091	-	1422		possible chlorohydrolase-like protein	GV32	clust_0986
+GV35|SEQ00232	VBIGarVag272169_0232	Gardnerella vaginalis JCP8522	ATJE01000007	PATRIC	CDS	184006751	14435	15856	+	1422		possible chlorohydrolase-like protein	GV35	clust_0986
+INF1|SEQ00528	VBIBifLon182273_0528	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884998	664673	666046	-	1374		possible chlorohydrolase-like protein	INF1	clust_0986
+LON1|SEQ00825	VBIBifLon107831_0826	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118725	956842	958215	+	1374		possible chlorohydrolase-like protein	LON1	clust_0986
+LON2|SEQ00892	VBIBifLon171405_0893	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581328	995544	996917	+	1374	ssnA	possible chlorohydrolase-like protein	LON2	clust_0986
+LON3|SEQ00697	VBIBifLon156230_0697	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768365	1571928	1573301	+	1374		possible chlorohydrolase-like protein	LON3	clust_0986
+LON4|SEQ00514	VBIBifLon48544_0514	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889271	640075	641448	-	1374		possible chlorohydrolase-like protein	LON4	clust_0986

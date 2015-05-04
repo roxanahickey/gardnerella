@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00244	VBIBifAdo136061_0244	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186728	34537	35544	+	1008		Putative ion-channel protein	ADO1	clust_1192
+ANI1|SEQ00287	VBIBifAni240121_0287	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845482	349452	350459	-	1008		Putative ion-channel protein	ANI1	clust_1192
+ANI2|SEQ00286	VBIBifAni235968_0286	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848835	349454	350461	-	1008		Putative ion-channel protein	ANI2	clust_1192
+ANI3|SEQ00287	VBIBifAni108068_0287	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762848	349455	350462	-	1008		Putative ion-channel protein	ANI3	clust_1192
+BIF1|SEQ01341	VBIBifBif87902_1341	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885269	1623991	1624998	+	1008		Putative ion-channel protein	BIF1	clust_1192
+BRE1|SEQ00339	VBIBifBre340958_0339	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602622	422294	423304	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE1	clust_1192
+BRE2|SEQ00400	VBIBifBre337368_0400	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606720	476635	477645	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE2	clust_1192
+BRE3|SEQ00398	VBIBifBre167886_0398	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192464	489523	490533	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE3	clust_1192
+BRE4|SEQ00349	VBIBifBre327712_0349	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610760	434193	435203	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE4	clust_1192
+BRE5|SEQ00376	VBIBifBre336369_0377	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614863	435747	436757	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE5	clust_1192
+BRE6|SEQ00864	VBIBifBre268992_0864	Bifidobacterium breve JCP7499	AWSX01000047	PATRIC	CDS	177654913	20902	21912	+	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE6	clust_1192
+BRE7|SEQ00372	VBIBifBre340732_0372	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619162	456674	457684	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE7	clust_1192
+BRE8|SEQ00403	VBIBifBre176493_0403	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623338	496838	497848	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE8	clust_1192
+BRE9|SEQ00439	VBIBifBre30019_0439	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444935	527967	528977	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	BRE9	clust_1192
+DEN1|SEQ00377	VBIBifDen165269_0378	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462041	1754787	1755797	+	1011		Putative ion-channel protein	DEN1	clust_1192
+DEN2|SEQ02141	VBIBifDen39005_2143	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112722	49817	50827	-	1011		Putative ion-channel protein	DEN2	clust_1192
+INF1|SEQ00326	VBIBifLon182273_0326	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884582	404798	405808	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	INF1	clust_1192
+LON1|SEQ01025	VBIBifLon107831_1026	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119133	1213105	1214115	+	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	LON1	clust_1192
+LON2|SEQ01081	VBIBifLon171405_1083	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581715	1241961	1242971	+	1011	tas3	Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	LON2	clust_1192
+LON3|SEQ00892	VBIBifLon156230_0893	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768765	1823672	1824682	+	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	LON3	clust_1192
+LON4|SEQ00334	VBIBifLon48544_0334	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888900	407517	408527	-	1011		Predicted oxidoreductases (related to aryl-alcohol dehydrogenases)	LON4	clust_1192
+THE1|SEQ00506	VBIBifThe274299_0506	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734188	645832	646860	-	1029		Putative ion-channel protein	THE1	clust_1192

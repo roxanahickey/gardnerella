@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01850	VBIBifBre337368_1850	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609733	2139086	2140315	-	1230		ABC transporter sugar permease	BRE2	clust_3935
+BRE7|SEQ01845	VBIBifBre340732_1845	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622221	2122134	2123363	-	1230		ABC transporter sugar permease	BRE7	clust_3935

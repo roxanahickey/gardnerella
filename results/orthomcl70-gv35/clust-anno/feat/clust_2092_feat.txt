@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00383	VBIGarVag244004_0383	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489509	51404	52387	-	984		iron(III)-binding periplasmic protein precursor	GV06	clust_2092
+GV30|SEQ00005	VBIGarVag267667_0005	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992046	5058	6041	-	984		Ferric iron ABC transporter, iron-binding protein	GV30	clust_2092

@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01882	VBIBifBre340958_1884	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605831	2212937	2213158	-	222		hypothetical protein	BRE1	clust_2147
+BRE2|SEQ01960	VBIBifBre337368_1960	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609962	2289889	2290110	-	222		hypothetical protein	BRE2	clust_2147
+BRE3|SEQ01941	VBIBifBre167886_1941	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195679	2285770	2285991	-	222		hypothetical protein	BRE3	clust_2147
+BRE4|SEQ01913	VBIBifBre327712_1913	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614010	2247175	2247609	-	435		Predicted galactitol operon regulator (Transcriptional antiterminator), BglG family / PTS system, mannitol/fructose-specific IIA component (EC 2.7.1.69)	BRE4	clust_2147
+BRE5|SEQ02049	VBIBifBre336369_2050	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618335	2327331	2327552	-	222		hypothetical protein	BRE5	clust_2147
+BRE6|SEQ01497	VBIBifBre268992_1497	Bifidobacterium breve JCP7499	AWSX01000071	PATRIC	CDS	177656252	5329	5550	-	222		hypothetical protein	BRE6	clust_2147
+BRE7|SEQ01950	VBIBifBre340732_1950	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622440	2276826	2277047	-	222		hypothetical protein	BRE7	clust_2147
+BRE8|SEQ01917	VBIBifBre176493_1917	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626493	2253234	2253455	-	222		hypothetical protein	BRE8	clust_2147
+BRE9|SEQ02039	VBIBifBre30019_2039	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448258	2380885	2381106	-	222		hypothetical protein	BRE9	clust_2147

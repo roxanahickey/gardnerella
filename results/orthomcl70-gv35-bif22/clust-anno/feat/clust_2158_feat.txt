@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01011	VBIBifBif87902_1011	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884586	1231961	1232458	+	498		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	BIF1	clust_2158
+BRE4|SEQ00959	VBIBifBre327712_0959	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612022	1121264	1121779	-	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	BRE4	clust_2158
+BRE8|SEQ01062	VBIBifBre176493_1062	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624706	1259146	1259661	+	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	BRE8	clust_2158
+BRE9|SEQ01127	VBIBifBre30019_1127	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446368	1322358	1322873	+	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	BRE9	clust_2158
+INF1|SEQ01013	VBIBifLon182273_1013	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886009	1162661	1163176	-	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	INF1	clust_2158
+LON1|SEQ00463	VBIBifLon107831_0463	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117981	546921	547436	+	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	LON1	clust_2158
+LON2|SEQ00492	VBIBifLon171405_0493	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580505	564372	564887	+	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	LON2	clust_2158
+LON3|SEQ00327	VBIBifLon156230_0327	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767603	1159561	1159863	+	303		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	LON3	clust_2158
+LON4|SEQ00891	VBIBifLon48544_0891	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890058	1054556	1055071	-	516		COG0454: Histone acetyltransferase HPA2 and related acetyltransferases	LON4	clust_2158

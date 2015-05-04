@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00733	VBIBifAdo136061_0733	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187764	607826	609100	+	1275		Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	ADO1	clust_2212
+ANI1|SEQ00513	VBIBifAni240121_0513	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845969	609361	610638	+	1278	malE	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	ANI1	clust_2212
+ANI2|SEQ00513	VBIBifAni235968_0513	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849323	609362	610639	+	1278	malE	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	ANI2	clust_2212
+ANI3|SEQ00515	VBIBifAni108068_0515	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763336	609364	610641	+	1278		Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	ANI3	clust_2212
+DEN1|SEQ00145	VBIBifDen165269_0146	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461545	1493419	1494699	-	1281		Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	DEN1	clust_2212
+DEN2|SEQ01935	VBIBifDen39005_1937	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112290	162926	164206	-	1281		Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	DEN2	clust_2212
+INF1|SEQ01662	VBIBifLon182273_1662	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887343	1898608	1899921	-	1314		Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	INF1	clust_2212
+LON3|SEQ01152	VBIBifLon156230_1154	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766180	327941	329224	-	1284		Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE	LON3	clust_2212

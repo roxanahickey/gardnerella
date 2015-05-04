@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00039	VBIBifAdo136061_0039	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186270	38219	39562	+	1344		hypothetical protein	ADO1	clust_2362
+BIF1|SEQ00045	VBIBifBif87902_0045	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882587	57359	57964	+	606		two-component sensor histidine kinase	BIF1	clust_2362
+BRE2|SEQ01963	VBIBifBre337368_1963	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609968	2292657	2293979	+	1323		hypothetical protein	BRE2	clust_2362
+BRE3|SEQ01944	VBIBifBre167886_1944	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195685	2288538	2289860	+	1323		hypothetical protein	BRE3	clust_2362
+BRE4|SEQ01916	VBIBifBre327712_1916	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614016	2249943	2251265	+	1323		hypothetical protein	BRE4	clust_2362
+BRE8|SEQ01920	VBIBifBre176493_1920	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626499	2256002	2257324	+	1323	virS	hypothetical protein	BRE8	clust_2362
+BRE9|SEQ02042	VBIBifBre30019_2042	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448264	2383652	2384974	+	1323	virS	hypothetical protein	BRE9	clust_2362

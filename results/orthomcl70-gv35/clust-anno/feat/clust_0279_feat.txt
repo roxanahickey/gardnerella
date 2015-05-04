@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00067	VBIGarVag247323_0067	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494232	95928	97958	+	2031		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV01	clust_0279
+GV02|SEQ00612	VBIGarVag242669_0612	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498036	245755	247785	-	2031		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV02	clust_0279
+GV03|SEQ00024	VBIGarVag247424_0024	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499409	31197	32993	-	1797		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV03	clust_0279
+GV04|SEQ00374	VBIGarVag246433_0374	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480621	111867	113831	+	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV04	clust_0279
+GV05|SEQ01128	VBIGarVag174900_1128	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548046	97292	99094	+	1803		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV05	clust_0279
+GV06|SEQ00712	VBIGarVag244004_0712	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490212	27711	29690	+	1980		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV06	clust_0279
+GV07|SEQ00356	VBIGarVag249177_0356	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492333	6282	8084	-	1803		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV07	clust_0279
+GV08|SEQ00630	VBIGarVag251521_0630	Gardnerella vaginalis 284V	ADEL01000007	PATRIC	CDS	85475678	46821	48800	-	1980		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV08	clust_0279
+GV09|SEQ01308	VBIGarVag169280_1308	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261867	226013	227977	+	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV09	clust_0279
+GV10|SEQ01010	VBIGarVag136958_1010	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148106	1330147	1331799	-	1653		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV10	clust_0279
+GV11|SEQ00641	VBIGarVag171052_0641	Gardnerella vaginalis 41V	AEJE01000041	PATRIC	CDS	52549626	9410	11389	-	1980		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV11	clust_0279
+GV12|SEQ00415	VBIGarVag144721_0415	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853507	438523	440550	-	2028		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV12	clust_0279
+GV13|SEQ00991	VBIGarVag244533_0991	Gardnerella vaginalis 55152	ADEQ01000015	PATRIC	CDS	85487995	12731	14710	+	1980		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV13	clust_0279
+GV14|SEQ00698	VBIGarVag244375_0698	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503278	38050	39852	+	1803		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV14	clust_0279
+GV15|SEQ00993	VBIGarVag249709_0993	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485566	182644	184671	-	2028		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV15	clust_0279
+GV16|SEQ00440	VBIGarVag246379_0440	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478022	467181	469145	+	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV16	clust_0279
+GV17|SEQ01164	VBIGarVag146634_1164	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852427	120123	122150	-	2028		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV17	clust_0279
+GV18|SEQ00208	VBIGarVag4823_0208	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000069	PATRIC	CDS	42069110	1825	3789	+	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV18	clust_0279
+GV19|SEQ01170	VBIGarVag39333_1172	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629255	1429584	1431548	-	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV19	clust_0279
+GV20|SEQ00338	VBIGarVag188338_0338	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189485	434398	436362	+	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV20	clust_0279
+GV21|SEQ00890	VBIGarVag274454_0891	Gardnerella vaginalis JCP7275	ATJS01000066	PATRIC	CDS	183968531	471	2450	+	1980		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV21	clust_0279
+GV22|SEQ01060	VBIGarVag276801_1061	Gardnerella vaginalis JCP7276	ATJR01000095	PATRIC	CDS	183971666	1651	3615	-	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV22	clust_0279
+GV23|SEQ00910	VBIGarVag276017_0910	Gardnerella vaginalis JCP7659	ATJQ01000082	PATRIC	CDS	183974245	2186	4216	+	2031		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV23	clust_0279
+GV24|SEQ00462	VBIGarVag268944_0463	Gardnerella vaginalis JCP7672	ATJP01000023	PATRIC	CDS	183976057	2096	4060	+	1965		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV24	clust_0279
+GV25|SEQ00642	VBIGarVag270495_0642	Gardnerella vaginalis JCP7719	ATJO01000060	PATRIC	CDS	183979245	1991	4009	+	2019		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV25	clust_0279
+GV26|SEQ00925	VBIGarVag272749_0925	Gardnerella vaginalis JCP8017A	ATJN01000057	PATRIC	CDS	183982704	3500	5530	-	2031		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV26	clust_0279
+GV27|SEQ00928	VBIGarVag276930_0928	Gardnerella vaginalis JCP8017B	ATJM01000057	PATRIC	CDS	183985673	2178	4208	+	2031		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV27	clust_0279
+GV28|SEQ00562	VBIGarVag271349_0562	Gardnerella vaginalis JCP8066	ATJL01000040	PATRIC	CDS	183987840	3463	5490	-	2028		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV28	clust_0279
+GV29|SEQ00631	VBIGarVag265473_0631	Gardnerella vaginalis JCP8070	ATJK01000039	PATRIC	CDS	183990701	3497	5515	-	2019		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV29	clust_0279
+GV30|SEQ00769	VBIGarVag267667_0771	Gardnerella vaginalis JCP8108	ATJJ01000048	PATRIC	CDS	183993676	23718	25697	-	1980		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV30	clust_0279
+GV31|SEQ00472	VBIGarVag264983_0472	Gardnerella vaginalis JCP8151A	ATJI01000018	PATRIC	CDS	183996012	3470	5497	-	2028		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV31	clust_0279
+GV32|SEQ00472	VBIGarVag277040_0472	Gardnerella vaginalis JCP8151B	ATJH01000023	PATRIC	CDS	183998821	2130	4157	+	2028		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV32	clust_0279
+GV33|SEQ00965	VBIGarVag265557_0965	Gardnerella vaginalis JCP8481A	ATJG01000113	PATRIC	CDS	184002771	13269	15377	+	2109		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV33	clust_0279
+GV34|SEQ01174	VBIGarVag270440_1174	Gardnerella vaginalis JCP8481B	ATJF01000137	PATRIC	CDS	184006063	1799	3907	-	2109		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV34	clust_0279
+GV35|SEQ01102	VBIGarVag272169_1102	Gardnerella vaginalis JCP8522	ATJE01000162	PATRIC	CDS	184008712	2200	4155	+	1956		Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog	GV35	clust_0279

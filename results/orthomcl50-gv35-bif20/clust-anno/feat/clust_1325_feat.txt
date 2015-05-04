@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00880	VBIBifAdo136061_0880	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188070	779215	781074	-	1860		Dihydroxy-acid dehydratase (EC 4.2.1.9)	ADO1	clust_1325
+ANI1|SEQ00633	VBIBifAni240121_0633	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846215	740849	742708	-	1860		Dihydroxy-acid dehydratase (EC 4.2.1.9)	ANI1	clust_1325
+ANI2|SEQ00632	VBIBifAni235968_0632	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849566	740852	742711	-	1860		Dihydroxy-acid dehydratase (EC 4.2.1.9)	ANI2	clust_1325
+ANI3|SEQ00634	VBIBifAni108068_0634	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763578	740854	742713	-	1860		Dihydroxy-acid dehydratase (EC 4.2.1.9)	ANI3	clust_1325
+BIF1|SEQ00603	VBIBifBif87902_0603	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883743	743337	745106	-	1770	ilvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)	BIF1	clust_1325
+BRE1|SEQ01364	VBIBifBre340958_1365	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604745	1603335	1605104	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE1	clust_1325
+BRE2|SEQ01451	VBIBifBre337368_1451	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608895	1677896	1679665	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE2	clust_1325
+BRE3|SEQ00460	VBIBifBre167886_0460	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192595	565239	567008	+	1770	ilvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE3	clust_1325
+BRE4|SEQ01396	VBIBifBre327712_1396	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612924	1627936	1629705	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE4	clust_1325
+BRE5|SEQ01529	VBIBifBre336369_1530	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617247	1714554	1716323	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE5	clust_1325
+BRE6|SEQ00285	VBIBifBre268992_0285	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653681	63237	65006	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE6	clust_1325
+BRE7|SEQ01411	VBIBifBre340732_1411	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621315	1630949	1632718	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE7	clust_1325
+BRE8|SEQ01431	VBIBifBre176493_1431	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625465	1673409	1675178	-	1770	ilvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE8	clust_1325
+BRE9|SEQ01496	VBIBifBre30019_1496	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447124	1734196	1735965	-	1770	ilvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)	BRE9	clust_1325
+INF1|SEQ01559	VBIBifLon182273_1559	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887132	1773118	1774887	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	INF1	clust_1325
+LON1|SEQ01840	VBIBifLon107831_1841	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120846	2227835	2229604	+	1770	ilvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)	LON1	clust_1325
+LON2|SEQ00016	VBIBifLon171405_0016	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579525	14837	16606	+	1770	ilvD	Dihydroxy-acid dehydratase (EC 4.2.1.9)	LON2	clust_1325
+LON3|SEQ01057	VBIBifLon156230_1059	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765985	211658	213427	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	LON3	clust_1325
+LON4|SEQ01531	VBIBifLon48544_1531	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891419	1749315	1751084	-	1770		Dihydroxy-acid dehydratase (EC 4.2.1.9)	LON4	clust_1325
+THE1|SEQ01155	VBIBifThe274299_1155	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735527	1434772	1436595	+	1824		Dihydroxy-acid dehydratase (EC 4.2.1.9)	THE1	clust_1325

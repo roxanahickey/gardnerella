@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01925	VBIBifAdo136061_1925	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190223	462461	463048	-	588		melibiose carrier protein	ADO1	clust_2176
+ANI1|SEQ01559	VBIBifAni240121_1559	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848154	1876929	1878374	-	1446	xynT	Xyloside transporter XynT	ANI1	clust_2176
+ANI2|SEQ01556	VBIBifAni235968_1556	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851500	1877152	1878597	-	1446	xynT	Xyloside transporter XynT	ANI2	clust_2176
+ANI3|SEQ01567	VBIBifAni108068_1568	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765522	1882384	1883829	-	1446		Xyloside transporter XynT	ANI3	clust_2176
+BRE5|SEQ01557	VBIBifBre336369_1558	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617303	1751114	1752532	-	1419		melibiose carrier protein	BRE5	clust_2176
+BRE6|SEQ00905	VBIBifBre268992_0905	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177654998	23277	24659	-	1383		melibiose carrier protein	BRE6	clust_2176
+BRE9|SEQ00306	VBIBifBre30019_0306	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444657	390487	391932	-	1446		Galactose permease	BRE9	clust_2176
+DEN1|SEQ01106	VBIBifDen165269_1107	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459339	294470	295837	+	1368		melibiose carrier protein	DEN1	clust_2176
+DEN2|SEQ02067	VBIBifDen39005_2069	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112573	66360	67727	+	1368		melibiose carrier protein	DEN2	clust_2176

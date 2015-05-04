@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00948	VBIBifBif87902_0948	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884458	1156678	1156926	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BIF1	clust_1656
+BRE1|SEQ00942	VBIBifBre340958_0942	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603871	1120909	1121157	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE1	clust_1656
+BRE2|SEQ01036	VBIBifBre337368_1036	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608033	1216395	1216643	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE2	clust_1656
+BRE3|SEQ00844	VBIBifBre167886_0844	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193396	1003287	1003535	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE3	clust_1656
+BRE4|SEQ01017	VBIBifBre327712_1017	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612150	1182499	1182747	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE4	clust_1656
+BRE5|SEQ01089	VBIBifBre336369_1090	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616336	1228111	1228359	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE5	clust_1656
+BRE6|SEQ01691	VBIBifBre268992_1691	Bifidobacterium breve JCP7499	AWSX01000077	PATRIC	CDS	177656672	24911	25159	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE6	clust_1656
+BRE7|SEQ00986	VBIBifBre340732_0986	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620434	1161890	1162138	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE7	clust_1656
+BRE8|SEQ01006	VBIBifBre176493_1006	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624582	1198483	1198731	+	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE8	clust_1656
+BRE9|SEQ01070	VBIBifBre30019_1070	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446240	1261605	1261853	+	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	BRE9	clust_1656
+INF1|SEQ01124	VBIBifLon182273_1124	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886244	1259369	1259617	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	INF1	clust_1656
+LON1|SEQ00408	VBIBifLon107831_0408	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117859	487815	488063	+	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	LON1	clust_1656
+LON2|SEQ00414	VBIBifLon171405_0415	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580336	485072	485320	+	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	LON2	clust_1656
+LON3|SEQ00271	VBIBifLon156230_0271	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767477	1100400	1100648	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	LON3	clust_1656
+LON4|SEQ01147	VBIBifLon48544_1147	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890628	1287040	1287288	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	LON4	clust_1656

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00210	VBIGarVag247323_0210	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494534	88143	88862	+	720		Phosphate transport system regulatory protein PhoU	GV01	clust_0558
+GV02|SEQ00482	VBIGarVag242669_0482	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497759	78338	79057	+	720		Phosphate transport system regulatory protein PhoU	GV02	clust_0558
+GV03|SEQ00549	VBIGarVag247424_0549	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500507	105607	106287	-	681		Phosphate transport system regulatory protein PhoU	GV03	clust_0558
+GV04|SEQ00412	VBIGarVag246433_0412	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480702	21503	22183	+	681		Phosphate transport system regulatory protein PhoU	GV04	clust_0558
+GV05|SEQ00570	VBIGarVag174900_0570	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546886	166950	167630	-	681		Phosphate transport system regulatory protein PhoU	GV05	clust_0558
+GV06|SEQ00825	VBIGarVag244004_0825	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490448	178669	179349	-	681		Phosphate transport system regulatory protein PhoU	GV06	clust_0558
+GV07|SEQ00837	VBIGarVag249177_0837	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493343	108139	108819	+	681		Phosphate transport system regulatory protein PhoU	GV07	clust_0558
+GV08|SEQ00385	VBIGarVag251521_0385	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475169	226393	227073	-	681		Phosphate transport system regulatory protein PhoU	GV08	clust_0558
+GV09|SEQ00426	VBIGarVag169280_0426	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260026	129248	129928	+	681	phoU	Phosphate transport system regulatory protein PhoU	GV09	clust_0558
+GV10|SEQ00365	VBIGarVag136958_0365	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146770	425317	425997	-	681	phoU	Phosphate transport system regulatory protein PhoU	GV10	clust_0558
+GV11|SEQ01324	VBIGarVag171052_1324	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551083	101858	102538	+	681		Phosphate transport system regulatory protein PhoU	GV11	clust_0558
+GV12|SEQ00907	VBIGarVag144721_0907	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854537	461922	462602	-	681		Phosphate transport system regulatory protein PhoU	GV12	clust_0558
+GV13|SEQ00770	VBIGarVag244533_0770	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487532	235220	235900	+	681		Phosphate transport system regulatory protein PhoU	GV13	clust_0558
+GV14|SEQ00856	VBIGarVag244375_0856	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503603	52068	52748	-	681		Phosphate transport system regulatory protein PhoU	GV14	clust_0558
+GV15|SEQ00295	VBIGarVag249709_0295	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484101	19085	19765	+	681		Phosphate transport system regulatory protein PhoU	GV15	clust_0558
+GV16|SEQ01075	VBIGarVag246379_1075	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479336	1246228	1246956	+	729		Phosphate transport system regulatory protein PhoU	GV16	clust_0558
+GV17|SEQ00228	VBIGarVag146634_0228	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850465	197827	198507	+	681		Phosphate transport system regulatory protein PhoU	GV17	clust_0558
+GV18|SEQ01215	VBIGarVag4823_1215	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071268	28979	29707	-	729		Phosphate transport system regulatory protein PhoU	GV18	clust_0558
+GV19|SEQ00536	VBIGarVag39333_0537	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627949	666146	666826	-	681	phoU	Phosphate transport system regulatory protein PhoU	GV19	clust_0558
+GV20|SEQ00987	VBIGarVag188338_0987	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190826	1218870	1219598	+	729	phoU	Phosphate transport system regulatory protein PhoU	GV20	clust_0558
+GV21|SEQ00686	VBIGarVag274454_0687	Gardnerella vaginalis JCP7275	ATJS01000044	PATRIC	CDS	183968071	636	1316	-	681		Phosphate transport system regulatory protein PhoU	GV21	clust_0558
+GV22|SEQ00881	VBIGarVag276801_0882	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971249	43412	44140	+	729		Phosphate transport system regulatory protein PhoU	GV22	clust_0558
+GV23|SEQ00742	VBIGarVag276017_0742	Gardnerella vaginalis JCP7659	ATJQ01000055	PATRIC	CDS	183973864	6469	7188	-	720		Phosphate transport system regulatory protein PhoU	GV23	clust_0558
+GV24|SEQ00792	VBIGarVag268944_0793	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976783	53230	53910	+	681		Phosphate transport system regulatory protein PhoU	GV24	clust_0558
+GV25|SEQ00289	VBIGarVag270495_0289	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978471	45251	45931	+	681		Phosphate transport system regulatory protein PhoU	GV25	clust_0558
+GV26|SEQ00888	VBIGarVag272749_0888	Gardnerella vaginalis JCP8017A	ATJN01000052	PATRIC	CDS	183982623	2012	2731	-	720		Phosphate transport system regulatory protein PhoU	GV26	clust_0558
+GV27|SEQ00691	VBIGarVag276930_0691	Gardnerella vaginalis JCP8017B	ATJM01000030	PATRIC	CDS	183985162	16600	17319	+	720		Phosphate transport system regulatory protein PhoU	GV27	clust_0558
+GV28|SEQ00617	VBIGarVag271349_0617	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987957	60510	61190	-	681		Phosphate transport system regulatory protein PhoU	GV28	clust_0558
+GV29|SEQ00231	VBIGarVag265473_0231	Gardnerella vaginalis JCP8070	ATJK01000009	PATRIC	CDS	183989836	11046	11765	-	720		Phosphate transport system regulatory protein PhoU	GV29	clust_0558
+GV30|SEQ00432	VBIGarVag267667_0433	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992942	48539	49219	+	681		Phosphate transport system regulatory protein PhoU	GV30	clust_0558
+GV31|SEQ00541	VBIGarVag264983_0541	Gardnerella vaginalis JCP8151A	ATJI01000021	PATRIC	CDS	183996155	2027	2746	-	720		Phosphate transport system regulatory protein PhoU	GV31	clust_0558
+GV32|SEQ00454	VBIGarVag277040_0454	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998782	60697	61377	-	681		Phosphate transport system regulatory protein PhoU	GV32	clust_0558
+GV33|SEQ00378	VBIGarVag265557_0378	Gardnerella vaginalis JCP8481A	ATJG01000033	PATRIC	CDS	184001477	1159	1839	-	681		Phosphate transport system regulatory protein PhoU	GV33	clust_0558
+GV34|SEQ00847	VBIGarVag270440_0847	Gardnerella vaginalis JCP8481B	ATJF01000085	PATRIC	CDS	184005331	6763	7443	+	681		Phosphate transport system regulatory protein PhoU	GV34	clust_0558
+GV35|SEQ00730	VBIGarVag272169_0730	Gardnerella vaginalis JCP8522	ATJE01000064	PATRIC	CDS	184007840	2055	2774	-	720		Phosphate transport system regulatory protein PhoU	GV35	clust_0558

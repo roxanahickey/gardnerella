@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00056	VBIGarVag244004_0056	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488817	58609	59571	-	963		2-keto-3-deoxygluconate permease (KDG permease)	GV06	clust_1256
+GV08|SEQ00704	VBIGarVag251521_0704	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475834	57457	58419	-	963		2-keto-3-deoxygluconate permease (KDG permease)	GV08	clust_1256
+GV09|SEQ00691	VBIGarVag169280_0691	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260577	34330	35292	+	963		2-keto-3-deoxygluconate permease (KDG permease)	GV09	clust_1256
+GV11|SEQ00979	VBIGarVag171052_0979	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550338	65551	66498	-	948		2-keto-3-deoxygluconate permease (KDG permease)	GV11	clust_1256
+GV13|SEQ01174	VBIGarVag244533_1174	Gardnerella vaginalis 55152	ADEQ01000023	PATRIC	CDS	85488399	9610	10572	-	963		2-keto-3-deoxygluconate permease (KDG permease)	GV13	clust_1256
+GV18|SEQ00151	VBIGarVag4823_0151	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000059	PATRIC	CDS	42068985	8690	9184	-	495		2-keto-3-deoxygluconate permease (KDG permease)	GV18	clust_1256
+GV19|SEQ01002	VBIGarVag39333_1003	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628915	1237187	1238149	-	963		2-keto-3-deoxygluconate permease (KDG permease)	GV19	clust_1256
+GV20|SEQ00558	VBIGarVag188338_0558	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189930	665746	666708	+	963		2-keto-3-deoxygluconate permease (KDG permease)	GV20	clust_1256
+GV21|SEQ00419	VBIGarVag274454_0420	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967505	4813	5775	+	963		2-keto-3-deoxygluconate permease (KDG permease)	GV21	clust_1256
+GV24|SEQ00903	VBIGarVag268944_0904	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183977028	47533	48495	-	963		2-keto-3-deoxygluconate permease (KDG permease)	GV24	clust_1256
+GV30|SEQ00994	VBIGarVag267667_0996	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994184	38759	39721	+	963		2-keto-3-deoxygluconate permease (KDG permease)	GV30	clust_1256

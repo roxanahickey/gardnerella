@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01518	27189396	VBIBifAdo136061_1518	SEQ01518	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Ribose operon repressor	FIG00024226	figfam	clust_3089
+ANI1|SEQ01481	86847975	VBIBifAni240121_1481	SEQ01481	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Ribose operon repressor	FIG00024226	figfam	clust_3089
+ANI2|SEQ01479	86851324	VBIBifAni235968_1479	SEQ01479	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Ribose operon repressor	FIG00024226	figfam	clust_3089
+ANI3|SEQ01490	42765346	VBIBifAni108068_1490	SEQ01490	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Ribose operon repressor	FIG00024226	figfam	clust_3089

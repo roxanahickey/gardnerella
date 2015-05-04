@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01746	VBIBifAdo136061_1746	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189863	243134	244120	+	987		Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	ADO1	clust_1243
+ANI1|SEQ01113	VBIBifAni240121_1113	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847213	1300511	1301500	-	990		hypothetical protein	ANI1	clust_1243
+ANI2|SEQ01113	VBIBifAni235968_1113	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850566	1300515	1301504	-	990		hypothetical protein	ANI2	clust_1243
+ANI3|SEQ01119	VBIBifAni108068_1119	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764583	1300516	1301505	-	990		hypothetical protein	ANI3	clust_1243
+BIF1|SEQ00766	VBIBifBif87902_0766	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884078	945340	946323	+	984	nodI	probable ATP binding protein of ABC transporter	BIF1	clust_1243
+BRE1|SEQ00827	VBIBifBre340958_0827	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603638	990661	991641	+	981		ABC transporter, ATP-binding protein	BRE1	clust_1243
+BRE2|SEQ00908	VBIBifBre337368_0908	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607772	1072734	1073717	+	984		ABC transporter, ATP-binding protein	BRE2	clust_1243
+BRE3|SEQ00973	VBIBifBre167886_0973	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193658	1141811	1142794	-	984		probable ATP binding protein of ABC transporter	BRE3	clust_1243
+BRE4|SEQ00855	VBIBifBre327712_0855	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611809	1028616	1029599	+	984		ABC transporter, ATP-binding protein	BRE4	clust_1243
+BRE5|SEQ00861	VBIBifBre336369_0862	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615868	1014202	1015185	+	984		ABC transporter, ATP-binding protein	BRE5	clust_1243
+BRE6|SEQ00804	VBIBifBre268992_0804	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654780	12390	13373	-	984		ABC transporter, ATP-binding protein	BRE6	clust_1243
+BRE7|SEQ00858	VBIBifBre340732_0858	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620173	1020645	1021628	+	984		Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	BRE7	clust_1243
+BRE8|SEQ00887	VBIBifBre176493_0887	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624340	1067016	1067999	+	984		ABC transporter, ATP-binding protein	BRE8	clust_1243
+BRE9|SEQ00942	VBIBifBre30019_0942	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445980	1120215	1121198	+	984		probable ATP binding protein of ABC transporter	BRE9	clust_1243
+DEN1|SEQ01287	VBIBifDen165269_1288	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459703	524191	525258	-	1068		Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	DEN1	clust_1243
+DEN2|SEQ00671	VBIBifDen39005_0671	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109677	48272	49339	-	1068		Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	DEN2	clust_1243
+INF1|SEQ00774	VBIBifLon182273_0774	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885517	946571	947554	+	984		ABC-type multidrug transport system, ATPase component	INF1	clust_1243
+LON1|SEQ00599	VBIBifLon107831_0600	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118255	692190	693173	-	984		ABC-type multidrug transport system, ATPase component	LON1	clust_1243
+LON2|SEQ00659	VBIBifLon171405_0660	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580844	727566	728549	-	984	ccmA1	ABC-type multidrug transport system, ATPase component	LON2	clust_1243
+LON3|SEQ00466	VBIBifLon156230_0466	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767884	1302858	1303841	-	984		ABC-type multidrug transport system, ATPase component	LON3	clust_1243
+LON4|SEQ00746	VBIBifLon48544_0746	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889763	903917	904900	+	984		ABC-type multidrug transport system, ATPase component	LON4	clust_1243
+THE1|SEQ00934	VBIBifThe274299_0934	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735062	1170086	1171036	+	951		Teichoic acid export ATP-binding protein TagH (EC 3.6.3.40)	THE1	clust_1243

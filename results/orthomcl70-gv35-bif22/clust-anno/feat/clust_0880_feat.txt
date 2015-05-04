@@ -1,0 +1,39 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01007	VBIBifAni240121_1007	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846996	1164193	1165158	+	966		Alkanesulfonates-binding protein	ANI1	clust_0880
+ANI2|SEQ01007	VBIBifAni235968_1007	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850349	1164196	1165161	+	966		Alkanesulfonates-binding protein	ANI2	clust_0880
+ANI3|SEQ01011	VBIBifAni108068_1011	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764363	1164197	1165162	+	966		Alkanesulfonates-binding protein	ANI3	clust_0880
+GV01|SEQ00297	VBIGarVag247323_0297	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494717	40071	41102	-	1032		Alkanesulfonates-binding protein	GV01	clust_0880
+GV02|SEQ00653	VBIGarVag242669_0653	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498123	10272	11267	+	996		Alkanesulfonates-binding protein	GV02	clust_0880
+GV03|SEQ00780	VBIGarVag247424_0780	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500991	75960	76964	-	1005		Alkanesulfonates-binding protein	GV03	clust_0880
+GV04|SEQ01090	VBIGarVag246433_1090	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482101	48217	49221	-	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV04	clust_0880
+GV05|SEQ00833	VBIGarVag174900_0833	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547432	502715	503719	-	1005		Alkanesulfonates-binding protein	GV05	clust_0880
+GV06|SEQ00658	VBIGarVag244004_0658	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490100	10392	11396	+	1005		Taurine-binding periplasmic protein TauA	GV06	clust_0880
+GV07|SEQ00591	VBIGarVag249177_0591	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492831	85308	86312	-	1005		Alkanesulfonates-binding protein	GV07	clust_0880
+GV08|SEQ00133	VBIGarVag251521_0133	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474637	158166	159170	+	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV08	clust_0880
+GV09|SEQ00961	VBIGarVag169280_0961	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261134	377638	378642	+	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV09	clust_0880
+GV10|SEQ00580	VBIGarVag136958_0580	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147218	743057	744055	-	999		Alkanesulfonates-binding protein	GV10	clust_0880
+GV11|SEQ00655	VBIGarVag171052_0655	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549657	9943	10947	+	1005		Alkanesulfonates-binding protein	GV11	clust_0880
+GV12|SEQ01220	VBIGarVag144721_1220	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855270	94373	95371	-	999		Alkanesulfonates-binding protein	GV12	clust_0880
+GV13|SEQ00597	VBIGarVag244533_0597	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487167	10374	11132	+	759		Alkanesulfonates-binding protein	GV13	clust_0880
+GV14|SEQ00298	VBIGarVag244375_0298	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502438	125457	126461	-	1005		Alkanesulfonates-binding protein	GV14	clust_0880
+GV15|SEQ00638	VBIGarVag249709_0638	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484821	84199	85197	-	999		Alkanesulfonates-binding protein	GV15	clust_0880
+GV16|SEQ00908	VBIGarVag246379_0908	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478983	1027711	1028715	+	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV16	clust_0880
+GV17|SEQ00971	VBIGarVag146634_0971	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852030	103189	104187	+	999		Alkanesulfonates-binding protein	GV17	clust_0880
+GV18|SEQ00420	VBIGarVag4823_0420	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000096	PATRIC	CDS	42069571	2382	3386	+	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV18	clust_0880
+GV19|SEQ00710	VBIGarVag39333_0711	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628314	886206	887210	-	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV19	clust_0880
+GV20|SEQ00831	VBIGarVag188338_0831	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190496	1010919	1011923	+	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV20	clust_0880
+GV21|SEQ00284	VBIGarVag274454_0284	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967220	64435	65439	+	1005		Alkanesulfonates-binding protein	GV21	clust_0880
+GV22|SEQ00083	VBIGarVag276801_0083	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969551	108204	109208	-	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV22	clust_0880
+GV23|SEQ00134	VBIGarVag276017_0134	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972565	38448	39479	-	1032		Alkanesulfonates-binding protein	GV23	clust_0880
+GV24|SEQ00989	VBIGarVag268944_0990	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977209	66514	67518	+	1005		ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components	GV24	clust_0880
+GV25|SEQ00742	VBIGarVag270495_0742	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979451	51420	52265	-	846		Alkanesulfonates-binding protein	GV25	clust_0880
+GV26|SEQ00382	VBIGarVag272749_0382	Gardnerella vaginalis JCP8017A	ATJN01000024	PATRIC	CDS	183981543	12748	13779	-	1032		Alkanesulfonates-binding protein	GV26	clust_0880
+GV27|SEQ00100	VBIGarVag276930_0100	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983914	10356	11387	+	1032		Alkanesulfonates-binding protein	GV27	clust_0880
+GV28|SEQ00273	VBIGarVag271349_0273	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987209	47221	48252	-	1032		Alkanesulfonates-binding protein	GV28	clust_0880
+GV29|SEQ00888	VBIGarVag265473_0888	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991265	44721	45752	-	1032		Alkanesulfonates-binding protein	GV29	clust_0880
+GV30|SEQ00258	VBIGarVag267667_0259	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992574	18987	19991	+	1005		Alkanesulfonates-binding protein	GV30	clust_0880
+GV31|SEQ00027	VBIGarVag264983_0027	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995072	37581	38426	-	846		Alkanesulfonates-binding protein	GV31	clust_0880
+GV32|SEQ00286	VBIGarVag277040_0286	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998420	120832	121827	-	996		Alkanesulfonates-binding protein	GV32	clust_0880
+GV33|SEQ01197	VBIGarVag265557_1197	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003327	7844	8848	+	1005		Alkanesulfonates-binding protein	GV33	clust_0880
+GV34|SEQ00717	VBIGarVag270440_0717	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005053	23594	24598	-	1005		Alkanesulfonates-binding protein	GV34	clust_0880
+GV35|SEQ00161	VBIGarVag272169_0161	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006601	57794	58825	-	1032		Alkanesulfonates-binding protein	GV35	clust_0880

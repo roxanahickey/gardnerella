@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00712	VBIGarVag247323_0712	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495585	151314	152192	+	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV01	clust_1801
+GV29|SEQ00524	VBIGarVag265473_0524	Gardnerella vaginalis JCP8070	ATJK01000025	PATRIC	CDS	183990461	2947	3825	+	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV29	clust_1801
+GV32|SEQ00186	VBIGarVag277040_0186	Gardnerella vaginalis JCP8151B	ATJH01000013	PATRIC	CDS	183998217	2177	3055	-	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV32	clust_1801
+GV35|SEQ00003	VBIGarVag272169_0003	Gardnerella vaginalis JCP8522	ATJE01000001	PATRIC	CDS	184006275	2170	3048	-	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV35	clust_1801

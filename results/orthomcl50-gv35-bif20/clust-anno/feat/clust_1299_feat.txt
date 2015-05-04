@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01183	VBIBifAdo136061_1183	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188701	97962	99182	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	ADO1	clust_1299
+ANI1|SEQ00766	VBIBifAni240121_0766	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846491	898814	900037	-	1224		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	ANI1	clust_1299
+ANI2|SEQ00765	VBIBifAni235968_0765	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849842	898817	900040	-	1224		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	ANI2	clust_1299
+ANI3|SEQ00767	VBIBifAni108068_0767	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763854	898819	900042	-	1224		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	ANI3	clust_1299
+BIF1|SEQ00989	VBIBifBif87902_0989	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884540	1201796	1203016	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BIF1	clust_1299
+BRE1|SEQ01029	VBIBifBre340958_1029	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604058	1208240	1209460	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE1	clust_1299
+BRE2|SEQ01148	VBIBifBre337368_1148	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608272	1318362	1319582	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE2	clust_1299
+BRE3|SEQ00750	VBIBifBre167886_0750	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193192	912077	913297	-	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE3	clust_1299
+BRE4|SEQ01103	VBIBifBre327712_1103	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612323	1276684	1277904	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE4	clust_1299
+BRE5|SEQ01197	VBIBifBre336369_1198	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616567	1327851	1329071	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE5	clust_1299
+BRE6|SEQ01038	VBIBifBre268992_1038	Bifidobacterium breve JCP7499	AWSX01000055	PATRIC	CDS	177655283	2731	3951	-	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE6	clust_1299
+BRE7|SEQ01107	VBIBifBre340732_1107	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620692	1271488	1272708	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE7	clust_1299
+BRE8|SEQ01096	VBIBifBre176493_1096	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624776	1285459	1286679	+	1221	icdA	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE8	clust_1299
+BRE9|SEQ01193	VBIBifBre30019_1193	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446504	1372710	1373930	+	1221	icdA	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	BRE9	clust_1299
+INF1|SEQ01159	VBIBifLon182273_1159	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886315	1300081	1301301	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	INF1	clust_1299
+LON1|SEQ00370	VBIBifLon107831_0370	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117783	443356	444576	-	1221	icd1	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	LON1	clust_1299
+LON2|SEQ00379	VBIBifLon171405_0380	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580266	443269	444489	-	1221	icd	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	LON2	clust_1299
+LON3|SEQ00236	VBIBifLon156230_0236	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767407	1058398	1059618	-	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	LON3	clust_1299
+LON4|SEQ01182	VBIBifLon48544_1182	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890699	1327753	1328973	+	1221		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	LON4	clust_1299
+THE1|SEQ00999	VBIBifThe274299_0999	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735195	1255667	1256884	-	1218		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	THE1	clust_1299

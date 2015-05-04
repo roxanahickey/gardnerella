@@ -1,0 +1,53 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01076	VBIGarVag247323_1076	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496351	76514	78187	+	1674		LPXTG-motif cell wall anchor domain protein	GV01	clust_0708
+GV02|SEQ00364	VBIGarVag242669_0364	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497506	172524	174215	-	1692		LPXTG-motif cell wall anchor domain protein	GV02	clust_0708
+GV03|SEQ00570	VBIGarVag247424_0570	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500551	131328	133034	+	1707		FIG00672113: hypothetical protein	GV03	clust_0708
+GV04|SEQ00449	VBIGarVag246433_0449	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480780	66610	67923	-	1314		LPXTG-motif cell wall anchor domain protein	GV04	clust_0708
+GV04|SEQ00741	VBIGarVag246433_0741	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481379	68929	70617	+	1689		LPXTG-motif cell wall anchor domain protein	GV04	clust_0708
+GV05|SEQ00590	VBIGarVag174900_0590	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546928	192641	194443	+	1803		LPXTG-motif cell wall anchor domain protein	GV05	clust_0708
+GV06|SEQ00778	VBIGarVag244004_0778	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490350	120847	122775	+	1929		LPXTG-motif cell wall anchor domain protein	GV06	clust_0708
+GV06|SEQ00785	VBIGarVag244004_0785	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490364	130608	132305	+	1698		LPXTG-motif cell wall anchor domain protein	GV06	clust_0708
+GV07|SEQ00804	VBIGarVag249177_0804	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493275	65951	67666	-	1716		LPXTG-motif cell wall anchor domain protein	GV07	clust_0708
+GV07|SEQ00809	VBIGarVag249177_0809	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493285	79405	81156	-	1752		LPXTG-motif cell wall anchor domain protein	GV07	clust_0708
+GV08|SEQ00350	VBIGarVag251521_0350	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475095	180501	182423	+	1923		LPXTG-motif cell wall anchor domain protein	GV08	clust_0708
+GV08|SEQ00796	VBIGarVag251521_0796	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476020	157313	158983	-	1671		LPXTG-motif cell wall anchor domain protein	GV08	clust_0708
+GV09|SEQ00240	VBIGarVag169280_0240	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259645	65781	67400	-	1620		LPXTG-motif cell wall anchor domain protein	GV09	clust_0708
+GV09|SEQ00462	VBIGarVag169280_0462	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260102	174013	175935	-	1923		LPXTG-motif cell wall anchor domain protein	GV09	clust_0708
+GV10|SEQ00384	VBIGarVag136958_0384	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146810	452203	453861	+	1659		Fimbrial subunit type 1 precursor	GV10	clust_0708
+GV10|SEQ00388	VBIGarVag136958_0388	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146818	465668	467326	+	1659		LPXTG-motif cell wall anchor domain protein	GV10	clust_0708
+GV10|SEQ00893	VBIGarVag136958_0893	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147864	1158170	1159864	-	1695		LPXTG-motif cell wall anchor domain protein	GV10	clust_0708
+GV11|SEQ00357	VBIGarVag171052_0357	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549020	36647	38530	-	1884		LPXTG-motif cell wall anchor domain protein	GV11	clust_0708
+GV12|SEQ00928	VBIGarVag144721_0928	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854581	489013	490698	+	1686		Fimbrial subunit type 1 precursor	GV12	clust_0708
+GV13|SEQ00820	VBIGarVag244533_0820	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487636	296661	298412	-	1752		LPXTG-motif cell wall anchor domain protein	GV13	clust_0708
+GV13|SEQ00824	VBIGarVag244533_0824	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487644	306274	308028	-	1755		LPXTG-motif cell wall anchor domain protein	GV13	clust_0708
+GV14|SEQ00381	VBIGarVag244375_0381	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502608	6347	8128	+	1782		LPXTG-motif cell wall anchor domain protein	GV14	clust_0708
+GV14|SEQ00385	VBIGarVag244375_0385	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502616	13649	15331	+	1683		LPXTG-motif cell wall anchor domain protein	GV14	clust_0708
+GV15|SEQ00190	VBIGarVag249709_0190	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483876	7852	9534	+	1683		Fimbrial subunit type 1 precursor	GV15	clust_0708
+GV15|SEQ00195	VBIGarVag249709_0195	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483886	20920	22635	+	1716		LPXTG-motif cell wall anchor domain protein	GV15	clust_0708
+GV15|SEQ00874	VBIGarVag249709_0874	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485320	18507	20201	-	1695		LPXTG-motif cell wall anchor domain protein	GV15	clust_0708
+GV16|SEQ00514	VBIGarVag246379_0514	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478173	556426	558117	+	1692		LPXTG-motif cell wall anchor domain protein	GV16	clust_0708
+GV16|SEQ01113	VBIGarVag246379_1113	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479416	1290995	1292641	-	1647		LPXTG-motif cell wall anchor domain protein	GV16	clust_0708
+GV17|SEQ00199	VBIGarVag146634_0199	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850405	145964	147616	-	1653		LPXTG-motif cell wall anchor domain protein	GV17	clust_0708
+GV17|SEQ00208	VBIGarVag146634_0208	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850423	168494	170182	-	1689		Fimbrial subunit type 1 precursor	GV17	clust_0708
+GV17|SEQ00583	VBIGarVag146634_0583	Gardnerella vaginalis AMD	NZ_ADAM01000003	PATRIC	CDS	37851210	44330	45976	+	1647		LPXTG-motif cell wall anchor domain protein	GV17	clust_0708
+GV18|SEQ01285	VBIGarVag4823_1285	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071411	60911	62581	+	1671		LPXTG-motif cell wall anchor domain protein	GV18	clust_0708
+GV19|SEQ00497	VBIGarVag39333_0498	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627867	620375	622192	+	1818		LPXTG-motif cell wall anchor domain protein	GV19	clust_0708
+GV19|SEQ01091	VBIGarVag39333_1092	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629095	1333760	1335430	-	1671		LPXTG-motif cell wall anchor domain protein	GV19	clust_0708
+GV20|SEQ00416	VBIGarVag188338_0416	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189644	521929	523569	+	1641		LPXTG-motif cell wall anchor domain protein	GV20	clust_0708
+GV20|SEQ01023	VBIGarVag188338_1023	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190902	1263867	1265513	-	1647		LPXTG-motif cell wall anchor domain protein	GV20	clust_0708
+GV21|SEQ00396	VBIGarVag274454_0397	Gardnerella vaginalis JCP7275	ATJS01000019	PATRIC	CDS	183967456	460	2202	-	1743		LPXTG-motif cell wall anchor domain protein	GV21	clust_0708
+GV22|SEQ00658	VBIGarVag276801_0659	Gardnerella vaginalis JCP7276	ATJR01000022	PATRIC	CDS	183970756	21819	23705	+	1887		LPXTG-motif cell wall anchor domain protein	GV22	clust_0708
+GV22|SEQ01098	VBIGarVag276801_1099	Gardnerella vaginalis JCP7276	ATJR01000107	PATRIC	CDS	183971754	770	2419	-	1650		LPXTG-motif cell wall anchor domain protein	GV22	clust_0708
+GV23|SEQ01069	VBIGarVag276017_1069	Gardnerella vaginalis JCP7659	ATJQ01000113	PATRIC	CDS	183974604	306	1967	-	1662		LPXTG-motif cell wall anchor domain protein	GV23	clust_0708
+GV24|SEQ01144	VBIGarVag268944_1145	Gardnerella vaginalis JCP7672	ATJP01000130	PATRIC	CDS	183977587	5718	7355	+	1638		LPXTG-motif cell wall anchor domain protein	GV24	clust_0708
+GV24|SEQ01176	VBIGarVag268944_1177	Gardnerella vaginalis JCP7672	ATJP01000146	PATRIC	CDS	183977671	19836	21740	+	1905		LPXTG-motif cell wall anchor domain protein	GV24	clust_0708
+GV25|SEQ00555	VBIGarVag270495_0555	Gardnerella vaginalis JCP7719	ATJO01000045	PATRIC	CDS	183979048	367	1965	+	1599		LPXTG-motif cell wall anchor domain protein	GV25	clust_0708
+GV26|SEQ01068	VBIGarVag272749_1068	Gardnerella vaginalis JCP8017A	ATJN01000078	PATRIC	CDS	183983021	206	1900	-	1695		LPXTG-motif cell wall anchor domain protein	GV26	clust_0708
+GV27|SEQ01030	VBIGarVag276930_1030	Gardnerella vaginalis JCP8017B	ATJM01000079	PATRIC	CDS	183985901	366	2108	+	1743		LPXTG-motif cell wall anchor domain protein	GV27	clust_0708
+GV28|SEQ00957	VBIGarVag271349_0957	Gardnerella vaginalis JCP8066	ATJL01000095	PATRIC	CDS	183988713	5820	7487	+	1668		LPXTG-motif cell wall anchor domain protein	GV28	clust_0708
+GV30|SEQ00213	VBIGarVag267667_0213	Gardnerella vaginalis JCP8108	ATJJ01000007	PATRIC	CDS	183992478	991	2661	-	1671		LPXTG-motif cell wall anchor domain protein	GV30	clust_0708
+GV31|SEQ01151	VBIGarVag264983_1151	Gardnerella vaginalis JCP8151A	ATJI01000133	PATRIC	CDS	183997535	955	2700	-	1746		LPXTG-motif cell wall anchor domain protein	GV31	clust_0708
+GV32|SEQ00525	VBIGarVag277040_0525	Gardnerella vaginalis JCP8151B	ATJH01000030	PATRIC	CDS	183998946	642	2384	-	1743		LPXTG-motif cell wall anchor domain protein	GV32	clust_0708
+GV33|SEQ01044	VBIGarVag265557_1044	Gardnerella vaginalis JCP8481A	ATJG01000131	PATRIC	CDS	184002950	2360	4120	-	1761		Fimbrial subunit type 1 precursor	GV33	clust_0708
+GV34|SEQ00521	VBIGarVag270440_0521	Gardnerella vaginalis JCP8481B	ATJF01000046	PATRIC	CDS	184004627	533	2293	+	1761		Fimbrial subunit type 1 precursor	GV34	clust_0708
+GV35|SEQ00859	VBIGarVag272169_0859	Gardnerella vaginalis JCP8522	ATJE01000085	PATRIC	CDS	184008135	497	2248	-	1752		LPXTG-motif cell wall anchor domain protein	GV35	clust_0708

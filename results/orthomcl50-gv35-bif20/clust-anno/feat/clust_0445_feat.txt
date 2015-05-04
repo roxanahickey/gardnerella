@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01063	VBIGarVag247323_1063	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496324	59938	60714	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV01	clust_0445
+GV02|SEQ00379	VBIGarVag242669_0379	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497537	192081	192857	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV02	clust_0445
+GV03|SEQ00540	VBIGarVag247424_0540	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500487	94621	95397	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV03	clust_0445
+GV04|SEQ00729	VBIGarVag246433_0729	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481354	54675	55451	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV04	clust_0445
+GV05|SEQ00561	VBIGarVag174900_0561	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546866	155979	156755	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV05	clust_0445
+GV06|SEQ01021	VBIGarVag244004_1021	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490855	53200	53976	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV06	clust_0445
+GV07|SEQ00852	VBIGarVag249177_0852	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493375	124370	125146	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV07	clust_0445
+GV08|SEQ00807	VBIGarVag251521_0807	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476043	173347	174123	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV08	clust_0445
+GV09|SEQ00256	VBIGarVag169280_0256	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259678	81849	82625	-	777	sufC	Iron-sulfur cluster assembly ATPase protein SufC	GV09	clust_0445
+GV10|SEQ00355	VBIGarVag136958_0355	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146748	415129	415905	+	777	sufC	Iron-sulfur cluster assembly ATPase protein SufC	GV10	clust_0445
+GV11|SEQ00248	VBIGarVag171052_0248	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	52548789	2842	3618	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV11	clust_0445
+GV12|SEQ00898	VBIGarVag144721_0898	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854517	451713	452489	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV12	clust_0445
+GV13|SEQ00456	VBIGarVag244533_0456	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486875	50292	51068	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV13	clust_0445
+GV14|SEQ00845	VBIGarVag244375_0845	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503579	39209	39985	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV14	clust_0445
+GV15|SEQ00307	VBIGarVag249709_0307	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484127	29556	30332	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV15	clust_0445
+GV16|SEQ00503	VBIGarVag246379_0503	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478150	541111	541887	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV16	clust_0445
+GV17|SEQ00239	VBIGarVag146634_0239	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850489	208133	208909	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV17	clust_0445
+GV18|SEQ01274	VBIGarVag4823_1274	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071389	46800	47576	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV18	clust_0445
+GV19|SEQ01102	VBIGarVag39333_1103	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629117	1348763	1349539	-	777	sufC	Iron-sulfur cluster assembly ATPase protein SufC	GV19	clust_0445
+GV20|SEQ00404	VBIGarVag188338_0404	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189619	506741	507517	+	777	sufC	Iron-sulfur cluster assembly ATPase protein SufC	GV20	clust_0445
+GV21|SEQ01182	VBIGarVag274454_1183	Gardnerella vaginalis JCP7275	ATJS01000170	PATRIC	CDS	183969245	2610	3386	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV21	clust_0445
+GV22|SEQ00954	VBIGarVag276801_0955	Gardnerella vaginalis JCP7276	ATJR01000055	PATRIC	CDS	183971403	2523	3299	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV22	clust_0445
+GV23|SEQ01150	VBIGarVag276017_1150	Gardnerella vaginalis JCP7659	ATJQ01000157	PATRIC	CDS	183974816	1266	2042	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV23	clust_0445
+GV24|SEQ00342	VBIGarVag268944_0343	Gardnerella vaginalis JCP7672	ATJP01000019	PATRIC	CDS	183975806	3856	4632	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV24	clust_0445
+GV25|SEQ00324	VBIGarVag270495_0324	Gardnerella vaginalis JCP7719	ATJO01000020	PATRIC	CDS	183978548	2646	3422	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV25	clust_0445
+GV26|SEQ00120	VBIGarVag272749_0120	Gardnerella vaginalis JCP8017A	ATJN01000003	PATRIC	CDS	183980981	1710	2486	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV26	clust_0445
+GV27|SEQ01039	VBIGarVag276930_1039	Gardnerella vaginalis JCP8017B	ATJM01000084	PATRIC	CDS	183985924	2657	3433	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV27	clust_0445
+GV28|SEQ00996	VBIGarVag271349_0996	Gardnerella vaginalis JCP8066	ATJL01000112	PATRIC	CDS	183988814	1642	2418	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV28	clust_0445
+GV29|SEQ00842	VBIGarVag265473_0842	Gardnerella vaginalis JCP8070	ATJK01000070	PATRIC	CDS	183991170	5048	5824	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV29	clust_0445
+GV30|SEQ00591	VBIGarVag267667_0592	Gardnerella vaginalis JCP8108	ATJJ01000034	PATRIC	CDS	183993300	3985	4761	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV30	clust_0445
+GV31|SEQ00657	VBIGarVag264983_0657	Gardnerella vaginalis JCP8151A	ATJI01000031	PATRIC	CDS	183996402	4173	4949	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV31	clust_0445
+GV32|SEQ00023	VBIGarVag277040_0023	Gardnerella vaginalis JCP8151B	ATJH01000003	PATRIC	CDS	183997873	4056	4832	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV32	clust_0445
+GV33|SEQ00616	VBIGarVag265557_0616	Gardnerella vaginalis JCP8481A	ATJG01000056	PATRIC	CDS	184001979	597	1373	+	777		Iron-sulfur cluster assembly ATPase protein SufC	GV33	clust_0445
+GV34|SEQ00978	VBIGarVag270440_0978	Gardnerella vaginalis JCP8481B	ATJF01000112	PATRIC	CDS	184005632	4196	4972	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV34	clust_0445
+GV35|SEQ01050	VBIGarVag272169_1050	Gardnerella vaginalis JCP8522	ATJE01000150	PATRIC	CDS	184008596	1439	2215	-	777		Iron-sulfur cluster assembly ATPase protein SufC	GV35	clust_0445
+ADO1|SEQ01250	VBIBifAdo136061_1250	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188841	175365	176144	-	780		Iron-sulfur cluster assembly ATPase protein SufC	ADO1	clust_0445
+ANI1|SEQ00907	VBIBifAni240121_0907	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846788	1053297	1054076	-	780	sufC	Iron-sulfur cluster assembly ATPase protein SufC	ANI1	clust_0445
+ANI2|SEQ00906	VBIBifAni235968_0906	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850139	1053300	1054079	-	780	sufC	Iron-sulfur cluster assembly ATPase protein SufC	ANI2	clust_0445
+ANI3|SEQ00909	VBIBifAni108068_0909	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764153	1053301	1054080	-	780		Iron-sulfur cluster assembly ATPase protein SufC	ANI3	clust_0445
+BIF1|SEQ00807	VBIBifBif87902_0807	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884161	988445	989233	+	789	sufC	Iron-sulfur cluster assembly ATPase protein SufC	BIF1	clust_0445
+BRE1|SEQ00866	VBIBifBre340958_0866	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603716	1031973	1032752	+	780		Iron-sulfur cluster assembly ATPase protein SufC	BRE1	clust_0445
+BRE2|SEQ00948	VBIBifBre337368_0948	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607852	1113812	1114591	+	780		Iron-sulfur cluster assembly ATPase protein SufC	BRE2	clust_0445
+BRE3|SEQ00930	VBIBifBre167886_0930	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193572	1098940	1099719	-	780	sufC	Iron-sulfur cluster assembly ATPase protein SufC	BRE3	clust_0445
+BRE4|SEQ00898	VBIBifBre327712_0898	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611895	1069727	1070506	+	780		Iron-sulfur cluster assembly ATPase protein SufC	BRE4	clust_0445
+BRE5|SEQ00917	VBIBifBre336369_0918	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615981	1072175	1072954	+	780		Iron-sulfur cluster assembly ATPase protein SufC	BRE5	clust_0445
+BRE6|SEQ00764	VBIBifBre268992_0764	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS	177654698	25524	26303	-	780		Iron-sulfur cluster assembly ATPase protein SufC	BRE6	clust_0445
+BRE7|SEQ00898	VBIBifBre340732_0898	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620253	1061708	1062487	+	780		Iron-sulfur cluster assembly ATPase protein SufC	BRE7	clust_0445
+BRE8|SEQ00928	VBIBifBre176493_0928	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624422	1108085	1108864	+	780	sufC	Iron-sulfur cluster assembly ATPase protein SufC	BRE8	clust_0445
+BRE9|SEQ00981	VBIBifBre30019_0981	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446058	1161281	1162060	+	780	sufC	Iron-sulfur cluster assembly ATPase protein SufC	BRE9	clust_0445
+INF1|SEQ00810	VBIBifLon182273_0810	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885589	985270	986049	+	780		Iron-sulfur cluster assembly ATPase protein SufC	INF1	clust_0445
+LON1|SEQ00563	VBIBifLon107831_0564	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118183	653904	654683	-	780		Iron-sulfur cluster assembly ATPase protein SufC	LON1	clust_0445
+LON2|SEQ00623	VBIBifLon171405_0624	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580772	689072	689851	-	780	sufC	Iron-sulfur cluster assembly ATPase protein SufC	LON2	clust_0445
+LON3|SEQ00430	VBIBifLon156230_0430	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767812	1264363	1265142	-	780		Iron-sulfur cluster assembly ATPase protein SufC	LON3	clust_0445
+LON4|SEQ00782	VBIBifLon48544_0782	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889835	942616	943395	+	780		Iron-sulfur cluster assembly ATPase protein SufC	LON4	clust_0445
+THE1|SEQ00965	VBIBifThe274299_0965	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735125	1214084	1214863	+	780		Iron-sulfur cluster assembly ATPase protein SufC	THE1	clust_0445

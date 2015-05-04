@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00334	86883199	VBIBifBif87902_0334	SEQ00334	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Mg(2+) transport ATPase protein C	FIG00436510	figfam	clust_3822
+BRE5|SEQ01567	268617323	VBIBifBre336369_1568	SEQ01567	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Mg(2+) transport ATPase protein C	FIG00436510	figfam	clust_3822
+BRE6|SEQ00913	177655014	VBIBifBre268992_0913	SEQ00913	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS		Mg(2+) transport ATPase protein C	FIG00436510	figfam	clust_3822

@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01740	VBIBifAdo136061_1740	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189851	235708	236478	-	771		prophage pi3 protein 59	ADO1	clust_2419
+BIF1|SEQ01249	VBIBifBif87902_1249	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885073	1496598	1497416	-	819		prophage pi3 protein 59	BIF1	clust_2419
+INF1|SEQ01270	VBIBifLon182273_1270	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886543	1430118	1430963	-	846		prophage pi3 protein 59	INF1	clust_2419
+LON1|SEQ00262	VBIBifLon107831_0262	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117561	313156	314001	+	846		prophage pi3 protein 59	LON1	clust_2419
+LON2|SEQ00303	VBIBifLon171405_0304	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580109	355853	356698	+	846		prophage pi3 protein 59	LON2	clust_2419
+LON3|SEQ01991	VBIBifLon156230_1994	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767174	927761	928606	+	846		prophage pi3 protein 59	LON3	clust_2419
+LON4|SEQ01245	VBIBifLon48544_1245	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890832	1404713	1405573	-	861		prophage pi3 protein 59	LON4	clust_2419

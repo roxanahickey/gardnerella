@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01088	VBIBifAni240121_1088	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847163	1267869	1269059	+	1191		Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)	ANI1	clust_3079
+ANI2|SEQ01088	VBIBifAni235968_1088	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850516	1267873	1269063	+	1191		Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)	ANI2	clust_3079
+ANI3|SEQ01093	VBIBifAni108068_1093	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764531	1267886	1269064	+	1179		Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)	ANI3	clust_3079
+THE1|SEQ00735	VBIBifThe274299_0735	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734651	929623	930792	-	1170		Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)	THE1	clust_3079

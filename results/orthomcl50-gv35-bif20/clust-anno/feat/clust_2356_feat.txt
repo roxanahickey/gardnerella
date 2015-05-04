@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01498	VBIBifBre340958_1499	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605028	1767517	1769094	-	1578		Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE1	clust_2356
+BRE2|SEQ01608	VBIBifBre337368_1608	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609224	1870113	1871690	-	1578		Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE2	clust_2356
+BRE3|SEQ01565	VBIBifBre167886_1565	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194889	1828037	1829614	-	1578		Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE3	clust_2356
+BRE4|SEQ01539	VBIBifBre327712_1539	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613226	1802221	1803798	-	1578		Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE4	clust_2356
+BRE6|SEQ01003	VBIBifBre268992_1003	Bifidobacterium breve JCP7499	AWSX01000053	PATRIC	CDS	177655211	633	2051	+	1419		Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE6	clust_2356
+BRE7|SEQ01581	VBIBifBre340732_1581	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621669	1823372	1824931	-	1560		Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE7	clust_2356
+BRE9|SEQ01661	VBIBifBre30019_1661	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447469	1923325	1924899	-	1575	parB1	Chromosome (plasmid) partitioning protein ParB / Stage 0 sporulation protein J	BRE9	clust_2356

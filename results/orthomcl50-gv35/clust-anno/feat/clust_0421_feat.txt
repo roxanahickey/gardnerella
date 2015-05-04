@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00840	VBIGarVag247323_0840	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495849	56950	57582	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV01	clust_0421
+GV02|SEQ01219	VBIGarVag242669_1219	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499315	206859	207491	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV02	clust_0421
+GV03|SEQ00251	VBIGarVag247424_0251	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499885	203351	203995	+	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV03	clust_0421
+GV04|SEQ00097	VBIGarVag246433_0097	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480042	102770	103402	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV04	clust_0421
+GV05|SEQ00352	VBIGarVag174900_0352	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546429	201720	202364	+	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV05	clust_0421
+GV06|SEQ00647	VBIGarVag244004_0647	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490075	96817	97449	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV06	clust_0421
+GV07|SEQ01187	VBIGarVag249177_1187	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494075	93584	94228	-	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV07	clust_0421
+GV08|SEQ01126	VBIGarVag251521_1126	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476701	232846	233478	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV08	clust_0421
+GV09|SEQ01160	VBIGarVag169280_1160	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261549	23998	24630	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV09	clust_0421
+GV10|SEQ00149	VBIGarVag136958_0149	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146314	182953	183597	+	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV10	clust_0421
+GV11|SEQ01199	VBIGarVag171052_1199	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550807	73607	74239	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV11	clust_0421
+GV12|SEQ00685	VBIGarVag144721_0685	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854069	218950	219594	+	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV12	clust_0421
+GV13|SEQ01024	VBIGarVag244533_1024	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488065	12883	13515	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV13	clust_0421
+GV14|SEQ00201	VBIGarVag244375_0201	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502236	202330	202974	-	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV14	clust_0421
+GV15|SEQ00524	VBIGarVag249709_0524	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484584	272721	273365	-	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV15	clust_0421
+GV16|SEQ00279	VBIGarVag246379_0279	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477678	236963	237595	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV16	clust_0421
+GV17|SEQ00450	VBIGarVag146634_0450	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850933	447822	448466	-	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV17	clust_0421
+GV18|SEQ00691	VBIGarVag4823_0691	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	42070154	12877	13509	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV18	clust_0421
+GV19|SEQ01333	VBIGarVag39333_1336	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629603	1656214	1656846	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV19	clust_0421
+GV20|SEQ00162	VBIGarVag188338_0162	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189110	191109	191741	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV20	clust_0421
+GV21|SEQ00976	VBIGarVag274454_0977	Gardnerella vaginalis JCP7275	ATJS01000087	PATRIC	CDS	183968736	7998	8630	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV21	clust_0421
+GV22|SEQ00730	VBIGarVag276801_0731	Gardnerella vaginalis JCP7276	ATJR01000030	PATRIC	CDS	183970910	2421	3053	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV22	clust_0421
+GV23|SEQ00925	VBIGarVag276017_0925	Gardnerella vaginalis JCP7659	ATJQ01000088	PATRIC	CDS	183974281	2547	3179	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV23	clust_0421
+GV24|SEQ00632	VBIGarVag268944_0633	Gardnerella vaginalis JCP7672	ATJP01000043	PATRIC	CDS	183976436	2450	3082	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV24	clust_0421
+GV25|SEQ00356	VBIGarVag270495_0356	Gardnerella vaginalis JCP7719	ATJO01000023	PATRIC	CDS	183978616	2507	3139	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV25	clust_0421
+GV26|SEQ00154	VBIGarVag272749_0154	Gardnerella vaginalis JCP8017A	ATJN01000006	PATRIC	CDS	183981055	9314	9946	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV26	clust_0421
+GV27|SEQ00884	VBIGarVag276930_0884	Gardnerella vaginalis JCP8017B	ATJM01000044	PATRIC	CDS	183985568	9080	9712	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV27	clust_0421
+GV28|SEQ00868	VBIGarVag271349_0868	Gardnerella vaginalis JCP8066	ATJL01000076	PATRIC	CDS	183988508	3019	3651	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV28	clust_0421
+GV29|SEQ00550	VBIGarVag265473_0550	Gardnerella vaginalis JCP8070	ATJK01000027	PATRIC	CDS	183990517	20974	21606	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV29	clust_0421
+GV30|SEQ00857	VBIGarVag267667_0859	Gardnerella vaginalis JCP8108	ATJJ01000067	PATRIC	CDS	183993883	2905	3537	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV30	clust_0421
+GV31|SEQ00908	VBIGarVag264983_0908	Gardnerella vaginalis JCP8151A	ATJI01000062	PATRIC	CDS	183996956	4803	5435	+	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV31	clust_0421
+GV32|SEQ00600	VBIGarVag277040_0600	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999108	2572	3204	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV32	clust_0421
+GV33|SEQ00556	VBIGarVag265557_0556	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001856	8324	8968	+	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV33	clust_0421
+GV34|SEQ00410	VBIGarVag270440_0410	Gardnerella vaginalis JCP8481B	ATJF01000027	PATRIC	CDS	184004378	12973	13617	-	645		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV34	clust_0421
+GV35|SEQ00007	VBIGarVag272169_0007	Gardnerella vaginalis JCP8522	ATJE01000002	PATRIC	CDS	184006284	2540	3172	-	633		Periplasmic protein p19 involved in high-affinity Fe2+ transport	GV35	clust_0421

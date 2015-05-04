@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00067	VBIBifAdo136061_0067	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186326	75166	75510	+	345		acetyltransferase, GNAT family	ADO1	clust_1894
+ANI1|SEQ00864	VBIBifAni240121_0864	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846700	1002298	1002723	-	426		Predicted amino-acid acetyltransferase (EC 2.3.1.1) complementing ArgA function in Arginine Biosynthesis pathway	ANI1	clust_1894
+ANI2|SEQ00863	VBIBifAni235968_0863	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850051	1002301	1002726	-	426		Predicted amino-acid acetyltransferase (EC 2.3.1.1) complementing ArgA function in Arginine Biosynthesis pathway	ANI2	clust_1894
+ANI3|SEQ00866	VBIBifAni108068_0866	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764065	1002303	1002728	-	426		Predicted amino-acid acetyltransferase (EC 2.3.1.1) complementing ArgA function in Arginine Biosynthesis pathway	ANI3	clust_1894
+BRE2|SEQ00196	VBIBifBre337368_0196	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606295	254164	254316	-	153		hypothetical protein	BRE2	clust_1894
+BRE3|SEQ00214	VBIBifBre167886_0214	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192080	278140	278292	-	153		hypothetical protein	BRE3	clust_1894
+BRE6|SEQ02064	VBIBifBre268992_2064	Bifidobacterium breve JCP7499	AWSX01000096	PATRIC	CDS	177657460	4403	4573	+	171		acetyltransferase, GNAT family	BRE6	clust_1894
+BRE7|SEQ00191	VBIBifBre340732_0191	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618785	249755	249907	-	153		hypothetical protein	BRE7	clust_1894
+BRE8|SEQ00218	VBIBifBre176493_0218	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622952	281222	281374	-	153		hypothetical protein	BRE8	clust_1894
+BRE9|SEQ00227	VBIBifBre30019_0227	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444490	296510	296662	-	153		hypothetical protein	BRE9	clust_1894
+THE1|SEQ00524	VBIBifThe274299_0524	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734224	667298	667753	-	456		Predicted amino-acid acetyltransferase complementing ArgA function in Arginine Biosynthesis pathway	THE1	clust_1894

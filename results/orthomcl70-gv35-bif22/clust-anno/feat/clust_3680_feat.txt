@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00953	VBIBifAni240121_0953	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846882	1098887	1099108	-	222		acetyltransferase, GNAT family	ANI1	clust_3680
+ANI2|SEQ00952	VBIBifAni235968_0952	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850233	1098890	1099111	-	222		acetyltransferase, GNAT family	ANI2	clust_3680
+ANI3|SEQ00956	VBIBifAni108068_0956	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764247	1098891	1099112	-	222		acetyltransferase, GNAT family	ANI3	clust_3680

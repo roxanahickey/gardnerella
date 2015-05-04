@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00265	VBIBifAni240121_0265	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845438	324930	325055	+	126	recG	"ATP-dependent DNA helicase RecG "	ANI1	clust_3560
+ANI2|SEQ00264	VBIBifAni235968_0264	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848791	324932	325057	+	126	recG	"ATP-dependent DNA helicase RecG "	ANI2	clust_3560
+ANI3|SEQ00265	VBIBifAni108068_0265	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762804	324933	325058	+	126		"ATP-dependent DNA helicase RecG "	ANI3	clust_3560

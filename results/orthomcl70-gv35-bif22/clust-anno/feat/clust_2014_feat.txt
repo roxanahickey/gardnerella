@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00769	VBIBifAdo136061_0769	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187838	646790	647824	-	1035		MSM (multiple sugar metabolism) operon regulatory protein	ADO1	clust_2014
+BRE2|SEQ01536	VBIBifBre337368_1536	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609069	1783337	1784332	-	996		MSM (multiple sugar metabolism) operon regulatory protein	BRE2	clust_2014
+BRE4|SEQ00038	VBIBifBre327712_0038	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610109	46919	47953	-	1035		MSM (multiple sugar metabolism) operon regulatory protein	BRE4	clust_2014
+BRE4|SEQ01461	VBIBifBre327712_1461	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613059	1713956	1714951	-	996		MSM (multiple sugar metabolism) operon regulatory protein	BRE4	clust_2014
+BRE6|SEQ01562	VBIBifBre268992_1562	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656392	22896	23930	-	1035		MSM (multiple sugar metabolism) operon regulatory protein	BRE6	clust_2014
+BRE8|SEQ00039	VBIBifBre176493_0039	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622582	46944	47978	-	1035		MSM (multiple sugar metabolism) operon regulatory protein	BRE8	clust_2014
+BRE9|SEQ00040	VBIBifBre30019_0040	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444103	46942	47976	-	1035		MSM (multiple sugar metabolism) operon regulatory protein	BRE9	clust_2014
+DEN1|SEQ00121	VBIBifDen165269_0122	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461495	1466575	1467609	+	1035		MSM (multiple sugar metabolism) operon regulatory protein	DEN1	clust_2014
+DEN2|SEQ01910	VBIBifDen39005_1912	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112237	136075	137109	+	1035		MSM (multiple sugar metabolism) operon regulatory protein	DEN2	clust_2014
+THE1|SEQ00129	VBIBifThe274299_0129	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733421	149340	150383	-	1044		LacI-type transcriptional regulator	THE1	clust_2014

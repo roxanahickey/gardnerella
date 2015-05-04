@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE5|SEQ00870	VBIBifBre336369_0871	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615887	1023354	1024286	+	933		Probable ABC transporter permease protein ytcP	BRE5	clust_3794
+BRE9|SEQ00336	VBIBifBre30019_0336	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444718	420416	421348	+	933		Probable ABC transporter permease protein ytcP	BRE9	clust_3794
+THE1|SEQ01278	VBIBifThe274299_1278	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735778	1589881	1590822	+	942		sugar ABC transporter permease	THE1	clust_3794

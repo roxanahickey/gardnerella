@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01781	VBIBifBre340958_1782	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605621	2080839	2081555	-	717		hypothetical protein	BRE1	clust_2295
+BRE2|SEQ01883	VBIBifBre337368_1883	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609800	2183587	2184237	-	651		hypothetical protein	BRE2	clust_2295
+BRE3|SEQ01845	VBIBifBre167886_1845	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195473	2150971	2151621	-	651		hypothetical protein	BRE3	clust_2295
+BRE7|SEQ01871	VBIBifBre340732_1871	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622274	2157584	2158300	-	717		hypothetical protein	BRE7	clust_2295
+BRE8|SEQ01833	VBIBifBre176493_1833	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626311	2135512	2136228	-	717		hypothetical protein	BRE8	clust_2295
+THE1|SEQ00326	VBIBifThe274299_0326	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733826	378705	381590	+	2886		hypothetical protein	THE1	clust_2295
+THE1|SEQ00328	VBIBifThe274299_0328	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733830	382388	383038	+	651		Cell wall surface anchor family protein	THE1	clust_2295

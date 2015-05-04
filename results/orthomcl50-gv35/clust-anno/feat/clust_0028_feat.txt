@@ -1,0 +1,37 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01247	VBIGarVag247323_1247	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496699	19368	20273	+	906		rRNA small subunit methyltransferase I	GV01	clust_0028
+GV02|SEQ00025	VBIGarVag242669_0025	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496805	24817	25719	-	903		rRNA small subunit methyltransferase I	GV02	clust_0028
+GV03|SEQ00405	VBIGarVag247424_0405	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500215	20225	21205	-	981		rRNA small subunit methyltransferase I	GV03	clust_0028
+GV04|SEQ01239	VBIGarVag246433_1239	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482407	91867	92760	+	894		rRNA small subunit methyltransferase I	GV04	clust_0028
+GV05|SEQ00173	VBIGarVag174900_0173	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546055	76462	77442	+	981		rRNA small subunit methyltransferase I	GV05	clust_0028
+GV06|SEQ00464	VBIGarVag244004_0464	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489686	24465	25358	-	894		rRNA small subunit methyltransferase I	GV06	clust_0028
+GV07|SEQ01026	VBIGarVag249177_1026	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493738	20190	21170	-	981		rRNA small subunit methyltransferase I	GV07	clust_0028
+GV08|SEQ00531	VBIGarVag251521_0531	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475476	24384	25277	-	894		rRNA small subunit methyltransferase I	GV08	clust_0028
+GV09|SEQ01062	VBIGarVag169280_1062	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261346	83040	83933	+	894		rRNA small subunit methyltransferase I	GV09	clust_0028
+GV10|SEQ01109	VBIGarVag136958_1109	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148316	1505338	1506240	-	903	yraL	rRNA small subunit methyltransferase I	GV10	clust_0028
+GV11|SEQ01047	VBIGarVag171052_1047	Gardnerella vaginalis 41V	AEJE01000060	PATRIC	CDS	52550478	616	1509	+	894		rRNA small subunit methyltransferase I	GV11	clust_0028
+GV12|SEQ00015	VBIGarVag144721_0015	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852680	19915	20817	-	903		rRNA small subunit methyltransferase I	GV12	clust_0028
+GV13|SEQ01253	VBIGarVag244533_1253	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488558	85634	86527	+	894		rRNA small subunit methyltransferase I	GV13	clust_0028
+GV14|SEQ00936	VBIGarVag244375_0936	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503767	71744	72724	+	981		rRNA small subunit methyltransferase I	GV14	clust_0028
+GV15|SEQ00059	VBIGarVag249709_0059	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483604	70269	71171	+	903		rRNA small subunit methyltransferase I	GV15	clust_0028
+GV16|SEQ00070	VBIGarVag246379_0070	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477245	88563	89456	+	894		rRNA small subunit methyltransferase I	GV16	clust_0028
+GV17|SEQ00014	VBIGarVag146634_0014	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850024	19963	20865	-	903		rRNA small subunit methyltransferase I	GV17	clust_0028
+GV18|SEQ00643	VBIGarVag4823_0643	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000118	PATRIC	CDS	42070053	14885	15778	+	894		rRNA small subunit methyltransferase I	GV18	clust_0028
+GV19|SEQ00274	VBIGarVag39333_0275	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627401	332724	333617	+	894		rRNA small subunit methyltransferase I	GV19	clust_0028
+GV20|SEQ01239	VBIGarVag188338_1239	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191354	1553195	1554088	-	894		rRNA small subunit methyltransferase I	GV20	clust_0028
+GV21|SEQ01220	VBIGarVag274454_1221	Gardnerella vaginalis JCP7275	ATJS01000195	PATRIC	CDS	183969346	51	413	+	363		rRNA small subunit methyltransferase I	GV21	clust_0028
+GV22|SEQ01010	VBIGarVag276801_1011	Gardnerella vaginalis JCP7276	ATJR01000080	PATRIC	CDS	183971541	3546	4439	-	894		rRNA small subunit methyltransferase I	GV22	clust_0028
+GV23|SEQ01240	VBIGarVag276017_1240	Gardnerella vaginalis JCP7659	ATJQ01000209	PATRIC	CDS	183975058	16	585	+	570		rRNA small subunit methyltransferase I	GV23	clust_0028
+GV24|SEQ00812	VBIGarVag268944_0813	Gardnerella vaginalis JCP7672	ATJP01000068	PATRIC	CDS	183976827	46	408	+	363		rRNA small subunit methyltransferase I	GV24	clust_0028
+GV25|SEQ01254	VBIGarVag270495_1254	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980615	25510	26412	-	903		rRNA small subunit methyltransferase I	GV25	clust_0028
+GV26|SEQ00731	VBIGarVag272749_0731	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982271	25149	26054	-	906		rRNA small subunit methyltransferase I	GV26	clust_0028
+GV27|SEQ00561	VBIGarVag276930_0561	Gardnerella vaginalis JCP8017B	ATJM01000020	PATRIC	CDS	183984888	6705	7610	+	906		rRNA small subunit methyltransferase I	GV27	clust_0028
+GV28|SEQ01047	VBIGarVag271349_1047	Gardnerella vaginalis JCP8066	ATJL01000128	PATRIC	CDS	183988934	21217	22122	-	906		rRNA small subunit methyltransferase I	GV28	clust_0028
+GV29|SEQ01067	VBIGarVag265473_1067	Gardnerella vaginalis JCP8070	ATJK01000106	PATRIC	CDS	183991668	21	290	-	270		rRNA small subunit methyltransferase I	GV29	clust_0028
+GV29|SEQ01208	VBIGarVag265473_1208	Gardnerella vaginalis JCP8070	ATJK01000171	PATRIC	CDS	183992029	3780	4154	-	375		rRNA small subunit methyltransferase I	GV29	clust_0028
+GV30|SEQ01239	VBIGarVag267667_1241	Gardnerella vaginalis JCP8108	ATJJ01000139	PATRIC	CDS	183994739	3582	4475	-	894		rRNA small subunit methyltransferase I	GV30	clust_0028
+GV31|SEQ01001	VBIGarVag264983_1001	Gardnerella vaginalis JCP8151A	ATJI01000080	PATRIC	CDS	183997160	22	591	+	570		rRNA small subunit methyltransferase I	GV31	clust_0028
+GV32|SEQ00888	VBIGarVag277040_0888	Gardnerella vaginalis JCP8151B	ATJH01000077	PATRIC	CDS	183999746	5	379	+	375		rRNA small subunit methyltransferase I	GV32	clust_0028
+GV33|SEQ00434	VBIGarVag265557_0434	Gardnerella vaginalis JCP8481A	ATJG01000038	PATRIC	CDS	184001594	3610	4548	-	939		rRNA small subunit methyltransferase I	GV33	clust_0028
+GV34|SEQ00543	VBIGarVag270440_0543	Gardnerella vaginalis JCP8481B	ATJF01000048	PATRIC	CDS	184004676	3609	4547	-	939		rRNA small subunit methyltransferase I	GV34	clust_0028
+GV35|SEQ00686	VBIGarVag272169_0686	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007747	46	579	+	534		rRNA small subunit methyltransferase I	GV35	clust_0028

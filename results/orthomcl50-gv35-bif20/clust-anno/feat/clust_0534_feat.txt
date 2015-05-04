@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00292	VBIGarVag247323_0292	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494707	32554	33345	-	792		possible permease protein of ABC transporter system	GV01	clust_0534
+GV02|SEQ00658	VBIGarVag242669_0658	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498133	18318	18740	+	423		Alkanesulfonates transport system permease protein	GV02	clust_0534
+GV03|SEQ00775	VBIGarVag247424_0775	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500981	68524	69315	-	792		Alkanesulfonates transport system permease protein	GV03	clust_0534
+GV04|SEQ01085	VBIGarVag246433_1085	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482091	40870	41661	-	792		Alkanesulfonates transport system permease protein	GV04	clust_0534
+GV05|SEQ00828	VBIGarVag174900_0828	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547422	495280	496071	-	792		Alkanesulfonates transport system permease protein	GV05	clust_0534
+GV06|SEQ00663	VBIGarVag244004_0663	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490110	17954	18745	+	792		Alkanesulfonates transport system permease protein	GV06	clust_0534
+GV07|SEQ00586	VBIGarVag249177_0586	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492821	77895	78686	-	792		Alkanesulfonates transport system permease protein	GV07	clust_0534
+GV08|SEQ00138	VBIGarVag251521_0138	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474647	165726	166517	+	792		Alkanesulfonates transport system permease protein	GV08	clust_0534
+GV09|SEQ00966	VBIGarVag169280_0966	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261144	385198	385989	+	792		Alkanesulfonates transport system permease protein	GV09	clust_0534
+GV10|SEQ00575	VBIGarVag136958_0575	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147208	735642	736433	-	792		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	GV10	clust_0534
+GV11|SEQ00660	VBIGarVag171052_0660	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549667	17503	18294	+	792		Alkanesulfonates transport system permease protein	GV11	clust_0534
+GV12|SEQ01210	VBIGarVag144721_1210	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855250	79403	80194	-	792		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	GV12	clust_0534
+GV13|SEQ00603	VBIGarVag244533_0603	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487179	17937	18728	+	792		Alkanesulfonates transport system permease protein	GV13	clust_0534
+GV14|SEQ00292	VBIGarVag244375_0292	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502426	118019	118810	-	792		possible permease protein of ABC transporter system	GV14	clust_0534
+GV15|SEQ00633	VBIGarVag249709_0633	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484811	76719	77510	-	792		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	GV15	clust_0534
+GV16|SEQ00913	VBIGarVag246379_0913	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478993	1035271	1036062	+	792		Alkanesulfonates transport system permease protein	GV16	clust_0534
+GV17|SEQ00976	VBIGarVag146634_0976	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852040	110878	111669	+	792		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	GV17	clust_0534
+GV18|SEQ00425	VBIGarVag4823_0425	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000096	PATRIC	CDS	42069581	9942	10733	+	792		Alkanesulfonates transport system permease protein	GV18	clust_0534
+GV19|SEQ00704	VBIGarVag39333_0705	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628302	878858	879649	-	792		Alkanesulfonates transport system permease protein	GV19	clust_0534
+GV20|SEQ00836	VBIGarVag188338_0836	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190506	1018479	1019270	+	792		Alkanesulfonates transport system permease protein	GV20	clust_0534
+GV21|SEQ00289	VBIGarVag274454_0289	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967230	71997	72788	+	792		Alkanesulfonates transport system permease protein	GV21	clust_0534
+GV22|SEQ00078	VBIGarVag276801_0078	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969541	100857	101648	-	792		Alkanesulfonates transport system permease protein	GV22	clust_0534
+GV23|SEQ00129	VBIGarVag276017_0129	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972555	30951	31742	-	792		Alkanesulfonates transport system permease protein	GV23	clust_0534
+GV24|SEQ00994	VBIGarVag268944_0995	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977219	74074	74865	+	792		Alkanesulfonates transport system permease protein	GV24	clust_0534
+GV25|SEQ00737	VBIGarVag270495_0737	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979441	43922	44713	-	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV25	clust_0534
+GV26|SEQ00377	VBIGarVag272749_0377	Gardnerella vaginalis JCP8017A	ATJN01000024	PATRIC	CDS	183981533	5251	6042	-	792		Alkanesulfonates transport system permease protein	GV26	clust_0534
+GV27|SEQ00105	VBIGarVag276930_0105	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983924	18093	18884	+	792		Alkanesulfonates transport system permease protein	GV27	clust_0534
+GV28|SEQ00268	VBIGarVag271349_0268	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987199	39712	40503	-	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV28	clust_0534
+GV29|SEQ00882	VBIGarVag265473_0882	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991253	37224	37646	-	423		Alkanesulfonates transport system permease protein	GV29	clust_0534
+GV30|SEQ00263	VBIGarVag267667_0264	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992584	26549	27340	+	792		Alkanesulfonates transport system permease protein	GV30	clust_0534
+GV31|SEQ00022	VBIGarVag264983_0022	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995062	30074	30865	-	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV31	clust_0534
+GV32|SEQ00281	VBIGarVag277040_0281	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998410	113358	114149	-	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV32	clust_0534
+GV33|SEQ01202	VBIGarVag265557_1202	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003337	15638	16429	+	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV33	clust_0534
+GV34|SEQ00712	VBIGarVag270440_0712	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005043	16013	16804	-	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV34	clust_0534
+GV35|SEQ00156	VBIGarVag272169_0156	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006591	50297	51088	-	792		Hydroxymethylpyrimidine ABC transporter, transmembrane component	GV35	clust_0534
+ADO1|SEQ01880	VBIBifAdo136061_1880	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190131	395553	396356	+	804		Hydroxymethylpyrimidine ABC transporter, transmembrane component	ADO1	clust_0534
+ANI1|SEQ01234	VBIBifAni240121_1234	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847459	1435682	1436494	+	813		Hydroxymethylpyrimidine ABC transporter, transmembrane component	ANI1	clust_0534
+ANI2|SEQ01234	VBIBifAni235968_1234	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850812	1435686	1436498	+	813		Hydroxymethylpyrimidine ABC transporter, transmembrane component	ANI2	clust_0534
+ANI3|SEQ01242	VBIBifAni108068_1242	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764830	1441218	1441946	+	729		Hydroxymethylpyrimidine ABC transporter, transmembrane component	ANI3	clust_0534
+BIF1|SEQ00178	VBIBifBif87902_0178	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882863	224776	225579	-	804		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BIF1	clust_0534
+BRE1|SEQ00599	VBIBifBre340958_0599	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603162	735766	736542	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE1	clust_0534
+BRE2|SEQ00694	VBIBifBre337368_0694	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607323	829857	830633	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE2	clust_0534
+BRE3|SEQ01176	VBIBifBre167886_1176	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194085	1376042	1376818	+	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE3	clust_0534
+BRE4|SEQ00634	VBIBifBre327712_0634	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611346	776881	777657	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE4	clust_0534
+BRE5|SEQ00653	VBIBifBre336369_0654	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615431	775283	776059	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE5	clust_0534
+BRE6|SEQ01102	VBIBifBre268992_1102	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655413	38659	39435	+	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE6	clust_0534
+BRE7|SEQ00647	VBIBifBre340732_0647	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619730	779895	780671	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE7	clust_0534
+BRE8|SEQ00669	VBIBifBre176493_0669	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623883	820808	821584	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE8	clust_0534
+BRE9|SEQ00716	VBIBifBre30019_0716	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445505	864682	865458	-	777		Hydroxymethylpyrimidine ABC transporter, transmembrane component	BRE9	clust_0534
+INF1|SEQ01422	VBIBifLon182273_1422	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886854	1617680	1618462	+	783		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	INF1	clust_0534
+LON1|SEQ00111	VBIBifLon107831_0111	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117251	125806	126588	-	783		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	LON1	clust_0534
+LON2|SEQ00157	VBIBifLon171405_0158	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579811	170562	171344	-	783	tauC	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	LON2	clust_0534
+LON3|SEQ00039	VBIBifLon156230_0039	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765701	55965	56747	+	783		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	LON3	clust_0534
+LON4|SEQ01393	VBIBifLon48544_1393	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891138	1590557	1591339	+	783		ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	LON4	clust_0534
+THE1|SEQ00807	VBIBifThe274299_0807	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734798	1016287	1017093	-	807		Hydroxymethylpyrimidine ABC transporter, transmembrane component	THE1	clust_0534

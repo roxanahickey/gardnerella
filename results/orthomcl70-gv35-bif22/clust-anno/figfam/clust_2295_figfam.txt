@@ -1,0 +1,9 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01221	27188781	VBIBifAdo136061_1221	SEQ01221	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295
+BIF1|SEQ01683	86885987	VBIBifBif87902_1683	SEQ01683	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2295
+BRE5|SEQ01076	268616310	VBIBifBre336369_1077	SEQ01076	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295
+INF1|SEQ01140	46886276	VBIBifLon182273_1140	SEQ01140	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295
+LON1|SEQ00390	21117823	VBIBifLon107831_0390	SEQ00390	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295
+LON2|SEQ00398	42580304	VBIBifLon171405_0399	SEQ00398	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295
+LON3|SEQ00255	42767445	VBIBifLon156230_0255	SEQ00255	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295
+LON4|SEQ01163	46890660	VBIBifLon48544_1163	SEQ01163	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00425638: hypothetical protein	FIG01335806	figfam	clust_2295

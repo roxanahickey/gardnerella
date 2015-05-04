@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV09|SEQ00202	55259567	VBIGarVag169280_0202	SEQ00202	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	NA	Tetracycline resistance protein TetM	GO:0005525	GTP binding	go	clust_1862
+GV21|SEQ00361	183967380	VBIGarVag274454_0361	SEQ00361	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000015	PATRIC	CDS	NA	Tetracycline resistance protein TetM	GO:0005525	GTP binding	go	clust_1862
+GV31|SEQ01118	183997449	VBIGarVag264983_1118	SEQ01118	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000117	PATRIC	CDS	NA	Tetracycline resistance protein TetM	GO:0005525	GTP binding	go	clust_1862

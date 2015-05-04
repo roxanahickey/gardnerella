@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00285	VBIGarVag247323_0285	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494693	22395	23198	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV01	clust_0530
+GV02|SEQ00666	VBIGarVag242669_0666	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498149	28135	28938	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV02	clust_0530
+GV03|SEQ00768	VBIGarVag247424_0768	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500967	58433	59239	+	807		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV03	clust_0530
+GV04|SEQ01078	VBIGarVag246433_1078	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482077	30837	31640	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV04	clust_0530
+GV05|SEQ00821	VBIGarVag174900_0821	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547408	485165	485971	+	807		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV05	clust_0530
+GV06|SEQ00670	VBIGarVag244004_0670	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490124	27981	28784	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV06	clust_0530
+GV07|SEQ00580	VBIGarVag249177_0580	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492809	68274	69080	+	807		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV07	clust_0530
+GV08|SEQ00145	VBIGarVag251521_0145	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474661	175708	176511	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV08	clust_0530
+GV09|SEQ00973	VBIGarVag169280_0973	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261158	395178	395981	-	804	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV09	clust_0530
+GV10|SEQ00568	VBIGarVag136958_0568	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147194	725912	726715	+	804	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV10	clust_0530
+GV11|SEQ00668	VBIGarVag171052_0668	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549683	27538	28341	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV11	clust_0530
+GV12|SEQ01203	VBIGarVag144721_1203	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855236	69672	70475	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV12	clust_0530
+GV13|SEQ00610	VBIGarVag244533_0610	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487193	27992	28795	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV13	clust_0530
+GV14|SEQ00285	VBIGarVag244375_0285	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502412	108395	109201	+	807		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV14	clust_0530
+GV15|SEQ00626	VBIGarVag249709_0626	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484797	66706	67509	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV15	clust_0530
+GV16|SEQ00920	VBIGarVag246379_0920	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479007	1045242	1046045	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV16	clust_0530
+GV17|SEQ00983	VBIGarVag146634_0983	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852054	120891	121694	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV17	clust_0530
+GV18|SEQ00539	VBIGarVag4823_0539	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069828	15124	15927	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV18	clust_0530
+GV19|SEQ00697	VBIGarVag39333_0698	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628288	868883	869686	+	804	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV19	clust_0530
+GV20|SEQ00843	VBIGarVag188338_0843	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190520	1028486	1029289	-	804	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV20	clust_0530
+GV21|SEQ00296	VBIGarVag274454_0296	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967244	82050	82853	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV21	clust_0530
+GV22|SEQ00071	VBIGarVag276801_0071	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969527	90883	91686	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV22	clust_0530
+GV23|SEQ00122	VBIGarVag276017_0122	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972541	20794	21597	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV23	clust_0530
+GV24|SEQ01001	VBIGarVag268944_1002	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977233	84049	84852	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV24	clust_0530
+GV25|SEQ00730	VBIGarVag270495_0730	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979427	33808	34611	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV25	clust_0530
+GV26|SEQ00370	VBIGarVag272749_0370	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981518	20811	21614	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV26	clust_0530
+GV27|SEQ00112	VBIGarVag276930_0112	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983938	28244	29047	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV27	clust_0530
+GV28|SEQ00261	VBIGarVag271349_0261	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987185	29568	30371	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV28	clust_0530
+GV29|SEQ00875	VBIGarVag265473_0875	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991239	27099	27902	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV29	clust_0530
+GV30|SEQ00270	VBIGarVag267667_0271	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992598	36599	37402	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV30	clust_0530
+GV31|SEQ00015	VBIGarVag264983_0015	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995048	19931	20734	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV31	clust_0530
+GV32|SEQ00274	VBIGarVag277040_0274	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998396	103214	104017	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV32	clust_0530
+GV33|SEQ01209	VBIGarVag265557_1209	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003351	25883	26686	-	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV33	clust_0530
+GV34|SEQ00705	VBIGarVag270440_0705	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005029	5756	6559	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV34	clust_0530
+GV35|SEQ00149	VBIGarVag272169_0149	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006577	40140	40943	+	804		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	GV35	clust_0530
+ADO1|SEQ00953	VBIBifAdo136061_0953	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188220	865618	866418	+	801		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	ADO1	clust_0530
+ANI1|SEQ01044	VBIBifAni240121_1044	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847070	1206660	1207454	-	795		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	ANI1	clust_0530
+ANI2|SEQ01044	VBIBifAni235968_1044	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850423	1206664	1207458	-	795		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	ANI2	clust_0530
+ANI3|SEQ01048	VBIBifAni108068_1048	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764437	1206665	1207459	-	795		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	ANI3	clust_0530
+BIF1|SEQ01121	VBIBifBif87902_1121	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884810	1342531	1343334	-	804	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BIF1	clust_0530
+BRE1|SEQ00777	VBIBifBre340958_0777	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603538	938470	939291	+	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE1	clust_0530
+BRE2|SEQ00872	VBIBifBre337368_0872	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607700	1035329	1036150	+	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE2	clust_0530
+BRE3|SEQ01012	VBIBifBre167886_1012	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193736	1183971	1184792	-	822	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE3	clust_0530
+BRE4|SEQ00805	VBIBifBre327712_0805	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611709	976922	977743	+	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE4	clust_0530
+BRE5|SEQ00817	VBIBifBre336369_0818	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615779	969980	970801	+	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE5	clust_0530
+BRE6|SEQ01603	VBIBifBre268992_1603	Bifidobacterium breve JCP7499	AWSX01000074	PATRIC	CDS	177656477	7932	8753	-	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE6	clust_0530
+BRE7|SEQ00807	VBIBifBre340732_0807	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620070	968964	969785	+	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE7	clust_0530
+BRE8|SEQ00832	VBIBifBre176493_0832	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624229	1012078	1012899	+	822	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE8	clust_0530
+BRE9|SEQ00880	VBIBifBre30019_0880	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445854	1057470	1058291	+	822	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	BRE9	clust_0530
+INF1|SEQ00741	VBIBifLon182273_0741	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885451	910791	911612	+	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	INF1	clust_0530
+LON1|SEQ00627	VBIBifLon107831_0628	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118311	724214	725014	-	801	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	LON1	clust_0530
+LON2|SEQ00691	VBIBifLon171405_0692	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580908	762423	763223	-	801	proC	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	LON2	clust_0530
+LON3|SEQ00501	VBIBifLon156230_0501	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767954	1341688	1342509	-	822		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	LON3	clust_0530
+LON4|SEQ00719	VBIBifLon48544_0719	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889708	875547	876347	+	801		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	LON4	clust_0530
+THE1|SEQ00794	VBIBifThe274299_0794	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734771	1000899	1001696	+	798		Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	THE1	clust_0530

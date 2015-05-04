@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00562	VBIGarVag247323_0562	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495270	313716	314711	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV01	clust_0175
+GV02|SEQ00814	VBIGarVag242669_0814	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498470	32308	33303	+	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV02	clust_0175
+GV03|SEQ00993	VBIGarVag247424_0993	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501432	352944	353921	-	978		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV03	clust_0175
+GV04|SEQ00655	VBIGarVag246433_0655	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481203	75262	76257	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV04	clust_0175
+GV05|SEQ01040	VBIGarVag174900_1040	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547861	761712	762743	-	1032		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV05	clust_0175
+GV06|SEQ00257	VBIGarVag244004_0257	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489235	31118	32113	+	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV06	clust_0175
+GV07|SEQ00291	VBIGarVag249177_0291	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492199	97115	98134	+	1020		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV07	clust_0175
+GV08|SEQ00100	VBIGarVag251521_0100	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474566	115237	116220	-	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV08	clust_0175
+GV09|SEQ00929	VBIGarVag169280_0929	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261065	334630	335613	-	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV09	clust_0175
+GV10|SEQ00811	VBIGarVag136958_0811	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147694	1054306	1055307	-	1002		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV10	clust_0175
+GV11|SEQ00732	VBIGarVag171052_0732	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549816	3104	4087	-	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV11	clust_0175
+GV12|SEQ00254	VBIGarVag144721_0254	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853171	213725	214726	-	1002		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV12	clust_0175
+GV13|SEQ00911	VBIGarVag244533_0911	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487827	24786	25781	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV13	clust_0175
+GV14|SEQ01096	VBIGarVag244375_1096	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504103	177845	178846	-	1002		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV14	clust_0175
+GV15|SEQ00157	VBIGarVag249709_0157	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483805	85487	86488	-	1002		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV15	clust_0175
+GV16|SEQ00876	VBIGarVag246379_0876	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478914	984800	985795	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV16	clust_0175
+GV17|SEQ00746	VBIGarVag146634_0746	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851564	57751	58776	+	1026		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV17	clust_0175
+GV18|SEQ00198	VBIGarVag4823_0198	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000067	PATRIC	CDS	42069088	6768	7394	-	627		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV18	clust_0175
+GV19|SEQ00744	VBIGarVag39333_0745	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628386	929164	930147	+	984	pyrD	Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV19	clust_0175
+GV20|SEQ00799	VBIGarVag188338_0799	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190427	967919	968914	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV20	clust_0175
+GV21|SEQ00252	VBIGarVag274454_0252	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967152	21977	22972	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV21	clust_0175
+GV22|SEQ00115	VBIGarVag276801_0115	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969619	151145	152140	+	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV22	clust_0175
+GV23|SEQ00212	VBIGarVag276017_0212	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972728	32175	33158	+	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV23	clust_0175
+GV24|SEQ00957	VBIGarVag268944_0958	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977141	23509	24492	-	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV24	clust_0175
+GV25|SEQ00775	VBIGarVag270495_0775	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979521	94953	95948	+	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV25	clust_0175
+GV26|SEQ01020	VBIGarVag272749_1020	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982920	31951	32934	+	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV26	clust_0175
+GV27|SEQ01095	VBIGarVag276930_1095	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986050	24948	25931	-	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV27	clust_0175
+GV28|SEQ00307	VBIGarVag271349_0307	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987281	91079	92062	+	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV28	clust_0175
+GV29|SEQ00921	VBIGarVag265473_0921	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991335	88480	89463	+	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV29	clust_0175
+GV30|SEQ01264	VBIGarVag267667_1266	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994801	22482	23477	+	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV30	clust_0175
+GV31|SEQ00515	VBIGarVag264983_0515	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996100	20398	21393	-	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV31	clust_0175
+GV32|SEQ00320	VBIGarVag277040_0320	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998492	164667	165662	+	996		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV32	clust_0175
+GV33|SEQ00972	VBIGarVag265557_0972	Gardnerella vaginalis JCP8481A	ATJG01000114	PATRIC	CDS	184002786	5126	6127	-	1002		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV33	clust_0175
+GV34|SEQ00901	VBIGarVag270440_0901	Gardnerella vaginalis JCP8481B	ATJF01000099	PATRIC	CDS	184005456	5120	6121	-	1002		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV34	clust_0175
+GV35|SEQ00193	VBIGarVag272169_0193	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006669	100859	101842	+	984		Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)	GV35	clust_0175

@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00564	VBIGarVag247323_0564	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495274	315771	316805	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV01	clust_0597
+GV02|SEQ00812	VBIGarVag242669_0812	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498466	30167	31201	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV02	clust_0597
+GV03|SEQ00995	VBIGarVag247424_0995	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501436	354918	355961	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV03	clust_0597
+GV04|SEQ00657	VBIGarVag246433_0657	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481207	77361	78395	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV04	clust_0597
+GV05|SEQ01042	VBIGarVag174900_1042	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547865	763756	764799	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV05	clust_0597
+GV06|SEQ00255	VBIGarVag244004_0255	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489231	28980	30014	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV06	clust_0597
+GV07|SEQ00289	VBIGarVag249177_0289	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492195	95075	96118	+	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV07	clust_0597
+GV08|SEQ00102	VBIGarVag251521_0102	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474570	117336	118370	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV08	clust_0597
+GV09|SEQ00931	VBIGarVag169280_0931	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261069	336729	337763	-	1035	pyrF_2	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV09	clust_0597
+GV10|SEQ00813	VBIGarVag136958_0813	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147698	1056304	1057347	-	1044	pyrF_2	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV10	clust_0597
+GV11|SEQ00734	VBIGarVag171052_0734	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549820	5203	6237	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV11	clust_0597
+GV12|SEQ00256	VBIGarVag144721_0256	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853175	215723	216766	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV12	clust_0597
+GV13|SEQ00913	VBIGarVag244533_0913	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487831	26885	27919	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV13	clust_0597
+GV14|SEQ01098	VBIGarVag244375_1098	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504107	179862	180905	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV14	clust_0597
+GV15|SEQ00159	VBIGarVag249709_0159	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483809	87485	88528	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV15	clust_0597
+GV16|SEQ00878	VBIGarVag246379_0878	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478918	986899	987933	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV16	clust_0597
+GV17|SEQ00744	VBIGarVag146634_0744	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851560	55712	56755	+	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV17	clust_0597
+GV19|SEQ00742	VBIGarVag39333_0743	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628382	927014	928048	+	1035	pyrF	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV19	clust_0597
+GV20|SEQ00801	VBIGarVag188338_0801	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190431	970018	971052	-	1035	pyrF_2	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV20	clust_0597
+GV21|SEQ00254	VBIGarVag274454_0254	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967156	24076	25110	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV21	clust_0597
+GV22|SEQ00113	VBIGarVag276801_0113	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969615	149007	150041	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV22	clust_0597
+GV23|SEQ00210	VBIGarVag276017_0210	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972724	30077	31111	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV23	clust_0597
+GV24|SEQ00959	VBIGarVag268944_0960	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977145	25608	26642	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV24	clust_0597
+GV25|SEQ00773	VBIGarVag270495_0773	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979517	92859	93893	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV25	clust_0597
+GV26|SEQ01018	VBIGarVag272749_1018	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982916	29853	30887	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV26	clust_0597
+GV27|SEQ01097	VBIGarVag276930_1097	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986054	26995	28029	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV27	clust_0597
+GV28|SEQ00305	VBIGarVag271349_0305	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987277	88981	90015	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV28	clust_0597
+GV29|SEQ00919	VBIGarVag265473_0919	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991331	86433	87467	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV29	clust_0597
+GV30|SEQ01262	VBIGarVag267667_1264	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994797	20344	21378	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV30	clust_0597
+GV31|SEQ00517	VBIGarVag264983_0517	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996104	22453	23487	-	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV31	clust_0597
+GV32|SEQ00318	VBIGarVag277040_0318	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998488	162571	163605	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV32	clust_0597
+GV33|SEQ00974	VBIGarVag265557_0974	Gardnerella vaginalis JCP8481A	ATJG01000114	PATRIC	CDS	184002790	7144	8187	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV33	clust_0597
+GV34|SEQ00903	VBIGarVag270440_0903	Gardnerella vaginalis JCP8481B	ATJF01000099	PATRIC	CDS	184005460	7138	8181	-	1044		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV34	clust_0597
+GV35|SEQ00191	VBIGarVag272169_0191	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006665	98763	99797	+	1035		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	GV35	clust_0597
+ADO1|SEQ01196	VBIBifAdo136061_1196	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188731	114351	115313	-	963		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	ADO1	clust_0597
+ANI1|SEQ00868	VBIBifAni240121_0868	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846708	1005935	1006885	-	951		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	ANI1	clust_0597
+ANI2|SEQ00867	VBIBifAni235968_0867	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850059	1005938	1006888	-	951		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	ANI2	clust_0597
+ANI3|SEQ00870	VBIBifAni108068_0870	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764073	1005940	1006890	-	951		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	ANI3	clust_0597
+BIF1|SEQ00865	VBIBifBif87902_0865	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884279	1069778	1070743	+	966	pyrF	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BIF1	clust_0597
+BRE1|SEQ00921	VBIBifBre340958_0921	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603828	1095404	1096357	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE1	clust_0597
+BRE2|SEQ01013	VBIBifBre337368_1013	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607985	1190495	1191448	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE2	clust_0597
+BRE3|SEQ00869	VBIBifBre167886_0869	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193448	1028483	1029436	-	954	pyrF_1	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE3	clust_0597
+BRE4|SEQ01040	VBIBifBre327712_1040	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612197	1207145	1208098	-	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE4	clust_0597
+BRE5|SEQ01065	VBIBifBre336369_1066	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616287	1202132	1203085	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE5	clust_0597
+BRE6|SEQ00619	VBIBifBre268992_0619	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654387	21345	22298	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE6	clust_0597
+BRE7|SEQ00965	VBIBifBre340732_0965	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620391	1136360	1137313	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE7	clust_0597
+BRE8|SEQ00982	VBIBifBre176493_0982	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624532	1172601	1173554	+	954	pyrF1	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE8	clust_0597
+BRE9|SEQ01048	VBIBifBre30019_1048	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446194	1235672	1236625	+	954	pyrF1	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	BRE9	clust_0597
+INF1|SEQ00969	VBIBifLon182273_0969	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885918	1129051	1130004	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	INF1	clust_0597
+LON1|SEQ00491	VBIBifLon107831_0492	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118037	570456	571409	-	954	pyrF	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	LON1	clust_0597
+LON2|SEQ00546	VBIBifLon171405_0547	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580616	605085	606038	-	954	pyrF2	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	LON2	clust_0597
+LON3|SEQ00358	VBIBifLon156230_0358	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767666	1182884	1183837	-	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	LON3	clust_0597
+LON4|SEQ00858	VBIBifLon48544_0858	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889989	1028034	1028987	+	954		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	LON4	clust_0597
+THE1|SEQ01084	VBIBifThe274299_1084	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735379	1348202	1349167	-	966		Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	THE1	clust_0597

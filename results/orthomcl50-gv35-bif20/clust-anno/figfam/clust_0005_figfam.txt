@@ -1,0 +1,79 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00413	27187089	VBIBifAdo136061_0413	SEQ00413	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+ADO1|SEQ00474	27187211	VBIBifAdo136061_0474	SEQ00474	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+ANI1|SEQ00184	86845272	VBIBifAni240121_0184	SEQ00184	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+ANI1|SEQ00227	86845358	VBIBifAni240121_0227	SEQ00227	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+ANI1|SEQ00228	86845360	VBIBifAni240121_0228	SEQ00228	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+ANI2|SEQ00183	86848625	VBIBifAni235968_0183	SEQ00183	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+ANI2|SEQ00226	86848711	VBIBifAni235968_0226	SEQ00226	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+ANI2|SEQ00227	86848713	VBIBifAni235968_0227	SEQ00227	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+ANI3|SEQ00186	42762642	VBIBifAni108068_0186	SEQ00186	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+ANI3|SEQ00228	42762726	VBIBifAni108068_0228	SEQ00228	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+ANI3|SEQ00229	42762728	VBIBifAni108068_0229	SEQ00229	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BIF1|SEQ00171	86882849	VBIBifBif87902_0171	SEQ00171	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BIF1|SEQ01679	86885978	VBIBifBif87902_1679	SEQ01679	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE1|SEQ00173	268602272	VBIBifBre340958_0173	SEQ00173	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE1|SEQ00203	268602341	VBIBifBre340958_0203	SEQ00203	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE2|SEQ00174	268606247	VBIBifBre337368_0174	SEQ00174	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE2|SEQ00223	268606354	VBIBifBre337368_0223	SEQ00223	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE3|SEQ00193	54192034	VBIBifBre167886_0193	SEQ00193	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE3|SEQ00242	54192141	VBIBifBre167886_0242	SEQ00242	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE4|SEQ00193	268610427	VBIBifBre327712_0193	SEQ00193	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE4|SEQ00221	268610492	VBIBifBre327712_0221	SEQ00221	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE5|SEQ00187	268614465	VBIBifBre336369_0187	SEQ00187	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE5|SEQ00224	268614548	VBIBifBre336369_0225	SEQ00224	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE6|SEQ00162	177653432	VBIBifBre268992_0162	SEQ00162	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE6|SEQ02036	177657397	VBIBifBre268992_2036	SEQ02036	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE7|SEQ00169	268618737	VBIBifBre340732_0169	SEQ00169	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE7|SEQ00218	268618844	VBIBifBre340732_0218	SEQ00218	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+BRE8|SEQ00195	268622902	VBIBifBre176493_0195	SEQ00195	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	pepD1	putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE8|SEQ00245	268623011	VBIBifBre176493_0245	SEQ00245	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	pepD2	dipeptidase	FIG00906431	figfam	clust_0005
+BRE9|SEQ00203	58444438	VBIBifBre30019_0203	SEQ00203	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+BRE9|SEQ00253	58444547	VBIBifBre30019_0253	SEQ00253	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+GV01|SEQ01244	85496693	VBIGarVag247323_1244	SEQ01244	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV02|SEQ00028	85496811	VBIGarVag242669_0028	SEQ00028	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV03|SEQ00407	85500219	VBIGarVag247424_0407	SEQ00407	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV04|SEQ01234	85482397	VBIGarVag246433_1234	SEQ01234	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV05|SEQ00171	52546051	VBIGarVag174900_0171	SEQ00171	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV06|SEQ00468	85489694	VBIGarVag244004_0468	SEQ00468	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV07|SEQ01028	85493742	VBIGarVag249177_1028	SEQ01028	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV08|SEQ00534	85475482	VBIGarVag251521_0534	SEQ00534	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV09|SEQ01059	55261340	VBIGarVag169280_1059	SEQ01059	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV10|SEQ01112	32148322	VBIGarVag136958_1112	SEQ01112	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV11|SEQ00226	52548743	VBIGarVag171052_0226	SEQ00226	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000017	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV12|SEQ00018	37852686	VBIGarVag144721_0018	SEQ00018	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV13|SEQ01249	85488550	VBIGarVag244533_1249	SEQ01249	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV14|SEQ00934	85503763	VBIGarVag244375_0934	SEQ00934	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV15|SEQ00056	85483598	VBIGarVag249709_0056	SEQ00056	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV16|SEQ00067	85477239	VBIGarVag246379_0067	SEQ00067	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV17|SEQ00017	37850030	VBIGarVag146634_0017	SEQ00017	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV18|SEQ00638	42070043	VBIGarVag4823_0638	SEQ00638	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000118	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV19|SEQ00268	42627389	VBIGarVag39333_0269	SEQ00268	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV20|SEQ01244	54191364	VBIGarVag188338_1244	SEQ01244	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV21|SEQ01081	183968999	VBIGarVag274454_1082	SEQ01081	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000128	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV22|SEQ01056	183971656	VBIGarVag276801_1057	SEQ01056	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000093	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV23|SEQ01237	183975050	VBIGarVag276017_1237	SEQ01237	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000207	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV24|SEQ00644	183976463	VBIGarVag268944_0645	SEQ00644	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000046	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV25|SEQ01257	183980621	VBIGarVag270495_1257	SEQ01257	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV26|SEQ01157	183983234	VBIGarVag272749_1157	SEQ01157	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000112	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV27|SEQ00558	183984882	VBIGarVag276930_0558	SEQ00558	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000020	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV28|SEQ01050	183988940	VBIGarVag271349_1050	SEQ01050	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000128	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV29|SEQ01070	183991674	VBIGarVag265473_1070	SEQ01070	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000106	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV30|SEQ01065	183994349	VBIGarVag267667_1067	SEQ01065	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000105	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV31|SEQ00954	183997057	VBIGarVag264983_0954	SEQ00954	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000071	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV32|SEQ01248	184000580	VBIGarVag277040_1248	SEQ01248	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV33|SEQ00778	184002341	VBIGarVag265557_0778	SEQ00778	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000080	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV34|SEQ00495	184004569	VBIGarVag270440_0495	SEQ00495	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000040	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+GV35|SEQ00810	184008022	VBIGarVag272169_0810	SEQ00810	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000078	PATRIC	CDS	NA	putative dipeptidase	FIG00672180	figfam	clust_0005
+INF1|SEQ00151	46884209	VBIBifLon182273_0151	SEQ00151	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+INF1|SEQ00181	46884279	VBIBifLon182273_0181	SEQ00181	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+LON1|SEQ01183	21119461	VBIBifLon107831_1184	SEQ01183	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+LON1|SEQ01221	21119547	VBIBifLon107831_1222	SEQ01221	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+LON2|SEQ01218	42582001	VBIBifLon171405_1220	SEQ01218	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+LON2|SEQ01248	42582071	VBIBifLon171405_1250	SEQ01248	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+LON3|SEQ01297	42769193	VBIBifLon156230_1299	SEQ01297	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+LON3|SEQ01328	42769265	VBIBifLon156230_1330	SEQ01328	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+LON4|SEQ00162	46888532	VBIBifLon48544_0162	SEQ00162	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005
+LON4|SEQ00201	46888622	VBIBifLon48544_0201	SEQ00201	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+THE1|SEQ00190	124733545	VBIBifThe274299_0190	SEQ00190	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		dipeptidase	FIG00906431	figfam	clust_0005
+THE1|SEQ00250	124733666	VBIBifThe274299_0250	SEQ00250	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		putative dipeptidase	FIG00672180	figfam	clust_0005

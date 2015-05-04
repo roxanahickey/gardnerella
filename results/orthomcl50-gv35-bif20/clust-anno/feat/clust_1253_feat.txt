@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01599	VBIBifAdo136061_1599	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189569	71126	72619	-	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	ADO1	clust_1253
+ANI1|SEQ00705	VBIBifAni240121_0705	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846359	829624	831105	-	1482		dihydrolipoamide dehydrogenase	ANI1	clust_1253
+ANI2|SEQ00705	VBIBifAni235968_0705	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849712	829627	831108	-	1482		dihydrolipoamide dehydrogenase	ANI2	clust_1253
+ANI3|SEQ00707	VBIBifAni108068_0707	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763724	829629	831110	-	1482		dihydrolipoamide dehydrogenase	ANI3	clust_1253
+BIF1|SEQ00678	VBIBifBif87902_0678	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883893	833919	835409	-	1491	lpdA	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BIF1	clust_1253
+BRE1|SEQ00610	VBIBifBre340958_0610	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603184	753276	754769	-	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE1	clust_1253
+BRE2|SEQ00705	VBIBifBre337368_0705	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607345	847356	848849	-	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE2	clust_1253
+BRE3|SEQ01165	VBIBifBre167886_1165	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194063	1357815	1359308	+	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE3	clust_1253
+BRE4|SEQ00645	VBIBifBre327712_0645	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611368	794391	795884	-	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE4	clust_1253
+BRE5|SEQ00664	VBIBifBre336369_0665	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615453	792792	794345	-	1554		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE5	clust_1253
+BRE6|SEQ01091	VBIBifBre268992_1091	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655391	20434	21927	+	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE6	clust_1253
+BRE7|SEQ00658	VBIBifBre340732_0658	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619752	797406	798899	-	1494		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE7	clust_1253
+BRE8|SEQ00680	VBIBifBre176493_0680	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623905	838321	839814	-	1494	pdhD	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE8	clust_1253
+BRE9|SEQ00727	VBIBifBre30019_0727	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445527	882198	883691	-	1494	pdhD	Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	BRE9	clust_1253
+INF1|SEQ00579	VBIBifLon182273_0579	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885104	718778	720268	-	1491		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	INF1	clust_1253
+LON1|SEQ00780	VBIBifLon107831_0781	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118633	905608	907098	+	1491	pdhD	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	LON1	clust_1253
+LON2|SEQ00847	VBIBifLon171405_0848	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581236	950142	951632	+	1491	lpd1	Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	LON2	clust_1253
+LON3|SEQ00649	VBIBifLon156230_0649	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768267	1519658	1521148	+	1491		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	LON3	clust_1253
+LON4|SEQ00572	VBIBifLon48544_0572	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889391	697371	698861	-	1491		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	LON4	clust_1253
+THE1|SEQ01771	VBIBifThe274299_1771	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736826	2192741	2194219	+	1479		Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)	THE1	clust_1253

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01121	VBIBifDen165269_1122	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459369	313384	314091	-	708	rpe2	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	DEN1	clust_4888
+DEN2|SEQ02082	VBIBifDen39005_2084	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112603	85274	85981	-	708		Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	DEN2	clust_4888

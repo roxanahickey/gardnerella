@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV06|SEQ00763	VBIGarVag244004_0763	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490320	96490	96792	+	303		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV06	clust_2314
+GV13|SEQ00841	VBIGarVag244533_0841	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487678	332472	332774	-	303		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV13	clust_2314
+GV21|SEQ00913	VBIGarVag274454_0914	Gardnerella vaginalis JCP7275	ATJS01000072	PATRIC	CDS	183968589	1144	1446	+	303		Hypothetical SAV0801 homolog in superantigen- encoding pathogenicity islands SaPI	GV21	clust_2314
+GV25|SEQ00235	VBIGarVag270495_0235	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978352	57592	57894	-	303		DNA-damage-inducible protein J	GV25	clust_2314
+GV28|SEQ00569	VBIGarVag271349_0569	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987857	1439	1741	+	303		hypothetical protein	GV28	clust_2314
+GV29|SEQ00173	VBIGarVag265473_0173	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989714	1432	1734	+	303		hypothetical protein	GV29	clust_2314
+GV30|SEQ00789	VBIGarVag267667_0791	Gardnerella vaginalis JCP8108	ATJJ01000056	PATRIC	CDS	183993726	1154	1456	+	303		Hypothetical SAV0801 homolog in superantigen- encoding pathogenicity islands SaPI	GV30	clust_2314
+GV35|SEQ00612	VBIGarVag272169_0612	Gardnerella vaginalis JCP8522	ATJE01000043	PATRIC	CDS	184007575	1197	1496	+	300		addiction module antitoxin, RelB/DinJ family	GV35	clust_2314

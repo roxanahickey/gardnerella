@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00227	VBIBifAdo136061_0227	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186690	15764	16249	+	486		hypothetical protein	ADO1	clust_3907
+BRE5|SEQ00929	VBIBifBre336369_0930	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616007	1084310	1084786	+	477		hypothetical protein	BRE5	clust_3907
+GV10|SEQ00839	VBIGarVag136958_0839	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147752	1099419	1100255	-	837		Flagellar assembly factor FliW	GV10	clust_3907

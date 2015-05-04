@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01295	VBIBifAdo136061_1295	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188935	236721	237584	+	864		Zinc ABC transporter, ATP-binding protein ZnuC	ADO1	clust_0126
+ANI1|SEQ00979	VBIBifAni240121_0979	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846938	1133706	1134617	+	912	znuC	Zinc ABC transporter, ATP-binding protein ZnuC	ANI1	clust_0126
+ANI2|SEQ00979	VBIBifAni235968_0979	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850291	1133709	1134620	+	912	znuC	Zinc ABC transporter, ATP-binding protein ZnuC	ANI2	clust_0126
+ANI3|SEQ00983	VBIBifAni108068_0983	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764305	1133710	1134621	+	912		Zinc ABC transporter, ATP-binding protein ZnuC	ANI3	clust_0126
+BIF1|SEQ00729	VBIBifBif87902_0729	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883999	893006	893896	-	891	phnC	Zinc ABC transporter, ATP-binding protein ZnuC	BIF1	clust_0126
+BRE1|SEQ00695	VBIBifBre340958_0695	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603358	841053	841925	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE1	clust_0126
+BRE2|SEQ00791	VBIBifBre337368_0791	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607520	937875	938747	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE2	clust_0126
+BRE3|SEQ01080	VBIBifBre167886_1080	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193890	1267866	1268738	+	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE3	clust_0126
+BRE4|SEQ00730	VBIBifBre327712_0730	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611542	882050	882922	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE4	clust_0126
+BRE5|SEQ00746	VBIBifBre336369_0747	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615620	879332	880204	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE5	clust_0126
+BRE6|SEQ00658	VBIBifBre268992_0658	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654479	24142	25014	+	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE6	clust_0126
+BRE7|SEQ00740	VBIBifBre340732_0740	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619920	885151	886023	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE7	clust_0126
+BRE8|SEQ00762	VBIBifBre176493_0762	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624073	926012	926884	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE8	clust_0126
+BRE9|SEQ00813	VBIBifBre30019_0813	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445704	973574	974446	-	873		Zinc ABC transporter, ATP-binding protein ZnuC	BRE9	clust_0126
+DEN1|SEQ01809	VBIBifDen165269_1810	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460777	1116847	1117734	+	888		Zinc ABC transporter, ATP-binding protein ZnuC	DEN1	clust_0126
+DEN2|SEQ00388	VBIBifDen39005_0388	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109100	24554	25441	-	888		Zinc ABC transporter, ATP-binding protein ZnuC	DEN2	clust_0126
+GV01|SEQ00783	VBIGarVag247323_0783	Gardnerella vaginalis 00703Bmash	ADET01000011	PATRIC	CDS	85495732	6542	7387	+	846		Putative ABC transport system ATP-binding protein	GV01	clust_0126
+GV02|SEQ00213	VBIGarVag242669_0213	Gardnerella vaginalis 00703C2mash	ADEU01000005	PATRIC	CDS	85497198	6405	7217	+	813		Putative ABC transport system ATP-binding protein	GV02	clust_0126
+GV03|SEQ00921	VBIGarVag247424_0921	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501285	260285	261007	-	723		Putative ABC transport system ATP-binding protein	GV03	clust_0126
+GV04|SEQ01061	VBIGarVag246433_1061	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482043	6466	7278	+	813		Putative ABC transport system ATP-binding protein	GV04	clust_0126
+GV05|SEQ00969	VBIGarVag174900_0969	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547716	673534	674256	-	723		Putative ABC transport system ATP-binding protein	GV05	clust_0126
+GV06|SEQ00346	VBIGarVag244004_0346	Gardnerella vaginalis 1400E	ADER01000010	PATRIC	CDS	85489420	12102	12893	-	792		Putative ABC transport system ATP-binding protein	GV06	clust_0126
+GV07|SEQ00998	VBIGarVag249177_0998	Gardnerella vaginalis 1500E	ADES01000019	PATRIC	CDS	85493681	13537	14259	+	723		Putative ABC transport system ATP-binding protein	GV07	clust_0126
+GV08|SEQ00162	VBIGarVag251521_0162	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474695	200068	200880	-	813		Putative ABC transport system ATP-binding protein	GV08	clust_0126
+GV09|SEQ00990	VBIGarVag169280_0990	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261192	419528	420340	-	813		Putative ABC transport system ATP-binding protein	GV09	clust_0126
+GV10|SEQ00739	VBIGarVag136958_0739	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147548	956129	956731	-	603		Putative ABC transport system ATP-binding protein	GV10	clust_0126
+GV11|SEQ01206	VBIGarVag171052_1206	Gardnerella vaginalis 41V	AEJE01000068	PATRIC	CDS	52550822	4657	5436	-	780		Putative ABC transport system ATP-binding protein	GV11	clust_0126
+GV12|SEQ00178	VBIGarVag144721_0178	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853017	123276	123959	-	684		Putative ABC transport system ATP-binding protein	GV12	clust_0126
+GV13|SEQ00641	VBIGarVag244533_0641	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487255	62866	63657	-	792		Putative ABC transport system ATP-binding protein	GV13	clust_0126
+GV14|SEQ01021	VBIGarVag244375_1021	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503950	84360	85082	-	723		Putative ABC transport system ATP-binding protein	GV14	clust_0126
+GV15|SEQ00788	VBIGarVag249709_0788	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485133	273180	273902	-	723		Putative ABC transport system ATP-binding protein	GV15	clust_0126
+GV16|SEQ00937	VBIGarVag246379_0937	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479041	1069582	1070394	-	813		Putative ABC transport system ATP-binding protein	GV16	clust_0126
+GV17|SEQ00816	VBIGarVag146634_0816	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851707	17148	17870	+	723		Putative ABC transport system ATP-binding protein	GV17	clust_0126
+GV18|SEQ00177	VBIGarVag4823_0177	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000065	PATRIC	CDS	42069043	6166	6978	-	813		Putative ABC transport system ATP-binding protein	GV18	clust_0126
+GV19|SEQ00680	VBIGarVag39333_0681	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628254	844534	845346	+	813		Putative ABC transport system ATP-binding protein	GV19	clust_0126
+GV20|SEQ00860	VBIGarVag188338_0860	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190554	1052853	1053665	-	813		Putative ABC transport system ATP-binding protein	GV20	clust_0126
+GV21|SEQ00313	VBIGarVag274454_0313	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967278	106500	107312	-	813		Putative ABC transport system ATP-binding protein	GV21	clust_0126
+GV22|SEQ00054	VBIGarVag276801_0054	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969493	66521	67333	+	813		Putative ABC transport system ATP-binding protein	GV22	clust_0126
+GV23|SEQ00996	VBIGarVag276017_0996	Gardnerella vaginalis JCP7659	ATJQ01000097	PATRIC	CDS	183974436	4086	4865	-	780		Putative ABC transport system ATP-binding protein	GV23	clust_0126
+GV24|SEQ01018	VBIGarVag268944_1019	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977267	108378	109190	-	813		Putative ABC transport system ATP-binding protein	GV24	clust_0126
+GV25|SEQ00713	VBIGarVag270495_0713	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979393	11198	12052	+	855		Putative ABC transport system ATP-binding protein	GV25	clust_0126
+GV26|SEQ00462	VBIGarVag272749_0462	Gardnerella vaginalis JCP8017A	ATJN01000028	PATRIC	CDS	183981711	4926	5705	+	780		Putative ABC transport system ATP-binding protein	GV26	clust_0126
+GV27|SEQ01011	VBIGarVag276930_1011	Gardnerella vaginalis JCP8017B	ATJM01000076	PATRIC	CDS	183985860	4924	5703	+	780		Putative ABC transport system ATP-binding protein	GV27	clust_0126
+GV28|SEQ00243	VBIGarVag271349_0243	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987149	5213	6049	+	837		Putative ABC transport system ATP-binding protein	GV28	clust_0126
+GV29|SEQ00858	VBIGarVag265473_0858	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991205	4594	5385	+	792		Putative ABC transport system ATP-binding protein	GV29	clust_0126
+GV30|SEQ00843	VBIGarVag267667_0845	Gardnerella vaginalis JCP8108	ATJJ01000065	PATRIC	CDS	183993853	19794	20573	+	780		Putative ABC transport system ATP-binding protein	GV30	clust_0126
+GV31|SEQ00616	VBIGarVag264983_0616	Gardnerella vaginalis JCP8151A	ATJI01000028	PATRIC	CDS	183996317	5673	6488	-	816		Putative ABC transport system ATP-binding protein	GV31	clust_0126
+GV32|SEQ00257	VBIGarVag277040_0257	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998362	80564	81412	+	849		Putative ABC transport system ATP-binding protein	GV32	clust_0126
+GV33|SEQ00500	VBIGarVag265557_0500	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	184001737	9269	10066	+	798		Putative ABC transport system ATP-binding protein	GV33	clust_0126
+GV34|SEQ00197	VBIGarVag270440_0197	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	184003906	26587	27384	-	798		Putative ABC transport system ATP-binding protein	GV34	clust_0126
+GV35|SEQ00130	VBIGarVag272169_0130	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006539	15787	16623	+	837		Putative ABC transport system ATP-binding protein	GV35	clust_0126
+INF1|SEQ00660	VBIBifLon182273_0660	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885270	808448	809338	-	891		Zinc ABC transporter, ATP-binding protein ZnuC	INF1	clust_0126
+LON1|SEQ00696	VBIBifLon107831_0697	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118463	815037	815927	+	891	troB	Zinc ABC transporter, ATP-binding protein ZnuC	LON1	clust_0126
+LON2|SEQ00763	VBIBifLon171405_0764	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581066	856032	856922	+	891	znuC	Zinc ABC transporter, ATP-binding protein ZnuC	LON2	clust_0126
+LON3|SEQ00568	VBIBifLon156230_0568	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768103	1430650	1431540	+	891		Zinc ABC transporter, ATP-binding protein ZnuC	LON3	clust_0126
+LON4|SEQ00651	VBIBifLon48544_0651	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889553	787041	787931	-	891		Zinc ABC transporter, ATP-binding protein ZnuC	LON4	clust_0126
+THE1|SEQ00867	VBIBifThe274299_0867	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734921	1078399	1079361	-	963		Zinc ABC transporter, ATP-binding protein ZnuC	THE1	clust_0126

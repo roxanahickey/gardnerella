@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00524	VBIBifBre340958_0524	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603005	650964	651119	-	156		voltage-gated potassium channel beta subunit	BRE1	clust_2077
+BRE2|SEQ00602	VBIBifBre337368_0602	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607134	733003	733158	-	156		voltage-gated potassium channel beta subunit	BRE2	clust_2077
+BRE3|SEQ01276	VBIBifBre167886_1276	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194290	1484342	1484497	+	156		voltage-gated potassium channel beta subunit	BRE3	clust_2077
+BRE4|SEQ00545	VBIBifBre327712_0545	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611162	682585	682740	-	156		voltage-gated potassium channel beta subunit	BRE4	clust_2077
+BRE5|SEQ00555	VBIBifBre336369_0556	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615229	667838	668530	-	693		voltage-gated potassium channel beta subunit	BRE5	clust_2077
+BRE6|SEQ00382	VBIBifBre268992_0382	Bifidobacterium breve JCP7499	AWSX01000020	PATRIC	CDS	177653888	7221	7376	+	156		voltage-gated potassium channel beta subunit	BRE6	clust_2077
+BRE7|SEQ00557	VBIBifBre340732_0557	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619544	685646	685801	-	156		voltage-gated potassium channel beta subunit	BRE7	clust_2077
+BRE8|SEQ00588	VBIBifBre176493_0588	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623717	730676	730831	-	156		voltage-gated potassium channel beta subunit	BRE8	clust_2077
+BRE9|SEQ00638	VBIBifBre30019_0638	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445344	778612	778767	-	156		voltage-gated potassium channel beta subunit	BRE9	clust_2077

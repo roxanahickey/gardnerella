@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00717	VBIBifAni240121_0717	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846383	844381	844641	-	261		similar to transporter	ANI1	clust_3640
+ANI2|SEQ00717	VBIBifAni235968_0717	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849736	844384	844644	-	261		similar to transporter	ANI2	clust_3640
+ANI3|SEQ00718	VBIBifAni108068_0718	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763746	844386	844646	-	261		similar to transporter	ANI3	clust_3640

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01261	VBIGarVag247323_1261	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496727	37046	39556	+	2511		Kup system potassium uptake protein	GV01	clust_0049
+GV02|SEQ00013	VBIGarVag242669_0013	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496781	5220	7730	-	2511		Kup system potassium uptake protein	GV02	clust_0049
+GV03|SEQ00393	VBIGarVag247424_0393	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500191	938	3517	-	2580		Kup system potassium uptake protein	GV03	clust_0049
+GV04|SEQ01253	VBIGarVag246433_1253	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482436	109729	112230	+	2502		Kup system potassium uptake protein	GV04	clust_0049
+GV05|SEQ00187	VBIGarVag174900_0187	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546083	94307	96886	+	2580		Kup system potassium uptake protein	GV05	clust_0049
+GV06|SEQ00452	VBIGarVag244004_0452	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489662	5026	7527	-	2502		Kup system potassium uptake protein	GV06	clust_0049
+GV07|SEQ01013	VBIGarVag249177_1013	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493712	914	3493	-	2580		Kup system potassium uptake protein	GV07	clust_0049
+GV08|SEQ00517	VBIGarVag251521_0517	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475448	5128	7629	-	2502		Kup system potassium uptake protein	GV08	clust_0049
+GV09|SEQ01074	VBIGarVag169280_1074	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261370	100915	103416	+	2502		Kup system potassium uptake protein	GV09	clust_0049
+GV10|SEQ01098	VBIGarVag136958_1098	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148294	1486357	1488990	-	2634		Kup system potassium uptake protein	GV10	clust_0049
+GV11|SEQ00763	VBIGarVag171052_0763	Gardnerella vaginalis 41V	AEJE01000048	PATRIC	CDS	52549882	5101	7602	-	2502		Kup system potassium uptake protein	GV11	clust_0049
+GV12|SEQ00003	VBIGarVag144721_0003	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852656	944	3577	-	2634		Kup system potassium uptake protein	GV12	clust_0049
+GV13|SEQ01267	VBIGarVag244533_1267	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488586	103763	106264	+	2502		Kup system potassium uptake protein	GV13	clust_0049
+GV14|SEQ00948	VBIGarVag244375_0948	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503791	89540	92119	+	2580		Kup system potassium uptake protein	GV14	clust_0049
+GV15|SEQ00071	VBIGarVag249709_0071	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483628	87515	90166	+	2652		Kup system potassium uptake protein	GV15	clust_0049
+GV16|SEQ00083	VBIGarVag246379_0083	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477271	106508	109009	+	2502		Kup system potassium uptake protein	GV16	clust_0049
+GV17|SEQ00002	VBIGarVag146634_0002	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850000	965	3598	-	2634		Kup system potassium uptake protein	GV17	clust_0049
+GV18|SEQ00164	VBIGarVag4823_0164	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000063	PATRIC	CDS	42069015	99	1664	+	1566		Kup system potassium uptake protein	GV18	clust_0049
+GV19|SEQ00287	VBIGarVag39333_0288	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627427	350772	353273	+	2502	kup	Kup system potassium uptake protein	GV19	clust_0049
+GV20|SEQ01226	VBIGarVag188338_1226	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191328	1534009	1536510	-	2502		Kup system potassium uptake protein	GV20	clust_0049
+GV21|SEQ00792	VBIGarVag274454_0793	Gardnerella vaginalis JCP7275	ATJS01000055	PATRIC	CDS	183968302	855	3356	+	2502		Kup system potassium uptake protein	GV21	clust_0049
+GV22|SEQ00750	VBIGarVag276801_0751	Gardnerella vaginalis JCP7276	ATJR01000031	PATRIC	CDS	183970951	13231	15732	+	2502		Kup system potassium uptake protein	GV22	clust_0049
+GV23|SEQ00847	VBIGarVag276017_0847	Gardnerella vaginalis JCP7659	ATJQ01000067	PATRIC	CDS	183974100	5809	8322	-	2514		Kup system potassium uptake protein	GV23	clust_0049
+GV24|SEQ00171	VBIGarVag268944_0172	Gardnerella vaginalis JCP7672	ATJP01000007	PATRIC	CDS	183975446	5225	7726	-	2502		Kup system potassium uptake protein	GV24	clust_0049
+GV25|SEQ01241	VBIGarVag270495_1241	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980589	5913	8426	-	2514		Kup system potassium uptake protein	GV25	clust_0049
+GV26|SEQ00717	VBIGarVag272749_0717	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982243	5762	8302	-	2541		Kup system potassium uptake protein	GV26	clust_0049
+GV27|SEQ00765	VBIGarVag276930_0765	Gardnerella vaginalis JCP8017B	ATJM01000036	PATRIC	CDS	183985320	12343	14883	+	2541		Kup system potassium uptake protein	GV27	clust_0049
+GV28|SEQ01033	VBIGarVag271349_1033	Gardnerella vaginalis JCP8066	ATJL01000128	PATRIC	CDS	183988906	1762	4293	-	2532		Kup system potassium uptake protein	GV28	clust_0049
+GV29|SEQ01193	VBIGarVag265473_1193	Gardnerella vaginalis JCP8070	ATJK01000170	PATRIC	CDS	183991998	5209	7749	-	2541		Kup system potassium uptake protein	GV29	clust_0049
+GV30|SEQ01227	VBIGarVag267667_1229	Gardnerella vaginalis JCP8108	ATJJ01000138	PATRIC	CDS	183994714	5708	8209	-	2502		Kup system potassium uptake protein	GV30	clust_0049
+GV31|SEQ00823	VBIGarVag264983_0823	Gardnerella vaginalis JCP8151A	ATJI01000052	PATRIC	CDS	183996776	5923	8454	-	2532		Kup system potassium uptake protein	GV31	clust_0049
+GV32|SEQ01237	VBIGarVag277040_1237	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	184000558	5921	8452	-	2532		Kup system potassium uptake protein	GV32	clust_0049
+GV33|SEQ00720	VBIGarVag265557_0720	Gardnerella vaginalis JCP8481A	ATJG01000073	PATRIC	CDS	184002212	13299	15947	+	2649		Kup system potassium uptake protein	GV33	clust_0049
+GV34|SEQ00826	VBIGarVag270440_0826	Gardnerella vaginalis JCP8481B	ATJF01000082	PATRIC	CDS	184005284	13299	15947	+	2649		Kup system potassium uptake protein	GV34	clust_0049
+GV35|SEQ00700	VBIGarVag272169_0700	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007775	17447	19987	+	2541		Kup system potassium uptake protein	GV35	clust_0049

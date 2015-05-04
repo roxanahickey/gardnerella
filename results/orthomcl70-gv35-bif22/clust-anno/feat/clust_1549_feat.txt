@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01219	VBIBifBif87902_1219	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885012	1463636	1463830	-	195		Transcriptional regulator, Cro/CI family	BIF1	clust_1549
+BRE1|SEQ00837	VBIBifBre340958_0837	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603658	1001975	1002187	-	213		Transcriptional regulator, Cro/CI family	BRE1	clust_1549
+BRE2|SEQ00920	VBIBifBre337368_0920	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607796	1084338	1084547	+	210		Transcriptional regulator, Cro/CI family	BRE2	clust_1549
+BRE3|SEQ00959	VBIBifBre167886_0959	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193630	1128961	1129170	-	210		Transcriptional regulator, Cro/CI family	BRE3	clust_1549
+BRE4|SEQ00867	VBIBifBre327712_0867	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611833	1039696	1039908	-	213		Transcriptional regulator, Cro/CI family	BRE4	clust_1549
+BRE6|SEQ00792	VBIBifBre268992_0792	Bifidobacterium breve JCP7499	AWSX01000041	PATRIC	CDS	177654756	1561	1770	-	210		Transcriptional regulator, Cro/CI family	BRE6	clust_1549
+BRE7|SEQ00870	VBIBifBre340732_0870	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620197	1032248	1032457	+	210		Transcriptional regulator, Cro/CI family	BRE7	clust_1549
+BRE8|SEQ00899	VBIBifBre176493_0899	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624364	1078628	1078837	+	210		Transcriptional regulator, Cro/CI family	BRE8	clust_1549
+BRE9|SEQ00953	VBIBifBre30019_0953	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446002	1131819	1132028	+	210		Transcriptional regulator, Cro/CI family	BRE9	clust_1549
+DEN1|SEQ01320	VBIBifDen165269_1321	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459769	564934	565149	+	216		Transcriptional regulator, Cro/CI family	DEN1	clust_1549
+DEN2|SEQ00704	VBIBifDen39005_0704	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109743	89015	89230	+	216		Transcriptional regulator, Cro/CI family	DEN2	clust_1549
+INF1|SEQ00785	VBIBifLon182273_0785	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885539	955759	955968	+	210		Transcriptional regulator, Cro/CI family	INF1	clust_1549
+LON1|SEQ00589	VBIBifLon107831_0590	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118235	683776	683985	-	210		Transcriptional regulator, Cro/CI family	LON1	clust_1549
+LON2|SEQ00648	VBIBifLon171405_0649	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580822	719153	719362	-	210		Transcriptional regulator, Cro/CI family	LON2	clust_1549
+LON3|SEQ00455	VBIBifLon156230_0455	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767862	1294444	1294653	-	210		Transcriptional regulator, Cro/CI family	LON3	clust_1549
+LON4|SEQ00757	VBIBifLon48544_0757	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889785	913104	913313	+	210		Transcriptional regulator, Cro/CI family	LON4	clust_1549
+THE1|SEQ00738	VBIBifThe274299_0738	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734657	933244	933480	+	237		Transcriptional regulator, Cro/CI family	THE1	clust_1549

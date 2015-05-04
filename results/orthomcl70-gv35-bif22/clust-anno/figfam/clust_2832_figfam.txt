@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00741	27187780	VBIBifAdo136061_0741	SEQ00741	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Maltose O-acetyltransferase (EC 2.3.1.79)	FIG00001636	figfam	clust_2832
+DEN1|SEQ00141	43461537	VBIBifDen165269_0142	SEQ00141	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Maltose O-acetyltransferase (EC 2.3.1.79)	FIG00001636	figfam	clust_2832
+DEN2|SEQ01931	42112282	VBIBifDen39005_1933	SEQ01931	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS		Maltose O-acetyltransferase (EC 2.3.1.79)	FIG00001636	figfam	clust_2832
+INF1|SEQ01657	46887333	VBIBifLon182273_1657	SEQ01657	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Galactoside O-acetyltransferase (EC 2.3.1.18)	FIG00139238	figfam	clust_2832
+LON3|SEQ01147	42766170	VBIBifLon156230_1149	SEQ01147	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Galactoside O-acetyltransferase (EC 2.3.1.18)	FIG00139238	figfam	clust_2832

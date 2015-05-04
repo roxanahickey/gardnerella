@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE2|SEQ01193	268608367	VBIBifBre337368_1193	SEQ01193	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	NA	Beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	clust_2544
+BRE4|SEQ01139	268612400	VBIBifBre327712_1139	SEQ01139	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	NA	Beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	clust_2544
+BRE8|SEQ01173	268624939	VBIBifBre176493_1173	SEQ01173	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	NA	Beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	clust_2544
+INF1|SEQ01343	46886690	VBIBifLon182273_1343	SEQ01343	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	clust_2544
+LON2|SEQ00231	42579965	VBIBifLon171405_0232	SEQ00231	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	NA	Beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	clust_2544
+LON3|SEQ01920	42767032	VBIBifLon156230_1923	SEQ01920	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	NA	Beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	clust_2544

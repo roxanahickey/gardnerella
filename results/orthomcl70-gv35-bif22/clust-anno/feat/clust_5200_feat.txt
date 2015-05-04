@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01119	VBIBifBre340958_1119	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604244	1306904	1307272	-	369		hypothetical protein	BRE1	clust_5200
+INF1|SEQ01231	VBIBifLon182273_1231	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886465	1379010	1379378	-	369		FIG00426817: hypothetical protein	INF1	clust_5200

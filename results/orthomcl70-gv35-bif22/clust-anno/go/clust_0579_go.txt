@@ -1,0 +1,136 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ01147	27188629	VBIBifAdo136061_1147	SEQ01147	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+ADO1|SEQ01147	27188629	VBIBifAdo136061_1147	SEQ01147	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+ADO1|SEQ01147	27188629	VBIBifAdo136061_1147	SEQ01147	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+ANI1|SEQ00808	86846577	VBIBifAni240121_0808	SEQ00808	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+ANI1|SEQ00808	86846577	VBIBifAni240121_0808	SEQ00808	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+ANI1|SEQ00808	86846577	VBIBifAni240121_0808	SEQ00808	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+ANI2|SEQ00807	86849928	VBIBifAni235968_0807	SEQ00807	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+ANI2|SEQ00807	86849928	VBIBifAni235968_0807	SEQ00807	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+ANI2|SEQ00807	86849928	VBIBifAni235968_0807	SEQ00807	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+ANI3|SEQ00810	42763942	VBIBifAni108068_0810	SEQ00810	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+ANI3|SEQ00810	42763942	VBIBifAni108068_0810	SEQ00810	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+ANI3|SEQ00810	42763942	VBIBifAni108068_0810	SEQ00810	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+BIF1|SEQ00917	86884386	VBIBifBif87902_0917	SEQ00917	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+BIF1|SEQ00917	86884386	VBIBifBif87902_0917	SEQ00917	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+BIF1|SEQ00917	86884386	VBIBifBif87902_0917	SEQ00917	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+DEN1|SEQ01519	43460174	VBIBifDen165269_1520	SEQ01519	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+DEN1|SEQ01519	43460174	VBIBifDen165269_1520	SEQ01519	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+DEN1|SEQ01519	43460174	VBIBifDen165269_1520	SEQ01519	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+DEN2|SEQ00120	42108547	VBIBifDen39005_0120	SEQ00120	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+DEN2|SEQ00120	42108547	VBIBifDen39005_0120	SEQ00120	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+DEN2|SEQ00120	42108547	VBIBifDen39005_0120	SEQ00120	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV01|SEQ00457	85495057	VBIGarVag247323_0457	SEQ00457	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV01|SEQ00457	85495057	VBIGarVag247323_0457	SEQ00457	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV01|SEQ00457	85495057	VBIGarVag247323_0457	SEQ00457	Gardnerella vaginalis 00703Bmash	GV01	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV02|SEQ00909	85498663	VBIGarVag242669_0909	SEQ00909	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV02|SEQ00909	85498663	VBIGarVag242669_0909	SEQ00909	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV02|SEQ00909	85498663	VBIGarVag242669_0909	SEQ00909	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV03|SEQ00907	85501257	VBIGarVag247424_0907	SEQ00907	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV03|SEQ00907	85501257	VBIGarVag247424_0907	SEQ00907	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV03|SEQ00907	85501257	VBIGarVag247424_0907	SEQ00907	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV04|SEQ00981	85481872	VBIGarVag246433_0981	SEQ00981	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV04|SEQ00981	85481872	VBIGarVag246433_0981	SEQ00981	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV04|SEQ00981	85481872	VBIGarVag246433_0981	SEQ00981	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV05|SEQ00954	52547686	VBIGarVag174900_0954	SEQ00954	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV05|SEQ00954	52547686	VBIGarVag174900_0954	SEQ00954	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV05|SEQ00954	52547686	VBIGarVag174900_0954	SEQ00954	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV06|SEQ01271	85491371	VBIGarVag244004_1271	SEQ01271	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV06|SEQ01271	85491371	VBIGarVag244004_1271	SEQ01271	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV06|SEQ01271	85491371	VBIGarVag244004_1271	SEQ01271	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV07|SEQ00521	85492683	VBIGarVag249177_0521	SEQ00521	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000010	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV07|SEQ00521	85492683	VBIGarVag249177_0521	SEQ00521	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000010	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV07|SEQ00521	85492683	VBIGarVag249177_0521	SEQ00521	Gardnerella vaginalis 1500E	GV07	Gardnerella vaginalis 1500E	ADES01000010	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV08|SEQ00923	85476280	VBIGarVag251521_0923	SEQ00923	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV08|SEQ00923	85476280	VBIGarVag251521_0923	SEQ00923	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV08|SEQ00923	85476280	VBIGarVag251521_0923	SEQ00923	Gardnerella vaginalis 284V	GV08	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV09|SEQ00838	55260881	VBIGarVag169280_0838	SEQ00838	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV09|SEQ00838	55260881	VBIGarVag169280_0838	SEQ00838	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV09|SEQ00838	55260881	VBIGarVag169280_0838	SEQ00838	Gardnerella vaginalis 315-A	GV09	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV10|SEQ00726	32147522	VBIGarVag136958_0726	SEQ00726	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV10|SEQ00726	32147522	VBIGarVag136958_0726	SEQ00726	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV10|SEQ00726	32147522	VBIGarVag136958_0726	SEQ00726	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV11|SEQ00119	52548507	VBIGarVag171052_0119	SEQ00119	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV11|SEQ00119	52548507	VBIGarVag171052_0119	SEQ00119	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV11|SEQ00119	52548507	VBIGarVag171052_0119	SEQ00119	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV12|SEQ00164	37852989	VBIGarVag144721_0164	SEQ00164	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV12|SEQ00164	37852989	VBIGarVag144721_0164	SEQ00164	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV12|SEQ00164	37852989	VBIGarVag144721_0164	SEQ00164	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV13|SEQ00282	85486510	VBIGarVag244533_0282	SEQ00282	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV13|SEQ00282	85486510	VBIGarVag244533_0282	SEQ00282	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV13|SEQ00282	85486510	VBIGarVag244533_0282	SEQ00282	Gardnerella vaginalis 55152	GV13	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV14|SEQ01007	85503922	VBIGarVag244375_1007	SEQ01007	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV14|SEQ01007	85503922	VBIGarVag244375_1007	SEQ01007	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV14|SEQ01007	85503922	VBIGarVag244375_1007	SEQ01007	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV15|SEQ00774	85485105	VBIGarVag249709_0774	SEQ00774	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV15|SEQ00774	85485105	VBIGarVag249709_0774	SEQ00774	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV15|SEQ00774	85485105	VBIGarVag249709_0774	SEQ00774	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV16|SEQ00773	85478705	VBIGarVag246379_0773	SEQ00773	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV16|SEQ00773	85478705	VBIGarVag246379_0773	SEQ00773	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV16|SEQ00773	85478705	VBIGarVag246379_0773	SEQ00773	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV17|SEQ00830	37851735	VBIGarVag146634_0830	SEQ00830	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV17|SEQ00830	37851735	VBIGarVag146634_0830	SEQ00830	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV17|SEQ00830	37851735	VBIGarVag146634_0830	SEQ00830	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV19|SEQ00838	42628577	VBIGarVag39333_0839	SEQ00838	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV19|SEQ00838	42628577	VBIGarVag39333_0839	SEQ00838	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV19|SEQ00838	42628577	VBIGarVag39333_0839	SEQ00838	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV20|SEQ00709	54190244	VBIGarVag188338_0709	SEQ00709	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV20|SEQ00709	54190244	VBIGarVag188338_0709	SEQ00709	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV20|SEQ00709	54190244	VBIGarVag188338_0709	SEQ00709	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV21|SEQ00072	183966780	VBIGarVag274454_0072	SEQ00072	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV21|SEQ00072	183966780	VBIGarVag274454_0072	SEQ00072	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV21|SEQ00072	183966780	VBIGarVag274454_0072	SEQ00072	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV22|SEQ00459	183970347	VBIGarVag276801_0460	SEQ00459	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV22|SEQ00459	183970347	VBIGarVag276801_0460	SEQ00459	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV22|SEQ00459	183970347	VBIGarVag276801_0460	SEQ00459	Gardnerella vaginalis JCP7276	GV22	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV23|SEQ00657	183973679	VBIGarVag276017_0657	SEQ00657	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV23|SEQ00657	183973679	VBIGarVag276017_0657	SEQ00657	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV23|SEQ00657	183973679	VBIGarVag276017_0657	SEQ00657	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV24|SEQ00403	183975932	VBIGarVag268944_0404	SEQ00403	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV24|SEQ00403	183975932	VBIGarVag268944_0404	SEQ00403	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV24|SEQ00403	183975932	VBIGarVag268944_0404	SEQ00403	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV25|SEQ01063	183980173	VBIGarVag270495_1063	SEQ01063	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV25|SEQ01063	183980173	VBIGarVag270495_1063	SEQ01063	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV25|SEQ01063	183980173	VBIGarVag270495_1063	SEQ01063	Gardnerella vaginalis JCP7719	GV25	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV26|SEQ00543	183981878	VBIGarVag272749_0543	SEQ00543	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV26|SEQ00543	183981878	VBIGarVag272749_0543	SEQ00543	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV26|SEQ00543	183981878	VBIGarVag272749_0543	SEQ00543	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV27|SEQ00395	183984533	VBIGarVag276930_0395	SEQ00395	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV27|SEQ00395	183984533	VBIGarVag276930_0395	SEQ00395	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV27|SEQ00395	183984533	VBIGarVag276930_0395	SEQ00395	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV28|SEQ00785	183988327	VBIGarVag271349_0785	SEQ00785	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV28|SEQ00785	183988327	VBIGarVag271349_0785	SEQ00785	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV28|SEQ00785	183988327	VBIGarVag271349_0785	SEQ00785	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV29|SEQ00104	183989569	VBIGarVag265473_0104	SEQ00104	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV29|SEQ00104	183989569	VBIGarVag265473_0104	SEQ00104	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV29|SEQ00104	183989569	VBIGarVag265473_0104	SEQ00104	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV30|SEQ00079	183992197	VBIGarVag267667_0079	SEQ00079	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV30|SEQ00079	183992197	VBIGarVag267667_0079	SEQ00079	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV30|SEQ00079	183992197	VBIGarVag267667_0079	SEQ00079	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV31|SEQ00277	183995597	VBIGarVag264983_0277	SEQ00277	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV31|SEQ00277	183995597	VBIGarVag264983_0277	SEQ00277	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV31|SEQ00277	183995597	VBIGarVag264983_0277	SEQ00277	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV32|SEQ01085	184000214	VBIGarVag277040_1085	SEQ01085	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV32|SEQ01085	184000214	VBIGarVag277040_1085	SEQ01085	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV32|SEQ01085	184000214	VBIGarVag277040_1085	SEQ01085	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV33|SEQ00515	184001767	VBIGarVag265557_0515	SEQ00515	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV33|SEQ00515	184001767	VBIGarVag265557_0515	SEQ00515	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV33|SEQ00515	184001767	VBIGarVag265557_0515	SEQ00515	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000046	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV34|SEQ00182	184003876	VBIGarVag270440_0182	SEQ00182	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV34|SEQ00182	184003876	VBIGarVag270440_0182	SEQ00182	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV34|SEQ00182	184003876	VBIGarVag270440_0182	SEQ00182	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+GV35|SEQ00044	184006363	VBIGarVag272169_0044	SEQ00044	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+GV35|SEQ00044	184006363	VBIGarVag272169_0044	SEQ00044	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+GV35|SEQ00044	184006363	VBIGarVag272169_0044	SEQ00044	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+INF1|SEQ01042	46886070	VBIBifLon182273_1042	SEQ01042	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+INF1|SEQ01042	46886070	VBIBifLon182273_1042	SEQ01042	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+INF1|SEQ01042	46886070	VBIBifLon182273_1042	SEQ01042	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+LON3|SEQ00296	42767537	VBIBifLon156230_0296	SEQ00296	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+LON3|SEQ00296	42767537	VBIBifLon156230_0296	SEQ00296	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+LON3|SEQ00296	42767537	VBIBifLon156230_0296	SEQ00296	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+LON4|SEQ01122	46890568	VBIBifLon48544_1122	SEQ01122	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579
+LON4|SEQ01122	46890568	VBIBifLon48544_1122	SEQ01122	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+LON4|SEQ01122	46890568	VBIBifLon48544_1122	SEQ01122	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+THE1|SEQ01038	124735276	VBIBifThe274299_1038	SEQ01038	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Aquaporin Z	GO:0005215	transporter activity	go	clust_0579
+THE1|SEQ01038	124735276	VBIBifThe274299_1038	SEQ01038	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Aquaporin Z	GO:0006810	transport	go	clust_0579
+THE1|SEQ01038	124735276	VBIBifThe274299_1038	SEQ01038	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Aquaporin Z	GO:0016020	membrane	go	clust_0579

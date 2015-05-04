@@ -1,0 +1,26 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01266	VBIGarVag247323_1266	Gardnerella vaginalis 00703Bmash	ADET01000014	PATRIC	CDS	85496737	43632	44507	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV01	clust_1085
+GV02|SEQ00007	VBIGarVag242669_0007	Gardnerella vaginalis 00703C2mash	ADEU01000002	PATRIC	CDS	85496769	270	1145	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV02	clust_1085
+GV04|SEQ01258	VBIGarVag246433_1258	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482446	116224	117099	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV04	clust_1085
+GV06|SEQ00447	VBIGarVag244004_0447	Gardnerella vaginalis 1400E	ADER01000014	PATRIC	CDS	85489652	143	1018	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV06	clust_1085
+GV08|SEQ00512	VBIGarVag251521_0512	Gardnerella vaginalis 284V	ADEL01000005	PATRIC	CDS	85475438	272	1147	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV08	clust_1085
+GV09|SEQ01079	VBIGarVag169280_1079	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261380	107396	108271	+	876	gnd	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV09	clust_1085
+GV11|SEQ00758	VBIGarVag171052_0758	Gardnerella vaginalis 41V	AEJE01000048	PATRIC	CDS	52549872	111	986	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV11	clust_1085
+GV13|SEQ01272	VBIGarVag244533_1272	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488596	110261	111166	+	906		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV13	clust_1085
+GV16|SEQ00088	VBIGarVag246379_0088	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477281	112990	113865	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV16	clust_1085
+GV18|SEQ00169	VBIGarVag4823_0169	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000063	PATRIC	CDS	42069025	5645	6520	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV18	clust_1085
+GV19|SEQ00292	VBIGarVag39333_0293	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627437	357254	358129	+	876	gnd	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV19	clust_1085
+GV20|SEQ01221	VBIGarVag188338_1221	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191318	1529153	1530028	-	876	gnd_2	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV20	clust_1085
+GV21|SEQ00797	VBIGarVag274454_0798	Gardnerella vaginalis JCP7275	ATJS01000055	PATRIC	CDS	183968312	7340	8215	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV21	clust_1085
+GV22|SEQ00755	VBIGarVag276801_0756	Gardnerella vaginalis JCP7276	ATJR01000031	PATRIC	CDS	183970961	19729	20604	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV22	clust_1085
+GV23|SEQ00842	VBIGarVag276017_0842	Gardnerella vaginalis JCP7659	ATJQ01000067	PATRIC	CDS	183974090	868	1743	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV23	clust_1085
+GV24|SEQ00166	VBIGarVag268944_0167	Gardnerella vaginalis JCP7672	ATJP01000007	PATRIC	CDS	183975436	251	1126	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV24	clust_1085
+GV25|SEQ01236	VBIGarVag270495_1236	Gardnerella vaginalis JCP7719	ATJO01000173	PATRIC	CDS	183980579	962	1837	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV25	clust_1085
+GV26|SEQ00712	VBIGarVag272749_0712	Gardnerella vaginalis JCP8017A	ATJN01000036	PATRIC	CDS	183982233	802	1677	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV26	clust_1085
+GV27|SEQ00770	VBIGarVag276930_0770	Gardnerella vaginalis JCP8017B	ATJM01000036	PATRIC	CDS	183985330	18968	19843	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV27	clust_1085
+GV29|SEQ01188	VBIGarVag265473_1188	Gardnerella vaginalis JCP8070	ATJK01000170	PATRIC	CDS	183991988	240	1115	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV29	clust_1085
+GV30|SEQ01222	VBIGarVag267667_1224	Gardnerella vaginalis JCP8108	ATJJ01000138	PATRIC	CDS	183994704	838	1713	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV30	clust_1085
+GV31|SEQ00818	VBIGarVag264983_0818	Gardnerella vaginalis JCP8151A	ATJI01000052	PATRIC	CDS	183996766	836	1711	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV31	clust_1085
+GV32|SEQ01231	VBIGarVag277040_1231	Gardnerella vaginalis JCP8151B	ATJH01000169	PATRIC	CDS	184000546	834	1709	-	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV32	clust_1085
+GV35|SEQ00706	VBIGarVag272169_0706	Gardnerella vaginalis JCP8522	ATJE01000059	PATRIC	CDS	184007787	24197	25072	+	876		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	GV35	clust_1085
+ADO1|SEQ00506	VBIBifAdo136061_0506	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187279	352681	353562	-	882		6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	ADO1	clust_1085

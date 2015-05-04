@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00276	VBIBifAdo136061_0276	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186802	69981	70907	+	927		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	ADO1	clust_1367
+ANI1|SEQ01589	VBIBifAni240121_1589	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848216	1919717	1920673	+	957		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	ANI1	clust_1367
+ANI2|SEQ01586	VBIBifAni235968_1586	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851562	1919944	1920900	+	957		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	ANI2	clust_1367
+ANI3|SEQ01598	VBIBifAni108068_1599	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765586	1925172	1926128	+	957		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	ANI3	clust_1367
+BIF1|SEQ01816	VBIBifBif87902_1816	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886272	2204872	2205897	+	1026	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BIF1	clust_1367
+BRE1|SEQ01894	VBIBifBre340958_1896	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605857	2227037	2227984	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE1	clust_1367
+BRE2|SEQ01978	VBIBifBre337368_1978	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268610000	2314105	2315052	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE2	clust_1367
+BRE3|SEQ01959	VBIBifBre167886_1959	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195717	2309989	2310936	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE3	clust_1367
+BRE4|SEQ01931	VBIBifBre327712_1931	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614049	2271332	2272279	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE4	clust_1367
+BRE5|SEQ02060	VBIBifBre336369_2061	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618359	2341410	2342357	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE5	clust_1367
+BRE6|SEQ01512	VBIBifBre268992_1512	Bifidobacterium breve JCP7499	AWSX01000072	PATRIC	CDS	177656285	9888	10835	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE6	clust_1367
+BRE7|SEQ01965	VBIBifBre340732_1965	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622472	2298317	2299264	+	948		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE7	clust_1367
+BRE8|SEQ01935	VBIBifBre176493_1935	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626531	2276880	2277827	+	948	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE8	clust_1367
+BRE9|SEQ02057	VBIBifBre30019_2057	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448296	2405097	2406044	+	948	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	BRE9	clust_1367
+INF1|SEQ02019	VBIBifLon182273_2019	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888113	2366160	2367110	+	951		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	INF1	clust_1367
+LON1|SEQ01386	VBIBifLon107831_1387	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119885	1643121	1644071	-	951	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	LON1	clust_1367
+LON2|SEQ01429	VBIBifLon171405_1432	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582443	1659122	1660072	-	951	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	LON2	clust_1367
+LON3|SEQ01513	VBIBifLon156230_1516	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769645	2312507	2313457	-	951		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	LON3	clust_1367
+LON4|SEQ01984	VBIBifLon48544_1985	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892387	2366857	2367807	+	951		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	LON4	clust_1367
+THE1|SEQ01824	VBIBifThe274299_1824	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736940	2270190	2271116	+	927		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	THE1	clust_1367

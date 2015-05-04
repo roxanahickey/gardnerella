@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ02089	43463157	VBIBifDen165269_2091	SEQ02089	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	NA	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	GO:0047360	undecaprenyl-phosphate galactose phosphotransferase activity	go	clust_5115
+DEN2|SEQ01261	42110901	VBIBifDen39005_1262	SEQ01261	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	NA	Undecaprenyl-phosphate galactosephosphotransferase (EC 2.7.8.6)	GO:0047360	undecaprenyl-phosphate galactose phosphotransferase activity	go	clust_5115

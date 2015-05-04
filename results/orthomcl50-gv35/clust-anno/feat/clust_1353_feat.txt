@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01080	VBIGarVag247323_1080	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496361	81901	82413	+	513		Uncharacterized phage-associated protein	GV01	clust_1353
+GV02|SEQ00358	VBIGarVag242669_0358	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497492	167033	167545	-	513		Uncharacterized phage-associated protein	GV02	clust_1353
+GV03|SEQ01147	VBIGarVag247424_1147	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501762	83259	83771	+	513		hypothetical protein	GV03	clust_1353
+GV05|SEQ00087	VBIGarVag174900_0087	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545881	103284	103796	+	513		hypothetical protein	GV05	clust_1353
+GV09|SEQ00330	VBIGarVag169280_0330	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259827	37445	37957	+	513		hypothetical protein	GV09	clust_1353
+GV23|SEQ01135	VBIGarVag276017_1135	Gardnerella vaginalis JCP7659	ATJQ01000146	PATRIC	CDS	183974773	615	1127	-	513		GepA protein	GV23	clust_1353
+GV26|SEQ01328	VBIGarVag272749_1328	Gardnerella vaginalis JCP8017A	ATJN01000181	PATRIC	CDS	183983659	613	1125	-	513		GepA protein	GV26	clust_1353
+GV27|SEQ00910	VBIGarVag276930_0910	Gardnerella vaginalis JCP8017B	ATJM01000051	PATRIC	CDS	183985627	547	1059	-	513		GepA protein	GV27	clust_1353
+GV29|SEQ00572	VBIGarVag265473_0572	Gardnerella vaginalis JCP8070	ATJK01000032	PATRIC	CDS	183990568	1737	2249	-	513		hypothetical protein	GV29	clust_1353

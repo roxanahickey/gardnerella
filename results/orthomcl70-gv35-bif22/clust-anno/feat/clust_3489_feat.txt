@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00773	VBIBifBif87902_0773	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884093	953640	953960	+	321		Mobile element protein	BIF1	clust_3489
+LON1|SEQ00975	VBIBifLon107831_0976	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119027	1150663	1151025	-	363		Mobile element protein	LON1	clust_3489
+LON3|SEQ00847	VBIBifLon156230_0847	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768669	1763857	1764177	+	321		Mobile element protein	LON3	clust_3489

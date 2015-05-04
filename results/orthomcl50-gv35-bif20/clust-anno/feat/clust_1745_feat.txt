@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ01050	VBIGarVag246433_1050	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85482012	437507	439102	-	1596		Phage integrase (Site-specific recombinase)	GV04	clust_1745
+GV05|SEQ00706	VBIGarVag174900_0706	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547171	320818	322413	+	1596		Phage integrase (Site-specific recombinase)	GV05	clust_1745
+GV06|SEQ01198	VBIGarVag244004_1198	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491223	44524	46119	+	1596		Phage integrase (Site-specific recombinase)	GV06	clust_1745
+GV12|SEQ01151	VBIGarVag144721_1151	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855124	35497	37092	+	1596		Phage integrase (Site-specific recombinase)	GV12	clust_1745
+GV16|SEQ00574	VBIGarVag246379_0574	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478296	624591	626183	+	1593		Phage integrase (Site-specific recombinase)	GV16	clust_1745
+GV17|SEQ00094	VBIGarVag146634_0094	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850185	27713	29308	-	1596		Phage integrase (Site-specific recombinase)	GV17	clust_1745
+GV20|SEQ00502	VBIGarVag188338_0502	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189818	613378	614973	+	1596		Phage integrase (Site-specific recombinase)	GV20	clust_1745
+GV22|SEQ01237	VBIGarVag276801_1238	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972111	1247	2842	-	1596		Phage integrase (Site-specific recombinase)	GV22	clust_1745
+GV25|SEQ00029	VBIGarVag270495_0029	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977917	1720	3288	-	1569		Phage integrase (Site-specific recombinase)	GV25	clust_1745
+GV26|SEQ01184	VBIGarVag272749_1184	Gardnerella vaginalis JCP8017A	ATJN01000127	PATRIC	CDS	183983305	1690	3282	-	1593		Phage integrase (Site-specific recombinase)	GV26	clust_1745
+GV27|SEQ01303	VBIGarVag276930_1303	Gardnerella vaginalis JCP8017B	ATJM01000170	PATRIC	CDS	183986553	753	2345	+	1593		Phage integrase (Site-specific recombinase)	GV27	clust_1745
+GV28|SEQ00033	VBIGarVag271349_0033	Gardnerella vaginalis JCP8066	ATJL01000006	PATRIC	CDS	183986716	1213	2808	-	1596		Phage integrase (Site-specific recombinase)	GV28	clust_1745
+GV30|SEQ00912	VBIGarVag267667_0914	Gardnerella vaginalis JCP8108	ATJJ01000071	PATRIC	CDS	183993999	1107	2702	+	1596		Phage integrase (Site-specific recombinase)	GV30	clust_1745

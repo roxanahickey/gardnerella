@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00843	VBIGarVag242669_0843	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498528	65733	66587	+	855		hypothetical protein	GV02	clust_2425
+GV08|SEQ00755	VBIGarVag251521_0755	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475936	108687	109541	-	855		Abortive infection bacteriophage resistance protein	GV08	clust_2425
+GV23|SEQ00240	VBIGarVag276017_0240	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972784	65272	66168	+	897		hypothetical protein	GV23	clust_2425
+GV26|SEQ00608	VBIGarVag272749_0608	Gardnerella vaginalis JCP8017A	ATJN01000030	PATRIC	CDS	183982011	2022	2918	-	897		hypothetical protein	GV26	clust_2425
+GV27|SEQ00329	VBIGarVag276930_0329	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984399	100	996	+	897		hypothetical protein	GV27	clust_2425
+GV29|SEQ00568	VBIGarVag265473_0568	Gardnerella vaginalis JCP8070	ATJK01000031	PATRIC	CDS	183990557	63	959	-	897		hypothetical protein	GV29	clust_2425

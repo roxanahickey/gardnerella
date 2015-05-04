@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+LON2|SEQ01322	42582221	VBIBifLon171405_1325	SEQ01322	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		COG3533 secreted protein	FIG00481132	figfam	clust_3864
+LON3|SEQ01404	42769419	VBIBifLon156230_1407	SEQ01404	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		COG3533 secreted protein	FIG00481132	figfam	clust_3864
+LON4|SEQ00090	46888385	VBIBifLon48544_0090	SEQ00090	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		COG3533 secreted protein	FIG00481132	figfam	clust_3864

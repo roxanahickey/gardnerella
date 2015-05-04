@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00243	VBIBifAdo136061_0243	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186726	33867	34406	-	540		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	ADO1	clust_1622
+ANI1|SEQ00849	VBIBifAni240121_0849	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846670	986467	986994	+	528		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	ANI1	clust_1622
+ANI2|SEQ00848	VBIBifAni235968_0848	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850021	986470	986997	+	528		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	ANI2	clust_1622
+ANI3|SEQ00851	VBIBifAni108068_0851	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764035	986472	986999	+	528		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	ANI3	clust_1622
+BIF1|SEQ01273	VBIBifBif87902_1273	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885124	1535221	1536042	+	822	mug	G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BIF1	clust_1622
+BRE1|SEQ00525	VBIBifBre340958_0525	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603007	651268	651831	-	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE1	clust_1622
+BRE2|SEQ00604	VBIBifBre337368_0604	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607138	733307	733750	-	444		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE2	clust_1622
+BRE3|SEQ01275	VBIBifBre167886_1275	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194288	1483630	1484193	+	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE3	clust_1622
+BRE4|SEQ00547	VBIBifBre327712_0547	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611166	682889	683452	-	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE4	clust_1622
+BRE5|SEQ00557	VBIBifBre336369_0558	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615233	670212	670775	-	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE5	clust_1622
+BRE6|SEQ00381	VBIBifBre268992_0381	Bifidobacterium breve JCP7499	AWSX01000020	PATRIC	CDS	177653886	6509	7072	+	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE6	clust_1622
+BRE7|SEQ00559	VBIBifBre340732_0559	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619548	685950	686393	-	444		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE7	clust_1622
+BRE8|SEQ00589	VBIBifBre176493_0589	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623719	730980	731543	-	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE8	clust_1622
+BRE9|SEQ00639	VBIBifBre30019_0639	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445346	778916	779479	-	564		G:T/U mismatch-specific uracil/thymine DNA-glycosylase	BRE9	clust_1622
+THE1|SEQ01057	VBIBifThe274299_1057	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735324	1314028	1314438	-	411		G:T/U mismatch-specific uracil/thymine DNA- glycosylase	THE1	clust_1622

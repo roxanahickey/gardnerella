@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01528	VBIBifBif87902_1528	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885661	1833816	1834631	+	816	budA	Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BIF1	clust_1989
+BRE1|SEQ01603	VBIBifBre340958_1604	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605246	1870795	1871568	+	774		Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE1	clust_1989
+BRE2|SEQ01711	VBIBifBre337368_1711	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609438	1973332	1974105	+	774		Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE2	clust_1989
+BRE3|SEQ01664	VBIBifBre167886_1664	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195094	1930579	1931352	+	774	budA	Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE3	clust_1989
+BRE4|SEQ01645	VBIBifBre327712_1645	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613447	1905578	1906351	+	774		Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE4	clust_1989
+BRE5|SEQ01766	VBIBifBre336369_1767	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617742	1976312	1977085	+	774		Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE5	clust_1989
+BRE6|SEQ01430	VBIBifBre268992_1430	Bifidobacterium breve JCP7499	AWSX01000070	PATRIC	CDS	177656112	15097	15681	-	585		Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE6	clust_1989
+BRE7|SEQ01698	VBIBifBre340732_1698	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621910	1948187	1948960	+	774		Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE7	clust_1989
+BRE8|SEQ01649	VBIBifBre176493_1649	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625924	1915375	1916148	+	774	aldB	Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE8	clust_1989
+BRE9|SEQ01762	VBIBifBre30019_1762	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447678	2025631	2026404	+	774	aldB	Alpha-acetolactate decarboxylase (EC 4.1.1.5)	BRE9	clust_1989

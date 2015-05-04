@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+ADO1|SEQ00104	27186424	VBIBifAdo136061_0104	SEQ00104	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	NA	Probable glutamate/gamma-aminobutyrate antiporter	GO:0006810	transport	go	clust_3062
+ADO1|SEQ00104	27186424	VBIBifAdo136061_0104	SEQ00104	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	NA	Probable glutamate/gamma-aminobutyrate antiporter	GO:0016020	membrane	go	clust_3062

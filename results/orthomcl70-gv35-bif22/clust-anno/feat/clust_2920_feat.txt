@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01428	VBIBifAni240121_1428	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847867	1694602	1695822	-	1221		Integrase	ANI1	clust_2920
+ANI2|SEQ01427	VBIBifAni235968_1427	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851218	1694821	1696041	-	1221		Integrase	ANI2	clust_2920
+ANI3|SEQ01437	VBIBifAni108068_1437	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765238	1700052	1701272	-	1221		Integrase	ANI3	clust_2920
+DEN1|SEQ01678	VBIBifDen165269_1679	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460511	979045	980028	+	984		phage integrase	DEN1	clust_2920
+DEN2|SEQ00525	VBIBifDen39005_0525	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109378	162254	163237	-	984		phage integrase	DEN2	clust_2920

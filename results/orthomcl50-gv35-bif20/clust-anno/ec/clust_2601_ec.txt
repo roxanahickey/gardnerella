@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+ANI1|SEQ01374	86847755	VBIBifAni240121_1374	SEQ01374	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	NA	Glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_2601
+ANI2|SEQ01374	86851108	VBIBifAni235968_1374	SEQ01374	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	NA	Glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_2601
+ANI3|SEQ01384	42765128	VBIBifAni108068_1384	SEQ01384	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	NA	Glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_2601
+THE1|SEQ00354	124733882	VBIBifThe274299_0354	SEQ00354	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	NA	Glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases.	ec	clust_2601

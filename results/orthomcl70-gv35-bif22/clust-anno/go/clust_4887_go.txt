@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ01120	43459367	VBIBifDen165269_1121	SEQ01120	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	6-phospho-3-hexuloisomerase	GO:0005975	carbohydrate metabolic process	go	clust_4887
+DEN1|SEQ01120	43459367	VBIBifDen165269_1121	SEQ01120	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	6-phospho-3-hexuloisomerase	GO:0005529	sugar binding	go	clust_4887
+DEN2|SEQ02081	42112601	VBIBifDen39005_2083	SEQ02081	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	NA	6-phospho-3-hexuloisomerase	GO:0005975	carbohydrate metabolic process	go	clust_4887
+DEN2|SEQ02081	42112601	VBIBifDen39005_2083	SEQ02081	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	NA	6-phospho-3-hexuloisomerase	GO:0005529	sugar binding	go	clust_4887

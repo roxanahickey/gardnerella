@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00713	VBIBifAdo136061_0713	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187724	585293	586819	+	1527		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	ADO1	clust_0246
+ANI1|SEQ00495	VBIBifAni240121_0495	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845931	588956	590266	+	1311		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	ANI1	clust_0246
+ANI2|SEQ00495	VBIBifAni235968_0495	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849285	588795	590267	+	1473		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	ANI2	clust_0246
+ANI3|SEQ00497	VBIBifAni108068_0497	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763298	588959	590269	+	1311		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	ANI3	clust_0246
+BIF1|SEQ01410	VBIBifBif87902_1410	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885412	1695282	1696745	-	1464	dacB	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BIF1	clust_0246
+BRE1|SEQ01449	VBIBifBre340958_1450	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604922	1714141	1715637	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE1	clust_0246
+BRE2|SEQ01571	VBIBifBre337368_1571	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609143	1826272	1827768	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE2	clust_0246
+BRE3|SEQ01525	VBIBifBre167886_1525	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194802	1785001	1786497	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE3	clust_0246
+BRE4|SEQ01498	VBIBifBre327712_1498	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613137	1756876	1758372	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE4	clust_0246
+BRE5|SEQ01646	VBIBifBre336369_1647	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617488	1852083	1853579	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE5	clust_0246
+BRE6|SEQ00984	VBIBifBre268992_0984	Bifidobacterium breve JCP7499	AWSX01000050	PATRIC	CDS	177655164	18467	19963	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE6	clust_0246
+BRE7|SEQ01521	VBIBifBre340732_1521	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621542	1763076	1764572	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE7	clust_0246
+BRE8|SEQ01543	VBIBifBre176493_1543	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625699	1804353	1805849	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE8	clust_0246
+BRE9|SEQ01605	VBIBifBre30019_1605	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447349	1867856	1869352	-	1497		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE9	clust_0246
+DEN1|SEQ00163	VBIBifDen165269_0164	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461581	1515697	1517142	-	1446	dacB	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	DEN1	clust_0246
+DEN2|SEQ01953	VBIBifDen39005_1955	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112326	185200	186645	-	1446	dacB	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	DEN2	clust_0246
+GV01|SEQ00094	VBIGarVag247323_0094	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494288	123940	125625	+	1686		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV01	clust_0246
+GV02|SEQ00585	VBIGarVag242669_0585	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497980	215480	217132	-	1653		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV02	clust_0246
+GV03|SEQ00011	VBIGarVag247424_0011	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499383	10964	12745	-	1782		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV03	clust_0246
+GV04|SEQ00509	VBIGarVag246433_0509	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480904	154935	156719	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV04	clust_0246
+GV05|SEQ00008	VBIGarVag174900_0008	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545716	7466	9247	+	1782		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV05	clust_0246
+GV06|SEQ01057	VBIGarVag244004_1057	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490934	9443	11227	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV06	clust_0246
+GV07|SEQ00467	VBIGarVag249177_0467	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492564	122611	124326	-	1716		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV07	clust_0246
+GV08|SEQ00287	VBIGarVag251521_0287	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474965	87512	89296	+	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV08	clust_0246
+GV09|SEQ00524	VBIGarVag169280_0524	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260230	266247	267863	-	1617	dacB	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV09	clust_0246
+GV10|SEQ00997	VBIGarVag136958_0997	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148080	1309002	1310792	-	1791		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV10	clust_0246
+GV11|SEQ00630	VBIGarVag171052_0630	Gardnerella vaginalis 41V	AEJE01000040	PATRIC	CDS	52549601	10541	12325	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV11	clust_0246
+GV12|SEQ00400	VBIGarVag144721_0400	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853477	417559	419349	-	1791		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV12	clust_0246
+GV13|SEQ01321	VBIGarVag244533_1321	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488702	62285	64069	+	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV13	clust_0246
+GV14|SEQ00711	VBIGarVag244375_0711	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503304	58119	59846	+	1728		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV14	clust_0246
+GV15|SEQ00977	VBIGarVag249709_0977	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485534	160658	162448	-	1791		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV15	clust_0246
+GV16|SEQ01174	VBIGarVag246379_1174	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479542	1380074	1381858	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV16	clust_0246
+GV17|SEQ01149	VBIGarVag146634_1149	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852397	98713	100503	-	1791		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV17	clust_0246
+GV18|SEQ00702	VBIGarVag4823_0702	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000122	PATRIC	CDS	42070177	2881	4665	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV18	clust_0246
+GV19|SEQ00436	VBIGarVag39333_0437	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627741	530045	531829	+	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV19	clust_0246
+GV20|SEQ01082	VBIGarVag188338_1082	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191024	1354106	1355890	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV20	clust_0246
+GV21|SEQ00892	VBIGarVag274454_0893	Gardnerella vaginalis JCP7275	ATJS01000067	PATRIC	CDS	183968536	201	1958	-	1758		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV21	clust_0246
+GV22|SEQ01004	VBIGarVag276801_1005	Gardnerella vaginalis JCP7276	ATJR01000079	PATRIC	CDS	183971528	51	1835	-	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV22	clust_0246
+GV23|SEQ01181	VBIGarVag276017_1181	Gardnerella vaginalis JCP7659	ATJQ01000170	PATRIC	CDS	183974899	302	994	+	693		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV23	clust_0246
+GV24|SEQ01060	VBIGarVag268944_1061	Gardnerella vaginalis JCP7672	ATJP01000100	PATRIC	CDS	183977377	3058	4842	+	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV24	clust_0246
+GV25|SEQ00982	VBIGarVag270495_0982	Gardnerella vaginalis JCP7719	ATJO01000115	PATRIC	CDS	183980003	61	648	+	588		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV25	clust_0246
+GV26|SEQ00914	VBIGarVag272749_0914	Gardnerella vaginalis JCP8017A	ATJN01000054	PATRIC	CDS	183982679	7008	7700	-	693		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV26	clust_0246
+GV27|SEQ00920	VBIGarVag276930_0920	Gardnerella vaginalis JCP8017B	ATJM01000054	PATRIC	CDS	183985654	87	890	+	804		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV27	clust_0246
+GV28|SEQ00922	VBIGarVag271349_0922	Gardnerella vaginalis JCP8066	ATJL01000083	PATRIC	CDS	183988631	22208	23893	+	1686		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV28	clust_0246
+GV29|SEQ00801	VBIGarVag265473_0801	Gardnerella vaginalis JCP8070	ATJK01000067	PATRIC	CDS	183991083	51	1754	-	1704		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV29	clust_0246
+GV30|SEQ01150	VBIGarVag267667_1152	Gardnerella vaginalis JCP8108	ATJJ01000116	PATRIC	CDS	183994536	11349	13133	+	1785		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV30	clust_0246
+GV31|SEQ01150	VBIGarVag264983_1150	Gardnerella vaginalis JCP8151A	ATJI01000132	PATRIC	CDS	183997532	1309	2001	-	693		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV31	clust_0246
+GV32|SEQ00921	VBIGarVag277040_0921	Gardnerella vaginalis JCP8151B	ATJH01000088	PATRIC	CDS	183999825	67	759	+	693		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV32	clust_0246
+GV33|SEQ00209	VBIGarVag265557_0209	Gardnerella vaginalis JCP8481A	ATJG01000018	PATRIC	CDS	184001112	1747	3534	+	1788		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV33	clust_0246
+GV34|SEQ00470	VBIGarVag270440_0470	Gardnerella vaginalis JCP8481B	ATJF01000037	PATRIC	CDS	184004516	1759	3546	+	1788		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV34	clust_0246
+GV35|SEQ01127	VBIGarVag272169_1127	Gardnerella vaginalis JCP8522	ATJE01000162	PATRIC	CDS	184008764	30369	32021	+	1653		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV35	clust_0246
+INF1|SEQ01689	VBIBifLon182273_1689	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887399	1927552	1929042	-	1491		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	INF1	clust_0246
+LON1|SEQ01733	VBIBifLon107831_1734	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120626	2098286	2099776	+	1491		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	LON1	clust_0246
+LON2|SEQ01768	VBIBifLon171405_1771	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583161	2123160	2124650	+	1491	dacB	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	LON2	clust_0246
+LON3|SEQ01178	VBIBifLon156230_1180	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766234	357002	358492	-	1491		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	LON3	clust_0246
+LON4|SEQ01639	VBIBifLon48544_1639	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891643	1887149	1888639	-	1491		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	LON4	clust_0246
+THE1|SEQ01335	VBIBifThe274299_1335	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735898	1658833	1660281	-	1449		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	THE1	clust_0246

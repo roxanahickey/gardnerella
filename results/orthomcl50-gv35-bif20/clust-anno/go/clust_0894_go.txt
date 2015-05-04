@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE3|SEQ00169	54191985	VBIBifBre167886_0169	SEQ00169	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	GO:0005215	transporter activity	go	clust_0894
+BRE3|SEQ00169	54191985	VBIBifBre167886_0169	SEQ00169	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	NA	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)	GO:0006810	transport	go	clust_0894

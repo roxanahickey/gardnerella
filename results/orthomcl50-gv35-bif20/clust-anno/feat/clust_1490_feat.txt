@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00042	VBIGarVag247424_0042	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499447	59095	61377	+	2283		hypothetical protein	GV03	clust_1490
+GV05|SEQ01110	VBIGarVag174900_1110	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548008	68774	71056	-	2283		hypothetical protein	GV05	clust_1490
+GV07|SEQ00374	VBIGarVag249177_0374	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492371	33966	36389	+	2424		Beta-1,3-glucosyltransferase	GV07	clust_1490
+GV14|SEQ00678	VBIGarVag244375_0678	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503236	8990	11377	-	2388		Beta-1,3-glucosyltransferase	GV14	clust_1490
+GV15|SEQ01028	VBIGarVag249709_1028	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485638	240249	242459	+	2211		WbrX	GV15	clust_1490
+GV17|SEQ01194	VBIGarVag146634_1194	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852489	177741	179951	+	2211		Ubiquitin-protein ligase	GV17	clust_1490
+ANI1|SEQ01371	VBIBifAni240121_1371	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847749	1620297	1621310	-	1014		Glycosyl transferase, family 2	ANI1	clust_1490
+ANI2|SEQ01371	VBIBifAni235968_1371	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851102	1620515	1621528	-	1014		Glycosyl transferase, family 2	ANI2	clust_1490
+ANI3|SEQ01381	VBIBifAni108068_1381	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765122	1625746	1626759	-	1014		Glycosyl transferase, family 2	ANI3	clust_1490
+BRE2|SEQ00440	VBIBifBre337368_0440	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606804	529300	530340	+	1041		glycosyl transferase family 2	BRE2	clust_1490
+BRE4|SEQ00399	VBIBifBre327712_0399	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610865	499334	500374	+	1041		glycosyl transferase family 2	BRE4	clust_1490
+BRE5|SEQ00412	VBIBifBre336369_0413	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614939	485237	486187	-	951		probable glycosyl transferase	BRE5	clust_1490
+BRE6|SEQ00032	VBIBifBre268992_0032	Bifidobacterium breve JCP7499	AWSX01000002	PATRIC	CDS	177653153	7593	8633	-	1041		glycosyl transferase family 2	BRE6	clust_1490
+BRE8|SEQ00440	VBIBifBre176493_0440	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623416	547613	548653	+	1041		glycosyl transferase family 2	BRE8	clust_1490
+BRE9|SEQ00492	VBIBifBre30019_0492	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445046	592181	593221	+	1041		glycosyl transferase family 2	BRE9	clust_1490
+THE1|SEQ00068	VBIBifThe274299_0068	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733297	86774	88330	+	1557		Beta-1,3-glucosyltransferase	THE1	clust_1490
+THE1|SEQ00350	VBIBifThe274299_0350	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733874	410939	411979	+	1041		Glycosyl transferase, group 2 family protein	THE1	clust_1490

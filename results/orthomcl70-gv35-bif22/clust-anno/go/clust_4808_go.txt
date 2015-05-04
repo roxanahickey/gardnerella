@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+DEN1|SEQ00829	43462966	VBIBifDen165269_0830	SEQ00829	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	NA	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	GO:0031176	endo-1,4-beta-xylanase activity	go	clust_4808
+DEN2|SEQ00351	42109025	VBIBifDen39005_0351	SEQ00351	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	NA	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	GO:0031176	endo-1,4-beta-xylanase activity	go	clust_4808

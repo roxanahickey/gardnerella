@@ -1,0 +1,57 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00339	VBIGarVag247323_0339	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494817	37889	38257	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV01	clust_0044
+GV02|SEQ00716	VBIGarVag242669_0716	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498256	46874	47242	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV02	clust_0044
+GV03|SEQ00940	VBIGarVag247424_0940	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501323	284001	284378	-	378		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV03	clust_0044
+GV04|SEQ00877	VBIGarVag246433_0877	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481660	216521	216889	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV04	clust_0044
+GV05|SEQ00987	VBIGarVag174900_0987	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547752	697487	697864	-	378		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV05	clust_0044
+GV06|SEQ00695	VBIGarVag244004_0695	Gardnerella vaginalis 1400E	ADER01000019	PATRIC	CDS	85490175	10755	11123	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV06	clust_0044
+GV07|SEQ00343	VBIGarVag249177_0343	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492306	166421	166798	+	378		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV07	clust_0044
+GV08|SEQ00658	VBIGarVag251521_0658	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475736	4784	5152	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV08	clust_0044
+GV09|SEQ00734	VBIGarVag169280_0734	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260669	85459	85827	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV09	clust_0044
+GV10|SEQ00756	VBIGarVag136958_0756	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147582	978370	978732	-	363		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV10	clust_0044
+GV11|SEQ00937	VBIGarVag171052_0937	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550247	15577	15945	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV11	clust_0044
+GV12|SEQ00198	VBIGarVag144721_0198	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853057	145700	146062	-	363		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV12	clust_0044
+GV13|SEQ01127	VBIGarVag244533_1127	Gardnerella vaginalis 55152	ADEQ01000017	PATRIC	CDS	85488286	4496	4864	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV13	clust_0044
+GV14|SEQ01043	VBIGarVag244375_1043	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503994	109962	110339	-	378		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV14	clust_0044
+GV15|SEQ00108	VBIGarVag249709_0108	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483704	21782	22144	-	363		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV15	clust_0044
+GV16|SEQ00672	VBIGarVag246379_0672	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478499	731498	731866	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV16	clust_0044
+GV17|SEQ00795	VBIGarVag146634_0795	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851664	122294	122656	+	363		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV17	clust_0044
+GV18|SEQ00549	VBIGarVag4823_0549	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000108	PATRIC	CDS	42069849	7428	7796	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV18	clust_0044
+GV19|SEQ00951	VBIGarVag39333_0952	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628807	1184271	1184411	-	141		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV19	clust_0044
+GV19|SEQ00952	VBIGarVag39333_0953	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628809	1184380	1184652	-	273	pkcI	YcfF/hinT protein: a purine nucleoside phosphoramidase	GV19	clust_0044
+GV20|SEQ00603	VBIGarVag188338_0603	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190027	716800	717168	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV20	clust_0044
+GV21|SEQ00875	VBIGarVag274454_0876	Gardnerella vaginalis JCP7275	ATJS01000064	PATRIC	CDS	183968497	2666	3034	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV21	clust_0044
+GV22|SEQ01162	VBIGarVag276801_1163	Gardnerella vaginalis JCP7276	ATJR01000125	PATRIC	CDS	183971906	7297	7665	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV22	clust_0044
+GV23|SEQ00769	VBIGarVag276017_0769	Gardnerella vaginalis JCP7659	ATJQ01000057	PATRIC	CDS	183973924	4835	5215	+	381		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV23	clust_0044
+GV24|SEQ00016	VBIGarVag268944_0016	Gardnerella vaginalis JCP7672	ATJP01000002	PATRIC	CDS	183975119	2701	2922	-	222		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV24	clust_0044
+GV25|SEQ00627	VBIGarVag270495_0627	Gardnerella vaginalis JCP7719	ATJO01000056	PATRIC	CDS	183979211	25540	25824	+	285		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV25	clust_0044
+GV26|SEQ01340	VBIGarVag272749_1340	Gardnerella vaginalis JCP8017A	ATJN01000186	PATRIC	CDS	183983692	4789	5157	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV26	clust_0044
+GV27|SEQ00915	VBIGarVag276930_0915	Gardnerella vaginalis JCP8017B	ATJM01000052	PATRIC	CDS	183985640	2705	3073	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV27	clust_0044
+GV28|SEQ01176	VBIGarVag271349_1176	Gardnerella vaginalis JCP8066	ATJL01000176	PATRIC	CDS	183989258	7639	8007	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV28	clust_0044
+GV29|SEQ01100	VBIGarVag265473_1100	Gardnerella vaginalis JCP8070	ATJK01000117	PATRIC	CDS	183991749	7994	8362	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV29	clust_0044
+GV30|SEQ00945	VBIGarVag267667_0947	Gardnerella vaginalis JCP8108	ATJJ01000085	PATRIC	CDS	183994079	4564	4932	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV30	clust_0044
+GV31|SEQ00749	VBIGarVag264983_0749	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996603	29634	30002	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV31	clust_0044
+GV32|SEQ00742	VBIGarVag277040_0742	Gardnerella vaginalis JCP8151B	ATJH01000049	PATRIC	CDS	183999411	16976	17344	+	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV32	clust_0044
+GV33|SEQ00886	VBIGarVag265557_0886	Gardnerella vaginalis JCP8481A	ATJG01000097	PATRIC	CDS	184002591	1151	1513	+	363		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV33	clust_0044
+GV34|SEQ00739	VBIGarVag270440_0739	Gardnerella vaginalis JCP8481B	ATJF01000075	PATRIC	CDS	184005101	4720	5082	-	363		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV34	clust_0044
+GV35|SEQ00616	VBIGarVag272169_0616	Gardnerella vaginalis JCP8522	ATJE01000044	PATRIC	CDS	184007584	2710	3078	-	369		YcfF/hinT protein: a purine nucleoside phosphoramidase	GV35	clust_0044
+ADO1|SEQ01243	VBIBifAdo136061_1243	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188825	168920	169255	-	336		YcfF/hinT protein: a purine nucleoside phosphoramidase	ADO1	clust_0044
+ANI1|SEQ00899	VBIBifAni240121_0899	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846770	1046025	1046360	-	336	ycfF	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	ANI1	clust_0044
+ANI2|SEQ00898	VBIBifAni235968_0898	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850121	1046028	1046363	-	336		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	ANI2	clust_0044
+ANI3|SEQ00901	VBIBifAni108068_0901	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764135	1046029	1046364	-	336		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	ANI3	clust_0044
+BIF1|SEQ00814	VBIBifBif87902_0814	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884177	995672	996010	+	339		YcfF/hinT protein: a purine nucleoside phosphoramidase	BIF1	clust_0044
+BRE1|SEQ00873	VBIBifBre340958_0873	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603732	1038956	1039294	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE1	clust_0044
+BRE2|SEQ00955	VBIBifBre337368_0955	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607868	1120794	1121132	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE2	clust_0044
+BRE3|SEQ00923	VBIBifBre167886_0923	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193556	1092404	1092742	-	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE3	clust_0044
+BRE4|SEQ00905	VBIBifBre327712_0905	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611911	1076703	1077041	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE4	clust_0044
+BRE5|SEQ00924	VBIBifBre336369_0925	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615997	1079158	1079496	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE5	clust_0044
+BRE6|SEQ00757	VBIBifBre268992_0757	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS	177654682	18989	19327	-	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE6	clust_0044
+BRE7|SEQ00905	VBIBifBre340732_0905	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620269	1068685	1069023	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE7	clust_0044
+BRE8|SEQ00935	VBIBifBre176493_0935	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624438	1115062	1115400	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE8	clust_0044
+BRE9|SEQ00988	VBIBifBre30019_0988	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446074	1168264	1168602	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	BRE9	clust_0044
+INF1|SEQ00817	VBIBifLon182273_0817	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885605	992131	992469	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	INF1	clust_0044
+LON1|SEQ00556	VBIBifLon107831_0557	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118167	647484	647822	-	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	LON1	clust_0044
+LON2|SEQ00616	VBIBifLon171405_0617	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580756	682652	682990	-	339	hit2	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	LON2	clust_0044
+LON3|SEQ00423	VBIBifLon156230_0423	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767796	1257943	1258281	-	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	LON3	clust_0044
+LON4|SEQ00789	VBIBifLon48544_0789	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889851	949477	949815	+	339		Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	LON4	clust_0044
+THE1|SEQ00971	VBIBifThe274299_0971	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735139	1219899	1220237	+	339		hypothetical protein	THE1	clust_0044

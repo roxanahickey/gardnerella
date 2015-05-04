@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00907	VBIBifBre340958_0907	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603800	1078798	1079307	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE1	clust_1598
+BRE2|SEQ00998	VBIBifBre337368_0998	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607955	1173834	1174343	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE2	clust_1598
+BRE3|SEQ00884	VBIBifBre167886_0884	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193478	1045534	1046043	+	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE3	clust_1598
+BRE4|SEQ01054	VBIBifBre327712_1054	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612225	1224237	1224746	+	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE4	clust_1598
+BRE5|SEQ01051	VBIBifBre336369_1052	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616259	1185459	1185968	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE5	clust_1598
+BRE6|SEQ00604	VBIBifBre268992_0604	Bifidobacterium breve JCP7499	AWSX01000033	PATRIC	CDS	177654357	4696	5205	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE6	clust_1598
+BRE7|SEQ00950	VBIBifBre340732_0950	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620361	1119698	1120207	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE7	clust_1598
+BRE8|SEQ00968	VBIBifBre176493_0968	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624504	1155929	1156438	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE8	clust_1598
+BRE9|SEQ01033	VBIBifBre30019_1033	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446164	1219010	1219519	-	510		COG2110, Macro domain, possibly ADP-ribose binding module	BRE9	clust_1598
+DEN1|SEQ01360	VBIBifDen165269_1361	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459849	614382	614849	-	468	ymdB	hypothetical protein	DEN1	clust_1598
+DEN2|SEQ00284	VBIBifDen39005_0284	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108889	240408	240875	+	468		hypothetical protein	DEN2	clust_1598
+LON1|SEQ00504	VBIBifLon107831_0505	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118063	587333	587842	+	510		COG2110, Macro domain, possibly ADP-ribose binding module	LON1	clust_1598
+LON2|SEQ00222	VBIBifLon171405_0223	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579947	250699	252120	+	1422		COG2110, Macro domain, possibly ADP-ribose binding module	LON2	clust_1598
+LON3|SEQ01911	VBIBifLon156230_1914	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767014	823692	825113	+	1422		COG2110, Macro domain, possibly ADP-ribose binding module	LON3	clust_1598
+LON4|SEQ01316	VBIBifLon48544_1316	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890976	1488470	1489573	-	1104		COG2110, Macro domain, possibly ADP-ribose binding module	LON4	clust_1598
+THE1|SEQ01652	VBIBifThe274299_1652	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736571	2049928	2050779	+	852		COG2110, Macro domain, possibly ADP-ribose binding module	THE1	clust_1598

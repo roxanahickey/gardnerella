@@ -1,0 +1,18 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01203	VBIBifAdo136061_1203	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188745	124850	125254	-	405		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	ADO1	clust_1462
+ADO1|SEQ01229	VBIBifAdo136061_1229	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188797	154278	154685	-	408		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	ADO1	clust_1462
+ANI1|SEQ00109	VBIBifAni240121_0109	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845119	130832	131275	-	444		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	ANI1	clust_1462
+ANI2|SEQ00109	VBIBifAni235968_0109	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848474	130832	131275	-	444		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	ANI2	clust_1462
+ANI3|SEQ00111	VBIBifAni108068_0111	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762490	130832	131275	-	444		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	ANI3	clust_1462
+BIF1|SEQ00880	VBIBifBif87902_0880	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884309	1084570	1084938	-	369		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BIF1	clust_1462
+BRE1|SEQ00559	VBIBifBre340958_0559	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603078	687824	688096	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE1	clust_1462
+BRE2|SEQ00656	VBIBifBre337368_0656	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607244	784970	785242	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE2	clust_1462
+BRE3|SEQ01216	VBIBifBre167886_1216	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194168	1422748	1423020	+	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE3	clust_1462
+BRE4|SEQ00596	VBIBifBre327712_0596	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611267	731951	732223	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE4	clust_1462
+BRE5|SEQ00615	VBIBifBre336369_0616	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615352	729749	730021	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE5	clust_1462
+BRE6|SEQ01141	VBIBifBre268992_1141	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655494	84174	84446	+	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE6	clust_1462
+BRE7|SEQ00609	VBIBifBre340732_0609	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619652	735011	735283	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE7	clust_1462
+BRE8|SEQ00631	VBIBifBre176493_0631	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623805	776021	776293	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE8	clust_1462
+BRE9|SEQ00678	VBIBifBre30019_0678	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445427	819744	820016	-	273		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	BRE9	clust_1462
+THE1|SEQ00990	VBIBifThe274299_0990	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735177	1243808	1244563	+	756		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	THE1	clust_1462
+THE1|SEQ01390	VBIBifThe274299_1390	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736018	1729570	1730307	-	738		4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	THE1	clust_1462

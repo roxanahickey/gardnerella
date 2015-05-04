@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00678	VBIGarVag136958_0678	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147424	877206	877973	+	768	thiG_1	Thiazole biosynthesis protein ThiG	GV10	clust_1688
+GV12|SEQ00114	VBIGarVag144721_0114	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852887	44362	45129	+	768		Thiazole biosynthesis protein ThiG	GV12	clust_1688
+GV15|SEQ00721	VBIGarVag249709_0721	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484997	191510	192289	+	780		Thiazole biosynthesis protein ThiG	GV15	clust_1688
+GV17|SEQ00882	VBIGarVag146634_0882	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851841	98771	99538	-	768		Thiazole biosynthesis protein ThiG	GV17	clust_1688

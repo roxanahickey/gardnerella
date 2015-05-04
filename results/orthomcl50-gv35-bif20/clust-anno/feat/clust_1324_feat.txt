@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00888	VBIBifAdo136061_0888	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188086	787977	789551	+	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	ADO1	clust_1324
+ANI1|SEQ00641	VBIBifAni240121_0641	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846231	751115	752683	+	1569		Bacterial proteasome-activating AAA-ATPase (PAN)	ANI1	clust_1324
+ANI2|SEQ00640	VBIBifAni235968_0640	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849582	751118	752686	+	1569		Bacterial proteasome-activating AAA-ATPase (PAN)	ANI2	clust_1324
+ANI3|SEQ00642	VBIBifAni108068_0642	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763594	751120	752688	+	1569		Bacterial proteasome-activating AAA-ATPase (PAN)	ANI3	clust_1324
+BIF1|SEQ00611	VBIBifBif87902_0611	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883759	753415	755118	+	1704		Bacterial proteasome-activating AAA-ATPase (PAN)	BIF1	clust_1324
+BRE1|SEQ01358	VBIBifBre340958_1359	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604733	1595583	1597157	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE1	clust_1324
+BRE2|SEQ01445	VBIBifBre337368_1445	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608883	1670141	1671715	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE2	clust_1324
+BRE3|SEQ00466	VBIBifBre167886_0466	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192607	573186	574760	+	1575	arc	Bacterial proteasome-activating AAA-ATPase (PAN)	BRE3	clust_1324
+BRE4|SEQ01390	VBIBifBre327712_1390	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612912	1620180	1621754	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE4	clust_1324
+BRE5|SEQ01522	VBIBifBre336369_1523	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617233	1706701	1708275	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE5	clust_1324
+BRE6|SEQ00278	VBIBifBre268992_0278	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653667	55388	56974	-	1587		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE6	clust_1324
+BRE7|SEQ01405	VBIBifBre340732_1405	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621303	1623195	1624769	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE7	clust_1324
+BRE8|SEQ01424	VBIBifBre176493_1424	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625451	1665560	1667134	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE8	clust_1324
+BRE9|SEQ01489	VBIBifBre30019_1489	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447110	1726345	1727919	-	1575		Bacterial proteasome-activating AAA-ATPase (PAN)	BRE9	clust_1324
+INF1|SEQ01553	VBIBifLon182273_1553	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887120	1765740	1767305	-	1566		Bacterial proteasome-activating AAA-ATPase (PAN)	INF1	clust_1324
+LON1|SEQ01846	VBIBifLon107831_1847	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120858	2235352	2236917	+	1566		Bacterial proteasome-activating AAA-ATPase (PAN)	LON1	clust_1324
+LON2|SEQ00022	VBIBifLon171405_0022	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579537	22354	23919	+	1566	rpt1	Bacterial proteasome-activating AAA-ATPase (PAN)	LON2	clust_1324
+LON3|SEQ01051	VBIBifLon156230_1053	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765973	204345	205910	-	1566		Bacterial proteasome-activating AAA-ATPase (PAN)	LON3	clust_1324
+LON4|SEQ01525	VBIBifLon48544_1525	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891407	1742692	1743567	-	876		Bacterial proteasome-activating AAA-ATPase (PAN)	LON4	clust_1324
+THE1|SEQ01144	VBIBifThe274299_1144	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735505	1422712	1424385	-	1674		Bacterial proteasome-activating AAA-ATPase (PAN)	THE1	clust_1324

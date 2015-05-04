@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00011	VBIBifAdo136061_0011	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186214	2079	3329	-	1251		Threonine dehydratase, catabolic (EC 4.3.1.19)	ADO1	clust_1365
+ANI1|SEQ01563	VBIBifAni240121_1563	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848162	1882746	1883996	-	1251		Threonine dehydratase, catabolic (EC 4.3.1.19)	ANI1	clust_1365
+ANI2|SEQ01560	VBIBifAni235968_1560	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851508	1882969	1884234	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	ANI2	clust_1365
+ANI3|SEQ01571	VBIBifAni108068_1572	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765530	1888201	1889451	-	1251		Threonine dehydratase, catabolic (EC 4.3.1.19)	ANI3	clust_1365
+BIF1|SEQ01795	VBIBifBif87902_1795	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886228	2167973	2169238	-	1266	ilvA	Threonine dehydratase, catabolic (EC 4.3.1.19)	BIF1	clust_1365
+BRE1|SEQ01832	VBIBifBre340958_1834	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605731	2155369	2156634	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE1	clust_1365
+BRE2|SEQ01932	VBIBifBre337368_1932	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609906	2253658	2254923	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE2	clust_1365
+BRE3|SEQ01904	VBIBifBre167886_1904	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195605	2239506	2240771	-	1266	ilvA	Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE3	clust_1365
+BRE4|SEQ01882	VBIBifBre327712_1882	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613948	2199484	2200749	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE4	clust_1365
+BRE5|SEQ02010	VBIBifBre336369_2011	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618256	2279153	2280418	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE5	clust_1365
+BRE6|SEQ00621	VBIBifBre268992_0621	Bifidobacterium breve JCP7499	AWSX01000034	PATRIC	CDS	177654392	1432	2697	+	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE6	clust_1365
+BRE7|SEQ01919	VBIBifBre340732_1919	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622378	2229259	2230524	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE7	clust_1365
+BRE8|SEQ01877	VBIBifBre176493_1877	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626413	2206967	2208232	-	1266	tdcB	Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE8	clust_1365
+BRE9|SEQ01998	VBIBifBre30019_1998	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448176	2321878	2323143	-	1266	tdcB	Threonine dehydratase, catabolic (EC 4.3.1.19)	BRE9	clust_1365
+INF1|SEQ01978	VBIBifLon182273_1978	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888029	2306115	2307380	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	INF1	clust_1365
+LON1|SEQ01427	VBIBifLon107831_1428	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119969	1703159	1704424	+	1266	tdcB	Threonine dehydratase, catabolic (EC 4.3.1.19)	LON1	clust_1365
+LON2|SEQ01478	VBIBifLon171405_1481	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582543	1728087	1729352	+	1266	ilvA	Threonine dehydratase, catabolic (EC 4.3.1.19)	LON2	clust_1365
+LON3|SEQ01562	VBIBifLon156230_1565	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769745	2382558	2383823	+	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	LON3	clust_1365
+LON4|SEQ01936	VBIBifLon48544_1937	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892289	2297155	2298420	-	1266		Threonine dehydratase, catabolic (EC 4.3.1.19)	LON4	clust_1365
+THE1|SEQ01788	VBIBifThe274299_1788	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736866	2225943	2227286	-	1344		Threonine dehydratase, catabolic (EC 4.3.1.19)	THE1	clust_1365

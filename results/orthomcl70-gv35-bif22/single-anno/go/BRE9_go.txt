@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE9|SEQ00272	58444587	VBIBifBre30019_0272	SEQ00272	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	GO:0004749	ribose phosphate diphosphokinase activity	go	NA
+BRE9|SEQ00273	58444589	VBIBifBre30019_0273	SEQ00273	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	GO:0004749	ribose phosphate diphosphokinase activity	go	NA
+BRE9|SEQ00307	58444659	VBIBifBre30019_0307	SEQ00307	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Beta-galactosidase (EC 3.2.1.23)	GO:0004565	beta-galactosidase activity	go	NA
+BRE9|SEQ00342	58444731	VBIBifBre30019_0342	SEQ00342	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Periplasmic beta-glucosidase (EC 3.2.1.21)	GO:0008422	beta-glucosidase activity	go	NA

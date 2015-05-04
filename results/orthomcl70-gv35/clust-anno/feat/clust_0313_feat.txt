@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00682	VBIGarVag247323_0682	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495517	108918	110249	+	1332		Hemolysins and related proteins containing CBS domains	GV01	clust_0313
+GV02|SEQ00167	VBIGarVag242669_0167	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497096	143676	145007	+	1332		Hemolysins and related proteins containing CBS domains	GV02	clust_0313
+GV03|SEQ00116	VBIGarVag247424_0116	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499608	42819	44114	-	1296		Hemolysins and related proteins containing CBS domains	GV03	clust_0313
+GV04|SEQ00276	VBIGarVag246433_0276	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480408	161111	162412	+	1302		Hemolysins and related proteins containing CBS domains	GV04	clust_0313
+GV05|SEQ00218	VBIGarVag174900_0218	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546154	42869	44164	-	1296		Hemolysins and related proteins containing CBS domains	GV05	clust_0313
+GV06|SEQ00442	VBIGarVag244004_0442	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489636	51094	52395	-	1302		Hemolysins and related proteins containing CBS domains	GV06	clust_0313
+GV07|SEQ00141	VBIGarVag249177_0141	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491863	159767	161062	+	1296		Hemolysins and related proteins containing CBS domains	GV07	clust_0313
+GV08|SEQ00965	VBIGarVag251521_0965	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476373	48976	50277	-	1302		Hemolysins and related proteins containing CBS domains	GV08	clust_0313
+GV09|SEQ00136	VBIGarVag169280_0136	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259419	110437	111738	+	1302		Hemolysins and related proteins containing CBS domains	GV09	clust_0313
+GV10|SEQ00010	VBIGarVag136958_0010	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146030	14907	16091	-	1185		Hemolysins and related proteins containing CBS domains	GV10	clust_0313
+GV11|SEQ00457	VBIGarVag171052_0457	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549237	48554	49855	-	1302		Hemolysins and related proteins containing CBS domains	GV11	clust_0313
+GV12|SEQ00541	VBIGarVag144721_0541	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853775	43305	44600	-	1296		Hemolysins and related proteins containing CBS domains	GV12	clust_0313
+GV13|SEQ00058	VBIGarVag244533_0058	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486052	51684	52979	-	1296		Hemolysins and related proteins containing CBS domains	GV13	clust_0313
+GV14|SEQ00642	VBIGarVag244375_0642	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503148	156557	157852	+	1296		Hemolysins and related proteins containing CBS domains	GV14	clust_0313
+GV15|SEQ01081	VBIGarVag249709_1081	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485754	49542	50837	+	1296		Hemolysins and related proteins containing CBS domains	GV15	clust_0313
+GV16|SEQ00133	VBIGarVag246379_0133	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477380	57540	58841	-	1302		Hemolysins and related proteins containing CBS domains	GV16	clust_0313
+GV17|SEQ00627	VBIGarVag146634_0627	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851306	46816	48111	+	1296		Hemolysins and related proteins containing CBS domains	GV17	clust_0313
+GV18|SEQ00281	VBIGarVag4823_0281	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000079	PATRIC	CDS	42069270	7401	8696	+	1296		Hemolysins and related proteins containing CBS domains	GV18	clust_0313
+GV19|SEQ00155	VBIGarVag39333_0155	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627149	177863	179164	+	1302		Hemolysins and related proteins containing CBS domains	GV19	clust_0313
+GV20|SEQ00033	VBIGarVag188338_0033	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188836	38789	40117	+	1329		Hemolysins and related proteins containing CBS domains	GV20	clust_0313
+GV21|SEQ00616	VBIGarVag274454_0617	Gardnerella vaginalis JCP7275	ATJS01000037	PATRIC	CDS	183967924	17463	18764	-	1302		Hemolysins and related proteins containing CBS domains	GV21	clust_0313
+GV22|SEQ00222	VBIGarVag276801_0222	Gardnerella vaginalis JCP7276	ATJR01000006	PATRIC	CDS	183969848	9644	10972	+	1329		Hemolysins and related proteins containing CBS domains	GV22	clust_0313
+GV23|SEQ00786	VBIGarVag276017_0786	Gardnerella vaginalis JCP7659	ATJQ01000060	PATRIC	CDS	183973967	7785	9110	-	1326		Hemolysins and related proteins containing CBS domains	GV23	clust_0313
+GV24|SEQ00084	VBIGarVag268944_0085	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975262	81850	83145	+	1296		Hemolysins and related proteins containing CBS domains	GV24	clust_0313
+GV25|SEQ00096	VBIGarVag270495_0096	Gardnerella vaginalis JCP7719	ATJO01000007	PATRIC	CDS	183978055	10648	11973	+	1326		Hemolysins and related proteins containing CBS domains	GV25	clust_0313
+GV26|SEQ00781	VBIGarVag272749_0781	Gardnerella vaginalis JCP8017A	ATJN01000042	PATRIC	CDS	183982383	4251	5576	+	1326		Hemolysins and related proteins containing CBS domains	GV26	clust_0313
+GV27|SEQ00265	VBIGarVag276930_0265	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984265	16280	17611	-	1332		Hemolysins and related proteins containing CBS domains	GV27	clust_0313
+GV28|SEQ00889	VBIGarVag271349_0889	Gardnerella vaginalis JCP8066	ATJL01000082	PATRIC	CDS	183988556	10649	11974	+	1326		Hemolysins and related proteins containing CBS domains	GV28	clust_0313
+GV29|SEQ00619	VBIGarVag265473_0619	Gardnerella vaginalis JCP8070	ATJK01000038	PATRIC	CDS	183990670	10633	11964	+	1332		Hemolysins and related proteins containing CBS domains	GV29	clust_0313
+GV30|SEQ00568	VBIGarVag267667_0569	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993246	27079	28380	-	1302		Hemolysins and related proteins containing CBS domains	GV30	clust_0313
+GV31|SEQ00417	VBIGarVag264983_0417	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995887	99566	100891	+	1326		Hemolysins and related proteins containing CBS domains	GV31	clust_0313
+GV32|SEQ00866	VBIGarVag277040_0866	Gardnerella vaginalis JCP8151B	ATJH01000070	PATRIC	CDS	183999687	10638	11969	+	1332		Hemolysins and related proteins containing CBS domains	GV32	clust_0313
+GV33|SEQ00126	VBIGarVag265557_0126	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000925	45927	47150	+	1224		Hemolysins and related proteins containing CBS domains	GV33	clust_0313
+GV34|SEQ01050	VBIGarVag270440_1050	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005782	71357	72580	+	1224		Hemolysins and related proteins containing CBS domains	GV34	clust_0313
+GV35|SEQ00602	VBIGarVag272169_0602	Gardnerella vaginalis JCP8522	ATJE01000042	PATRIC	CDS	184007546	4215	5546	+	1332		Hemolysins and related proteins containing CBS domains	GV35	clust_0313

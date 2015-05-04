@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00563	VBIGarVag247323_0563	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495272	314765	315649	-	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV01	clust_0179
+GV02|SEQ00813	VBIGarVag242669_0813	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498468	31370	32254	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV02	clust_0179
+GV03|SEQ00994	VBIGarVag247424_0994	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501434	353927	354823	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV03	clust_0179
+GV04|SEQ00656	VBIGarVag246433_0656	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481205	76264	77172	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV04	clust_0179
+GV05|SEQ01041	VBIGarVag174900_1041	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547863	762748	763644	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV05	clust_0179
+GV06|SEQ00256	VBIGarVag244004_0256	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489233	30203	31111	+	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV06	clust_0179
+GV07|SEQ00290	VBIGarVag249177_0290	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492197	96214	97110	+	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV07	clust_0179
+GV08|SEQ00101	VBIGarVag251521_0101	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474568	116239	117147	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV08	clust_0179
+GV09|SEQ00930	VBIGarVag169280_0930	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261067	335632	336540	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV09	clust_0179
+GV10|SEQ00812	VBIGarVag136958_0812	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147696	1055313	1056209	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV10	clust_0179
+GV11|SEQ00733	VBIGarVag171052_0733	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549818	4106	5014	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV11	clust_0179
+GV12|SEQ00255	VBIGarVag144721_0255	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853173	214732	215628	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV12	clust_0179
+GV13|SEQ00912	VBIGarVag244533_0912	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487829	25788	26696	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV13	clust_0179
+GV14|SEQ01097	VBIGarVag244375_1097	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504105	178852	179748	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV14	clust_0179
+GV15|SEQ00158	VBIGarVag249709_0158	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483807	86494	87390	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV15	clust_0179
+GV16|SEQ00877	VBIGarVag246379_0877	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478916	985802	986710	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV16	clust_0179
+GV17|SEQ00745	VBIGarVag146634_0745	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851562	56850	57746	+	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV17	clust_0179
+GV18|SEQ00199	VBIGarVag4823_0199	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000067	PATRIC	CDS	42069090	7401	8309	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV18	clust_0179
+GV19|SEQ00743	VBIGarVag39333_0744	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628384	928237	929145	+	909	pyrDII	Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV19	clust_0179
+GV20|SEQ00800	VBIGarVag188338_0800	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190429	968921	969829	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV20	clust_0179
+GV21|SEQ00253	VBIGarVag274454_0253	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967154	22979	23887	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV21	clust_0179
+GV22|SEQ00114	VBIGarVag276801_0114	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969617	150230	151138	+	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV22	clust_0179
+GV23|SEQ00211	VBIGarVag276017_0211	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972726	31280	32164	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV23	clust_0179
+GV24|SEQ00958	VBIGarVag268944_0959	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977143	24511	25419	-	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV24	clust_0179
+GV25|SEQ00774	VBIGarVag270495_0774	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979519	94015	94899	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV25	clust_0179
+GV26|SEQ01019	VBIGarVag272749_1019	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982918	31056	31940	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV26	clust_0179
+GV27|SEQ01096	VBIGarVag276930_1096	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986052	25942	26826	-	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV27	clust_0179
+GV28|SEQ00306	VBIGarVag271349_0306	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987279	90184	91068	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV28	clust_0179
+GV29|SEQ00920	VBIGarVag265473_0920	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991333	87589	88473	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV29	clust_0179
+GV30|SEQ01263	VBIGarVag267667_1265	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994799	21567	22475	+	909		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV30	clust_0179
+GV31|SEQ00516	VBIGarVag264983_0516	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996102	21447	22331	-	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV31	clust_0179
+GV32|SEQ00319	VBIGarVag277040_0319	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998490	163727	164611	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV32	clust_0179
+GV33|SEQ00973	VBIGarVag265557_0973	Gardnerella vaginalis JCP8481A	ATJG01000114	PATRIC	CDS	184002788	6133	7029	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV33	clust_0179
+GV34|SEQ00902	VBIGarVag270440_0902	Gardnerella vaginalis JCP8481B	ATJF01000099	PATRIC	CDS	184005458	6127	7023	-	897		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV34	clust_0179
+GV35|SEQ00192	VBIGarVag272169_0192	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006667	99968	100852	+	885		Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)	GV35	clust_0179

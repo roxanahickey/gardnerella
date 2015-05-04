@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00409	VBIBifAdo136061_0409	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187079	234031	236868	-	2838		Phage infection protein	ADO1	clust_1389
+ANI1|SEQ00175	VBIBifAni240121_0175	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845252	206745	209513	-	2769		Phage infection protein	ANI1	clust_1389
+ANI2|SEQ00174	VBIBifAni235968_0174	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848605	206746	209514	-	2769		Phage infection protein	ANI2	clust_1389
+ANI3|SEQ00177	VBIBifAni108068_0177	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762622	206746	209514	-	2769		Phage infection protein	ANI3	clust_1389
+BRE1|SEQ00196	VBIBifBre340958_0196	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602325	253838	256462	-	2625		Phage infection protein	BRE1	clust_1389
+BRE2|SEQ00216	VBIBifBre337368_0216	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606338	281056	283680	-	2625		Phage infection protein	BRE2	clust_1389
+BRE3|SEQ00235	VBIBifBre167886_0235	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192125	305038	307662	-	2625		Phage infection protein	BRE3	clust_1389
+BRE4|SEQ00214	VBIBifBre327712_0214	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610476	278848	281472	-	2625		Phage infection protein	BRE4	clust_1389
+BRE5|SEQ00217	VBIBifBre336369_0218	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614532	268421	271045	-	2625		Phage infection protein	BRE5	clust_1389
+BRE6|SEQ02043	VBIBifBre268992_2043	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657413	27494	30118	+	2625		Phage infection protein	BRE6	clust_1389
+BRE7|SEQ00211	VBIBifBre340732_0211	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618828	276647	279271	-	2625		Phage infection protein	BRE7	clust_1389
+BRE8|SEQ00238	VBIBifBre176493_0238	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622995	308114	310738	-	2625	pip2	Phage infection protein	BRE8	clust_1389
+BRE9|SEQ00246	VBIBifBre30019_0246	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444531	323396	326020	-	2625	pip2	Phage infection protein	BRE9	clust_1389
+INF1|SEQ00175	VBIBifLon182273_0175	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884265	220862	223492	-	2631		Phage infection protein	INF1	clust_1389
+LON1|SEQ01189	VBIBifLon107831_1190	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119475	1396333	1398963	+	2631		Phage infection protein	LON1	clust_1389
+LON2|SEQ01224	VBIBifLon171405_1226	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582015	1410817	1413447	+	2631		Phage infection protein	LON2	clust_1389
+LON3|SEQ01304	VBIBifLon156230_1306	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769209	2040659	2043289	+	2631		Phage infection protein	LON3	clust_1389
+LON4|SEQ00195	VBIBifLon48544_0195	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888608	239979	242609	-	2631		Phage infection protein	LON4	clust_1389
+THE1|SEQ00169	VBIBifThe274299_0169	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733501	197830	200406	-	2577		Phage infection protein	THE1	clust_1389

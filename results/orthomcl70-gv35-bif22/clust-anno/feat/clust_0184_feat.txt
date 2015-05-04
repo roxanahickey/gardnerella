@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01543	VBIBifAdo136061_1543	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189456	5107	6420	-	1314		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	ADO1	clust_0184
+ANI1|SEQ00742	VBIBifAni240121_0742	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846433	873802	875085	+	1284		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	ANI1	clust_0184
+ANI2|SEQ00742	VBIBifAni235968_0742	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849786	873805	875088	+	1284		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	ANI2	clust_0184
+ANI3|SEQ00743	VBIBifAni108068_0743	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763796	873807	875090	+	1284		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	ANI3	clust_0184
+BIF1|SEQ01042	VBIBifBif87902_1042	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884652	1257501	1258799	-	1299	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BIF1	clust_0184
+BRE1|SEQ00660	VBIBifBre340958_0660	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603285	800629	801924	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE1	clust_0184
+BRE2|SEQ00756	VBIBifBre337368_0756	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607447	897477	898772	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE2	clust_0184
+BRE3|SEQ01115	VBIBifBre167886_1115	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193963	1307867	1309162	-	1296	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE3	clust_0184
+BRE4|SEQ00695	VBIBifBre327712_0695	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611469	841625	842920	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE4	clust_0184
+BRE5|SEQ00707	VBIBifBre336369_0708	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615539	836097	837392	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE5	clust_0184
+BRE6|SEQ00081	VBIBifBre268992_0081	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653259	23537	24832	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE6	clust_0184
+BRE7|SEQ00705	VBIBifBre340732_0705	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619847	844752	846047	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE7	clust_0184
+BRE8|SEQ00726	VBIBifBre176493_0726	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623997	885613	886908	+	1296	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE8	clust_0184
+BRE9|SEQ00777	VBIBifBre30019_0777	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445628	933166	934470	+	1305	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	BRE9	clust_0184
+DEN1|SEQ01452	VBIBifDen165269_1453	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460034	722457	723770	+	1314	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	DEN1	clust_0184
+DEN2|SEQ00188	VBIBifDen39005_0188	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108692	131523	132836	-	1314	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	DEN2	clust_0184
+GV01|SEQ00443	VBIGarVag247323_0443	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495027	179643	180992	+	1350	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV01	clust_0184
+GV02|SEQ00923	VBIGarVag242669_0923	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498693	160316	161665	-	1350	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV02	clust_0184
+GV03|SEQ01034	VBIGarVag247424_1034	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501520	404927	406261	-	1335	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV03	clust_0184
+GV04|SEQ00967	VBIGarVag246433_0967	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481842	338257	339615	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV04	clust_0184
+GV05|SEQ01147	VBIGarVag174900_1147	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548134	11883	13217	-	1335		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV05	clust_0184
+GV06|SEQ01285	VBIGarVag244004_1285	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491401	149446	150804	-	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV06	clust_0184
+GV07|SEQ00254	VBIGarVag249177_0254	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492119	44192	45526	+	1335	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV07	clust_0184
+GV08|SEQ00909	VBIGarVag251521_0909	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476250	90636	91994	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV08	clust_0184
+GV09|SEQ00824	VBIGarVag169280_0824	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260851	208214	209572	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV09	clust_0184
+GV10|SEQ00885	VBIGarVag136958_0885	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147848	1147480	1148757	-	1278	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV10	clust_0184
+GV11|SEQ00132	VBIGarVag171052_0132	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548535	13876	15225	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV11	clust_0184
+GV12|SEQ00295	VBIGarVag144721_0295	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853259	267585	268862	-	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV12	clust_0184
+GV13|SEQ00296	VBIGarVag244533_0296	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486540	113240	114331	-	1092	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV13	clust_0184
+GV14|SEQ01133	VBIGarVag244375_1133	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504183	229887	231164	-	1278	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV14	clust_0184
+GV15|SEQ00866	VBIGarVag249709_0866	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485304	7822	9099	-	1278	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV15	clust_0184
+GV16|SEQ00759	VBIGarVag246379_0759	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478675	853912	855270	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV16	clust_0184
+GV17|SEQ00707	VBIGarVag146634_0707	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851480	3983	5260	+	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV17	clust_0184
+GV18|SEQ01077	VBIGarVag4823_1077	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42070979	2053	3411	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV18	clust_0184
+GV19|SEQ00852	VBIGarVag39333_0853	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628607	1055246	1056604	-	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV19	clust_0184
+GV20|SEQ00695	VBIGarVag188338_0695	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190214	844757	846115	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV20	clust_0184
+GV21|SEQ00058	VBIGarVag274454_0058	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966750	72289	73647	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV21	clust_0184
+GV22|SEQ00445	VBIGarVag276801_0446	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970317	81015	82373	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV22	clust_0184
+GV23|SEQ00643	VBIGarVag276017_0643	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973649	90564	91922	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV23	clust_0184
+GV24|SEQ00417	VBIGarVag268944_0418	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975962	88015	89364	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV24	clust_0184
+GV25|SEQ01077	VBIGarVag270495_1077	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980203	93406	94764	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV25	clust_0184
+GV26|SEQ00528	VBIGarVag272749_0528	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981846	77594	78952	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV26	clust_0184
+GV27|SEQ00409	VBIGarVag276930_0409	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984563	94614	95972	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV27	clust_0184
+GV28|SEQ00799	VBIGarVag271349_0799	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988357	90606	91964	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV28	clust_0184
+GV29|SEQ00119	VBIGarVag265473_0119	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989601	93916	95274	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV29	clust_0184
+GV30|SEQ00093	VBIGarVag267667_0093	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992227	87946	89295	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV30	clust_0184
+GV31|SEQ00291	VBIGarVag264983_0291	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995627	94618	95967	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV31	clust_0184
+GV32|SEQ01071	VBIGarVag277040_1071	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000184	56100	57449	+	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV32	clust_0184
+GV33|SEQ00916	VBIGarVag265557_0916	Gardnerella vaginalis JCP8481A	ATJG01000102	PATRIC	CDS	184002660	8928	10205	+	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV33	clust_0184
+GV34|SEQ01102	VBIGarVag270440_1102	Gardnerella vaginalis JCP8481B	ATJF01000125	PATRIC	CDS	184005903	8928	10205	+	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV34	clust_0184
+GV35|SEQ00030	VBIGarVag272169_0030	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006333	27609	28967	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV35	clust_0184
+INF1|SEQ00622	VBIBifLon182273_0622	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885191	765848	767143	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	INF1	clust_0184
+LON1|SEQ00737	VBIBifLon107831_0738	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118547	858795	860090	-	1296	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	LON1	clust_0184
+LON2|SEQ00799	VBIBifLon171405_0800	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581140	898228	899523	-	1296	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	LON2	clust_0184
+LON3|SEQ00605	VBIBifLon156230_0605	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768179	1472808	1474103	-	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	LON3	clust_0184
+LON4|SEQ00615	VBIBifLon48544_0615	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889478	744438	745733	+	1296		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	LON4	clust_0184
+THE1|SEQ01731	VBIBifThe274299_1731	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736746	2147368	2148747	-	1380	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	THE1	clust_0184

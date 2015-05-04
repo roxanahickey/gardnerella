@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01211	VBIGarVag247323_1211	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496624	233211	235550	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV01	clust_0680
+GV02|SEQ00241	VBIGarVag242669_0241	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497257	29177	31516	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV02	clust_0680
+GV03|SEQ00828	VBIGarVag247424_0828	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501089	144289	146640	+	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV03	clust_0680
+GV04|SEQ01146	VBIGarVag246433_1146	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482219	58097	60436	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV04	clust_0680
+GV05|SEQ00871	VBIGarVag174900_0871	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547510	554464	556815	+	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV05	clust_0680
+GV06|SEQ00908	VBIGarVag244004_0908	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490621	291730	294069	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV06	clust_0680
+GV08|SEQ00464	VBIGarVag251521_0464	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475334	333248	335587	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV08	clust_0680
+GV09|SEQ01128	VBIGarVag169280_1128	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261482	58183	60522	-	2340	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV09	clust_0680
+GV10|SEQ00620	VBIGarVag136958_0620	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147300	797064	799292	+	2229	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV10	clust_0680
+GV11|SEQ00529	VBIGarVag171052_0529	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549386	6859	9198	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV11	clust_0680
+GV12|SEQ01261	VBIGarVag144721_1261	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855354	148219	150570	+	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV12	clust_0680
+GV13|SEQ00692	VBIGarVag244533_0692	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487368	127858	130197	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV13	clust_0680
+GV14|SEQ00345	VBIGarVag244375_0345	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502534	184895	187246	+	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV14	clust_0680
+GV15|SEQ00680	VBIGarVag249709_0680	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484907	143798	146149	+	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV15	clust_0680
+GV16|SEQ00994	VBIGarVag246379_0994	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479166	1134905	1137244	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV16	clust_0680
+GV17|SEQ00930	VBIGarVag146634_0930	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851946	48007	50358	-	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV17	clust_0680
+GV18|SEQ00141	VBIGarVag4823_0141	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000058	PATRIC	CDS	42068964	20	1321	+	1302		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV18	clust_0680
+GV19|SEQ00621	VBIGarVag39333_0622	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628126	776139	778478	+	2340	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV19	clust_0680
+GV20|SEQ00905	VBIGarVag188338_0905	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190655	1107411	1109750	-	2340	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV20	clust_0680
+GV21|SEQ00514	VBIGarVag274454_0515	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967701	73163	75502	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV21	clust_0680
+GV22|SEQ00006	VBIGarVag276801_0006	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969386	6687	9026	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV22	clust_0680
+GV23|SEQ00797	VBIGarVag276017_0797	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973991	8346	10685	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV23	clust_0680
+GV24|SEQ00302	VBIGarVag268944_0303	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975722	33621	35960	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV24	clust_0680
+GV25|SEQ00683	VBIGarVag270495_0683	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979330	13243	15582	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV25	clust_0680
+GV26|SEQ00406	VBIGarVag272749_0406	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981596	18016	20355	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV26	clust_0680
+GV27|SEQ00660	VBIGarVag276930_0660	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985095	19032	21371	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV27	clust_0680
+GV28|SEQ00144	VBIGarVag271349_0144	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986947	24542	26881	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV28	clust_0680
+GV29|SEQ00339	VBIGarVag265473_0339	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990067	18722	21061	-	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV29	clust_0680
+GV30|SEQ00344	VBIGarVag267667_0345	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992750	6700	9039	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV30	clust_0680
+GV31|SEQ00597	VBIGarVag264983_0597	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996275	8329	10668	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV31	clust_0680
+GV32|SEQ00226	VBIGarVag277040_0226	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998298	40792	43131	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV32	clust_0680
+GV33|SEQ00287	VBIGarVag265557_0287	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001276	28932	31283	-	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV33	clust_0680
+GV34|SEQ00789	VBIGarVag270440_0789	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005208	54958	57309	+	2352		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV34	clust_0680
+GV35|SEQ00365	VBIGarVag272169_0365	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007033	20056	22395	+	2340		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	GV35	clust_0680
+ADO1|SEQ01704	VBIBifAdo136061_1704	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189779	188160	190481	-	2322		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	ADO1	clust_0680
+ANI1|SEQ01078	VBIBifAni240121_1078	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847143	1250634	1252967	-	2334		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	ANI1	clust_0680
+ANI2|SEQ01078	VBIBifAni235968_1078	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850496	1250638	1252971	-	2334		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	ANI2	clust_0680
+ANI3|SEQ01082	VBIBifAni108068_1082	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764509	1250639	1252972	-	2334		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	ANI3	clust_0680
+BIF1|SEQ01211	VBIBifBif87902_1211	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884996	1450079	1452409	-	2331	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BIF1	clust_0680
+BRE1|SEQ01121	VBIBifBre340958_1121	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604248	1308790	1311114	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE1	clust_0680
+BRE2|SEQ01209	VBIBifBre337368_1209	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608399	1383262	1385586	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE2	clust_0680
+BRE3|SEQ00702	VBIBifBre167886_0702	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193089	856852	859176	+	2325	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE3	clust_0680
+BRE4|SEQ01154	VBIBifBre327712_1154	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612430	1335006	1337330	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE4	clust_0680
+BRE5|SEQ01274	VBIBifBre336369_1275	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616726	1411956	1414280	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE5	clust_0680
+BRE6|SEQ01838	VBIBifBre268992_1838	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177656987	5975	8299	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE6	clust_0680
+BRE7|SEQ01161	VBIBifBre340732_1161	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620805	1332565	1334889	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE7	clust_0680
+BRE8|SEQ01189	VBIBifBre176493_1189	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624971	1382795	1385119	-	2325	relA1	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE8	clust_0680
+BRE9|SEQ01245	VBIBifBre30019_1245	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446613	1437933	1440257	-	2325	relA1	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	BRE9	clust_0680
+INF1|SEQ01235	VBIBifLon182273_1235	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886473	1382379	1384703	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	INF1	clust_0680
+LON1|SEQ00297	VBIBifLon107831_0297	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117631	359564	361888	+	2325	relA	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	LON1	clust_0680
+LON2|SEQ00342	VBIBifLon171405_0343	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580187	402963	405287	+	2325	spoT	GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	LON2	clust_0680
+LON3|SEQ00159	VBIBifLon156230_0159	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767246	974975	977299	+	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	LON3	clust_0680
+LON4|SEQ01209	VBIBifLon48544_1209	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890759	1356870	1359194	-	2325		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	LON4	clust_0680
+THE1|SEQ00745	VBIBifThe274299_0745	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734671	941314	943605	+	2292		GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	THE1	clust_0680

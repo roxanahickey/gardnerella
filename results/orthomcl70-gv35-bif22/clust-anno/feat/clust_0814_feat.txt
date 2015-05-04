@@ -1,0 +1,45 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00071	VBIBifAdo136061_0071	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186334	79847	80623	-	777		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	ADO1	clust_0814
+BRE1|SEQ01622	VBIBifBre340958_1623	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605284	1895553	1896440	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE1	clust_0814
+BRE2|SEQ01730	VBIBifBre337368_1730	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609476	1998088	1998975	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE2	clust_0814
+BRE3|SEQ01683	VBIBifBre167886_1683	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195132	1955332	1956219	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE3	clust_0814
+BRE4|SEQ01664	VBIBifBre327712_1664	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613485	1930240	1931127	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE4	clust_0814
+BRE5|SEQ01786	VBIBifBre336369_1787	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617782	2000970	2001857	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE5	clust_0814
+BRE6|SEQ01405	VBIBifBre268992_1405	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656060	14679	15566	+	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE6	clust_0814
+BRE7|SEQ01711	VBIBifBre340732_1711	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621936	1966775	1967662	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE7	clust_0814
+BRE8|SEQ01668	VBIBifBre176493_1668	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625962	1940157	1941044	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE8	clust_0814
+BRE9|SEQ01776	VBIBifBre30019_1776	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447706	2044212	2045099	-	888		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	BRE9	clust_0814
+DEN1|SEQ01753	VBIBifDen165269_1754	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460663	1065627	1066505	+	879		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	DEN1	clust_0814
+DEN2|SEQ00446	VBIBifDen39005_0446	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109218	75784	76662	-	879		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	DEN2	clust_0814
+GV01|SEQ00734	VBIGarVag247323_0734	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495630	15225	16046	+	822		sugar binding-protein dependent transporter system permease	GV01	clust_0814
+GV02|SEQ01011	VBIGarVag242669_1011	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498877	15476	16297	+	822		sugar binding-protein dependent transporter system permease	GV02	clust_0814
+GV03|SEQ00293	VBIGarVag247424_0293	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499969	250513	251199	+	687		sugar binding-protein dependent transporter system permease	GV03	clust_0814
+GV04|SEQ01183	VBIGarVag246433_1183	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482295	15245	16066	+	822		sugar binding-protein dependent transporter system permease	GV04	clust_0814
+GV05|SEQ00395	VBIGarVag174900_0395	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546515	248856	249698	+	843		sugar binding-protein dependent transporter system permease	GV05	clust_0814
+GV06|SEQ00515	VBIGarVag244004_0515	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489789	25462	26283	-	822		sugar binding-protein dependent transporter system permease	GV06	clust_0814
+GV07|SEQ01147	VBIGarVag249177_1147	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493995	48607	49449	-	843		sugar binding-protein dependent transporter system permease	GV07	clust_0814
+GV08|SEQ00565	VBIGarVag251521_0565	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475545	11696	12517	+	822		sugar binding-protein dependent transporter system permease	GV08	clust_0814
+GV09|SEQ01012	VBIGarVag169280_1012	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261245	15257	16078	+	822		sugar binding-protein dependent transporter system permease	GV09	clust_0814
+GV10|SEQ01159	VBIGarVag136958_1159	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148416	1570420	1571241	-	822		sugar binding-protein dependent transporter system permease	GV10	clust_0814
+GV11|SEQ00031	VBIGarVag171052_0031	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548324	41865	42686	-	822		sugar binding-protein dependent transporter system permease	GV11	clust_0814
+GV12|SEQ00064	VBIGarVag144721_0064	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852778	82382	83203	-	822		sugar binding-protein dependent transporter system permease	GV12	clust_0814
+GV13|SEQ01201	VBIGarVag244533_1201	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488454	13694	14515	+	822		sugar binding-protein dependent transporter system permease	GV13	clust_0814
+GV14|SEQ00159	VBIGarVag244375_0159	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502152	153214	154056	-	843		sugar binding-protein dependent transporter system permease	GV14	clust_0814
+GV16|SEQ00018	VBIGarVag246379_0018	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477140	15363	16184	+	822		sugar binding-protein dependent transporter system permease	GV16	clust_0814
+GV17|SEQ00414	VBIGarVag146634_0414	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850861	406578	407177	-	600		sugar binding-protein dependent transporter system permease	GV17	clust_0814
+GV18|SEQ00756	VBIGarVag4823_0756	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070302	2114	2935	+	822		sugar binding-protein dependent transporter system permease	GV18	clust_0814
+GV19|SEQ00216	VBIGarVag39333_0216	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627285	256211	257032	+	822		sugar binding-protein dependent transporter system permease	GV19	clust_0814
+GV20|SEQ00097	VBIGarVag188338_0097	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188978	118670	119491	+	822		sugar binding-protein dependent transporter system permease	GV20	clust_0814
+GV21|SEQ00635	VBIGarVag274454_0636	Gardnerella vaginalis JCP7275	ATJS01000039	PATRIC	CDS	183967964	8122	8943	+	822		sugar binding-protein dependent transporter system permease	GV21	clust_0814
+GV22|SEQ00593	VBIGarVag276801_0594	Gardnerella vaginalis JCP7276	ATJR01000018	PATRIC	CDS	183970622	15118	15939	+	822		sugar binding-protein dependent transporter system permease	GV22	clust_0814
+GV23|SEQ00537	VBIGarVag276017_0537	Gardnerella vaginalis JCP7659	ATJQ01000041	PATRIC	CDS	183973431	2913	3734	-	822		sugar binding-protein dependent transporter system permease	GV23	clust_0814
+GV24|SEQ00191	VBIGarVag268944_0192	Gardnerella vaginalis JCP7672	ATJP01000008	PATRIC	CDS	183975487	9760	10581	+	822		sugar binding-protein dependent transporter system permease	GV24	clust_0814
+GV25|SEQ00480	VBIGarVag270495_0480	Gardnerella vaginalis JCP7719	ATJO01000039	PATRIC	CDS	183978892	14972	15793	+	822		sugar binding-protein dependent transporter system permease	GV25	clust_0814
+GV26|SEQ01297	VBIGarVag272749_1297	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983576	24309	25130	-	822		sugar binding-protein dependent transporter system permease	GV26	clust_0814
+GV27|SEQ00852	VBIGarVag276930_0852	Gardnerella vaginalis JCP8017B	ATJM01000042	PATRIC	CDS	183985502	14989	15810	+	822		sugar binding-protein dependent transporter system permease	GV27	clust_0814
+GV29|SEQ00665	VBIGarVag265473_0665	Gardnerella vaginalis JCP8070	ATJK01000041	PATRIC	CDS	183990779	11787	12608	+	822		sugar binding-protein dependent transporter system permease	GV29	clust_0814
+GV30|SEQ00161	VBIGarVag267667_0161	Gardnerella vaginalis JCP8108	ATJJ01000004	PATRIC	CDS	183992367	22225	23046	-	822		sugar binding-protein dependent transporter system permease	GV30	clust_0814
+GV33|SEQ00684	VBIGarVag265557_0684	Gardnerella vaginalis JCP8481A	ATJG01000064	PATRIC	CDS	184002131	8590	9432	-	843		sugar binding-protein dependent transporter system permease	GV33	clust_0814
+GV34|SEQ00363	VBIGarVag270440_0363	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004283	8588	9430	-	843		sugar binding-protein dependent transporter system permease	GV34	clust_0814
+LON1|SEQ01490	VBIBifLon107831_1491	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120110	1804621	1805547	+	927		ABC-type sugar transport system, permease component	LON1	clust_0814
+LON3|SEQ01816	VBIBifLon156230_1819	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766821	697071	697997	-	927		ABC-type sugar transport system, permease component	LON3	clust_0814

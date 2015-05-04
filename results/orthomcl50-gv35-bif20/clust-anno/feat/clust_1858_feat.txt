@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00043	VBIGarVag247424_0043	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499449	61454	62587	-	1134		putative LicD-family phosphotransferase	GV03	clust_1858
+GV05|SEQ01109	VBIGarVag174900_1109	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548006	67545	68678	+	1134		putative LicD-family phosphotransferase	GV05	clust_1858
+GV07|SEQ00375	VBIGarVag249177_0375	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492373	36532	37665	-	1134		putative LicD-family phosphotransferase	GV07	clust_1858
+GV10|SEQ01044	VBIGarVag136958_1044	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148176	1391757	1392842	-	1086		Lipopolysaccharide cholinephosphotransferase LicD1 (EC 2.7.8.-)	GV10	clust_1858
+GV12|SEQ00451	VBIGarVag144721_0451	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853581	500622	501707	-	1086		Lipopolysaccharide cholinephosphotransferase LicD1 (EC 2.7.8.-)	GV12	clust_1858
+GV14|SEQ00677	VBIGarVag244375_0677	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503234	7831	8964	+	1134		putative LicD-family phosphotransferase	GV14	clust_1858
+GV15|SEQ01032	VBIGarVag249709_1032	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485646	248286	249428	+	1143		hypothetical protein	GV15	clust_1858
+GV17|SEQ01199	VBIGarVag146634_1199	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852499	185828	186958	+	1131		hypothetical protein	GV17	clust_1858
+GV33|SEQ01248	VBIGarVag265557_1248	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003442	9559	10668	-	1110		"Lipopolysaccharide cholinephosphotransferase LicD1 "	GV33	clust_1858
+GV34|SEQ00102	VBIGarVag270440_0102	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003697	9589	10698	-	1110		"Lipopolysaccharide cholinephosphotransferase LicD1 "	GV34	clust_1858
+LON1|SEQ01509	VBIBifLon107831_1510	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120148	1829623	1830774	+	1152		Lipopolysaccharide cholinephosphotransferase LicD1 (EC 2.7.8.-)	LON1	clust_1858

@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00496	VBIBifAdo136061_0496	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187259	342079	342993	+	915		ABC transporter permease protein	ADO1	clust_1485
+BRE1|SEQ00280	VBIBifBre340958_0280	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602502	355028	355966	+	939		ABC transporter permease protein	BRE1	clust_1485
+BRE2|SEQ00343	VBIBifBre337368_0343	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606602	411330	412268	+	939		ABC transporter permease protein	BRE2	clust_1485
+BRE3|SEQ00332	VBIBifBre167886_0332	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192329	415630	416568	+	939		IRON(III)-TRANSPORT SYSTEM PERMEASE PROTEIN SFUB	BRE3	clust_1485
+BRE4|SEQ00297	VBIBifBre327712_0297	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610651	377361	378299	+	939		ABC transporter permease protein	BRE4	clust_1485
+BRE5|SEQ00320	VBIBifBre336369_0321	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614748	379438	380376	+	939		ABC transporter permease protein	BRE5	clust_1485
+BRE6|SEQ00530	VBIBifBre268992_0530	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS	177654199	6393	7331	-	939		ABC transporter permease protein	BRE6	clust_1485
+BRE7|SEQ00309	VBIBifBre340732_0309	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619034	388569	389507	+	939		ABC transporter permease protein	BRE7	clust_1485
+BRE8|SEQ00335	VBIBifBre176493_0335	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623199	420067	421005	+	939		ABC transporter permease protein	BRE8	clust_1485
+BRE9|SEQ00383	VBIBifBre30019_0383	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444820	462088	463026	+	939		COG4132: ABC-type uncharacterized transport system, permease component	BRE9	clust_1485
+DEN1|SEQ00418	VBIBifDen165269_0419	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462123	1798943	1799857	-	915		ABC transporter permease protein	DEN1	clust_1485
+DEN2|SEQ02100	VBIBifDen39005_2102	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112640	5757	6671	+	915		ABC transporter permease protein	DEN2	clust_1485
+INF1|SEQ00261	VBIBifLon182273_0261	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884445	329357	330307	+	951		ABC transporter permease protein	INF1	clust_1485
+LON1|SEQ01079	VBIBifLon107831_1080	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119247	1273938	1274888	-	951		ABC transporter permease protein	LON1	clust_1485
+LON2|SEQ01137	VBIBifLon171405_1139	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581833	1302819	1303769	-	951	potB	ABC transporter permease protein	LON2	clust_1485
+LON3|SEQ00963	VBIBifLon156230_0964	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768913	1898132	1899082	-	951		ABC transporter permease protein	LON3	clust_1485
+LON4|SEQ00280	VBIBifLon48544_0280	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888786	346705	347655	+	951		ABC transporter permease protein	LON4	clust_1485
+THE1|SEQ00878	VBIBifThe274299_0878	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734943	1092611	1093570	-	960		COG4132: ABC-type uncharacterized transport system, permease component	THE1	clust_1485

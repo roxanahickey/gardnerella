@@ -1,0 +1,52 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00340	VBIGarVag247323_0340	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494819	38261	39559	+	1299		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV01	clust_0734
+GV02|SEQ00715	VBIGarVag242669_0715	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498254	45605	46870	-	1266		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV02	clust_0734
+GV04|SEQ00878	VBIGarVag246433_0878	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481662	216893	218140	+	1248		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV04	clust_0734
+GV06|SEQ00694	VBIGarVag244004_0694	Gardnerella vaginalis 1400E	ADER01000019	PATRIC	CDS	85490173	9441	10751	-	1311		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV06	clust_0734
+GV08|SEQ00657	VBIGarVag251521_0657	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475734	3518	4780	-	1263		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV08	clust_0734
+GV09|SEQ00735	VBIGarVag169280_0735	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260671	85831	87078	+	1248		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV09	clust_0734
+GV10|SEQ00755	VBIGarVag136958_0755	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147580	977173	978366	-	1194		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV10	clust_0734
+GV11|SEQ00936	VBIGarVag171052_0936	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550245	14275	15573	-	1299		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV11	clust_0734
+GV12|SEQ00197	VBIGarVag144721_0197	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853055	144503	145696	-	1194		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV12	clust_0734
+GV13|SEQ01126	VBIGarVag244533_1126	Gardnerella vaginalis 55152	ADEQ01000017	PATRIC	CDS	85488284	3236	4492	-	1257		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV13	clust_0734
+GV15|SEQ00107	VBIGarVag249709_0107	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483702	20585	21778	-	1194		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV15	clust_0734
+GV16|SEQ00673	VBIGarVag246379_0673	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478501	731870	733117	+	1248		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV16	clust_0734
+GV17|SEQ00796	VBIGarVag146634_0796	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851666	122660	123853	+	1194		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV17	clust_0734
+GV18|SEQ00548	VBIGarVag4823_0548	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000108	PATRIC	CDS	42069847	6177	7424	-	1248		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV18	clust_0734
+GV19|SEQ00950	VBIGarVag39333_0951	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628805	1183020	1184267	-	1248	phoH	Phosphate starvation-inducible protein PhoH, predicted ATPase	GV19	clust_0734
+GV20|SEQ00604	VBIGarVag188338_0604	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190029	717172	718419	+	1248		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV20	clust_0734
+GV21|SEQ00874	VBIGarVag274454_0875	Gardnerella vaginalis JCP7275	ATJS01000064	PATRIC	CDS	183968495	1400	2662	-	1263		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV21	clust_0734
+GV22|SEQ01163	VBIGarVag276801_1164	Gardnerella vaginalis JCP7276	ATJR01000125	PATRIC	CDS	183971908	7669	8916	+	1248		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV22	clust_0734
+GV23|SEQ00770	VBIGarVag276017_0770	Gardnerella vaginalis JCP7659	ATJQ01000057	PATRIC	CDS	183973926	5219	6481	+	1263		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV23	clust_0734
+GV24|SEQ00015	VBIGarVag268944_0015	Gardnerella vaginalis JCP7672	ATJP01000002	PATRIC	CDS	183975117	1405	2697	-	1293		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV24	clust_0734
+GV25|SEQ00628	VBIGarVag270495_0628	Gardnerella vaginalis JCP7719	ATJO01000056	PATRIC	CDS	183979213	25828	27126	+	1299		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV25	clust_0734
+GV26|SEQ01341	VBIGarVag272749_1341	Gardnerella vaginalis JCP8017A	ATJN01000186	PATRIC	CDS	183983694	5161	6459	+	1299		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV26	clust_0734
+GV27|SEQ00914	VBIGarVag276930_0914	Gardnerella vaginalis JCP8017B	ATJM01000052	PATRIC	CDS	183985638	1403	2701	-	1299		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV27	clust_0734
+GV28|SEQ01177	VBIGarVag271349_1177	Gardnerella vaginalis JCP8066	ATJL01000176	PATRIC	CDS	183989260	8011	9348	+	1338		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV28	clust_0734
+GV29|SEQ01099	VBIGarVag265473_1099	Gardnerella vaginalis JCP8070	ATJK01000117	PATRIC	CDS	183991747	6680	7990	-	1311		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV29	clust_0734
+GV30|SEQ00944	VBIGarVag267667_0946	Gardnerella vaginalis JCP8108	ATJJ01000085	PATRIC	CDS	183994077	3232	4560	-	1329		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV30	clust_0734
+GV31|SEQ00750	VBIGarVag264983_0750	Gardnerella vaginalis JCP8151A	ATJI01000039	PATRIC	CDS	183996605	30006	31301	+	1296		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV31	clust_0734
+GV32|SEQ00743	VBIGarVag277040_0743	Gardnerella vaginalis JCP8151B	ATJH01000049	PATRIC	CDS	183999413	17348	18652	+	1305		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV32	clust_0734
+GV33|SEQ00887	VBIGarVag265557_0887	Gardnerella vaginalis JCP8481A	ATJG01000097	PATRIC	CDS	184002593	1517	2710	+	1194		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV33	clust_0734
+GV34|SEQ00738	VBIGarVag270440_0738	Gardnerella vaginalis JCP8481B	ATJF01000075	PATRIC	CDS	184005099	3523	4716	-	1194		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV34	clust_0734
+GV35|SEQ00615	VBIGarVag272169_0615	Gardnerella vaginalis JCP8522	ATJE01000044	PATRIC	CDS	184007582	1402	2706	-	1305		Phosphate starvation-inducible protein PhoH, predicted ATPase	GV35	clust_0734
+ADO1|SEQ01242	VBIBifAdo136061_1242	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188823	167742	168875	-	1134		Phosphate starvation-inducible protein PhoH, predicted ATPase	ADO1	clust_0734
+ANI1|SEQ00898	VBIBifAni240121_0898	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846768	1044807	1045970	-	1164	phoH	Phosphate starvation-inducible protein PhoH, predicted ATPase	ANI1	clust_0734
+ANI2|SEQ00897	VBIBifAni235968_0897	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850119	1044810	1045973	-	1164		Phosphate starvation-inducible protein PhoH, predicted ATPase	ANI2	clust_0734
+ANI3|SEQ00900	VBIBifAni108068_0900	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764133	1044811	1045974	-	1164		Phosphate starvation-inducible protein PhoH, predicted ATPase	ANI3	clust_0734
+BIF1|SEQ00815	VBIBifBif87902_0815	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884179	996019	997104	+	1086	phoH	Phosphate starvation-inducible protein PhoH, predicted ATPase	BIF1	clust_0734
+BRE1|SEQ00874	VBIBifBre340958_0874	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603734	1039313	1040497	+	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE1	clust_0734
+BRE2|SEQ00956	VBIBifBre337368_0956	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607870	1121151	1122335	+	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE2	clust_0734
+BRE3|SEQ00922	VBIBifBre167886_0922	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193554	1091201	1092385	-	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE3	clust_0734
+BRE4|SEQ00906	VBIBifBre327712_0906	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611913	1077060	1078244	+	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE4	clust_0734
+BRE5|SEQ00925	VBIBifBre336369_0926	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615999	1079515	1080699	+	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE5	clust_0734
+BRE6|SEQ00756	VBIBifBre268992_0756	Bifidobacterium breve JCP7499	AWSX01000039	PATRIC	CDS	177654680	17786	18970	-	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE6	clust_0734
+BRE7|SEQ00906	VBIBifBre340732_0906	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620271	1069042	1070226	+	1185		Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE7	clust_0734
+BRE8|SEQ00936	VBIBifBre176493_0936	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624440	1115419	1116603	+	1185	phoH	Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE8	clust_0734
+BRE9|SEQ00989	VBIBifBre30019_0989	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446076	1168621	1169805	+	1185	phoH	Phosphate starvation-inducible protein PhoH, predicted ATPase	BRE9	clust_0734
+INF1|SEQ00818	VBIBifLon182273_0818	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885607	992488	993663	+	1176		Phosphate starvation-inducible protein PhoH, predicted ATPase	INF1	clust_0734
+LON1|SEQ00555	VBIBifLon107831_0556	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118165	646290	647465	-	1176		Phosphate starvation-inducible protein PhoH, predicted ATPase	LON1	clust_0734
+LON2|SEQ00615	VBIBifLon171405_0616	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580754	681458	682633	-	1176	phoH	Phosphate starvation-inducible protein PhoH, predicted ATPase	LON2	clust_0734
+LON3|SEQ00422	VBIBifLon156230_0422	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767794	1256749	1257924	-	1176		Phosphate starvation-inducible protein PhoH, predicted ATPase	LON3	clust_0734
+LON4|SEQ00790	VBIBifLon48544_0790	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889853	949834	951009	+	1176		Phosphate starvation-inducible protein PhoH, predicted ATPase	LON4	clust_0734
+THE1|SEQ00972	VBIBifThe274299_0972	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735141	1220248	1221489	+	1242		Phosphate starvation-inducible protein PhoH, predicted ATPase	THE1	clust_0734

@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ00703	VBIBifLon182273_0703	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885370	861345	861881	-	537		Mobile element protein	INF1	clust_3266
+LON2|SEQ00730	VBIBifLon171405_0731	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580990	811988	812302	+	315		Mobile element protein	LON2	clust_3266
+LON4|SEQ00681	VBIBifLon48544_0681	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889626	825782	826648	-	867		Transposase IS66	LON4	clust_3266

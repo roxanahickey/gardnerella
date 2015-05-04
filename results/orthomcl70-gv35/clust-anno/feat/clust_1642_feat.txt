@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV09|SEQ00363	VBIGarVag169280_0363	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259893	63739	63951	-	213		hypothetical protein	GV09	clust_1642
+GV26|SEQ00070	VBIGarVag272749_0070	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980875	15407	15718	-	312		hypothetical protein	GV26	clust_1642
+GV27|SEQ00074	VBIGarVag276930_0074	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983859	46468	46779	+	312		hypothetical protein	GV27	clust_1642
+GV31|SEQ00497	VBIGarVag264983_0497	Gardnerella vaginalis JCP8151A	ATJI01000019	PATRIC	CDS	183996063	9577	9888	+	312		Phage-associated HNH homing endonuclease / Phage intron	GV31	clust_1642
+GV32|SEQ00766	VBIGarVag277040_0766	Gardnerella vaginalis JCP8151B	ATJH01000050	PATRIC	CDS	183999460	9569	9880	+	312		hypothetical protein	GV32	clust_1642

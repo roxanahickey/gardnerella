@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00605	VBIBifAdo136061_0605	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187486	472599	473219	-	621		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	ADO1	clust_1346
+ANI1|SEQ00363	VBIBifAni240121_0363	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845642	442139	442876	-	738		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	ANI1	clust_1346
+ANI2|SEQ00363	VBIBifAni235968_0363	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848997	442141	442878	-	738		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	ANI2	clust_1346
+ANI3|SEQ00364	VBIBifAni108068_0364	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763010	442142	442879	-	738		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	ANI3	clust_1346
+BIF1|SEQ01549	VBIBifBif87902_1549	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885712	1858550	1859203	+	654		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BIF1	clust_1346
+BRE1|SEQ01641	VBIBifBre340958_1642	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605330	1913056	1913430	+	375		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE1	clust_1346
+BRE2|SEQ01746	VBIBifBre337368_1746	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609516	2013731	2013982	+	252		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE2	clust_1346
+BRE3|SEQ01699	VBIBifBre167886_1699	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195172	1970854	1971228	+	375		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE3	clust_1346
+BRE4|SEQ01680	VBIBifBre327712_1680	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613525	1945891	1946142	+	252		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE4	clust_1346
+BRE5|SEQ01802	VBIBifBre336369_1803	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617822	2016494	2016868	+	375		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE5	clust_1346
+BRE6|SEQ01389	VBIBifBre268992_1389	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177656019	42898	43149	-	252		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE6	clust_1346
+BRE7|SEQ01727	VBIBifBre340732_1727	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621976	1982065	1982757	+	693		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE7	clust_1346
+BRE8|SEQ01684	VBIBifBre176493_1684	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626002	1955801	1956052	+	252		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE8	clust_1346
+BRE9|SEQ01792	VBIBifBre30019_1792	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447747	2059857	2060009	+	153		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	BRE9	clust_1346
+INF1|SEQ01816	VBIBifLon182273_1816	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887678	2061814	2062527	+	714		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	INF1	clust_1346
+LON1|SEQ01609	VBIBifLon107831_1610	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120358	1965738	1966487	-	750		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	LON1	clust_1346
+LON2|SEQ01639	VBIBifLon171405_1642	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582883	1983008	1983757	-	750		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	LON2	clust_1346
+LON3|SEQ01680	VBIBifLon156230_1683	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766542	521822	522571	+	750		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	LON3	clust_1346
+LON4|SEQ01765	VBIBifLon48544_1765	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891921	2022326	2023075	+	750		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	LON4	clust_1346
+THE1|SEQ01468	VBIBifThe274299_1468	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736184	1809233	1809862	+	630		"5-formyltetrahydrofolate cyclo-ligase "	THE1	clust_1346

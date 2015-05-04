@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01113	VBIBifAdo136061_1113	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188551	19685	23143	+	3459		FIG007317: hypothetical protein	ADO1	clust_1925
+ANI1|SEQ00475	VBIBifAni240121_0475	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845884	559415	562912	+	3498		FIG007317: hypothetical protein	ANI1	clust_1925
+ANI2|SEQ00475	VBIBifAni235968_0475	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849239	559417	562914	+	3498		FIG007317: hypothetical protein	ANI2	clust_1925
+ANI3|SEQ00477	VBIBifAni108068_0477	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763252	559418	562915	+	3498		FIG007317: hypothetical protein	ANI3	clust_1925
+BIF1|SEQ01005	VBIBifBif87902_1005	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884574	1223527	1227123	-	3597		FIG007317: hypothetical protein	BIF1	clust_1925
+INF1|SEQ01134	VBIBifLon182273_1134	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886264	1272934	1276482	-	3549		FIG007317: hypothetical protein	INF1	clust_1925
+LON1|SEQ00398	VBIBifLon107831_0398	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117839	470947	474495	+	3549		FIG007317: hypothetical protein	LON1	clust_1925
+LON2|SEQ00404	VBIBifLon171405_0405	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580316	468208	471756	+	3549		FIG007317: hypothetical protein	LON2	clust_1925
+LON3|SEQ00261	VBIBifLon156230_0261	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767457	1083531	1087079	+	3549		FIG007317: hypothetical protein	LON3	clust_1925
+LON4|SEQ01157	VBIBifLon48544_1157	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890648	1300607	1304155	-	3549		FIG007317: hypothetical protein	LON4	clust_1925
+THE1|SEQ01636	VBIBifThe274299_1636	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736537	2027586	2031194	+	3609		FIG007317: hypothetical protein	THE1	clust_1925

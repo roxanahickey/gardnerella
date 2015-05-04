@@ -1,0 +1,28 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01529	27189418	VBIBifAdo136061_1529	SEQ01529	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+ADO1|SEQ01534	27189429	VBIBifAdo136061_1534	SEQ01534	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+ADO1|SEQ01554	27189478	VBIBifAdo136061_1554	SEQ01554	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+ADO1|SEQ01905	27190183	VBIBifAdo136061_1905	SEQ01905	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+ANI1|SEQ00684	86846317	VBIBifAni240121_0684	SEQ00684	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0999
+ANI2|SEQ00684	86849670	VBIBifAni235968_0684	SEQ00684	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0999
+ANI3|SEQ00686	42763682	VBIBifAni108068_0686	SEQ00686	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_0999
+BRE1|SEQ00296	268602534	VBIBifBre340958_0296	SEQ00296	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE1|SEQ00391	268602733	VBIBifBre340958_0391	SEQ00391	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE1|SEQ00392	268602735	VBIBifBre340958_0392	SEQ00392	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE2|SEQ00358	268606632	VBIBifBre337368_0358	SEQ00358	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE2|SEQ00986	268607931	VBIBifBre337368_0986	SEQ00986	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE3|SEQ00347	54192359	VBIBifBre167886_0347	SEQ00347	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE3|SEQ00452	54192579	VBIBifBre167886_0452	SEQ00452	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE3|SEQ00453	54192581	VBIBifBre167886_0453	SEQ00453	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE4|SEQ00305	268610668	VBIBifBre327712_0305	SEQ00305	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE5|SEQ01045	268616247	VBIBifBre336369_1046	SEQ01045	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE7|SEQ00324	268619064	VBIBifBre340732_0324	SEQ00324	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+BRE8|SEQ00350	268623229	VBIBifBre176493_0350	SEQ00350	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+INF1|SEQ02042	46888163	VBIBifLon182273_2042	SEQ02042	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		transposase, mutator type	FIG01347931	figfam	clust_0999
+LON1|SEQ00382	21117807	VBIBifLon107831_0382	SEQ00382	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+LON1|SEQ00535	21118125	VBIBifLon107831_0536	SEQ00535	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+LON1|SEQ01209	21119519	VBIBifLon107831_1210	SEQ01209	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+LON1|SEQ01412	21119939	VBIBifLon107831_1413	SEQ01412	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+LON1|SEQ01511	21120152	VBIBifLon107831_1512	SEQ01511	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+LON3|SEQ01384	42769377	VBIBifLon156230_1387	SEQ01384	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Mobile element protein	FIG01306568	figfam	clust_0999
+LON3|SEQ01501	42769621	VBIBifLon156230_1504	SEQ01501	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		transposase, mutator type	FIG01347931	figfam	clust_0999

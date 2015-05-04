@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00999	VBIBifBre340958_0999	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603998	1183235	1183564	-	330		hypothetical protein	BRE1	clust_1833
+BRE2|SEQ01093	VBIBifBre337368_1093	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608159	1277076	1277405	-	330		hypothetical protein	BRE2	clust_1833
+BRE3|SEQ00788	VBIBifBre167886_0788	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193271	942342	942671	+	330		hypothetical protein	BRE3	clust_1833
+BRE4|SEQ00956	VBIBifBre327712_0956	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612016	1119887	1120216	+	330		hypothetical protein	BRE4	clust_1833
+BRE6|SEQ01748	VBIBifBre268992_1748	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656798	44316	44768	-	453		hypothetical protein	BRE6	clust_1833
+BRE7|SEQ01043	VBIBifBre340732_1043	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620561	1222755	1223084	-	330		hypothetical protein	BRE7	clust_1833
+BRE8|SEQ01065	VBIBifBre176493_1065	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624712	1260711	1261040	-	330		hypothetical protein	BRE8	clust_1833
+BRE9|SEQ01130	VBIBifBre30019_1130	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446374	1323923	1324252	-	330		hypothetical protein	BRE9	clust_1833
+INF1|SEQ01010	VBIBifLon182273_1010	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886003	1161282	1161611	+	330		hypothetical protein	INF1	clust_1833
+LON1|SEQ00466	VBIBifLon107831_0466	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117987	548486	548668	-	183		hypothetical protein	LON1	clust_1833
+LON3|SEQ00330	VBIBifLon156230_0330	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767609	1160913	1161095	-	183		hypothetical protein	LON3	clust_1833
+LON4|SEQ00888	VBIBifLon48544_0888	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890052	1053177	1053506	+	330		hypothetical protein	LON4	clust_1833

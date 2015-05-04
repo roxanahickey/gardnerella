@@ -1,0 +1,7 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ01404	86847815	VBIBifAni240121_1404	SEQ01404	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		putative sugar transport integral membrane protein	FIG01634364	figfam	clust_2568
+ANI2|SEQ01403	86851166	VBIBifAni235968_1403	SEQ01403	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		putative sugar transport integral membrane protein	FIG01634364	figfam	clust_2568
+ANI3|SEQ01413	42765186	VBIBifAni108068_1413	SEQ01413	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		putative sugar transport integral membrane protein	FIG01634364	figfam	clust_2568
+BRE4|SEQ00122	268610284	VBIBifBre327712_0122	SEQ00122	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		putative sugar transport integral membrane protein	FIG01634364	figfam	clust_2568
+BRE8|SEQ00122	268622755	VBIBifBre176493_0122	SEQ00122	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS	cldG	putative sugar transport integral membrane protein	FIG01634364	figfam	clust_2568
+BRE9|SEQ00120	58444270	VBIBifBre30019_0120	SEQ00120	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		putative sugar transport integral membrane protein	FIG01634364	figfam	clust_2568

@@ -1,0 +1,52 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00586	VBIGarVag247323_0586	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495318	344975	345715	-	741		hypothetical protein	GV01	clust_0735
+GV02|SEQ00792	VBIGarVag242669_0792	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498426	1484	2224	+	741		hypothetical protein	GV02	clust_0735
+GV03|SEQ01021	VBIGarVag247424_1021	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501488	391432	391941	-	510		Membrane proteins related to metalloendopeptidases	GV03	clust_0735
+GV04|SEQ00677	VBIGarVag246433_0677	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481247	105525	106286	-	762		hypothetical protein	GV04	clust_0735
+GV05|SEQ01064	VBIGarVag174900_1064	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547909	799603	800217	-	615		Membrane proteins related to metalloendopeptidases	GV05	clust_0735
+GV06|SEQ00235	VBIGarVag244004_0235	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489190	1605	2366	+	762		hypothetical protein	GV06	clust_0735
+GV07|SEQ00267	VBIGarVag249177_0267	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492151	58896	59405	+	510		Membrane proteins related to metalloendopeptidases	GV07	clust_0735
+GV08|SEQ00122	VBIGarVag251521_0122	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474611	145496	146257	-	762		hypothetical protein	GV08	clust_0735
+GV09|SEQ00951	VBIGarVag169280_0951	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261110	364891	365652	-	762		hypothetical protein	GV09	clust_0735
+GV10|SEQ00835	VBIGarVag136958_0835	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147742	1093855	1094472	-	618		Membrane proteins related to metalloendopeptidases	GV10	clust_0735
+GV11|SEQ00755	VBIGarVag171052_0755	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549863	32832	33593	-	762		hypothetical protein	GV11	clust_0735
+GV12|SEQ00281	VBIGarVag144721_0281	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853225	253439	254056	-	618		Membrane proteins related to metalloendopeptidases	GV12	clust_0735
+GV13|SEQ00933	VBIGarVag244533_0933	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487872	54514	55275	-	762		hypothetical protein	GV13	clust_0735
+GV14|SEQ01120	VBIGarVag244375_1120	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504151	216189	216698	-	510		Membrane proteins related to metalloendopeptidases	GV14	clust_0735
+GV15|SEQ00182	VBIGarVag249709_0182	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483855	124407	125024	-	618		Membrane proteins related to metalloendopeptidases	GV15	clust_0735
+GV16|SEQ00898	VBIGarVag246379_0898	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478959	1015038	1015799	-	762		hypothetical protein	GV16	clust_0735
+GV17|SEQ00721	VBIGarVag146634_0721	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851514	19019	19417	+	399		Membrane proteins related to metalloendopeptidases	GV17	clust_0735
+GV18|SEQ00500	VBIGarVag4823_0500	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000103	PATRIC	CDS	42069746	9225	9986	+	762		hypothetical protein	GV18	clust_0735
+GV19|SEQ00720	VBIGarVag39333_0721	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628338	899123	899884	+	762		hypothetical protein	GV19	clust_0735
+GV20|SEQ00821	VBIGarVag188338_0821	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190472	998177	998938	-	762		hypothetical protein	GV20	clust_0735
+GV21|SEQ00274	VBIGarVag274454_0274	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967196	51692	52453	-	762		hypothetical protein	GV21	clust_0735
+GV22|SEQ00093	VBIGarVag276801_0093	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969575	121119	121880	+	762		hypothetical protein	GV22	clust_0735
+GV23|SEQ00187	VBIGarVag276017_0187	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972678	1162	1902	+	741		hypothetical protein	GV23	clust_0735
+GV24|SEQ00979	VBIGarVag268944_0980	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977185	53768	54529	-	762		hypothetical protein	GV24	clust_0735
+GV25|SEQ00753	VBIGarVag270495_0753	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979477	64185	64925	+	741		hypothetical protein	GV25	clust_0735
+GV26|SEQ00996	VBIGarVag272749_0996	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982872	1160	1900	+	741		Membrane proteins related to metalloendopeptidases	GV26	clust_0735
+GV27|SEQ01119	VBIGarVag276930_1119	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986098	55982	56722	-	741		Membrane proteins related to metalloendopeptidases	GV27	clust_0735
+GV28|SEQ00284	VBIGarVag271349_0284	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987235	60106	60846	+	741		hypothetical protein	GV28	clust_0735
+GV29|SEQ00898	VBIGarVag265473_0898	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991289	57582	58322	+	741		hypothetical protein	GV29	clust_0735
+GV30|SEQ00248	VBIGarVag267667_0248	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992550	6247	7008	-	762		hypothetical protein	GV30	clust_0735
+GV31|SEQ00538	VBIGarVag264983_0538	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996146	50976	51716	-	741		hypothetical protein	GV31	clust_0735
+GV32|SEQ00296	VBIGarVag277040_0296	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998444	133674	134414	+	741		hypothetical protein	GV32	clust_0735
+GV33|SEQ00668	VBIGarVag265557_0668	Gardnerella vaginalis JCP8481A	ATJG01000063	PATRIC	CDS	184002094	1539	2222	+	684		Membrane proteins related to metalloendopeptidases	GV33	clust_0735
+GV34|SEQ00433	VBIGarVag270440_0433	Gardnerella vaginalis JCP8481B	ATJF01000032	PATRIC	CDS	184004433	1539	2222	+	684		Membrane proteins related to metalloendopeptidases	GV34	clust_0735
+GV35|SEQ00171	VBIGarVag272169_0171	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006625	70594	71334	+	741		hypothetical protein	GV35	clust_0735
+ANI1|SEQ00764	VBIBifAni240121_0764	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846487	896909	897163	+	255		Membrane proteins related to metalloendopeptidases	ANI1	clust_0735
+ANI3|SEQ00765	VBIBifAni108068_0765	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763850	896866	897168	+	303		Membrane proteins related to metalloendopeptidases	ANI3	clust_0735
+BRE1|SEQ01031	VBIBifBre340958_1031	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604062	1211299	1211520	-	222		Membrane proteins related to metalloendopeptidases	BRE1	clust_0735
+BRE2|SEQ01150	VBIBifBre337368_1150	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608276	1321421	1321642	-	222		Membrane proteins related to metalloendopeptidases	BRE2	clust_0735
+BRE3|SEQ00748	VBIBifBre167886_0748	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193188	909981	910202	+	222		narrowly conserved hypothetical protein in M23/M37 peptidase family	BRE3	clust_0735
+BRE4|SEQ01105	VBIBifBre327712_1105	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612327	1279731	1279952	-	222		Membrane proteins related to metalloendopeptidases	BRE4	clust_0735
+BRE5|SEQ01199	VBIBifBre336369_1200	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616571	1330910	1331131	-	222		Membrane proteins related to metalloendopeptidases	BRE5	clust_0735
+BRE6|SEQ01036	VBIBifBre268992_1036	Bifidobacterium breve JCP7499	AWSX01000055	PATRIC	CDS	177655279	671	892	+	222		Membrane proteins related to metalloendopeptidases	BRE6	clust_0735
+BRE7|SEQ01109	VBIBifBre340732_1109	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620696	1274547	1274768	-	222		Membrane proteins related to metalloendopeptidases	BRE7	clust_0735
+BRE8|SEQ01098	VBIBifBre176493_1098	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624780	1288518	1288739	-	222		Membrane proteins related to metalloendopeptidases	BRE8	clust_0735
+BRE9|SEQ01195	VBIBifBre30019_1195	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446508	1375769	1375990	-	222		narrowly conserved hypothetical protein in M23/M37 peptidase family	BRE9	clust_0735
+INF1|SEQ01161	VBIBifLon182273_1161	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886319	1303259	1303948	-	690		Membrane proteins related to metalloendopeptidases	INF1	clust_0735
+LON2|SEQ00377	VBIBifLon171405_0378	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580262	440622	441311	+	690		Membrane proteins related to metalloendopeptidases	LON2	clust_0735
+LON3|SEQ00234	VBIBifLon156230_0234	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767403	1055751	1056440	+	690		Membrane proteins related to metalloendopeptidases	LON3	clust_0735
+LON4|SEQ01184	VBIBifLon48544_1184	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890703	1330931	1331620	-	690		Membrane proteins related to metalloendopeptidases	LON4	clust_0735
+THE1|SEQ00997	VBIBifThe274299_0997	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735191	1253516	1253989	+	474		Membrane proteins related to metalloendopeptidases	THE1	clust_0735

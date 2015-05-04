@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00455	27187173	VBIBifAdo136061_0455	SEQ00455	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	FIG00017518	figfam	clust_2655
+BRE2|SEQ01507	268609008	VBIBifBre337368_1507	SEQ01507	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	FIG00017518	figfam	clust_2655
+BRE6|SEQ00927	177655042	VBIBifBre268992_0927	SEQ00927	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	FIG00017518	figfam	clust_2655
+LON1|SEQ01486	21120102	VBIBifLon107831_1487	SEQ01486	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	FIG00017518	figfam	clust_2655
+LON3|SEQ01820	42766829	VBIBifLon156230_1823	SEQ01820	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	FIG00017518	figfam	clust_2655

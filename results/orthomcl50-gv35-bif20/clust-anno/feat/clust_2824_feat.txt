@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00148	VBIBifAni240121_0148	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845197	173860	174597	+	738		Beta-mannosidase (EC 3.2.1.25)	ANI1	clust_2824
+ANI2|SEQ00148	VBIBifAni235968_0148	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848552	173860	174597	+	738		Beta-mannosidase (EC 3.2.1.25)	ANI2	clust_2824
+ANI3|SEQ00150	VBIBifAni108068_0150	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762568	173860	174597	+	738		Beta-mannosidase (EC 3.2.1.25)	ANI3	clust_2824
+BRE3|SEQ01232	VBIBifBre167886_1232	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194200	1437605	1440292	-	2688		Beta-mannosidase (EC 3.2.1.25)	BRE3	clust_2824
+BRE5|SEQ00598	VBIBifBre336369_0599	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615318	713781	716468	+	2688		Beta-mannosidase (EC 3.2.1.25)	BRE5	clust_2824

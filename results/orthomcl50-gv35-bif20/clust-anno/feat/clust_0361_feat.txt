@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00879	VBIGarVag247323_0879	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495927	100359	101012	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV01	clust_0361
+GV02|SEQ01180	VBIGarVag242669_1180	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499237	160762	161394	-	633		Hypothetical, related to broad specificity phosphatases COG0406	GV02	clust_0361
+GV03|SEQ00298	VBIGarVag247424_0298	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499980	254697	255425	+	729		Hypothetical, related to broad specificity phosphatases COG0406	GV03	clust_0361
+GV04|SEQ00058	VBIGarVag246433_0058	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479964	56778	57431	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV04	clust_0361
+GV05|SEQ00400	VBIGarVag174900_0400	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546525	253191	253895	+	705		Hypothetical, related to broad specificity phosphatases COG0406	GV05	clust_0361
+GV06|SEQ00606	VBIGarVag244004_0606	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489993	51658	52323	-	666		Hypothetical, related to broad specificity phosphatases COG0406	GV06	clust_0361
+GV07|SEQ01139	VBIGarVag249177_1139	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493979	39578	40306	-	729		Hypothetical, related to broad specificity phosphatases COG0406	GV07	clust_0361
+GV08|SEQ01167	VBIGarVag251521_1167	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476783	278729	279382	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV08	clust_0361
+GV09|SEQ01199	VBIGarVag169280_1199	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261627	65363	66028	+	666		Hypothetical, related to broad specificity phosphatases COG0406	GV09	clust_0361
+GV10|SEQ00183	VBIGarVag136958_0183	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146382	222150	222842	+	693		Hypothetical, related to broad specificity phosphatases COG0406	GV10	clust_0361
+GV11|SEQ01157	VBIGarVag171052_1157	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550723	26371	27024	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV11	clust_0361
+GV12|SEQ00721	VBIGarVag144721_0721	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854141	258140	258832	+	693		Hypothetical, related to broad specificity phosphatases COG0406	GV12	clust_0361
+GV13|SEQ01067	VBIGarVag244533_1067	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488151	62839	63492	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV13	clust_0361
+GV14|SEQ00154	VBIGarVag244375_0154	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502141	149000	149716	-	717		Hypothetical, related to broad specificity phosphatases COG0406	GV14	clust_0361
+GV15|SEQ00486	VBIGarVag249709_0486	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484508	230099	230803	-	705		Hypothetical, related to broad specificity phosphatases COG0406	GV15	clust_0361
+GV16|SEQ00319	VBIGarVag246379_0319	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477758	283028	283681	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV16	clust_0361
+GV17|SEQ00409	VBIGarVag146634_0409	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850851	402374	403066	-	693		Hypothetical, related to broad specificity phosphatases COG0406	GV17	clust_0361
+GV18|SEQ01024	VBIGarVag4823_1024	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070871	13497	14150	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV18	clust_0361
+GV19|SEQ01290	VBIGarVag39333_1293	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629517	1606983	1607636	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV19	clust_0361
+GV20|SEQ00203	VBIGarVag188338_0203	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189192	237195	237848	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV20	clust_0361
+GV21|SEQ00990	VBIGarVag274454_0991	Gardnerella vaginalis JCP7275	ATJS01000092	PATRIC	CDS	183968771	2854	3507	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV21	clust_0361
+GV22|SEQ01040	VBIGarVag276801_1041	Gardnerella vaginalis JCP7276	ATJR01000088	PATRIC	CDS	183971617	2888	3541	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV22	clust_0361
+GV23|SEQ01066	VBIGarVag276017_1066	Gardnerella vaginalis JCP7659	ATJQ01000112	PATRIC	CDS	183974597	3912	4565	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV23	clust_0361
+GV24|SEQ00846	VBIGarVag268944_0847	Gardnerella vaginalis JCP7672	ATJP01000077	PATRIC	CDS	183976904	2863	3516	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV24	clust_0361
+GV25|SEQ00558	VBIGarVag270495_0558	Gardnerella vaginalis JCP7719	ATJO01000046	PATRIC	CDS	183979055	2875	3507	-	633		Hypothetical, related to broad specificity phosphatases COG0406	GV25	clust_0361
+GV26|SEQ00685	VBIGarVag272749_0685	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982167	43971	44624	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV26	clust_0361
+GV27|SEQ01000	VBIGarVag276930_1000	Gardnerella vaginalis JCP8017B	ATJM01000074	PATRIC	CDS	183985836	3821	4474	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV27	clust_0361
+GV28|SEQ00714	VBIGarVag271349_0714	Gardnerella vaginalis JCP8066	ATJL01000063	PATRIC	CDS	183988181	3108	3740	-	633		Hypothetical, related to broad specificity phosphatases COG0406	GV28	clust_0361
+GV29|SEQ00403	VBIGarVag265473_0403	Gardnerella vaginalis JCP8070	ATJK01000019	PATRIC	CDS	183990203	3143	3775	+	633		Hypothetical, related to broad specificity phosphatases COG0406	GV29	clust_0361
+GV30|SEQ00811	VBIGarVag267667_0813	Gardnerella vaginalis JCP8108	ATJJ01000061	PATRIC	CDS	183993777	2858	3511	-	654		Hypothetical, related to broad specificity phosphatases COG0406	GV30	clust_0361
+GV31|SEQ01049	VBIGarVag264983_1049	Gardnerella vaginalis JCP8151A	ATJI01000094	PATRIC	CDS	183997278	3118	3435	-	318		Hypothetical, related to broad specificity phosphatases COG0406	GV31	clust_0361
+GV32|SEQ00677	VBIGarVag277040_0677	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999267	27329	27982	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV32	clust_0361
+GV33|SEQ00678	VBIGarVag265557_0678	Gardnerella vaginalis JCP8481A	ATJG01000064	PATRIC	CDS	184002119	3247	3963	-	717		Hypothetical, related to broad specificity phosphatases COG0406	GV33	clust_0361
+GV34|SEQ00357	VBIGarVag270440_0357	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004271	3245	3961	-	717		Hypothetical, related to broad specificity phosphatases COG0406	GV34	clust_0361
+GV35|SEQ00776	VBIGarVag272169_0776	Gardnerella vaginalis JCP8522	ATJE01000072	PATRIC	CDS	184007942	16005	16658	+	654		Hypothetical, related to broad specificity phosphatases COG0406	GV35	clust_0361
+ADO1|SEQ00479	VBIBifAdo136061_0479	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187221	321783	322442	+	660		Phosphoglycerate mutase family	ADO1	clust_0361
+ANI1|SEQ00234	VBIBifAni240121_0234	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845372	278501	279160	-	660		Hypothetical, related to broad specificity phosphatases COG0406	ANI1	clust_0361
+ANI2|SEQ00234	VBIBifAni235968_0234	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848727	278502	279161	-	660		Hypothetical, related to broad specificity phosphatases COG0406	ANI2	clust_0361
+ANI3|SEQ00235	VBIBifAni108068_0235	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762740	278502	279161	-	660		Hypothetical, related to broad specificity phosphatases COG0406	ANI3	clust_0361
+BIF1|SEQ00176	VBIBifBif87902_0176	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882859	222669	223328	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BIF1	clust_0361
+BRE1|SEQ00179	VBIBifBre340958_0179	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602284	233593	234252	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE1	clust_0361
+BRE2|SEQ00180	VBIBifBre337368_0180	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606259	230408	231067	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE2	clust_0361
+BRE3|SEQ00199	VBIBifBre167886_0199	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192046	254407	255066	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE3	clust_0361
+BRE4|SEQ00199	VBIBifBre327712_0199	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610439	258116	258775	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE4	clust_0361
+BRE5|SEQ00193	VBIBifBre336369_0193	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614477	236904	237563	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE5	clust_0361
+BRE6|SEQ00157	VBIBifBre268992_0157	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653422	13666	14325	-	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE6	clust_0361
+BRE7|SEQ00175	VBIBifBre340732_0175	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618749	226002	226661	+	660		Hypothetical, related to broad specificity phosphatases COG0406	BRE7	clust_0361
+BRE8|SEQ00201	VBIBifBre176493_0201	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622914	257346	258005	+	660	gpm1	Hypothetical, related to broad specificity phosphatases COG0406	BRE8	clust_0361
+BRE9|SEQ00209	VBIBifBre30019_0209	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444450	270203	270862	+	660	gpm1	Hypothetical, related to broad specificity phosphatases COG0406	BRE9	clust_0361
+INF1|SEQ00156	VBIBifLon182273_0156	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884219	193555	194214	+	660		Hypothetical, related to broad specificity phosphatases COG0406	INF1	clust_0361
+LON1|SEQ01216	VBIBifLon107831_1217	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119537	1431071	1431730	-	660		Hypothetical, related to broad specificity phosphatases COG0406	LON1	clust_0361
+LON2|SEQ01243	VBIBifLon171405_1245	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582061	1440122	1440781	-	660		Hypothetical, related to broad specificity phosphatases COG0406	LON2	clust_0361
+LON3|SEQ01323	VBIBifLon156230_1325	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769255	2069921	2070580	-	660		Hypothetical, related to broad specificity phosphatases COG0406	LON3	clust_0361
+LON4|SEQ00167	VBIBifLon48544_0167	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888542	208675	209334	+	660		Hypothetical, related to broad specificity phosphatases COG0406	LON4	clust_0361
+THE1|SEQ00257	VBIBifThe274299_0257	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733680	301866	302525	+	660		Hypothetical, related to broad specificity phosphatases COG0406	THE1	clust_0361

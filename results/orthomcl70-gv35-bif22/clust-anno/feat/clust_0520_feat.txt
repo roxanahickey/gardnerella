@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00949	VBIBifAdo136061_0949	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188212	857785	860427	+	2643		putative ABC transporter permease protein	ADO1	clust_0520
+ANI1|SEQ01048	VBIBifAni240121_1048	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847078	1212448	1215054	-	2607		putative ABC transporter permease protein	ANI1	clust_0520
+ANI2|SEQ01048	VBIBifAni235968_1048	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850431	1212452	1215058	-	2607		putative ABC transporter permease protein	ANI2	clust_0520
+ANI3|SEQ01052	VBIBifAni108068_1052	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764445	1212453	1215059	-	2607		putative ABC transporter permease protein	ANI3	clust_0520
+BIF1|SEQ01126	VBIBifBif87902_1126	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884820	1351848	1354556	-	2709	yknZ	putative ABC transporter permease protein	BIF1	clust_0520
+BRE1|SEQ00773	VBIBifBre340958_0773	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603530	930440	933178	+	2739		putative ABC transporter permease protein	BRE1	clust_0520
+BRE2|SEQ00868	VBIBifBre337368_0868	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607692	1027299	1030037	+	2739		putative ABC transporter permease protein	BRE2	clust_0520
+BRE3|SEQ01016	VBIBifBre167886_1016	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193744	1190084	1192822	-	2739		putative ABC transporter permease protein	BRE3	clust_0520
+BRE4|SEQ00801	VBIBifBre327712_0801	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611701	968892	971630	+	2739		putative ABC transporter permease protein	BRE4	clust_0520
+BRE5|SEQ00813	VBIBifBre336369_0814	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615771	961951	964689	+	2739		putative ABC transporter permease protein	BRE5	clust_0520
+BRE6|SEQ01607	VBIBifBre268992_1607	Bifidobacterium breve JCP7499	AWSX01000074	PATRIC	CDS	177656485	14045	16783	-	2739		putative ABC transporter permease protein	BRE6	clust_0520
+BRE7|SEQ00803	VBIBifBre340732_0803	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620062	960934	963672	+	2739		putative ABC transporter permease protein	BRE7	clust_0520
+BRE8|SEQ00828	VBIBifBre176493_0828	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624221	1004048	1006786	+	2739		putative ABC transporter permease protein	BRE8	clust_0520
+BRE9|SEQ00876	VBIBifBre30019_0876	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445846	1049440	1052178	+	2739		putative ABC transporter permease protein	BRE9	clust_0520
+DEN1|SEQ01984	VBIBifDen165269_1985	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461135	1264929	1267568	-	2640		putative ABC transporter permease protein	DEN1	clust_0520
+DEN2|SEQ00844	VBIBifDen39005_0844	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110038	16493	19132	+	2640		putative ABC transporter permease protein	DEN2	clust_0520
+GV01|SEQ00281	VBIGarVag247323_0281	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494685	14602	17295	+	2694		putative ABC transporter permease protein	GV01	clust_0520
+GV02|SEQ00670	VBIGarVag242669_0670	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498157	34038	36731	-	2694		putative ABC transporter permease protein	GV02	clust_0520
+GV03|SEQ00763	VBIGarVag247424_0763	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500957	48350	51043	+	2694		putative ABC transporter permease protein	GV03	clust_0520
+GV04|SEQ01073	VBIGarVag246433_1073	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482067	21165	23858	+	2694		putative ABC transporter permease protein	GV04	clust_0520
+GV05|SEQ00816	VBIGarVag174900_0816	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547398	475082	477775	+	2694		putative ABC transporter permease protein	GV05	clust_0520
+GV06|SEQ00675	VBIGarVag244004_0675	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490134	35733	38426	-	2694		putative ABC transporter permease protein	GV06	clust_0520
+GV07|SEQ00575	VBIGarVag249177_0575	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492799	58245	60938	+	2694		putative ABC transporter permease protein	GV07	clust_0520
+GV08|SEQ00150	VBIGarVag251521_0150	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474671	183490	186183	-	2694		putative ABC transporter permease protein	GV08	clust_0520
+GV09|SEQ00978	VBIGarVag169280_0978	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261168	402897	405590	-	2694		putative ABC transporter permease protein	GV09	clust_0520
+GV10|SEQ00563	VBIGarVag136958_0563	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147184	716283	718502	+	2220		putative ABC transporter permease protein	GV10	clust_0520
+GV11|SEQ00673	VBIGarVag171052_0673	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549693	35290	37983	-	2694		putative ABC transporter permease protein	GV11	clust_0520
+GV12|SEQ01198	VBIGarVag144721_1198	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855226	59581	62274	+	2694		putative ABC transporter permease protein	GV12	clust_0520
+GV13|SEQ00615	VBIGarVag244533_0615	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487203	35747	38440	-	2694		putative ABC transporter permease protein	GV13	clust_0520
+GV14|SEQ00280	VBIGarVag244375_0280	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502402	98303	100996	+	2694		putative ABC transporter permease protein	GV14	clust_0520
+GV15|SEQ00621	VBIGarVag249709_0621	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484787	56547	59240	+	2694		putative ABC transporter permease protein	GV15	clust_0520
+GV16|SEQ00925	VBIGarVag246379_0925	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479017	1053003	1055696	-	2694		putative ABC transporter permease protein	GV16	clust_0520
+GV17|SEQ00988	VBIGarVag146634_0988	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852064	129160	131853	-	2694		putative ABC transporter permease protein	GV17	clust_0520
+GV18|SEQ00534	VBIGarVag4823_0534	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069818	5473	8166	+	2694		putative ABC transporter permease protein	GV18	clust_0520
+GV19|SEQ00692	VBIGarVag39333_0693	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628278	859233	861926	+	2694		putative ABC transporter permease protein	GV19	clust_0520
+GV20|SEQ00848	VBIGarVag188338_0848	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190530	1036281	1038974	-	2694		putative ABC transporter permease protein	GV20	clust_0520
+GV21|SEQ00301	VBIGarVag274454_0301	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967254	89799	92492	-	2694		putative ABC transporter permease protein	GV21	clust_0520
+GV22|SEQ00066	VBIGarVag276801_0066	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969517	81250	83943	+	2694		putative ABC transporter permease protein	GV22	clust_0520
+GV23|SEQ00118	VBIGarVag276017_0118	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972533	12991	15684	+	2694		putative ABC transporter permease protein	GV23	clust_0520
+GV24|SEQ01006	VBIGarVag268944_1007	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977243	91797	94490	-	2694		putative ABC transporter permease protein	GV24	clust_0520
+GV25|SEQ00726	VBIGarVag270495_0726	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979419	26005	28698	+	2694		putative ABC transporter permease protein	GV25	clust_0520
+GV26|SEQ00366	VBIGarVag272749_0366	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981510	13008	15701	+	2694		putative ABC transporter permease protein	GV26	clust_0520
+GV27|SEQ00116	VBIGarVag276930_0116	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983946	34157	36850	-	2694		putative ABC transporter permease protein	GV27	clust_0520
+GV28|SEQ00256	VBIGarVag271349_0256	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987175	19984	22677	+	2694		putative ABC transporter permease protein	GV28	clust_0520
+GV29|SEQ00871	VBIGarVag265473_0871	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991231	19322	22015	+	2694		putative ABC transporter permease protein	GV29	clust_0520
+GV30|SEQ00275	VBIGarVag267667_0276	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992608	44351	47044	-	2694		putative ABC transporter permease protein	GV30	clust_0520
+GV31|SEQ00011	VBIGarVag264983_0011	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995040	12148	14841	+	2694		putative ABC transporter permease protein	GV31	clust_0520
+GV32|SEQ00270	VBIGarVag277040_0270	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998388	95431	98124	+	2694		putative ABC transporter permease protein	GV32	clust_0520
+GV33|SEQ00752	VBIGarVag265557_0752	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002282	47020	49713	+	2694		putative ABC transporter permease protein	GV33	clust_0520
+GV34|SEQ00693	VBIGarVag270440_0693	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184005003	47020	49713	+	2694		putative ABC transporter permease protein	GV34	clust_0520
+GV35|SEQ00144	VBIGarVag272169_0144	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006567	30535	33228	+	2694		putative ABC transporter permease protein	GV35	clust_0520
+INF1|SEQ00737	VBIBifLon182273_0737	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885443	902907	905762	+	2856		putative ABC transporter permease protein	INF1	clust_0520
+LON1|SEQ00631	VBIBifLon107831_0632	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118319	730133	732775	-	2643		putative ABC transporter permease protein	LON1	clust_0520
+LON2|SEQ00695	VBIBifLon171405_0696	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580916	768343	770985	-	2643		putative ABC transporter permease protein	LON2	clust_0520
+LON3|SEQ00505	VBIBifLon156230_0505	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767962	1347539	1350391	-	2853		putative ABC transporter permease protein	LON3	clust_0520
+LON4|SEQ00715	VBIBifLon48544_0715	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889700	867785	870427	+	2643		putative ABC transporter permease protein	LON4	clust_0520
+THE1|SEQ00789	VBIBifThe274299_0789	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734761	990660	993284	+	2625		putative ABC transporter permease protein	THE1	clust_0520

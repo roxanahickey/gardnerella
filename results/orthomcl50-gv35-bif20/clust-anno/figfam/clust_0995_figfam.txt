@@ -1,0 +1,23 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00631	268603227	VBIBifBre340958_0631	SEQ00631	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE2|SEQ00728	268607391	VBIBifBre337368_0728	SEQ00728	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE3|SEQ01143	54194019	VBIBifBre167886_1143	SEQ01143	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE4|SEQ00666	268611411	VBIBifBre327712_0666	SEQ00666	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE6|SEQ00514	177654165	VBIBifBre268992_0514	SEQ00514	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000027	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE7|SEQ00677	268619791	VBIBifBre340732_0677	SEQ00677	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE8|SEQ00699	268623943	VBIBifBre176493_0699	SEQ00699	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+BRE9|SEQ00749	58445572	VBIBifBre30019_0749	SEQ00749	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV04|SEQ00725	85481346	VBIGarVag246433_0725	SEQ00725	Gardnerella vaginalis 0288E	GV04	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV06|SEQ01017	85490847	VBIGarVag244004_1017	SEQ01017	Gardnerella vaginalis 1400E	GV06	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV16|SEQ00499	85478142	VBIGarVag246379_0499	SEQ00499	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV20|SEQ00400	54189611	VBIGarVag188338_0400	SEQ00400	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV24|SEQ00338	183975798	VBIGarVag268944_0339	SEQ00338	Gardnerella vaginalis JCP7672	GV24	Gardnerella vaginalis JCP7672	ATJP01000019	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV29|SEQ00838	183991162	VBIGarVag265473_0838	SEQ00838	Gardnerella vaginalis JCP8070	GV29	Gardnerella vaginalis JCP8070	ATJK01000070	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV30|SEQ00595	183993308	VBIGarVag267667_0596	SEQ00595	Gardnerella vaginalis JCP8108	GV30	Gardnerella vaginalis JCP8108	ATJJ01000034	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+GV31|SEQ00653	183996394	VBIGarVag264983_0653	SEQ00653	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000031	PATRIC	CDS	NA	YafQ toxin protein	FIG00008080	figfam	clust_0995
+INF1|SEQ00596	46885138	VBIBifLon182273_0596	SEQ00596	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		FIG00425862: hypothetical protein	FIG01494035	figfam	clust_0995
+LON1|SEQ00763	21118599	VBIBifLon107831_0764	SEQ00763	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		FIG00425862: hypothetical protein	FIG01494035	figfam	clust_0995
+LON2|SEQ00830	42581202	VBIBifLon171405_0831	SEQ00830	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG00425862: hypothetical protein	FIG01494035	figfam	clust_0995
+LON3|SEQ00632	42768233	VBIBifLon156230_0632	SEQ00632	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		FIG00425862: hypothetical protein	FIG01494035	figfam	clust_0995
+LON4|SEQ00589	46889425	VBIBifLon48544_0589	SEQ00589	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		FIG00425862: hypothetical protein	FIG01494035	figfam	clust_0995
+THE1|SEQ00084	124733329	VBIBifThe274299_0084	SEQ00084	Bifidobacterium thermophilum RBL67	THE1	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS		YoeB toxin protein	FIG00006169	figfam	clust_0995

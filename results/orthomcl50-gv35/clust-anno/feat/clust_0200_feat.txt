@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00445	VBIGarVag247323_0445	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495031	181645	182424	+	780	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV01	clust_0200
+GV02|SEQ00921	VBIGarVag242669_0921	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498689	158884	159663	-	780	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV02	clust_0200
+GV03|SEQ01032	VBIGarVag247424_1032	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501516	403559	404368	-	810	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV03	clust_0200
+GV04|SEQ00969	VBIGarVag246433_0969	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481846	340290	341126	+	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV04	clust_0200
+GV05|SEQ01145	VBIGarVag174900_1145	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548130	10164	10973	-	810		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV05	clust_0200
+GV06|SEQ01283	VBIGarVag244004_1283	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491397	147935	148771	-	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV06	clust_0200
+GV07|SEQ00256	VBIGarVag249177_0256	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492123	46085	46894	+	810	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV07	clust_0200
+GV08|SEQ00911	VBIGarVag251521_0911	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476254	92669	93505	+	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV08	clust_0200
+GV09|SEQ00826	VBIGarVag169280_0826	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260855	210247	211083	+	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV09	clust_0200
+GV10|SEQ00883	VBIGarVag136958_0883	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147844	1146121	1146933	-	813	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV10	clust_0200
+GV11|SEQ00130	VBIGarVag171052_0130	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548531	12365	13201	-	837		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV11	clust_0200
+GV12|SEQ00293	VBIGarVag144721_0293	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853255	266226	267038	-	813		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV12	clust_0200
+GV13|SEQ00294	VBIGarVag244533_0294	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486536	111729	112565	-	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV13	clust_0200
+GV14|SEQ01131	VBIGarVag244375_1131	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504179	228519	229328	-	810	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV14	clust_0200
+GV15|SEQ00864	VBIGarVag249709_0864	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485300	6464	7276	-	813	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV15	clust_0200
+GV16|SEQ00761	VBIGarVag246379_0761	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478679	855945	856781	+	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV16	clust_0200
+GV17|SEQ00709	VBIGarVag146634_0709	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851484	5806	6618	+	813		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV17	clust_0200
+GV18|SEQ01079	VBIGarVag4823_1079	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42070983	4086	4922	+	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV18	clust_0200
+GV19|SEQ00850	VBIGarVag39333_0851	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628603	1053735	1054571	-	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV19	clust_0200
+GV20|SEQ00697	VBIGarVag188338_0697	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190218	846790	847626	+	837	nadD	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV20	clust_0200
+GV21|SEQ00060	VBIGarVag274454_0060	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966754	74322	75158	+	837		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV21	clust_0200
+GV22|SEQ00447	VBIGarVag276801_0448	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970321	83048	83884	+	837		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV22	clust_0200
+GV23|SEQ00645	VBIGarVag276017_0645	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973653	92593	93372	+	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV23	clust_0200
+GV24|SEQ00415	VBIGarVag268944_0416	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975958	86504	87340	-	837		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV24	clust_0200
+GV25|SEQ01075	VBIGarVag270495_1075	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980199	91968	92747	-	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV25	clust_0200
+GV26|SEQ00530	VBIGarVag272749_0530	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981850	79602	80381	+	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV26	clust_0200
+GV27|SEQ00407	VBIGarVag276930_0407	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984559	93185	93964	-	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV27	clust_0200
+GV28|SEQ00797	VBIGarVag271349_0797	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988353	89171	89950	-	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV28	clust_0200
+GV29|SEQ00117	VBIGarVag265473_0117	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989597	92482	93261	-	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV29	clust_0200
+GV30|SEQ00091	VBIGarVag267667_0091	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992223	86435	87271	-	837		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV30	clust_0200
+GV31|SEQ00289	VBIGarVag264983_0289	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995623	93183	93962	-	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV31	clust_0200
+GV32|SEQ01073	VBIGarVag277040_1073	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000188	58105	58884	+	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV32	clust_0200
+GV33|SEQ00918	VBIGarVag265557_0918	Gardnerella vaginalis JCP8481A	ATJG01000102	PATRIC	CDS	184002664	10850	11662	+	813		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV33	clust_0200
+GV34|SEQ01104	VBIGarVag270440_1104	Gardnerella vaginalis JCP8481B	ATJF01000125	PATRIC	CDS	184005907	10850	11662	+	813		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV34	clust_0200
+GV35|SEQ00032	VBIGarVag272169_0032	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006337	29623	30402	+	780		Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	GV35	clust_0200

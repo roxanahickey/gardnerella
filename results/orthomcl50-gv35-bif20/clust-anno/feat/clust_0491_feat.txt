@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00118	VBIGarVag247323_0118	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494342	160734	161213	+	480		Transcription elongation factor GreA	GV01	clust_0491
+GV02|SEQ00561	VBIGarVag242669_0561	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497925	180135	180614	-	480		Transcription elongation factor GreA	GV02	clust_0491
+GV03|SEQ00674	VBIGarVag247424_0674	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500772	42352	42831	-	480		Transcription elongation factor GreA	GV03	clust_0491
+GV04|SEQ00488	VBIGarVag246433_0488	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480862	125917	126396	-	480		Transcription elongation factor GreA	GV04	clust_0491
+GV05|SEQ00758	VBIGarVag174900_0758	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547275	383293	383772	+	480		Transcription elongation factor GreA	GV05	clust_0491
+GV06|SEQ00739	VBIGarVag244004_0739	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490268	68371	68850	+	480		Transcription elongation factor GreA	GV06	clust_0491
+GV07|SEQ00651	VBIGarVag249177_0651	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492954	29053	29532	-	480		Transcription elongation factor GreA	GV07	clust_0491
+GV08|SEQ00308	VBIGarVag251521_0308	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475007	119819	120298	+	480		Transcription elongation factor GreA	GV08	clust_0491
+GV09|SEQ00503	VBIGarVag169280_0503	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260188	235267	235746	-	480		Transcription elongation factor GreA	GV09	clust_0491
+GV10|SEQ00500	VBIGarVag136958_0500	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147052	618448	618927	+	480		Transcription elongation factor GreA	GV10	clust_0491
+GV11|SEQ00398	VBIGarVag171052_0398	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549106	91808	92287	-	480		Transcription elongation factor GreA	GV11	clust_0491
+GV12|SEQ01076	VBIGarVag144721_1076	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854889	66968	67447	+	480		Transcription elongation factor GreA	GV12	clust_0491
+GV13|SEQ00865	VBIGarVag244533_0865	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487730	360420	360899	-	480		Transcription elongation factor GreA	GV13	clust_0491
+GV14|SEQ00221	VBIGarVag244375_0221	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502277	8323	8802	+	480		Transcription elongation factor GreA	GV14	clust_0491
+GV15|SEQ01134	VBIGarVag249709_1134	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485869	34936	35415	-	480		Transcription elongation factor GreA	GV15	clust_0491
+GV16|SEQ01153	VBIGarVag246379_1153	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479500	1350630	1351109	-	480		Transcription elongation factor GreA	GV16	clust_0491
+GV17|SEQ01050	VBIGarVag146634_1050	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852194	223265	223744	-	480		Transcription elongation factor GreA	GV17	clust_0491
+GV18|SEQ00948	VBIGarVag4823_0948	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	42070701	19470	19949	-	480		Transcription elongation factor GreA	GV18	clust_0491
+GV19|SEQ00455	VBIGarVag39333_0456	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627779	560406	560885	+	480	greA	Transcription elongation factor GreA	GV19	clust_0491
+GV20|SEQ01063	VBIGarVag188338_1063	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190986	1325053	1325532	-	480	greA	Transcription elongation factor GreA	GV20	clust_0491
+GV21|SEQ00100	VBIGarVag274454_0100	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	183966838	21441	21920	-	480		Transcription elongation factor GreA	GV21	clust_0491
+GV22|SEQ00268	VBIGarVag276801_0269	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969952	24188	24667	-	480		Transcription elongation factor GreA	GV22	clust_0491
+GV23|SEQ00301	VBIGarVag276017_0301	Gardnerella vaginalis JCP7659	ATJQ01000017	PATRIC	CDS	183972915	8452	8931	+	480		Transcription elongation factor GreA	GV23	clust_0491
+GV24|SEQ00711	VBIGarVag268944_0712	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976608	24665	25144	-	480		Transcription elongation factor GreA	GV24	clust_0491
+GV25|SEQ00303	VBIGarVag270495_0303	Gardnerella vaginalis JCP7719	ATJO01000019	PATRIC	CDS	183978505	8340	8819	+	480		Transcription elongation factor GreA	GV25	clust_0491
+GV26|SEQ00750	VBIGarVag272749_0750	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	183982319	8465	8944	+	480		Transcription elongation factor GreA	GV26	clust_0491
+GV27|SEQ00534	VBIGarVag276930_0534	Gardnerella vaginalis JCP8017B	ATJM01000017	PATRIC	CDS	183984821	24740	25219	-	480		Transcription elongation factor GreA	GV27	clust_0491
+GV28|SEQ00352	VBIGarVag271349_0352	Gardnerella vaginalis JCP8066	ATJL01000019	PATRIC	CDS	183987373	24793	25272	-	480		Transcription elongation factor GreA	GV28	clust_0491
+GV29|SEQ00392	VBIGarVag265473_0392	Gardnerella vaginalis JCP8070	ATJK01000018	PATRIC	CDS	183990176	24793	25272	-	480		Transcription elongation factor GreA	GV29	clust_0491
+GV30|SEQ01190	VBIGarVag267667_1192	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	183994628	12936	13415	+	480		Transcription elongation factor GreA	GV30	clust_0491
+GV31|SEQ00449	VBIGarVag264983_0449	Gardnerella vaginalis JCP8151A	ATJI01000014	PATRIC	CDS	183995958	24811	25290	-	480		Transcription elongation factor GreA	GV31	clust_0491
+GV32|SEQ00163	VBIGarVag277040_0163	Gardnerella vaginalis JCP8151B	ATJH01000012	PATRIC	CDS	183998170	8464	8943	+	480		Transcription elongation factor GreA	GV32	clust_0491
+GV33|SEQ01089	VBIGarVag265557_1089	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003056	27738	28217	+	480		Transcription elongation factor GreA	GV33	clust_0491
+GV34|SEQ01129	VBIGarVag270440_1129	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005964	17912	18391	-	480		Transcription elongation factor GreA	GV34	clust_0491
+GV35|SEQ00535	VBIGarVag272169_0535	Gardnerella vaginalis JCP8522	ATJE01000036	PATRIC	CDS	184007406	8463	8942	+	480		Transcription elongation factor GreA	GV35	clust_0491
+ADO1|SEQ01314	VBIBifAdo136061_1314	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188973	258769	259248	-	480		Transcription elongation factor GreA	ADO1	clust_0491
+ANI1|SEQ00997	VBIBifAni240121_0997	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846974	1155691	1156173	-	483	greA	Transcription elongation factor GreA	ANI1	clust_0491
+ANI2|SEQ00997	VBIBifAni235968_0997	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850327	1155694	1156176	-	483	greA	Transcription elongation factor GreA	ANI2	clust_0491
+ANI3|SEQ01001	VBIBifAni108068_1001	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764341	1155695	1156177	-	483		Transcription elongation factor GreA	ANI3	clust_0491
+BIF1|SEQ00707	VBIBifBif87902_0707	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883954	869266	869745	+	480	greA	Transcription elongation factor GreA	BIF1	clust_0491
+BRE1|SEQ00676	VBIBifBre340958_0676	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603319	820449	820928	+	480		Transcription elongation factor GreA	BRE1	clust_0491
+BRE2|SEQ00772	VBIBifBre337368_0772	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607481	917272	917751	+	480		Transcription elongation factor GreA	BRE2	clust_0491
+BRE3|SEQ01099	VBIBifBre167886_1099	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193929	1288863	1289342	-	480	greA	Transcription elongation factor GreA	BRE3	clust_0491
+BRE4|SEQ00711	VBIBifBre327712_0711	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611503	861445	861924	+	480		Transcription elongation factor GreA	BRE4	clust_0491
+BRE5|SEQ00727	VBIBifBre336369_0728	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615581	858727	859206	+	480		Transcription elongation factor GreA	BRE5	clust_0491
+BRE6|SEQ00677	VBIBifBre268992_0677	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654518	45139	45618	-	480		Transcription elongation factor GreA	BRE6	clust_0491
+BRE7|SEQ00721	VBIBifBre340732_0721	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619881	864548	865027	+	480		Transcription elongation factor GreA	BRE7	clust_0491
+BRE8|SEQ00743	VBIBifBre176493_0743	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624034	905408	905887	+	480	greA	Transcription elongation factor GreA	BRE8	clust_0491
+BRE9|SEQ00794	VBIBifBre30019_0794	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445665	952970	953449	+	480	greA	Transcription elongation factor GreA	BRE9	clust_0491
+INF1|SEQ00638	VBIBifLon182273_0638	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885225	786334	786813	+	480		Transcription elongation factor GreA	INF1	clust_0491
+LON1|SEQ00718	VBIBifLon107831_0719	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118507	837562	838041	-	480	greA	Transcription elongation factor GreA	LON1	clust_0491
+LON2|SEQ00783	VBIBifLon171405_0784	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581106	878557	879036	-	480	greA	Transcription elongation factor GreA	LON2	clust_0491
+LON3|SEQ00589	VBIBifLon156230_0589	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768145	1453177	1453656	-	480		Transcription elongation factor GreA	LON3	clust_0491
+LON4|SEQ00631	VBIBifLon48544_0631	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889512	764926	765405	+	480		Transcription elongation factor GreA	LON4	clust_0491
+THE1|SEQ00843	VBIBifThe274299_0843	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734872	1052996	1053481	+	486		Transcription elongation factor GreA	THE1	clust_0491

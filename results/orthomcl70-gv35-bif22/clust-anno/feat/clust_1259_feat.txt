@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01150	VBIBifAdo136061_1150	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188635	66257	67180	-	924		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	ADO1	clust_1259
+ANI1|SEQ00811	VBIBifAni240121_0811	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846583	944961	945878	-	918		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	ANI1	clust_1259
+ANI2|SEQ00810	VBIBifAni235968_0810	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849934	944964	945881	-	918		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	ANI2	clust_1259
+ANI3|SEQ00813	VBIBifAni108068_0813	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763948	944966	945883	-	918		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	ANI3	clust_1259
+BIF1|SEQ00921	VBIBifBif87902_0921	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884394	1123626	1124552	-	927	sucD	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BIF1	clust_1259
+BRE1|SEQ00964	VBIBifBre340958_0964	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603925	1146127	1147038	+	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE1	clust_1259
+BRE2|SEQ01058	VBIBifBre337368_1058	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608087	1241392	1242303	+	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE2	clust_1259
+BRE3|SEQ00822	VBIBifBre167886_0822	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193342	977397	978308	-	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE3	clust_1259
+BRE4|SEQ00995	VBIBifBre327712_0995	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612096	1156614	1157525	-	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE4	clust_1259
+BRE5|SEQ01111	VBIBifBre336369_1112	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616390	1253122	1254033	+	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE5	clust_1259
+BRE6|SEQ01713	VBIBifBre268992_1713	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656725	8679	9590	+	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE6	clust_1259
+BRE7|SEQ01008	VBIBifBre340732_1008	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620488	1187117	1188028	+	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE7	clust_1259
+BRE8|SEQ01028	VBIBifBre176493_1028	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624636	1223481	1224392	+	912	sucD	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE8	clust_1259
+BRE9|SEQ01093	VBIBifBre30019_1093	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446298	1286618	1287529	+	912	sucD	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	BRE9	clust_1259
+DEN1|SEQ01516	VBIBifDen165269_1517	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460168	787398	788321	+	924	sucD	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	DEN1	clust_1259
+DEN2|SEQ00123	VBIBifDen39005_0123	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108553	66972	67895	-	924		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	DEN2	clust_1259
+INF1|SEQ01045	VBIBifLon182273_1045	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886076	1194727	1195638	-	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	INF1	clust_1259
+LON1|SEQ00430	VBIBifLon107831_0430	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117913	512641	513552	+	912	sucD	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	LON1	clust_1259
+LON2|SEQ00436	VBIBifLon171405_0437	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580390	509817	510728	+	912	sucD	Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	LON2	clust_1259
+LON3|SEQ00293	VBIBifLon156230_0293	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767531	1125143	1126054	+	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	LON3	clust_1259
+LON4|SEQ01125	VBIBifLon48544_1125	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890574	1261524	1262435	-	912		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	LON4	clust_1259
+THE1|SEQ01042	VBIBifThe274299_1042	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735284	1299969	1300892	-	924		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)	THE1	clust_1259

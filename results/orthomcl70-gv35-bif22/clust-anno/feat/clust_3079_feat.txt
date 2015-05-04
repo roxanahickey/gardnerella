@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01852	VBIBifBre337368_1852	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609737	2141999	2143021	+	1023		transcriptional regulator, LacI family	BRE2	clust_3079
+BRE7|SEQ01847	VBIBifBre340732_1847	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622225	2125047	2126069	+	1023		Mgl repressor and galactose ultrainduction factor GalS, HTH-type transcriptional regulator	BRE7	clust_3079
+DEN1|SEQ01448	VBIBifDen165269_1449	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460026	716509	717627	+	1119		hypothetical protein	DEN1	clust_3079
+DEN2|SEQ00192	VBIBifDen39005_0192	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108700	137666	138784	-	1119		hypothetical protein	DEN2	clust_3079

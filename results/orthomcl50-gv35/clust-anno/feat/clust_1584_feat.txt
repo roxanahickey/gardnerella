@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV10|SEQ00254	VBIGarVag136958_0254	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146538	295572	295685	+	114	rpmJ	LSU ribosomal protein L36p	GV10	clust_1584
+GV12|SEQ00794	VBIGarVag144721_0794	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854301	332778	332891	+	114		LSU ribosomal protein L36p	GV12	clust_1584
+GV17|SEQ00334	VBIGarVag146634_0334	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850687	325148	325261	-	114		LSU ribosomal protein L36p	GV17	clust_1584
+GV18|SEQ00843	VBIGarVag4823_0843	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000131	PATRIC	CDS	42070485	4651	4761	-	111		LSU ribosomal protein L36p	GV18	clust_1584
+GV19|SEQ01241	VBIGarVag39333_1243	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629407	1562446	1562556	-	111		LSU ribosomal protein L36p	GV19	clust_1584

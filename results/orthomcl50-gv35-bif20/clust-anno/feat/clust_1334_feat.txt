@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00026	VBIBifAdo136061_0026	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186244	24312	24884	+	573		hypothetical protein	ADO1	clust_1334
+ANI1|SEQ00537	VBIBifAni240121_0537	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846017	637928	638548	+	621		Probable conserved membrane protein	ANI1	clust_1334
+ANI2|SEQ00537	VBIBifAni235968_0537	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849371	637929	638549	+	621		Probable conserved membrane protein	ANI2	clust_1334
+ANI3|SEQ00539	VBIBifAni108068_0539	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763384	637931	638551	+	621		Probable conserved membrane protein	ANI3	clust_1334
+BIF1|SEQ01345	VBIBifBif87902_1345	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885277	1628282	1629187	-	906		Probable conserved membrane protein	BIF1	clust_1334
+BRE1|SEQ01412	VBIBifBre340958_1413	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604844	1673700	1674584	-	885		Probable conserved membrane protein	BRE1	clust_1334
+BRE2|SEQ01528	VBIBifBre337368_1528	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609053	1773435	1774319	-	885		Probable conserved membrane protein	BRE2	clust_1334
+BRE3|SEQ01487	VBIBifBre167886_1487	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194721	1744711	1745595	-	885		Probable conserved membrane protein	BRE3	clust_1334
+BRE4|SEQ01453	VBIBifBre327712_1453	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613043	1704054	1704938	-	885		Probable conserved membrane protein	BRE4	clust_1334
+BRE5|SEQ01605	VBIBifBre336369_1606	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617402	1809749	1810633	-	885		Probable conserved membrane protein	BRE5	clust_1334
+BRE6|SEQ00948	VBIBifBre268992_0948	Bifidobacterium breve JCP7499	AWSX01000049	PATRIC	CDS	177655087	77480	78364	-	885		Probable conserved membrane protein	BRE6	clust_1334
+BRE7|SEQ01482	VBIBifBre340732_1482	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621460	1722577	1723461	-	885		Probable conserved membrane protein	BRE7	clust_1334
+BRE8|SEQ01506	VBIBifBre176493_1506	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625621	1763867	1764751	-	885		Probable conserved membrane protein	BRE8	clust_1334
+BRE9|SEQ01569	VBIBifBre30019_1569	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447273	1827415	1828299	-	885		Probable conserved membrane protein	BRE9	clust_1334
+INF1|SEQ01627	VBIBifLon182273_1627	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887270	1860861	1861841	-	981		Probable conserved membrane protein	INF1	clust_1334
+LON1|SEQ01785	VBIBifLon107831_1786	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120734	2154412	2155392	+	981		Probable conserved membrane protein	LON1	clust_1334
+LON2|SEQ01823	VBIBifLon171405_1826	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583275	2180498	2181478	+	981	hdeD	Probable conserved membrane protein	LON2	clust_1334
+LON3|SEQ01118	VBIBifLon156230_1120	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766110	290193	291173	-	981		Probable conserved membrane protein	LON3	clust_1334
+LON4|SEQ01586	VBIBifLon48544_1586	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891532	1830298	1831278	-	981		Probable conserved membrane protein	LON4	clust_1334
+THE1|SEQ01270	VBIBifThe274299_1270	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735762	1579774	1580454	-	681		Probable conserved membrane protein	THE1	clust_1334

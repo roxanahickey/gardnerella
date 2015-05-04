@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00091	VBIBifAni240121_0091	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845079	110587	110841	-	255		Integral membrane protein	ANI1	clust_3519
+ANI2|SEQ00091	VBIBifAni235968_0091	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848434	110587	110841	-	255		Integral membrane protein	ANI2	clust_3519
+ANI3|SEQ00093	VBIBifAni108068_0093	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762450	110587	110841	-	255		Integral membrane protein	ANI3	clust_3519

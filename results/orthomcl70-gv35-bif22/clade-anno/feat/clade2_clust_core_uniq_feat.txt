@@ -1,0 +1,883 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00012	VBIBifAni240121_0012	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844916	16835	16990	+	156		hypothetical protein	ANI1	clust_3495
+ANI1|SEQ00019	VBIBifAni240121_0019	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844934	26398	27153	+	756		Methyltransferase	ANI1	clust_3496
+ANI1|SEQ00020	VBIBifAni240121_0020	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844936	27202	28116	+	915		hypothetical protein	ANI1	clust_3497
+ANI1|SEQ00021	VBIBifAni240121_0021	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844938	28439	29038	+	600		hypothetical protein	ANI1	clust_3498
+ANI1|SEQ00022	VBIBifAni240121_0022	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844940	29355	29954	+	600		hypothetical protein	ANI1	clust_3499
+ANI1|SEQ00023	VBIBifAni240121_0023	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844942	30678	30914	+	237		hypothetical protein	ANI1	clust_3500
+ANI1|SEQ00024	VBIBifAni240121_0024	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844944	31567	31824	+	258		hypothetical protein	ANI1	clust_3501
+ANI1|SEQ00027	VBIBifAni240121_0027	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844950	32739	33755	+	1017		hypothetical protein	ANI1	clust_3502
+ANI1|SEQ00029	VBIBifAni240121_0029	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844954	37469	39892	+	2424		hypothetical protein	ANI1	clust_3503
+ANI1|SEQ00030	VBIBifAni240121_0030	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844956	39920	40123	-	204		hypothetical protein	ANI1	clust_3504
+ANI1|SEQ00031	VBIBifAni240121_0031	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844958	40482	42617	-	2136		hypothetical protein	ANI1	clust_3505
+ANI1|SEQ00032	VBIBifAni240121_0032	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844960	42644	44086	-	1443		hypothetical protein	ANI1	clust_3506
+ANI1|SEQ00033	VBIBifAni240121_0033	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844962	44261	44464	+	204		hypothetical protein	ANI1	clust_3507
+ANI1|SEQ00035	VBIBifAni240121_0035	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844966	45029	45178	-	150		hypothetical protein	ANI1	clust_3508
+ANI1|SEQ00036	VBIBifAni240121_0036	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844968	45220	45474	+	255		hypothetical protein	ANI1	clust_3509
+ANI1|SEQ00037	VBIBifAni240121_0037	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844970	45695	45859	+	165		hypothetical protein	ANI1	clust_3510
+ANI1|SEQ00038	VBIBifAni240121_0038	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844972	46047	46985	-	939		Transcriptional regulator	ANI1	clust_3511
+ANI1|SEQ00039	VBIBifAni240121_0039	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844974	47081	47329	+	249		Aldo/keto reductase of diketogulonate reductase family( EC:1.1.1.274 )	ANI1	clust_3512
+ANI1|SEQ00043	VBIBifAni240121_0043	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844983	51040	51309	-	270		hypothetical protein	ANI1	clust_3513
+ANI1|SEQ00057	VBIBifAni240121_0057	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845011	65524	65865	+	342		hypothetical protein	ANI1	clust_3515
+ANI1|SEQ00068	VBIBifAni240121_0068	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845033	81843	82190	+	348		FIG00672454: hypothetical protein	ANI1	clust_3516
+ANI1|SEQ00089	VBIBifAni240121_0089	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845075	108714	109052	+	339		hypothetical protein	ANI1	clust_3517
+ANI1|SEQ00090	VBIBifAni240121_0090	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845077	109132	110085	+	954		Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)	ANI1	clust_3518
+ANI1|SEQ00091	VBIBifAni240121_0091	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845079	110587	110841	-	255		Integral membrane protein	ANI1	clust_3519
+ANI1|SEQ00092	VBIBifAni240121_0092	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845081	111113	111283	-	171		hypothetical protein	ANI1	clust_3520
+ANI1|SEQ00094	VBIBifAni240121_0094	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845087	113573	113782	-	210		hypothetical protein	ANI1	clust_3521
+ANI1|SEQ00096	VBIBifAni240121_0096	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845091	116322	118163	-	1842		FIG00672241: hypothetical protein	ANI1	clust_3522
+ANI1|SEQ00098	VBIBifAni240121_0098	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845095	119450	120979	+	1530		hypothetical protein	ANI1	clust_3523
+ANI1|SEQ00102	VBIBifAni240121_0102	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845105	124983	125624	+	642		hypothetical protein	ANI1	clust_3524
+ANI1|SEQ00104	VBIBifAni240121_0104	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845109	127054	127317	-	264		hypothetical protein	ANI1	clust_3525
+ANI1|SEQ00107	VBIBifAni240121_0107	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845115	128864	130081	+	1218		hypothetical protein	ANI1	clust_3526
+ANI1|SEQ00110	VBIBifAni240121_0110	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845121	131417	132403	-	987		Dienelactone hydrolase and related enzymes	ANI1	clust_3527
+ANI1|SEQ00113	VBIBifAni240121_0113	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845127	134530	134712	-	183		hypothetical protein	ANI1	clust_3528
+ANI1|SEQ00114	VBIBifAni240121_0114	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845129	134766	136061	-	1296		Oxidoreductase (EC 1.1.1.-)	ANI1	clust_3529
+ANI1|SEQ00122	VBIBifAni240121_0122	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845145	142357	142530	-	174		hypothetical protein	ANI1	clust_3530
+ANI1|SEQ00126	VBIBifAni240121_0126	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845153	145563	146474	+	912	crcB	FIG00423915: hypothetical protein	ANI1	clust_3531
+ANI1|SEQ00136	VBIBifAni240121_0136	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845173	157936	158664	+	729		Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	ANI1	clust_3532
+ANI1|SEQ00139	VBIBifAni240121_0139	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845179	161448	163001	+	1554		hypothetical protein	ANI1	clust_3533
+ANI1|SEQ00142	VBIBifAni240121_0142	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845185	163938	164066	+	129		hypothetical protein	ANI1	clust_3534
+ANI1|SEQ00152	VBIBifAni240121_0152	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845205	177915	178076	+	162		hypothetical protein	ANI1	clust_3535
+ANI1|SEQ00160	VBIBifAni240121_0160	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845221	189298	189543	-	246		putative ABC transporter integral membrane protein	ANI1	clust_3536
+ANI1|SEQ00161	VBIBifAni240121_0161	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845223	189540	189857	-	318		ABC lipoprotein transporter, permease component	ANI1	clust_3537
+ANI1|SEQ00162	VBIBifAni240121_0162	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845225	189895	191616	-	1722		putative ABC transporter integral membrane protein	ANI1	clust_3538
+ANI1|SEQ00163	VBIBifAni240121_0163	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845228	191613	192035	-	423		putative ABC transporter ATP-binding protein	ANI1	clust_3539
+ANI1|SEQ00167	VBIBifAni240121_0167	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845236	197235	198761	-	1527		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	ANI1	clust_3540
+ANI1|SEQ00169	VBIBifAni240121_0169	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845240	199136	199825	-	690		hypothetical protein	ANI1	clust_3541
+ANI1|SEQ00171	VBIBifAni240121_0171	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845244	200627	201046	+	420		hypothetical protein	ANI1	clust_3542
+ANI1|SEQ00180	VBIBifAni240121_0180	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845262	214320	214451	+	132		hypothetical protein	ANI1	clust_3543
+ANI1|SEQ00181	VBIBifAni240121_0181	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845264	214554	215435	-	882		hypothetical protein	ANI1	clust_3544
+ANI1|SEQ00182	VBIBifAni240121_0182	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845266	215571	216338	+	768		hypothetical protein	ANI1	clust_3545
+ANI1|SEQ00183	VBIBifAni240121_0183	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845268	216518	217234	-	717		hypothetical protein	ANI1	clust_3546
+ANI1|SEQ00190	VBIBifAni240121_0190	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845284	225946	226218	+	273		Transcriptional regulator, ArsR family	ANI1	clust_3547
+ANI1|SEQ00203	VBIBifAni240121_0203	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845310	239860	240288	-	429		hypothetical protein	ANI1	clust_3548
+ANI1|SEQ00207	VBIBifAni240121_0207	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845318	243192	243728	+	537		hypothetical protein	ANI1	clust_3549
+ANI1|SEQ00208	VBIBifAni240121_0208	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845320	243796	243918	+	123		hypothetical protein	ANI1	clust_3550
+ANI1|SEQ00211	VBIBifAni240121_0211	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845326	244615	245055	+	441		hypothetical protein	ANI1	clust_3551
+ANI1|SEQ00218	VBIBifAni240121_0218	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845340	252017	252427	-	411		hypothetical protein	ANI1	clust_3552
+ANI1|SEQ00241	VBIBifAni240121_0241	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845390	287966	288220	-	255		hypothetical protein	ANI1	clust_3553
+ANI1|SEQ00244	VBIBifAni240121_0244	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845396	290558	290836	+	279		Transcriptional regulator, ArsR family	ANI1	clust_3554
+ANI1|SEQ00246	VBIBifAni240121_0246	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845400	293126	293380	-	255		hypothetical protein	ANI1	clust_3555
+ANI1|SEQ00248	VBIBifAni240121_0248	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845404	294925	295233	-	309		hypothetical protein	ANI1	clust_3556
+ANI1|SEQ00252	VBIBifAni240121_0252	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845412	299281	300417	+	1137		hypothetical protein	ANI1	clust_3557
+ANI1|SEQ00260	VBIBifAni240121_0260	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845428	310343	311995	+	1653		hypothetical protein	ANI1	clust_3558
+ANI1|SEQ00264	VBIBifAni240121_0264	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845436	316613	324703	+	8091		hypothetical protein	ANI1	clust_3559
+ANI1|SEQ00265	VBIBifAni240121_0265	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845438	324930	325055	+	126	recG	"ATP-dependent DNA helicase RecG "	ANI1	clust_3560
+ANI1|SEQ00270	VBIBifAni240121_0270	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845448	327831	328301	-	471		SSU ribosomal protein S16p	ANI1	clust_3561
+ANI1|SEQ00296	VBIBifAni240121_0296	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845504	360470	360853	-	384		hypothetical protein	ANI1	clust_3562
+ANI1|SEQ00304	VBIBifAni240121_0304	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845520	368579	371665	+	3087		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	ANI1	clust_3563
+ANI1|SEQ00305	VBIBifAni240121_0305	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845522	372479	372682	-	204		hypothetical protein	ANI1	clust_3564
+ANI1|SEQ00308	VBIBifAni240121_0308	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845528	373242	373469	-	228		hypothetical protein	ANI1	clust_3565
+ANI1|SEQ00321	VBIBifAni240121_0321	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845556	387059	387175	-	117		hypothetical protein	ANI1	clust_3566
+ANI1|SEQ00337	VBIBifAni240121_0337	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845590	412628	412990	-	363		hypothetical protein	ANI1	clust_3567
+ANI1|SEQ00342	VBIBifAni240121_0342	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845600	417658	417798	-	141		hypothetical protein	ANI1	clust_3568
+ANI1|SEQ00358	VBIBifAni240121_0358	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845632	435449	437080	+	1632		FIG00424610: hypothetical protein	ANI1	clust_3569
+ANI1|SEQ00369	VBIBifAni240121_0369	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845660	447830	447964	-	135		hypothetical protein	ANI1	clust_3570
+ANI1|SEQ00383	VBIBifAni240121_0383	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845690	466660	467634	-	975		COG0504: CTP synthase (UTP-ammonia lyase)	ANI1	clust_3571
+ANI1|SEQ00425	VBIBifAni240121_0425	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845777	498668	498799	+	132		hypothetical protein	ANI1	clust_3572
+ANI1|SEQ00435	VBIBifAni240121_0435	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845799	513066	513710	+	645		hypothetical protein	ANI1	clust_3573
+ANI1|SEQ00437	VBIBifAni240121_0437	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845804	515247	515948	+	702		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	ANI1	clust_3574
+ANI1|SEQ00438	VBIBifAni240121_0438	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845806	515924	516121	+	198		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	ANI1	clust_3575
+ANI1|SEQ00440	VBIBifAni240121_0440	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845812	518303	519364	+	1062		hypothetical protein	ANI1	clust_3576
+ANI1|SEQ00441	VBIBifAni240121_0441	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845814	519669	519782	+	114		hypothetical protein	ANI1	clust_3577
+ANI1|SEQ00442	VBIBifAni240121_0442	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845816	520097	521485	+	1389		FIG00750832: hypothetical protein	ANI1	clust_3578
+ANI1|SEQ00446	VBIBifAni240121_0446	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845824	527101	528630	+	1530		hypothetical protein	ANI1	clust_3579
+ANI1|SEQ00450	VBIBifAni240121_0450	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845832	533398	533751	+	354		Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase	ANI1	clust_3580
+ANI1|SEQ00451	VBIBifAni240121_0451	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845834	533706	534395	+	690		Quinone oxidoreductase (EC 1.6.5.5)	ANI1	clust_3581
+ANI1|SEQ00457	VBIBifAni240121_0457	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845846	541660	542469	+	810		NLP/P60 family protein	ANI1	clust_3582
+ANI1|SEQ00464	VBIBifAni240121_0464	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845860	548076	548363	-	288		hypothetical protein	ANI1	clust_3583
+ANI1|SEQ00466	VBIBifAni240121_0466	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845866	549807	550874	-	1068		integral membrane protein	ANI1	clust_3584
+ANI1|SEQ00467	VBIBifAni240121_0467	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845868	550853	550987	-	135		hypothetical protein	ANI1	clust_3586
+ANI1|SEQ00468	VBIBifAni240121_0468	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845870	551021	552016	+	996		5'-nucleotidase (EC 3.1.3.5)	ANI1	clust_3587
+ANI1|SEQ00469	VBIBifAni240121_0469	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845872	552270	552695	+	426		hypothetical protein	ANI1	clust_3588
+ANI1|SEQ00471	VBIBifAni240121_0471	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845876	554441	554764	+	324		hypothetical protein	ANI1	clust_3589
+ANI1|SEQ00472	VBIBifAni240121_0472	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845878	555399	556919	+	1521		hypothetical protein	ANI1	clust_3590
+ANI1|SEQ00482	VBIBifAni240121_0482	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845898	572429	572824	-	396		hypothetical protein	ANI1	clust_3591
+ANI1|SEQ00483	VBIBifAni240121_0483	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845900	573010	573561	+	552		hypothetical protein	ANI1	clust_3592
+ANI1|SEQ00484	VBIBifAni240121_0484	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845902	573741	574241	+	501		hypothetical protein	ANI1	clust_3593
+ANI1|SEQ00506	VBIBifAni240121_0506	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845953	601655	602563	+	909		hypothetical protein	ANI1	clust_3594
+ANI1|SEQ00507	VBIBifAni240121_0507	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845957	602801	603649	-	849		hypothetical protein	ANI1	clust_3595
+ANI1|SEQ00508	VBIBifAni240121_0508	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845959	604071	604280	+	210		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent	ANI1	clust_3596
+ANI1|SEQ00509	VBIBifAni240121_0509	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845961	604277	604450	-	174		hypothetical protein	ANI1	clust_3597
+ANI1|SEQ00520	VBIBifAni240121_0520	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845983	619125	619493	+	369		hypothetical protein	ANI1	clust_3598
+ANI1|SEQ00533	VBIBifAni240121_0533	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846009	632612	632728	+	117		hypothetical protein	ANI1	clust_3599
+ANI1|SEQ00535	VBIBifAni240121_0535	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846013	634786	635508	+	723		Single-stranded DNA-binding protein	ANI1	clust_3600
+ANI1|SEQ00542	VBIBifAni240121_0542	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846027	642679	642897	+	219		hypothetical protein	ANI1	clust_3601
+ANI1|SEQ00543	VBIBifAni240121_0543	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846029	642920	643051	+	132		hypothetical protein	ANI1	clust_3602
+ANI1|SEQ00550	VBIBifAni240121_0550	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846043	650511	650624	-	114		hypothetical protein	ANI1	clust_3603
+ANI1|SEQ00552	VBIBifAni240121_0552	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846047	651520	651747	-	228		hypothetical protein	ANI1	clust_3604
+ANI1|SEQ00557	VBIBifAni240121_0557	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846057	657185	657340	-	156		hypothetical protein	ANI1	clust_3605
+ANI1|SEQ00560	VBIBifAni240121_0560	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846063	660146	660547	+	402		hypothetical protein	ANI1	clust_3606
+ANI1|SEQ00570	VBIBifAni240121_0570	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846083	672270	672404	-	135		hypothetical protein	ANI1	clust_3607
+ANI1|SEQ00572	VBIBifAni240121_0572	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846087	673625	673753	+	129		hypothetical protein	ANI1	clust_3608
+ANI1|SEQ00574	VBIBifAni240121_0574	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846091	674362	674505	-	144		hypothetical protein	ANI1	clust_3609
+ANI1|SEQ00575	VBIBifAni240121_0575	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846093	674623	674943	+	321		hypothetical protein	ANI1	clust_3610
+ANI1|SEQ00576	VBIBifAni240121_0576	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846095	675085	675426	+	342		hypothetical protein	ANI1	clust_3611
+ANI1|SEQ00577	VBIBifAni240121_0577	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846097	675450	675833	-	384		hypothetical protein	ANI1	clust_3612
+ANI1|SEQ00585	VBIBifAni240121_0585	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846114	684768	685556	-	789		expressed protein	ANI1	clust_3613
+ANI1|SEQ00586	VBIBifAni240121_0586	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846116	685673	686686	-	1014		Glycerol dehydrogenase (EC 1.1.1.6)	ANI1	clust_3614
+ANI1|SEQ00603	VBIBifAni240121_0603	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846152	708285	709568	+	1284		hypothetical protein	ANI1	clust_3615
+ANI1|SEQ00604	VBIBifAni240121_0604	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846154	709950	710402	+	453		hypothetical protein	ANI1	clust_3616
+ANI1|SEQ00606	VBIBifAni240121_0606	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846158	711264	711860	-	597		hypothetical protein	ANI1	clust_3617
+ANI1|SEQ00607	VBIBifAni240121_0607	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846160	711989	712165	-	177		hypothetical protein	ANI1	clust_3618
+ANI1|SEQ00608	VBIBifAni240121_0608	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846162	712164	712307	+	144		hypothetical protein	ANI1	clust_3619
+ANI1|SEQ00609	VBIBifAni240121_0609	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846164	712411	713949	+	1539		hypothetical protein	ANI1	clust_3620
+ANI1|SEQ00610	VBIBifAni240121_0610	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846166	713975	714703	+	729		hypothetical protein	ANI1	clust_3621
+ANI1|SEQ00611	VBIBifAni240121_0611	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846168	714744	715193	+	450		hypothetical protein	ANI1	clust_3622
+ANI1|SEQ00612	VBIBifAni240121_0612	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846170	715267	715851	+	585		hypothetical protein	ANI1	clust_3623
+ANI1|SEQ00619	VBIBifAni240121_0619	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846186	726584	726718	+	135		hypothetical protein	ANI1	clust_3624
+ANI1|SEQ00624	VBIBifAni240121_0624	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846196	731663	732337	-	675		hypothetical protein	ANI1	clust_3625
+ANI1|SEQ00625	VBIBifAni240121_0625	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846198	732478	733047	-	570		hypothetical protein	ANI1	clust_3626
+ANI1|SEQ00626	VBIBifAni240121_0626	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846200	733106	733270	-	165		hypothetical protein	ANI1	clust_3627
+ANI1|SEQ00644	VBIBifAni240121_0644	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846237	755472	755687	+	216		Prokaryotic ubiquitin-like protein Pup	ANI1	clust_3628
+ANI1|SEQ00650	VBIBifAni240121_0650	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846249	763361	763639	-	279		hypothetical protein	ANI1	clust_3629
+ANI1|SEQ00659	VBIBifAni240121_0659	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846267	771055	771189	+	135		CspA	ANI1	clust_3630
+ANI1|SEQ00662	VBIBifAni240121_0662	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846273	773529	774536	+	1008		FIG01258360: hypothetical protein	ANI1	clust_3631
+ANI1|SEQ00667	VBIBifAni240121_0667	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846283	778931	779953	-	1023		hypothetical protein	ANI1	clust_3632
+ANI1|SEQ00669	VBIBifAni240121_0669	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846287	781132	781275	-	144		hypothetical protein	ANI1	clust_3633
+ANI1|SEQ00674	VBIBifAni240121_0674	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846297	789348	790136	+	789		contains alpha/beta hydrolase fold domain	ANI1	clust_3634
+ANI1|SEQ00684	VBIBifAni240121_0684	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846317	802760	803839	+	1080		hypothetical protein	ANI1	clust_3635
+ANI1|SEQ00685	VBIBifAni240121_0685	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846319	803869	804021	+	153		hypothetical protein	ANI1	clust_3636
+ANI1|SEQ00686	VBIBifAni240121_0686	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846321	804306	805871	+	1566		hypothetical protein	ANI1	clust_3637
+ANI1|SEQ00708	VBIBifAni240121_0708	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846365	833651	834772	+	1122		hypothetical protein	ANI1	clust_3638
+ANI1|SEQ00709	VBIBifAni240121_0709	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846367	834791	835120	-	330		hypothetical protein	ANI1	clust_3639
+ANI1|SEQ00717	VBIBifAni240121_0717	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846383	844381	844641	-	261		similar to transporter	ANI1	clust_3640
+ANI1|SEQ00733	VBIBifAni240121_0733	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846415	862456	864123	+	1668		TPR-repeat-containing protein	ANI1	clust_3641
+ANI1|SEQ00749	VBIBifAni240121_0749	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846449	880349	881278	+	930		FIG00672247: hypothetical protein	ANI1	clust_3642
+ANI1|SEQ00755	VBIBifAni240121_0755	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846465	888518	889006	+	489	comEA	putative DNA-binding protein	ANI1	clust_3643
+ANI1|SEQ00762	VBIBifAni240121_0762	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846481	895137	895643	-	507		hypothetical protein	ANI1	clust_3644
+ANI1|SEQ00777	VBIBifAni240121_0777	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846513	910736	911305	+	570		hypothetical protein	ANI1	clust_3645
+ANI1|SEQ00779	VBIBifAni240121_0779	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846517	912049	912786	+	738		hypothetical protein	ANI1	clust_3646
+ANI1|SEQ00783	VBIBifAni240121_0783	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846525	915825	916415	-	591		Hypothetical protein VC0266 (sugar utilization related?)	ANI1	clust_3647
+ANI1|SEQ00784	VBIBifAni240121_0784	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846527	916595	916744	-	150		hypothetical protein	ANI1	clust_3648
+ANI1|SEQ00785	VBIBifAni240121_0785	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846529	916951	917256	-	306		hypothetical protein	ANI1	clust_3649
+ANI1|SEQ00798	VBIBifAni240121_0798	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846555	927664	928017	+	354		hypothetical protein	ANI1	clust_3650
+ANI1|SEQ00799	VBIBifAni240121_0799	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846557	928403	928780	+	378		CrcB protein	ANI1	clust_3651
+ANI1|SEQ00824	VBIBifAni240121_0824	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846611	957681	958202	+	522		transcription repressor	ANI1	clust_3652
+ANI1|SEQ00825	VBIBifAni240121_0825	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846613	958248	958427	-	180		hypothetical protein	ANI1	clust_3653
+ANI1|SEQ00826	VBIBifAni240121_0826	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846615	958475	958717	-	243		hypothetical protein	ANI1	clust_3654
+ANI1|SEQ00836	VBIBifAni240121_0836	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846643	970734	971252	-	519		putative transcriptional regulator, AsnC family	ANI1	clust_3655
+ANI1|SEQ00839	VBIBifAni240121_0839	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846649	974026	974274	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ANI1	clust_3656
+ANI1|SEQ00846	VBIBifAni240121_0846	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846664	981972	982091	+	120		hypothetical protein	ANI1	clust_3657
+ANI1|SEQ00848	VBIBifAni240121_0848	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846668	985416	986381	+	966		hypothetical protein	ANI1	clust_3658
+ANI1|SEQ00861	VBIBifAni240121_0861	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846694	1000152	1001060	+	909		hydrolase, putative	ANI1	clust_3660
+ANI1|SEQ00863	VBIBifAni240121_0863	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846698	1001758	1002291	+	534	mutT	NUDIX family hydrolase	ANI1	clust_3661
+ANI1|SEQ00902	VBIBifAni240121_0902	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846778	1048502	1048975	-	474		transposase for insertion sequence	ANI1	clust_3662
+ANI1|SEQ00912	VBIBifAni240121_0912	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846798	1060635	1061183	-	549		mannan endo-1,4-beta-mannosidase precursor	ANI1	clust_3663
+ANI1|SEQ00913	VBIBifAni240121_0913	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846800	1061229	1062215	-	987		Pullulanase (EC 3.2.1.41)	ANI1	clust_3664
+ANI1|SEQ00914	VBIBifAni240121_0914	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846802	1062268	1062720	-	453		Pullulanase (EC 3.2.1.41)	ANI1	clust_3665
+ANI1|SEQ00916	VBIBifAni240121_0916	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846806	1063506	1063622	-	117		hypothetical protein	ANI1	clust_3666
+ANI1|SEQ00917	VBIBifAni240121_0917	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846808	1063923	1064522	-	600		hypothetical protein	ANI1	clust_3667
+ANI1|SEQ00918	VBIBifAni240121_0918	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846810	1064630	1065832	-	1203		hypothetical protein	ANI1	clust_3668
+ANI1|SEQ00919	VBIBifAni240121_0919	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846812	1065867	1067036	-	1170		hypothetical protein	ANI1	clust_3669
+ANI1|SEQ00921	VBIBifAni240121_0921	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846816	1067934	1068386	+	453		hypothetical protein	ANI1	clust_3670
+ANI1|SEQ00939	VBIBifAni240121_0939	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846854	1086927	1087181	+	255		Aspartate aminotransferase (EC 2.6.1.1)	ANI1	clust_3671
+ANI1|SEQ00940	VBIBifAni240121_0940	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846856	1087171	1088121	+	951		Putative aminotransferase	ANI1	clust_3672
+ANI1|SEQ00941	VBIBifAni240121_0941	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846858	1088118	1088975	-	858		hypothetical protein	ANI1	clust_3673
+ANI1|SEQ00942	VBIBifAni240121_0942	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846860	1089217	1090689	-	1473		Cytoplasmic alpha-amylase (EC 3.2.1.1)	ANI1	clust_3674
+ANI1|SEQ00944	VBIBifAni240121_0944	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846864	1091718	1092197	-	480		FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX	ANI1	clust_3675
+ANI1|SEQ00945	VBIBifAni240121_0945	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846866	1092295	1092915	-	621		hypothetical protein	ANI1	clust_3676
+ANI1|SEQ00950	VBIBifAni240121_0950	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846876	1096649	1097359	-	711		hypothetical protein	ANI1	clust_3677
+ANI1|SEQ00951	VBIBifAni240121_0951	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846878	1097645	1097950	+	306		Isochorismate pyruvate-lyase (EC 4.-.-.-)	ANI1	clust_3678
+ANI1|SEQ00952	VBIBifAni240121_0952	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846880	1098218	1098874	+	657		hypothetical protein	ANI1	clust_3679
+ANI1|SEQ00953	VBIBifAni240121_0953	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846882	1098887	1099108	-	222		acetyltransferase, GNAT family	ANI1	clust_3680
+ANI1|SEQ00954	VBIBifAni240121_0954	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846884	1099248	1099820	-	573		DNA topology modulation protein	ANI1	clust_3681
+ANI1|SEQ00957	VBIBifAni240121_0957	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846890	1103273	1104238	-	966		Mobile element protein	ANI1	clust_3682
+ANI1|SEQ00958	VBIBifAni240121_0958	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846892	1104488	1104670	+	183		hypothetical protein	ANI1	clust_3683
+ANI1|SEQ00972	VBIBifAni240121_0972	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846924	1125754	1125876	+	123		hypothetical protein	ANI1	clust_3684
+ANI1|SEQ01005	VBIBifAni240121_1005	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846992	1162927	1163067	+	141		hypothetical protein	ANI1	clust_3685
+ANI1|SEQ01016	VBIBifAni240121_1016	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847014	1178590	1178757	-	168		Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein	ANI1	clust_3686
+ANI1|SEQ01017	VBIBifAni240121_1017	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847016	1178757	1179221	-	465		hypothetical protein	ANI1	clust_3687
+ANI1|SEQ01019	VBIBifAni240121_1019	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847020	1180058	1180249	-	192		hypothetical protein	ANI1	clust_3688
+ANI1|SEQ01022	VBIBifAni240121_1022	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847026	1181457	1181576	-	120		hypothetical protein	ANI1	clust_3689
+ANI1|SEQ01027	VBIBifAni240121_1027	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847036	1185853	1186044	-	192		hypothetical protein	ANI1	clust_3690
+ANI1|SEQ01041	VBIBifAni240121_1041	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847064	1204550	1204828	+	279		hypothetical protein	ANI1	clust_3691
+ANI1|SEQ01081	VBIBifAni240121_1081	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847149	1253961	1255295	+	1335		FIG00945285: hypothetical protein	ANI1	clust_3692
+ANI1|SEQ01084	VBIBifAni240121_1084	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847155	1259465	1260424	-	960		Putative glucose uptake permease	ANI1	clust_3693
+ANI1|SEQ01086	VBIBifAni240121_1086	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847159	1265245	1265874	-	630		transporter, putative fucose permease	ANI1	clust_3694
+ANI1|SEQ01116	VBIBifAni240121_1116	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847219	1303448	1304263	-	816		hypothetical protein	ANI1	clust_3695
+ANI1|SEQ01120	VBIBifAni240121_1120	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847227	1307907	1308158	+	252		hypothetical protein	ANI1	clust_3696
+ANI1|SEQ01128	VBIBifAni240121_1128	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847243	1318839	1319513	+	675		hypothetical protein	ANI1	clust_3697
+ANI1|SEQ01153	VBIBifAni240121_1153	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847294	1348530	1348841	-	312		hypothetical protein	ANI1	clust_3698
+ANI1|SEQ01158	VBIBifAni240121_1158	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847304	1354309	1354932	+	624		response regulator containing a CheY-like receiver domain and a HTH DNA-binding domain	ANI1	clust_3699
+ANI1|SEQ01160	VBIBifAni240121_1160	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847308	1356101	1356892	-	792		hypothetical protein	ANI1	clust_3700
+ANI1|SEQ01161	VBIBifAni240121_1161	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847310	1356977	1357093	-	117		hypothetical protein	ANI1	clust_3701
+ANI1|SEQ01168	VBIBifAni240121_1168	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847324	1363812	1364312	-	501		hypothetical protein	ANI1	clust_3702
+ANI1|SEQ01169	VBIBifAni240121_1169	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847326	1364581	1364787	+	207		hypothetical protein	ANI1	clust_3703
+ANI1|SEQ01170	VBIBifAni240121_1170	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847328	1364802	1365014	+	213		hypothetical protein	ANI1	clust_3704
+ANI1|SEQ01171	VBIBifAni240121_1171	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847330	1365027	1365263	+	237		hypothetical protein	ANI1	clust_3705
+ANI1|SEQ01172	VBIBifAni240121_1172	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847332	1365268	1365459	+	192		hypothetical protein	ANI1	clust_3706
+ANI1|SEQ01173	VBIBifAni240121_1173	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847334	1365447	1365638	+	192		hypothetical protein	ANI1	clust_3707
+ANI1|SEQ01175	VBIBifAni240121_1175	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847338	1367069	1367341	+	273		hypothetical protein	ANI1	clust_3708
+ANI1|SEQ01176	VBIBifAni240121_1176	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847340	1367338	1367526	+	189		hypothetical protein	ANI1	clust_3709
+ANI1|SEQ01177	VBIBifAni240121_1177	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847342	1367549	1367785	+	237		hypothetical protein	ANI1	clust_3710
+ANI1|SEQ01178	VBIBifAni240121_1178	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847344	1367782	1368099	+	318		hypothetical protein	ANI1	clust_3711
+ANI1|SEQ01179	VBIBifAni240121_1179	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847346	1368515	1370278	+	1764		Putative phage prohead protease	ANI1	clust_3712
+ANI1|SEQ01180	VBIBifAni240121_1180	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847348	1370290	1370511	+	222		hypothetical protein	ANI1	clust_3713
+ANI1|SEQ01184	VBIBifAni240121_1184	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847357	1375391	1375705	-	315		Probable solute-binding protein of ABC transporter for peptides	ANI1	clust_3714
+ANI1|SEQ01202	VBIBifAni240121_1202	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847395	1396269	1396700	-	432		hypothetical protein	ANI1	clust_3715
+ANI1|SEQ01217	VBIBifAni240121_1217	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847425	1414926	1415048	+	123		hypothetical protein	ANI1	clust_3716
+ANI1|SEQ01219	VBIBifAni240121_1219	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847429	1418984	1419289	+	306		hypothetical protein	ANI1	clust_3717
+ANI1|SEQ01237	VBIBifAni240121_1237	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847466	1438915	1439100	-	186		hypothetical protein	ANI1	clust_3718
+ANI1|SEQ01243	VBIBifAni240121_1243	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847478	1445123	1446724	-	1602		FIG00424036: hypothetical protein	ANI1	clust_3719
+ANI1|SEQ01244	VBIBifAni240121_1244	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847482	1447094	1447585	+	492		hypothetical protein	ANI1	clust_3720
+ANI1|SEQ01257	VBIBifAni240121_1257	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847508	1460168	1460290	+	123		hypothetical protein	ANI1	clust_3721
+ANI1|SEQ01263	VBIBifAni240121_1263	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847520	1464889	1465143	+	255		hypothetical protein	ANI1	clust_3722
+ANI1|SEQ01271	VBIBifAni240121_1271	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847546	1479830	1481365	-	1536	arcD	Arginine/ornithine antiporter ArcD	ANI1	clust_3723
+ANI1|SEQ01272	VBIBifAni240121_1272	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847548	1481468	1482097	-	630		hypothetical protein	ANI1	clust_3724
+ANI1|SEQ01273	VBIBifAni240121_1273	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847550	1482242	1482460	-	219		hypothetical protein	ANI1	clust_3725
+ANI1|SEQ01275	VBIBifAni240121_1275	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847554	1484438	1485895	+	1458		hypothetical protein	ANI1	clust_3726
+ANI1|SEQ01276	VBIBifAni240121_1276	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847557	1486002	1486700	-	699		Phage shock protein A	ANI1	clust_3727
+ANI1|SEQ01277	VBIBifAni240121_1277	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847559	1486703	1487938	-	1236		hypothetical protein	ANI1	clust_3728
+ANI1|SEQ01278	VBIBifAni240121_1278	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847561	1488038	1488199	-	162		hypothetical protein	ANI1	clust_3729
+ANI1|SEQ01280	VBIBifAni240121_1280	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847565	1491867	1492106	+	240		hypothetical protein	ANI1	clust_3730
+ANI1|SEQ01281	VBIBifAni240121_1281	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847567	1492332	1492499	-	168		hypothetical protein	ANI1	clust_3731
+ANI1|SEQ01282	VBIBifAni240121_1282	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847569	1492682	1493452	-	771		protein tyrosine/serine phosphatase	ANI1	clust_3732
+ANI1|SEQ01283	VBIBifAni240121_1283	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847571	1493480	1493770	-	291		hypothetical protein	ANI1	clust_3733
+ANI1|SEQ01284	VBIBifAni240121_1284	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847573	1494009	1494221	-	213		hypothetical protein	ANI1	clust_3734
+ANI1|SEQ01288	VBIBifAni240121_1288	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847581	1499234	1499800	-	567		hypothetical protein	ANI1	clust_3735
+ANI1|SEQ01289	VBIBifAni240121_1289	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847583	1500043	1500426	+	384		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI1	clust_3736
+ANI1|SEQ01290	VBIBifAni240121_1290	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847585	1501436	1501645	+	210		hypothetical protein	ANI1	clust_3737
+ANI1|SEQ01291	VBIBifAni240121_1291	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847587	1501655	1501786	+	132		hypothetical protein	ANI1	clust_3738
+ANI1|SEQ01292	VBIBifAni240121_1292	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847589	1501972	1502211	-	240		hypothetical protein	ANI1	clust_3739
+ANI1|SEQ01293	VBIBifAni240121_1293	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847591	1503176	1503343	+	168		hypothetical protein	ANI1	clust_3740
+ANI1|SEQ01300	VBIBifAni240121_1300	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847605	1519564	1520130	+	567		Integral membrane protein	ANI1	clust_3741
+ANI1|SEQ01301	VBIBifAni240121_1301	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847607	1520127	1520528	+	402		hypothetical protein	ANI1	clust_3742
+ANI1|SEQ01333	VBIBifAni240121_1333	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847673	1577081	1577386	+	306		hypothetical protein	ANI1	clust_3743
+ANI1|SEQ01348	VBIBifAni240121_1348	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847703	1594104	1594223	-	120		hypothetical protein	ANI1	clust_3744
+ANI1|SEQ01350	VBIBifAni240121_1350	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847707	1595040	1595174	-	135		hypothetical protein	ANI1	clust_3745
+ANI1|SEQ01370	VBIBifAni240121_1370	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847747	1619391	1620278	-	888		glycosyl transferase, family 2	ANI1	clust_3747
+ANI1|SEQ01371	VBIBifAni240121_1371	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847749	1620297	1621310	-	1014		Glycosyl transferase, family 2	ANI1	clust_3748
+ANI1|SEQ01372	VBIBifAni240121_1372	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847751	1621303	1622649	-	1347		hypothetical protein	ANI1	clust_3749
+ANI1|SEQ01375	VBIBifAni240121_1375	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847757	1624321	1625205	-	885	rfbN	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	ANI1	clust_3750
+ANI1|SEQ01376	VBIBifAni240121_1376	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847759	1625358	1626290	-	933		polysaccharide biosynthesis protein	ANI1	clust_3751
+ANI1|SEQ01378	VBIBifAni240121_1378	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847763	1627723	1629159	-	1437		hypothetical protein	ANI1	clust_3752
+ANI1|SEQ01387	VBIBifAni240121_1387	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847781	1639553	1640689	+	1137		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	ANI1	clust_3753
+ANI1|SEQ01389	VBIBifAni240121_1389	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847785	1643803	1644936	+	1134	esp110	Eps11O	ANI1	clust_3754
+ANI1|SEQ01396	VBIBifAni240121_1396	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847799	1657511	1658116	+	606		hypothetical protein	ANI1	clust_3755
+ANI1|SEQ01409	VBIBifAni240121_1409	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847827	1674743	1674901	+	159		hypothetical protein	ANI1	clust_3756
+ANI1|SEQ01423	VBIBifAni240121_1423	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847857	1688447	1689547	-	1101		hypothetical protein	ANI1	clust_3757
+ANI1|SEQ01424	VBIBifAni240121_1424	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847859	1690017	1690412	+	396		hypothetical protein	ANI1	clust_3758
+ANI1|SEQ01430	VBIBifAni240121_1430	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847871	1697962	1699119	-	1158		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	ANI1	clust_3759
+ANI1|SEQ01433	VBIBifAni240121_1433	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847877	1703145	1704803	-	1659		Voltage-gated chloride channel family protein	ANI1	clust_3760
+ANI1|SEQ01434	VBIBifAni240121_1434	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847879	1705001	1710259	-	5259		hypothetical protein	ANI1	clust_3761
+ANI1|SEQ01445	VBIBifAni240121_1445	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847901	1724631	1726595	+	1965		FIG00424035: hypothetical protein	ANI1	clust_3762
+ANI1|SEQ01446	VBIBifAni240121_1446	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847903	1726684	1728687	-	2004	rho	Transcription termination factor Rho	ANI1	clust_3763
+ANI1|SEQ01453	VBIBifAni240121_1453	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847917	1735980	1736786	-	807		ABC transporter, integral membrane subunit	ANI1	clust_3764
+ANI1|SEQ01457	VBIBifAni240121_1457	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847925	1739594	1741000	+	1407		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ANI1	clust_3765
+ANI1|SEQ01469	VBIBifAni240121_1469	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847949	1755368	1755727	-	360		hypothetical protein	ANI1	clust_3767
+ANI1|SEQ01471	VBIBifAni240121_1471	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847955	1757074	1757337	+	264		hypothetical protein	ANI1	clust_3768
+ANI1|SEQ01483	VBIBifAni240121_1483	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847985	1773151	1773390	-	240		hypothetical protein	ANI1	clust_3769
+ANI1|SEQ01487	VBIBifAni240121_1487	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847993	1777973	1778230	-	258		hypothetical protein	ANI1	clust_3770
+ANI1|SEQ01490	VBIBifAni240121_1490	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847999	1782679	1783548	-	870		1,4-beta-N-acetylmuramidase	ANI1	clust_3771
+ANI1|SEQ01491	VBIBifAni240121_1491	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848001	1783641	1785269	-	1629		hypothetical protein	ANI1	clust_3772
+ANI1|SEQ01492	VBIBifAni240121_1492	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848003	1785160	1785273	-	114		hypothetical protein	ANI1	clust_3773
+ANI1|SEQ01493	VBIBifAni240121_1493	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848005	1785462	1785578	-	117		hypothetical protein	ANI1	clust_3774
+ANI1|SEQ01495	VBIBifAni240121_1495	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848009	1786809	1787366	+	558		Internalin-like protein (LPXTG motif) Lmo0331 homolog	ANI1	clust_3775
+ANI1|SEQ01496	VBIBifAni240121_1496	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848011	1787427	1787954	+	528		Beta-galactosidase (EC 3.2.1.23)	ANI1	clust_3776
+ANI1|SEQ01501	VBIBifAni240121_1501	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848021	1792473	1792604	+	132		hypothetical protein	ANI1	clust_3777
+ANI1|SEQ01505	VBIBifAni240121_1505	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848031	1799450	1799584	+	135		hypothetical protein	ANI1	clust_3778
+ANI1|SEQ01508	VBIBifAni240121_1508	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848037	1802951	1804015	+	1065		FIG00424766: hypothetical protein	ANI1	clust_3779
+ANI1|SEQ01514	VBIBifAni240121_1514	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848049	1812417	1813130	-	714		hypothetical protein	ANI1	clust_3780
+ANI1|SEQ01517	VBIBifAni240121_1517	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848055	1817057	1817482	+	426		hypothetical protein	ANI1	clust_3781
+ANI1|SEQ01519	VBIBifAni240121_1519	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848059	1819859	1820128	+	270		hypothetical protein	ANI1	clust_3782
+ANI1|SEQ01541	VBIBifAni240121_1541	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848105	1845424	1845564	+	141		hypothetical protein	ANI1	clust_3783
+ANI1|SEQ01552	VBIBifAni240121_1552	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848128	1859474	1859872	+	399		hypothetical protein	ANI1	clust_3784
+ANI1|SEQ01555	VBIBifAni240121_1555	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848134	1861371	1861943	-	573		Multi-drug-type permease	ANI1	clust_3785
+ANI1|SEQ01556	VBIBifAni240121_1556	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848142	1868234	1868770	+	537		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI1	clust_3786
+ANI1|SEQ01557	VBIBifAni240121_1557	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848144	1868805	1870139	+	1335		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI1	clust_3787
+ANI1|SEQ01573	VBIBifAni240121_1573	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848182	1898449	1898583	+	135		hypothetical protein	ANI1	clust_3788
+ANI1|SEQ01576	VBIBifAni240121_1576	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848188	1901782	1903341	-	1560		FIG01271588: hypothetical protein	ANI1	clust_3789
+ANI1|SEQ01582	VBIBifAni240121_1582	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848200	1911436	1911888	-	453		hypothetical protein	ANI1	clust_3790
+ANI1|SEQ01584	VBIBifAni240121_1584	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848204	1912936	1915053	+	2118		hypothetical protein	ANI1	clust_3791
+ANI1|SEQ01585	VBIBifAni240121_1585	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848206	1915166	1915375	-	210		hypothetical protein	ANI1	clust_3792
+ANI1|SEQ01595	VBIBifAni240121_1595	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848228	1930453	1930644	-	192		hypothetical protein	ANI1	clust_3793
+ANI2|SEQ00012	VBIBifAni235968_0012	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848271	16835	16990	+	156		hypothetical protein	ANI2	clust_3495
+ANI2|SEQ00020	VBIBifAni235968_0020	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848291	26398	27153	+	756		Methyltransferase	ANI2	clust_3496
+ANI2|SEQ00021	VBIBifAni235968_0021	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848293	27202	28116	+	915		hypothetical protein	ANI2	clust_3497
+ANI2|SEQ00022	VBIBifAni235968_0022	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848295	28439	29038	+	600		hypothetical protein	ANI2	clust_3498
+ANI2|SEQ00023	VBIBifAni235968_0023	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848297	29334	29954	+	621		hypothetical protein	ANI2	clust_3499
+ANI2|SEQ00024	VBIBifAni235968_0024	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848299	30678	30914	+	237		hypothetical protein	ANI2	clust_3500
+ANI2|SEQ00025	VBIBifAni235968_0025	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848301	31567	31824	+	258		hypothetical protein	ANI2	clust_3501
+ANI2|SEQ00027	VBIBifAni235968_0027	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848305	32739	33755	+	1017		hypothetical protein	ANI2	clust_3502
+ANI2|SEQ00029	VBIBifAni235968_0029	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848309	37469	39892	+	2424		hypothetical protein	ANI2	clust_3503
+ANI2|SEQ00030	VBIBifAni235968_0030	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848311	39920	40123	-	204		hypothetical protein	ANI2	clust_3504
+ANI2|SEQ00031	VBIBifAni235968_0031	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848313	40482	42617	-	2136		hypothetical protein	ANI2	clust_3505
+ANI2|SEQ00032	VBIBifAni235968_0032	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848315	42644	44086	-	1443		hypothetical protein	ANI2	clust_3506
+ANI2|SEQ00033	VBIBifAni235968_0033	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848317	44261	44464	+	204		hypothetical protein	ANI2	clust_3507
+ANI2|SEQ00035	VBIBifAni235968_0035	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848321	45029	45178	-	150		hypothetical protein	ANI2	clust_3508
+ANI2|SEQ00036	VBIBifAni235968_0036	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848323	45220	45474	+	255		hypothetical protein	ANI2	clust_3509
+ANI2|SEQ00037	VBIBifAni235968_0037	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848325	45695	45859	+	165		hypothetical protein	ANI2	clust_3510
+ANI2|SEQ00038	VBIBifAni235968_0038	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848327	46047	46985	-	939		Transcriptional regulator	ANI2	clust_3511
+ANI2|SEQ00039	VBIBifAni235968_0039	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848329	47081	47329	+	249		Aldo/keto reductase of diketogulonate reductase family( EC:1.1.1.274 )	ANI2	clust_3512
+ANI2|SEQ00043	VBIBifAni235968_0043	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848338	51040	51309	-	270		hypothetical protein	ANI2	clust_3513
+ANI2|SEQ00057	VBIBifAni235968_0057	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848366	65524	65865	+	342		hypothetical protein	ANI2	clust_3515
+ANI2|SEQ00068	VBIBifAni235968_0068	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848388	81843	82190	+	348		FIG00672454: hypothetical protein	ANI2	clust_3516
+ANI2|SEQ00089	VBIBifAni235968_0089	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848430	108714	109052	+	339		hypothetical protein	ANI2	clust_3517
+ANI2|SEQ00090	VBIBifAni235968_0090	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848432	109132	110085	+	954		Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)	ANI2	clust_3518
+ANI2|SEQ00091	VBIBifAni235968_0091	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848434	110587	110841	-	255		Integral membrane protein	ANI2	clust_3519
+ANI2|SEQ00092	VBIBifAni235968_0092	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848436	111113	111283	-	171		hypothetical protein	ANI2	clust_3520
+ANI2|SEQ00094	VBIBifAni235968_0094	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848442	113573	113782	-	210		hypothetical protein	ANI2	clust_3521
+ANI2|SEQ00096	VBIBifAni235968_0096	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848446	116322	118163	-	1842		FIG00672241: hypothetical protein	ANI2	clust_3522
+ANI2|SEQ00098	VBIBifAni235968_0098	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848450	119450	120979	+	1530		hypothetical protein	ANI2	clust_3523
+ANI2|SEQ00102	VBIBifAni235968_0102	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848460	124983	125624	+	642		hypothetical protein	ANI2	clust_3524
+ANI2|SEQ00104	VBIBifAni235968_0104	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848464	127054	127317	-	264		hypothetical protein	ANI2	clust_3525
+ANI2|SEQ00107	VBIBifAni235968_0107	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848470	128864	130081	+	1218		hypothetical protein	ANI2	clust_3526
+ANI2|SEQ00110	VBIBifAni235968_0110	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848476	131417	132403	-	987		Dienelactone hydrolase and related enzymes	ANI2	clust_3527
+ANI2|SEQ00113	VBIBifAni235968_0113	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848482	134530	134712	-	183		hypothetical protein	ANI2	clust_3528
+ANI2|SEQ00114	VBIBifAni235968_0114	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848484	134766	136061	-	1296		Oxidoreductase (EC 1.1.1.-)	ANI2	clust_3529
+ANI2|SEQ00122	VBIBifAni235968_0122	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848500	142357	142530	-	174		hypothetical protein	ANI2	clust_3530
+ANI2|SEQ00126	VBIBifAni235968_0126	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848508	145563	146474	+	912	crcB	FIG00423915: hypothetical protein	ANI2	clust_3531
+ANI2|SEQ00136	VBIBifAni235968_0136	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848528	157936	158664	+	729		Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	ANI2	clust_3532
+ANI2|SEQ00139	VBIBifAni235968_0139	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848534	161448	163001	+	1554		hypothetical protein	ANI2	clust_3533
+ANI2|SEQ00142	VBIBifAni235968_0142	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848540	163938	164066	+	129		hypothetical protein	ANI2	clust_3534
+ANI2|SEQ00152	VBIBifAni235968_0152	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848560	177915	178076	+	162		hypothetical protein	ANI2	clust_3535
+ANI2|SEQ00160	VBIBifAni235968_0160	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848576	189299	189544	-	246		putative ABC transporter integral membrane protein	ANI2	clust_3536
+ANI2|SEQ00161	VBIBifAni235968_0161	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848578	189541	189858	-	318		ABC lipoprotein transporter, permease component	ANI2	clust_3537
+ANI2|SEQ00162	VBIBifAni235968_0162	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848580	189896	191617	-	1722		putative ABC transporter integral membrane protein	ANI2	clust_3538
+ANI2|SEQ00163	VBIBifAni235968_0163	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848583	191614	192036	-	423		putative ABC transporter ATP-binding protein	ANI2	clust_3539
+ANI2|SEQ00167	VBIBifAni235968_0167	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848591	197236	198762	-	1527		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	ANI2	clust_3540
+ANI2|SEQ00168	VBIBifAni235968_0168	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848593	199137	199826	-	690		hypothetical protein	ANI2	clust_3541
+ANI2|SEQ00170	VBIBifAni235968_0170	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848597	200628	201047	+	420		hypothetical protein	ANI2	clust_3542
+ANI2|SEQ00179	VBIBifAni235968_0179	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848615	214321	214452	+	132		hypothetical protein	ANI2	clust_3543
+ANI2|SEQ00180	VBIBifAni235968_0180	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848617	214555	215436	-	882		hypothetical protein	ANI2	clust_3544
+ANI2|SEQ00181	VBIBifAni235968_0181	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848619	215572	216339	+	768		hypothetical protein	ANI2	clust_3545
+ANI2|SEQ00182	VBIBifAni235968_0182	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848621	216519	217235	-	717		hypothetical protein	ANI2	clust_3546
+ANI2|SEQ00189	VBIBifAni235968_0189	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848637	225947	226219	+	273		Transcriptional regulator, ArsR family	ANI2	clust_3547
+ANI2|SEQ00202	VBIBifAni235968_0202	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848663	239861	240289	-	429		hypothetical protein	ANI2	clust_3548
+ANI2|SEQ00206	VBIBifAni235968_0206	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848671	243193	243729	+	537		hypothetical protein	ANI2	clust_3549
+ANI2|SEQ00207	VBIBifAni235968_0207	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848673	243797	243919	+	123		hypothetical protein	ANI2	clust_3550
+ANI2|SEQ00210	VBIBifAni235968_0210	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848679	244616	245056	+	441		hypothetical protein	ANI2	clust_3551
+ANI2|SEQ00217	VBIBifAni235968_0217	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848693	252018	252428	-	411		hypothetical protein	ANI2	clust_3552
+ANI2|SEQ00240	VBIBifAni235968_0240	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848743	287967	288221	-	255		hypothetical protein	ANI2	clust_3553
+ANI2|SEQ00243	VBIBifAni235968_0243	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848749	290559	290837	+	279		Transcriptional regulator, ArsR family	ANI2	clust_3554
+ANI2|SEQ00245	VBIBifAni235968_0245	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848753	293128	293382	-	255		hypothetical protein	ANI2	clust_3555
+ANI2|SEQ00247	VBIBifAni235968_0247	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848757	294927	295235	-	309		hypothetical protein	ANI2	clust_3556
+ANI2|SEQ00251	VBIBifAni235968_0251	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848765	299283	300419	+	1137		hypothetical protein	ANI2	clust_3557
+ANI2|SEQ00259	VBIBifAni235968_0259	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848781	310345	311997	+	1653		hypothetical protein	ANI2	clust_3558
+ANI2|SEQ00263	VBIBifAni235968_0263	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848789	316615	324705	+	8091		hypothetical protein	ANI2	clust_3559
+ANI2|SEQ00264	VBIBifAni235968_0264	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848791	324932	325057	+	126	recG	"ATP-dependent DNA helicase RecG "	ANI2	clust_3560
+ANI2|SEQ00269	VBIBifAni235968_0269	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848801	327833	328303	-	471		SSU ribosomal protein S16p	ANI2	clust_3561
+ANI2|SEQ00295	VBIBifAni235968_0295	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848857	360472	360855	-	384		hypothetical protein	ANI2	clust_3562
+ANI2|SEQ00303	VBIBifAni235968_0303	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848873	368581	371667	+	3087		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	ANI2	clust_3563
+ANI2|SEQ00304	VBIBifAni235968_0304	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848875	372481	372684	-	204		hypothetical protein	ANI2	clust_3564
+ANI2|SEQ00307	VBIBifAni235968_0307	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848881	373244	373471	-	228		hypothetical protein	ANI2	clust_3565
+ANI2|SEQ00320	VBIBifAni235968_0320	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848909	387061	387177	-	117		hypothetical protein	ANI2	clust_3566
+ANI2|SEQ00336	VBIBifAni235968_0336	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848943	412630	412992	-	363		hypothetical protein	ANI2	clust_3567
+ANI2|SEQ00341	VBIBifAni235968_0341	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848953	417660	417800	-	141		hypothetical protein	ANI2	clust_3568
+ANI2|SEQ00358	VBIBifAni235968_0358	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848987	435640	437082	+	1443		FIG00424610: hypothetical protein	ANI2	clust_3569
+ANI2|SEQ00369	VBIBifAni235968_0369	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849015	447832	447966	-	135		hypothetical protein	ANI2	clust_3570
+ANI2|SEQ00383	VBIBifAni235968_0383	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849045	466662	467636	-	975		COG0504: CTP synthase (UTP-ammonia lyase)	ANI2	clust_3571
+ANI2|SEQ00425	VBIBifAni235968_0425	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849132	498670	498801	+	132		hypothetical protein	ANI2	clust_3572
+ANI2|SEQ00435	VBIBifAni235968_0435	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849154	513068	513712	+	645		hypothetical protein	ANI2	clust_3573
+ANI2|SEQ00437	VBIBifAni235968_0437	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849159	515249	515950	+	702		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	ANI2	clust_3574
+ANI2|SEQ00438	VBIBifAni235968_0438	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849161	515926	516123	+	198		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	ANI2	clust_3575
+ANI2|SEQ00440	VBIBifAni235968_0440	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849167	518305	519366	+	1062		hypothetical protein	ANI2	clust_3576
+ANI2|SEQ00441	VBIBifAni235968_0441	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849169	519671	519784	+	114		hypothetical protein	ANI2	clust_3577
+ANI2|SEQ00442	VBIBifAni235968_0442	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849171	520099	521487	+	1389		FIG00750832: hypothetical protein	ANI2	clust_3578
+ANI2|SEQ00446	VBIBifAni235968_0446	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849179	527103	528632	+	1530		hypothetical protein	ANI2	clust_3579
+ANI2|SEQ00450	VBIBifAni235968_0450	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849187	533400	533753	+	354		Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase	ANI2	clust_3580
+ANI2|SEQ00451	VBIBifAni235968_0451	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849189	533708	534397	+	690		Quinone oxidoreductase (EC 1.6.5.5)	ANI2	clust_3581
+ANI2|SEQ00457	VBIBifAni235968_0457	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849201	541662	542471	+	810		NLP/P60 family protein	ANI2	clust_3582
+ANI2|SEQ00464	VBIBifAni235968_0464	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849215	548078	548365	-	288		hypothetical protein	ANI2	clust_3583
+ANI2|SEQ00466	VBIBifAni235968_0466	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849221	549809	550876	-	1068		integral membrane protein	ANI2	clust_3584
+ANI2|SEQ00467	VBIBifAni235968_0467	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849223	550855	550989	-	135		hypothetical protein	ANI2	clust_3586
+ANI2|SEQ00468	VBIBifAni235968_0468	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849225	551023	552018	+	996		5'-nucleotidase (EC 3.1.3.5)	ANI2	clust_3587
+ANI2|SEQ00469	VBIBifAni235968_0469	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849227	552272	552697	+	426		hypothetical protein	ANI2	clust_3588
+ANI2|SEQ00471	VBIBifAni235968_0471	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849231	554452	554766	+	315		hypothetical protein	ANI2	clust_3589
+ANI2|SEQ00472	VBIBifAni235968_0472	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849233	555401	556921	+	1521		hypothetical protein	ANI2	clust_3590
+ANI2|SEQ00482	VBIBifAni235968_0482	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849253	572431	572826	-	396		hypothetical protein	ANI2	clust_3591
+ANI2|SEQ00483	VBIBifAni235968_0483	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849255	572973	573563	+	591		hypothetical protein	ANI2	clust_3592
+ANI2|SEQ00484	VBIBifAni235968_0484	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849257	573809	574243	+	435		hypothetical protein	ANI2	clust_3593
+ANI2|SEQ00506	VBIBifAni235968_0506	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849307	601656	602564	+	909		hypothetical protein	ANI2	clust_3594
+ANI2|SEQ00507	VBIBifAni235968_0507	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849311	602802	603650	-	849		hypothetical protein	ANI2	clust_3595
+ANI2|SEQ00508	VBIBifAni235968_0508	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849313	604072	604281	+	210		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent	ANI2	clust_3596
+ANI2|SEQ00509	VBIBifAni235968_0509	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849315	604278	604451	-	174		hypothetical protein	ANI2	clust_3597
+ANI2|SEQ00520	VBIBifAni235968_0520	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849337	619126	619494	+	369		hypothetical protein	ANI2	clust_3598
+ANI2|SEQ00533	VBIBifAni235968_0533	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849363	632613	632729	+	117		hypothetical protein	ANI2	clust_3599
+ANI2|SEQ00535	VBIBifAni235968_0535	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849367	634787	635509	+	723		Single-stranded DNA-binding protein	ANI2	clust_3600
+ANI2|SEQ00542	VBIBifAni235968_0542	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849381	642680	642898	+	219		hypothetical protein	ANI2	clust_3601
+ANI2|SEQ00543	VBIBifAni235968_0543	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849383	642921	643052	+	132		hypothetical protein	ANI2	clust_3602
+ANI2|SEQ00550	VBIBifAni235968_0550	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849397	650512	650625	-	114		hypothetical protein	ANI2	clust_3603
+ANI2|SEQ00552	VBIBifAni235968_0552	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849401	651521	651748	-	228		hypothetical protein	ANI2	clust_3604
+ANI2|SEQ00557	VBIBifAni235968_0557	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849411	657186	657341	-	156		hypothetical protein	ANI2	clust_3605
+ANI2|SEQ00560	VBIBifAni235968_0560	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849417	660147	660548	+	402		hypothetical protein	ANI2	clust_3606
+ANI2|SEQ00570	VBIBifAni235968_0570	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849437	672271	672405	-	135		hypothetical protein	ANI2	clust_3607
+ANI2|SEQ00572	VBIBifAni235968_0572	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849441	673626	673754	+	129		hypothetical protein	ANI2	clust_3608
+ANI2|SEQ00574	VBIBifAni235968_0574	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849445	674363	674506	-	144		hypothetical protein	ANI2	clust_3609
+ANI2|SEQ00575	VBIBifAni235968_0575	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849447	674624	674944	+	321		hypothetical protein	ANI2	clust_3610
+ANI2|SEQ00576	VBIBifAni235968_0576	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849449	675086	675427	+	342		hypothetical protein	ANI2	clust_3611
+ANI2|SEQ00577	VBIBifAni235968_0577	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849451	675451	675834	-	384		hypothetical protein	ANI2	clust_3612
+ANI2|SEQ00584	VBIBifAni235968_0584	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849465	684770	685558	-	789		expressed protein	ANI2	clust_3613
+ANI2|SEQ00585	VBIBifAni235968_0585	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849467	685675	686688	-	1014		Glycerol dehydrogenase (EC 1.1.1.6)	ANI2	clust_3614
+ANI2|SEQ00602	VBIBifAni235968_0602	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849503	708288	709571	+	1284		hypothetical protein	ANI2	clust_3615
+ANI2|SEQ00603	VBIBifAni235968_0603	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849505	709953	710405	+	453		hypothetical protein	ANI2	clust_3616
+ANI2|SEQ00605	VBIBifAni235968_0605	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849509	711267	711863	-	597		hypothetical protein	ANI2	clust_3617
+ANI2|SEQ00606	VBIBifAni235968_0606	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849511	711992	712168	-	177		hypothetical protein	ANI2	clust_3618
+ANI2|SEQ00607	VBIBifAni235968_0607	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849513	712167	712310	+	144		hypothetical protein	ANI2	clust_3619
+ANI2|SEQ00608	VBIBifAni235968_0608	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849515	712414	713952	+	1539		hypothetical protein	ANI2	clust_3620
+ANI2|SEQ00609	VBIBifAni235968_0609	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849517	713978	714706	+	729		hypothetical protein	ANI2	clust_3621
+ANI2|SEQ00610	VBIBifAni235968_0610	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849519	714747	715196	+	450		hypothetical protein	ANI2	clust_3622
+ANI2|SEQ00611	VBIBifAni235968_0611	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849521	715270	715854	+	585		hypothetical protein	ANI2	clust_3623
+ANI2|SEQ00618	VBIBifAni235968_0618	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849537	726587	726721	+	135		hypothetical protein	ANI2	clust_3624
+ANI2|SEQ00623	VBIBifAni235968_0623	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849547	731666	732340	-	675		hypothetical protein	ANI2	clust_3625
+ANI2|SEQ00624	VBIBifAni235968_0624	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849549	732481	733050	-	570		hypothetical protein	ANI2	clust_3626
+ANI2|SEQ00625	VBIBifAni235968_0625	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849551	733109	733273	-	165		hypothetical protein	ANI2	clust_3627
+ANI2|SEQ00643	VBIBifAni235968_0643	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849588	755475	755690	+	216		Prokaryotic ubiquitin-like protein Pup	ANI2	clust_3628
+ANI2|SEQ00649	VBIBifAni235968_0649	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849600	763364	763642	-	279		hypothetical protein	ANI2	clust_3629
+ANI2|SEQ00659	VBIBifAni235968_0659	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849620	771058	771192	+	135	cspA	CspA	ANI2	clust_3630
+ANI2|SEQ00662	VBIBifAni235968_0662	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849626	773532	774539	+	1008		FIG01258360: hypothetical protein	ANI2	clust_3631
+ANI2|SEQ00667	VBIBifAni235968_0667	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849636	778934	779716	-	783		hypothetical protein	ANI2	clust_3632
+ANI2|SEQ00669	VBIBifAni235968_0669	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849640	781135	781278	-	144		hypothetical protein	ANI2	clust_3633
+ANI2|SEQ00674	VBIBifAni235968_0674	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849650	789351	790139	+	789		contains alpha/beta hydrolase fold domain	ANI2	clust_3634
+ANI2|SEQ00684	VBIBifAni235968_0684	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849670	802763	803842	+	1080		hypothetical protein	ANI2	clust_3635
+ANI2|SEQ00685	VBIBifAni235968_0685	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849672	803872	804024	+	153		hypothetical protein	ANI2	clust_3636
+ANI2|SEQ00686	VBIBifAni235968_0686	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849674	804309	805874	+	1566		hypothetical protein	ANI2	clust_3637
+ANI2|SEQ00708	VBIBifAni235968_0708	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849718	833654	834775	+	1122		hypothetical protein	ANI2	clust_3638
+ANI2|SEQ00709	VBIBifAni235968_0709	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849720	834794	835123	-	330		hypothetical protein	ANI2	clust_3639
+ANI2|SEQ00717	VBIBifAni235968_0717	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849736	844384	844644	-	261		similar to transporter	ANI2	clust_3640
+ANI2|SEQ00733	VBIBifAni235968_0733	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849768	862459	864126	+	1668		TPR-repeat-containing protein	ANI2	clust_3641
+ANI2|SEQ00749	VBIBifAni235968_0749	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849802	880352	881281	+	930		FIG00672247: hypothetical protein	ANI2	clust_3642
+ANI2|SEQ00755	VBIBifAni235968_0755	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849818	888521	889009	+	489	comEA	putative DNA-binding protein	ANI2	clust_3643
+ANI2|SEQ00762	VBIBifAni235968_0762	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849834	895140	895646	-	507		hypothetical protein	ANI2	clust_3644
+ANI2|SEQ00776	VBIBifAni235968_0776	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849864	910739	911308	+	570		hypothetical protein	ANI2	clust_3645
+ANI2|SEQ00778	VBIBifAni235968_0778	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849868	912052	912789	+	738		hypothetical protein	ANI2	clust_3646
+ANI2|SEQ00782	VBIBifAni235968_0782	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849876	915828	916418	-	591		Hypothetical protein VC0266 (sugar utilization related?)	ANI2	clust_3647
+ANI2|SEQ00783	VBIBifAni235968_0783	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849878	916598	916747	-	150		hypothetical protein	ANI2	clust_3648
+ANI2|SEQ00784	VBIBifAni235968_0784	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849880	916954	917259	-	306		hypothetical protein	ANI2	clust_3649
+ANI2|SEQ00797	VBIBifAni235968_0797	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849906	927667	928020	+	354		hypothetical protein	ANI2	clust_3650
+ANI2|SEQ00798	VBIBifAni235968_0798	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849908	928406	928783	+	378	crcB	CrcB protein	ANI2	clust_3651
+ANI2|SEQ00823	VBIBifAni235968_0823	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849962	957684	958205	+	522		transcription repressor	ANI2	clust_3652
+ANI2|SEQ00824	VBIBifAni235968_0824	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849964	958251	958430	-	180		hypothetical protein	ANI2	clust_3653
+ANI2|SEQ00825	VBIBifAni235968_0825	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849966	958478	958720	-	243		hypothetical protein	ANI2	clust_3654
+ANI2|SEQ00835	VBIBifAni235968_0835	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849994	970737	971255	-	519		putative transcriptional regulator, AsnC family	ANI2	clust_3655
+ANI2|SEQ00838	VBIBifAni235968_0838	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850000	974029	974277	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ANI2	clust_3656
+ANI2|SEQ00845	VBIBifAni235968_0845	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850015	981975	982094	+	120		hypothetical protein	ANI2	clust_3657
+ANI2|SEQ00847	VBIBifAni235968_0847	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850019	985419	986384	+	966		hypothetical protein	ANI2	clust_3658
+ANI2|SEQ00860	VBIBifAni235968_0860	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850045	1000155	1001063	+	909		hydrolase, putative	ANI2	clust_3660
+ANI2|SEQ00862	VBIBifAni235968_0862	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850049	1001761	1002294	+	534	mutT	NUDIX family hydrolase	ANI2	clust_3661
+ANI2|SEQ00901	VBIBifAni235968_0901	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850129	1048505	1048978	-	474		transposase for insertion sequence	ANI2	clust_3662
+ANI2|SEQ00911	VBIBifAni235968_0911	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850149	1060638	1061186	-	549		mannan endo-1,4-beta-mannosidase precursor	ANI2	clust_3663
+ANI2|SEQ00912	VBIBifAni235968_0912	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850151	1061232	1062218	-	987		Pullulanase (EC 3.2.1.41)	ANI2	clust_3664
+ANI2|SEQ00913	VBIBifAni235968_0913	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850153	1062271	1062723	-	453		Pullulanase (EC 3.2.1.41)	ANI2	clust_3665
+ANI2|SEQ00915	VBIBifAni235968_0915	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850157	1063509	1063625	-	117		hypothetical protein	ANI2	clust_3666
+ANI2|SEQ00916	VBIBifAni235968_0916	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850159	1063926	1064525	-	600		hypothetical protein	ANI2	clust_3667
+ANI2|SEQ00917	VBIBifAni235968_0917	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850161	1064633	1065835	-	1203		hypothetical protein	ANI2	clust_3668
+ANI2|SEQ00918	VBIBifAni235968_0918	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850163	1065870	1067039	-	1170		hypothetical protein	ANI2	clust_3669
+ANI2|SEQ00920	VBIBifAni235968_0920	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850167	1067937	1068389	+	453		hypothetical protein	ANI2	clust_3670
+ANI2|SEQ00938	VBIBifAni235968_0938	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850205	1086930	1087184	+	255		Aspartate aminotransferase (EC 2.6.1.1)	ANI2	clust_3671
+ANI2|SEQ00939	VBIBifAni235968_0939	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850207	1087174	1088124	+	951		Putative aminotransferase	ANI2	clust_3672
+ANI2|SEQ00940	VBIBifAni235968_0940	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850209	1088121	1088978	-	858		hypothetical protein	ANI2	clust_3673
+ANI2|SEQ00941	VBIBifAni235968_0941	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850211	1089220	1090692	-	1473		Cytoplasmic alpha-amylase (EC 3.2.1.1)	ANI2	clust_3674
+ANI2|SEQ00943	VBIBifAni235968_0943	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850215	1091721	1092200	-	480		FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX	ANI2	clust_3675
+ANI2|SEQ00944	VBIBifAni235968_0944	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850217	1092298	1092918	-	621		hypothetical protein	ANI2	clust_3676
+ANI2|SEQ00949	VBIBifAni235968_0949	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850227	1096652	1097362	-	711		hypothetical protein	ANI2	clust_3677
+ANI2|SEQ00950	VBIBifAni235968_0950	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850229	1097648	1097953	+	306		Isochorismate pyruvate-lyase (EC 4.-.-.-)	ANI2	clust_3678
+ANI2|SEQ00951	VBIBifAni235968_0951	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850231	1098221	1098877	+	657		hypothetical protein	ANI2	clust_3679
+ANI2|SEQ00952	VBIBifAni235968_0952	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850233	1098890	1099111	-	222		acetyltransferase, GNAT family	ANI2	clust_3680
+ANI2|SEQ00953	VBIBifAni235968_0953	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850235	1099251	1099823	-	573		DNA topology modulation protein	ANI2	clust_3681
+ANI2|SEQ00957	VBIBifAni235968_0957	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850243	1103276	1104241	-	966		Mobile element protein	ANI2	clust_3682
+ANI2|SEQ00958	VBIBifAni235968_0958	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850245	1104491	1104673	+	183		hypothetical protein	ANI2	clust_3683
+ANI2|SEQ00972	VBIBifAni235968_0972	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850277	1125757	1125879	+	123		hypothetical protein	ANI2	clust_3684
+ANI2|SEQ01005	VBIBifAni235968_1005	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850345	1162930	1163070	+	141		hypothetical protein	ANI2	clust_3685
+ANI2|SEQ01016	VBIBifAni235968_1016	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850367	1178593	1178760	-	168		Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein	ANI2	clust_3686
+ANI2|SEQ01017	VBIBifAni235968_1017	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850369	1178760	1179224	-	465		hypothetical protein	ANI2	clust_3687
+ANI2|SEQ01019	VBIBifAni235968_1019	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850373	1180061	1180252	-	192		hypothetical protein	ANI2	clust_3688
+ANI2|SEQ01022	VBIBifAni235968_1022	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850379	1181460	1181579	-	120		hypothetical protein	ANI2	clust_3689
+ANI2|SEQ01027	VBIBifAni235968_1027	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850389	1185856	1186047	-	192		hypothetical protein	ANI2	clust_3690
+ANI2|SEQ01041	VBIBifAni235968_1041	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850417	1204554	1204832	+	279		hypothetical protein	ANI2	clust_3691
+ANI2|SEQ01081	VBIBifAni235968_1081	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850502	1253965	1255299	+	1335		FIG00945285: hypothetical protein	ANI2	clust_3692
+ANI2|SEQ01084	VBIBifAni235968_1084	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850508	1259469	1260428	-	960		Putative glucose uptake permease	ANI2	clust_3693
+ANI2|SEQ01086	VBIBifAni235968_1086	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850512	1265249	1265878	-	630		transporter, putative fucose permease	ANI2	clust_3694
+ANI2|SEQ01116	VBIBifAni235968_1116	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850572	1303452	1304267	-	816		hypothetical protein	ANI2	clust_3695
+ANI2|SEQ01120	VBIBifAni235968_1120	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850580	1307911	1308162	+	252		hypothetical protein	ANI2	clust_3696
+ANI2|SEQ01128	VBIBifAni235968_1128	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850596	1318843	1319517	+	675		hypothetical protein	ANI2	clust_3697
+ANI2|SEQ01153	VBIBifAni235968_1153	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850647	1348534	1348845	-	312		hypothetical protein	ANI2	clust_3698
+ANI2|SEQ01158	VBIBifAni235968_1158	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850657	1354313	1354936	+	624		response regulator containing a CheY-like receiver domain and a HTH DNA-binding domain	ANI2	clust_3699
+ANI2|SEQ01160	VBIBifAni235968_1160	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850661	1356105	1356896	-	792		hypothetical protein	ANI2	clust_3700
+ANI2|SEQ01161	VBIBifAni235968_1161	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850663	1356981	1357097	-	117		hypothetical protein	ANI2	clust_3701
+ANI2|SEQ01168	VBIBifAni235968_1168	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850677	1363816	1364394	-	579		hypothetical protein	ANI2	clust_3702
+ANI2|SEQ01169	VBIBifAni235968_1169	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850679	1364585	1364791	+	207		hypothetical protein	ANI2	clust_3703
+ANI2|SEQ01170	VBIBifAni235968_1170	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850681	1364806	1365018	+	213		hypothetical protein	ANI2	clust_3704
+ANI2|SEQ01171	VBIBifAni235968_1171	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850683	1365031	1365267	+	237		hypothetical protein	ANI2	clust_3705
+ANI2|SEQ01172	VBIBifAni235968_1172	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850685	1365272	1365463	+	192		hypothetical protein	ANI2	clust_3706
+ANI2|SEQ01173	VBIBifAni235968_1173	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850687	1365451	1365642	+	192		hypothetical protein	ANI2	clust_3707
+ANI2|SEQ01175	VBIBifAni235968_1175	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850691	1367073	1367345	+	273		hypothetical protein	ANI2	clust_3708
+ANI2|SEQ01176	VBIBifAni235968_1176	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850693	1367342	1367530	+	189		hypothetical protein	ANI2	clust_3709
+ANI2|SEQ01177	VBIBifAni235968_1177	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850695	1367553	1367789	+	237		hypothetical protein	ANI2	clust_3710
+ANI2|SEQ01178	VBIBifAni235968_1178	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850697	1367786	1368103	+	318		hypothetical protein	ANI2	clust_3711
+ANI2|SEQ01179	VBIBifAni235968_1179	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850699	1368519	1370282	+	1764		Putative phage prohead protease	ANI2	clust_3712
+ANI2|SEQ01180	VBIBifAni235968_1180	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850701	1370294	1370515	+	222		hypothetical protein	ANI2	clust_3713
+ANI2|SEQ01184	VBIBifAni235968_1184	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850710	1375395	1375742	-	348		Probable solute-binding protein of ABC transporter for peptides	ANI2	clust_3714
+ANI2|SEQ01202	VBIBifAni235968_1202	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850748	1396273	1396704	-	432		hypothetical protein	ANI2	clust_3715
+ANI2|SEQ01217	VBIBifAni235968_1217	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850778	1414930	1415052	+	123		hypothetical protein	ANI2	clust_3716
+ANI2|SEQ01219	VBIBifAni235968_1219	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850782	1418988	1419293	+	306		hypothetical protein	ANI2	clust_3717
+ANI2|SEQ01237	VBIBifAni235968_1237	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850819	1438920	1439105	-	186		hypothetical protein	ANI2	clust_3718
+ANI2|SEQ01243	VBIBifAni235968_1243	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850831	1445128	1446729	-	1602		FIG00424036: hypothetical protein	ANI2	clust_3719
+ANI2|SEQ01244	VBIBifAni235968_1244	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850835	1447099	1447590	+	492		hypothetical protein	ANI2	clust_3720
+ANI2|SEQ01257	VBIBifAni235968_1257	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850861	1460173	1460295	+	123		hypothetical protein	ANI2	clust_3721
+ANI2|SEQ01263	VBIBifAni235968_1263	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850873	1464894	1465148	+	255		hypothetical protein	ANI2	clust_3722
+ANI2|SEQ01271	VBIBifAni235968_1271	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850899	1479837	1481372	-	1536	arcD	Arginine/ornithine antiporter ArcD	ANI2	clust_3723
+ANI2|SEQ01272	VBIBifAni235968_1272	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850901	1481475	1482104	-	630		hypothetical protein	ANI2	clust_3724
+ANI2|SEQ01273	VBIBifAni235968_1273	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850903	1482249	1482467	-	219		hypothetical protein	ANI2	clust_3725
+ANI2|SEQ01275	VBIBifAni235968_1275	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850907	1484445	1485902	+	1458		hypothetical protein	ANI2	clust_3726
+ANI2|SEQ01276	VBIBifAni235968_1276	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850910	1486009	1486707	-	699		Phage shock protein A	ANI2	clust_3727
+ANI2|SEQ01277	VBIBifAni235968_1277	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850912	1486710	1487921	-	1212		hypothetical protein	ANI2	clust_3728
+ANI2|SEQ01278	VBIBifAni235968_1278	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850914	1488045	1488338	-	294		hypothetical protein	ANI2	clust_3729
+ANI2|SEQ01280	VBIBifAni235968_1280	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850918	1491873	1492112	+	240		hypothetical protein	ANI2	clust_3730
+ANI2|SEQ01281	VBIBifAni235968_1281	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850920	1492338	1492505	-	168		hypothetical protein	ANI2	clust_3731
+ANI2|SEQ01282	VBIBifAni235968_1282	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850922	1492688	1493458	-	771		protein tyrosine/serine phosphatase	ANI2	clust_3732
+ANI2|SEQ01283	VBIBifAni235968_1283	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850924	1493486	1493776	-	291		hypothetical protein	ANI2	clust_3733
+ANI2|SEQ01284	VBIBifAni235968_1284	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850926	1494015	1494227	-	213		hypothetical protein	ANI2	clust_3734
+ANI2|SEQ01288	VBIBifAni235968_1288	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850934	1499240	1499806	-	567		hypothetical protein	ANI2	clust_3735
+ANI2|SEQ01289	VBIBifAni235968_1289	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850936	1500049	1500432	+	384		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI2	clust_3736
+ANI2|SEQ01290	VBIBifAni235968_1290	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850938	1501442	1501651	+	210		hypothetical protein	ANI2	clust_3737
+ANI2|SEQ01291	VBIBifAni235968_1291	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850940	1501661	1501792	+	132		hypothetical protein	ANI2	clust_3738
+ANI2|SEQ01292	VBIBifAni235968_1292	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850942	1501978	1502217	-	240		hypothetical protein	ANI2	clust_3739
+ANI2|SEQ01293	VBIBifAni235968_1293	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850944	1503182	1503349	+	168		hypothetical protein	ANI2	clust_3740
+ANI2|SEQ01300	VBIBifAni235968_1300	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850958	1519785	1520351	+	567		Integral membrane protein	ANI2	clust_3741
+ANI2|SEQ01301	VBIBifAni235968_1301	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850960	1520348	1520749	+	402		hypothetical protein	ANI2	clust_3742
+ANI2|SEQ01333	VBIBifAni235968_1333	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851026	1577242	1577607	+	366		hypothetical protein	ANI2	clust_3743
+ANI2|SEQ01348	VBIBifAni235968_1348	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851056	1594322	1594441	-	120		hypothetical protein	ANI2	clust_3744
+ANI2|SEQ01350	VBIBifAni235968_1350	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851060	1595258	1595392	-	135		hypothetical protein	ANI2	clust_3745
+ANI2|SEQ01370	VBIBifAni235968_1370	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851100	1619609	1620496	-	888		glycosyl transferase, family 2	ANI2	clust_3747
+ANI2|SEQ01371	VBIBifAni235968_1371	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851102	1620515	1621528	-	1014		Glycosyl transferase, family 2	ANI2	clust_3748
+ANI2|SEQ01372	VBIBifAni235968_1372	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851104	1621521	1622867	-	1347		hypothetical protein	ANI2	clust_3749
+ANI2|SEQ01375	VBIBifAni235968_1375	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851110	1624539	1625423	-	885	rfbN	O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	ANI2	clust_3750
+ANI2|SEQ01376	VBIBifAni235968_1376	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851112	1625576	1626508	-	933		polysaccharide biosynthesis protein	ANI2	clust_3751
+ANI2|SEQ01378	VBIBifAni235968_1378	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851116	1627941	1629377	-	1437		hypothetical protein	ANI2	clust_3752
+ANI2|SEQ01387	VBIBifAni235968_1387	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851134	1639771	1640907	+	1137		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	ANI2	clust_3753
+ANI2|SEQ01388	VBIBifAni235968_1388	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851136	1644022	1645155	+	1134	esp110	Eps11O	ANI2	clust_3754
+ANI2|SEQ01395	VBIBifAni235968_1395	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851150	1657730	1658335	+	606		hypothetical protein	ANI2	clust_3755
+ANI2|SEQ01408	VBIBifAni235968_1408	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851178	1674962	1675120	+	159		hypothetical protein	ANI2	clust_3756
+ANI2|SEQ01422	VBIBifAni235968_1422	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851208	1688666	1689766	-	1101		hypothetical protein	ANI2	clust_3757
+ANI2|SEQ01423	VBIBifAni235968_1423	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851210	1690236	1690631	+	396		hypothetical protein	ANI2	clust_3758
+ANI2|SEQ01429	VBIBifAni235968_1429	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851222	1698181	1699338	-	1158		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	ANI2	clust_3759
+ANI2|SEQ01432	VBIBifAni235968_1432	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851228	1703364	1705022	-	1659		Voltage-gated chloride channel family protein	ANI2	clust_3760
+ANI2|SEQ01433	VBIBifAni235968_1433	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851230	1705220	1710478	-	5259		hypothetical protein	ANI2	clust_3761
+ANI2|SEQ01444	VBIBifAni235968_1444	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851252	1724851	1726815	+	1965		FIG00424035: hypothetical protein	ANI2	clust_3762
+ANI2|SEQ01445	VBIBifAni235968_1445	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851254	1726904	1728934	-	2031		Transcription termination factor Rho	ANI2	clust_3763
+ANI2|SEQ01452	VBIBifAni235968_1452	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851268	1736200	1737006	-	807		ABC transporter, integral membrane subunit	ANI2	clust_3764
+ANI2|SEQ01456	VBIBifAni235968_1456	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851276	1739814	1741220	+	1407		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ANI2	clust_3765
+ANI2|SEQ01468	VBIBifAni235968_1468	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851300	1755588	1755947	-	360		hypothetical protein	ANI2	clust_3767
+ANI2|SEQ01470	VBIBifAni235968_1470	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851306	1757294	1757557	+	264		hypothetical protein	ANI2	clust_3768
+ANI2|SEQ01481	VBIBifAni235968_1481	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851334	1773371	1773610	-	240		hypothetical protein	ANI2	clust_3769
+ANI2|SEQ01485	VBIBifAni235968_1485	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851342	1778193	1778450	-	258		hypothetical protein	ANI2	clust_3770
+ANI2|SEQ01488	VBIBifAni235968_1488	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851348	1782899	1783768	-	870		1,4-beta-N-acetylmuramidase	ANI2	clust_3771
+ANI2|SEQ01489	VBIBifAni235968_1489	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851350	1783861	1785489	-	1629		hypothetical protein	ANI2	clust_3772
+ANI2|SEQ01490	VBIBifAni235968_1490	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851352	1785380	1785493	-	114		hypothetical protein	ANI2	clust_3773
+ANI2|SEQ01491	VBIBifAni235968_1491	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851354	1785682	1785798	-	117		hypothetical protein	ANI2	clust_3774
+ANI2|SEQ01493	VBIBifAni235968_1493	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851358	1787029	1787586	+	558		Internalin-like protein (LPXTG motif) Lmo0331 homolog	ANI2	clust_3775
+ANI2|SEQ01494	VBIBifAni235968_1494	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851360	1787647	1788174	+	528		Beta-galactosidase (EC 3.2.1.23)	ANI2	clust_3776
+ANI2|SEQ01499	VBIBifAni235968_1499	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851370	1792693	1792824	+	132		hypothetical protein	ANI2	clust_3777
+ANI2|SEQ01503	VBIBifAni235968_1503	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851380	1799670	1799804	+	135		hypothetical protein	ANI2	clust_3778
+ANI2|SEQ01506	VBIBifAni235968_1506	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851386	1803171	1804235	+	1065		FIG00424766: hypothetical protein	ANI2	clust_3779
+ANI2|SEQ01512	VBIBifAni235968_1512	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851398	1812637	1813350	-	714		hypothetical protein	ANI2	clust_3780
+ANI2|SEQ01515	VBIBifAni235968_1515	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851404	1817277	1817702	+	426		hypothetical protein	ANI2	clust_3781
+ANI2|SEQ01517	VBIBifAni235968_1517	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851408	1820079	1820348	+	270		hypothetical protein	ANI2	clust_3782
+ANI2|SEQ01539	VBIBifAni235968_1539	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851454	1845645	1845785	+	141		hypothetical protein	ANI2	clust_3783
+ANI2|SEQ01549	VBIBifAni235968_1549	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851474	1859654	1860094	+	441		hypothetical protein	ANI2	clust_3784
+ANI2|SEQ01552	VBIBifAni235968_1552	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851480	1861593	1862183	-	591		Multi-drug-type permease	ANI2	clust_3785
+ANI2|SEQ01553	VBIBifAni235968_1553	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851488	1868456	1868992	+	537		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI2	clust_3786
+ANI2|SEQ01554	VBIBifAni235968_1554	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851490	1869027	1870361	+	1335		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI2	clust_3787
+ANI2|SEQ01570	VBIBifAni235968_1570	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851528	1898676	1898810	+	135		hypothetical protein	ANI2	clust_3788
+ANI2|SEQ01573	VBIBifAni235968_1573	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851534	1902009	1903568	-	1560		FIG01271588: hypothetical protein	ANI2	clust_3789
+ANI2|SEQ01579	VBIBifAni235968_1579	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851546	1911663	1912115	-	453		hypothetical protein	ANI2	clust_3790
+ANI2|SEQ01581	VBIBifAni235968_1581	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851550	1913163	1915280	+	2118		hypothetical protein	ANI2	clust_3791
+ANI2|SEQ01582	VBIBifAni235968_1582	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851552	1915393	1915602	-	210		hypothetical protein	ANI2	clust_3792
+ANI2|SEQ01592	VBIBifAni235968_1592	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851574	1930680	1930871	-	192		hypothetical protein	ANI2	clust_3793
+ANI3|SEQ00012	VBIBifAni108068_0012	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762284	16835	16990	+	156		hypothetical protein	ANI3	clust_3495
+ANI3|SEQ00020	VBIBifAni108068_0020	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762304	26398	27153	+	756		Methyltransferase	ANI3	clust_3496
+ANI3|SEQ00021	VBIBifAni108068_0021	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762306	27202	28116	+	915		hypothetical protein	ANI3	clust_3497
+ANI3|SEQ00022	VBIBifAni108068_0022	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762308	28439	29038	+	600		hypothetical protein	ANI3	clust_3498
+ANI3|SEQ00023	VBIBifAni108068_0023	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762310	29355	29954	+	600		hypothetical protein	ANI3	clust_3499
+ANI3|SEQ00024	VBIBifAni108068_0024	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762312	30678	30914	+	237		hypothetical protein	ANI3	clust_3500
+ANI3|SEQ00025	VBIBifAni108068_0025	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762314	31567	31824	+	258		hypothetical protein	ANI3	clust_3501
+ANI3|SEQ00028	VBIBifAni108068_0028	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762320	32739	33755	+	1017		hypothetical protein	ANI3	clust_3502
+ANI3|SEQ00031	VBIBifAni108068_0031	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762326	37469	39892	+	2424		hypothetical protein	ANI3	clust_3503
+ANI3|SEQ00032	VBIBifAni108068_0032	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762328	39920	40123	-	204		hypothetical protein	ANI3	clust_3504
+ANI3|SEQ00033	VBIBifAni108068_0033	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762330	40482	42617	-	2136		hypothetical protein	ANI3	clust_3505
+ANI3|SEQ00034	VBIBifAni108068_0034	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762332	42644	44086	-	1443		hypothetical protein	ANI3	clust_3506
+ANI3|SEQ00035	VBIBifAni108068_0035	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762334	44261	44464	+	204		hypothetical protein	ANI3	clust_3507
+ANI3|SEQ00037	VBIBifAni108068_0037	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762338	45029	45178	-	150		hypothetical protein	ANI3	clust_3508
+ANI3|SEQ00038	VBIBifAni108068_0038	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762340	45214	45474	+	261		hypothetical protein	ANI3	clust_3509
+ANI3|SEQ00039	VBIBifAni108068_0039	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762342	45476	45859	+	384		hypothetical protein	ANI3	clust_3510
+ANI3|SEQ00040	VBIBifAni108068_0040	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762344	46047	46937	-	891		Transcriptional regulator	ANI3	clust_3511
+ANI3|SEQ00041	VBIBifAni108068_0041	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762346	47081	47329	+	249		Aldo/keto reductase of diketogulonate reductase family( EC:1.1.1.274 )	ANI3	clust_3512
+ANI3|SEQ00045	VBIBifAni108068_0045	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762354	51040	51309	-	270		hypothetical protein	ANI3	clust_3513
+ANI3|SEQ00059	VBIBifAni108068_0059	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762382	65524	65865	+	342		hypothetical protein	ANI3	clust_3515
+ANI3|SEQ00070	VBIBifAni108068_0070	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762404	81843	82190	+	348		FIG00672454: hypothetical protein	ANI3	clust_3516
+ANI3|SEQ00091	VBIBifAni108068_0091	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762446	108714	109052	+	339		hypothetical protein	ANI3	clust_3517
+ANI3|SEQ00092	VBIBifAni108068_0092	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762448	109147	110085	+	939		Ribosomal RNA large subunit methyltransferase A (EC 2.1.1.51)	ANI3	clust_3518
+ANI3|SEQ00093	VBIBifAni108068_0093	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762450	110587	110841	-	255		Integral membrane protein	ANI3	clust_3519
+ANI3|SEQ00094	VBIBifAni108068_0094	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762452	111113	111283	-	171		hypothetical protein	ANI3	clust_3520
+ANI3|SEQ00096	VBIBifAni108068_0096	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762458	113573	113782	-	210		hypothetical protein	ANI3	clust_3521
+ANI3|SEQ00098	VBIBifAni108068_0098	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762462	116322	118163	-	1842		FIG00672241: hypothetical protein	ANI3	clust_3522
+ANI3|SEQ00100	VBIBifAni108068_0100	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762466	119450	120979	+	1530		hypothetical protein	ANI3	clust_3523
+ANI3|SEQ00104	VBIBifAni108068_0104	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762476	124983	125624	+	642		hypothetical protein	ANI3	clust_3524
+ANI3|SEQ00106	VBIBifAni108068_0106	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762480	127054	127317	-	264		hypothetical protein	ANI3	clust_3525
+ANI3|SEQ00109	VBIBifAni108068_0109	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762486	128711	130081	+	1371		hypothetical protein	ANI3	clust_3526
+ANI3|SEQ00112	VBIBifAni108068_0112	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762492	131417	132403	-	987		Dienelactone hydrolase and related enzymes	ANI3	clust_3527
+ANI3|SEQ00115	VBIBifAni108068_0115	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762498	134530	134712	-	183		hypothetical protein	ANI3	clust_3528
+ANI3|SEQ00116	VBIBifAni108068_0116	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762500	134766	136061	-	1296		Oxidoreductase (EC 1.1.1.-)	ANI3	clust_3529
+ANI3|SEQ00124	VBIBifAni108068_0124	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762516	142357	142530	-	174		hypothetical protein	ANI3	clust_3530
+ANI3|SEQ00128	VBIBifAni108068_0128	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762524	145542	146474	+	933		FIG00423915: hypothetical protein	ANI3	clust_3531
+ANI3|SEQ00138	VBIBifAni108068_0138	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762544	157936	158664	+	729		Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)	ANI3	clust_3532
+ANI3|SEQ00141	VBIBifAni108068_0141	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762550	161379	163001	+	1623		hypothetical protein	ANI3	clust_3533
+ANI3|SEQ00144	VBIBifAni108068_0144	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762556	163938	164066	+	129		hypothetical protein	ANI3	clust_3534
+ANI3|SEQ00154	VBIBifAni108068_0154	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762576	177915	178076	+	162		hypothetical protein	ANI3	clust_3535
+ANI3|SEQ00162	VBIBifAni108068_0162	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762592	189299	189544	-	246		putative ABC transporter integral membrane protein	ANI3	clust_3536
+ANI3|SEQ00163	VBIBifAni108068_0163	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762594	189541	189858	-	318		ABC lipoprotein transporter, permease component	ANI3	clust_3537
+ANI3|SEQ00164	VBIBifAni108068_0164	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762596	189896	191617	-	1722		putative ABC transporter integral membrane protein	ANI3	clust_3538
+ANI3|SEQ00165	VBIBifAni108068_0165	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762598	191614	192036	-	423		putative ABC transporter ATP-binding protein	ANI3	clust_3539
+ANI3|SEQ00169	VBIBifAni108068_0169	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762606	197236	198762	-	1527		Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	ANI3	clust_3540
+ANI3|SEQ00171	VBIBifAni108068_0171	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762610	199137	199826	-	690		hypothetical protein	ANI3	clust_3541
+ANI3|SEQ00173	VBIBifAni108068_0173	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762614	200628	201047	+	420		hypothetical protein	ANI3	clust_3542
+ANI3|SEQ00182	VBIBifAni108068_0182	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762632	214321	214452	+	132		hypothetical protein	ANI3	clust_3543
+ANI3|SEQ00183	VBIBifAni108068_0183	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762634	214555	215436	-	882		hypothetical protein	ANI3	clust_3544
+ANI3|SEQ00184	VBIBifAni108068_0184	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762636	215572	216339	+	768		hypothetical protein	ANI3	clust_3545
+ANI3|SEQ00185	VBIBifAni108068_0185	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762638	216519	217235	-	717		hypothetical protein	ANI3	clust_3546
+ANI3|SEQ00192	VBIBifAni108068_0192	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762654	225947	226219	+	273		Transcriptional regulator, ArsR family	ANI3	clust_3547
+ANI3|SEQ00204	VBIBifAni108068_0204	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762678	239861	240289	-	429		hypothetical protein	ANI3	clust_3548
+ANI3|SEQ00208	VBIBifAni108068_0208	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762686	243100	243729	+	630		hypothetical protein	ANI3	clust_3549
+ANI3|SEQ00209	VBIBifAni108068_0209	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762688	243797	243919	+	123		hypothetical protein	ANI3	clust_3550
+ANI3|SEQ00212	VBIBifAni108068_0212	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762694	244616	245056	+	441		hypothetical protein	ANI3	clust_3551
+ANI3|SEQ00219	VBIBifAni108068_0219	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762708	252018	252428	-	411		hypothetical protein	ANI3	clust_3552
+ANI3|SEQ00241	VBIBifAni108068_0241	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762756	287967	288221	-	255		hypothetical protein	ANI3	clust_3553
+ANI3|SEQ00244	VBIBifAni108068_0244	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762762	290559	290837	+	279		Transcriptional regulator, ArsR family	ANI3	clust_3554
+ANI3|SEQ00246	VBIBifAni108068_0246	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762766	293129	293383	-	255		hypothetical protein	ANI3	clust_3555
+ANI3|SEQ00248	VBIBifAni108068_0248	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762770	294928	295236	-	309		hypothetical protein	ANI3	clust_3556
+ANI3|SEQ00252	VBIBifAni108068_0252	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762778	299284	300420	+	1137		hypothetical protein	ANI3	clust_3557
+ANI3|SEQ00260	VBIBifAni108068_0260	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762794	310346	311998	+	1653		hypothetical protein	ANI3	clust_3558
+ANI3|SEQ00264	VBIBifAni108068_0264	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762802	316616	324706	+	8091	fbp	hypothetical protein	ANI3	clust_3559
+ANI3|SEQ00265	VBIBifAni108068_0265	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762804	324933	325058	+	126		"ATP-dependent DNA helicase RecG "	ANI3	clust_3560
+ANI3|SEQ00270	VBIBifAni108068_0270	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762814	327834	328304	-	471		SSU ribosomal protein S16p	ANI3	clust_3561
+ANI3|SEQ00296	VBIBifAni108068_0296	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762870	360473	360856	-	384		hypothetical protein	ANI3	clust_3562
+ANI3|SEQ00304	VBIBifAni108068_0304	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762886	368582	371668	+	3087		Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	ANI3	clust_3563
+ANI3|SEQ00305	VBIBifAni108068_0305	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762888	372482	372685	-	204		hypothetical protein	ANI3	clust_3564
+ANI3|SEQ00308	VBIBifAni108068_0308	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762894	373245	373472	-	228		hypothetical protein	ANI3	clust_3565
+ANI3|SEQ00321	VBIBifAni108068_0321	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762922	387062	387178	-	117		hypothetical protein	ANI3	clust_3566
+ANI3|SEQ00337	VBIBifAni108068_0337	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762956	412631	412993	-	363		hypothetical protein	ANI3	clust_3567
+ANI3|SEQ00342	VBIBifAni108068_0342	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762966	417661	417801	-	141		hypothetical protein	ANI3	clust_3568
+ANI3|SEQ00359	VBIBifAni108068_0359	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763000	435641	437083	+	1443		FIG00424610: hypothetical protein	ANI3	clust_3569
+ANI3|SEQ00370	VBIBifAni108068_0370	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763028	447833	447967	-	135		hypothetical protein	ANI3	clust_3570
+ANI3|SEQ00384	VBIBifAni108068_0384	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763058	466663	467637	-	975		COG0504: CTP synthase (UTP-ammonia lyase)	ANI3	clust_3571
+ANI3|SEQ00427	VBIBifAni108068_0427	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763146	498671	498802	+	132		hypothetical protein	ANI3	clust_3572
+ANI3|SEQ00437	VBIBifAni108068_0437	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763168	513069	513713	+	645		hypothetical protein	ANI3	clust_3573
+ANI3|SEQ00439	VBIBifAni108068_0439	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763172	515250	515951	+	702		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	ANI3	clust_3574
+ANI3|SEQ00440	VBIBifAni108068_0440	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763174	515927	516124	+	198		O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)	ANI3	clust_3575
+ANI3|SEQ00442	VBIBifAni108068_0442	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763180	518306	519367	+	1062		hypothetical protein	ANI3	clust_3576
+ANI3|SEQ00443	VBIBifAni108068_0443	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763182	519672	519785	+	114		hypothetical protein	ANI3	clust_3577
+ANI3|SEQ00444	VBIBifAni108068_0444	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763184	520133	521488	+	1356		FIG00750832: hypothetical protein	ANI3	clust_3578
+ANI3|SEQ00448	VBIBifAni108068_0448	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763192	527104	528633	+	1530		hypothetical protein	ANI3	clust_3579
+ANI3|SEQ00452	VBIBifAni108068_0452	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763200	533401	533754	+	354		Bifunctional protein: zinc-containing alcohol dehydrogenase; quinone oxidoreductase ( NADPH:quinone reductase) (EC 1.1.1.-); Similar to arginate lyase	ANI3	clust_3580
+ANI3|SEQ00453	VBIBifAni108068_0453	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763202	533709	534398	+	690		Quinone oxidoreductase (EC 1.6.5.5)	ANI3	clust_3581
+ANI3|SEQ00459	VBIBifAni108068_0459	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763214	541663	542472	+	810		NLP/P60 family protein	ANI3	clust_3582
+ANI3|SEQ00466	VBIBifAni108068_0466	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763228	548079	548366	-	288		hypothetical protein	ANI3	clust_3583
+ANI3|SEQ00468	VBIBifAni108068_0468	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763234	549810	550877	-	1068		integral membrane protein	ANI3	clust_3584
+ANI3|SEQ00469	VBIBifAni108068_0469	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763236	550856	550990	-	135		hypothetical protein	ANI3	clust_3586
+ANI3|SEQ00470	VBIBifAni108068_0470	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763238	551024	552019	+	996		5'-nucleotidase (EC 3.1.3.5)	ANI3	clust_3587
+ANI3|SEQ00471	VBIBifAni108068_0471	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763240	552273	552698	+	426		hypothetical protein	ANI3	clust_3588
+ANI3|SEQ00473	VBIBifAni108068_0473	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763244	554444	554767	+	324		hypothetical protein	ANI3	clust_3589
+ANI3|SEQ00474	VBIBifAni108068_0474	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763246	555402	556922	+	1521		hypothetical protein	ANI3	clust_3590
+ANI3|SEQ00484	VBIBifAni108068_0484	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763266	572432	572827	-	396		hypothetical protein	ANI3	clust_3591
+ANI3|SEQ00485	VBIBifAni108068_0485	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763268	572974	573564	+	591		hypothetical protein	ANI3	clust_3592
+ANI3|SEQ00486	VBIBifAni108068_0486	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763270	573744	574244	+	501		hypothetical protein	ANI3	clust_3593
+ANI3|SEQ00508	VBIBifAni108068_0508	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763320	601658	602566	+	909		hypothetical protein	ANI3	clust_3594
+ANI3|SEQ00509	VBIBifAni108068_0509	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763324	602804	603652	-	849		hypothetical protein	ANI3	clust_3595
+ANI3|SEQ00510	VBIBifAni108068_0510	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763326	604074	604283	+	210		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent	ANI3	clust_3596
+ANI3|SEQ00511	VBIBifAni108068_0511	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763328	604280	604453	-	174		hypothetical protein	ANI3	clust_3597
+ANI3|SEQ00522	VBIBifAni108068_0522	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763350	619128	619496	+	369		hypothetical protein	ANI3	clust_3598
+ANI3|SEQ00535	VBIBifAni108068_0535	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763376	632615	632731	+	117		hypothetical protein	ANI3	clust_3599
+ANI3|SEQ00537	VBIBifAni108068_0537	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763380	634789	635511	+	723		Single-stranded DNA-binding protein	ANI3	clust_3600
+ANI3|SEQ00544	VBIBifAni108068_0544	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763394	642682	642900	+	219		hypothetical protein	ANI3	clust_3601
+ANI3|SEQ00545	VBIBifAni108068_0545	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763396	642923	643054	+	132		hypothetical protein	ANI3	clust_3602
+ANI3|SEQ00552	VBIBifAni108068_0552	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763410	650514	650627	-	114		hypothetical protein	ANI3	clust_3603
+ANI3|SEQ00554	VBIBifAni108068_0554	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763414	651523	651750	-	228		hypothetical protein	ANI3	clust_3604
+ANI3|SEQ00559	VBIBifAni108068_0559	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763424	657188	657343	-	156		hypothetical protein	ANI3	clust_3605
+ANI3|SEQ00562	VBIBifAni108068_0562	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763430	660149	660550	+	402		hypothetical protein	ANI3	clust_3606
+ANI3|SEQ00572	VBIBifAni108068_0572	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763450	672273	672407	-	135		hypothetical protein	ANI3	clust_3607
+ANI3|SEQ00574	VBIBifAni108068_0574	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763454	673628	673756	+	129		hypothetical protein	ANI3	clust_3608
+ANI3|SEQ00576	VBIBifAni108068_0576	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763458	674365	674508	-	144		hypothetical protein	ANI3	clust_3609
+ANI3|SEQ00577	VBIBifAni108068_0577	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763460	674626	674946	+	321		hypothetical protein	ANI3	clust_3610
+ANI3|SEQ00578	VBIBifAni108068_0578	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763462	675088	675429	+	342		hypothetical protein	ANI3	clust_3611
+ANI3|SEQ00579	VBIBifAni108068_0579	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763464	675453	675836	-	384		hypothetical protein	ANI3	clust_3612
+ANI3|SEQ00586	VBIBifAni108068_0586	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763478	684772	685560	-	789		expressed protein	ANI3	clust_3613
+ANI3|SEQ00587	VBIBifAni108068_0587	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763480	685677	686690	-	1014		Glycerol dehydrogenase (EC 1.1.1.6)	ANI3	clust_3614
+ANI3|SEQ00604	VBIBifAni108068_0604	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763516	708290	709573	+	1284		hypothetical protein	ANI3	clust_3615
+ANI3|SEQ00605	VBIBifAni108068_0605	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763518	709736	710407	+	672		hypothetical protein	ANI3	clust_3616
+ANI3|SEQ00607	VBIBifAni108068_0607	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763522	711269	711865	-	597		hypothetical protein	ANI3	clust_3617
+ANI3|SEQ00608	VBIBifAni108068_0608	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763524	711994	712170	-	177		hypothetical protein	ANI3	clust_3618
+ANI3|SEQ00609	VBIBifAni108068_0609	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763526	712169	712312	+	144		hypothetical protein	ANI3	clust_3619
+ANI3|SEQ00610	VBIBifAni108068_0610	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763528	712416	713954	+	1539		hypothetical protein	ANI3	clust_3620
+ANI3|SEQ00611	VBIBifAni108068_0611	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763530	713980	714708	+	729		hypothetical protein	ANI3	clust_3621
+ANI3|SEQ00612	VBIBifAni108068_0612	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763532	714749	715198	+	450		hypothetical protein	ANI3	clust_3622
+ANI3|SEQ00613	VBIBifAni108068_0613	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763534	715272	715856	+	585		hypothetical protein	ANI3	clust_3623
+ANI3|SEQ00620	VBIBifAni108068_0620	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763550	726589	726723	+	135		hypothetical protein	ANI3	clust_3624
+ANI3|SEQ00625	VBIBifAni108068_0625	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763560	731668	732342	-	675		hypothetical protein	ANI3	clust_3625
+ANI3|SEQ00626	VBIBifAni108068_0626	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763562	732483	733052	-	570		hypothetical protein	ANI3	clust_3626
+ANI3|SEQ00627	VBIBifAni108068_0627	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763564	733111	733275	-	165		hypothetical protein	ANI3	clust_3627
+ANI3|SEQ00645	VBIBifAni108068_0645	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763600	755477	755692	+	216		Prokaryotic ubiquitin-like protein Pup	ANI3	clust_3628
+ANI3|SEQ00651	VBIBifAni108068_0651	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763612	763366	763644	-	279		hypothetical protein	ANI3	clust_3629
+ANI3|SEQ00661	VBIBifAni108068_0661	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763632	771060	771194	+	135	cspA	CspA	ANI3	clust_3630
+ANI3|SEQ00664	VBIBifAni108068_0664	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763638	773534	774541	+	1008		FIG01258360: hypothetical protein	ANI3	clust_3631
+ANI3|SEQ00669	VBIBifAni108068_0669	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763648	778936	779958	-	1023		hypothetical protein	ANI3	clust_3632
+ANI3|SEQ00671	VBIBifAni108068_0671	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763652	781137	781280	-	144		hypothetical protein	ANI3	clust_3633
+ANI3|SEQ00676	VBIBifAni108068_0676	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763662	789353	790141	+	789		contains alpha/beta hydrolase fold domain	ANI3	clust_3634
+ANI3|SEQ00686	VBIBifAni108068_0686	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763682	802765	803844	+	1080		hypothetical protein	ANI3	clust_3635
+ANI3|SEQ00687	VBIBifAni108068_0687	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763684	803874	804026	+	153		hypothetical protein	ANI3	clust_3636
+ANI3|SEQ00688	VBIBifAni108068_0688	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763686	804311	805876	+	1566		hypothetical protein	ANI3	clust_3637
+ANI3|SEQ00710	VBIBifAni108068_0710	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763730	833656	834777	+	1122		hypothetical protein	ANI3	clust_3638
+ANI3|SEQ00711	VBIBifAni108068_0711	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763732	834796	835125	-	330		hypothetical protein	ANI3	clust_3639
+ANI3|SEQ00718	VBIBifAni108068_0718	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763746	844386	844646	-	261		similar to transporter	ANI3	clust_3640
+ANI3|SEQ00734	VBIBifAni108068_0734	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763778	862461	864128	+	1668		TPR-repeat-containing protein	ANI3	clust_3641
+ANI3|SEQ00750	VBIBifAni108068_0750	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763812	880354	881283	+	930		FIG00672247: hypothetical protein	ANI3	clust_3642
+ANI3|SEQ00756	VBIBifAni108068_0756	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763828	888235	889011	+	777		putative DNA-binding protein	ANI3	clust_3643
+ANI3|SEQ00763	VBIBifAni108068_0763	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763844	895142	895648	-	507		hypothetical protein	ANI3	clust_3644
+ANI3|SEQ00778	VBIBifAni108068_0778	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763876	910741	911310	+	570		hypothetical protein	ANI3	clust_3645
+ANI3|SEQ00780	VBIBifAni108068_0780	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763880	912054	912791	+	738		hypothetical protein	ANI3	clust_3646
+ANI3|SEQ00784	VBIBifAni108068_0784	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763888	915830	916420	-	591		Hypothetical protein VC0266 (sugar utilization related?)	ANI3	clust_3647
+ANI3|SEQ00785	VBIBifAni108068_0785	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763890	916600	916749	-	150		hypothetical protein	ANI3	clust_3648
+ANI3|SEQ00786	VBIBifAni108068_0786	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763892	916956	917261	-	306		hypothetical protein	ANI3	clust_3649
+ANI3|SEQ00799	VBIBifAni108068_0799	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763918	927669	928022	+	354		hypothetical protein	ANI3	clust_3650
+ANI3|SEQ00801	VBIBifAni108068_0801	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763922	928408	928785	+	378		CrcB protein	ANI3	clust_3651
+ANI3|SEQ00826	VBIBifAni108068_0826	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763976	957686	958207	+	522		transcription repressor	ANI3	clust_3652
+ANI3|SEQ00827	VBIBifAni108068_0827	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763978	958253	958432	-	180		hypothetical protein	ANI3	clust_3653
+ANI3|SEQ00828	VBIBifAni108068_0828	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763980	958480	958722	-	243		hypothetical protein	ANI3	clust_3654
+ANI3|SEQ00838	VBIBifAni108068_0838	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764008	970739	971257	-	519		putative transcriptional regulator, AsnC family	ANI3	clust_3655
+ANI3|SEQ00841	VBIBifAni108068_0841	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764014	974031	974279	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ANI3	clust_3656
+ANI3|SEQ00848	VBIBifAni108068_0848	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764029	981977	982096	+	120		hypothetical protein	ANI3	clust_3657
+ANI3|SEQ00850	VBIBifAni108068_0850	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764033	985421	986386	+	966		hypothetical protein	ANI3	clust_3658
+ANI3|SEQ00863	VBIBifAni108068_0863	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764059	1000157	1001065	+	909		hydrolase, putative	ANI3	clust_3660
+ANI3|SEQ00865	VBIBifAni108068_0865	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764063	1001763	1002296	+	534		NUDIX family hydrolase	ANI3	clust_3661
+ANI3|SEQ00904	VBIBifAni108068_0904	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764143	1048506	1049117	-	612		transposase for insertion sequence	ANI3	clust_3662
+ANI3|SEQ00914	VBIBifAni108068_0914	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764163	1060639	1061187	-	549		mannan endo-1,4-beta-mannosidase precursor	ANI3	clust_3663
+ANI3|SEQ00915	VBIBifAni108068_0915	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764165	1061233	1062219	-	987		Pullulanase (EC 3.2.1.41)	ANI3	clust_3664
+ANI3|SEQ00916	VBIBifAni108068_0916	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764167	1062272	1062724	-	453		Pullulanase (EC 3.2.1.41)	ANI3	clust_3665
+ANI3|SEQ00919	VBIBifAni108068_0919	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764173	1063510	1063626	-	117		hypothetical protein	ANI3	clust_3666
+ANI3|SEQ00920	VBIBifAni108068_0920	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764175	1063927	1064199	-	273		hypothetical protein	ANI3	clust_3667
+ANI3|SEQ00921	VBIBifAni108068_0921	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764177	1064634	1065836	-	1203		hypothetical protein	ANI3	clust_3668
+ANI3|SEQ00922	VBIBifAni108068_0922	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764179	1065871	1067040	-	1170		hypothetical protein	ANI3	clust_3669
+ANI3|SEQ00924	VBIBifAni108068_0924	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764183	1067938	1068390	+	453		hypothetical protein	ANI3	clust_3670
+ANI3|SEQ00942	VBIBifAni108068_0942	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764219	1086931	1087185	+	255		Aspartate aminotransferase (EC 2.6.1.1)	ANI3	clust_3671
+ANI3|SEQ00943	VBIBifAni108068_0943	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764221	1087175	1088125	+	951		Putative aminotransferase	ANI3	clust_3672
+ANI3|SEQ00944	VBIBifAni108068_0944	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764223	1088122	1088979	-	858		hypothetical protein	ANI3	clust_3673
+ANI3|SEQ00945	VBIBifAni108068_0945	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764225	1089221	1090693	-	1473		Cytoplasmic alpha-amylase (EC 3.2.1.1)	ANI3	clust_3674
+ANI3|SEQ00947	VBIBifAni108068_0947	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764229	1091722	1092201	-	480		FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX	ANI3	clust_3675
+ANI3|SEQ00948	VBIBifAni108068_0948	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764231	1092299	1092919	-	621		hypothetical protein	ANI3	clust_3676
+ANI3|SEQ00953	VBIBifAni108068_0953	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764241	1096653	1097363	-	711		hypothetical protein	ANI3	clust_3677
+ANI3|SEQ00954	VBIBifAni108068_0954	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764243	1097649	1097954	+	306		Isochorismate pyruvate-lyase (EC 4.-.-.-)	ANI3	clust_3678
+ANI3|SEQ00955	VBIBifAni108068_0955	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764245	1098222	1098878	+	657		hypothetical protein	ANI3	clust_3679
+ANI3|SEQ00956	VBIBifAni108068_0956	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764247	1098891	1099112	-	222		acetyltransferase, GNAT family	ANI3	clust_3680
+ANI3|SEQ00957	VBIBifAni108068_0957	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764249	1099252	1099824	-	573		DNA topology modulation protein	ANI3	clust_3681
+ANI3|SEQ00961	VBIBifAni108068_0961	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764257	1103277	1104242	-	966		Mobile element protein	ANI3	clust_3682
+ANI3|SEQ00962	VBIBifAni108068_0962	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764259	1104492	1104674	+	183		hypothetical protein	ANI3	clust_3683
+ANI3|SEQ00976	VBIBifAni108068_0976	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764291	1125758	1125880	+	123		hypothetical protein	ANI3	clust_3684
+ANI3|SEQ01009	VBIBifAni108068_1009	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764359	1162931	1163071	+	141		hypothetical protein	ANI3	clust_3685
+ANI3|SEQ01020	VBIBifAni108068_1020	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764381	1178594	1178761	-	168		Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein	ANI3	clust_3686
+ANI3|SEQ01021	VBIBifAni108068_1021	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764383	1178761	1179225	-	465		hypothetical protein	ANI3	clust_3687
+ANI3|SEQ01023	VBIBifAni108068_1023	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764387	1180062	1180253	-	192		hypothetical protein	ANI3	clust_3688
+ANI3|SEQ01026	VBIBifAni108068_1026	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764393	1181461	1181580	-	120		hypothetical protein	ANI3	clust_3689
+ANI3|SEQ01031	VBIBifAni108068_1031	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764403	1185857	1186048	-	192		hypothetical protein	ANI3	clust_3690
+ANI3|SEQ01045	VBIBifAni108068_1045	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764431	1204555	1204833	+	279		hypothetical protein	ANI3	clust_3691
+ANI3|SEQ01085	VBIBifAni108068_1085	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764515	1253966	1255300	+	1335		FIG00945285: hypothetical protein	ANI3	clust_3692
+ANI3|SEQ01088	VBIBifAni108068_1088	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764521	1259470	1260429	-	960	glcU	Putative glucose uptake permease	ANI3	clust_3693
+ANI3|SEQ01090	VBIBifAni108068_1090	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764525	1265250	1265879	-	630		transporter, putative fucose permease	ANI3	clust_3694
+ANI3|SEQ01122	VBIBifAni108068_1122	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764589	1303453	1304268	-	816		hypothetical protein	ANI3	clust_3695
+ANI3|SEQ01129	VBIBifAni108068_1129	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764603	1313359	1313610	+	252		hypothetical protein	ANI3	clust_3696
+ANI3|SEQ01137	VBIBifAni108068_1137	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764619	1324291	1324965	+	675		hypothetical protein	ANI3	clust_3697
+ANI3|SEQ01162	VBIBifAni108068_1162	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764669	1353982	1354293	-	312		hypothetical protein	ANI3	clust_3698
+ANI3|SEQ01167	VBIBifAni108068_1167	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764679	1359761	1360384	+	624		response regulator containing a CheY-like receiver domain and a HTH DNA-binding domain	ANI3	clust_3699
+ANI3|SEQ01169	VBIBifAni108068_1169	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764683	1361553	1362344	-	792		hypothetical protein	ANI3	clust_3700
+ANI3|SEQ01170	VBIBifAni108068_1170	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764685	1362429	1362545	-	117		hypothetical protein	ANI3	clust_3701
+ANI3|SEQ01177	VBIBifAni108068_1177	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764699	1369264	1369554	-	291		hypothetical protein	ANI3	clust_3702
+ANI3|SEQ01178	VBIBifAni108068_1178	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764701	1370033	1370239	+	207		hypothetical protein	ANI3	clust_3703
+ANI3|SEQ01179	VBIBifAni108068_1179	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764703	1370254	1370466	+	213		hypothetical protein	ANI3	clust_3704
+ANI3|SEQ01180	VBIBifAni108068_1180	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764705	1370479	1370715	+	237		hypothetical protein	ANI3	clust_3705
+ANI3|SEQ01181	VBIBifAni108068_1181	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764707	1370720	1370911	+	192		hypothetical protein	ANI3	clust_3706
+ANI3|SEQ01182	VBIBifAni108068_1182	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764709	1370899	1371090	+	192		hypothetical protein	ANI3	clust_3707
+ANI3|SEQ01184	VBIBifAni108068_1184	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764713	1372521	1372793	+	273		hypothetical protein	ANI3	clust_3708
+ANI3|SEQ01185	VBIBifAni108068_1185	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764715	1372790	1372978	+	189		hypothetical protein	ANI3	clust_3709
+ANI3|SEQ01186	VBIBifAni108068_1186	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764717	1373001	1373237	+	237		hypothetical protein	ANI3	clust_3710
+ANI3|SEQ01187	VBIBifAni108068_1187	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764719	1373234	1373551	+	318		hypothetical protein	ANI3	clust_3711
+ANI3|SEQ01188	VBIBifAni108068_1188	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764721	1373967	1375730	+	1764		Putative phage prohead protease	ANI3	clust_3712
+ANI3|SEQ01189	VBIBifAni108068_1189	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764723	1375742	1375963	+	222		hypothetical protein	ANI3	clust_3713
+ANI3|SEQ01193	VBIBifAni108068_1193	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764731	1380843	1381190	-	348		Probable solute-binding protein of ABC transporter for peptides	ANI3	clust_3714
+ANI3|SEQ01210	VBIBifAni108068_1210	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764766	1401721	1402152	-	432		hypothetical protein	ANI3	clust_3715
+ANI3|SEQ01225	VBIBifAni108068_1225	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764796	1420378	1420500	+	123		hypothetical protein	ANI3	clust_3716
+ANI3|SEQ01227	VBIBifAni108068_1227	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764800	1424436	1424741	+	306		hypothetical protein	ANI3	clust_3717
+ANI3|SEQ01245	VBIBifAni108068_1245	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764836	1444366	1444551	-	186		hypothetical protein	ANI3	clust_3718
+ANI3|SEQ01251	VBIBifAni108068_1251	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764848	1450574	1452175	-	1602		FIG00424036: hypothetical protein	ANI3	clust_3719
+ANI3|SEQ01252	VBIBifAni108068_1252	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764852	1452545	1453036	+	492		hypothetical protein	ANI3	clust_3720
+ANI3|SEQ01265	VBIBifAni108068_1265	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764878	1465619	1465741	+	123		hypothetical protein	ANI3	clust_3721
+ANI3|SEQ01272	VBIBifAni108068_1272	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764892	1470340	1470594	+	255		hypothetical protein	ANI3	clust_3722
+ANI3|SEQ01280	VBIBifAni108068_1280	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764918	1485283	1486818	-	1536		Arginine/ornithine antiporter ArcD	ANI3	clust_3723
+ANI3|SEQ01281	VBIBifAni108068_1281	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764920	1486921	1487550	-	630		hypothetical protein	ANI3	clust_3724
+ANI3|SEQ01282	VBIBifAni108068_1282	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764922	1487695	1487913	-	219		hypothetical protein	ANI3	clust_3725
+ANI3|SEQ01284	VBIBifAni108068_1284	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764926	1489891	1491348	+	1458		hypothetical protein	ANI3	clust_3726
+ANI3|SEQ01285	VBIBifAni108068_1285	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764928	1491455	1492153	-	699		Phage shock protein A	ANI3	clust_3727
+ANI3|SEQ01286	VBIBifAni108068_1286	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764930	1492156	1493391	-	1236		hypothetical protein	ANI3	clust_3728
+ANI3|SEQ01287	VBIBifAni108068_1287	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764932	1493491	1493784	-	294		hypothetical protein	ANI3	clust_3729
+ANI3|SEQ01289	VBIBifAni108068_1289	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764936	1497319	1497558	+	240		hypothetical protein	ANI3	clust_3730
+ANI3|SEQ01290	VBIBifAni108068_1290	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764938	1497784	1497951	-	168		hypothetical protein	ANI3	clust_3731
+ANI3|SEQ01291	VBIBifAni108068_1291	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764940	1498134	1498904	-	771		protein tyrosine/serine phosphatase	ANI3	clust_3732
+ANI3|SEQ01292	VBIBifAni108068_1292	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764942	1498932	1499222	-	291		hypothetical protein	ANI3	clust_3733
+ANI3|SEQ01293	VBIBifAni108068_1293	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764944	1499461	1499673	-	213		hypothetical protein	ANI3	clust_3734
+ANI3|SEQ01297	VBIBifAni108068_1297	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764952	1504686	1505252	-	567		hypothetical protein	ANI3	clust_3735
+ANI3|SEQ01298	VBIBifAni108068_1298	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764954	1505495	1505878	+	384		Very-short-patch mismatch repair endonuclease (G-T specific)	ANI3	clust_3736
+ANI3|SEQ01299	VBIBifAni108068_1299	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764956	1506888	1507097	+	210		hypothetical protein	ANI3	clust_3737
+ANI3|SEQ01300	VBIBifAni108068_1300	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764958	1507119	1507238	+	120		hypothetical protein	ANI3	clust_3738
+ANI3|SEQ01301	VBIBifAni108068_1301	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764960	1507424	1507663	-	240		hypothetical protein	ANI3	clust_3739
+ANI3|SEQ01302	VBIBifAni108068_1302	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764962	1508628	1508795	+	168		hypothetical protein	ANI3	clust_3740
+ANI3|SEQ01309	VBIBifAni108068_1309	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764976	1524998	1525582	+	585		Integral membrane protein	ANI3	clust_3741
+ANI3|SEQ01310	VBIBifAni108068_1310	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764978	1525579	1525980	+	402		hypothetical protein	ANI3	clust_3742
+ANI3|SEQ01343	VBIBifAni108068_1343	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765046	1582533	1582838	+	306		hypothetical protein	ANI3	clust_3743
+ANI3|SEQ01358	VBIBifAni108068_1358	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765076	1599553	1599672	-	120		hypothetical protein	ANI3	clust_3744
+ANI3|SEQ01360	VBIBifAni108068_1360	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765080	1600489	1600623	-	135		hypothetical protein	ANI3	clust_3745
+ANI3|SEQ01380	VBIBifAni108068_1380	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765120	1624840	1625727	-	888		glycosyl transferase, family 2	ANI3	clust_3747
+ANI3|SEQ01381	VBIBifAni108068_1381	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765122	1625746	1626759	-	1014		Glycosyl transferase, family 2	ANI3	clust_3748
+ANI3|SEQ01382	VBIBifAni108068_1382	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765124	1626752	1628023	-	1272		hypothetical protein	ANI3	clust_3749
+ANI3|SEQ01385	VBIBifAni108068_1385	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765130	1629770	1630654	-	885		O antigen biosynthesis rhamnosyltransferase rfbN (EC 2.4.1.-)	ANI3	clust_3750
+ANI3|SEQ01386	VBIBifAni108068_1386	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765132	1630807	1631739	-	933		polysaccharide biosynthesis protein	ANI3	clust_3751
+ANI3|SEQ01388	VBIBifAni108068_1388	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765136	1633172	1634608	-	1437		hypothetical protein	ANI3	clust_3752
+ANI3|SEQ01396	VBIBifAni108068_1396	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765152	1645002	1646138	+	1137		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	ANI3	clust_3753
+ANI3|SEQ01398	VBIBifAni108068_1398	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765156	1649253	1650386	+	1134		Eps11O	ANI3	clust_3754
+ANI3|SEQ01405	VBIBifAni108068_1405	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765170	1662712	1663566	+	855		hypothetical protein	ANI3	clust_3755
+ANI3|SEQ01418	VBIBifAni108068_1418	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765198	1680193	1680351	+	159		hypothetical protein	ANI3	clust_3756
+ANI3|SEQ01432	VBIBifAni108068_1432	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765228	1693897	1694997	-	1101		hypothetical protein	ANI3	clust_3757
+ANI3|SEQ01433	VBIBifAni108068_1433	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765230	1695467	1695862	+	396		hypothetical protein	ANI3	clust_3758
+ANI3|SEQ01439	VBIBifAni108068_1439	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765242	1703412	1704569	-	1158		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	ANI3	clust_3759
+ANI3|SEQ01442	VBIBifAni108068_1442	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765248	1708595	1710253	-	1659		Voltage-gated chloride channel family protein	ANI3	clust_3760
+ANI3|SEQ01443	VBIBifAni108068_1443	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765250	1710451	1715709	-	5259	capA	hypothetical protein	ANI3	clust_3761
+ANI3|SEQ01454	VBIBifAni108068_1454	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765272	1730031	1732046	+	2016		FIG00424035: hypothetical protein	ANI3	clust_3762
+ANI3|SEQ01455	VBIBifAni108068_1455	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765274	1732135	1734165	-	2031		Transcription termination factor Rho	ANI3	clust_3763
+ANI3|SEQ01462	VBIBifAni108068_1462	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765288	1741431	1742228	-	798		ABC transporter, integral membrane subunit	ANI3	clust_3764
+ANI3|SEQ01466	VBIBifAni108068_1466	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765296	1745045	1746451	+	1407		Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)	ANI3	clust_3765
+ANI3|SEQ01478	VBIBifAni108068_1478	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765320	1760819	1761178	-	360		hypothetical protein	ANI3	clust_3767
+ANI3|SEQ01480	VBIBifAni108068_1480	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765326	1762525	1762788	+	264		hypothetical protein	ANI3	clust_3768
+ANI3|SEQ01492	VBIBifAni108068_1492	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765356	1778602	1778841	-	240		hypothetical protein	ANI3	clust_3769
+ANI3|SEQ01496	VBIBifAni108068_1496	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765364	1783424	1783681	-	258		hypothetical protein	ANI3	clust_3770
+ANI3|SEQ01499	VBIBifAni108068_1499	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765370	1788130	1788909	-	780		1,4-beta-N-acetylmuramidase	ANI3	clust_3771
+ANI3|SEQ01500	VBIBifAni108068_1500	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765372	1789092	1790609	-	1518		hypothetical protein	ANI3	clust_3772
+ANI3|SEQ01501	VBIBifAni108068_1501	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765374	1790611	1790724	-	114		hypothetical protein	ANI3	clust_3773
+ANI3|SEQ01502	VBIBifAni108068_1502	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765376	1790913	1791029	-	117		hypothetical protein	ANI3	clust_3774
+ANI3|SEQ01504	VBIBifAni108068_1504	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765380	1792260	1792817	+	558		Internalin-like protein (LPXTG motif) Lmo0331 homolog	ANI3	clust_3775
+ANI3|SEQ01505	VBIBifAni108068_1505	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765382	1792878	1793405	+	528		Beta-galactosidase (EC 3.2.1.23)	ANI3	clust_3776
+ANI3|SEQ01510	VBIBifAni108068_1510	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765392	1797924	1798055	+	132		hypothetical protein	ANI3	clust_3777
+ANI3|SEQ01514	VBIBifAni108068_1514	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765402	1804901	1805035	+	135		hypothetical protein	ANI3	clust_3778
+ANI3|SEQ01517	VBIBifAni108068_1517	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765408	1808402	1809466	+	1065		FIG00424766: hypothetical protein	ANI3	clust_3779
+ANI3|SEQ01523	VBIBifAni108068_1523	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765420	1817868	1818581	-	714		hypothetical protein	ANI3	clust_3780
+ANI3|SEQ01526	VBIBifAni108068_1526	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765426	1822508	1822933	+	426		hypothetical protein	ANI3	clust_3781
+ANI3|SEQ01528	VBIBifAni108068_1528	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765430	1825310	1825579	+	270		hypothetical protein	ANI3	clust_3782
+ANI3|SEQ01550	VBIBifAni108068_1550	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765476	1850876	1851016	+	141		hypothetical protein	ANI3	clust_3783
+ANI3|SEQ01560	VBIBifAni108068_1561	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765496	1864885	1865325	+	441		hypothetical protein	ANI3	clust_3784
+ANI3|SEQ01563	VBIBifAni108068_1564	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765502	1866824	1867414	-	591		Multi-drug-type permease	ANI3	clust_3785
+ANI3|SEQ01564	VBIBifAni108068_1565	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765510	1873687	1874223	+	537		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI3	clust_3786
+ANI3|SEQ01565	VBIBifAni108068_1566	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765512	1874258	1875592	+	1335		NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	ANI3	clust_3787
+ANI3|SEQ01582	VBIBifAni108068_1583	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765552	1903904	1904038	+	135		hypothetical protein	ANI3	clust_3788
+ANI3|SEQ01585	VBIBifAni108068_1586	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765558	1907237	1908796	-	1560		FIG01271588: hypothetical protein	ANI3	clust_3789
+ANI3|SEQ01591	VBIBifAni108068_1592	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765570	1916891	1917343	-	453		hypothetical protein	ANI3	clust_3790
+ANI3|SEQ01593	VBIBifAni108068_1594	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765574	1918391	1920508	+	2118		hypothetical protein	ANI3	clust_3791
+ANI3|SEQ01594	VBIBifAni108068_1595	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765576	1920621	1920932	-	312		hypothetical protein	ANI3	clust_3792
+ANI3|SEQ01604	VBIBifAni108068_1605	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765598	1935908	1936099	-	192		hypothetical protein	ANI3	clust_3793

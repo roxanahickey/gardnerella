@@ -1,0 +1,22 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ01204	86884981	VBIBifBif87902_1204	SEQ01204	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1160
+BRE1|SEQ01079	268604164	VBIBifBre340958_1079	SEQ01079	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1160
+BRE5|SEQ01257	268616692	VBIBifBre336369_1258	SEQ01257	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1160
+GV03|SEQ00248	85499879	VBIGarVag247424_0248	SEQ00248	Gardnerella vaginalis 00703Dmash	GV03	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV05|SEQ00349	52546423	VBIGarVag174900_0349	SEQ00349	Gardnerella vaginalis 101	GV05	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV10|SEQ00139	32146294	VBIGarVag136958_0139	SEQ00139	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV12|SEQ00678	37854055	VBIGarVag144721_0678	SEQ00678	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV14|SEQ00212	85502258	VBIGarVag244375_0212	SEQ00212	Gardnerella vaginalis 6119V5	GV14	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV15|SEQ00530	85484596	VBIGarVag249709_0530	SEQ00530	Gardnerella vaginalis 6420B	GV15	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV17|SEQ00464	37850961	VBIGarVag146634_0464	SEQ00464	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV21|SEQ00784	183968285	VBIGarVag274454_0785	SEQ00784	Gardnerella vaginalis JCP7275	GV21	Gardnerella vaginalis JCP7275	ATJS01000054	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV23|SEQ00477	183973305	VBIGarVag276017_0477	SEQ00477	Gardnerella vaginalis JCP7659	GV23	Gardnerella vaginalis JCP7659	ATJQ01000037	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV26|SEQ00166	183981081	VBIGarVag272749_0166	SEQ00166	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000008	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV27|SEQ00487	183984725	VBIGarVag276930_0487	SEQ00487	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000015	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV28|SEQ00380	183987439	VBIGarVag271349_0380	SEQ00380	Gardnerella vaginalis JCP8066	GV28	Gardnerella vaginalis JCP8066	ATJL01000021	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV31|SEQ00901	183996941	VBIGarVag264983_0901	SEQ00901	Gardnerella vaginalis JCP8151A	GV31	Gardnerella vaginalis JCP8151A	ATJI01000061	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV32|SEQ00548	183998997	VBIGarVag277040_0548	SEQ00548	Gardnerella vaginalis JCP8151B	GV32	Gardnerella vaginalis JCP8151B	ATJH01000035	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV33|SEQ00635	184002020	VBIGarVag265557_0635	SEQ00635	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000059	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV34|SEQ00860	184005360	VBIGarVag270440_0860	SEQ00860	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000088	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+GV35|SEQ00412	184007134	VBIGarVag272169_0412	SEQ00412	Gardnerella vaginalis JCP8522	GV35	Gardnerella vaginalis JCP8522	ATJE01000020	PATRIC	CDS	NA	Cell filamentation protein fic	FIG00554957	figfam	clust_1160
+INF1|SEQ00994	46885970	VBIBifLon182273_0994	SEQ00994	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1160

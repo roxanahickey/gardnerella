@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01125	VBIBifDen165269_1126	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459377	316978	318045	+	1068		narrowly conserved hypothetical protein	DEN1	clust_2420
+DEN2|SEQ02086	VBIBifDen39005_2088	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112611	88870	90135	+	1266		narrowly conserved hypothetical protein	DEN2	clust_2420
+INF1|SEQ01466	VBIBifLon182273_1466	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886945	1664014	1664343	-	330		narrowly conserved hypothetical protein	INF1	clust_2420
+LON1|SEQ00064	VBIBifLon107831_0064	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117155	77880	78968	+	1089		narrowly conserved hypothetical protein	LON1	clust_2420
+LON2|SEQ00110	VBIBifLon171405_0111	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579714	123976	124305	+	330		narrowly conserved hypothetical protein	LON2	clust_2420
+LON3|SEQ00087	VBIBifLon156230_0087	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765800	102681	103010	-	330		narrowly conserved hypothetical protein	LON3	clust_2420
+LON4|SEQ01438	VBIBifLon48544_1438	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891232	1637308	1637637	-	330		narrowly conserved hypothetical protein	LON4	clust_2420

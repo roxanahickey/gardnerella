@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01595	VBIBifAdo136061_1595	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189561	66624	67166	+	543		hypothetical protein	ADO1	clust_3950
+DEN1|SEQ01395	VBIBifDen165269_1396	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459920	658061	658600	+	540		Lysine decarboxylase family	DEN1	clust_3950
+DEN2|SEQ00248	VBIBifDen39005_0248	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108815	196686	197225	-	540		Lysine decarboxylase family	DEN2	clust_3950

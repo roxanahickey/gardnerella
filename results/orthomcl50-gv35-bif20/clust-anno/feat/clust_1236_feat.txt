@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00851	VBIBifAdo136061_0851	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188010	743015	744919	-	1905		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	ADO1	clust_1236
+ANI1|SEQ00592	VBIBifAni240121_0592	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846130	693547	695394	-	1848		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	ANI1	clust_1236
+ANI2|SEQ00591	VBIBifAni235968_0591	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849481	693550	695397	-	1848		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	ANI2	clust_1236
+ANI3|SEQ00593	VBIBifAni108068_0593	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763494	693552	695399	-	1848		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	ANI3	clust_1236
+BIF1|SEQ01298	VBIBifBif87902_1298	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885174	1559853	1561823	+	1971	dxs	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BIF1	clust_1236
+BRE1|SEQ00500	VBIBifBre340958_0500	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602957	627411	629462	-	2052		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE1	clust_1236
+BRE2|SEQ00577	VBIBifBre337368_0577	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607084	709587	711692	-	2106		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE2	clust_1236
+BRE3|SEQ01306	VBIBifBre167886_1306	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194350	1508410	1510461	+	2052		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE3	clust_1236
+BRE4|SEQ00521	VBIBifBre327712_0521	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611114	659219	661261	-	2043		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE4	clust_1236
+BRE5|SEQ00539	VBIBifBre336369_0540	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615197	649707	651803	-	2097		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE5	clust_1236
+BRE6|SEQ00411	VBIBifBre268992_0411	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653948	12280	14322	+	2043		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE6	clust_1236
+BRE7|SEQ00531	VBIBifBre340732_0531	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619491	661544	663586	-	2043		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE7	clust_1236
+BRE8|SEQ00559	VBIBifBre176493_0559	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623659	704711	706762	-	2052	dxs	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE8	clust_1236
+BRE9|SEQ00614	VBIBifBre30019_0614	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445296	755246	757297	-	2052	dxs	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	BRE9	clust_1236
+INF1|SEQ00512	VBIBifLon182273_0512	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884966	645463	647664	-	2202		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	INF1	clust_1236
+LON1|SEQ00841	VBIBifLon107831_0842	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118757	975236	977425	+	2190	dxs	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	LON1	clust_1236
+LON2|SEQ00908	VBIBifLon171405_0909	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581360	1013938	1016139	+	2202	dxs	1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	LON2	clust_1236
+LON3|SEQ00713	VBIBifLon156230_0713	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768397	1590312	1592501	+	2190		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	LON3	clust_1236
+LON4|SEQ00498	VBIBifLon48544_0498	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889239	620869	623058	-	2190		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	LON4	clust_1236
+THE1|SEQ01204	VBIBifThe274299_1204	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735628	1495847	1497760	+	1914		1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	THE1	clust_1236

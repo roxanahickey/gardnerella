@@ -1,0 +1,17 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00853	VBIBifAdo136061_0853	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188014	745094	746095	+	1002		NADPH:quinone oxidoreductases or alcohol dehydrogenase	ADO1	clust_1549
+BIF1|SEQ01297	VBIBifBif87902_1297	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885172	1558614	1559603	-	990	cryZ	NADPH:quinone oxidoreductases or alcohol dehydrogenase	BIF1	clust_1549
+BRE1|SEQ00501	VBIBifBre340958_0501	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602959	629716	630708	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE1	clust_1549
+BRE2|SEQ00578	VBIBifBre337368_0578	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607086	711946	712938	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE2	clust_1549
+BRE3|SEQ01305	VBIBifBre167886_1305	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194348	1507164	1508156	-	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE3	clust_1549
+BRE4|SEQ00522	VBIBifBre327712_0522	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611116	661524	662516	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE4	clust_1549
+BRE5|SEQ00540	VBIBifBre336369_0541	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615199	652066	653058	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE5	clust_1549
+BRE6|SEQ00410	VBIBifBre268992_0410	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653946	11025	12017	-	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE6	clust_1549
+BRE7|SEQ00532	VBIBifBre340732_0532	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619493	663849	664841	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE7	clust_1549
+BRE8|SEQ00560	VBIBifBre176493_0560	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623661	707016	708008	+	993	adh3	NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE8	clust_1549
+BRE9|SEQ00615	VBIBifBre30019_0615	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445298	757551	758543	+	993	adh3	NADPH:quinone oxidoreductases or alcohol dehydrogenase	BRE9	clust_1549
+INF1|SEQ00513	VBIBifLon182273_0513	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884968	647838	648830	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	INF1	clust_1549
+LON1|SEQ00840	VBIBifLon107831_0841	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118755	974070	975062	-	993	badC	NADPH:quinone oxidoreductases or alcohol dehydrogenase	LON1	clust_1549
+LON2|SEQ00907	VBIBifLon171405_0908	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581358	1012772	1013764	-	993	qor2	NADPH:quinone oxidoreductases or alcohol dehydrogenase	LON2	clust_1549
+LON3|SEQ00712	VBIBifLon156230_0712	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768395	1589146	1590138	-	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	LON3	clust_1549
+LON4|SEQ00499	VBIBifLon48544_0499	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889241	623232	624224	+	993		NADPH:quinone oxidoreductases or alcohol dehydrogenase	LON4	clust_1549

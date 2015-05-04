@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01181	VBIGarVag247323_1181	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496564	194791	195627	+	837		RNA binding methyltransferase FtsJ like	GV01	clust_0549
+GV02|SEQ00271	VBIGarVag242669_0271	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497317	68912	69763	-	852		RNA binding methyltransferase FtsJ like	GV02	clust_0549
+GV03|SEQ00798	VBIGarVag247424_0798	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501029	103669	104472	+	804		RNA binding methyltransferase FtsJ like	GV03	clust_0549
+GV04|SEQ01279	VBIGarVag246433_1279	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482497	23426	24205	-	780		RNA binding methyltransferase FtsJ like	GV04	clust_0549
+GV05|SEQ00850	VBIGarVag174900_0850	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547468	525041	525844	+	804		RNA binding methyltransferase FtsJ like	GV05	clust_0549
+GV06|SEQ00878	VBIGarVag244004_0878	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490561	251226	252005	+	780		RNA binding methyltransferase FtsJ like	GV06	clust_0549
+GV07|SEQ00608	VBIGarVag249177_0608	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492867	107516	108319	+	804		RNA binding methyltransferase FtsJ like	GV07	clust_0549
+GV08|SEQ00437	VBIGarVag251521_0437	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475280	296810	297589	+	780		RNA binding methyltransferase FtsJ like	GV08	clust_0549
+GV09|SEQ00316	VBIGarVag169280_0316	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259799	20045	20824	-	780	rrmJ	RNA binding methyltransferase FtsJ like	GV09	clust_0549
+GV10|SEQ00598	VBIGarVag136958_0598	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147256	766711	767514	+	804	rrmJ	RNA binding methyltransferase FtsJ like	GV10	clust_0549
+GV11|SEQ01267	VBIGarVag171052_1267	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52550962	26756	27535	-	780		RNA binding methyltransferase FtsJ like	GV11	clust_0549
+GV12|SEQ01238	VBIGarVag144721_1238	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855308	118019	118822	+	804		RNA binding methyltransferase FtsJ like	GV12	clust_0549
+GV13|SEQ00718	VBIGarVag244533_0718	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487421	164583	165362	-	780		RNA binding methyltransferase FtsJ like	GV13	clust_0549
+GV14|SEQ00315	VBIGarVag244375_0315	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502474	147673	148476	+	804		RNA binding methyltransferase FtsJ like	GV14	clust_0549
+GV15|SEQ00660	VBIGarVag249709_0660	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484867	115010	115813	+	804		RNA binding methyltransferase FtsJ like	GV15	clust_0549
+GV16|SEQ01023	VBIGarVag246379_1023	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479225	1175781	1176560	-	780		RNA binding methyltransferase FtsJ like	GV16	clust_0549
+GV17|SEQ00951	VBIGarVag146634_0951	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851988	78343	79146	-	804		RNA binding methyltransferase FtsJ like	GV17	clust_0549
+GV18|SEQ01190	VBIGarVag4823_1190	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071215	47347	48126	+	780		RNA binding methyltransferase FtsJ like	GV18	clust_0549
+GV19|SEQ00589	VBIGarVag39333_0590	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628062	736525	737304	+	780	rrmJ	RNA binding methyltransferase FtsJ like	GV19	clust_0549
+GV20|SEQ00934	VBIGarVag188338_0934	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190713	1148477	1149256	-	780	rrmJ	RNA binding methyltransferase FtsJ like	GV20	clust_0549
+GV21|SEQ00847	VBIGarVag274454_0848	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968429	50486	51265	+	780		RNA binding methyltransferase FtsJ like	GV21	clust_0549
+GV22|SEQ00937	VBIGarVag276801_0938	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971367	26201	26980	+	780		RNA binding methyltransferase FtsJ like	GV22	clust_0549
+GV23|SEQ00291	VBIGarVag276017_0291	Gardnerella vaginalis JCP7659	ATJQ01000016	PATRIC	CDS	183972890	13261	14046	+	786		RNA binding methyltransferase FtsJ like	GV23	clust_0549
+GV24|SEQ00740	VBIGarVag268944_0741	Gardnerella vaginalis JCP7672	ATJP01000063	PATRIC	CDS	183976672	3893	4672	-	780		RNA binding methyltransferase FtsJ like	GV24	clust_0549
+GV25|SEQ00658	VBIGarVag270495_0658	Gardnerella vaginalis JCP7719	ATJO01000062	PATRIC	CDS	183979279	1331	2194	+	864		RNA binding methyltransferase FtsJ like	GV25	clust_0549
+GV26|SEQ00437	VBIGarVag272749_0437	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981658	57722	58507	-	786		RNA binding methyltransferase FtsJ like	GV26	clust_0549
+GV27|SEQ00629	VBIGarVag276930_0629	Gardnerella vaginalis JCP8017B	ATJM01000028	PATRIC	CDS	183985032	14169	14954	+	786		RNA binding methyltransferase FtsJ like	GV27	clust_0549
+GV28|SEQ00166	VBIGarVag271349_0166	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986991	54785	55576	-	792		RNA binding methyltransferase FtsJ like	GV28	clust_0549
+GV29|SEQ00456	VBIGarVag265473_0456	Gardnerella vaginalis JCP8070	ATJK01000022	PATRIC	CDS	183990322	8005	8796	-	792		RNA binding methyltransferase FtsJ like	GV29	clust_0549
+GV30|SEQ01028	VBIGarVag267667_1030	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994260	21228	22007	+	780		RNA binding methyltransferase FtsJ like	GV30	clust_0549
+GV31|SEQ00577	VBIGarVag264983_0577	Gardnerella vaginalis JCP8151A	ATJI01000025	PATRIC	CDS	183996233	13118	13909	+	792		RNA binding methyltransferase FtsJ like	GV31	clust_0549
+GV32|SEQ00203	VBIGarVag277040_0203	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998252	12049	12840	+	792		RNA binding methyltransferase FtsJ like	GV32	clust_0549
+GV33|SEQ00311	VBIGarVag265557_0311	Gardnerella vaginalis JCP8481A	ATJG01000025	PATRIC	CDS	184001325	18063	18866	-	804		RNA binding methyltransferase FtsJ like	GV33	clust_0549
+GV34|SEQ00766	VBIGarVag270440_0766	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005162	25799	26602	+	804		RNA binding methyltransferase FtsJ like	GV34	clust_0549
+GV35|SEQ00344	VBIGarVag272169_0344	Gardnerella vaginalis JCP8522	ATJE01000016	PATRIC	CDS	184006990	12031	12813	+	783		RNA binding methyltransferase FtsJ like	GV35	clust_0549
+ADO1|SEQ01573	VBIBifAdo136061_1573	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189516	41803	42564	-	762		RNA binding methyltransferase FtsJ like	ADO1	clust_0549
+ANI1|SEQ00735	VBIBifAni240121_0735	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846419	865190	865978	+	789		RNA binding methyltransferase FtsJ like	ANI1	clust_0549
+ANI2|SEQ00735	VBIBifAni235968_0735	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849772	865193	865981	+	789		RNA binding methyltransferase FtsJ like	ANI2	clust_0549
+ANI3|SEQ00736	VBIBifAni108068_0736	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763782	865195	865983	+	789		RNA binding methyltransferase FtsJ like	ANI3	clust_0549
+BIF1|SEQ01054	VBIBifBif87902_1054	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884676	1270369	1271127	-	759	tlyA	RNA binding methyltransferase FtsJ like	BIF1	clust_0549
+BRE1|SEQ00646	VBIBifBre340958_0646	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603257	787838	788611	+	774		RNA binding methyltransferase FtsJ like	BRE1	clust_0549
+BRE2|SEQ00743	VBIBifBre337368_0743	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607421	884680	885453	+	774		RNA binding methyltransferase FtsJ like	BRE2	clust_0549
+BRE3|SEQ01128	VBIBifBre167886_1128	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193989	1321224	1321997	-	774	rrmJ	RNA binding methyltransferase FtsJ like	BRE3	clust_0549
+BRE4|SEQ00681	VBIBifBre327712_0681	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611441	828834	829607	+	774		RNA binding methyltransferase FtsJ like	BRE4	clust_0549
+BRE5|SEQ00693	VBIBifBre336369_0694	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615511	823655	824428	+	774		RNA binding methyltransferase FtsJ like	BRE5	clust_0549
+BRE6|SEQ00068	VBIBifBre268992_0068	Bifidobacterium breve JCP7499	AWSX01000007	PATRIC	CDS	177653233	10784	11530	+	747		RNA binding methyltransferase FtsJ like	BRE6	clust_0549
+BRE7|SEQ00692	VBIBifBre340732_0692	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619821	831921	832694	+	774		RNA binding methyltransferase FtsJ like	BRE7	clust_0549
+BRE8|SEQ00714	VBIBifBre176493_0714	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623973	872819	873592	+	774		RNA binding methyltransferase FtsJ like	BRE8	clust_0549
+BRE9|SEQ00764	VBIBifBre30019_0764	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445602	920407	921153	+	747		RNA binding methyltransferase FtsJ like	BRE9	clust_0549
+INF1|SEQ00608	VBIBifLon182273_0608	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885163	749422	750195	+	774		RNA binding methyltransferase FtsJ like	INF1	clust_0549
+LON1|SEQ00751	VBIBifLon107831_0752	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118575	875693	876466	-	774		RNA binding methyltransferase FtsJ like	LON1	clust_0549
+LON2|SEQ00818	VBIBifLon171405_0819	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581178	920233	921006	-	774		RNA binding methyltransferase FtsJ like	LON2	clust_0549
+LON3|SEQ00620	VBIBifLon156230_0620	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768209	1489689	1490462	-	774		RNA binding methyltransferase FtsJ like	LON3	clust_0549
+LON4|SEQ00601	VBIBifLon48544_0601	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889450	728007	728780	+	774		RNA binding methyltransferase FtsJ like	LON4	clust_0549
+THE1|SEQ01740	VBIBifThe274299_1740	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736764	2157908	2158681	-	774		RNA binding methyltransferase FtsJ like	THE1	clust_0549

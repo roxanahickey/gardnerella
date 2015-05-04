@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ01728	43460613	VBIBifDen165269_1729	SEQ01728	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1785
+DEN2|SEQ00471	42109268	VBIBifDen39005_0471	SEQ00471	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1785
+GV33|SEQ00422	184001568	VBIGarVag265557_0422	SEQ00422	Gardnerella vaginalis JCP8481A	GV33	Gardnerella vaginalis JCP8481A	ATJG01000036	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1785
+GV34|SEQ00340	184004228	VBIGarVag270440_0340	SEQ00340	Gardnerella vaginalis JCP8481B	GV34	Gardnerella vaginalis JCP8481B	ATJF01000023	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1785

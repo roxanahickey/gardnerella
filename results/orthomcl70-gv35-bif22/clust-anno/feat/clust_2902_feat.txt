@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00106	VBIBifAni240121_0106	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845113	127988	128467	-	480		Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)	ANI1	clust_2902
+ANI2|SEQ00106	VBIBifAni235968_0106	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848468	127988	128467	-	480		Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)	ANI2	clust_2902
+ANI3|SEQ00108	VBIBifAni108068_0108	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762484	127988	128467	-	480		Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)	ANI3	clust_2902
+BIF1|SEQ01136	VBIBifBif87902_1136	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884840	1364750	1365070	+	321		methylated-DNA--protein-cysteine methyltransferase	BIF1	clust_2902
+THE1|SEQ00777	VBIBifThe274299_0777	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734737	977551	977892	+	342		methylated-DNA--protein-cysteine methyltransferase	THE1	clust_2902

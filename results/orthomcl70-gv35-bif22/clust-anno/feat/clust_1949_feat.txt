@@ -1,0 +1,12 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01743	VBIBifBre340958_1744	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605543	2035592	2037616	-	2025		Glycogen debranching enzyme	BRE1	clust_1949
+BRE2|SEQ01848	VBIBifBre337368_1848	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609729	2136124	2138148	-	2025		Glycogen debranching enzyme	BRE2	clust_1949
+BRE3|SEQ01812	VBIBifBre167886_1812	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195406	2108091	2110115	-	2025		Glycogen debranching enzyme	BRE3	clust_1949
+BRE4|SEQ01784	VBIBifBre327712_1784	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613742	2068422	2070446	-	2025		Glycogen debranching enzyme	BRE4	clust_1949
+BRE5|SEQ01909	VBIBifBre336369_1910	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618046	2141767	2143791	-	2025		Glycogen debranching enzyme	BRE5	clust_1949
+BRE6|SEQ01202	VBIBifBre268992_1202	Bifidobacterium breve JCP7499	AWSX01000059	PATRIC	CDS	177655624	1595	3619	+	2025		Glycogen debranching enzyme	BRE6	clust_1949
+BRE7|SEQ01843	VBIBifBre340732_1843	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622217	2119172	2121196	-	2025		Glycogen debranching enzyme	BRE7	clust_1949
+BRE8|SEQ01800	VBIBifBre176493_1800	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626244	2092632	2094656	-	2025		Glycogen debranching enzyme	BRE8	clust_1949
+BRE9|SEQ01907	VBIBifBre30019_1907	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447985	2199250	2201199	-	1950		Glycogen debranching enzyme	BRE9	clust_1949
+DEN1|SEQ01444	VBIBifDen165269_1445	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460018	711009	712964	-	1956		Glycogen debranching enzyme	DEN1	clust_1949
+DEN2|SEQ00196	VBIBifDen39005_0196	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108708	142281	144284	+	2004		Glycogen debranching enzyme	DEN2	clust_1949

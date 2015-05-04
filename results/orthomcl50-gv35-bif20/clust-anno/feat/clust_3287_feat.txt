@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00420	VBIGarVag242669_0420	Gardnerella vaginalis 00703C2mash	ADEU01000007	PATRIC	CDS	85497628	30	623	+	594		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV02	clust_3287
+GV13|SEQ00509	VBIGarVag244533_0509	Gardnerella vaginalis 55152	ADEQ01000007	PATRIC	CDS	85486982	6	572	-	567		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV13	clust_3287
+BRE1|SEQ01368	VBIBifBre340958_1369	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604753	1609296	1610462	+	1167		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	BRE1	clust_3287

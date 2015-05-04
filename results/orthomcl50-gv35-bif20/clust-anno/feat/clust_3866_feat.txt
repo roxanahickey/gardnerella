@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+LON4|SEQ00915	VBIBifLon48544_0915	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890107	1074905	1076128	-	1224		Adenine-specific methyltransferase (EC 2.1.1.72)	LON4	clust_3866
+LON4|SEQ01053	VBIBifLon48544_1053	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890426	1194549	1195775	-	1227		hypothetical protein	LON4	clust_3866

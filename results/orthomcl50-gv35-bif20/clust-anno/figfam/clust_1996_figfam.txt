@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ01732	268605521	VBIBifBre340958_1733	SEQ01732	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		ABC-type multidrug transport system, ATPase component	FIG00001005	figfam	clust_1996
+BRE3|SEQ01800	54195382	VBIBifBre167886_1800	SEQ01800	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		ABC-type multidrug transport system, ATPase component	FIG00001005	figfam	clust_1996
+BRE4|SEQ01772	268613718	VBIBifBre327712_1772	SEQ01772	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		ABC-type multidrug transport system, ATPase component	FIG00001005	figfam	clust_1996

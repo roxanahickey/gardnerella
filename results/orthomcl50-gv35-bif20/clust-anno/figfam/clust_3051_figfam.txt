@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+LON1|SEQ01855	21120876	VBIBifLon107831_1856	SEQ01855	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		COG family: DNA-directed RNA polymerase specialized sigma subunit	FIG01383339	figfam	clust_3051
+LON2|SEQ00031	42579555	VBIBifLon171405_0031	SEQ00031	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		COG family: DNA-directed RNA polymerase specialized sigma subunit	FIG01383339	figfam	clust_3051
+LON3|SEQ01042	42765955	VBIBifLon156230_1044	SEQ01042	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		COG family: DNA-directed RNA polymerase specialized sigma subunit	FIG01383339	figfam	clust_3051
+LON4|SEQ01515	46891386	VBIBifLon48544_1515	SEQ01515	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		COG family: DNA-directed RNA polymerase specialized sigma subunit	FIG01383339	figfam	clust_3051

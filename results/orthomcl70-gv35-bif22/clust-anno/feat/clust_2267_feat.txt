@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01612	VBIBifBre340958_1613	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605264	1883261	1884250	-	990		Sorbitol dehydrogenase (EC 1.1.1.14)	BRE1	clust_2267
+BRE2|SEQ01720	VBIBifBre337368_1720	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609456	1985780	1986784	-	1005		Sorbitol dehydrogenase (EC 1.1.1.14)	BRE2	clust_2267
+BRE3|SEQ01673	VBIBifBre167886_1673	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195112	1943024	1944028	-	1005		Sorbitol dehydrogenase (EC 1.1.1.14)	BRE3	clust_2267
+BRE4|SEQ01654	VBIBifBre327712_1654	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613465	1917932	1918936	-	1005		Sorbitol dehydrogenase (EC 1.1.1.14)	BRE4	clust_2267
+BRE5|SEQ01775	VBIBifBre336369_1776	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617760	1988662	1989666	-	1005		Sorbitol dehydrogenase (EC 1.1.1.14)	BRE5	clust_2267
+BRE8|SEQ01658	VBIBifBre176493_1658	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625942	1927847	1928851	-	1005		Sorbitol dehydrogenase (EC 1.1.1.14)	BRE8	clust_2267
+DEN1|SEQ00282	VBIBifDen165269_0283	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461835	1640756	1641760	-	1005	tdh	Sorbitol dehydrogenase (EC 1.1.1.14)	DEN1	clust_2267
+DEN2|SEQ02241	VBIBifDen39005_2244	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS	42112939	163835	164839	+	1005		Sorbitol dehydrogenase (EC 1.1.1.14)	DEN2	clust_2267

@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00550	VBIGarVag247323_0550	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495246	299877	301103	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV01	clust_0154
+GV02|SEQ00825	VBIGarVag242669_0825	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498492	46019	47245	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV02	clust_0154
+GV03|SEQ00981	VBIGarVag247424_0981	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501408	338748	339968	-	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV03	clust_0154
+GV04|SEQ00645	VBIGarVag246433_0645	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481183	63939	65165	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV04	clust_0154
+GV05|SEQ01028	VBIGarVag174900_1028	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547837	751261	752481	-	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV05	clust_0154
+GV06|SEQ00267	VBIGarVag244004_0267	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489255	42211	43437	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV06	clust_0154
+GV07|SEQ00303	VBIGarVag249177_0303	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492223	111268	112488	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV07	clust_0154
+GV08|SEQ00090	VBIGarVag251521_0090	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474546	103887	105113	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV08	clust_0154
+GV09|SEQ00919	VBIGarVag169280_0919	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261045	323293	324519	-	1227	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	GV09	clust_0154
+GV10|SEQ00801	VBIGarVag136958_0801	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147674	1043821	1045038	-	1218	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	GV10	clust_0154
+GV11|SEQ00080	VBIGarVag171052_0080	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548426	10452	11678	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV11	clust_0154
+GV12|SEQ00243	VBIGarVag144721_0243	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853149	201857	203074	-	1218		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV12	clust_0154
+GV13|SEQ00900	VBIGarVag244533_0900	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487804	13451	14677	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV13	clust_0154
+GV14|SEQ01083	VBIGarVag244375_1083	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504077	163882	165102	-	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV14	clust_0154
+GV15|SEQ00145	VBIGarVag249709_0145	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483781	73537	74754	-	1218		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV15	clust_0154
+GV16|SEQ00866	VBIGarVag246379_0866	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478894	973496	974722	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV16	clust_0154
+GV17|SEQ00758	VBIGarVag146634_0758	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851588	69520	70737	+	1218		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV17	clust_0154
+GV18|SEQ01114	VBIGarVag4823_1114	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071058	3553	4779	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV18	clust_0154
+GV19|SEQ00754	VBIGarVag39333_0755	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628406	940244	941470	+	1227	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	GV19	clust_0154
+GV20|SEQ00789	VBIGarVag188338_0789	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190407	956579	957805	-	1227	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	GV20	clust_0154
+GV21|SEQ00242	VBIGarVag274454_0242	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967132	10658	11884	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV21	clust_0154
+GV22|SEQ00128	VBIGarVag276801_0128	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969645	167447	168673	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV22	clust_0154
+GV23|SEQ00223	VBIGarVag276017_0223	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972750	45785	47011	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV23	clust_0154
+GV24|SEQ00947	VBIGarVag268944_0948	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977121	12186	13412	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV24	clust_0154
+GV25|SEQ00787	VBIGarVag270495_0787	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979545	108578	109804	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV25	clust_0154
+GV26|SEQ01031	VBIGarVag272749_1031	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982942	45543	46769	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV26	clust_0154
+GV27|SEQ01083	VBIGarVag276930_1083	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986026	11113	12339	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV27	clust_0154
+GV28|SEQ00319	VBIGarVag271349_0319	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987305	104663	105889	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV28	clust_0154
+GV29|SEQ00933	VBIGarVag265473_0933	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991359	102090	103316	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV29	clust_0154
+GV30|SEQ01274	VBIGarVag267667_1276	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994821	33570	34796	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV30	clust_0154
+GV31|SEQ00503	VBIGarVag264983_0503	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996076	6538	7764	-	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV31	clust_0154
+GV32|SEQ00332	VBIGarVag277040_0332	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998516	178270	179496	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV32	clust_0154
+GV33|SEQ00943	VBIGarVag265557_0943	Gardnerella vaginalis JCP8481A	ATJG01000108	PATRIC	CDS	184002722	1043	2263	-	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV33	clust_0154
+GV34|SEQ00440	VBIGarVag270440_0440	Gardnerella vaginalis JCP8481B	ATJF01000033	PATRIC	CDS	184004448	985	2205	-	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV34	clust_0154
+GV35|SEQ00205	VBIGarVag272169_0205	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006693	114477	115703	+	1227		S-adenosylmethionine synthetase (EC 2.5.1.6)	GV35	clust_0154
+ADO1|SEQ00883	VBIBifAdo136061_0883	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188076	781747	782961	+	1215		S-adenosylmethionine synthetase (EC 2.5.1.6)	ADO1	clust_0154
+ANI1|SEQ00635	VBIBifAni240121_0635	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846219	743355	744572	+	1218		S-adenosylmethionine synthetase (EC 2.5.1.6)	ANI1	clust_0154
+ANI2|SEQ00634	VBIBifAni235968_0634	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849570	743358	744575	+	1218		S-adenosylmethionine synthetase (EC 2.5.1.6)	ANI2	clust_0154
+ANI3|SEQ00636	VBIBifAni108068_0636	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763582	743360	744577	+	1218		S-adenosylmethionine synthetase (EC 2.5.1.6)	ANI3	clust_0154
+BIF1|SEQ00605	VBIBifBif87902_0605	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883747	746004	747221	+	1218	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	BIF1	clust_0154
+BRE1|SEQ01366	VBIBifBre340958_1367	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604749	1605934	1607154	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE1	clust_0154
+BRE2|SEQ01453	VBIBifBre337368_1453	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608899	1680495	1681715	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE2	clust_0154
+BRE3|SEQ00458	VBIBifBre167886_0458	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192591	563188	564408	-	1221	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE3	clust_0154
+BRE4|SEQ01398	VBIBifBre327712_1398	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612928	1630535	1631755	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE4	clust_0154
+BRE5|SEQ01531	VBIBifBre336369_1532	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617251	1717153	1718373	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE5	clust_0154
+BRE6|SEQ00287	VBIBifBre268992_0287	Bifidobacterium breve JCP7499	AWSX01000014	PATRIC	CDS	177653685	65836	67056	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE6	clust_0154
+BRE7|SEQ01413	VBIBifBre340732_1413	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621319	1633548	1634768	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE7	clust_0154
+BRE8|SEQ01433	VBIBifBre176493_1433	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625469	1676008	1677228	+	1221	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE8	clust_0154
+BRE9|SEQ01498	VBIBifBre30019_1498	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447128	1736795	1738015	+	1221	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	BRE9	clust_0154
+INF1|SEQ01561	VBIBifLon182273_1561	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887136	1775744	1776964	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	INF1	clust_0154
+LON1|SEQ01838	VBIBifLon107831_1839	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120842	2225757	2226977	-	1221	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	LON1	clust_0154
+LON2|SEQ00014	VBIBifLon171405_0014	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579521	12759	13979	-	1221	metK	S-adenosylmethionine synthetase (EC 2.5.1.6)	LON2	clust_0154
+LON3|SEQ01059	VBIBifLon156230_1061	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765989	214285	215505	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	LON3	clust_0154
+LON4|SEQ01533	VBIBifLon48544_1533	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891423	1751941	1753161	+	1221		S-adenosylmethionine synthetase (EC 2.5.1.6)	LON4	clust_0154
+THE1|SEQ01153	VBIBifThe274299_1153	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735523	1432828	1434039	-	1212		S-adenosylmethionine synthetase (EC 2.5.1.6)	THE1	clust_0154

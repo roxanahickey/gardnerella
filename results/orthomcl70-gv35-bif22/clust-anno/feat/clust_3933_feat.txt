@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01053	VBIBifAdo136061_1053	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188422	958574	958990	+	417		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	ADO1	clust_3933
+DEN1|SEQ01869	VBIBifDen165269_1870	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460903	1176334	1176756	-	423	dut2	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	DEN1	clust_3933
+DEN2|SEQ00791	VBIBifDen39005_0791	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS	42109921	24500	24922	+	423	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	DEN2	clust_3933

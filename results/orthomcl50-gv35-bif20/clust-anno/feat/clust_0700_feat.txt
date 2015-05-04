@@ -1,0 +1,54 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00894	VBIGarVag247323_0894	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495963	118102	119493	+	1392		Cell division initiation protein DivIVA	GV01	clust_0700
+GV02|SEQ01167	VBIGarVag242669_1167	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499205	142080	143471	-	1392		Cell division initiation protein DivIVA	GV02	clust_0700
+GV03|SEQ00315	VBIGarVag247424_0315	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500021	275172	276578	+	1407		Cell division initiation protein DivIVA	GV03	clust_0700
+GV04|SEQ01345	VBIGarVag246433_1345	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482641	25951	27342	+	1392		Cell division initiation protein DivIVA	GV04	clust_0700
+GV05|SEQ00416	VBIGarVag174900_0416	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546563	273011	274426	+	1416		Cell division initiation protein DivIVA	GV05	clust_0700
+GV06|SEQ00530	VBIGarVag244004_0530	Gardnerella vaginalis 1400E	ADER01000016	PATRIC	CDS	85489822	1785	3176	-	1392		Cell division initiation protein DivIVA	GV06	clust_0700
+GV07|SEQ01124	VBIGarVag249177_1124	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493943	18395	19819	-	1425		Cell division initiation protein DivIVA	GV07	clust_0700
+GV08|SEQ00191	VBIGarVag251521_0191	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474766	25426	26817	+	1392		Cell division initiation protein DivIVA	GV08	clust_0700
+GV09|SEQ00623	VBIGarVag169280_0623	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260435	385948	387339	-	1392		Cell division initiation protein DivIVA	GV09	clust_0700
+GV10|SEQ00196	VBIGarVag136958_0196	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146414	241306	242730	+	1425		Cell division initiation protein DivIVA	GV10	clust_0700
+GV11|SEQ01104	VBIGarVag171052_1104	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550599	46539	47930	-	1392		Cell division initiation protein DivIVA	GV11	clust_0700
+GV12|SEQ00734	VBIGarVag144721_0734	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854173	277275	278699	+	1425		Cell division initiation protein DivIVA	GV12	clust_0700
+GV13|SEQ00550	VBIGarVag244533_0550	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487070	50457	51848	+	1392		Cell division initiation protein DivIVA	GV13	clust_0700
+GV14|SEQ00137	VBIGarVag244375_0137	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502101	127758	129191	-	1434		Cell division initiation protein DivIVA	GV14	clust_0700
+GV15|SEQ00473	VBIGarVag249709_0473	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484476	210077	211510	-	1434		Cell division initiation protein DivIVA	GV15	clust_0700
+GV16|SEQ01275	VBIGarVag246379_1275	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479751	1499949	1501340	-	1392		Cell division initiation protein DivIVA	GV16	clust_0700
+GV17|SEQ00396	VBIGarVag146634_0396	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850819	382456	383889	-	1434		Cell division initiation protein DivIVA	GV17	clust_0700
+GV18|SEQ00807	VBIGarVag4823_0807	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000129	PATRIC	CDS	42070411	15216	16607	+	1392		Cell division initiation protein DivIVA	GV18	clust_0700
+GV19|SEQ00335	VBIGarVag39333_0336	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627533	411621	413012	+	1392		Cell division initiation protein DivIVA	GV19	clust_0700
+GV20|SEQ01181	VBIGarVag188338_1181	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191228	1473421	1474812	-	1392		Cell division initiation protein DivIVA	GV20	clust_0700
+GV21|SEQ01008	VBIGarVag274454_1009	Gardnerella vaginalis JCP7275	ATJS01000098	PATRIC	CDS	183968815	1709	3100	-	1392		Cell division initiation protein DivIVA	GV21	clust_0700
+GV22|SEQ01092	VBIGarVag276801_1093	Gardnerella vaginalis JCP7276	ATJR01000105	PATRIC	CDS	183971740	3216	4607	+	1392		Cell division initiation protein DivIVA	GV22	clust_0700
+GV23|SEQ01082	VBIGarVag276017_1082	Gardnerella vaginalis JCP7659	ATJQ01000121	PATRIC	CDS	183974638	1529	2920	-	1392		Cell division initiation protein DivIVA	GV23	clust_0700
+GV24|SEQ00688	VBIGarVag268944_0689	Gardnerella vaginalis JCP7672	ATJP01000056	PATRIC	CDS	183976561	3220	4611	+	1392		Cell division initiation protein DivIVA	GV24	clust_0700
+GV25|SEQ00880	VBIGarVag270495_0880	Gardnerella vaginalis JCP7719	ATJO01000078	PATRIC	CDS	183979745	2984	4375	+	1392		Cell division initiation protein DivIVA	GV25	clust_0700
+GV28|SEQ00876	VBIGarVag271349_0876	Gardnerella vaginalis JCP8066	ATJL01000080	PATRIC	CDS	183988528	8	253	+	246		Cell division initiation protein DivIVA	GV28	clust_0700
+GV29|SEQ00991	VBIGarVag265473_0991	Gardnerella vaginalis JCP8070	ATJK01000086	PATRIC	CDS	183991488	2943	4334	+	1392		Cell division initiation protein DivIVA	GV29	clust_0700
+GV30|SEQ01049	VBIGarVag267667_1051	Gardnerella vaginalis JCP8108	ATJJ01000096	PATRIC	CDS	183994308	1553	2944	-	1392		Cell division initiation protein DivIVA	GV30	clust_0700
+GV31|SEQ00783	VBIGarVag264983_0783	Gardnerella vaginalis JCP8151A	ATJI01000043	PATRIC	CDS	183996685	1526	2917	-	1392		Cell division initiation protein DivIVA	GV31	clust_0700
+GV32|SEQ00791	VBIGarVag277040_0791	Gardnerella vaginalis JCP8151B	ATJH01000054	PATRIC	CDS	183999514	2932	4323	+	1392		Cell division initiation protein DivIVA	GV32	clust_0700
+GV33|SEQ00450	VBIGarVag265557_0450	Gardnerella vaginalis JCP8481A	ATJG01000040	PATRIC	CDS	184001628	13948	15339	-	1392		Cell division initiation protein DivIVA	GV33	clust_0700
+GV34|SEQ00260	VBIGarVag270440_0260	Gardnerella vaginalis JCP8481B	ATJF01000018	PATRIC	CDS	184004057	3153	4544	+	1392		Cell division initiation protein DivIVA	GV34	clust_0700
+GV35|SEQ01175	VBIGarVag272169_1175	Gardnerella vaginalis JCP8522	ATJE01000190	PATRIC	CDS	184008896	1593	2984	-	1392		Cell division initiation protein DivIVA	GV35	clust_0700
+ADO1|SEQ00582	VBIBifAdo136061_0582	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187440	448687	450120	+	1434		Cell division initiation protein DivIVA	ADO1	clust_0700
+ANI1|SEQ00341	VBIBifAni240121_0341	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845598	415861	417585	+	1725		Cell division initiation protein DivIVA	ANI1	clust_0700
+ANI2|SEQ00340	VBIBifAni235968_0340	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848951	415863	417587	+	1725		Cell division initiation protein DivIVA	ANI2	clust_0700
+ANI3|SEQ00341	VBIBifAni108068_0341	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762964	415864	417588	+	1725		Cell division initiation protein DivIVA	ANI3	clust_0700
+BIF1|SEQ01576	VBIBifBif87902_1576	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885766	1893533	1894999	-	1467		Cell division initiation protein DivIVA	BIF1	clust_0700
+BRE1|SEQ01662	VBIBifBre340958_1663	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605373	1937697	1939136	-	1440		Cell division initiation protein DivIVA	BRE1	clust_0700
+BRE2|SEQ01767	VBIBifBre337368_1767	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609559	2038243	2039682	-	1440		Cell division initiation protein DivIVA	BRE2	clust_0700
+BRE3|SEQ01731	VBIBifBre167886_1731	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195236	2010228	2011667	-	1440		Cell division initiation protein DivIVA	BRE3	clust_0700
+BRE4|SEQ01701	VBIBifBre327712_1701	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613568	1970493	1971932	-	1440		Cell division initiation protein DivIVA	BRE4	clust_0700
+BRE5|SEQ01823	VBIBifBre336369_1824	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617865	2041159	2042598	-	1440		Cell division initiation protein DivIVA	BRE5	clust_0700
+BRE6|SEQ01368	VBIBifBre268992_1368	Bifidobacterium breve JCP7499	AWSX01000067	PATRIC	CDS	177655976	17103	18542	+	1440		Cell division initiation protein DivIVA	BRE6	clust_0700
+BRE7|SEQ01760	VBIBifBre340732_1760	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622043	2021590	2023029	-	1440		Cell division initiation protein DivIVA	BRE7	clust_0700
+BRE8|SEQ01716	VBIBifBre176493_1716	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626067	1995060	1996499	-	1440		Cell division initiation protein DivIVA	BRE8	clust_0700
+BRE9|SEQ01824	VBIBifBre30019_1824	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447811	2099036	2100475	-	1440		Cell division initiation protein DivIVA	BRE9	clust_0700
+INF1|SEQ00280	VBIBifLon182273_0280	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884489	353150	354718	+	1569		Cell division initiation protein DivIVA	INF1	clust_0700
+LON1|SEQ01060	VBIBifLon107831_1061	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119203	1249529	1251106	-	1578		Cell division initiation protein DivIVA	LON1	clust_0700
+LON2|SEQ01118	VBIBifLon171405_1120	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581789	1278398	1279975	-	1578		Cell division initiation protein DivIVA	LON2	clust_0700
+LON3|SEQ00934	VBIBifLon156230_0935	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768849	1868734	1870338	-	1605		Cell division initiation protein DivIVA	LON3	clust_0700
+LON4|SEQ00299	VBIBifLon48544_0299	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888830	370510	372087	+	1578		Cell division initiation protein DivIVA	LON4	clust_0700
+THE1|SEQ01492	VBIBifThe274299_1492	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736232	1835333	1836745	-	1413		Cell division initiation protein DivIVA	THE1	clust_0700

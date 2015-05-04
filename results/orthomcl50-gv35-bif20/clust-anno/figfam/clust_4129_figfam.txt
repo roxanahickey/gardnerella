@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ00960	86884482	VBIBifBif87902_0960	SEQ00960	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		ATP binding histidine kinase	FIG01697938	figfam	clust_4129
+BRE7|SEQ01551	268621609	VBIBifBre340732_1551	SEQ01551	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		two-component sensor (kinase)( EC:2.7.3.- )	FIG01312423	figfam	clust_4129

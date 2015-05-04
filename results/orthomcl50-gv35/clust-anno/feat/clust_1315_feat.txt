@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ01047	VBIGarVag242669_1047	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498950	3782	4765	-	984	rihA	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV02	clust_1315
+GV23|SEQ00019	VBIGarVag276017_0019	Gardnerella vaginalis JCP7659	ATJQ01000004	PATRIC	CDS	183972326	7222	8205	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV23	clust_1315
+GV25|SEQ01292	VBIGarVag270495_1292	Gardnerella vaginalis JCP7719	ATJO01000185	PATRIC	CDS	183980707	7236	8219	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV25	clust_1315
+GV26|SEQ00333	VBIGarVag272749_0333	Gardnerella vaginalis JCP8017A	ATJN01000020	PATRIC	CDS	183981441	7205	8188	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV26	clust_1315
+GV27|SEQ00193	VBIGarVag276930_0193	Gardnerella vaginalis JCP8017B	ATJM01000006	PATRIC	CDS	183984110	7203	8186	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV27	clust_1315
+GV28|SEQ00110	VBIGarVag271349_0110	Gardnerella vaginalis JCP8066	ATJL01000012	PATRIC	CDS	183986876	7158	8141	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV28	clust_1315
+GV29|SEQ00016	VBIGarVag265473_0016	Gardnerella vaginalis JCP8070	ATJK01000002	PATRIC	CDS	183989379	7303	8286	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV29	clust_1315
+GV31|SEQ00118	VBIGarVag264983_0118	Gardnerella vaginalis JCP8151A	ATJI01000006	PATRIC	CDS	183995268	7223	8206	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV31	clust_1315
+GV32|SEQ00353	VBIGarVag277040_0353	Gardnerella vaginalis JCP8151B	ATJH01000015	PATRIC	CDS	183998559	7223	8206	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV32	clust_1315
+GV35|SEQ00115	VBIGarVag272169_0115	Gardnerella vaginalis JCP8522	ATJE01000004	PATRIC	CDS	184006508	7151	8134	+	984		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV35	clust_1315

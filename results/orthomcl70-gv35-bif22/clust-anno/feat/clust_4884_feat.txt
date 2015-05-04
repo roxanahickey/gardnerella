@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ01110	VBIBifDen165269_1111	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459347	298957	299838	-	882		Transcriptional regulator, ArsR family	DEN1	clust_4884
+DEN2|SEQ02071	VBIBifDen39005_2073	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112581	70847	71728	-	882		Transcriptional regulator, ArsR family	DEN2	clust_4884

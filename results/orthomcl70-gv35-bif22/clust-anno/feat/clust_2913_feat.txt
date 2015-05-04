@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00949	VBIBifAni240121_0949	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846874	1095623	1096648	+	1026		Adenosine deaminase (EC 3.5.4.4)	ANI1	clust_2913
+ANI2|SEQ00948	VBIBifAni235968_0948	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850225	1095626	1096651	+	1026		Adenosine deaminase (EC 3.5.4.4)	ANI2	clust_2913
+ANI3|SEQ00952	VBIBifAni108068_0952	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764239	1095627	1096652	+	1026		Adenosine deaminase (EC 3.5.4.4)	ANI3	clust_2913
+DEN1|SEQ01361	VBIBifDen165269_1362	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459851	614998	616023	-	1026	add	Adenosine deaminase (EC 3.5.4.4)	DEN1	clust_2913
+DEN2|SEQ00283	VBIBifDen39005_0283	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108887	239233	240204	+	972	add	Adenosine deaminase (EC 3.5.4.4)	DEN2	clust_2913

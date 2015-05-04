@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ01323	VBIGarVag246433_1323	Gardnerella vaginalis 0288E	ADEN01000015	PATRIC	CDS	85482592	4792	4989	-	198		streptococcal hemagglutinin protein	GV04	clust_1401
+GV06|SEQ00896	VBIGarVag244004_0896	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490597	275957	276124	+	168		hypothetical protein	GV06	clust_1401
+GV08|SEQ00457	VBIGarVag251521_0457	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475320	324528	324686	+	159		streptococcal hemagglutinin protein	GV08	clust_1401
+GV11|SEQ01332	VBIGarVag171052_1332	Gardnerella vaginalis 41V	AEJE01000072	PATRIC	CDS	52551103	1799	2002	-	204		streptococcal hemagglutinin protein	GV11	clust_1401
+GV16|SEQ01002	VBIGarVag246379_1002	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479182	1148697	1148900	-	204		streptococcal hemagglutinin protein	GV16	clust_1401
+GV19|SEQ00611	VBIGarVag39333_0612	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628106	764283	764453	+	171		hypothetical protein	GV19	clust_1401
+GV29|SEQ00347	VBIGarVag265473_0347	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990083	29364	29510	-	147		hypothetical protein	GV29	clust_1401
+GV32|SEQ00218	VBIGarVag277040_0218	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998282	32297	32479	+	183		hypothetical protein	GV32	clust_1401

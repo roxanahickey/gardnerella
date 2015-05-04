@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00374	VBIBifAdo136061_0374	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187009	190624	191973	+	1350		transmembrane transport protein possibly for shikimate	ADO1	clust_1204
+ANI1|SEQ00143	VBIBifAni240121_0143	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845187	164817	166208	+	1392		transmembrane transport protein possibly for shikimate	ANI1	clust_1204
+ANI2|SEQ00143	VBIBifAni235968_0143	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848542	164817	166208	+	1392		transmembrane transport protein possibly for shikimate	ANI2	clust_1204
+ANI3|SEQ00145	VBIBifAni108068_0145	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762558	164733	166208	+	1476		transmembrane transport protein possibly for shikimate	ANI3	clust_1204
+BIF1|SEQ00135	VBIBifBif87902_0135	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882774	164487	165857	+	1371	yhjE	transmembrane transport protein possibly for shikimate	BIF1	clust_1204
+BRE1|SEQ00103	VBIBifBre340958_0103	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602131	134353	135720	+	1368		transmembrane transport protein possibly for shikimate	BRE1	clust_1204
+BRE2|SEQ00096	VBIBifBre337368_0096	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606090	127023	128390	+	1368		transmembrane transport protein possibly for shikimate	BRE2	clust_1204
+BRE3|SEQ00100	VBIBifBre167886_0100	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191845	133295	134662	+	1368		transmembrane transport protein possibly for shikimate	BRE3	clust_1204
+BRE4|SEQ00117	VBIBifBre327712_0117	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610274	153459	154826	+	1368		transmembrane transport protein possibly for shikimate	BRE4	clust_1204
+BRE5|SEQ00106	VBIBifBre336369_0106	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614301	133806	135173	+	1368		transmembrane transport protein possibly for shikimate	BRE5	clust_1204
+BRE6|SEQ01255	VBIBifBre268992_1255	Bifidobacterium breve JCP7499	AWSX01000062	PATRIC	CDS	177655734	2294	3661	-	1368		transmembrane transport protein possibly for shikimate	BRE6	clust_1204
+BRE7|SEQ00095	VBIBifBre340732_0095	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618588	124709	126076	+	1368		transmembrane transport protein possibly for shikimate	BRE7	clust_1204
+BRE8|SEQ00117	VBIBifBre176493_0117	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622745	149795	151162	+	1368		transmembrane transport protein possibly for shikimate	BRE8	clust_1204
+BRE9|SEQ00115	VBIBifBre30019_0115	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444260	149996	151363	+	1368		transmembrane transport protein possibly for shikimate	BRE9	clust_1204
+INF1|SEQ00103	VBIBifLon182273_0103	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884112	127319	128686	+	1368		transmembrane transport protein possibly for shikimate	INF1	clust_1204
+LON1|SEQ01272	VBIBifLon107831_1273	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119649	1498961	1500328	-	1368	shiA	transmembrane transport protein possibly for shikimate	LON1	clust_1204
+LON2|SEQ01300	VBIBifLon171405_1303	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582175	1505568	1506917	-	1350		transmembrane transport protein possibly for shikimate	LON2	clust_1204
+LON3|SEQ01379	VBIBifLon156230_1382	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769367	2137583	2138950	-	1368		transmembrane transport protein possibly for shikimate	LON3	clust_1204
+LON4|SEQ00112	VBIBifLon48544_0112	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888431	142817	144184	+	1368		transmembrane transport protein possibly for shikimate	LON4	clust_1204
+THE1|SEQ00117	VBIBifThe274299_0117	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733397	135545	136900	+	1356		transmembrane transport protein possibly for shikimate	THE1	clust_1204

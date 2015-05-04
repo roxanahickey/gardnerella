@@ -1,0 +1,48 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01268	VBIBifAdo136061_1268	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188877	198857	199672	-	816		Methionine ABC transporter ATP-binding protein	ADO1	clust_0796
+BIF1|SEQ00788	VBIBifBif87902_0788	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884123	967510	968325	+	816	macB	Methionine ABC transporter ATP-binding protein	BIF1	clust_0796
+BRE1|SEQ00844	VBIBifBre340958_0844	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603672	1009741	1010652	+	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE1	clust_0796
+BRE2|SEQ00927	VBIBifBre337368_0927	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607810	1091519	1092427	+	909		ABC-type antimicrobial peptide transport system, ATPase component	BRE2	clust_0796
+BRE3|SEQ00953	VBIBifBre167886_0953	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193618	1121083	1121994	-	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE3	clust_0796
+BRE4|SEQ00874	VBIBifBre327712_0874	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611847	1047474	1048385	+	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE4	clust_0796
+BRE5|SEQ00895	VBIBifBre336369_0896	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615937	1049944	1050855	+	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE5	clust_0796
+BRE6|SEQ00786	VBIBifBre268992_0786	Bifidobacterium breve JCP7499	AWSX01000040	PATRIC	CDS	177654743	10800	11708	-	909		ABC-type antimicrobial peptide transport system, ATPase component	BRE6	clust_0796
+BRE7|SEQ00876	VBIBifBre340732_0876	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620209	1039432	1040343	+	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE7	clust_0796
+BRE8|SEQ00906	VBIBifBre176493_0906	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624378	1085806	1086717	+	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE8	clust_0796
+BRE9|SEQ00959	VBIBifBre30019_0959	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446014	1139003	1139914	+	912		ABC-type antimicrobial peptide transport system, ATPase component	BRE9	clust_0796
+DEN1|SEQ01659	VBIBifDen165269_1660	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460473	957485	958294	-	810		Methionine ABC transporter ATP-binding protein	DEN1	clust_0796
+DEN2|SEQ00544	VBIBifDen39005_0544	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109416	183987	184796	+	810		Methionine ABC transporter ATP-binding protein	DEN2	clust_0796
+GV01|SEQ01091	VBIGarVag247323_1091	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496383	94199	94975	+	777		Methionine ABC transporter ATP-binding protein	GV01	clust_0796
+GV02|SEQ00347	VBIGarVag242669_0347	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497470	154514	155293	-	780		Methionine ABC transporter ATP-binding protein	GV02	clust_0796
+GV03|SEQ00524	VBIGarVag247424_0524	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500455	77682	78461	+	780		Methionine ABC transporter ATP-binding protein	GV03	clust_0796
+GV04|SEQ00755	VBIGarVag246433_0755	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481409	84797	85549	+	753		Methionine ABC transporter ATP-binding protein	GV04	clust_0796
+GV05|SEQ00545	VBIGarVag174900_0545	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546834	139128	139877	+	750		Methionine ABC transporter ATP-binding protein	GV05	clust_0796
+GV06|SEQ01043	VBIGarVag244004_1043	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490902	75172	75924	+	753		Methionine ABC transporter ATP-binding protein	GV06	clust_0796
+GV07|SEQ00868	VBIGarVag249177_0868	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493407	141040	141837	-	798		Methionine ABC transporter ATP-binding protein	GV07	clust_0796
+GV08|SEQ00781	VBIGarVag251521_0781	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475988	140873	141658	-	786		Methionine ABC transporter ATP-binding protein	GV08	clust_0796
+GV09|SEQ00228	VBIGarVag169280_0228	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259619	50929	51714	-	786		Methionine ABC transporter ATP-binding protein	GV09	clust_0796
+GV10|SEQ00341	VBIGarVag136958_0341	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146720	398460	398864	+	405		Methionine ABC transporter ATP-binding protein	GV10	clust_0796
+GV11|SEQ00279	VBIGarVag171052_0279	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	52548854	38605	39357	+	753		Methionine ABC transporter ATP-binding protein	GV11	clust_0796
+GV12|SEQ00882	VBIGarVag144721_0882	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854485	434159	434941	+	783		Methionine ABC transporter ATP-binding protein	GV12	clust_0796
+GV13|SEQ00433	VBIGarVag244533_0433	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486826	29168	29953	-	786		Methionine ABC transporter ATP-binding protein	GV13	clust_0796
+GV14|SEQ00829	VBIGarVag244375_0829	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503547	22304	23053	+	750		Methionine ABC transporter ATP-binding protein	GV14	clust_0796
+GV15|SEQ00323	VBIGarVag249709_0323	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484159	46877	47650	-	774		Methionine ABC transporter ATP-binding protein	GV15	clust_0796
+GV16|SEQ00533	VBIGarVag246379_0533	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478214	579369	580121	+	753		Methionine ABC transporter ATP-binding protein	GV16	clust_0796
+GV17|SEQ00254	VBIGarVag146634_0254	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850519	225391	226164	-	774		Methionine ABC transporter ATP-binding protein	GV17	clust_0796
+GV18|SEQ01299	VBIGarVag4823_1299	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071441	76772	77557	+	786		Methionine ABC transporter ATP-binding protein	GV18	clust_0796
+GV19|SEQ01078	VBIGarVag39333_1079	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629067	1318784	1319569	-	786	macB	Methionine ABC transporter ATP-binding protein	GV19	clust_0796
+GV20|SEQ00429	VBIGarVag188338_0429	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189672	539005	539790	+	786		Methionine ABC transporter ATP-binding protein	GV20	clust_0796
+GV21|SEQ01101	VBIGarVag274454_1102	Gardnerella vaginalis JCP7275	ATJS01000140	PATRIC	CDS	183969051	1458	2210	-	753		Methionine ABC transporter ATP-binding protein	GV21	clust_0796
+GV22|SEQ00782	VBIGarVag276801_0783	Gardnerella vaginalis JCP7276	ATJR01000037	PATRIC	CDS	183971023	5162	5947	+	786		Methionine ABC transporter ATP-binding protein	GV22	clust_0796
+GV24|SEQ00624	VBIGarVag268944_0625	Gardnerella vaginalis JCP7672	ATJP01000042	PATRIC	CDS	183976419	7971	8723	-	753		Methionine ABC transporter ATP-binding protein	GV24	clust_0796
+GV26|SEQ01086	VBIGarVag272749_1086	Gardnerella vaginalis JCP8017A	ATJN01000086	PATRIC	CDS	183983065	1082	1858	-	777		Methionine ABC transporter ATP-binding protein	GV26	clust_0796
+GV28|SEQ01181	VBIGarVag271349_1181	Gardnerella vaginalis JCP8066	ATJL01000178	PATRIC	CDS	183989270	205	996	-	792		Methionine ABC transporter ATP-binding protein	GV28	clust_0796
+GV30|SEQ00721	VBIGarVag267667_0723	Gardnerella vaginalis JCP8108	ATJJ01000044	PATRIC	CDS	183993574	417	1169	-	753		Methionine ABC transporter ATP-binding protein	GV30	clust_0796
+GV31|SEQ01127	VBIGarVag264983_1127	Gardnerella vaginalis JCP8151A	ATJI01000122	PATRIC	CDS	183997472	143	940	-	798		Methionine ABC transporter ATP-binding protein	GV31	clust_0796
+GV33|SEQ00627	VBIGarVag265557_0627	Gardnerella vaginalis JCP8481A	ATJG01000057	PATRIC	CDS	184002002	6041	6829	+	789		Methionine ABC transporter ATP-binding protein	GV33	clust_0796
+GV34|SEQ00699	VBIGarVag270440_0699	Gardnerella vaginalis JCP8481B	ATJF01000072	PATRIC	CDS	184005016	6041	6829	+	789		Methionine ABC transporter ATP-binding protein	GV34	clust_0796
+INF1|SEQ00791	VBIBifLon182273_0791	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885551	962766	963734	+	969		ABC-type antimicrobial peptide transport system, ATPase component	INF1	clust_0796
+LON1|SEQ00583	VBIBifLon107831_0584	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118223	676067	677035	-	969		ABC-type antimicrobial peptide transport system, ATPase component	LON1	clust_0796
+LON2|SEQ00642	VBIBifLon171405_0643	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580810	711387	712355	-	969		ABC-type antimicrobial peptide transport system, ATPase component	LON2	clust_0796
+LON3|SEQ00449	VBIBifLon156230_0449	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767850	1286678	1287646	-	969		ABC-type antimicrobial peptide transport system, ATPase component	LON3	clust_0796
+LON4|SEQ00763	VBIBifLon48544_0763	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889797	920111	921079	+	969		ABC-type antimicrobial peptide transport system, ATPase component	LON4	clust_0796

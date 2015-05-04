@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00925	VBIGarVag247323_0925	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496025	151291	151584	+	294	groES	Heat shock protein 60 family co-chaperone GroES	GV01	clust_0377
+GV02|SEQ01141	VBIGarVag242669_1141	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499153	110292	110585	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV02	clust_0377
+GV03|SEQ00336	VBIGarVag247424_0336	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500064	299578	299871	+	294	groES	Heat shock protein 60 family co-chaperone GroES	GV03	clust_0377
+GV04|SEQ00049	VBIGarVag246433_0049	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479942	44982	45275	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV04	clust_0377
+GV05|SEQ00436	VBIGarVag174900_0436	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546604	11071	11364	+	294		Heat shock protein 60 family co-chaperone GroES	GV05	clust_0377
+GV06|SEQ00597	VBIGarVag244004_0597	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489971	40005	40298	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV06	clust_0377
+GV07|SEQ00483	VBIGarVag249177_0483	Gardnerella vaginalis 1500E	ADES01000008	PATRIC	CDS	85492597	8425	8718	+	294	groES	Heat shock protein 60 family co-chaperone GroES	GV07	clust_0377
+GV08|SEQ01177	VBIGarVag251521_1177	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476807	290943	291236	+	294	groES	Heat shock protein 60 family co-chaperone GroES	GV08	clust_0377
+GV09|SEQ01208	VBIGarVag169280_1208	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261649	77400	77693	+	294	groS	Heat shock protein 60 family co-chaperone GroES	GV09	clust_0377
+GV10|SEQ00214	VBIGarVag136958_0214	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146450	263235	263528	+	294	groS	Heat shock protein 60 family co-chaperone GroES	GV10	clust_0377
+GV11|SEQ01147	VBIGarVag171052_1147	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550699	14657	14950	-	294		Heat shock protein 60 family co-chaperone GroES	GV11	clust_0377
+GV12|SEQ00754	VBIGarVag144721_0754	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854213	300454	300747	+	294		Heat shock protein 60 family co-chaperone GroES	GV12	clust_0377
+GV13|SEQ01076	VBIGarVag244533_1076	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488173	74916	75209	+	294	groES	Heat shock protein 60 family co-chaperone GroES	GV13	clust_0377
+GV14|SEQ00117	VBIGarVag244375_0117	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502061	105299	105592	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV14	clust_0377
+GV15|SEQ00451	VBIGarVag249709_0451	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484432	185100	185393	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV15	clust_0377
+GV16|SEQ00328	VBIGarVag246379_0328	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477780	295183	295476	+	294	groES	Heat shock protein 60 family co-chaperone GroES	GV16	clust_0377
+GV17|SEQ00374	VBIGarVag146634_0374	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850775	357520	357813	-	294		Heat shock protein 60 family co-chaperone GroES	GV17	clust_0377
+GV18|SEQ01015	VBIGarVag4823_1015	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070849	1842	2135	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV18	clust_0377
+GV19|SEQ01281	VBIGarVag39333_1284	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629495	1595328	1595621	-	294	groES	Heat shock protein 60 family co-chaperone GroES	GV19	clust_0377
+GV20|SEQ00216	VBIGarVag188338_0216	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189222	256031	256324	+	294	groS	Heat shock protein 60 family co-chaperone GroES	GV20	clust_0377
+GV21|SEQ00915	VBIGarVag274454_0916	Gardnerella vaginalis JCP7275	ATJS01000073	PATRIC	CDS	183968594	1049	1342	-	294		Heat shock protein 60 family co-chaperone GroES	GV21	clust_0377
+GV22|SEQ00212	VBIGarVag276801_0212	Gardnerella vaginalis JCP7276	ATJR01000005	PATRIC	CDS	183969827	20729	21022	-	294		Heat shock protein 60 family co-chaperone GroES	GV22	clust_0377
+GV23|SEQ00717	VBIGarVag276017_0717	Gardnerella vaginalis JCP7659	ATJQ01000048	PATRIC	CDS	183973805	1066	1359	-	294		Heat shock protein 60 family co-chaperone GroES	GV23	clust_0377
+GV24|SEQ00572	VBIGarVag268944_0573	Gardnerella vaginalis JCP7672	ATJP01000034	PATRIC	CDS	183976299	936	1229	+	294		Heat shock protein 60 family co-chaperone GroES	GV24	clust_0377
+GV25|SEQ00892	VBIGarVag270495_0892	Gardnerella vaginalis JCP7719	ATJO01000081	PATRIC	CDS	183979774	4945	5238	+	294		Heat shock protein 60 family co-chaperone GroES	GV25	clust_0377
+GV26|SEQ01266	VBIGarVag272749_1266	Gardnerella vaginalis JCP8017A	ATJN01000153	PATRIC	CDS	183983503	11187	11480	-	294		Heat shock protein 60 family co-chaperone GroES	GV26	clust_0377
+GV27|SEQ01248	VBIGarVag276930_1248	Gardnerella vaginalis JCP8017B	ATJM01000140	PATRIC	CDS	183986411	10819	11112	-	294		Heat shock protein 60 family co-chaperone GroES	GV27	clust_0377
+GV28|SEQ00518	VBIGarVag271349_0518	Gardnerella vaginalis JCP8066	ATJL01000033	PATRIC	CDS	183987741	1017	1310	-	294		Heat shock protein 60 family co-chaperone GroES	GV28	clust_0377
+GV29|SEQ00972	VBIGarVag265473_0972	Gardnerella vaginalis JCP8070	ATJK01000082	PATRIC	CDS	183991446	4989	5282	+	294		Heat shock protein 60 family co-chaperone GroES	GV29	clust_0377
+GV30|SEQ00458	VBIGarVag267667_0459	Gardnerella vaginalis JCP8108	ATJJ01000022	PATRIC	CDS	183993005	23094	23387	-	294		Heat shock protein 60 family co-chaperone GroES	GV30	clust_0377
+GV31|SEQ00804	VBIGarVag264983_0804	Gardnerella vaginalis JCP8151A	ATJI01000048	PATRIC	CDS	183996732	1036	1329	-	294		Heat shock protein 60 family co-chaperone GroES	GV31	clust_0377
+GV32|SEQ00497	VBIGarVag277040_0497	Gardnerella vaginalis JCP8151B	ATJH01000027	PATRIC	CDS	183998883	20916	21209	-	294		Heat shock protein 60 family co-chaperone GroES	GV32	clust_0377
+GV33|SEQ00079	VBIGarVag265557_0079	Gardnerella vaginalis JCP8481A	ATJG01000007	PATRIC	CDS	184000821	9682	9975	+	294		Heat shock protein 60 family co-chaperone GroES	GV33	clust_0377
+GV34|SEQ00242	VBIGarVag270440_0242	Gardnerella vaginalis JCP8481B	ATJF01000016	PATRIC	CDS	184004011	9682	9975	+	294		Heat shock protein 60 family co-chaperone GroES	GV34	clust_0377
+GV35|SEQ00816	VBIGarVag272169_0816	Gardnerella vaginalis JCP8522	ATJE01000079	PATRIC	CDS	184008035	2812	3105	+	294		Heat shock protein 60 family co-chaperone GroES	GV35	clust_0377
+ADO1|SEQ00608	VBIBifAdo136061_0608	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187492	475435	475728	+	294		Heat shock protein 60 family co-chaperone GroES	ADO1	clust_0377
+ANI1|SEQ00366	VBIBifAni240121_0366	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845648	445183	445479	+	297		Heat shock protein 60 family co-chaperone GroES	ANI1	clust_0377
+ANI2|SEQ00366	VBIBifAni235968_0366	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849003	445185	445481	+	297	groES	Heat shock protein 60 family co-chaperone GroES	ANI2	clust_0377
+ANI3|SEQ00367	VBIBifAni108068_0367	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763016	445186	445482	+	297	groES	Heat shock protein 60 family co-chaperone GroES	ANI3	clust_0377
+BIF1|SEQ01546	VBIBifBif87902_1546	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885706	1855904	1856197	-	294	groS	Heat shock protein 60 family co-chaperone GroES	BIF1	clust_0377
+BRE1|SEQ01638	VBIBifBre340958_1639	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605324	1910443	1910736	-	294		Heat shock protein 60 family co-chaperone GroES	BRE1	clust_0377
+BRE2|SEQ01743	VBIBifBre337368_1743	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609510	2010995	2011288	-	294		Heat shock protein 60 family co-chaperone GroES	BRE2	clust_0377
+BRE3|SEQ01696	VBIBifBre167886_1696	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195166	1968241	1968534	-	294	groS	Heat shock protein 60 family co-chaperone GroES	BRE3	clust_0377
+BRE4|SEQ01677	VBIBifBre327712_1677	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613519	1943152	1943445	-	294		Heat shock protein 60 family co-chaperone GroES	BRE4	clust_0377
+BRE5|SEQ01799	VBIBifBre336369_1800	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617816	2013881	2014174	-	294		Heat shock protein 60 family co-chaperone GroES	BRE5	clust_0377
+BRE6|SEQ01392	VBIBifBre268992_1392	Bifidobacterium breve JCP7499	AWSX01000068	PATRIC	CDS	177656026	2365	2658	+	294		Heat shock protein 60 family co-chaperone GroES	BRE6	clust_0377
+BRE7|SEQ01724	VBIBifBre340732_1724	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621970	1979683	1979976	-	294		Heat shock protein 60 family co-chaperone GroES	BRE7	clust_0377
+BRE8|SEQ01681	VBIBifBre176493_1681	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625996	1953065	1953358	-	294	groES	Heat shock protein 60 family co-chaperone GroES	BRE8	clust_0377
+BRE9|SEQ01789	VBIBifBre30019_1789	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447740	2057121	2057414	-	294	groES	Heat shock protein 60 family co-chaperone GroES	BRE9	clust_0377
+INF1|SEQ01813	VBIBifLon182273_1813	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887672	2059127	2059420	-	294		Heat shock protein 60 family co-chaperone GroES	INF1	clust_0377
+LON1|SEQ01612	VBIBifLon107831_1613	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120364	1968887	1969180	+	294	groES	Heat shock protein 60 family co-chaperone GroES	LON1	clust_0377
+LON2|SEQ01642	VBIBifLon171405_1645	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582889	1986157	1986450	+	294	groS	Heat shock protein 60 family co-chaperone GroES	LON2	clust_0377
+LON3|SEQ01677	VBIBifLon156230_1680	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766536	519129	519422	-	294		Heat shock protein 60 family co-chaperone GroES	LON3	clust_0377
+LON4|SEQ01762	VBIBifLon48544_1762	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891915	2019633	2019926	-	294		Heat shock protein 60 family co-chaperone GroES	LON4	clust_0377
+THE1|SEQ01465	VBIBifThe274299_1465	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736178	1806338	1806631	-	294	groES	Heat shock protein 60 family co-chaperone GroES	THE1	clust_0377

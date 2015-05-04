@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE8|SEQ01117	268624821	VBIBifBre176493_1117	SEQ01117	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		type II restriction endonuclease, putative	FIG01347626	figfam	clust_3040
+LON1|SEQ00335	21117711	VBIBifLon107831_0335	SEQ00335	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		type II restriction endonuclease, putative	FIG01347626	figfam	clust_3040
+LON2|SEQ00568	42580660	VBIBifLon171405_0569	SEQ00568	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		FIG01046921: hypothetical protein	FIG01046920	figfam	clust_3040
+LON3|SEQ00199	42767331	VBIBifLon156230_0199	SEQ00199	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		type II restriction endonuclease, putative	FIG01347626	figfam	clust_3040

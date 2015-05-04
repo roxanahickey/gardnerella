@@ -1,0 +1,55 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00715	VBIGarVag247323_0715	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495591	153912	154787	+	876		possible phospholipase/carboxylesterase	GV01	clust_0623
+GV02|SEQ00198	VBIGarVag242669_0198	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497166	185519	186394	+	876		possible phospholipase/carboxylesterase	GV02	clust_0623
+GV03|SEQ00091	VBIGarVag247424_0091	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499550	4915	5694	-	780		possible phospholipase/carboxylesterase	GV03	clust_0623
+GV04|SEQ00309	VBIGarVag246433_0309	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480482	205427	206266	+	840		possible phospholipase/carboxylesterase	GV04	clust_0623
+GV05|SEQ00193	VBIGarVag174900_0193	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546096	4924	5703	-	780		possible phospholipase/carboxylesterase	GV05	clust_0623
+GV06|SEQ00414	VBIGarVag244004_0414	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489572	13411	14232	-	822		possible phospholipase/carboxylesterase	GV06	clust_0623
+GV07|SEQ00170	VBIGarVag249177_0170	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491929	200819	201589	+	771		possible phospholipase/carboxylesterase	GV07	clust_0623
+GV08|SEQ00932	VBIGarVag251521_0932	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476299	5692	6531	-	840		possible phospholipase/carboxylesterase	GV08	clust_0623
+GV09|SEQ00171	VBIGarVag169280_0171	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259497	154268	155107	+	840		possible phospholipase/carboxylesterase	GV09	clust_0623
+GV10|SEQ01182	VBIGarVag136958_1182	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148468	1603811	1604581	-	771		possible phospholipase/carboxylesterase	GV10	clust_0623
+GV11|SEQ00427	VBIGarVag171052_0427	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549169	7981	8820	-	840		possible phospholipase/carboxylesterase	GV11	clust_0623
+GV12|SEQ00519	VBIGarVag144721_0519	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853723	12308	13078	-	771		possible phospholipase/carboxylesterase	GV12	clust_0623
+GV13|SEQ00031	VBIGarVag244533_0031	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485990	13279	14118	-	840		possible phospholipase/carboxylesterase	GV13	clust_0623
+GV14|SEQ00667	VBIGarVag244375_0667	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503206	194953	195732	+	780		possible phospholipase/carboxylesterase	GV14	clust_0623
+GV15|SEQ01099	VBIGarVag249709_1099	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485798	77819	78589	+	771		possible phospholipase/carboxylesterase	GV15	clust_0623
+GV16|SEQ00099	VBIGarVag246379_0099	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477304	12410	13231	-	822		possible phospholipase/carboxylesterase	GV16	clust_0623
+GV17|SEQ00645	VBIGarVag146634_0645	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851350	75078	75848	+	771		possible phospholipase/carboxylesterase	GV17	clust_0623
+GV18|SEQ00890	VBIGarVag4823_0890	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070580	12753	13592	-	840		possible phospholipase/carboxylesterase	GV18	clust_0623
+GV19|SEQ00188	VBIGarVag39333_0188	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627223	221958	222797	+	840		possible phospholipase/carboxylesterase	GV19	clust_0623
+GV20|SEQ00068	VBIGarVag188338_0068	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188914	84435	85256	+	822		possible phospholipase/carboxylesterase	GV20	clust_0623
+GV21|SEQ01206	VBIGarVag274454_1207	Gardnerella vaginalis JCP7275	ATJS01000183	PATRIC	CDS	183969306	2327	3166	-	840		possible phospholipase/carboxylesterase	GV21	clust_0623
+GV22|SEQ00371	VBIGarVag276801_0372	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970163	1379	2218	+	840		possible phospholipase/carboxylesterase	GV22	clust_0623
+GV23|SEQ01017	VBIGarVag276017_1017	Gardnerella vaginalis JCP7659	ATJQ01000102	PATRIC	CDS	183974483	174	350	+	177		possible phospholipase/carboxylesterase	GV23	clust_0623
+GV24|SEQ00444	VBIGarVag268944_0445	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976019	2389	3228	+	840		possible phospholipase/carboxylesterase	GV24	clust_0623
+GV25|SEQ00129	VBIGarVag270495_0129	Gardnerella vaginalis JCP7719	ATJO01000010	PATRIC	CDS	183978130	2521	3429	+	909		possible phospholipase/carboxylesterase	GV25	clust_0623
+GV26|SEQ01156	VBIGarVag272749_1156	Gardnerella vaginalis JCP8017A	ATJN01000111	PATRIC	CDS	183983231	2364	2720	-	357		possible phospholipase/carboxylesterase	GV26	clust_0623
+GV27|SEQ00958	VBIGarVag276930_0958	Gardnerella vaginalis JCP8017B	ATJM01000062	PATRIC	CDS	183985740	39	395	+	357		possible phospholipase/carboxylesterase	GV27	clust_0623
+GV28|SEQ01022	VBIGarVag271349_1022	Gardnerella vaginalis JCP8066	ATJL01000122	PATRIC	CDS	183988876	2531	3418	+	888		possible phospholipase/carboxylesterase	GV28	clust_0623
+GV29|SEQ01187	VBIGarVag265473_1187	Gardnerella vaginalis JCP8070	ATJK01000169	PATRIC	CDS	183991985	2969	3145	-	177		possible phospholipase/carboxylesterase	GV29	clust_0623
+GV30|SEQ00613	VBIGarVag267667_0614	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993347	10987	11826	-	840		possible phospholipase/carboxylesterase	GV30	clust_0623
+GV31|SEQ00702	VBIGarVag264983_0702	Gardnerella vaginalis JCP8151A	ATJI01000035	PATRIC	CDS	183996499	5475	6362	-	888		possible phospholipase/carboxylesterase	GV31	clust_0623
+GV32|SEQ01276	VBIGarVag277040_1276	Gardnerella vaginalis JCP8151B	ATJH01000183	PATRIC	CDS	184000652	154	510	-	357		possible phospholipase/carboxylesterase	GV32	clust_0623
+GV33|SEQ00148	VBIGarVag265557_0148	Gardnerella vaginalis JCP8481A	ATJG01000012	PATRIC	CDS	184000980	941	1711	+	771		possible phospholipase/carboxylesterase	GV33	clust_0623
+GV34|SEQ01072	VBIGarVag270440_1072	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005837	24961	25800	+	840		possible phospholipase/carboxylesterase	GV34	clust_0623
+ADO1|SEQ00022	VBIBifAdo136061_0022	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186236	15795	16577	+	783		possible phospholipase/carboxylesterase	ADO1	clust_0623
+ANI1|SEQ01575	VBIBifAni240121_1575	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848186	1900801	1901739	-	939		possible phospholipase/carboxylesterase	ANI1	clust_0623
+ANI2|SEQ01572	VBIBifAni235968_1572	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851532	1901028	1901966	-	939		possible phospholipase/carboxylesterase	ANI2	clust_0623
+ANI3|SEQ01584	VBIBifAni108068_1585	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765556	1906256	1907194	-	939		possible phospholipase/carboxylesterase	ANI3	clust_0623
+BIF1|SEQ01798	VBIBifBif87902_1798	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886234	2170105	2170851	+	747		possible phospholipase/carboxylesterase	BIF1	clust_0623
+BRE1|SEQ01853	VBIBifBre340958_1855	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605773	2181802	2182560	-	759		possible phospholipase/carboxylesterase	BRE1	clust_0623
+BRE2|SEQ01943	VBIBifBre337368_1943	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609928	2268804	2269604	-	801		possible phospholipase/carboxylesterase	BRE2	clust_0623
+BRE3|SEQ01914	VBIBifBre167886_1914	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195625	2254655	2255413	-	759		possible phospholipase/carboxylesterase	BRE3	clust_0623
+BRE4|SEQ01892	VBIBifBre327712_1892	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613968	2214633	2215391	-	759		possible phospholipase/carboxylesterase	BRE4	clust_0623
+BRE5|SEQ02030	VBIBifBre336369_2031	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618296	2305585	2306343	-	759		possible phospholipase/carboxylesterase	BRE5	clust_0623
+BRE6|SEQ00486	VBIBifBre268992_0486	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654105	11873	12631	-	759		possible phospholipase/carboxylesterase	BRE6	clust_0623
+BRE7|SEQ01929	VBIBifBre340732_1929	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622398	2244295	2245053	-	759		possible phospholipase/carboxylesterase	BRE7	clust_0623
+BRE8|SEQ01889	VBIBifBre176493_1889	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626437	2222116	2222874	-	759		possible phospholipase/carboxylesterase	BRE8	clust_0623
+BRE9|SEQ02018	VBIBifBre30019_2018	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448216	2348378	2349136	-	759		possible phospholipase/carboxylesterase	BRE9	clust_0623
+INF1|SEQ01988	VBIBifLon182273_1988	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46888049	2320860	2321618	-	759		possible phospholipase/carboxylesterase	INF1	clust_0623
+LON1|SEQ01417	VBIBifLon107831_1418	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119949	1688193	1688951	+	759		possible phospholipase/carboxylesterase	LON1	clust_0623
+LON2|SEQ01459	VBIBifLon171405_1462	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582505	1703149	1703907	+	759		possible phospholipase/carboxylesterase	LON2	clust_0623
+LON3|SEQ01542	VBIBifLon156230_1545	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769705	2356877	2357635	+	759		possible phospholipase/carboxylesterase	LON3	clust_0623
+LON4|SEQ01956	VBIBifLon48544_1957	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892329	2323363	2324121	-	759		possible phospholipase/carboxylesterase	LON4	clust_0623
+THE1|SEQ01811	VBIBifThe274299_1811	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736912	2252865	2253614	-	750		possible phospholipase/carboxylesterase	THE1	clust_0623

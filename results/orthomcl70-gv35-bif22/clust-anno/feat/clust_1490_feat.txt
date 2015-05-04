@@ -1,0 +1,19 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00848	VBIBifAdo136061_0848	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188004	739519	740160	+	642		Methionine ABC transporter ATP-binding protein	ADO1	clust_1490
+BRE1|SEQ00497	VBIBifBre340958_0497	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602951	623767	624579	+	813		possible ATP binding protein of ABC transporter	BRE1	clust_1490
+BRE2|SEQ00574	VBIBifBre337368_0574	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607078	705943	706755	+	813		possible ATP binding protein of ABC transporter	BRE2	clust_1490
+BRE3|SEQ01309	VBIBifBre167886_1309	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194356	1513293	1514105	-	813		possible ATP binding protein of ABC transporter	BRE3	clust_1490
+BRE4|SEQ00518	VBIBifBre327712_0518	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611108	655575	656387	+	813		possible ATP binding protein of ABC transporter	BRE4	clust_1490
+BRE5|SEQ00536	VBIBifBre336369_0537	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615191	646063	646875	+	813		possible ATP binding protein of ABC transporter	BRE5	clust_1490
+BRE6|SEQ00414	VBIBifBre268992_0414	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653954	17154	17966	-	813		possible ATP binding protein of ABC transporter	BRE6	clust_1490
+BRE7|SEQ00528	VBIBifBre340732_0528	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619485	657900	658712	+	813		possible ATP binding protein of ABC transporter	BRE7	clust_1490
+BRE8|SEQ00556	VBIBifBre176493_0556	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623653	701067	701879	+	813		possible ATP binding protein of ABC transporter	BRE8	clust_1490
+BRE9|SEQ00611	VBIBifBre30019_0611	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445290	751602	752414	+	813		possible ATP binding protein of ABC transporter	BRE9	clust_1490
+DEN1|SEQ00051	VBIBifDen165269_0051	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461347	1389598	1390260	-	663		Methionine ABC transporter ATP-binding protein	DEN1	clust_1490
+DEN2|SEQ01837	VBIBifDen39005_1838	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112080	59100	59699	-	600		Methionine ABC transporter ATP-binding protein	DEN2	clust_1490
+INF1|SEQ00509	VBIBifLon182273_0509	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884960	641951	642706	+	756		possible ATP binding protein of ABC transporter	INF1	clust_1490
+LON1|SEQ00844	VBIBifLon107831_0845	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118763	980173	980865	-	693		possible ATP binding protein of ABC transporter	LON1	clust_1490
+LON2|SEQ00911	VBIBifLon171405_0912	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581366	1018887	1019678	-	792		possible ATP binding protein of ABC transporter	LON2	clust_1490
+LON3|SEQ00716	VBIBifLon156230_0716	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768403	1595246	1596037	-	792		possible ATP binding protein of ABC transporter	LON3	clust_1490
+LON4|SEQ00495	VBIBifLon48544_0495	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889233	617396	618151	+	756		possible ATP binding protein of ABC transporter	LON4	clust_1490
+THE1|SEQ01207	VBIBifThe274299_1207	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735634	1500592	1501434	-	843		Methionine ABC transporter ATP-binding protein	THE1	clust_1490

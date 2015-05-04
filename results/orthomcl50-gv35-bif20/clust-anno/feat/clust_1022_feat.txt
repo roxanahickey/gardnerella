@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00975	VBIGarVag247323_0975	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496135	199900	200850	-	951		COG0765: ABC-type amino acid transport system, permease component	GV01	clust_1022
+GV02|SEQ01092	VBIGarVag242669_1092	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499044	61047	61997	+	951		COG0765: ABC-type amino acid transport system, permease component	GV02	clust_1022
+GV04|SEQ00566	VBIGarVag246433_0566	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481024	231211	232104	+	894		COG0765: ABC-type amino acid transport system, permease component	GV04	clust_1022
+GV06|SEQ01113	VBIGarVag244004_1113	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491052	82252	83202	+	951		COG0765: ABC-type amino acid transport system, permease component	GV06	clust_1022
+GV08|SEQ00229	VBIGarVag251521_0229	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474843	12941	13834	-	894		COG0765: ABC-type amino acid transport system, permease component	GV08	clust_1022
+GV09|SEQ00583	VBIGarVag169280_0583	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260355	342761	343654	+	894		COG0765: ABC-type amino acid transport system, permease component	GV09	clust_1022
+GV11|SEQ01065	VBIGarVag171052_1065	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550520	2386	3279	+	894		COG0765: ABC-type amino acid transport system, permease component	GV11	clust_1022
+GV13|SEQ00577	VBIGarVag244533_0577	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487124	82800	83750	-	951		COG0765: ABC-type amino acid transport system, permease component	GV13	clust_1022
+GV16|SEQ01233	VBIGarVag246379_1233	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479667	1456129	1457022	+	894		COG0765: ABC-type amino acid transport system, permease component	GV16	clust_1022
+GV18|SEQ00321	VBIGarVag4823_0321	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000084	PATRIC	CDS	42069355	10502	11395	-	894		COG0765: ABC-type amino acid transport system, permease component	GV18	clust_1022
+GV19|SEQ00376	VBIGarVag39333_0377	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627615	455548	456441	-	894		COG0765: ABC-type amino acid transport system, permease component	GV19	clust_1022
+GV20|SEQ01141	VBIGarVag188338_1141	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191148	1430312	1431205	+	894		COG0765: ABC-type amino acid transport system, permease component	GV20	clust_1022
+GV21|SEQ00536	VBIGarVag274454_0537	Gardnerella vaginalis JCP7275	ATJS01000026	PATRIC	CDS	183967747	11468	12418	+	951		COG0765: ABC-type amino acid transport system, permease component	GV21	clust_1022
+GV22|SEQ00717	VBIGarVag276801_0718	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970883	12981	13874	-	894		COG0765: ABC-type amino acid transport system, permease component	GV22	clust_1022
+GV23|SEQ00829	VBIGarVag276017_0829	Gardnerella vaginalis JCP7659	ATJQ01000065	PATRIC	CDS	183974060	5944	6894	-	951		COG0765: ABC-type amino acid transport system, permease component	GV23	clust_1022
+GV24|SEQ00796	VBIGarVag268944_0797	Gardnerella vaginalis JCP7672	ATJP01000065	PATRIC	CDS	183976792	935	1828	-	894		COG0765: ABC-type amino acid transport system, permease component	GV24	clust_1022
+GV25|SEQ00439	VBIGarVag270495_0439	Gardnerella vaginalis JCP7719	ATJO01000034	PATRIC	CDS	183978803	11626	12576	+	951		COG0765: ABC-type amino acid transport system, permease component	GV25	clust_1022
+GV26|SEQ00315	VBIGarVag272749_0315	Gardnerella vaginalis JCP8017A	ATJN01000019	PATRIC	CDS	183981404	5932	6882	-	951		COG0765: ABC-type amino acid transport system, permease component	GV26	clust_1022
+GV27|SEQ00606	VBIGarVag276930_0606	Gardnerella vaginalis JCP8017B	ATJM01000027	PATRIC	CDS	183984985	5943	6893	-	951		COG0765: ABC-type amino acid transport system, permease component	GV27	clust_1022
+GV28|SEQ00700	VBIGarVag271349_0700	Gardnerella vaginalis JCP8066	ATJL01000062	PATRIC	CDS	183988148	5842	6744	-	903		COG0765: ABC-type amino acid transport system, permease component	GV28	clust_1022
+GV29|SEQ00362	VBIGarVag265473_0362	Gardnerella vaginalis JCP8070	ATJK01000017	PATRIC	CDS	183990114	5840	6790	-	951		COG0765: ABC-type amino acid transport system, permease component	GV29	clust_1022
+GV30|SEQ00478	VBIGarVag267667_0479	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993049	10931	11881	+	951		COG0765: ABC-type amino acid transport system, permease component	GV30	clust_1022
+GV31|SEQ01200	VBIGarVag264983_1200	Gardnerella vaginalis JCP8151A	ATJI01000162	PATRIC	CDS	183997664	5863	6813	-	951		COG0765: ABC-type amino acid transport system, permease component	GV31	clust_1022
+GV32|SEQ00642	VBIGarVag277040_0642	Gardnerella vaginalis JCP8151B	ATJH01000044	PATRIC	CDS	183999196	5936	6838	-	903		COG0765: ABC-type amino acid transport system, permease component	GV32	clust_1022
+GV35|SEQ00236	VBIGarVag272169_0236	Gardnerella vaginalis JCP8522	ATJE01000007	PATRIC	CDS	184006759	18707	19600	+	894		COG0765: ABC-type amino acid transport system, permease component	GV35	clust_1022
+INF1|SEQ00525	VBIBifLon182273_0525	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884992	662071	663006	-	936		COG0765: ABC-type amino acid transport system, permease component	INF1	clust_1022
+LON1|SEQ00828	VBIBifLon107831_0829	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118731	959882	960817	+	936		COG0765: ABC-type amino acid transport system, permease component	LON1	clust_1022
+LON2|SEQ00895	VBIBifLon171405_0896	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581334	998584	999519	+	936	hisM5	COG0765: ABC-type amino acid transport system, permease component	LON2	clust_1022
+LON3|SEQ00700	VBIBifLon156230_0700	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768371	1574968	1575903	+	936		COG0765: ABC-type amino acid transport system, permease component	LON3	clust_1022
+LON4|SEQ00511	VBIBifLon48544_0511	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889265	637473	638408	-	936		COG0765: ABC-type amino acid transport system, permease component	LON4	clust_1022

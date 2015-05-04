@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE5|SEQ01271	VBIBifBre336369_1272	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616720	1408706	1409659	-	954		hypothetical protein	BRE5	clust_1757
+DEN1|SEQ00624	VBIBifDen165269_0625	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462542	2073278	2074219	-	942		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	DEN1	clust_1757
+DEN2|SEQ01665	VBIBifDen39005_1666	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111722	145747	146688	-	942		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	DEN2	clust_1757
+GV01|SEQ00265	VBIGarVag247323_0265	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494648	153060	154151	-	1092		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV01	clust_1757
+GV02|SEQ00534	VBIGarVag242669_0534	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497867	143256	144347	-	1092		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV02	clust_1757
+GV07|SEQ00799	VBIGarVag249177_0799	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493261	60859	61932	-	1074		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV07	clust_1757
+GV10|SEQ00392	VBIGarVag136958_0392	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146830	471585	472667	+	1083		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV10	clust_1757
+GV12|SEQ00936	VBIGarVag144721_0936	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854601	503165	504250	+	1086		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV12	clust_1757
+GV23|SEQ00933	VBIGarVag276017_0933	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974300	1252	2343	+	1092		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV23	clust_1757
+GV26|SEQ00048	VBIGarVag272749_0048	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980826	55432	56523	-	1092		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV26	clust_1757
+GV27|SEQ00133	VBIGarVag276930_0133	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183983985	8688	9779	+	1092		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV27	clust_1757
+GV32|SEQ00405	VBIGarVag277040_0405	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998680	1318	2403	+	1086		Hypothetical SAV0801 homolog in superantigen-encoding pathogenicity islands SaPI	GV32	clust_1757
+LON2|SEQ00351	VBIBifLon171405_0352	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580205	414244	414903	+	660		hypothetical protein	LON2	clust_1757

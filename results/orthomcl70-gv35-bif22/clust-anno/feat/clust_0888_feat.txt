@@ -1,0 +1,38 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00216	VBIBifAni240121_0216	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845336	249970	251040	+	1071		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	ANI1	clust_0888
+ANI2|SEQ00215	VBIBifAni235968_0215	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848689	249971	251041	+	1071		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	ANI2	clust_0888
+ANI3|SEQ00217	VBIBifAni108068_0217	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762704	249971	251041	+	1071		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	ANI3	clust_0888
+GV01|SEQ00606	VBIGarVag247323_0606	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495361	14041	15159	+	1119		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV01	clust_0888
+GV02|SEQ00089	VBIGarVag242669_0089	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496936	50202	51269	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV02	clust_0888
+GV03|SEQ00226	VBIGarVag247424_0226	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499833	175714	176781	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV03	clust_0888
+GV04|SEQ00156	VBIGarVag246433_0156	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480164	20565	21632	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV04	clust_0888
+GV05|SEQ00327	VBIGarVag174900_0327	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546377	174006	175070	+	1065		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV05	clust_0888
+GV06|SEQ00214	VBIGarVag244004_0214	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489143	136776	137843	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV06	clust_0888
+GV07|SEQ00020	VBIGarVag249177_0020	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491617	21785	22849	-	1065		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV07	clust_0888
+GV08|SEQ01087	VBIGarVag251521_1087	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476621	194107	195174	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV08	clust_0888
+GV09|SEQ00019	VBIGarVag169280_0019	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259179	20769	21836	-	1068	asd	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV09	clust_0888
+GV10|SEQ00120	VBIGarVag136958_0120	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146254	149711	150778	+	1068	asd	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV10	clust_0888
+GV11|SEQ00839	VBIGarVag171052_0839	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550041	19836	20903	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV11	clust_0888
+GV12|SEQ00651	VBIGarVag144721_0651	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853999	173727	174794	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV12	clust_0888
+GV13|SEQ00176	VBIGarVag244533_0176	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486292	192405	193472	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV13	clust_0888
+GV14|SEQ00524	VBIGarVag244375_0524	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502908	20262	21326	-	1065		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV14	clust_0888
+GV15|SEQ00552	VBIGarVag249709_0552	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484642	300734	301801	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV15	clust_0888
+GV16|SEQ00247	VBIGarVag246379_0247	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477612	196746	197813	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV16	clust_0888
+GV17|SEQ00484	VBIGarVag146634_0484	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851003	486995	488062	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV17	clust_0888
+GV18|SEQ00978	VBIGarVag4823_0978	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000136	PATRIC	CDS	42070762	19365	20432	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV18	clust_0888
+GV19|SEQ00036	VBIGarVag39333_0036	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626906	39643	40710	-	1068	asd	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV19	clust_0888
+GV20|SEQ01288	VBIGarVag188338_1288	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191452	1621323	1622390	-	1068	asd	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV20	clust_0888
+GV21|SEQ00135	VBIGarVag274454_0135	Gardnerella vaginalis JCP7275	ATJS01000007	PATRIC	CDS	183966910	22500	23567	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV21	clust_0888
+GV22|SEQ00672	VBIGarVag276801_0673	Gardnerella vaginalis JCP7276	ATJR01000026	PATRIC	CDS	183970788	362	1429	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV22	clust_0888
+GV23|SEQ00103	VBIGarVag276017_0103	Gardnerella vaginalis JCP7659	ATJQ01000008	PATRIC	CDS	183972502	16762	16998	-	237		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV23	clust_0888
+GV24|SEQ00233	VBIGarVag268944_0234	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975572	37944	39011	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV24	clust_0888
+GV25|SEQ00514	VBIGarVag270495_0514	Gardnerella vaginalis JCP7719	ATJO01000042	PATRIC	CDS	183978963	6580	7701	-	1122		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV25	clust_0888
+GV26|SEQ00632	VBIGarVag272749_0632	Gardnerella vaginalis JCP8017A	ATJN01000031	PATRIC	CDS	183982060	20536	21603	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV26	clust_0888
+GV27|SEQ00512	VBIGarVag276930_0512	Gardnerella vaginalis JCP8017B	ATJM01000016	PATRIC	CDS	183984776	21426	22394	-	969		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV27	clust_0888
+GV28|SEQ00514	VBIGarVag271349_0514	Gardnerella vaginalis JCP8066	ATJL01000032	PATRIC	CDS	183987732	8908	9975	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV28	clust_0888
+GV29|SEQ00845	VBIGarVag265473_0845	Gardnerella vaginalis JCP8070	ATJK01000071	PATRIC	CDS	183991177	1235	2302	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV29	clust_0888
+GV30|SEQ00885	VBIGarVag267667_0887	Gardnerella vaginalis JCP8108	ATJJ01000070	PATRIC	CDS	183993944	19735	20802	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV30	clust_0888
+GV32|SEQ01193	VBIGarVag277040_1193	Gardnerella vaginalis JCP8151B	ATJH01000159	PATRIC	CDS	184000456	6416	7483	-	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV32	clust_0888
+GV33|SEQ00052	VBIGarVag265557_0052	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000763	31600	32667	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV33	clust_0888
+GV34|SEQ00045	VBIGarVag270440_0045	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003579	31601	32668	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV34	clust_0888
+GV35|SEQ00848	VBIGarVag272169_0848	Gardnerella vaginalis JCP8522	ATJE01000082	PATRIC	CDS	184008110	1246	2313	+	1068		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	GV35	clust_0888

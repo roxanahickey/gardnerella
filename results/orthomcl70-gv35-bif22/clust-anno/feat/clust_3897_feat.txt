@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00029	VBIBifAdo136061_0029	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186250	27819	28754	+	936		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	ADO1	clust_3897
+DEN1|SEQ00812	VBIBifDen165269_0813	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462932	2327684	2328622	+	939		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	DEN1	clust_3897
+DEN2|SEQ01074	VBIBifDen39005_1074	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110505	78668	79606	+	939		Multiple sugar ABC transporter, membrane-spanning permease protein MsmF	DEN2	clust_3897

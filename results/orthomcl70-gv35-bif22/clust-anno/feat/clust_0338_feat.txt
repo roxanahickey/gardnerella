@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01396	VBIBifAdo136061_1396	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189146	69578	70618	-	1041		COG3118: Thioredoxin domain-containing protein EC-YbbN	ADO1	clust_0338
+ANI1|SEQ01406	VBIBifAni240121_1406	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847821	1671426	1672379	-	954	ybbN	FIG000875: Thioredoxin domain-containing protein EC-YbbN	ANI1	clust_0338
+ANI2|SEQ01405	VBIBifAni235968_1405	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851172	1671645	1672598	-	954		FIG000875: Thioredoxin domain-containing protein EC-YbbN	ANI2	clust_0338
+ANI3|SEQ01415	VBIBifAni108068_1415	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765192	1676876	1677829	-	954		FIG000875: Thioredoxin domain-containing protein EC-YbbN	ANI3	clust_0338
+BIF1|SEQ00204	VBIBifBif87902_0204	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882919	255929	256915	+	987		COG3118: Thioredoxin domain-containing protein EC-YbbN	BIF1	clust_0338
+BRE1|SEQ00272	VBIBifBre340958_0272	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602484	347274	348245	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE1	clust_0338
+BRE2|SEQ00334	VBIBifBre337368_0334	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606582	403576	404547	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE2	clust_0338
+BRE3|SEQ00323	VBIBifBre167886_0323	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192309	407875	408846	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE3	clust_0338
+BRE4|SEQ00288	VBIBifBre327712_0288	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610631	369609	370580	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE4	clust_0338
+BRE5|SEQ00311	VBIBifBre336369_0312	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614728	371684	372655	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE5	clust_0338
+BRE6|SEQ00538	VBIBifBre268992_0538	Bifidobacterium breve JCP7499	AWSX01000029	PATRIC	CDS	177654217	14112	15083	-	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE6	clust_0338
+BRE7|SEQ00300	VBIBifBre340732_0300	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619014	380811	381782	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE7	clust_0338
+BRE8|SEQ00326	VBIBifBre176493_0326	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623179	412314	413285	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE8	clust_0338
+BRE9|SEQ00376	VBIBifBre30019_0376	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444804	454335	455306	+	972		COG3118: Thioredoxin domain-containing protein EC-YbbN	BRE9	clust_0338
+DEN1|SEQ00893	VBIBifDen165269_0894	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458907	21053	22033	+	981		COG3118: Thioredoxin domain-containing protein EC-YbbN	DEN1	clust_0338
+DEN2|SEQ01756	VBIBifDen39005_1757	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000031	PATRIC	CDS	42111910	3307	4287	+	981		COG3118: Thioredoxin domain-containing protein EC-YbbN	DEN2	clust_0338
+GV01|SEQ00820	VBIGarVag247323_0820	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495807	33933	34961	+	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV01	clust_0338
+GV02|SEQ00042	VBIGarVag242669_0042	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496842	1268	2296	-	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV02	clust_0338
+GV03|SEQ00235	VBIGarVag247424_0235	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499851	187344	188375	+	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV03	clust_0338
+GV04|SEQ00146	VBIGarVag246433_0146	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480144	8600	9631	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV04	clust_0338
+GV05|SEQ00336	VBIGarVag174900_0336	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546395	185671	186702	+	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV05	clust_0338
+GV06|SEQ00223	VBIGarVag244004_0223	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489161	148729	149760	+	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV06	clust_0338
+GV07|SEQ00011	VBIGarVag249177_0011	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491599	10189	11220	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV07	clust_0338
+GV08|SEQ01096	VBIGarVag251521_1096	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476639	206108	207139	+	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV08	clust_0338
+GV09|SEQ00010	VBIGarVag169280_0010	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259161	8815	9846	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV09	clust_0338
+GV10|SEQ00129	VBIGarVag136958_0129	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146272	161516	162517	+	1002		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV10	clust_0338
+GV11|SEQ00829	VBIGarVag171052_0829	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550021	7918	8940	-	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV11	clust_0338
+GV12|SEQ00660	VBIGarVag144721_0660	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854017	185524	186552	+	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV12	clust_0338
+GV13|SEQ00185	VBIGarVag244533_0185	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486310	204403	205425	+	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV13	clust_0338
+GV14|SEQ00515	VBIGarVag244375_0515	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502890	8787	9818	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV14	clust_0338
+GV15|SEQ00543	VBIGarVag249709_0543	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484624	288996	290018	-	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV15	clust_0338
+GV16|SEQ00256	VBIGarVag246379_0256	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477630	208750	209772	+	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV16	clust_0338
+GV17|SEQ00475	VBIGarVag146634_0475	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850985	475257	476279	-	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV17	clust_0338
+GV18|SEQ00967	VBIGarVag4823_0967	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000136	PATRIC	CDS	42070740	7397	8428	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV18	clust_0338
+GV19|SEQ00026	VBIGarVag39333_0026	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626886	27676	28707	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV19	clust_0338
+GV20|SEQ01278	VBIGarVag188338_1278	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191432	1609358	1610389	-	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV20	clust_0338
+GV21|SEQ00144	VBIGarVag274454_0144	Gardnerella vaginalis JCP7275	ATJS01000007	PATRIC	CDS	183966928	34495	35517	+	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV21	clust_0338
+GV22|SEQ00681	VBIGarVag276801_0682	Gardnerella vaginalis JCP7276	ATJR01000026	PATRIC	CDS	183970806	12345	13376	+	1032		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV22	clust_0338
+GV23|SEQ00490	VBIGarVag276017_0490	Gardnerella vaginalis JCP7659	ATJQ01000037	PATRIC	CDS	183973333	14820	15848	-	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV23	clust_0338
+GV24|SEQ00242	VBIGarVag268944_0243	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975590	49945	50967	+	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV24	clust_0338
+GV25|SEQ00452	VBIGarVag270495_0452	Gardnerella vaginalis JCP7719	ATJO01000035	PATRIC	CDS	183978832	5866	6894	-	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV25	clust_0338
+GV26|SEQ00179	VBIGarVag272749_0179	Gardnerella vaginalis JCP8017A	ATJN01000008	PATRIC	CDS	183981109	14770	15798	-	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV26	clust_0338
+GV27|SEQ00474	VBIGarVag276930_0474	Gardnerella vaginalis JCP8017B	ATJM01000015	PATRIC	CDS	183984697	2035	3063	+	1029		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV27	clust_0338
+GV28|SEQ00392	VBIGarVag271349_0392	Gardnerella vaginalis JCP8066	ATJL01000021	PATRIC	CDS	183987465	15472	16491	-	1020		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV28	clust_0338
+GV29|SEQ00536	VBIGarVag265473_0536	Gardnerella vaginalis JCP8070	ATJK01000027	PATRIC	CDS	183990487	5457	6476	+	1020		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV29	clust_0338
+GV30|SEQ00876	VBIGarVag267667_0878	Gardnerella vaginalis JCP8108	ATJJ01000070	PATRIC	CDS	183993926	7820	8854	-	1035		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV30	clust_0338
+GV31|SEQ00776	VBIGarVag264983_0776	Gardnerella vaginalis JCP8151A	ATJI01000042	PATRIC	CDS	183996670	5945	6946	-	1002		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV31	clust_0338
+GV32|SEQ00618	VBIGarVag277040_0618	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999146	18313	19314	-	1002		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV32	clust_0338
+GV33|SEQ00061	VBIGarVag265557_0061	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000781	43442	44464	+	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV33	clust_0338
+GV34|SEQ00054	VBIGarVag270440_0054	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003597	43443	44465	+	1023		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV34	clust_0338
+GV35|SEQ00399	VBIGarVag272169_0399	Gardnerella vaginalis JCP8522	ATJE01000020	PATRIC	CDS	184007106	8376	9395	+	1020		COG3118: Thioredoxin domain-containing protein EC-YbbN	GV35	clust_0338
+INF1|SEQ00254	VBIBifLon182273_0254	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884429	321713	322720	+	1008		COG3118: Thioredoxin domain-containing protein EC-YbbN	INF1	clust_0338
+LON1|SEQ01086	VBIBifLon107831_1087	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119263	1281474	1282481	-	1008		COG3118: Thioredoxin domain-containing protein EC-YbbN	LON1	clust_0338
+LON2|SEQ01144	VBIBifLon171405_1146	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581849	1310406	1311413	-	1008		COG3118: Thioredoxin domain-containing protein EC-YbbN	LON2	clust_0338
+LON3|SEQ00970	VBIBifLon156230_0971	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768929	1905667	1906674	-	1008		COG3118: Thioredoxin domain-containing protein EC-YbbN	LON3	clust_0338
+LON4|SEQ00272	VBIBifLon48544_0272	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888768	339051	340058	+	1008		COG3118: Thioredoxin domain-containing protein EC-YbbN	LON4	clust_0338
+THE1|SEQ01541	VBIBifThe274299_1541	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736336	1907371	1908336	-	966		COG3118: Thioredoxin domain-containing protein EC-YbbN	THE1	clust_0338

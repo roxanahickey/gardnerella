@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01666	VBIBifAdo136061_1666	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189703	147210	147890	+	681		DNA topoisomerase III (EC 5.99.1.2)	ADO1	clust_2296
+BIF1|SEQ01176	VBIBifBif87902_1176	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884925	1402152	1404359	-	2208	topB	DNA topoisomerase III (EC 5.99.1.2)	BIF1	clust_2296
+BRE1|SEQ01086	VBIBifBre340958_1086	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604178	1271315	1273537	-	2223		DNA topoisomerase III (EC 5.99.1.2)	BRE1	clust_2296
+BRE8|SEQ01112	VBIBifBre176493_1112	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624811	1301190	1303349	+	2160		DNA topoisomerase III (EC 5.99.1.2)	BRE8	clust_2296
+BRE9|SEQ01209	VBIBifBre30019_1209	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446536	1387906	1389822	-	1917	topB	DNA topoisomerase III (EC 5.99.1.2)	BRE9	clust_2296
+INF1|SEQ01187	VBIBifLon182273_1187	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886377	1330708	1332933	-	2226		DNA topoisomerase III (EC 5.99.1.2)	INF1	clust_2296
+LON1|SEQ00331	VBIBifLon107831_0331	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117703	395208	397367	+	2160	topB	DNA topoisomerase III (EC 5.99.1.2)	LON1	clust_2296
+LON3|SEQ00195	VBIBifLon156230_0195	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767323	1013391	1015550	+	2160		DNA topoisomerase III (EC 5.99.1.2)	LON3	clust_2296

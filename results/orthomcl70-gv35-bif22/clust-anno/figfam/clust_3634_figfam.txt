@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00674	86846297	VBIBifAni240121_0674	SEQ00674	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		contains alpha/beta hydrolase fold domain	FIG01329124	figfam	clust_3634
+ANI2|SEQ00674	86849650	VBIBifAni235968_0674	SEQ00674	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		contains alpha/beta hydrolase fold domain	FIG01329124	figfam	clust_3634
+ANI3|SEQ00676	42763662	VBIBifAni108068_0676	SEQ00676	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		contains alpha/beta hydrolase fold domain	FIG01329124	figfam	clust_3634

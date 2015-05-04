@@ -1,0 +1,31 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00974	VBIGarVag247323_0974	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496133	199076	199900	-	825		ABC-type polar amino acid transport system, ATPase component	GV01	clust_1005
+GV02|SEQ01093	VBIGarVag242669_1093	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499046	61997	62821	+	825		ABC-type polar amino acid transport system, ATPase component	GV02	clust_1005
+GV04|SEQ00567	VBIGarVag246433_0567	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481026	232140	232928	+	789		ABC-type polar amino acid transport system, ATPase component	GV04	clust_1005
+GV06|SEQ01114	VBIGarVag244004_1114	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491054	83202	84026	+	825		ABC-type polar amino acid transport system, ATPase component	GV06	clust_1005
+GV08|SEQ00228	VBIGarVag251521_0228	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474841	12117	12941	-	825		ABC-type polar amino acid transport system, ATPase component	GV08	clust_1005
+GV09|SEQ00584	VBIGarVag169280_0584	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260357	343654	344478	+	825		ABC-type polar amino acid transport system, ATPase component	GV09	clust_1005
+GV11|SEQ01066	VBIGarVag171052_1066	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550522	3279	4103	+	825		ABC-type polar amino acid transport system, ATPase component	GV11	clust_1005
+GV13|SEQ00576	VBIGarVag244533_0576	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487122	81976	82800	-	825		ABC-type polar amino acid transport system, ATPase component	GV13	clust_1005
+GV16|SEQ01234	VBIGarVag246379_1234	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479669	1457022	1457846	+	825		ABC-type polar amino acid transport system, ATPase component	GV16	clust_1005
+GV18|SEQ00320	VBIGarVag4823_0320	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000084	PATRIC	CDS	42069353	9678	10502	-	825		ABC-type polar amino acid transport system, ATPase component	GV18	clust_1005
+GV19|SEQ00375	VBIGarVag39333_0376	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627613	454724	455548	-	825		ABC-type polar amino acid transport system, ATPase component	GV19	clust_1005
+GV20|SEQ01142	VBIGarVag188338_1142	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191150	1431205	1432029	+	825		ABC-type polar amino acid transport system, ATPase component	GV20	clust_1005
+GV22|SEQ00716	VBIGarVag276801_0717	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970881	12157	12981	-	825		ABC-type polar amino acid transport system, ATPase component	GV22	clust_1005
+GV23|SEQ00828	VBIGarVag276017_0828	Gardnerella vaginalis JCP7659	ATJQ01000065	PATRIC	CDS	183974058	5120	5908	-	789		ABC-type polar amino acid transport system, ATPase component	GV23	clust_1005
+GV24|SEQ00795	VBIGarVag268944_0796	Gardnerella vaginalis JCP7672	ATJP01000065	PATRIC	CDS	183976790	111	935	-	825		ABC-type polar amino acid transport system, ATPase component	GV24	clust_1005
+GV25|SEQ00440	VBIGarVag270495_0440	Gardnerella vaginalis JCP7719	ATJO01000034	PATRIC	CDS	183978805	12576	13400	+	825		ABC-type polar amino acid transport system, ATPase component	GV25	clust_1005
+GV26|SEQ00314	VBIGarVag272749_0314	Gardnerella vaginalis JCP8017A	ATJN01000019	PATRIC	CDS	183981402	5108	5932	-	825		ABC-type polar amino acid transport system, ATPase component	GV26	clust_1005
+GV27|SEQ00605	VBIGarVag276930_0605	Gardnerella vaginalis JCP8017B	ATJM01000027	PATRIC	CDS	183984983	5119	5943	-	825		ABC-type polar amino acid transport system, ATPase component	GV27	clust_1005
+GV28|SEQ00699	VBIGarVag271349_0699	Gardnerella vaginalis JCP8066	ATJL01000062	PATRIC	CDS	183988146	5018	5842	-	825		ABC-type polar amino acid transport system, ATPase component	GV28	clust_1005
+GV29|SEQ00361	VBIGarVag265473_0361	Gardnerella vaginalis JCP8070	ATJK01000017	PATRIC	CDS	183990112	5034	5840	-	807		ABC-type polar amino acid transport system, ATPase component	GV29	clust_1005
+GV30|SEQ00479	VBIGarVag267667_0480	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993051	11881	12705	+	825		ABC-type polar amino acid transport system, ATPase component	GV30	clust_1005
+GV31|SEQ01199	VBIGarVag264983_1199	Gardnerella vaginalis JCP8151A	ATJI01000162	PATRIC	CDS	183997662	5039	5863	-	825		ABC-type polar amino acid transport system, ATPase component	GV31	clust_1005
+GV32|SEQ00641	VBIGarVag277040_0641	Gardnerella vaginalis JCP8151B	ATJH01000044	PATRIC	CDS	183999194	5112	5936	-	825		ABC-type polar amino acid transport system, ATPase component	GV32	clust_1005
+GV35|SEQ00237	VBIGarVag272169_0237	Gardnerella vaginalis JCP8522	ATJE01000007	PATRIC	CDS	184006761	19600	20406	+	807		ABC-type polar amino acid transport system, ATPase component	GV35	clust_1005
+ADO1|SEQ00922	VBIBifAdo136061_0922	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188154	826897	827637	+	741		Glutamate transport ATP-binding protein	ADO1	clust_1005
+INF1|SEQ00524	VBIBifLon182273_0524	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884990	661289	662074	-	786		ABC-type polar amino acid transport system, ATPase component	INF1	clust_1005
+LON1|SEQ00829	VBIBifLon107831_0830	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118733	960814	961599	+	786		ABC-type polar amino acid transport system, ATPase component	LON1	clust_1005
+LON2|SEQ00896	VBIBifLon171405_0897	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581336	999516	1000301	+	786	glnQ1	ABC-type polar amino acid transport system, ATPase component	LON2	clust_1005
+LON3|SEQ00701	VBIBifLon156230_0701	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768373	1575900	1576685	+	786		ABC-type polar amino acid transport system, ATPase component	LON3	clust_1005
+LON4|SEQ00510	VBIBifLon48544_0510	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889263	636691	637476	-	786		ABC-type polar amino acid transport system, ATPase component	LON4	clust_1005

@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00463	VBIGarVag247323_0463	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495069	201389	203791	-	2403		ATPase component of general energizing module of ECF transporters	GV01	clust_0114
+GV02|SEQ00903	VBIGarVag242669_0903	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498651	137508	139907	+	2400		ATPase component of general energizing module of ECF transporters	GV02	clust_0114
+GV03|SEQ00898	VBIGarVag247424_0898	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501239	233247	235577	+	2331		ATPase component of general energizing module of ECF transporters	GV03	clust_0114
+GV04|SEQ00987	VBIGarVag246433_0987	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481884	360259	362604	-	2346		ATPase component of general energizing module of ECF transporters	GV04	clust_0114
+GV05|SEQ00944	VBIGarVag174900_0944	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547666	646464	648794	+	2331		ATPase component of general energizing module of ECF transporters	GV05	clust_0114
+GV06|SEQ01262	VBIGarVag244004_1262	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491353	123122	125467	+	2346		ATPase component of general energizing module of ECF transporters	GV06	clust_0114
+GV07|SEQ00530	VBIGarVag249177_0530	Gardnerella vaginalis 1500E	ADES01000010	PATRIC	CDS	85492701	11797	14112	-	2316		ATPase component of general energizing module of ECF transporters	GV07	clust_0114
+GV08|SEQ00005	VBIGarVag251521_0005	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474373	6449	8794	-	2346		ATPase component of general energizing module of ECF transporters	GV08	clust_0114
+GV09|SEQ00844	VBIGarVag169280_0844	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260893	230231	232483	-	2253		ATPase component of general energizing module of ECF transporters	GV09	clust_0114
+GV10|SEQ00720	VBIGarVag136958_0720	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147510	932118	934409	+	2292		ATPase component of general energizing module of ECF transporters	GV10	clust_0114
+GV11|SEQ00168	VBIGarVag171052_0168	Gardnerella vaginalis 41V	AEJE01000008	PATRIC	CDS	52548610	10020	12371	-	2352		ATPase component of general energizing module of ECF transporters	GV11	clust_0114
+GV12|SEQ00158	VBIGarVag144721_0158	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852977	99242	101566	+	2325		ATPase component of general energizing module of ECF transporters	GV12	clust_0114
+GV13|SEQ00276	VBIGarVag244533_0276	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486498	90351	92693	+	2343		ATPase component of general energizing module of ECF transporters	GV13	clust_0114
+GV14|SEQ00995	VBIGarVag244375_0995	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503898	54169	55974	+	1806		ATPase component of general energizing module of ECF transporters	GV14	clust_0114
+GV15|SEQ00765	VBIGarVag249709_0765	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485087	245987	248314	+	2328		ATPase component of general energizing module of ECF transporters	GV15	clust_0114
+GV16|SEQ00779	VBIGarVag246379_0779	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478717	875915	878260	-	2346		ATPase component of general energizing module of ECF transporters	GV16	clust_0114
+GV17|SEQ00838	VBIGarVag146634_0838	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851751	42735	45062	-	2328		ATPase component of general energizing module of ECF transporters	GV17	clust_0114
+GV18|SEQ01096	VBIGarVag4823_1096	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42071019	22215	24560	-	2346		ATPase component of general energizing module of ECF transporters	GV18	clust_0114
+GV19|SEQ00832	VBIGarVag39333_0833	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628565	1032336	1034588	+	2253		ATPase component of general energizing module of ECF transporters	GV19	clust_0114
+GV20|SEQ00716	VBIGarVag188338_0716	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190259	866771	869116	-	2346		ATPase component of general energizing module of ECF transporters	GV20	clust_0114
+GV21|SEQ00201	VBIGarVag274454_0201	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967047	64969	67317	+	2349		ATPase component of general energizing module of ECF transporters	GV21	clust_0114
+GV22|SEQ00465	VBIGarVag276801_0466	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970359	103015	105360	-	2346		ATPase component of general energizing module of ECF transporters	GV22	clust_0114
+GV23|SEQ00663	VBIGarVag276017_0663	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973691	112376	114781	-	2406		ATPase component of general energizing module of ECF transporters	GV23	clust_0114
+GV24|SEQ00397	VBIGarVag268944_0398	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975920	65028	67373	+	2346		ATPase component of general energizing module of ECF transporters	GV24	clust_0114
+GV25|SEQ01057	VBIGarVag270495_1057	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980161	70586	72991	+	2406		ATPase component of general energizing module of ECF transporters	GV25	clust_0114
+GV26|SEQ00549	VBIGarVag272749_0549	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981890	99345	101738	-	2394		ATPase component of general energizing module of ECF transporters	GV26	clust_0114
+GV27|SEQ00389	VBIGarVag276930_0389	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984521	71828	74221	+	2394		ATPase component of general energizing module of ECF transporters	GV27	clust_0114
+GV28|SEQ00779	VBIGarVag271349_0779	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988315	67817	70225	+	2409		ATPase component of general energizing module of ECF transporters	GV28	clust_0114
+GV29|SEQ00098	VBIGarVag265473_0098	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989557	71136	73529	+	2394		ATPase component of general energizing module of ECF transporters	GV29	clust_0114
+GV30|SEQ00073	VBIGarVag267667_0073	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992185	65092	67446	+	2355		ATPase component of general energizing module of ECF transporters	GV30	clust_0114
+GV31|SEQ00271	VBIGarVag264983_0271	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995585	71831	74185	+	2355		ATPase component of general energizing module of ECF transporters	GV31	clust_0114
+GV32|SEQ01094	VBIGarVag277040_1094	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000233	5315	7738	-	2424		ATPase component of general energizing module of ECF transporters	GV32	clust_0114
+GV33|SEQ00812	VBIGarVag265557_0812	Gardnerella vaginalis JCP8481A	ATJG01000087	PATRIC	CDS	184002419	1455	3788	-	2334		ATPase component of general energizing module of ECF transporters	GV33	clust_0114
+GV34|SEQ00172	VBIGarVag270440_0172	Gardnerella vaginalis JCP8481B	ATJF01000010	PATRIC	CDS	184003855	66141	68474	+	2334		ATPase component of general energizing module of ECF transporters	GV34	clust_0114
+GV35|SEQ00050	VBIGarVag272169_0050	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006375	49350	51749	-	2400		ATPase component of general energizing module of ECF transporters	GV35	clust_0114

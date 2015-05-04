@@ -1,0 +1,16 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01152	VBIGarVag247323_1152	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496506	168312	168551	+	240		mrr restriction endonuclease	GV01	clust_1128
+GV02|SEQ00293	VBIGarVag242669_0293	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497361	91504	91743	-	240		mrr restriction endonuclease	GV02	clust_1128
+GV09|SEQ00187	VBIGarVag169280_0187	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259537	5698	5937	-	240		mrr restriction endonuclease	GV09	clust_1128
+GV12|SEQ01025	VBIGarVag144721_1025	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854787	1017	1139	+	123		hypothetical protein	GV12	clust_1128
+GV14|SEQ00478	VBIGarVag244375_0478	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502813	115459	115581	+	123		hypothetical protein	GV14	clust_1128
+GV21|SEQ00565	VBIGarVag274454_0566	Gardnerella vaginalis JCP7275	ATJS01000030	PATRIC	CDS	183967809	6143	6382	-	240		mrr restriction endonuclease	GV21	clust_1128
+GV23|SEQ00160	VBIGarVag276017_0160	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972621	11177	11416	-	240		mrr restriction endonuclease	GV23	clust_1128
+GV26|SEQ00708	VBIGarVag272749_0708	Gardnerella vaginalis JCP8017A	ATJN01000034	PATRIC	CDS	183982221	10725	10964	-	240		mrr restriction endonuclease	GV26	clust_1128
+GV27|SEQ00592	VBIGarVag276930_0592	Gardnerella vaginalis JCP8017B	ATJM01000024	PATRIC	CDS	183984954	10723	10962	-	240		mrr restriction endonuclease	GV27	clust_1128
+GV28|SEQ00672	VBIGarVag271349_0672	Gardnerella vaginalis JCP8066	ATJL01000050	PATRIC	CDS	183988080	669	908	-	240		mrr restriction endonuclease	GV28	clust_1128
+GV29|SEQ00607	VBIGarVag265473_0607	Gardnerella vaginalis JCP8070	ATJK01000035	PATRIC	CDS	183990643	1778	1900	-	123		hypothetical protein	GV29	clust_1128
+GV31|SEQ00956	VBIGarVag264983_0956	Gardnerella vaginalis JCP8151A	ATJI01000072	PATRIC	CDS	183997062	219	458	+	240		mrr restriction endonuclease	GV31	clust_1128
+GV32|SEQ00100	VBIGarVag277040_0100	Gardnerella vaginalis JCP8151B	ATJH01000006	PATRIC	CDS	183998034	3682	3873	+	192		mrr restriction endonuclease	GV32	clust_1128
+GV33|SEQ00430	VBIGarVag265557_0430	Gardnerella vaginalis JCP8481A	ATJG01000037	PATRIC	CDS	184001585	684	806	-	123		hypothetical protein	GV33	clust_1128
+GV34|SEQ00429	VBIGarVag270440_0429	Gardnerella vaginalis JCP8481B	ATJF01000031	PATRIC	CDS	184004422	72	194	+	123		hypothetical protein	GV34	clust_1128

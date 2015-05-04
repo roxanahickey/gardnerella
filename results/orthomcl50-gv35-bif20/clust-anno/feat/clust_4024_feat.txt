@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE6|SEQ00229	VBIBifBre268992_0229	Bifidobacterium breve JCP7499	AWSX01000013	PATRIC	CDS	177653568	45922	46035	-	114		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	BRE6	clust_4024
+BRE8|SEQ01369	VBIBifBre176493_1369	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625339	1604797	1604910	-	114		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	BRE8	clust_4024

@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ01851	VBIBifBre337368_1851	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609735	2140438	2141685	-	1248		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE2	clust_3936
+BRE7|SEQ01846	VBIBifBre340732_1846	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622223	2123486	2124733	-	1248		Sugar-binding periplasmic protein	BRE7	clust_3936

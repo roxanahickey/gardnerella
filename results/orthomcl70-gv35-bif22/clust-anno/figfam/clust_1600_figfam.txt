@@ -1,0 +1,12 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ANI1|SEQ00555	86846053	VBIBifAni240121_0555	SEQ00555	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1600
+ANI2|SEQ00555	86849407	VBIBifAni235968_0555	SEQ00555	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1600
+BIF1|SEQ01811	86886260	VBIBifBif87902_1811	SEQ01811	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1600
+BRE1|SEQ01131	268604268	VBIBifBre340958_1131	SEQ01131	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1600
+BRE2|SEQ01219	268608419	VBIBifBre337368_1219	SEQ01219	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1600
+BRE7|SEQ01171	268620825	VBIBifBre340732_1171	SEQ01171	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1600
+DEN1|SEQ02146	43463281	VBIBifDen165269_2148	SEQ02146	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1600
+DEN2|SEQ00992	42110337	VBIBifDen39005_0992	SEQ00992	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		COG0504: CTP synthase (UTP-ammonia lyase)	FIG01483616	figfam	clust_1600
+INF1|SEQ01323	46886650	VBIBifLon182273_1323	SEQ01323	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_1600
+LON3|SEQ01937	42767066	VBIBifLon156230_1940	SEQ01937	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_1600
+LON4|SEQ01299	46890942	VBIBifLon48544_1299	SEQ01299	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		CTP synthase (UTP-ammonia lyase)	FIG01373588	figfam	clust_1600

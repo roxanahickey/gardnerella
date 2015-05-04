@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00141	VBIBifAdo136061_0141	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186498	67227	68354	-	1128		probable NADH-dependent flavin oxidoreductase YqjM	ADO1	clust_1200
+ANI1|SEQ01344	VBIBifAni240121_1344	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847695	1588382	1589512	-	1131		probable NADH-dependent flavin oxidoreductase YqjM	ANI1	clust_1200
+ANI2|SEQ01344	VBIBifAni235968_1344	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851048	1588603	1589733	-	1131		probable NADH-dependent flavin oxidoreductase YqjM	ANI2	clust_1200
+ANI3|SEQ01354	VBIBifAni108068_1354	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765068	1593834	1594964	-	1131		probable NADH-dependent flavin oxidoreductase YqjM	ANI3	clust_1200
+BIF1|SEQ00374	VBIBifBif87902_0374	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883279	456288	457421	+	1134	yqjM	probable NADH-dependent flavin oxidoreductase YqjM	BIF1	clust_1200
+BRE1|SEQ00416	VBIBifBre340958_0416	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602785	516274	517578	+	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE1	clust_1200
+BRE2|SEQ00473	VBIBifBre337368_0473	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606871	572245	573549	+	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE2	clust_1200
+BRE3|SEQ01388	VBIBifBre167886_1388	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194518	1620315	1621619	-	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE3	clust_1200
+BRE4|SEQ00438	VBIBifBre327712_0438	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610944	548173	549477	+	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE4	clust_1200
+BRE5|SEQ00449	VBIBifBre336369_0450	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615013	529807	531111	+	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE5	clust_1200
+BRE6|SEQ00733	VBIBifBre268992_0733	Bifidobacterium breve JCP7499	AWSX01000038	PATRIC	CDS	177654633	64329	65633	-	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE6	clust_1200
+BRE7|SEQ00446	VBIBifBre340732_0446	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619317	549792	551096	+	1305		probable NADH-dependent flavin oxidoreductase YqjM	BRE7	clust_1200
+BRE8|SEQ00478	VBIBifBre176493_0478	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623493	593681	594985	+	1305	baiC	probable NADH-dependent flavin oxidoreductase YqjM	BRE8	clust_1200
+BRE9|SEQ00532	VBIBifBre30019_0532	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445127	643482	644786	+	1305	baiC	probable NADH-dependent flavin oxidoreductase YqjM	BRE9	clust_1200
+DEN1|SEQ00995	VBIBifDen165269_0996	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459113	141442	142572	+	1131	xenA	probable NADH-dependent flavin oxidoreductase YqjM	DEN1	clust_1200
+DEN2|SEQ01470	VBIBifDen39005_1471	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111329	83159	84289	-	1131		probable NADH-dependent flavin oxidoreductase YqjM	DEN2	clust_1200
+INF1|SEQ00421	VBIBifLon182273_0421	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884780	524161	525525	+	1365		probable NADH-dependent flavin oxidoreductase YqjM	INF1	clust_1200
+LON1|SEQ00929	VBIBifLon107831_0930	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118935	1096730	1098103	-	1374	baiC	probable NADH-dependent flavin oxidoreductase YqjM	LON1	clust_1200
+LON2|SEQ01010	VBIBifLon171405_1011	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581567	1149593	1150966	-	1374	nemA	probable NADH-dependent flavin oxidoreductase YqjM	LON2	clust_1200
+LON3|SEQ00802	VBIBifLon156230_0802	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768578	1712080	1713444	-	1365		probable NADH-dependent flavin oxidoreductase YqjM	LON3	clust_1200
+LON4|SEQ00408	VBIBifLon48544_0408	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889054	498634	500007	+	1374		probable NADH-dependent flavin oxidoreductase YqjM	LON4	clust_1200
+THE1|SEQ00433	VBIBifThe274299_0433	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734041	533077	534432	+	1356		probable NADH-dependent flavin oxidoreductase YqjM	THE1	clust_1200

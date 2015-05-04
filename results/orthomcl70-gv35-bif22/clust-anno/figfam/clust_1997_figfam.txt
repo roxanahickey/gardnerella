@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01592	27189555	VBIBifAdo136061_1592	SEQ01592	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		ABC transporter, permease protein	FIG01288623	figfam	clust_1997
+DEN1|SEQ01414	43459958	VBIBifDen165269_1415	SEQ01414	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		ABC transporter, permease protein	FIG01288623	figfam	clust_1997
+DEN2|SEQ00229	42108777	VBIBifDen39005_0229	SEQ00229	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		ABC transporter, permease protein	FIG01288623	figfam	clust_1997

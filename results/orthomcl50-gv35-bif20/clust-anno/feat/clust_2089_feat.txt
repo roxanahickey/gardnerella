@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00848	VBIBifBre340958_0848	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603680	1012870	1013355	-	486		blasticidin S deaminase, putative	BRE1	clust_2089
+BRE2|SEQ00930	VBIBifBre337368_0930	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607816	1094512	1094997	-	486		blasticidin S deaminase, putative	BRE2	clust_2089
+BRE3|SEQ00949	VBIBifBre167886_0949	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193610	1118516	1119001	+	486		blasticidin S deaminase, putative	BRE3	clust_2089
+BRE4|SEQ00877	VBIBifBre327712_0877	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611853	1050467	1050952	-	486		blasticidin S deaminase, putative	BRE4	clust_2089
+BRE5|SEQ00899	VBIBifBre336369_0900	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615945	1053073	1053558	-	486		blasticidin S deaminase, putative	BRE5	clust_2089
+BRE6|SEQ00782	VBIBifBre268992_0782	Bifidobacterium breve JCP7499	AWSX01000040	PATRIC	CDS	177654735	8096	8581	+	486		blasticidin S deaminase, putative	BRE6	clust_2089
+BRE7|SEQ00879	VBIBifBre340732_0879	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620215	1042428	1042913	-	486		blasticidin S deaminase, putative	BRE7	clust_2089
+BRE8|SEQ00909	VBIBifBre176493_0909	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624384	1088801	1089286	-	486		blasticidin S deaminase, putative	BRE8	clust_2089
+BRE9|SEQ00962	VBIBifBre30019_0962	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446020	1141999	1142484	-	486		blasticidin S deaminase, putative	BRE9	clust_2089

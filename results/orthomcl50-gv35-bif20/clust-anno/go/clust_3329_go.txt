@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE5|SEQ01984	268618198	VBIBifBre336369_1985	SEQ01984	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	NA	Galactoside O-acetyltransferase (EC 2.3.1.18)	GO:0008870	galactoside O-acetyltransferase activity	go	clust_3329
+BRE6|SEQ01328	177655889	VBIBifBre268992_1328	SEQ01328	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	NA	Galactoside O-acetyltransferase (EC 2.3.1.18)	GO:0008870	galactoside O-acetyltransferase activity	go	clust_3329
+BRE9|SEQ01968	58448110	VBIBifBre30019_1968	SEQ01968	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	NA	Galactoside O-acetyltransferase (EC 2.3.1.18)	GO:0008870	galactoside O-acetyltransferase activity	go	clust_3329

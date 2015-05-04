@@ -1,0 +1,58 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01000	VBIBifAdo136061_1000	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188314	919456	920247	-	792		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	ADO1	clust_0347
+ANI1|SEQ01030	VBIBifAni240121_1030	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847042	1188619	1189410	+	792		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	ANI1	clust_0347
+ANI2|SEQ01030	VBIBifAni235968_1030	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850395	1188622	1189413	+	792		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	ANI2	clust_0347
+ANI3|SEQ01034	VBIBifAni108068_1034	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764409	1188623	1189414	+	792		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	ANI3	clust_0347
+BIF1|SEQ01465	VBIBifBif87902_1465	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885530	1757667	1758455	-	789	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BIF1	clust_0347
+BRE1|SEQ00199	VBIBifBre340958_0199	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602331	260151	260993	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE1	clust_0347
+BRE2|SEQ00219	VBIBifBre337368_0219	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606344	287369	288211	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE2	clust_0347
+BRE3|SEQ00238	VBIBifBre167886_0238	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192131	311351	312193	-	843	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE3	clust_0347
+BRE4|SEQ00217	VBIBifBre327712_0217	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610482	285180	286022	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE4	clust_0347
+BRE5|SEQ00220	VBIBifBre336369_0221	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614538	274598	275440	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE5	clust_0347
+BRE6|SEQ02040	VBIBifBre268992_2040	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657407	22963	23805	+	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE6	clust_0347
+BRE7|SEQ00214	VBIBifBre340732_0214	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618834	282960	283802	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE7	clust_0347
+BRE8|SEQ00241	VBIBifBre176493_0241	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623001	314427	315269	-	843	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE8	clust_0347
+BRE9|SEQ00249	VBIBifBre30019_0249	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444537	329709	330551	-	843	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	BRE9	clust_0347
+DEN1|SEQ01944	VBIBifDen165269_1945	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461055	1226169	1226960	+	792	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	DEN1	clust_0347
+DEN2|SEQ00884	VBIBifDen39005_0884	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110119	57099	57890	-	792	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	DEN2	clust_0347
+GV01|SEQ00865	VBIGarVag247323_0865	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495899	81420	82241	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV01	clust_0347
+GV02|SEQ01194	VBIGarVag242669_1194	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499265	179572	180393	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV02	clust_0347
+GV03|SEQ00278	VBIGarVag247424_0278	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499939	229646	230470	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV03	clust_0347
+GV04|SEQ00072	VBIGarVag246433_0072	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479992	75457	76278	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV04	clust_0347
+GV05|SEQ00379	VBIGarVag174900_0379	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546483	228153	228977	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV05	clust_0347
+GV06|SEQ00620	VBIGarVag244004_0620	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490021	70250	71071	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV06	clust_0347
+GV07|SEQ01162	VBIGarVag249177_1162	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494025	68762	69586	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV07	clust_0347
+GV08|SEQ01153	VBIGarVag251521_1153	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476755	259991	260812	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV08	clust_0347
+GV09|SEQ01185	VBIGarVag169280_1185	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261599	46476	47297	-	822	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV09	clust_0347
+GV10|SEQ00168	VBIGarVag136958_0168	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146352	202930	203754	-	825	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV10	clust_0347
+GV11|SEQ01172	VBIGarVag171052_1172	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550753	46961	47782	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV11	clust_0347
+GV12|SEQ00706	VBIGarVag144721_0706	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854111	238920	239744	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV12	clust_0347
+GV13|SEQ01053	VBIGarVag244533_1053	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488123	43965	44786	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV13	clust_0347
+GV14|SEQ00173	VBIGarVag244375_0173	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502180	173335	174159	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV14	clust_0347
+GV15|SEQ00502	VBIGarVag249709_0502	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484540	251594	252418	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV15	clust_0347
+GV16|SEQ00305	VBIGarVag246379_0305	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477730	264127	264948	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV16	clust_0347
+GV17|SEQ00428	VBIGarVag146634_0428	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850889	426695	427519	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV17	clust_0347
+GV18|SEQ01042	VBIGarVag4823_1042	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070907	35367	36188	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV18	clust_0347
+GV19|SEQ01307	VBIGarVag39333_1310	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629551	1628851	1629672	+	822	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV19	clust_0347
+GV20|SEQ00189	VBIGarVag188338_0189	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189164	218329	219150	-	822	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV20	clust_0347
+GV21|SEQ01130	VBIGarVag274454_1131	Gardnerella vaginalis JCP7275	ATJS01000149	PATRIC	CDS	183969120	10765	11586	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV21	clust_0347
+GV22|SEQ00828	VBIGarVag276801_0829	Gardnerella vaginalis JCP7276	ATJR01000044	PATRIC	CDS	183971128	1440	2261	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV22	clust_0347
+GV23|SEQ00724	VBIGarVag276017_0724	Gardnerella vaginalis JCP7659	ATJQ01000049	PATRIC	CDS	183973820	1234	2055	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV23	clust_0347
+GV24|SEQ00561	VBIGarVag268944_0562	Gardnerella vaginalis JCP7672	ATJP01000032	PATRIC	CDS	183976273	13904	14725	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV24	clust_0347
+GV25|SEQ00370	VBIGarVag270495_0370	Gardnerella vaginalis JCP7719	ATJO01000025	PATRIC	CDS	183978646	5143	5964	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV25	clust_0347
+GV26|SEQ00670	VBIGarVag272749_0670	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982137	24539	25360	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV26	clust_0347
+GV27|SEQ00857	VBIGarVag276930_0857	Gardnerella vaginalis JCP8017B	ATJM01000043	PATRIC	CDS	183985513	1111	1932	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV27	clust_0347
+GV28|SEQ00234	VBIGarVag271349_0234	Gardnerella vaginalis JCP8066	ATJL01000016	PATRIC	CDS	183987130	18839	19660	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV28	clust_0347
+GV29|SEQ00743	VBIGarVag265473_0743	Gardnerella vaginalis JCP8070	ATJK01000051	PATRIC	CDS	183990949	1094	1915	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV29	clust_0347
+GV30|SEQ00288	VBIGarVag267667_0289	Gardnerella vaginalis JCP8108	ATJJ01000010	PATRIC	CDS	183992635	3335	4156	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV30	clust_0347
+GV31|SEQ00840	VBIGarVag264983_0840	Gardnerella vaginalis JCP8151A	ATJI01000053	PATRIC	CDS	183996811	6396	7217	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV31	clust_0347
+GV32|SEQ00663	VBIGarVag277040_0663	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999239	8664	9485	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV32	clust_0347
+GV33|SEQ00589	VBIGarVag265557_0589	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001922	38056	38880	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV33	clust_0347
+GV34|SEQ00378	VBIGarVag270440_0378	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004313	29754	30578	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV34	clust_0347
+GV35|SEQ00646	VBIGarVag272169_0646	Gardnerella vaginalis JCP8522	ATJE01000048	PATRIC	CDS	184007656	2699	3520	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV35	clust_0347
+INF1|SEQ00178	VBIBifLon182273_0178	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884271	226914	227756	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	INF1	clust_0347
+LON1|SEQ01186	VBIBifLon107831_1187	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119469	1391913	1392755	+	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	LON1	clust_0347
+LON2|SEQ01221	VBIBifLon171405_1223	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582009	1406552	1407394	+	843	magB	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	LON2	clust_0347
+LON3|SEQ01300	VBIBifLon156230_1302	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769201	2036396	2037238	+	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	LON3	clust_0347
+LON4|SEQ00198	VBIBifLon48544_0198	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888614	246187	247029	-	843		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	LON4	clust_0347
+THE1|SEQ00178	VBIBifThe274299_0178	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733519	212263	213066	-	804		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	THE1	clust_0347

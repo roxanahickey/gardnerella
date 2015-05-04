@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00229	VBIBifAni240121_0229	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845362	271357	272526	+	1170		AAA+ superfamily protein	ANI1	clust_1867
+ANI2|SEQ00228	VBIBifAni235968_0228	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848715	271358	272527	+	1170		AAA+ superfamily protein	ANI2	clust_1867
+ANI3|SEQ00230	VBIBifAni108068_0230	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762730	271358	272527	+	1170		AAA+ superfamily protein	ANI3	clust_1867
+BIF1|SEQ00183	VBIBifBif87902_0183	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882873	231705	231989	-	285		ATPase (AAA+ superfamily)-like protein	BIF1	clust_1867
+BRE1|SEQ00578	VBIBifBre340958_0578	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603118	712271	713428	-	1158		ATPase	BRE1	clust_1867
+BRE3|SEQ01198	VBIBifBre167886_1198	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194131	1399088	1400245	+	1158		ATPase	BRE3	clust_1867
+GV14|SEQ00464	VBIGarVag244375_0464	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502785	105656	106828	+	1173		hypothetical protein	GV14	clust_1867
+INF1|SEQ00080	VBIBifLon182273_0080	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884064	98698	99498	-	801		ATPase	INF1	clust_1867
+LON2|SEQ01319	VBIBifLon171405_1322	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582215	1523106	1523906	+	801		ATPase	LON2	clust_1867
+LON3|SEQ01402	VBIBifLon156230_1405	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769415	2167817	2168617	+	801		ATPase	LON3	clust_1867
+LON4|SEQ00092	VBIBifLon48544_0092	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888389	118817	119617	-	801		ATPase	LON4	clust_1867
+THE1|SEQ00370	VBIBifThe274299_0370	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733915	432846	433145	-	300		AAA+ superfamily protein	THE1	clust_1867

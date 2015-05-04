@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00611	VBIGarVag246433_0611	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481115	29204	30001	-	798		Phage antirepressor protein	GV04	clust_2175
+GV06|SEQ01163	VBIGarVag244004_1163	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491153	13732	14523	+	792		Phage antirepressor protein	GV06	clust_2175
+GV12|SEQ01122	VBIGarVag144721_1122	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855066	5200	5991	+	792		Phage antirepressor protein	GV12	clust_2175
+GV22|SEQ01277	VBIGarVag276801_1278	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972191	35341	36132	-	792		Phage antirepressor protein	GV22	clust_2175
+GV25|SEQ00064	VBIGarVag270495_0064	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977987	32950	33741	-	792		Phage antirepressor protein	GV25	clust_2175
+GV30|SEQ01080	VBIGarVag267667_1082	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994381	11187	11978	+	792		Phage antirepressor protein	GV30	clust_2175
+ADO1|SEQ00222	VBIBifAdo136061_0222	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186680	12347	12913	-	567		Phage antirepressor protein	ADO1	clust_2175
+INF1|SEQ00878	VBIBifLon182273_0878	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885735	1046576	1047355	-	780		Phage antirepressor protein	INF1	clust_2175

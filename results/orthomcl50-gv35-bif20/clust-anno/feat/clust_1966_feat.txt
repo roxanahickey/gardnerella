@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00138	VBIGarVag247323_0138	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494382	185473	185742	-	270		hypothetical protein	GV01	clust_1966
+GV02|SEQ00540	VBIGarVag242669_0540	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497883	155633	155902	+	270		hypothetical protein	GV02	clust_1966
+GV09|SEQ00482	VBIGarVag169280_0482	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260146	211007	211276	+	270		hypothetical protein	GV09	clust_1966
+GV11|SEQ00377	VBIGarVag171052_0377	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549064	67525	67794	+	270		hypothetical protein	GV11	clust_1966
+GV18|SEQ00995	VBIGarVag4823_0995	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000137	PATRIC	CDS	42070797	1831	2400	-	570		Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	GV18	clust_1966
+GV20|SEQ01042	VBIGarVag188338_1042	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190944	1300787	1301056	+	270		hypothetical protein	GV20	clust_1966
+GV21|SEQ01108	VBIGarVag274454_1109	Gardnerella vaginalis JCP7275	ATJS01000142	PATRIC	CDS	183969069	88	744	+	657		hypothetical protein	GV21	clust_1966
+GV24|SEQ00690	VBIGarVag268944_0691	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976566	100	669	+	570		Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	GV24	clust_1966
+GV26|SEQ00772	VBIGarVag272749_0772	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	183982363	33176	33445	-	270		hypothetical protein	GV26	clust_1966
+GV30|SEQ01045	VBIGarVag267667_1047	Gardnerella vaginalis JCP8108	ATJJ01000094	PATRIC	CDS	183994296	3056	3343	-	288		hypothetical protein	GV30	clust_1966

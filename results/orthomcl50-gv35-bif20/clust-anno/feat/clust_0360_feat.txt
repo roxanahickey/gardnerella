@@ -1,0 +1,56 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00878	VBIGarVag247323_0878	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495925	99847	100356	+	510		narrowly conserved hypothetical membrane protein	GV01	clust_0360
+GV02|SEQ01181	VBIGarVag242669_1181	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499239	161418	161927	-	510		narrowly conserved hypothetical membrane protein	GV02	clust_0360
+GV03|SEQ00297	VBIGarVag247424_0297	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499978	254172	254681	+	510		narrowly conserved hypothetical membrane protein	GV03	clust_0360
+GV04|SEQ00059	VBIGarVag246433_0059	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479966	57434	57943	-	510		narrowly conserved hypothetical membrane protein	GV04	clust_0360
+GV05|SEQ00399	VBIGarVag174900_0399	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546523	252666	253175	+	510		narrowly conserved hypothetical membrane protein	GV05	clust_0360
+GV06|SEQ00607	VBIGarVag244004_0607	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489995	52326	52835	-	510		narrowly conserved hypothetical membrane protein	GV06	clust_0360
+GV07|SEQ01140	VBIGarVag249177_1140	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493981	40322	40831	-	510		narrowly conserved hypothetical membrane protein	GV07	clust_0360
+GV08|SEQ01166	VBIGarVag251521_1166	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476781	278217	278726	+	510		narrowly conserved hypothetical membrane protein	GV08	clust_0360
+GV09|SEQ01198	VBIGarVag169280_1198	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261625	64863	65372	+	510		narrowly conserved hypothetical membrane protein	GV09	clust_0360
+GV10|SEQ00182	VBIGarVag136958_0182	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146380	221504	222115	+	612		narrowly conserved hypothetical membrane protein	GV10	clust_0360
+GV11|SEQ01158	VBIGarVag171052_1158	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550725	27027	27536	-	510		narrowly conserved hypothetical membrane protein	GV11	clust_0360
+GV12|SEQ00720	VBIGarVag144721_0720	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854139	257590	258105	+	516		narrowly conserved hypothetical membrane protein	GV12	clust_0360
+GV13|SEQ01066	VBIGarVag244533_1066	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488149	62327	62836	+	510		narrowly conserved hypothetical membrane protein	GV13	clust_0360
+GV14|SEQ00155	VBIGarVag244375_0155	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502144	149732	150250	-	519		narrowly conserved hypothetical membrane protein	GV14	clust_0360
+GV15|SEQ00487	VBIGarVag249709_0487	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484510	230838	231353	-	516		narrowly conserved hypothetical membrane protein	GV15	clust_0360
+GV16|SEQ00318	VBIGarVag246379_0318	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477756	282516	283025	+	510		narrowly conserved hypothetical membrane protein	GV16	clust_0360
+GV17|SEQ00410	VBIGarVag146634_0410	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850853	403101	403616	-	516		narrowly conserved hypothetical membrane protein	GV17	clust_0360
+GV18|SEQ01025	VBIGarVag4823_1025	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070873	14153	14662	-	510		narrowly conserved hypothetical membrane protein	GV18	clust_0360
+GV19|SEQ01291	VBIGarVag39333_1294	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629519	1607639	1608148	-	510		narrowly conserved hypothetical membrane protein	GV19	clust_0360
+GV20|SEQ00202	VBIGarVag188338_0202	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189190	236683	237192	+	510		narrowly conserved hypothetical membrane protein	GV20	clust_0360
+GV21|SEQ00991	VBIGarVag274454_0992	Gardnerella vaginalis JCP7275	ATJS01000092	PATRIC	CDS	183968773	3510	4019	-	510		narrowly conserved hypothetical membrane protein	GV21	clust_0360
+GV22|SEQ01041	VBIGarVag276801_1042	Gardnerella vaginalis JCP7276	ATJR01000088	PATRIC	CDS	183971619	3544	4053	-	510		narrowly conserved hypothetical membrane protein	GV22	clust_0360
+GV23|SEQ01065	VBIGarVag276017_1065	Gardnerella vaginalis JCP7659	ATJQ01000112	PATRIC	CDS	183974595	3400	3909	+	510		narrowly conserved hypothetical membrane protein	GV23	clust_0360
+GV24|SEQ00847	VBIGarVag268944_0848	Gardnerella vaginalis JCP7672	ATJP01000077	PATRIC	CDS	183976906	3519	4028	-	510		narrowly conserved hypothetical membrane protein	GV24	clust_0360
+GV25|SEQ00559	VBIGarVag270495_0559	Gardnerella vaginalis JCP7719	ATJO01000046	PATRIC	CDS	183979057	3519	4028	-	510		narrowly conserved hypothetical membrane protein	GV25	clust_0360
+GV26|SEQ00684	VBIGarVag272749_0684	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982165	43459	43968	+	510		narrowly conserved hypothetical membrane protein	GV26	clust_0360
+GV27|SEQ00999	VBIGarVag276930_0999	Gardnerella vaginalis JCP8017B	ATJM01000074	PATRIC	CDS	183985834	3309	3818	+	510		narrowly conserved hypothetical membrane protein	GV27	clust_0360
+GV28|SEQ00715	VBIGarVag271349_0715	Gardnerella vaginalis JCP8066	ATJL01000063	PATRIC	CDS	183988183	3764	4273	-	510		narrowly conserved hypothetical membrane protein	GV28	clust_0360
+GV29|SEQ00402	VBIGarVag265473_0402	Gardnerella vaginalis JCP8070	ATJK01000019	PATRIC	CDS	183990201	2610	3119	+	510		narrowly conserved hypothetical membrane protein	GV29	clust_0360
+GV30|SEQ00812	VBIGarVag267667_0814	Gardnerella vaginalis JCP8108	ATJJ01000061	PATRIC	CDS	183993779	3514	4023	-	510		narrowly conserved hypothetical membrane protein	GV30	clust_0360
+GV31|SEQ00661	VBIGarVag264983_0661	Gardnerella vaginalis JCP8151A	ATJI01000032	PATRIC	CDS	183996412	195	704	-	510		narrowly conserved hypothetical membrane protein	GV31	clust_0360
+GV32|SEQ00676	VBIGarVag277040_0676	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999265	26817	27326	+	510		narrowly conserved hypothetical membrane protein	GV32	clust_0360
+GV33|SEQ00679	VBIGarVag265557_0679	Gardnerella vaginalis JCP8481A	ATJG01000064	PATRIC	CDS	184002121	3979	4488	-	510		narrowly conserved hypothetical membrane protein	GV33	clust_0360
+GV34|SEQ00358	VBIGarVag270440_0358	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004273	3977	4486	-	510		narrowly conserved hypothetical membrane protein	GV34	clust_0360
+GV35|SEQ00775	VBIGarVag272169_0775	Gardnerella vaginalis JCP8522	ATJE01000072	PATRIC	CDS	184007940	15493	16002	+	510		narrowly conserved hypothetical membrane protein	GV35	clust_0360
+ADO1|SEQ00477	VBIBifAdo136061_0477	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187217	319297	319857	+	561		narrowly conserved hypothetical membrane protein	ADO1	clust_0360
+ANI1|SEQ00232	VBIBifAni240121_0232	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845368	276241	276798	-	558		narrowly conserved hypothetical membrane protein	ANI1	clust_0360
+ANI2|SEQ00232	VBIBifAni235968_0232	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848723	276242	276799	-	558		narrowly conserved hypothetical membrane protein	ANI2	clust_0360
+ANI3|SEQ00233	VBIBifAni108068_0233	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762736	276242	276799	-	558		narrowly conserved hypothetical membrane protein	ANI3	clust_0360
+BIF1|SEQ00174	VBIBifBif87902_0174	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882855	220208	220741	+	534	gtrA	narrowly conserved hypothetical membrane protein	BIF1	clust_0360
+BRE1|SEQ00176	VBIBifBre340958_0176	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602278	230999	231559	+	561		narrowly conserved hypothetical membrane protein	BRE1	clust_0360
+BRE2|SEQ00177	VBIBifBre337368_0177	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606253	227829	228389	+	561		narrowly conserved hypothetical membrane protein	BRE2	clust_0360
+BRE3|SEQ00196	VBIBifBre167886_0196	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192040	251828	252388	+	561		narrowly conserved hypothetical membrane protein	BRE3	clust_0360
+BRE4|SEQ00196	VBIBifBre327712_0196	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610433	255498	256058	+	561		narrowly conserved hypothetical membrane protein	BRE4	clust_0360
+BRE5|SEQ00190	VBIBifBre336369_0190	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614471	234330	234890	+	561		narrowly conserved hypothetical membrane protein	BRE5	clust_0360
+BRE6|SEQ00159	VBIBifBre268992_0159	Bifidobacterium breve JCP7499	AWSX01000011	PATRIC	CDS	177653426	16344	16904	-	561		narrowly conserved hypothetical membrane protein	BRE6	clust_0360
+BRE7|SEQ00172	VBIBifBre340732_0172	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618743	223408	223968	+	561		narrowly conserved hypothetical membrane protein	BRE7	clust_0360
+BRE8|SEQ00198	VBIBifBre176493_0198	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622908	254767	255327	+	561		narrowly conserved hypothetical membrane protein	BRE8	clust_0360
+BRE9|SEQ00206	VBIBifBre30019_0206	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444444	267629	268189	+	561		narrowly conserved hypothetical membrane protein	BRE9	clust_0360
+INF1|SEQ00154	VBIBifLon182273_0154	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884215	191278	191814	+	537		narrowly conserved hypothetical membrane protein	INF1	clust_0360
+LON1|SEQ01218	VBIBifLon107831_1219	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119541	1433485	1434021	-	537		narrowly conserved hypothetical membrane protein	LON1	clust_0360
+LON2|SEQ01245	VBIBifLon171405_1247	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582065	1442523	1443083	-	561		narrowly conserved hypothetical membrane protein	LON2	clust_0360
+LON3|SEQ01325	VBIBifLon156230_1327	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769259	2072335	2072871	-	537		narrowly conserved hypothetical membrane protein	LON3	clust_0360
+LON4|SEQ00165	VBIBifLon48544_0165	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888538	206384	206920	+	537		narrowly conserved hypothetical membrane protein	LON4	clust_0360
+THE1|SEQ00255	VBIBifThe274299_0255	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733676	299332	299892	+	561		narrowly conserved hypothetical membrane protein	THE1	clust_0360

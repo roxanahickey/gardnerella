@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV26|SEQ00063	VBIGarVag272749_0063	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980861	8959	9873	-	915		Phage major capsid protein	GV26	clust_1774
+GV27|SEQ00080	VBIGarVag276930_0080	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983871	52313	53227	+	915		Phage major capsid protein	GV27	clust_1774
+GV31|SEQ00966	VBIGarVag264983_0966	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	183997083	7019	7933	-	915		Phage major capsid protein	GV31	clust_1774
+GV32|SEQ00775	VBIGarVag277040_0775	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	183999481	5415	6329	+	915		Phage major capsid protein	GV32	clust_1774

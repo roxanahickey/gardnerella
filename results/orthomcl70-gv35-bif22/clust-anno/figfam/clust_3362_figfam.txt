@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV18|SEQ00961	42070728	VBIGarVag4823_0961	SEQ00961	Gardnerella vaginalis ATCC 14018 = JCM 11026	GV18	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000136	PATRIC	CDS	NA	Addiction module antidote protein	FIG00857897	figfam	clust_3362
+GV19|SEQ00021	42626876	VBIGarVag39333_0021	SEQ00021	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	Addiction module antidote protein	FIG00857897	figfam	clust_3362
+GV20|SEQ00116	54189016	VBIGarVag188338_0116	SEQ00116	Gardnerella vaginalis HMP9231	GV20	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	NA	Addiction module antidote protein	FIG00857897	figfam	clust_3362

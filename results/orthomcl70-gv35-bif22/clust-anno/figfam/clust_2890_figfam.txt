@@ -1,0 +1,6 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00054	27186300	VBIBifAdo136061_0054	SEQ00054	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_2890
+BRE4|SEQ00039	268610111	VBIBifBre327712_0039	SEQ00039	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_2890
+BRE6|SEQ01563	177656394	VBIBifBre268992_1563	SEQ01563	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_2890
+BRE8|SEQ00040	268622584	VBIBifBre176493_0040	SEQ00040	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_2890
+BRE9|SEQ00042	58444107	VBIBifBre30019_0042	SEQ00042	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Multiple sugar ABC transporter, substrate-binding protein	FIG00007137	figfam	clust_2890

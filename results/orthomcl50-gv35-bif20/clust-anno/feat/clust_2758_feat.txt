@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+INF1|SEQ01830	VBIBifLon182273_1830	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887706	2081343	2083823	-	2481		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	INF1	clust_2758
+LON1|SEQ01594	VBIBifLon107831_1595	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120328	1944912	1946918	+	2007	xynD	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON1	clust_2758
+LON2|SEQ01625	VBIBifLon171405_1628	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582855	1961856	1964210	+	2355		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON2	clust_2758
+LON3|SEQ01694	VBIBifLon156230_1697	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766570	541351	543357	-	2007		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON3	clust_2758
+LON4|SEQ01779	VBIBifLon48544_1779	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891950	2041854	2044406	-	2553		Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)	LON4	clust_2758

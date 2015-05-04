@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+GV02|SEQ00282	85497339	VBIGarVag242669_0282	SEQ00282	Gardnerella vaginalis 00703C2mash	GV02	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1841
+GV26|SEQ00448	183981680	VBIGarVag272749_0448	SEQ00448	Gardnerella vaginalis JCP8017A	GV26	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1841
+GV27|SEQ00618	183985010	VBIGarVag276930_0618	SEQ00618	Gardnerella vaginalis JCP8017B	GV27	Gardnerella vaginalis JCP8017B	ATJM01000028	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_1841

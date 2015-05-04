@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00360	VBIGarVag247323_0360	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494859	72065	73297	+	1233		COG0477: Permeases of the major facilitator superfamily	GV01	clust_1423
+GV02|SEQ00695	VBIGarVag242669_0695	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498214	11928	13160	-	1233		COG0477: Permeases of the major facilitator superfamily	GV02	clust_1423
+GV10|SEQ00943	VBIGarVag136958_0943	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147968	1232475	1233404	-	930		hypothetical protein	GV10	clust_1423
+GV15|SEQ00828	VBIGarVag249709_0828	Gardnerella vaginalis 6420B	ADEP01000009	PATRIC	CDS	85485223	230	1459	+	1230		hypothetical protein	GV15	clust_1423
+GV17|SEQ00656	VBIGarVag146634_0656	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851373	158	1408	+	1251		hypothetical protein	GV17	clust_1423
+GV23|SEQ00337	VBIGarVag276017_0337	Gardnerella vaginalis JCP7659	ATJQ01000020	PATRIC	CDS	183972990	5698	6660	+	963		Permeases of the major facilitator superfamily	GV23	clust_1423
+GV26|SEQ00874	VBIGarVag272749_0874	Gardnerella vaginalis JCP8017A	ATJN01000051	PATRIC	CDS	183982594	12166	13128	-	963		Permeases of the major facilitator superfamily	GV26	clust_1423
+GV27|SEQ00786	VBIGarVag276930_0786	Gardnerella vaginalis JCP8017B	ATJM01000039	PATRIC	CDS	183985367	12164	13126	-	963		Permeases of the major facilitator superfamily	GV27	clust_1423

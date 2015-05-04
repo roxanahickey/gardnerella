@@ -1,0 +1,6 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00734	VBIGarVag247424_0734	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500892	103762	104394	-	633		hypothetical protein	GV03	clust_2665
+GV04|SEQ01045	VBIGarVag246433_1045	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85482002	432907	433272	-	366		Putative ABC transport system membrane protein	GV04	clust_2665
+GV07|SEQ00721	VBIGarVag249177_0721	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493094	101322	101954	-	633		hypothetical protein	GV07	clust_2665
+GV08|SEQ00063	VBIGarVag251521_0063	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474491	79071	79436	-	366		Putative ABC transport system membrane protein	GV08	clust_2665
+GV16|SEQ00838	VBIGarVag246379_0838	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478837	948670	949035	-	366		Putative ABC transport system membrane protein	GV16	clust_2665

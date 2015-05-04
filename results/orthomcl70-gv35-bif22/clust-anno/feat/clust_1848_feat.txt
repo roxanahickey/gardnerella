@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01018	VBIBifBif87902_1018	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884600	1236154	1236849	+	696		Protein of unknown function DUF159	BIF1	clust_1848
+BRE1|SEQ00992	VBIBifBre340958_0992	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603984	1175970	1176662	+	693		protein of unknown function DUF159	BRE1	clust_1848
+BRE2|SEQ01085	VBIBifBre337368_1085	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608143	1269800	1270492	+	693		protein of unknown function DUF159	BRE2	clust_1848
+BRE3|SEQ00795	VBIBifBre167886_0795	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193285	949207	949899	-	693		protein of unknown function DUF159	BRE3	clust_1848
+BRE4|SEQ00967	VBIBifBre327712_0967	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612038	1128418	1129110	-	693		protein of unknown function DUF159	BRE4	clust_1848
+BRE5|SEQ01138	VBIBifBre336369_1139	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616447	1281546	1282238	+	693		protein of unknown function DUF159	BRE5	clust_1848
+BRE6|SEQ01741	VBIBifBre268992_1741	Bifidobacterium breve JCP7499	AWSX01000078	PATRIC	CDS	177656784	37088	37780	+	693		protein of unknown function DUF159	BRE6	clust_1848
+BRE7|SEQ01036	VBIBifBre340732_1036	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620547	1215527	1216219	+	693		protein of unknown function DUF159	BRE7	clust_1848
+BRE8|SEQ01055	VBIBifBre176493_1055	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624692	1251927	1252619	+	693		protein of unknown function DUF159	BRE8	clust_1848
+BRE9|SEQ01120	VBIBifBre30019_1120	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446354	1315027	1315719	+	693		protein of unknown function DUF159	BRE9	clust_1848
+LON4|SEQ00898	VBIBifLon48544_0898	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890072	1061599	1062291	-	693		protein of unknown function DUF159	LON4	clust_1848
+THE1|SEQ00012	VBIBifThe274299_0012	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733183	18122	18814	+	693		protein of unknown function DUF159	THE1	clust_1848

@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ00395	VBIBifAdo136061_0395	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187051	217881	219710	+	1830		probable permease protein of ABC transporter system	ADO1	clust_1360
+ANI1|SEQ00166	VBIBifAni240121_0166	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845234	195413	197221	+	1809		probable permease protein of ABC transporter system	ANI1	clust_1360
+ANI2|SEQ00166	VBIBifAni235968_0166	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848589	195414	197222	+	1809		probable permease protein of ABC transporter system	ANI2	clust_1360
+ANI3|SEQ00168	VBIBifAni108068_0168	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762604	195387	197222	+	1836		probable permease protein of ABC transporter system	ANI3	clust_1360
+BIF1|SEQ00168	VBIBifBif87902_0168	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882843	206578	208518	+	1941		probable permease protein of ABC transporter system	BIF1	clust_1360
+BRE1|SEQ01813	VBIBifBre340958_1814	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605687	2121274	2123088	-	1815		probable permease protein of ABC transporter system	BRE1	clust_1360
+BRE2|SEQ01913	VBIBifBre337368_1913	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609862	2219580	2221394	-	1815		probable permease protein of ABC transporter system	BRE2	clust_1360
+BRE3|SEQ01885	VBIBifBre167886_1885	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195555	2199164	2200978	-	1815		probable permease protein of ABC transporter system	BRE3	clust_1360
+BRE4|SEQ01863	VBIBifBre327712_1863	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613904	2165402	2167216	-	1815		probable permease protein of ABC transporter system	BRE4	clust_1360
+BRE5|SEQ01977	VBIBifBre336369_1978	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618184	2231176	2232990	-	1815		probable permease protein of ABC transporter system	BRE5	clust_1360
+BRE6|SEQ01321	VBIBifBre268992_1321	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS	177655875	41221	43035	-	1815		probable permease protein of ABC transporter system	BRE6	clust_1360
+BRE7|SEQ01900	VBIBifBre340732_1900	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622334	2195152	2196966	-	1815		probable permease protein of ABC transporter system	BRE7	clust_1360
+BRE8|SEQ01858	VBIBifBre176493_1858	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626363	2166606	2168420	-	1815		probable permease protein of ABC transporter system	BRE8	clust_1360
+BRE9|SEQ01960	VBIBifBre30019_1960	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448094	2271775	2273589	-	1815		probable permease protein of ABC transporter system	BRE9	clust_1360
+INF1|SEQ01948	VBIBifLon182273_1948	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887956	2243372	2245201	-	1830		probable permease protein of ABC transporter system	INF1	clust_1360
+LON1|SEQ01462	VBIBifLon107831_1463	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120052	1765246	1767075	+	1830		probable permease protein of ABC transporter system	LON1	clust_1360
+LON2|SEQ01506	VBIBifLon171405_1509	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582605	1798270	1800093	+	1824	mdlB3	probable permease protein of ABC transporter system	LON2	clust_1360
+LON3|SEQ01847	VBIBifLon156230_1850	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766886	735811	737649	-	1839		probable permease protein of ABC transporter system	LON3	clust_1360
+LON4|SEQ01901	VBIBifLon48544_1901	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892207	2209677	2211506	-	1830		probable permease protein of ABC transporter system	LON4	clust_1360
+THE1|SEQ00154	VBIBifThe274299_0154	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733471	177916	179730	+	1815		probable permease protein of ABC transporter system	THE1	clust_1360

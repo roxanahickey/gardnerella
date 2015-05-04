@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV12|SEQ00099	VBIGarVag144721_0099	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852849	22674	23834	-	1161		FIG045374: Type II restriction enzyme, methylase subunit YeeA	GV12	clust_3187
+GV21|SEQ00468	VBIGarVag274454_0469	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967605	13914	14456	+	543		FIG045374: Type II restriction enzyme, methylase subunit YeeA	GV21	clust_3187
+GV30|SEQ00832	VBIGarVag267667_0834	Gardnerella vaginalis JCP8108	ATJJ01000065	PATRIC	CDS	183993823	5750	6370	-	621		FIG045374: Type II restriction enzyme, methylase subunit YeeA	GV30	clust_3187

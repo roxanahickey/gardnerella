@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01900	VBIBifAdo136061_1900	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190173	418666	419892	+	1227		Cystathionine beta-lyase, type II (EC 4.4.1.8)	ADO1	clust_2537
+INF1|SEQ01882	VBIBifLon182273_1882	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887821	2155818	2157071	+	1254		Cystathionine beta-lyase, type II (EC 4.4.1.8)	INF1	clust_2537
+LON1|SEQ01554	VBIBifLon107831_1555	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120238	1879862	1881115	-	1254		Cystathionine beta-lyase, type II (EC 4.4.1.8)	LON1	clust_2537
+LON2|SEQ01578	VBIBifLon171405_1581	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582751	1890335	1891588	-	1254	malY1	Cystathionine beta-lyase, type II (EC 4.4.1.8)	LON2	clust_2537
+LON3|SEQ01757	VBIBifLon156230_1760	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766701	624801	626054	+	1254		Cystathionine beta-lyase, type II (EC 4.4.1.8)	LON3	clust_2537
+LON4|SEQ01823	VBIBifLon48544_1823	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892048	2111887	2113140	+	1254		Cystathionine beta-lyase, type II (EC 4.4.1.8)	LON4	clust_2537

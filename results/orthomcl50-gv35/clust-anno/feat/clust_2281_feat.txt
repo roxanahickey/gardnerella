@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV11|SEQ00262	VBIGarVag171052_0262	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	52548818	17720	18661	-	942		Transcriptional regulator	GV11	clust_2281
+GV14|SEQ00030	VBIGarVag244375_0030	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501876	2907	4037	+	1131		Helix-turn-helix motif:Protein of unknown function DUF955	GV14	clust_2281

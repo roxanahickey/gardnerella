@@ -1,0 +1,50 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00751	VBIGarVag247323_0751	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495664	36473	37657	-	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV01	clust_0780
+GV02|SEQ01029	VBIGarVag242669_1029	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498913	36713	38116	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV02	clust_0780
+GV03|SEQ00437	VBIGarVag247424_0437	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500279	63069	64469	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV03	clust_0780
+GV04|SEQ01203	VBIGarVag246433_1203	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482335	40427	41830	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV04	clust_0780
+GV05|SEQ00142	VBIGarVag174900_0142	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52545993	33112	34512	-	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV05	clust_0780
+GV06|SEQ00497	VBIGarVag244004_0497	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489753	1910	3313	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV06	clust_0780
+GV07|SEQ01057	VBIGarVag249177_1057	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493800	62710	64110	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV07	clust_0780
+GV08|SEQ00585	VBIGarVag251521_0585	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475585	36723	38123	-	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV08	clust_0780
+GV09|SEQ01033	VBIGarVag169280_1033	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261287	40354	41757	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV09	clust_0780
+GV10|SEQ01143	VBIGarVag136958_1143	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148384	1548724	1550130	+	1407		Maltose/maltodextrin ABC transporter, permease protein MalF	GV10	clust_0780
+GV11|SEQ00013	VBIGarVag171052_0013	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548288	18404	19804	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV11	clust_0780
+GV12|SEQ00046	VBIGarVag144721_0046	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852742	58575	59981	+	1407		Maltose/maltodextrin ABC transporter, permease protein MalF	GV12	clust_0780
+GV13|SEQ01220	VBIGarVag244533_1220	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488492	38851	40251	-	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV13	clust_0780
+GV14|SEQ00906	VBIGarVag244375_0906	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503707	26524	27924	-	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV14	clust_0780
+GV15|SEQ00025	VBIGarVag249709_0025	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483536	26529	27935	-	1407		Maltose/maltodextrin ABC transporter, permease protein MalF	GV15	clust_0780
+GV16|SEQ00037	VBIGarVag246379_0037	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477178	40569	41972	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV16	clust_0780
+GV17|SEQ00044	VBIGarVag146634_0044	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850084	58885	60291	+	1407		Maltose/maltodextrin ABC transporter, permease protein MalF	GV17	clust_0780
+GV18|SEQ00778	VBIGarVag4823_0778	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000126	PATRIC	CDS	42070348	5452	6636	-	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV18	clust_0780
+GV19|SEQ00236	VBIGarVag39333_0236	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627325	281186	282589	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV19	clust_0780
+GV20|SEQ01274	VBIGarVag188338_1274	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191424	1603415	1604818	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV20	clust_0780
+GV21|SEQ01068	VBIGarVag274454_1069	Gardnerella vaginalis JCP7275	ATJS01000125	PATRIC	CDS	183968970	1734	3134	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV21	clust_0780
+GV22|SEQ00804	VBIGarVag276801_0805	Gardnerella vaginalis JCP7276	ATJR01000038	PATRIC	CDS	183971068	17471	18874	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV22	clust_0780
+GV23|SEQ00914	VBIGarVag276017_0914	Gardnerella vaginalis JCP7659	ATJQ01000084	PATRIC	CDS	183974255	1973	3157	+	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV23	clust_0780
+GV24|SEQ00495	VBIGarVag268944_0496	Gardnerella vaginalis JCP7672	ATJP01000024	PATRIC	CDS	183976127	17465	18868	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV24	clust_0780
+GV25|SEQ00119	VBIGarVag270495_0119	Gardnerella vaginalis JCP7719	ATJO01000008	PATRIC	CDS	183978108	7007	8239	-	1233		Maltose/maltodextrin ABC transporter, permease protein MalF	GV25	clust_0780
+GV26|SEQ01280	VBIGarVag272749_1280	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983542	2796	3980	+	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV26	clust_0780
+GV27|SEQ01280	VBIGarVag276930_1280	Gardnerella vaginalis JCP8017B	ATJM01000158	PATRIC	CDS	183986493	1947	3131	+	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV27	clust_0780
+GV28|SEQ00002	VBIGarVag271349_0002	Gardnerella vaginalis JCP8066	ATJL01000003	PATRIC	CDS	183986649	2098	3282	+	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV28	clust_0780
+GV29|SEQ00683	VBIGarVag265473_0683	Gardnerella vaginalis JCP8070	ATJK01000042	PATRIC	CDS	183990816	15023	16426	-	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV29	clust_0780
+GV30|SEQ01171	VBIGarVag267667_1173	Gardnerella vaginalis JCP8108	ATJJ01000125	PATRIC	CDS	183994587	3343	4575	+	1233		Maltose/maltodextrin ABC transporter, permease protein MalF	GV30	clust_0780
+GV31|SEQ00999	VBIGarVag264983_0999	Gardnerella vaginalis JCP8151A	ATJI01000079	PATRIC	CDS	183997155	1941	3125	+	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV31	clust_0780
+GV32|SEQ00835	VBIGarVag277040_0835	Gardnerella vaginalis JCP8151B	ATJH01000062	PATRIC	CDS	183999612	6620	7804	-	1185		Maltose/maltodextrin ABC transporter, permease protein MalF	GV32	clust_0780
+GV33|SEQ00004	VBIGarVag265557_0004	Gardnerella vaginalis JCP8481A	ATJG01000001	PATRIC	CDS	184000663	6066	7466	-	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV33	clust_0780
+GV34|SEQ00287	VBIGarVag270440_0287	Gardnerella vaginalis JCP8481B	ATJF01000020	PATRIC	CDS	184004115	6115	7515	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	GV34	clust_0780
+GV35|SEQ01055	VBIGarVag272169_1055	Gardnerella vaginalis JCP8522	ATJE01000153	PATRIC	CDS	184008609	1711	3114	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	GV35	clust_0780
+ADO1|SEQ02017	VBIBifAdo136061_2017	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190419	586892	588163	-	1272		Maltose/maltodextrin ABC transporter, permease protein MalF	ADO1	clust_0780
+ANI1|SEQ01539	VBIBifAni240121_1539	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848101	1842450	1843823	-	1374	malF	Maltose/maltodextrin ABC transporter, permease protein MalF	ANI1	clust_0780
+ANI2|SEQ01537	VBIBifAni235968_1537	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851450	1842671	1844044	-	1374	malF	Maltose/maltodextrin ABC transporter, permease protein MalF	ANI2	clust_0780
+ANI3|SEQ01548	VBIBifAni108068_1548	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765472	1847902	1849275	-	1374		Maltose/maltodextrin ABC transporter, permease protein MalF	ANI3	clust_0780
+BRE1|SEQ00115	VBIBifBre340958_0115	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602155	156879	158279	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE1	clust_0780
+BRE2|SEQ00111	VBIBifBre337368_0111	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606120	151702	153102	+	1401		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE2	clust_0780
+BRE3|SEQ00114	VBIBifBre167886_0114	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191873	157976	159379	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE3	clust_0780
+BRE4|SEQ00135	VBIBifBre327712_0135	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610310	184403	185806	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE4	clust_0780
+BRE5|SEQ00121	VBIBifBre336369_0121	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614331	158476	159879	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE5	clust_0780
+BRE6|SEQ00103	VBIBifBre268992_0103	Bifidobacterium breve JCP7499	AWSX01000009	PATRIC	CDS	177653308	3781	5184	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE6	clust_0780
+BRE7|SEQ00107	VBIBifBre340732_0107	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618612	147269	148672	+	1404		Maltose/maltodextrin ABC transporter, permease protein MalF	BRE7	clust_0780
+BRE8|SEQ00133	VBIBifBre176493_0133	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622777	178612	180015	+	1404	malC	Maltose/maltodextrin ABC transporter, permease protein MalF	BRE8	clust_0780
+BRE9|SEQ00131	VBIBifBre30019_0131	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444292	178830	180233	+	1404	malC	Maltose/maltodextrin ABC transporter, permease protein MalF	BRE9	clust_0780
+THE1|SEQ01680	VBIBifThe274299_1680	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736629	2085054	2086460	+	1407		Maltose/maltodextrin ABC transporter, permease protein MalF	THE1	clust_0780

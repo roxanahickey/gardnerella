@@ -1,0 +1,23 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00375	VBIBifBre340958_0375	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602699	470110	471216	-	1107		Mobile element protein	BRE1	clust_1130
+BRE3|SEQ00434	VBIBifBre167886_0434	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192541	538882	539367	-	486		Mobile element protein	BRE3	clust_1130
+BRE4|SEQ00018	VBIBifBre327712_0018	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610067	24524	25294	+	771		Mobile element protein	BRE4	clust_1130
+BRE4|SEQ00026	VBIBifBre327712_0026	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610083	35504	36610	-	1107		Mobile element protein	BRE4	clust_1130
+BRE5|SEQ00882	VBIBifBre336369_0883	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615911	1034829	1035935	-	1107		Mobile element protein	BRE5	clust_1130
+BRE6|SEQ01541	VBIBifBre268992_1541	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656348	502	1272	+	771		Mobile element protein	BRE6	clust_1130
+BRE6|SEQ01549	VBIBifBre268992_1549	Bifidobacterium breve JCP7499	AWSX01000073	PATRIC	CDS	177656364	11482	11937	-	456		Mobile element protein	BRE6	clust_1130
+BRE7|SEQ00939	VBIBifBre340732_0939	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620339	1110695	1111255	-	561		Mobile element protein	BRE7	clust_1130
+BRE8|SEQ00018	VBIBifBre176493_0018	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622539	24547	25317	+	771		Mobile element protein	BRE8	clust_1130
+BRE8|SEQ00026	VBIBifBre176493_0026	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622555	35527	35982	-	456		Mobile element protein	BRE8	clust_1130
+BRE9|SEQ00018	VBIBifBre30019_0018	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444055	24547	25317	+	771		Mobile element protein	BRE9	clust_1130
+BRE9|SEQ00026	VBIBifBre30019_0026	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444071	35527	35982	-	456		Mobile element protein	BRE9	clust_1130
+INF1|SEQ00079	VBIBifLon182273_0079	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884062	97537	98643	+	1107		Mobile element protein	INF1	clust_1130
+INF1|SEQ00578	VBIBifLon182273_0578	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885102	717649	718755	+	1107		Mobile element protein	INF1	clust_1130
+INF1|SEQ01222	VBIBifLon182273_1222	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886447	1373302	1374408	+	1107		Mobile element protein	INF1	clust_1130
+INF1|SEQ01735	VBIBifLon182273_1735	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887501	1980612	1981718	-	1107		Mobile element protein	INF1	clust_1130
+INF1|SEQ01837	VBIBifLon182273_1837	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887721	2089821	2090276	+	456		Mobile element protein	INF1	clust_1130
+LON2|SEQ01320	VBIBifLon171405_1323	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582217	1524114	1525142	+	1029		Mobile element protein	LON2	clust_1130
+LON2|SEQ01621	VBIBifLon171405_1624	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582847	1957390	1957845	-	456		Mobile element protein	LON2	clust_1130
+LON3|SEQ00842	VBIBifLon156230_0842	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768659	1758982	1759437	+	456		Mobile element protein	LON3	clust_1130
+LON4|SEQ01780	VBIBifLon48544_1780	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891952	2045025	2046131	+	1107		Mobile element protein	LON4	clust_1130
+THE1|SEQ00631	VBIBifThe274299_0631	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734440	795205	795408	-	204		hypothetical protein	THE1	clust_1130

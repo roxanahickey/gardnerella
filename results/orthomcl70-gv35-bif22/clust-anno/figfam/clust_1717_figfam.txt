@@ -1,0 +1,13 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01110	27188545	VBIBifAdo136061_1110	SEQ01110	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS		Hypothetical membrane protein	FIG01310066	figfam	clust_1717
+BRE1|SEQ00544	268603048	VBIBifBre340958_0544	SEQ00544	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		Hypothetical membrane protein	FIG01310066	figfam	clust_1717
+BRE2|SEQ00633	268607198	VBIBifBre337368_0633	SEQ00633	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		Hypothetical membrane protein	FIG01310066	figfam	clust_1717
+BRE3|SEQ01250	54194236	VBIBifBre167886_1250	SEQ01250	Bifidobacterium breve ACS-071-V-Sch8b	BRE3	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS		Hypothetical membrane protein	FIG01310066	figfam	clust_1717
+BRE6|SEQ01157	177655528	VBIBifBre268992_1157	SEQ01157	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717
+BRE7|SEQ00585	268619604	VBIBifBre340732_0585	SEQ00585	Bifidobacterium breve NCFB 2258	BRE7	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717
+BRE8|SEQ00608	268623759	VBIBifBre176493_0608	SEQ00608	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Hypothetical membrane protein	FIG01310066	figfam	clust_1717
+INF1|SEQ00555	46885054	VBIBifLon182273_0555	SEQ00555	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717
+LON1|SEQ00799	21118671	VBIBifLon107831_0800	SEQ00799	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717
+LON2|SEQ00866	42581274	VBIBifLon171405_0867	SEQ00866	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717
+LON3|SEQ00671	42768311	VBIBifLon156230_0671	SEQ00671	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717
+LON4|SEQ00540	46889326	VBIBifLon48544_0540	SEQ00540	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		COG2246: Predicted membrane protein	FIG01405173	figfam	clust_1717

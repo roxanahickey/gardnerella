@@ -1,0 +1,5 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE1|SEQ00515	268602987	VBIBifBre340958_0515	SEQ00515	Bifidobacterium breve 12L	BRE1	Bifidobacterium breve 12L	CP006711	PATRIC	CDS		SSU ribosomal protein S14p (S29e)	FIG01955777	figfam	clust_2934
+BRE2|SEQ00592	268607114	VBIBifBre337368_0592	SEQ00592	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		SSU ribosomal protein S14p (S29e)	FIG01955777	figfam	clust_2934
+BRE4|SEQ00536	268611144	VBIBifBre327712_0536	SEQ00536	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		SSU ribosomal protein S14p (S29e)	FIG01955777	figfam	clust_2934
+BRE9|SEQ00629	58445326	VBIBifBre30019_0629	SEQ00629	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		SSU ribosomal protein S14p (S29e)	FIG01955777	figfam	clust_2934

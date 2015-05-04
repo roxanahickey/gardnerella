@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV03|SEQ00850	VBIGarVag247424_0850	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501133	170948	171088	-	141		hypothetical protein	GV03	clust_2055
+GV10|SEQ00642	VBIGarVag136958_0642	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147344	824525	824665	-	141		hypothetical protein	GV10	clust_2055
+GV12|SEQ00094	VBIGarVag144721_0094	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852839	16337	18010	-	1674		FIG045374: Type II restriction enzyme, methylase subunit YeeA	GV12	clust_2055
+GV12|SEQ01285	VBIGarVag144721_1285	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855402	175805	175945	-	141		hypothetical protein	GV12	clust_2055
+GV15|SEQ00703	VBIGarVag249709_0703	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484953	170438	170602	-	165		hypothetical protein	GV15	clust_2055
+GV17|SEQ00906	VBIGarVag146634_0906	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851898	22309	22698	+	390		hypothetical protein	GV17	clust_2055
+GV21|SEQ00478	VBIGarVag274454_0479	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967625	28078	30342	+	2265		FIG045374: Type II restriction enzyme, methylase subunit YeeA	GV21	clust_2055
+GV25|SEQ00698	VBIGarVag270495_0698	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979362	33616	33756	-	141		hypothetical protein	GV25	clust_2055
+LON4|SEQ00928	VBIBifLon48544_0928	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890133	1082855	1085653	-	2799		FIG045374: Type II restriction enzyme, methylase subunit YeeA	LON4	clust_2055

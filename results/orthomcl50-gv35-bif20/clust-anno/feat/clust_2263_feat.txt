@@ -1,0 +1,9 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00958	VBIBifBif87902_0958	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884478	1169594	1170259	+	666	cutR	two component transcriptional regulator, winged helix family	BIF1	clust_2263
+BIF1|SEQ01028	VBIBifBif87902_1028	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884620	1244970	1245791	+	822		hypothetical protein	BIF1	clust_2263
+BRE7|SEQ01550	VBIBifBre340732_1550	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621607	1796805	1797323	+	519		Two-component response regulator	BRE7	clust_2263
+INF1|SEQ01241	VBIBifLon182273_1241	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886485	1391259	1392047	+	789		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	INF1	clust_2263
+LON1|SEQ00291	VBIBifLon107831_0291	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117619	352220	353008	-	789		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON1	clust_2263
+LON2|SEQ00335	VBIBifLon171405_0336	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580173	395619	396407	-	789		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON2	clust_2263
+LON3|SEQ00153	VBIBifLon156230_0153	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767234	967634	968422	-	789		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON3	clust_2263
+LON4|SEQ01215	VBIBifLon48544_1215	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890771	1365750	1366538	+	789		Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain	LON4	clust_2263

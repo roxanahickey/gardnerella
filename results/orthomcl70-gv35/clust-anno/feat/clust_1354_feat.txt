@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV04|SEQ00114	VBIGarVag246433_0114	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480076	121536	122912	+	1377		Homolog of fucose/glucose/galactose permeases	GV04	clust_1354
+GV08|SEQ01112	VBIGarVag251521_1112	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476673	220504	221880	-	1377		Homolog of fucose/glucose/galactose permeases	GV08	clust_1354
+GV09|SEQ01144	VBIGarVag169280_1144	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261517	4566	5942	-	1377	fucP	Homolog of fucose/glucose/galactose permeases	GV09	clust_1354
+GV11|SEQ00418	VBIGarVag171052_0418	Gardnerella vaginalis 41V	AEJE01000028	PATRIC	CDS	52549150	2083	3459	+	1377		Homolog of fucose/glucose/galactose permeases	GV11	clust_1354
+GV13|SEQ01017	VBIGarVag244533_1017	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488051	4717	6093	-	1377		Homolog of fucose/glucose/galactose permeases	GV13	clust_1354
+GV20|SEQ00146	VBIGarVag188338_0146	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189078	171651	173027	-	1377	fucP	Homolog of fucose/glucose/galactose permeases	GV20	clust_1354
+GV21|SEQ00778	VBIGarVag274454_0779	Gardnerella vaginalis JCP7275	ATJS01000054	PATRIC	CDS	183968273	2362	3738	+	1377		Homolog of fucose/glucose/galactose permeases	GV21	clust_1354
+GV22|SEQ00697	VBIGarVag276801_0698	Gardnerella vaginalis JCP7276	ATJR01000028	PATRIC	CDS	183970842	2605	3981	+	1377		Homolog of fucose/glucose/galactose permeases	GV22	clust_1354
+GV24|SEQ00257	VBIGarVag268944_0258	Gardnerella vaginalis JCP7672	ATJP01000011	PATRIC	CDS	183975624	1369	2745	-	1377		Homolog of fucose/glucose/galactose permeases	GV24	clust_1354

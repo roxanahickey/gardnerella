@@ -1,0 +1,13 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ01726	VBIBifBre167886_1726	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195226	2003781	2004998	-	1218		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE3	clust_1831
+BRE7|SEQ01755	VBIBifBre340732_1755	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622033	2015143	2016375	-	1233		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE7	clust_1831
+BRE8|SEQ01711	VBIBifBre176493_1711	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626057	1988613	1989845	-	1233		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE8	clust_1831
+BRE9|SEQ01819	VBIBifBre30019_1819	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447801	2092589	2093821	-	1233		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	BRE9	clust_1831
+GV06|SEQ00398	VBIGarVag244004_0398	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489539	70431	71654	-	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV06	clust_1831
+GV09|SEQ01254	VBIGarVag169280_1254	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261751	117370	118593	+	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV09	clust_1831
+GV13|SEQ00407	VBIGarVag244533_0407	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486773	48193	49416	-	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV13	clust_1831
+GV16|SEQ00377	VBIGarVag246379_0377	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477888	340770	341993	+	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV16	clust_1831
+GV19|SEQ01232	VBIGarVag39333_1234	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629387	1554471	1555694	-	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV19	clust_1831
+GV20|SEQ00262	VBIGarVag188338_0262	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189325	295972	297195	+	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV20	clust_1831
+GV30|SEQ00020	VBIGarVag267667_0020	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992076	24085	25308	-	1224		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	GV30	clust_1831
+INF1|SEQ00285	VBIBifLon182273_0285	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884499	359975	361207	+	1233		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	INF1	clust_1831

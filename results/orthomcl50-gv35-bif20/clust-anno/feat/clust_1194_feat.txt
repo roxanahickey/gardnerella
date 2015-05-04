@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01871	VBIBifAdo136061_1871	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190113	385617	386477	-	861		oxidoreductase, aldo/keto reductase family	ADO1	clust_1194
+ANI1|SEQ00692	VBIBifAni240121_0692	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846333	809101	809937	-	837		oxidoreductase of aldo/keto reductase family, subgroup 1	ANI1	clust_1194
+ANI2|SEQ00692	VBIBifAni235968_0692	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86849686	809104	809940	-	837		oxidoreductase of aldo/keto reductase family, subgroup 1	ANI2	clust_1194
+ANI3|SEQ00694	VBIBifAni108068_0694	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42763698	809106	809942	-	837		oxidoreductase of aldo/keto reductase family, subgroup 1	ANI3	clust_1194
+BIF1|SEQ00494	VBIBifBif87902_0494	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883523	619408	620241	-	834		Aldo/keto reductases, related to diketogulonate reductase	BIF1	clust_1194
+BRE1|SEQ01256	VBIBifBre340958_1256	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604522	1474559	1475386	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE1	clust_1194
+BRE2|SEQ01346	VBIBifBre337368_1346	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608676	1550840	1551667	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE2	clust_1194
+BRE3|SEQ00565	VBIBifBre167886_0565	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192811	693213	694040	-	828	morA	Aldo/keto reductases, related to diketogulonate reductase	BRE3	clust_1194
+BRE4|SEQ01287	VBIBifBre327712_1287	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612699	1497907	1498734	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE4	clust_1194
+BRE5|SEQ01410	VBIBifBre336369_1411	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617002	1576753	1577580	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE5	clust_1194
+BRE6|SEQ01972	VBIBifBre268992_1972	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657258	170467	171294	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE6	clust_1194
+BRE7|SEQ01298	VBIBifBre340732_1298	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621081	1499934	1500761	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE7	clust_1194
+BRE8|SEQ01325	VBIBifBre176493_1325	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625245	1546362	1547189	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE8	clust_1194
+BRE9|SEQ01381	VBIBifBre30019_1381	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446887	1602832	1603659	+	828		Aldo/keto reductases, related to diketogulonate reductase	BRE9	clust_1194
+INF1|SEQ01390	VBIBifLon182273_1390	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886784	1576682	1577509	+	828		Aldo/keto reductases, related to diketogulonate reductase	INF1	clust_1194
+LON1|SEQ00141	VBIBifLon107831_0141	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117317	164744	165550	-	807	morA	Aldo/keto reductases, related to diketogulonate reductase	LON1	clust_1194
+LON2|SEQ00186	VBIBifLon171405_0187	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579875	208968	209795	-	828	akrA1	Aldo/keto reductases, related to diketogulonate reductase	LON2	clust_1194
+LON3|SEQ01874	VBIBifLon156230_1877	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766940	781681	782508	-	828		Aldo/keto reductases, related to diketogulonate reductase	LON3	clust_1194
+LON4|SEQ01354	VBIBifLon48544_1354	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891053	1533531	1534358	+	828		Aldo/keto reductases, related to diketogulonate reductase	LON4	clust_1194
+THE1|SEQ01697	VBIBifThe274299_1697	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736663	2103517	2104266	+	750		oxidoreductase of aldo/keto reductase family, subgroup 1	THE1	clust_1194

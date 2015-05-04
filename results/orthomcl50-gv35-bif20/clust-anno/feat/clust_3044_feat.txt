@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01683	VBIBifAdo136061_1683	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189737	160866	162890	-	2025		ABC-type amino acid transport system, permease component	ADO1	clust_3044
+BRE8|SEQ01131	VBIBifBre176493_1131	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624851	1319299	1321308	-	2010		ABC-type amino acid transport system, permease component	BRE8	clust_3044
+LON1|SEQ00350	VBIBifLon107831_0350	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117741	414762	416756	-	1995		ABC-type amino acid transport system, permease component	LON1	clust_3044
+LON3|SEQ00216	VBIBifLon156230_0216	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767365	1037406	1039397	-	1992		ABC-type amino acid transport system, permease component	LON3	clust_3044

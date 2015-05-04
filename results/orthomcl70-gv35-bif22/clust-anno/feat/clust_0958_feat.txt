@@ -1,0 +1,34 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE3|SEQ01932	VBIBifBre167886_1932	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195661	2275227	2276792	+	1566	rbsA_2	Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE3	clust_0958
+BRE6|SEQ00507	VBIBifBre268992_0507	Bifidobacterium breve JCP7499	AWSX01000025	PATRIC	CDS	177654148	32449	34014	+	1566		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE6	clust_0958
+BRE8|SEQ01908	VBIBifBre176493_1908	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626475	2242691	2244256	+	1566		Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)	BRE8	clust_0958
+DEN1|SEQ00139	VBIBifDen165269_0140	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461533	1485872	1487440	-	1569	araG	L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	DEN1	clust_0958
+DEN1|SEQ02060	VBIBifDen165269_2062	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463099	5799	7355	+	1557	xylG	L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	DEN1	clust_0958
+DEN2|SEQ01229	VBIBifDen39005_1230	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110837	5820	7376	+	1557		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	DEN2	clust_0958
+DEN2|SEQ01929	VBIBifDen39005_1931	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112278	155379	156947	-	1569		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	DEN2	clust_0958
+GV04|SEQ00127	VBIGarVag246433_0127	Gardnerella vaginalis 0288E	ADEN01000002	PATRIC	CDS	85480103	5556	7130	-	1575		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV04	clust_0958
+GV04|SEQ00574	VBIGarVag246433_0574	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481040	239789	241333	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV04	clust_0958
+GV06|SEQ01121	VBIGarVag244004_1121	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491068	90833	92377	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV06	clust_0958
+GV08|SEQ00221	VBIGarVag251521_0221	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474827	3692	5236	+	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV08	clust_0958
+GV08|SEQ01229	VBIGarVag251521_1229	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476921	342265	343797	+	1533		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV08	clust_0958
+GV09|SEQ00591	VBIGarVag169280_0591	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260371	351427	352971	-	1545	rbsA	L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV09	clust_0958
+GV09|SEQ01266	VBIGarVag169280_1266	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261775	131551	133125	+	1575		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV09	clust_0958
+GV11|SEQ00577	VBIGarVag171052_0577	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549489	5635	7167	-	1533		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV11	clust_0958
+GV11|SEQ01074	VBIGarVag171052_1074	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550539	11053	12597	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV11	clust_0958
+GV13|SEQ00396	VBIGarVag244533_0396	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486751	33683	35227	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV13	clust_0958
+GV16|SEQ01242	VBIGarVag246379_1242	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479685	1464796	1466340	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV16	clust_0958
+GV18|SEQ00313	VBIGarVag4823_0313	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000084	PATRIC	CDS	42069339	1274	2818	+	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV18	clust_0958
+GV19|SEQ00368	VBIGarVag39333_0369	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627599	446321	447865	+	1545	araG	L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV19	clust_0958
+GV20|SEQ01149	VBIGarVag188338_1149	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191164	1438889	1440433	-	1545	rbsA_2	L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV20	clust_0958
+GV21|SEQ00349	VBIGarVag274454_0349	Gardnerella vaginalis JCP7275	ATJS01000013	PATRIC	CDS	183967354	3277	4809	+	1533		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV21	clust_0958
+GV21|SEQ00544	VBIGarVag274454_0545	Gardnerella vaginalis JCP7275	ATJS01000028	PATRIC	CDS	183967765	7696	9240	+	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV21	clust_0958
+GV22|SEQ00600	VBIGarVag276801_0601	Gardnerella vaginalis JCP7276	ATJR01000019	PATRIC	CDS	183970637	4966	6498	-	1533		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV22	clust_0958
+GV22|SEQ00709	VBIGarVag276801_0710	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970867	3733	5277	+	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV22	clust_0958
+GV24|SEQ00326	VBIGarVag268944_0327	Gardnerella vaginalis JCP7672	ATJP01000017	PATRIC	CDS	183975772	6653	8197	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV24	clust_0958
+GV24|SEQ00548	VBIGarVag268944_0549	Gardnerella vaginalis JCP7672	ATJP01000029	PATRIC	CDS	183976244	4930	6504	-	1575		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV24	clust_0958
+GV30|SEQ00486	VBIGarVag267667_0487	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993065	19511	21055	-	1545		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	GV30	clust_0958
+INF1|SEQ01675	VBIBifLon182273_1675	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887369	1909972	1911525	-	1554		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	INF1	clust_0958
+LON1|SEQ01747	VBIBifLon107831_1748	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120656	2115907	2117460	+	1554		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	LON1	clust_0958
+LON2|SEQ01782	VBIBifLon171405_1785	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583191	2140722	2142275	+	1554	mglA3	L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	LON2	clust_0958
+LON3|SEQ01164	VBIBifLon156230_1166	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766204	339305	340858	-	1554		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	LON3	clust_0958
+LON4|SEQ01625	VBIBifLon48544_1625	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891613	1869522	1871075	-	1554		L-arabinose transport ATP-binding protein AraG (TC 3.A.1.2.2)	LON4	clust_0958

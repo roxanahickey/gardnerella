@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ01424	27189204	VBIBifAdo136061_1424	SEQ01424	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS		3-hydroxy-3-methylglutaryl CoA synthase	FIG01579956	figfam	clust_2287
+GV10|SEQ00865	32147804	VBIGarVag136958_0865	SEQ00865	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Dimethyladenosine transferase (EC 2.1.1.-)	FIG00000225	figfam	clust_2287
+LON3|SEQ00999	42768989	VBIBifLon156230_1000	SEQ00999	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		3-hydroxy-3-methylglutaryl CoA synthase	FIG01579956	figfam	clust_2287

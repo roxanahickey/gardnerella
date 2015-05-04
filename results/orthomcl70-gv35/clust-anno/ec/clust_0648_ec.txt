@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	ec_number	ec_name	anno_type	ortho_id
+GV10|SEQ00560	32147178	VBIGarVag136958_0560	SEQ00560	Gardnerella vaginalis 409-05	GV10	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	NA	Endonuclease (EC 3.1.-.-)	3.1.-.-	Acting on ester bonds.	ec	clust_0648
+GV12|SEQ01195	37855220	VBIGarVag144721_1195	SEQ01195	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	NA	Endonuclease (EC 3.1.-.-)	3.1.-.-	Acting on ester bonds.	ec	clust_0648
+GV17|SEQ00991	37852070	VBIGarVag146634_0991	SEQ00991	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	NA	Endonuclease (EC 3.1.-.-)	3.1.-.-	Acting on ester bonds.	ec	clust_0648

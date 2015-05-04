@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01698	VBIBifBre340958_1699	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605453	1982632	1983894	+	1263		Polysaccharide deacetylase	BRE1	clust_2134
+BRE2|SEQ01802	VBIBifBre337368_1802	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609637	2083250	2084401	+	1152		Polysaccharide deacetylase	BRE2	clust_2134
+BRE3|SEQ01766	VBIBifBre167886_1766	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195314	2055108	2056370	+	1263		Polysaccharide deacetylase	BRE3	clust_2134
+BRE4|SEQ01738	VBIBifBre327712_1738	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613650	2015704	2016690	+	987		Polysaccharide deacetylase	BRE4	clust_2134
+BRE5|SEQ01859	VBIBifBre336369_1860	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617946	2085994	2087256	+	1263		Polysaccharide deacetylase	BRE5	clust_2134
+BRE6|SEQ00582	VBIBifBre268992_0582	Bifidobacterium breve JCP7499	AWSX01000032	PATRIC	CDS	177654310	2932	4194	-	1263		Polysaccharide deacetylase	BRE6	clust_2134
+BRE7|SEQ01797	VBIBifBre340732_1797	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622125	2066520	2067506	+	987		Polysaccharide deacetylase	BRE7	clust_2134
+BRE8|SEQ01753	VBIBifBre176493_1753	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626149	2039691	2040953	+	1263		Polysaccharide deacetylase	BRE8	clust_2134
+BRE9|SEQ01859	VBIBifBre30019_1859	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447889	2143781	2144932	+	1152		Polysaccharide deacetylase	BRE9	clust_2134

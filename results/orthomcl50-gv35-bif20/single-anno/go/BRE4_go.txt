@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+BRE4|SEQ00311	268610681	VBIBifBre327712_0311	SEQ00311	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	NA	Sucrose phosphorylase (EC 2.4.1.7)	GO:0009018	sucrose phosphorylase activity	go	NA
+BRE4|SEQ00412	268610891	VBIBifBre327712_0412	SEQ00412	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	NA	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	GO:0008879	glucose-1-phosphate thymidylyltransferase activity	go	NA
+BRE4|SEQ01593	268613340	VBIBifBre327712_1593	SEQ01593	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	NA	Beta-glucoside bgl operon antiterminator, BglG family	GO:0003723	RNA binding	go	NA

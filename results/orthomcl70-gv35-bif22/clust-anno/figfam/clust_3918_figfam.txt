@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+ADO1|SEQ00752	27187802	VBIBifAdo136061_0752	SEQ00752	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS		N-acetylmannosamine kinase (EC 2.7.1.60)	FIG00081563	figfam	clust_3918
+DEN1|SEQ00833	43462974	VBIBifDen165269_0834	SEQ00833	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		transcriptional regulator	FIG00629921	figfam	clust_3918
+DEN2|SEQ00347	42109017	VBIBifDen39005_0347	SEQ00347	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS		transcriptional regulator	FIG00629921	figfam	clust_3918

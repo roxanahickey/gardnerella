@@ -1,0 +1,20 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01383	VBIBifAdo136061_1383	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189118	47434	51465	-	4032		Transport ATP-binding protein CydCD	ADO1	clust_1391
+ANI1|SEQ01390	VBIBifAni240121_1390	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847787	1645061	1648642	-	3582	cycCD	Transport ATP-binding protein CydCD	ANI1	clust_1391
+ANI2|SEQ01389	VBIBifAni235968_1389	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851138	1645280	1648861	-	3582	cycCD	Transport ATP-binding protein CydCD	ANI2	clust_1391
+ANI3|SEQ01399	VBIBifAni108068_1399	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765158	1650511	1654092	-	3582		Transport ATP-binding protein CydCD	ANI3	clust_1391
+BRE1|SEQ00358	VBIBifBre340958_0358	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268602664	444323	448384	+	4062		Transport ATP-binding protein CydCD	BRE1	clust_1391
+BRE2|SEQ00418	VBIBifBre337368_0418	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606760	498849	502910	+	4062		Transport ATP-binding protein CydCD	BRE2	clust_1391
+BRE3|SEQ00416	VBIBifBre167886_0416	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192504	511727	515788	+	4062		Transport ATP-binding protein CydCD	BRE3	clust_1391
+BRE4|SEQ00367	VBIBifBre327712_0367	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610800	456435	460496	+	4062		Transport ATP-binding protein CydCD	BRE4	clust_1391
+BRE5|SEQ00393	VBIBifBre336369_0394	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614901	458051	462112	+	4062		Transport ATP-binding protein CydCD	BRE5	clust_1391
+BRE6|SEQ00845	VBIBifBre268992_0845	Bifidobacterium breve JCP7499	AWSX01000046	PATRIC	CDS	177654870	2829	6890	-	4062		Transport ATP-binding protein CydCD	BRE6	clust_1391
+BRE7|SEQ00390	VBIBifBre340732_0390	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619202	478763	482824	+	4062		Transport ATP-binding protein CydCD	BRE7	clust_1391
+BRE8|SEQ00421	VBIBifBre176493_0421	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623378	518886	522947	+	4062		Transport ATP-binding protein CydCD	BRE8	clust_1391
+BRE9|SEQ00458	VBIBifBre30019_0458	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444977	549995	554056	+	4062		Transport ATP-binding protein CydCD	BRE9	clust_1391
+INF1|SEQ00356	VBIBifLon182273_0356	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884648	439399	443460	+	4062		Transport ATP-binding protein CydCD	INF1	clust_1391
+LON1|SEQ00999	VBIBifLon107831_1000	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119075	1178750	1182811	-	4062		Transport ATP-binding protein CydCD	LON1	clust_1391
+LON2|SEQ01056	VBIBifLon171405_1058	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581659	1207646	1211707	-	4062	mdlB1	Transport ATP-binding protein CydCD	LON2	clust_1391
+LON3|SEQ00862	VBIBifLon156230_0863	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768699	1783724	1787785	-	4062		Transport ATP-binding protein CydCD	LON3	clust_1391
+LON4|SEQ00360	VBIBifLon48544_0360	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888958	438399	442250	+	3852		Transport ATP-binding protein CydCD	LON4	clust_1391
+THE1|SEQ00335	VBIBifThe274299_0335	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733844	388493	392260	+	3768		Transport ATP-binding protein CydCD	THE1	clust_1391

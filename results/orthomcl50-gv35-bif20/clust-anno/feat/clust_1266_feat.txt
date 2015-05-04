@@ -1,0 +1,21 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01297	VBIBifAdo136061_1297	Bifidobacterium adolescentis L2-32	NZ_DS264455	PATRIC	CDS	27188939	238432	238908	-	477		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	ADO1	clust_1266
+ANI1|SEQ00981	VBIBifAni240121_0981	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846942	1135570	1136073	-	504		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	ANI1	clust_1266
+ANI2|SEQ00981	VBIBifAni235968_0981	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850295	1135573	1136076	-	504		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	ANI2	clust_1266
+ANI3|SEQ00985	VBIBifAni108068_0985	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764309	1135574	1136077	-	504		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	ANI3	clust_1266
+BIF1|SEQ00727	VBIBifBif87902_0727	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883995	891680	892162	+	483	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BIF1	clust_1266
+BRE1|SEQ00693	VBIBifBre340958_0693	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603354	839540	840055	+	516		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE1	clust_1266
+BRE2|SEQ00789	VBIBifBre337368_0789	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607516	936363	936878	+	516		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE2	clust_1266
+BRE3|SEQ01082	VBIBifBre167886_1082	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193894	1269736	1270251	-	516	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE3	clust_1266
+BRE4|SEQ00728	VBIBifBre327712_0728	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611538	880537	881052	+	516		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE4	clust_1266
+BRE5|SEQ00744	VBIBifBre336369_0745	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615616	877819	878334	+	516		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE5	clust_1266
+BRE6|SEQ00660	VBIBifBre268992_0660	Bifidobacterium breve JCP7499	AWSX01000037	PATRIC	CDS	177654483	26012	26527	-	516		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE6	clust_1266
+BRE7|SEQ00738	VBIBifBre340732_0738	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619916	883639	884154	+	516		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE7	clust_1266
+BRE8|SEQ00760	VBIBifBre176493_0760	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624069	924500	925015	+	516	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE8	clust_1266
+BRE9|SEQ00811	VBIBifBre30019_0811	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445700	972062	972577	+	516	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	BRE9	clust_1266
+INF1|SEQ00658	VBIBifLon182273_0658	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885266	806987	807496	+	510		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	INF1	clust_1266
+LON1|SEQ00698	VBIBifLon107831_0699	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118467	816879	817301	-	423	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	LON1	clust_1266
+LON2|SEQ00765	VBIBifLon171405_0766	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581070	857874	858296	-	423	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	LON2	clust_1266
+LON3|SEQ00570	VBIBifLon156230_0570	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768107	1432492	1432914	-	423		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	LON3	clust_1266
+LON4|SEQ00649	VBIBifLon48544_0649	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889549	785667	786089	+	423		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	LON4	clust_1266
+THE1|SEQ00865	VBIBifThe274299_0865	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734917	1076934	1077512	+	579	ispF	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	THE1	clust_1266

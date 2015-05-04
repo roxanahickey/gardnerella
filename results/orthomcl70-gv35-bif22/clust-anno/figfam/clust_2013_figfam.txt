@@ -1,0 +1,10 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BIF1|SEQ01299	86885178	VBIBifBif87902_1299	SEQ01299	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		widely conserved hypothetical protein with duf51	FIG01793701	figfam	clust_2013
+BRE2|SEQ01533	268609063	VBIBifBre337368_1533	SEQ01533	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		COG1355, Predicted dioxygenase	FIG00212443	figfam	clust_2013
+BRE4|SEQ01458	268613053	VBIBifBre327712_1458	SEQ01458	Bifidobacterium breve JCM 7017	BRE4	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS		COG1355, Predicted dioxygenase	FIG00212443	figfam	clust_2013
+BRE5|SEQ01610	268617412	VBIBifBre336369_1611	SEQ01610	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		COG1355, Predicted dioxygenase	FIG00212443	figfam	clust_2013
+INF1|SEQ01633	46887283	VBIBifLon182273_1633	SEQ01633	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		COG1355, Predicted dioxygenase	FIG00212443	figfam	clust_2013
+LON1|SEQ01779	21120722	VBIBifLon107831_1780	SEQ01779	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		COG1355, Predicted dioxygenase / COG2078: Uncharacterized ACR	FIG01304654	figfam	clust_2013
+LON2|SEQ01816	42583261	VBIBifLon171405_1819	SEQ01816	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		COG1355, Predicted dioxygenase	FIG00212443	figfam	clust_2013
+LON3|SEQ01124	42766122	VBIBifLon156230_1126	SEQ01124	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		COG1355, Predicted dioxygenase / COG2078: Uncharacterized ACR	FIG01304654	figfam	clust_2013
+LON4|SEQ01592	46891544	VBIBifLon48544_1592	SEQ01592	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		COG1355, Predicted dioxygenase	FIG00212443	figfam	clust_2013

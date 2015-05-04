@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ01112	VBIGarVag247323_1112	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496425	115511	117538	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV01	clust_0600
+GV02|SEQ00325	VBIGarVag242669_0325	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497426	131835	133862	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV02	clust_0600
+GV03|SEQ00635	VBIGarVag247424_0635	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500692	206650	208665	+	2016		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV03	clust_0600
+GV04|SEQ00774	VBIGarVag246433_0774	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481447	106457	108484	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV04	clust_0600
+GV05|SEQ00654	VBIGarVag174900_0654	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547067	267706	269721	+	2016		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV05	clust_0600
+GV06|SEQ00315	VBIGarVag244004_0315	Gardnerella vaginalis 1400E	ADER01000008	PATRIC	CDS	85489356	6086	8113	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV06	clust_0600
+GV07|SEQ00751	VBIGarVag249177_0751	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493158	5223	7238	-	2016		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV07	clust_0600
+GV08|SEQ00763	VBIGarVag251521_0763	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475952	118221	120248	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV08	clust_0600
+GV09|SEQ00209	VBIGarVag169280_0209	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259581	28823	30850	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV09	clust_0600
+GV10|SEQ00442	VBIGarVag136958_0442	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146936	534122	536089	+	1968		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV10	clust_0600
+GV11|SEQ00308	VBIGarVag171052_0308	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548917	7251	9278	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV11	clust_0600
+GV12|SEQ01011	VBIGarVag144721_1011	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854757	598015	600039	+	2025		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV12	clust_0600
+GV13|SEQ00416	VBIGarVag244533_0416	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486792	7079	9106	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV13	clust_0600
+GV14|SEQ00450	VBIGarVag244375_0450	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502757	88510	90525	+	2016		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV14	clust_0600
+GV15|SEQ00248	VBIGarVag249709_0248	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85484004	82606	84630	+	2025		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV15	clust_0600
+GV16|SEQ00552	VBIGarVag246379_0552	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478252	601045	603072	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV16	clust_0600
+GV17|SEQ00146	VBIGarVag146634_0146	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850289	84306	86330	-	2025		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV17	clust_0600
+GV18|SEQ00362	VBIGarVag4823_0362	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000091	PATRIC	CDS	42069446	3561	5588	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV18	clust_0600
+GV19|SEQ01060	VBIGarVag39333_1061	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629031	1295938	1297965	-	2028	dppD	Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV19	clust_0600
+GV20|SEQ00447	VBIGarVag188338_0447	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189708	560535	562562	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV20	clust_0600
+GV21|SEQ00077	VBIGarVag274454_0077	Gardnerella vaginalis JCP7275	ATJS01000004	PATRIC	CDS	183966791	2997	5024	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV21	clust_0600
+GV22|SEQ00691	VBIGarVag276801_0692	Gardnerella vaginalis JCP7276	ATJR01000027	PATRIC	CDS	183970829	5524	7551	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV22	clust_0600
+GV23|SEQ00566	VBIGarVag276017_0566	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973491	30396	31559	-	1164		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV23	clust_0600
+GV24|SEQ00142	VBIGarVag268944_0143	Gardnerella vaginalis JCP7672	ATJP01000005	PATRIC	CDS	183975386	3488	5515	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV24	clust_0600
+GV25|SEQ00541	VBIGarVag270495_0541	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183979018	29904	31931	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV25	clust_0600
+GV26|SEQ01199	VBIGarVag272749_1199	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983342	10463	12490	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV26	clust_0600
+GV27|SEQ00234	VBIGarVag276930_0234	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984195	29789	31816	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV27	clust_0600
+GV28|SEQ00061	VBIGarVag271349_0061	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986774	8890	10917	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV28	clust_0600
+GV29|SEQ00497	VBIGarVag265473_0497	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990406	8610	10637	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV29	clust_0600
+GV30|SEQ00330	VBIGarVag267667_0331	Gardnerella vaginalis JCP8108	ATJJ01000012	PATRIC	CDS	183992721	3920	5947	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV30	clust_0600
+GV31|SEQ00045	VBIGarVag264983_0045	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995111	9004	11031	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV31	clust_0600
+GV32|SEQ00705	VBIGarVag277040_0705	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999328	30654	32681	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV32	clust_0600
+GV33|SEQ01025	VBIGarVag265557_1025	Gardnerella vaginalis JCP8481A	ATJG01000124	PATRIC	CDS	184002905	11051	13078	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV33	clust_0600
+GV34|SEQ00888	VBIGarVag270440_0888	Gardnerella vaginalis JCP8481B	ATJF01000095	PATRIC	CDS	184005424	10526	12553	+	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV34	clust_0600
+GV35|SEQ01026	VBIGarVag272169_1026	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008537	28718	30745	-	2028		Dipeptide transport ATP-binding protein DppD (TC 3.A.1.5.2)	GV35	clust_0600

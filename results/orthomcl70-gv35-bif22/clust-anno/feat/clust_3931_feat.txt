@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ADO1|SEQ01040	VBIBifAdo136061_1040	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188396	952361	952846	+	486		Single-stranded DNA-binding protein	ADO1	clust_3931
+DEN1|SEQ01905	VBIBifDen165269_1906	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460975	1189888	1190478	-	591	ssb2	Single-stranded DNA-binding protein	DEN1	clust_3931
+DEN2|SEQ00756	VBIBifDen39005_0756	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS	42109851	10780	11370	+	591		Single-stranded DNA-binding protein	DEN2	clust_3931

@@ -1,0 +1,11 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ01362	VBIBifAni240121_1362	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847731	1608801	1610240	+	1440		hypothetical protein	ANI1	clust_1998
+ANI2|SEQ01362	VBIBifAni235968_1362	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851084	1609019	1610458	+	1440		hypothetical protein	ANI2	clust_1998
+ANI3|SEQ01372	VBIBifAni108068_1372	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765104	1614250	1615689	+	1440		hypothetical protein	ANI3	clust_1998
+BRE1|SEQ01770	VBIBifBre340958_1771	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605598	2063868	2065214	-	1347		hypothetical protein	BRE1	clust_1998
+BRE2|SEQ01873	VBIBifBre337368_1873	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609779	2166616	2167962	-	1347		hypothetical protein	BRE2	clust_1998
+BRE3|SEQ01834	VBIBifBre167886_1834	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195450	2134000	2135346	-	1347		Membrane protein, related to Actinobacillus protein (1944168)	BRE3	clust_1998
+BRE7|SEQ01860	VBIBifBre340732_1860	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622251	2140614	2141960	-	1347		hypothetical protein	BRE7	clust_1998
+BRE8|SEQ01822	VBIBifBre176493_1822	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626288	2118541	2119887	-	1347		Membrane protein, related to Actinobacillus protein (1944168)	BRE8	clust_1998
+BRE9|SEQ01921	VBIBifBre30019_1921	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448013	2216032	2217384	-	1353		hypothetical protein	BRE9	clust_1998
+LON3|SEQ01786	VBIBifLon156230_1789	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766759	659258	660361	-	1104		membrane protein, related to Actinobacillus protein (1944168)	LON3	clust_1998

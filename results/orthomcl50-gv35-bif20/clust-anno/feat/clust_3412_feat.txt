@@ -1,0 +1,4 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+ANI1|SEQ00118	VBIBifAni240121_0118	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845137	138087	138818	-	732		Protein At2g37660, chloroplast precursor	ANI1	clust_3412
+ANI2|SEQ00118	VBIBifAni235968_0118	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848492	138087	138875	-	789		Protein At2g37660, chloroplast precursor	ANI2	clust_3412
+ANI3|SEQ00120	VBIBifAni108068_0120	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762508	138087	138875	-	789		Protein At2g37660, chloroplast precursor	ANI3	clust_3412

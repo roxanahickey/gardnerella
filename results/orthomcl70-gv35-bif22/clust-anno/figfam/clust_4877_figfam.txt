@@ -1,0 +1,3 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+DEN1|SEQ01087	43459301	VBIBifDen165269_1088	SEQ01087	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Ribose operon repressor	FIG00024226	figfam	clust_4877
+DEN2|SEQ02048	42112535	VBIBifDen39005_2050	SEQ02048	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS		Ribose operon repressor	FIG00024226	figfam	clust_4877

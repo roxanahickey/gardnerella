@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE2|SEQ00640	VBIBifBre337368_0640	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607212	768726	769598	-	873		Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	BRE2	clust_3059
+BRE4|SEQ00581	VBIBifBre327712_0581	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611237	715711	716583	-	873		Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	BRE4	clust_3059
+BRE7|SEQ00593	VBIBifBre340732_0593	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619620	718768	719640	-	873		Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	BRE7	clust_3059
+BRE8|SEQ00615	VBIBifBre176493_0615	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623773	760024	760896	-	873		Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	BRE8	clust_3059

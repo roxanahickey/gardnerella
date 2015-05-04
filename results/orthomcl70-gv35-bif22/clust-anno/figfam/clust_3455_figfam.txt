@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE5|SEQ01991	268618212	VBIBifBre336369_1992	SEQ01991	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		Inositol transport system sugar-binding protein	FIG00008311	figfam	clust_3455
+BRE6|SEQ01335	177655903	VBIBifBre268992_1335	SEQ01335	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000064	PATRIC	CDS		Inositol transport system sugar-binding protein	FIG00008311	figfam	clust_3455
+BRE9|SEQ01975	58448124	VBIBifBre30019_1975	SEQ01975	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		Inositol transport system sugar-binding protein	FIG00008311	figfam	clust_3455

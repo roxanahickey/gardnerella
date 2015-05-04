@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+DEN1|SEQ00978	VBIBifDen165269_0979	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459079	119890	121044	-	1155	epsF	exopolysaccharide biosynthesis protein	DEN1	clust_4849
+DEN2|SEQ01487	VBIBifDen39005_1488	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111363	104685	105629	+	945		exopolysaccharide biosynthesis protein	DEN2	clust_4849

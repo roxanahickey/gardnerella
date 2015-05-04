@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ01287	VBIBifBif87902_1287	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885152	1552719	1553024	+	306	rpsN	SSU ribosomal protein S14p (S29e)	BIF1	clust_2437
+BRE3|SEQ01289	VBIBifBre167886_1289	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194316	1497903	1498208	+	306	rpsN_1	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent	BRE3	clust_2437
+BRE6|SEQ00394	VBIBifBre268992_0394	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653913	1766	2071	+	306		SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent	BRE6	clust_2437
+BRE8|SEQ00575	VBIBifBre176493_0575	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623691	716965	717270	-	306		SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent	BRE8	clust_2437
+DEN1|SEQ00937	VBIBifDen165269_0938	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458997	72911	73216	+	306	rpsN	SSU ribosomal protein S14p (S29e)	DEN1	clust_2437
+DEN2|SEQ01530	VBIBifDen39005_1531	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111449	152513	152818	-	306	rpsN	SSU ribosomal protein S14p (S29e)	DEN2	clust_2437
+THE1|SEQ00089	VBIBifThe274299_0089	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733341	107130	107435	-	306		SSU ribosomal protein S14p (S29e)	THE1	clust_2437

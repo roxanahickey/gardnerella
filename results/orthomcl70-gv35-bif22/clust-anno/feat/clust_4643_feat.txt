@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV11|SEQ01160	VBIGarVag171052_1160	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550729	28900	29424	-	525		protein of unknown function DUF955	GV11	clust_4643
+GV30|SEQ00815	VBIGarVag267667_0817	Gardnerella vaginalis JCP8108	ATJJ01000061	PATRIC	CDS	183993785	5387	5911	-	525		Zn peptidase	GV30	clust_4643

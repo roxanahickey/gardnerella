@@ -1,0 +1,4 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
+BRE5|SEQ00202	268614499	VBIBifBre336369_0203	SEQ00202	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_3195
+GV12|SEQ01110	37854969	VBIGarVag144721_1110	SEQ01110	Gardnerella vaginalis 5-1	GV12	Gardnerella vaginalis 5-1	NZ_ADAN01000019	PATRIC	CDS	NA	Transcriptional regulator, LysR family	FIG01304134	figfam	clust_3195
+GV17|SEQ00461	37850955	VBIGarVag146634_0461	SEQ00461	Gardnerella vaginalis AMD	GV17	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	NA	hypothetical protein	FIG00638284	figfam	clust_3195

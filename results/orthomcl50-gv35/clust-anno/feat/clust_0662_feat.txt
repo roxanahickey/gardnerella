@@ -1,0 +1,36 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV01|SEQ00283	VBIGarVag247323_0283	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494689	18176	20716	-	2541		histidine kinase sensor of two-component system	GV01	clust_0662
+GV02|SEQ00668	VBIGarVag242669_0668	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498153	30617	33157	+	2541		histidine kinase sensor of two-component system	GV02	clust_0662
+GV03|SEQ00766	VBIGarVag247424_0766	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500963	54233	56785	-	2553		histidine kinase sensor of two-component system	GV03	clust_0662
+GV04|SEQ01076	VBIGarVag246433_1076	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482073	26643	29171	-	2529		histidine kinase sensor of two-component system	GV04	clust_0662
+GV05|SEQ00819	VBIGarVag174900_0819	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547404	480965	483517	-	2553		histidine kinase sensor of two-component system	GV05	clust_0662
+GV06|SEQ00672	VBIGarVag244004_0672	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490128	30429	32963	+	2535		histidine kinase sensor of two-component system	GV06	clust_0662
+GV07|SEQ00578	VBIGarVag249177_0578	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492805	64080	66611	-	2532		histidine kinase sensor of two-component system	GV07	clust_0662
+GV08|SEQ00147	VBIGarVag251521_0147	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474665	178177	180705	+	2529		histidine kinase sensor of two-component system	GV08	clust_0662
+GV09|SEQ00975	VBIGarVag169280_0975	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261162	397613	400147	+	2535		histidine kinase sensor of two-component system	GV09	clust_0662
+GV10|SEQ00566	VBIGarVag136958_0566	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147190	721736	724285	-	2550		histidine kinase sensor of two-component system	GV10	clust_0662
+GV11|SEQ00670	VBIGarVag171052_0670	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549687	29986	32520	+	2535		histidine kinase sensor of two-component system	GV11	clust_0662
+GV12|SEQ01201	VBIGarVag144721_1201	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855232	65490	67976	-	2487		histidine kinase sensor of two-component system	GV12	clust_0662
+GV13|SEQ00612	VBIGarVag244533_0612	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487197	30440	32968	+	2529		histidine kinase sensor of two-component system	GV13	clust_0662
+GV14|SEQ00283	VBIGarVag244375_0283	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502408	104210	106747	-	2538		histidine kinase sensor of two-component system	GV14	clust_0662
+GV15|SEQ00624	VBIGarVag249709_0624	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484793	62552	65065	-	2514		histidine kinase sensor of two-component system	GV15	clust_0662
+GV16|SEQ00922	VBIGarVag246379_0922	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479011	1047690	1050218	+	2529		histidine kinase sensor of two-component system	GV16	clust_0662
+GV17|SEQ00985	VBIGarVag146634_0985	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852058	123929	125848	+	1920		histidine kinase sensor of two-component system	GV17	clust_0662
+GV18|SEQ00537	VBIGarVag4823_0537	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069824	10950	13217	-	2268		histidine kinase sensor of two-component system	GV18	clust_0662
+GV19|SEQ00695	VBIGarVag39333_0696	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628284	864710	867238	-	2529		histidine kinase sensor of two-component system	GV19	clust_0662
+GV20|SEQ00845	VBIGarVag188338_0845	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190524	1030955	1033498	+	2544		histidine kinase sensor of two-component system	GV20	clust_0662
+GV21|SEQ00298	VBIGarVag274454_0298	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967248	84498	87026	+	2529		histidine kinase sensor of two-component system	GV21	clust_0662
+GV22|SEQ00069	VBIGarVag276801_0069	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969523	86710	89238	-	2529		histidine kinase sensor of two-component system	GV22	clust_0662
+GV23|SEQ00120	VBIGarVag276017_0120	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972537	16565	19105	-	2541		histidine kinase sensor of two-component system	GV23	clust_0662
+GV24|SEQ01003	VBIGarVag268944_1004	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977237	86484	89012	+	2529		histidine kinase sensor of two-component system	GV24	clust_0662
+GV25|SEQ00728	VBIGarVag270495_0728	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979423	29579	32119	-	2541		histidine kinase sensor of two-component system	GV25	clust_0662
+GV26|SEQ00368	VBIGarVag272749_0368	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981514	16582	19122	-	2541		histidine kinase sensor of two-component system	GV26	clust_0662
+GV27|SEQ00114	VBIGarVag276930_0114	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983942	30736	33276	+	2541		histidine kinase sensor of two-component system	GV27	clust_0662
+GV28|SEQ00259	VBIGarVag271349_0259	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987181	25359	27899	-	2541		histidine kinase sensor of two-component system	GV28	clust_0662
+GV29|SEQ00873	VBIGarVag265473_0873	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991235	22887	25421	-	2535		histidine kinase sensor of two-component system	GV29	clust_0662
+GV30|SEQ00272	VBIGarVag267667_0273	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992602	39047	41581	+	2535		histidine kinase sensor of two-component system	GV30	clust_0662
+GV31|SEQ00013	VBIGarVag264983_0013	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995044	15713	18253	-	2541		histidine kinase sensor of two-component system	GV31	clust_0662
+GV32|SEQ00272	VBIGarVag277040_0272	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998392	98996	101536	-	2541		histidine kinase sensor of two-component system	GV32	clust_0662
+GV33|SEQ01211	VBIGarVag265557_1211	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003355	28319	30880	+	2562		histidine kinase sensor of two-component system	GV33	clust_0662
+GV34|SEQ00703	VBIGarVag270440_0703	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005025	1562	4123	-	2562		histidine kinase sensor of two-component system	GV34	clust_0662
+GV35|SEQ00147	VBIGarVag272169_0147	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006573	35922	38462	-	2541		histidine kinase sensor of two-component system	GV35	clust_0662

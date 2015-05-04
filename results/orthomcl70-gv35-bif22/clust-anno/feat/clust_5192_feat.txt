@@ -1,0 +1,3 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ00731	VBIBifBre340958_0731	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603439	882578	882979	+	402		mucin-associated surface protein (MASP)	BRE1	clust_5192
+BRE2|SEQ00827	VBIBifBre337368_0827	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607601	979427	979828	+	402		mucin-associated surface protein (MASP)	BRE2	clust_5192

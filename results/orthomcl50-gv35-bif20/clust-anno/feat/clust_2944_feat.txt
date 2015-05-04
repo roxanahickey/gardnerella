@@ -1,0 +1,5 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01129	VBIBifBre340958_1129	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604264	1318309	1319631	-	1323		ABC-type sugar transport system, periplasmic component	BRE1	clust_2944
+BRE2|SEQ01217	VBIBifBre337368_1217	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608415	1392781	1394103	-	1323		ABC-type sugar transport system, periplasmic component	BRE2	clust_2944
+BRE5|SEQ01281	VBIBifBre336369_1282	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616740	1420776	1422053	-	1278		ABC-type sugar transport system, periplasmic component	BRE5	clust_2944
+BRE7|SEQ01169	VBIBifBre340732_1169	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620821	1342084	1343406	-	1323		ABC-type sugar transport system, periplasmic component	BRE7	clust_2944

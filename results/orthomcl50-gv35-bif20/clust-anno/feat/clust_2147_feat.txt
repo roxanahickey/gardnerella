@@ -1,0 +1,10 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01322	VBIBifBre340958_1323	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604661	1557754	1559076	+	1323		Cytosine deaminase (EC 3.5.4.1)	BRE1	clust_2147
+BRE5|SEQ01486	VBIBifBre336369_1487	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617161	1668854	1670176	+	1323		Cytosine deaminase (EC 3.5.4.1)	BRE5	clust_2147
+BRE7|SEQ01369	VBIBifBre340732_1369	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621231	1585371	1586693	+	1323		Cytosine deaminase (EC 3.5.4.1)	BRE7	clust_2147
+BRE9|SEQ01452	VBIBifBre30019_1452	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447036	1688517	1689839	+	1323	codA	Cytosine deaminase (EC 3.5.4.1)	BRE9	clust_2147
+INF1|SEQ01522	VBIBifLon182273_1522	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887058	1732870	1734189	+	1320		Cytosine deaminase (EC 3.5.4.1)	INF1	clust_2147
+LON1|SEQ00011	VBIBifLon107831_0011	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117049	11836	13155	-	1320	codA	Cytosine deaminase (EC 3.5.4.1)	LON1	clust_2147
+LON2|SEQ00053	VBIBifLon171405_0054	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579599	55495	56817	-	1323		Cytosine deaminase (EC 3.5.4.1)	LON2	clust_2147
+LON3|SEQ01021	VBIBifLon156230_1022	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765913	171467	172786	+	1320		Cytosine deaminase (EC 3.5.4.1)	LON3	clust_2147
+LON4|SEQ01494	VBIBifLon48544_1494	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891344	1709125	1710444	+	1320		Cytosine deaminase (EC 3.5.4.1)	LON4	clust_2147

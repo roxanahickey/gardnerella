@@ -1,0 +1,8 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BIF1|SEQ00945	VBIBifBif87902_0945	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884452	1153363	1154733	-	1371	mepA	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BIF1	clust_2398
+BRE1|SEQ00785	VBIBifBre340958_0785	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603554	945733	947115	+	1383		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BRE1	clust_2398
+BRE3|SEQ01004	VBIBifBre167886_1004	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193720	1176145	1177527	-	1383		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BRE3	clust_2398
+BRE4|SEQ00813	VBIBifBre327712_0813	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611725	984189	985571	+	1383		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BRE4	clust_2398
+BRE7|SEQ00815	VBIBifBre340732_0815	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620087	976653	977612	+	960		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BRE7	clust_2398
+BRE8|SEQ00840	VBIBifBre176493_0840	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624245	1019342	1020724	+	1383		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BRE8	clust_2398
+BRE9|SEQ00887	VBIBifBre30019_0887	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445868	1064740	1066122	+	1383		Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps	BRE9	clust_2398

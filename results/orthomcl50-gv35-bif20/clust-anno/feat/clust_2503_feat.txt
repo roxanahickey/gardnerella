@@ -1,0 +1,7 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+BRE1|SEQ01772	VBIBifBre340958_1773	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605602	2067685	2071785	-	4101		Glycosyl transferase, group 2 family protein	BRE1	clust_2503
+BRE2|SEQ01875	VBIBifBre337368_1875	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609783	2170433	2174533	-	4101		Glycosyl transferase, group 2 family protein	BRE2	clust_2503
+BRE3|SEQ01836	VBIBifBre167886_1836	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195454	2137817	2141917	-	4101		Glycosyl transferase, group 2 family protein	BRE3	clust_2503
+BRE7|SEQ01862	VBIBifBre340732_1862	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622255	2144431	2148531	-	4101		Glycosyl transferase, group 2 family protein	BRE7	clust_2503
+BRE8|SEQ01824	VBIBifBre176493_1824	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626292	2122358	2126458	-	4101		Glycosyl transferase, group 2 family protein	BRE8	clust_2503
+THE1|SEQ00390	VBIBifThe274299_0390	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733955	466357	468810	+	2454		Glycosyl transferase, group 2 family protein	THE1	clust_2503

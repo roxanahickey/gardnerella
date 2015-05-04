@@ -1,0 +1,14 @@
+cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
+GV02|SEQ00361	VBIGarVag242669_0361	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497500	169790	170230	+	441		nucleotidyltransferase family protein	GV02	clust_1201
+GV06|SEQ00789	VBIGarVag244004_0789	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490372	134711	135142	-	432		nucleotidyltransferase family protein	GV06	clust_1201
+GV13|SEQ00817	VBIGarVag244533_0817	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487630	294282	294704	+	423		nucleotidyltransferase family protein	GV13	clust_1201
+GV23|SEQ01213	VBIGarVag276017_1213	Gardnerella vaginalis JCP7659	ATJQ01000192	PATRIC	CDS	183974987	142	582	+	441		nucleotidyltransferase family protein	GV23	clust_1201
+GV25|SEQ01232	VBIGarVag270495_1232	Gardnerella vaginalis JCP7719	ATJO01000172	PATRIC	CDS	183980568	549	980	+	432		nucleotidyltransferase family protein	GV25	clust_1201
+GV26|SEQ01172	VBIGarVag272749_1172	Gardnerella vaginalis JCP8017A	ATJN01000120	PATRIC	CDS	183983274	723	851	-	129		hypothetical protein	GV26	clust_1201
+GV27|SEQ01181	VBIGarVag276930_1181	Gardnerella vaginalis JCP8017B	ATJM01000129	PATRIC	CDS	183986258	511	639	+	129		hypothetical protein	GV27	clust_1201
+GV28|SEQ00954	VBIGarVag271349_0954	Gardnerella vaginalis JCP8066	ATJL01000094	PATRIC	CDS	183988706	722	1153	-	432		nucleotidyltransferase family protein	GV28	clust_1201
+GV29|SEQ01018	VBIGarVag265473_1018	Gardnerella vaginalis JCP8070	ATJK01000097	PATRIC	CDS	183991555	801	1241	-	441		nucleotidyltransferase family protein	GV29	clust_1201
+GV30|SEQ00632	VBIGarVag267667_0633	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	183993387	1311	1733	-	423		nucleotidyltransferase family protein	GV30	clust_1201
+GV31|SEQ01157	VBIGarVag264983_1157	Gardnerella vaginalis JCP8151A	ATJI01000135	PATRIC	CDS	183997549	795	1226	-	432		nucleotidyltransferase family protein	GV31	clust_1201
+GV32|SEQ01008	VBIGarVag277040_1008	Gardnerella vaginalis JCP8151B	ATJH01000128	PATRIC	CDS	184000043	661	1092	+	432		nucleotidyltransferase family protein	GV32	clust_1201
+GV35|SEQ00864	VBIGarVag272169_0864	Gardnerella vaginalis JCP8522	ATJE01000085	PATRIC	CDS	184008145	8547	8978	+	432		nucleotidyltransferase family protein	GV35	clust_1201
