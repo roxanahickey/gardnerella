@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ01835	VBIBifBre340958_1837	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605737	2160776	2162446	-	1671		Alpha-glucosidase (EC 3.2.1.20)	BRE1	clust_2214
-BRE5|SEQ02013	VBIBifBre336369_2014	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268618262	2284560	2286230	-	1671		Alpha-glucosidase (EC 3.2.1.20)	BRE5	clust_2214
-BRE9|SEQ02001	VBIBifBre30019_2001	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448182	2327243	2328913	-	1671		Alpha-glucosidase (EC 3.2.1.20)	BRE9	clust_2214
-DEN1|SEQ00750	VBIBifDen165269_0751	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462806	2239739	2241469	+	1731	treC	Alpha-glucosidase (EC 3.2.1.20)	DEN1	clust_2214
-DEN2|SEQ00004	VBIBifDen39005_0004	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS	42108289	4546	6276	-	1731		Alpha-glucosidase (EC 3.2.1.20)	DEN2	clust_2214
-LON2|SEQ01475	VBIBifLon171405_1478	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582537	1722331	1724001	+	1671		Alpha-glucosidase (EC 3.2.1.20)	LON2	clust_2214
-LON3|SEQ01559	VBIBifLon156230_1562	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769739	2376802	2378472	+	1671		Alpha-glucosidase (EC 3.2.1.20)	LON3	clust_2214
-LON4|SEQ01939	VBIBifLon48544_1940	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892295	2302506	2304176	-	1671		Alpha-glucosidase (EC 3.2.1.20)	LON4	clust_2214

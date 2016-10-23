@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-INF1|SEQ00113	VBIBifLon182273_0113	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884133	139656	140372	+	717		ABC-type sugar transport system, permease component	INF1	clust_2768
-LON1|SEQ01262	VBIBifLon107831_1263	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119629	1487523	1488239	-	717		ABC-type sugar transport system, permease component	LON1	clust_2768
-LON2|SEQ01289	VBIBifLon171405_1292	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582153	1493916	1494632	-	717		ABC-type sugar transport system, permease component	LON2	clust_2768
-LON3|SEQ01366	VBIBifLon156230_1369	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769341	2123634	2124350	-	717		ABC-type sugar transport system, permease component	LON3	clust_2768
-LON4|SEQ00122	VBIBifLon48544_0122	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888452	155006	155722	+	717		ABC-type sugar transport system, permease component	LON4	clust_2768

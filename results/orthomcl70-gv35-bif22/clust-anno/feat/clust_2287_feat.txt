@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ01274	VBIBifBif87902_1274	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885126	1536186	1536314	+	129	fhuR	hypothetical protein	BIF1	clust_2287
-DEN1|SEQ01962	VBIBifDen165269_1963	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461091	1245046	1245987	-	942		probable LysR-type transcriptional regulator	DEN1	clust_2287
-DEN2|SEQ00866	VBIBifDen39005_0866	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110082	38073	39014	+	942		probable LysR-type transcriptional regulator	DEN2	clust_2287
-INF1|SEQ00533	VBIBifLon182273_0533	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885008	670676	671641	-	966		probable LysR-type transcriptional regulator	INF1	clust_2287
-LON1|SEQ00820	VBIBifLon107831_0821	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118715	951247	952212	+	966		probable LysR-type transcriptional regulator	LON1	clust_2287
-LON2|SEQ00887	VBIBifLon171405_0888	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581318	989949	990914	+	966	fhuR2	probable LysR-type transcriptional regulator	LON2	clust_2287
-LON3|SEQ00692	VBIBifLon156230_0692	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42768355	1566333	1567298	+	966		probable LysR-type transcriptional regulator	LON3	clust_2287
-LON4|SEQ00519	VBIBifLon48544_0519	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889281	646078	647043	-	966		probable LysR-type transcriptional regulator	LON4	clust_2287

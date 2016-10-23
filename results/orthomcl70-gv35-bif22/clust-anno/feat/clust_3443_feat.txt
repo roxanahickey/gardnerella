@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00990	VBIBifAdo136061_0990	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188294	905261	905905	+	645		Transcriptional regulator, AraC family	ADO1	clust_3443
-DEN1|SEQ01956	VBIBifDen165269_1957	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461079	1240775	1241521	-	747		Transcriptional regulator, AraC family	DEN1	clust_3443
-DEN2|SEQ00872	VBIBifDen39005_0872	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110095	42796	43284	+	489		Transcriptional regulator, AraC family	DEN2	clust_3443

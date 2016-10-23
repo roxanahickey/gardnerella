@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01937	VBIBifAdo136061_1937	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190247	477400	478026	+	627		possible TetR-type transcriptional regulator	ADO1	clust_3967
-DEN1|SEQ01092	VBIBifDen165269_1093	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459311	273140	273766	-	627		possible TetR-type transcriptional regulator	DEN1	clust_3967
-DEN2|SEQ02053	VBIBifDen39005_2055	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112545	45041	45667	-	627		possible TetR-type transcriptional regulator	DEN2	clust_3967

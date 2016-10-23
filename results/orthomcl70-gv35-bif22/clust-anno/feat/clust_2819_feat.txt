@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-INF1|SEQ01495	VBIBifLon182273_1495	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887003	1700330	1701400	-	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	INF1	clust_2819
-LON1|SEQ00037	VBIBifLon107831_0037	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117101	44619	45689	+	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON1	clust_2819
-LON2|SEQ00080	VBIBifLon171405_0081	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579654	88286	89356	+	1071	araH1	Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON2	clust_2819
-LON3|SEQ00117	VBIBifLon156230_0117	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765861	138944	140014	-	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON3	clust_2819
-LON4|SEQ01467	VBIBifLon48544_1467	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891290	1672233	1673303	-	1071		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)	LON4	clust_2819

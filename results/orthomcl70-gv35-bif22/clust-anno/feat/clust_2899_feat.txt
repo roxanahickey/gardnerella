@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01975	VBIBifAdo136061_1975	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190333	533182	535593	-	2412		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	ADO1	clust_2899
-DEN1|SEQ00880	VBIBifDen165269_0881	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463068	2419432	2421753	+	2322		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	DEN1	clust_2899
-DEN2|SEQ00298	VBIBifDen39005_0298	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108919	9979	12300	-	2322		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	DEN2	clust_2899
-LON1|SEQ01478	VBIBifLon107831_1479	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120086	1789709	1792174	+	2466		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON1	clust_2899
-LON3|SEQ01830	VBIBifLon156230_1833	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766850	710711	713176	-	2466		Alpha-N-arabinofuranosidase (EC 3.2.1.55)	LON3	clust_2899

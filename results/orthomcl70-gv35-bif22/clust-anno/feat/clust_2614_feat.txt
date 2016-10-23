@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE3|SEQ01288	VBIBifBre167886_1288	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194314	1497514	1497684	+	171	rpmG_1	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent	BRE3	clust_2614
-BRE6|SEQ00393	VBIBifBre268992_0393	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653911	1377	1547	+	171		LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent	BRE6	clust_2614
-BRE8|SEQ00576	VBIBifBre176493_0576	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623693	717489	717659	-	171		LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent	BRE8	clust_2614
-DEN1|SEQ00936	VBIBifDen165269_0937	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458995	72742	72909	+	168	rpmG	LSU ribosomal protein L33p	DEN1	clust_2614
-DEN2|SEQ01531	VBIBifDen39005_1532	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111451	152820	152987	-	168	rpmG	LSU ribosomal protein L33p	DEN2	clust_2614
-THE1|SEQ00090	VBIBifThe274299_0090	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733343	107437	107604	-	168	rpmG1	LSU ribosomal protein L33p	THE1	clust_2614

@@ -1,9 +1,0 @@
-cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
-ADO1|SEQ01982	27190347	VBIBifAdo136061_1982	SEQ01982	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1666
-ANI1|SEQ01040	86847062	VBIBifAni240121_1040	SEQ01040	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		lipase	FIG00744597	figfam	clust_1666
-ANI2|SEQ01040	86850415	VBIBifAni235968_1040	SEQ01040	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		lipase	FIG00744597	figfam	clust_1666
-ANI3|SEQ01044	42764429	VBIBifAni108068_1044	SEQ01044	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		lipase	FIG00744597	figfam	clust_1666
-DEN1|SEQ00857	43463022	VBIBifDen165269_0858	SEQ00857	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1666
-DEN1|SEQ01404	43459938	VBIBifDen165269_1405	SEQ01404	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Esterase/lipase	FIG00932446	figfam	clust_1666
-DEN2|SEQ00239	42108797	VBIBifDen39005_0239	SEQ00239	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS		Esterase/lipase	FIG00932446	figfam	clust_1666
-DEN2|SEQ00322	42108967	VBIBifDen39005_0322	SEQ00322	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_1666

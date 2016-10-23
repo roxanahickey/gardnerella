@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ00643	VBIBifBre340958_0643	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603251	784822	786627	+	1806		TPR-repeat-containing protein	BRE1	clust_2243
-BRE2|SEQ00740	VBIBifBre337368_0740	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607415	881622	883469	+	1848		TPR-repeat-containing protein	BRE2	clust_2243
-BRE3|SEQ01131	VBIBifBre167886_1131	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193995	1323208	1325055	-	1848		TPR-repeat-containing protein	BRE3	clust_2243
-BRE4|SEQ00678	VBIBifBre327712_0678	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611435	825854	827623	+	1770		TPR-repeat-containing protein	BRE4	clust_2243
-BRE5|SEQ00690	VBIBifBre336369_0691	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615505	820597	822444	+	1848		TPR-repeat-containing protein	BRE5	clust_2243
-BRE7|SEQ00689	VBIBifBre340732_0689	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619815	828863	830710	+	1848		TPR-repeat-containing protein	BRE7	clust_2243
-BRE8|SEQ00711	VBIBifBre176493_0711	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623967	869776	871608	+	1833		TPR-repeat-containing protein	BRE8	clust_2243
-BRE9|SEQ00761	VBIBifBre30019_0761	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445596	917337	919169	+	1833		TPR-repeat-containing protein	BRE9	clust_2243

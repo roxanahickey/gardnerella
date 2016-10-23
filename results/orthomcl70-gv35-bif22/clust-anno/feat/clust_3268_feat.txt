@@ -1,5 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00417	VBIBifAdo136061_0417	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187097	246953	248143	-	1191		Na(+)/H(+) antiporter	ADO1	clust_3268
-DEN1|SEQ00511	VBIBifDen165269_0512	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462314	1924962	1926161	+	1200	napA	Na(+)/H(+) antiporter	DEN1	clust_3268
-DEN2|SEQ01348	VBIBifDen39005_1349	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42111081	78660	79859	+	1200	napA	Na(+)/H(+) antiporter	DEN2	clust_3268
-THE1|SEQ00196	VBIBifThe274299_0196	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733557	231941	233170	-	1230		Na(+)/H(+) antiporter	THE1	clust_3268

@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE2|SEQ01189	VBIBifBre337368_1189	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608359	1359405	1360010	-	606		hypothetical protein	BRE2	clust_3349
-BRE8|SEQ01168	VBIBifBre176493_1168	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624929	1358185	1358790	-	606		hypothetical protein	BRE8	clust_3349
-INF1|SEQ01339	VBIBifLon182273_1339	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886682	1514751	1515356	-	606		ATP synthase A chain (EC 3.6.3.14)	INF1	clust_3349

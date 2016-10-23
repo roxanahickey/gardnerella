@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00212	VBIBifAdo136061_0212	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27186660	5738	6619	-	882		DNA adenine methyltransferase, phage-associated	ADO1	clust_3905
-DEN1|SEQ01902	VBIBifDen165269_1903	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460969	1187433	1188317	-	885		DNA adenine methyltransferase, phage-associated	DEN1	clust_3905
-DEN2|SEQ00759	VBIBifDen39005_0759	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS	42109857	12941	13825	+	885		DNA adenine methyltransferase, phage-associated	DEN2	clust_3905

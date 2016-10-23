@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-INF1|SEQ00226	VBIBifLon182273_0226	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884371	290160	292229	+	2070		Transcription termination factor Rho	INF1	clust_2774
-LON1|SEQ01140	VBIBifLon107831_1141	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119373	1329405	1331474	-	2070	rho	Transcription termination factor Rho	LON1	clust_2774
-LON2|SEQ01172	VBIBifLon171405_1174	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581907	1340920	1342989	-	2070		Transcription termination factor Rho	LON2	clust_2774
-LON3|SEQ01253	VBIBifLon156230_1255	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769103	1973722	1975791	-	2070		Transcription termination factor Rho	LON3	clust_2774
-LON4|SEQ00244	VBIBifLon48544_0244	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888710	307477	309546	+	2070		Transcription termination factor Rho	LON4	clust_2774

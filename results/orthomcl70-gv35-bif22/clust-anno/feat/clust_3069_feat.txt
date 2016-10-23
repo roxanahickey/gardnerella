@@ -1,5 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE2|SEQ01183	VBIBifBre337368_1183	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608347	1354666	1355943	-	1278		putative transposon integrase; Tn916 ORF3-like	BRE2	clust_3069
-BRE3|SEQ00143	VBIBifBre167886_0143	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191931	190301	191548	+	1248		putative transposon integrase; Tn916 ORF3-like	BRE3	clust_3069
-BRE4|SEQ01079	VBIBifBre327712_1079	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612275	1253997	1255190	+	1194		Mobile element protein	BRE4	clust_3069
-GV09|SEQ00200	VBIGarVag169280_0200	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259563	16103	17320	-	1218		Mobile element protein	GV09	clust_3069

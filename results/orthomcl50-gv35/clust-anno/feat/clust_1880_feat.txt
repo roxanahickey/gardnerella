@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV05|SEQ00897	VBIGarVag174900_0897	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547562	587689	588390	-	702		unknown protein	GV05	clust_1880
-GV10|SEQ00656	VBIGarVag136958_0656	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147372	844709	845467	+	759		unknown protein	GV10	clust_1880
-GV12|SEQ00093	VBIGarVag144721_0093	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852837	15287	16051	+	765		Cytochrome c oxidase polypeptide II (EC 1.9.3.1)	GV12	clust_1880

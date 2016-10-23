@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV05|SEQ01019	VBIGarVag174900_1019	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547819	742339	742587	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GV05	clust_1521
-GV07|SEQ00311	VBIGarVag249177_0311	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492239	120844	121092	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GV07	clust_1521
-GV10|SEQ00793	VBIGarVag136958_0793	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147658	1034440	1034688	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GV10	clust_1521
-GV14|SEQ01076	VBIGarVag244375_1076	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504063	155299	155547	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GV14	clust_1521
-GV33|SEQ00927	VBIGarVag265557_0927	Gardnerella vaginalis JCP8481A	ATJG01000104	PATRIC	CDS	184002686	1670	1918	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GV33	clust_1521
-GV34|SEQ01087	VBIGarVag270440_1087	Gardnerella vaginalis JCP8481B	ATJF01000120	PATRIC	CDS	184005868	1650	1898	+	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GV34	clust_1521

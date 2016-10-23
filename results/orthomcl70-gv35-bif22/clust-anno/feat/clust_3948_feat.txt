@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01537	VBIBifAdo136061_1537	Bifidobacterium adolescentis L2-32	NZ_DS264458	PATRIC	CDS	27189435	204618	206279	+	1662		Sialic acid-specific 9-O-acetylesterase	ADO1	clust_3948
-DEN1|SEQ02068	VBIBifDen165269_2070	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463115	13133	14749	-	1617		putative sialic acid-specific acetylesterase	DEN1	clust_3948
-DEN2|SEQ01237	VBIBifDen39005_1238	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110853	13155	14771	-	1617		putative sialic acid-specific acetylesterase	DEN2	clust_3948

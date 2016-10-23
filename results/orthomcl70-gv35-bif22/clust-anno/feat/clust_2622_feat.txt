@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01668	VBIBifAdo136061_1668	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189707	148972	149370	+	399		hypothetical protein	ADO1	clust_2622
-BRE8|SEQ01116	VBIBifBre176493_1116	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624819	1304158	1304547	+	390		DNA-directed RNA polymerase, subunit K/omega	BRE8	clust_2622
-DEN1|SEQ02211	VBIBifDen165269_2213	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463411	100840	101253	-	414		hypothetical protein	DEN1	clust_2622
-DEN2|SEQ00924	VBIBifDen39005_0924	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110201	14711	15124	+	414		hypothetical protein	DEN2	clust_2622
-LON1|SEQ00334	VBIBifLon107831_0334	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117709	398186	398629	+	444		DNA-directed RNA polymerase, subunit K/omega	LON1	clust_2622
-LON3|SEQ00198	VBIBifLon156230_0198	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767329	1016358	1016801	+	444		DNA-directed RNA polymerase, subunit K/omega	LON3	clust_2622

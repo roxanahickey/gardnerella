@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE3|SEQ00775	VBIBifBre167886_0775	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193244	933992	934144	-	153		Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	BRE3	clust_3979
-BRE5|SEQ01148	VBIBifBre336369_1149	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616467	1289327	1289479	+	153		Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	BRE5	clust_3979
-BRE9|SEQ01142	VBIBifBre30019_1142	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446400	1332450	1332602	+	153		Macrolide export ATP-binding/permease protein MacB (EC 3.6.3.-)	BRE9	clust_3979

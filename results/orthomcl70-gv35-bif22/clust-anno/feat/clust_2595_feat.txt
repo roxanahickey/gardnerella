@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ00816	VBIBifDen165269_0817	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462940	2332774	2333910	+	1137		extracellular solute-binding protein, family 1	DEN1	clust_2595
-DEN2|SEQ00364	VBIBifDen39005_0364	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109051	97825	98961	-	1137		extracellular solute-binding protein, family 1	DEN2	clust_2595
-INF1|SEQ01470	VBIBifLon182273_1470	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886953	1667810	1668109	-	300		extracellular solute-binding protein, family 1	INF1	clust_2595
-LON2|SEQ00106	VBIBifLon171405_0107	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579706	120135	120434	+	300		extracellular solute-binding protein, family 1	LON2	clust_2595
-LON3|SEQ00090	VBIBifLon156230_0090	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765806	106477	106776	-	300		extracellular solute-binding protein, family 1	LON3	clust_2595
-LON4|SEQ01442	VBIBifLon48544_1442	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891240	1641104	1641403	-	300		extracellular solute-binding protein, family 1	LON4	clust_2595

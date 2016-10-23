@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01935	VBIBifAdo136061_1935	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190243	474213	475559	-	1347		O-Glycosyl hydrolase family 30	ADO1	clust_2234
-ANI1|SEQ00046	VBIBifAni240121_0046	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844989	53717	55240	+	1524		lysosomal glucosyl ceramidase-like protein	ANI1	clust_2234
-ANI2|SEQ00046	VBIBifAni235968_0046	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848344	53717	55240	+	1524		lysosomal glucosyl ceramidase-like protein	ANI2	clust_2234
-ANI3|SEQ00048	VBIBifAni108068_0048	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762360	53717	55240	+	1524		lysosomal glucosyl ceramidase-like protein	ANI3	clust_2234
-DEN1|SEQ01094	VBIBifDen165269_1095	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459315	275689	277035	+	1347		O-Glycosyl hydrolase family 30	DEN1	clust_2234
-DEN2|SEQ02055	VBIBifDen39005_2057	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112549	47578	48924	+	1347		O-Glycosyl hydrolase family 30	DEN2	clust_2234
-LON2|SEQ01851	VBIBifLon171405_1854	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42583333	2220843	2221163	+	321		O-Glycosyl hydrolase family 30	LON2	clust_2234
-LON4|SEQ01559	VBIBifLon48544_1559	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891476	1790871	1791191	-	321		O-Glycosyl hydrolase family 30	LON4	clust_2234

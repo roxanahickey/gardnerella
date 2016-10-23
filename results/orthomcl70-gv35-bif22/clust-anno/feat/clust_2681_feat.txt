@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ00805	VBIBifDen165269_0806	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462916	2317688	2317861	+	174	dpnB	type II restriction-modification system restriction subunit( EC:3.1.21.4 )	DEN1	clust_2681
-DEN2|SEQ01067	VBIBifDen39005_1067	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110489	68676	68849	+	174		type II restriction-modification system restriction subunit( EC:3.1.21.4 )	DEN2	clust_2681
-GV01|SEQ00712	VBIGarVag247323_0712	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495585	151314	152192	+	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV01	clust_2681
-GV29|SEQ00524	VBIGarVag265473_0524	Gardnerella vaginalis JCP8070	ATJK01000025	PATRIC	CDS	183990461	2947	3825	+	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV29	clust_2681
-GV32|SEQ00186	VBIGarVag277040_0186	Gardnerella vaginalis JCP8151B	ATJH01000013	PATRIC	CDS	183998217	2177	3055	-	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV32	clust_2681
-GV35|SEQ00003	VBIGarVag272169_0003	Gardnerella vaginalis JCP8522	ATJE01000001	PATRIC	CDS	184006275	2170	3048	-	879		Type II restriction enzyme DpnII (EC 3.1.21.4) (Endonuclease DpnII) (R.DpnII)	GV35	clust_2681

@@ -1,5 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00921	VBIBifAdo136061_0921	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188152	825350	826900	+	1551		/ Glutamine transport system permease protein GlnP (TC 3.A.1.3.2)	ADO1	clust_3110
-DEN1|SEQ02014	VBIBifDen165269_2015	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461199	1300302	1301846	-	1545	glnPH	/ Glutamine transport system permease protein GlnP (TC 3.A.1.3.2)	DEN1	clust_3110
-DEN2|SEQ01129	VBIBifDen39005_1129	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000021	PATRIC	CDS	42110625	16086	17630	-	1545		/ Glutamine transport system permease protein GlnP (TC 3.A.1.3.2)	DEN2	clust_3110
-THE1|SEQ00187	VBIBifThe274299_0187	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733539	221356	222018	-	663		Amino acid ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine	THE1	clust_3110

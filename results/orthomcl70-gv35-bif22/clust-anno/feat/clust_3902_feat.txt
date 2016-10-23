@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00103	VBIBifAdo136061_0103	Bifidobacterium adolescentis L2-32	NZ_DS264436	PATRIC	CDS	27186422	3184	4632	+	1449		Glutamate decarboxylase (EC 4.1.1.15)	ADO1	clust_3902
-DEN1|SEQ01052	VBIBifDen165269_1053	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459227	222303	223733	-	1431	gadB	Glutamate decarboxylase (EC 4.1.1.15)	DEN1	clust_3902
-DEN2|SEQ01411	VBIBifDen39005_1412	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111211	1992	3422	+	1431		Glutamate decarboxylase (EC 4.1.1.15)	DEN2	clust_3902

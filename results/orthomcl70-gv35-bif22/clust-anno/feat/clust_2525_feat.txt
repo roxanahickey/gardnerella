@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE2|SEQ00296	VBIBifBre337368_0296	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606504	374364	375248	-	885		hypothetical protein	BRE2	clust_2525
-BRE6|SEQ00576	VBIBifBre268992_0576	Bifidobacterium breve JCP7499	AWSX01000030	PATRIC	CDS	177654296	19856	20740	+	885		hypothetical protein	BRE6	clust_2525
-DEN1|SEQ01836	VBIBifDen165269_1837	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460831	1144477	1145376	-	900		hypothetical protein	DEN1	clust_2525
-DEN2|SEQ00824	VBIBifDen39005_0824	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS	42109993	55874	56773	+	900		hypothetical protein	DEN2	clust_2525
-INF1|SEQ00830	VBIBifLon182273_0830	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885631	1007192	1007875	-	684		hypothetical protein	INF1	clust_2525
-LON1|SEQ01123	VBIBifLon107831_1124	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119339	1310902	1311780	+	879		hypothetical protein	LON1	clust_2525

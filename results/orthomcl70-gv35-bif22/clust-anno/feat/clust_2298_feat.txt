@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ00883	VBIBifBif87902_0883	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884315	1086587	1086793	+	207	tam	Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	BIF1	clust_2298
-INF1|SEQ01465	VBIBifLon182273_1465	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886943	1663186	1663962	-	777		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	INF1	clust_2298
-LON1|SEQ00065	VBIBifLon107831_0065	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117157	79092	79265	+	174		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	LON1	clust_2298
-LON2|SEQ00111	VBIBifLon171405_0112	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579717	124357	124764	+	408		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	LON2	clust_2298
-LON2|SEQ00112	VBIBifLon171405_0113	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579719	124749	125132	+	384		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	LON2	clust_2298
-LON3|SEQ00085	VBIBifLon156230_0085	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765796	101854	102237	-	384		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	LON3	clust_2298
-LON3|SEQ00086	VBIBifLon156230_0086	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765798	102222	102629	-	408		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	LON3	clust_2298
-LON4|SEQ01437	VBIBifLon48544_1437	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891230	1636480	1637256	-	777		Trans-aconitate 2-methyltransferase (EC 2.1.1.144)	LON4	clust_2298

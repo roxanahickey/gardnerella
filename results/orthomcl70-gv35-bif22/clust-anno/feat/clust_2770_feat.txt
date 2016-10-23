@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-INF1|SEQ00121	VBIBifLon182273_0121	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884149	150055	151176	+	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	INF1	clust_2770
-LON1|SEQ01253	VBIBifLon107831_1254	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21119611	1476719	1477840	-	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON1	clust_2770
-LON2|SEQ01281	VBIBifLon171405_1283	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582137	1483112	1484233	-	1122	paaK	Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON2	clust_2770
-LON3|SEQ01358	VBIBifLon156230_1360	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42769325	2112970	2114091	-	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON3	clust_2770
-LON4|SEQ00131	VBIBifLon48544_0131	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46888470	165264	166385	+	1122		Long-chain-fatty-acid--luciferin-component ligase (EC 6.2.1.19)	LON4	clust_2770

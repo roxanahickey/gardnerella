@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ01503	VBIBifAni240121_1503	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848027	1794848	1797031	-	2184		hypothetical protein	ANI1	clust_2182
-ANI1|SEQ01504	VBIBifAni240121_1504	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86848029	1797094	1799250	-	2157		hypothetical protein	ANI1	clust_2182
-ANI2|SEQ01501	VBIBifAni235968_1501	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851376	1795068	1797251	-	2184		hypothetical protein	ANI2	clust_2182
-ANI2|SEQ01502	VBIBifAni235968_1502	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851378	1797314	1799470	-	2157		hypothetical protein	ANI2	clust_2182
-ANI3|SEQ01512	VBIBifAni108068_1512	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765398	1800299	1802530	-	2232		hypothetical protein	ANI3	clust_2182
-ANI3|SEQ01513	VBIBifAni108068_1513	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765400	1802545	1804701	-	2157		hypothetical protein	ANI3	clust_2182
-GV10|SEQ01043	VBIGarVag136958_1043	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148174	1389369	1391678	-	2310		hypothetical protein	GV10	clust_2182
-GV12|SEQ00450	VBIGarVag144721_0450	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853579	498234	500543	-	2310		hypothetical protein	GV12	clust_2182

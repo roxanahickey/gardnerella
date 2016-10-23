@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ00163	VBIBifAni240121_0163	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845228	191613	192035	-	423		putative ABC transporter ATP-binding protein	ANI1	clust_3539
-ANI2|SEQ00163	VBIBifAni235968_0163	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848583	191614	192036	-	423		putative ABC transporter ATP-binding protein	ANI2	clust_3539
-ANI3|SEQ00165	VBIBifAni108068_0165	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762598	191614	192036	-	423		putative ABC transporter ATP-binding protein	ANI3	clust_3539

@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ00058	VBIBifBif87902_0058	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86882614	71500	72972	+	1473		FIG00672215: hypothetical protein	BIF1	clust_2691
-GV10|SEQ01039	VBIGarVag136958_1039	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148166	1384114	1385853	-	1740		hypothetical protein	GV10	clust_2691
-GV12|SEQ00446	VBIGarVag144721_0446	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853571	492979	494718	-	1740		hypothetical protein	GV12	clust_2691
-GV33|SEQ01243	VBIGarVag265557_1243	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003432	1820	3532	-	1713		hypothetical protein	GV33	clust_2691
-GV34|SEQ00097	VBIGarVag270440_0097	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003687	1850	3562	-	1713		hypothetical protein	GV34	clust_2691

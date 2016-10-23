@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01657	VBIBifAdo136061_1657	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189685	142198	143007	-	810		hypothetical protein	ADO1	clust_3955
-DEN1|SEQ02225	VBIBifDen165269_2227	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463439	110917	111450	+	534		sulfate adenylyltransferase, subunit 2	DEN1	clust_3955
-DEN2|SEQ00910	VBIBifDen39005_0910	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110173	4513	5046	-	534		sulfate adenylyltransferase, subunit 2	DEN2	clust_3955

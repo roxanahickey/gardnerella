@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ00340	VBIBifBif87902_0340	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883211	415044	416567	+	1524	lyx	Carbohydrate kinase, FGGY family (EC 2.7.1.12)	BIF1	clust_2593
-INF1|SEQ01387	VBIBifLon182273_1387	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886778	1573696	1574979	-	1284		Putative xylulose kinase (EC 2.7.1.17)	INF1	clust_2593
-LON1|SEQ00142	VBIBifLon107831_0142	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117319	165655	167154	+	1500		Putative xylulose kinase (EC 2.7.1.17)	LON1	clust_2593
-LON2|SEQ00187	VBIBifLon171405_0188	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579877	209879	211012	+	1134	gntK1	Putative xylulose kinase (EC 2.7.1.17)	LON2	clust_2593
-LON3|SEQ01875	VBIBifLon156230_1878	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766942	782579	784090	+	1512		Putative xylulose kinase (EC 2.7.1.17)	LON3	clust_2593
-LON4|SEQ01353	VBIBifLon48544_1353	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891051	1531946	1533412	-	1467		Putative xylulose kinase (EC 2.7.1.17)	LON4	clust_2593

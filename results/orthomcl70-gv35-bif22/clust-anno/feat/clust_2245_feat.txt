@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ00805	VBIBifBre340958_0805	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603594	967572	968714	-	1143		Glucokinase (EC 2.7.1.2)	BRE1	clust_2245
-BRE2|SEQ00886	VBIBifBre337368_0886	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607728	1049635	1050777	-	1143		Glucokinase (EC 2.7.1.2)	BRE2	clust_2245
-BRE4|SEQ00833	VBIBifBre327712_0833	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611765	1006037	1007179	-	1143		hypothetical protein	BRE4	clust_2245
-BRE5|SEQ00835	VBIBifBre336369_0836	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615815	988779	989921	-	1143		N-acetylglucosamine kinase bacterial type predicted / Transcriptional regulator	BRE5	clust_2245
-BRE6|SEQ00471	VBIBifBre268992_0471	Bifidobacterium breve JCP7499	AWSX01000023	PATRIC	CDS	177654073	239	1381	-	1143		Glucokinase (EC 2.7.1.2)	BRE6	clust_2245
-BRE7|SEQ00835	VBIBifBre340732_0835	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620127	998077	999219	-	1143		Glucokinase (EC 2.7.1.2)	BRE7	clust_2245
-BRE8|SEQ00862	VBIBifBre176493_0862	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624289	1041191	1042333	-	1143		Glucokinase (EC 2.7.1.2)	BRE8	clust_2245
-BRE9|SEQ00920	VBIBifBre30019_0920	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445936	1097047	1098189	-	1143		N-acetylglucosamine kinase bacterial type predicted / Transcriptional regulator	BRE9	clust_2245

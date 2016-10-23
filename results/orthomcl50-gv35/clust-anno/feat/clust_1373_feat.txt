@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV07|SEQ00891	VBIGarVag249177_0891	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493453	169197	169361	-	165		hypothetical protein	GV07	clust_1373
-GV10|SEQ00958	VBIGarVag136958_0958	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147998	1257817	1257954	-	138		hypothetical protein	GV10	clust_1373
-GV10|SEQ00975	VBIGarVag136958_0975	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148032	1278433	1278597	+	165		Thymidylate kinase (EC 2.7.4.9)	GV10	clust_1373
-GV12|SEQ00378	VBIGarVag144721_0378	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853429	387155	387328	+	174		hypothetical protein	GV12	clust_1373
-GV12|SEQ00463	VBIGarVag144721_0463	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853607	535693	535815	-	123		hypothetical protein	GV12	clust_1373
-GV15|SEQ00302	VBIGarVag249709_0302	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484117	25965	26090	-	126		hypothetical protein	GV15	clust_1373
-GV17|SEQ00234	VBIGarVag146634_0234	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850479	204518	204643	-	126		hypothetical protein	GV17	clust_1373
-GV33|SEQ00979	VBIGarVag265557_0979	Gardnerella vaginalis JCP8481A	ATJG01000116	PATRIC	CDS	184002802	447	569	-	123		hypothetical protein	GV33	clust_1373

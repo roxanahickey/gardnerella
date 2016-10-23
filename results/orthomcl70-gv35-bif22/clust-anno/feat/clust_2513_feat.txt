@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE2|SEQ00201	VBIBifBre337368_0201	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268606305	260707	261885	-	1179		DNA-cytosine methyltransferase	BRE2	clust_2513
-BRE3|SEQ00219	VBIBifBre167886_0219	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192090	284683	285861	-	1179	dcm	DNA-cytosine methyltransferase	BRE3	clust_2513
-BRE6|SEQ02058	VBIBifBre268992_2058	Bifidobacterium breve JCP7499	AWSX01000094	PATRIC	CDS	177657446	49298	50476	+	1179		DNA-cytosine methyltransferase	BRE6	clust_2513
-BRE7|SEQ00196	VBIBifBre340732_0196	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268618795	256298	257476	-	1179		DNA-cytosine methyltransferase	BRE7	clust_2513
-BRE8|SEQ00223	VBIBifBre176493_0223	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268622962	287765	288943	-	1179	bbrUIM	DNA-cytosine methyltransferase	BRE8	clust_2513
-BRE9|SEQ00232	VBIBifBre30019_0232	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58444500	303053	304231	-	1179		DNA-cytosine methyltransferase	BRE9	clust_2513

@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV07|SEQ00010	VBIGarVag249177_0010	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491595	8811	9842	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV07	clust_1379
-GV10|SEQ00130	VBIGarVag136958_0130	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146276	162847	163878	+	1032	metA	Homoserine O-succinyltransferase (EC 2.3.1.46)	GV10	clust_1379
-GV12|SEQ00668	VBIGarVag144721_0668	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854035	197977	199008	+	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV12	clust_1379
-GV14|SEQ00514	VBIGarVag244375_0514	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502886	7410	8441	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV14	clust_1379
-GV15|SEQ00542	VBIGarVag249709_0542	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484620	287636	288667	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV15	clust_1379
-GV17|SEQ00474	VBIGarVag146634_0474	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850981	473897	474928	-	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV17	clust_1379
-GV33|SEQ00646	VBIGarVag265557_0646	Gardnerella vaginalis JCP8481A	ATJG01000061	PATRIC	CDS	184002046	335	1366	+	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV33	clust_1379
-GV34|SEQ00725	VBIGarVag270440_0725	Gardnerella vaginalis JCP8481B	ATJF01000074	PATRIC	CDS	184005072	335	1366	+	1032		Homoserine O-succinyltransferase (EC 2.3.1.46)	GV34	clust_1379

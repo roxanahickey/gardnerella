@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ01349	VBIBifDen165269_1350	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459827	599985	600389	+	405		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	DEN1	clust_2421
-DEN2|SEQ00733	VBIBifDen39005_0733	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109801	124066	124470	+	405		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	DEN2	clust_2421
-INF1|SEQ01468	VBIBifLon182273_1468	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886949	1664683	1665657	-	975		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	INF1	clust_2421
-LON1|SEQ00063	VBIBifLon107831_0063	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117153	76775	77680	+	906		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON1	clust_2421
-LON2|SEQ00108	VBIBifLon171405_0109	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579710	122674	123636	+	963	fadB1	3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON2	clust_2421
-LON3|SEQ00088	VBIBifLon156230_0088	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42765802	103350	104324	-	975		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON3	clust_2421
-LON4|SEQ01440	VBIBifLon48544_1440	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46891236	1637977	1638951	-	975		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)	LON4	clust_2421

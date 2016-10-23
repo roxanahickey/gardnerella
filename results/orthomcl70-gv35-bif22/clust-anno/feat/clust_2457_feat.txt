@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ01484	VBIBifAni240121_1484	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847987	1773457	1774455	+	999		putative glycosyltransferase( EC:2.4.1.- )	ANI1	clust_2457
-ANI2|SEQ01482	VBIBifAni235968_1482	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851336	1773677	1774675	+	999		putative glycosyltransferase( EC:2.4.1.- )	ANI2	clust_2457
-ANI3|SEQ01493	VBIBifAni108068_1493	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765358	1778908	1779906	+	999		putative glycosyltransferase( EC:2.4.1.- )	ANI3	clust_2457
-BRE5|SEQ00418	VBIBifBre336369_0419	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268614951	493086	493967	-	882		putative glycosyltransferase	BRE5	clust_2457
-DEN1|SEQ02087	VBIBifDen165269_2089	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463153	41109	42029	-	921		putative glycosyltransferase( EC:2.4.1.- )	DEN1	clust_2457
-DEN2|SEQ01259	VBIBifDen39005_1260	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110897	41128	42048	-	921		putative glycosyltransferase( EC:2.4.1.- )	DEN2	clust_2457
-LON2|SEQ01038	VBIBifLon171405_1039	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42581623	1182816	1183370	-	555		Glycosyl transferase, family 2	LON2	clust_2457

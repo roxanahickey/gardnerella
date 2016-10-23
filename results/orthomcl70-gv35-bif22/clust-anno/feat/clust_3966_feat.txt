@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01931	VBIBifAdo136061_1931	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190235	469912	470781	-	870		Beta-xylosidase (EC 3.2.1.37)	ADO1	clust_3966
-DEN1|SEQ01096	VBIBifDen165269_1097	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459319	278546	279754	+	1209	exg1	Beta-xylosidase (EC 3.2.1.37)	DEN1	clust_3966
-DEN2|SEQ02057	VBIBifDen39005_2059	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112553	50435	51643	+	1209		Beta-xylosidase (EC 3.2.1.37)	DEN2	clust_3966

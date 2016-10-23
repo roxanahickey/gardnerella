@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00980	VBIBifAdo136061_0980	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188274	891847	892467	+	621		Uridine kinase (EC 2.7.1.48)	ADO1	clust_3929
-DEN1|SEQ01960	VBIBifDen165269_1961	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461087	1243377	1243955	-	579		Uridine kinase (EC 2.7.1.48)	DEN1	clust_3929
-DEN2|SEQ00868	VBIBifDen39005_0868	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000015	PATRIC	CDS	42110086	40105	40683	+	579		Uridine kinase (EC 2.7.1.48)	DEN2	clust_3929

@@ -1,5 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ01374	VBIBifBre340958_1375	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604765	1618368	1618748	-	381		ABC transporter, permease protein	BRE1	clust_2994
-BRE3|SEQ00158	VBIBifBre167886_0158	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54191962	206307	206465	+	159		hypothetical protein	BRE3	clust_2994
-BRE6|SEQ00369	VBIBifBre268992_0369	Bifidobacterium breve JCP7499	AWSX01000019	PATRIC	CDS	177653861	2724	3104	-	381		Thiamin ABC transporter, transmembrane component	BRE6	clust_2994
-BRE6|SEQ01423	VBIBifBre268992_1423	Bifidobacterium breve JCP7499	AWSX01000070	PATRIC	CDS	177656098	3053	3433	+	381		ABC transporter, permease protein	BRE6	clust_2994

@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ01272	VBIBifBif87902_1272	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885122	1534205	1534843	-	639		hypothetical protein	BIF1	clust_2239
-BRE2|SEQ00609	VBIBifBre337368_0609	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607148	736376	736663	+	288		hypothetical protein	BRE2	clust_2239
-BRE3|SEQ01270	VBIBifBre167886_1270	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194278	1480840	1481127	-	288		FIG00426206: hypothetical protein	BRE3	clust_2239
-BRE4|SEQ00552	VBIBifBre327712_0552	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611176	685956	686237	+	282		hypothetical protein	BRE4	clust_2239
-BRE5|SEQ00561	VBIBifBre336369_0562	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615241	673275	673562	+	288		hypothetical protein	BRE5	clust_2239
-BRE7|SEQ00563	VBIBifBre340732_0563	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619556	689012	689254	+	243		hypothetical protein	BRE7	clust_2239
-DEN1|SEQ00037	VBIBifDen165269_0037	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461319	1372288	1372740	-	453		hypothetical protein	DEN1	clust_2239
-DEN2|SEQ01823	VBIBifDen39005_1824	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112052	41790	42242	-	453		hypothetical protein	DEN2	clust_2239

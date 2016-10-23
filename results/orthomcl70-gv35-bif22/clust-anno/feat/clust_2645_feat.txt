@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ01342	VBIBifAni240121_1342	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847691	1585729	1586760	-	1032		Glycosyltransferase	ANI1	clust_2645
-ANI2|SEQ01342	VBIBifAni235968_1342	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851044	1585950	1586981	-	1032		Glycosyltransferase	ANI2	clust_2645
-ANI3|SEQ01352	VBIBifAni108068_1352	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765064	1591181	1592212	-	1032		Glycosyltransferase	ANI3	clust_2645
-DEN1|SEQ00997	VBIBifDen165269_0998	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459117	144373	145176	+	804	dpm1	Glycosyltransferase	DEN1	clust_2645
-DEN2|SEQ01468	VBIBifDen39005_1469	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111325	80554	81357	-	804		Glycosyltransferase	DEN2	clust_2645
-THE1|SEQ00442	VBIBifThe274299_0442	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734059	551398	552225	+	828		Glycosyltransferase	THE1	clust_2645

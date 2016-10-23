@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01977	VBIBifAdo136061_1977	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190337	537009	538046	+	1038		hypothetical protein	ADO1	clust_2655
-BRE1|SEQ01795	VBIBifBre340958_1796	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605649	2101780	2102205	+	426		hypothetical protein	BRE1	clust_2655
-DEN1|SEQ00877	VBIBifDen165269_0878	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43463062	2415532	2416569	-	1038		hypothetical protein	DEN1	clust_2655
-DEN2|SEQ00301	VBIBifDen39005_0301	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42108925	15162	16199	+	1038		hypothetical protein	DEN2	clust_2655
-LON2|SEQ01494	VBIBifLon171405_1497	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582581	1768253	1773247	+	4995		endo-1,4-beta-xylanase	LON2	clust_2655
-LON4|SEQ01915	VBIBifLon48544_1915	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892235	2242913	2247907	-	4995		endo-1,4-beta-xylanase	LON4	clust_2655

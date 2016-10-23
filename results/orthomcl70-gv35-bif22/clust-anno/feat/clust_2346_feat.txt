@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ01782	VBIBifBre340958_1783	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268605623	2081761	2082663	-	903		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE1	clust_2346
-BRE2|SEQ01884	VBIBifBre337368_1884	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609802	2184509	2185411	-	903		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE2	clust_2346
-BRE3|SEQ01846	VBIBifBre167886_1846	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195475	2151893	2152852	-	960		protein similar to YcbI of B. subtilis	BRE3	clust_2346
-BRE7|SEQ01872	VBIBifBre340732_1872	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622276	2158506	2159408	-	903		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE7	clust_2346
-BRE8|SEQ01834	VBIBifBre176493_1834	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626313	2136434	2137336	-	903		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	BRE8	clust_2346
-GV33|SEQ01207	VBIGarVag265557_1207	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003347	23803	24666	-	864		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV33	clust_2346
-GV34|SEQ00707	VBIGarVag270440_0707	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005033	7776	8639	+	864		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	GV34	clust_2346

@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00747	VBIBifAdo136061_0747	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187792	623454	624881	+	1428		Beta-glucosidase (EC 3.2.1.21)	ADO1	clust_3917
-DEN1|SEQ00826	VBIBifDen165269_0827	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462960	2345880	2348009	+	2130		Beta-glucosidase (EC 3.2.1.21)	DEN1	clust_3917
-DEN2|SEQ00354	VBIBifDen39005_0354	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109031	83726	85855	-	2130		Beta-glucosidase (EC 3.2.1.21)	DEN2	clust_3917

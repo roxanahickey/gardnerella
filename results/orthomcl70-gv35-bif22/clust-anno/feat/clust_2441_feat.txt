@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE8|SEQ01108	VBIBifBre176493_1108	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624802	1298170	1299222	-	1053		possible TraG-related protein	BRE8	clust_2441
-DEN1|SEQ01721	VBIBifDen165269_1722	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460599	1031877	1033364	+	1488		secreted protein	DEN1	clust_2441
-DEN2|SEQ00480	VBIBifDen39005_0480	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000007	PATRIC	CDS	42109286	108925	110412	-	1488		secreted protein	DEN2	clust_2441
-GV33|SEQ01093	VBIGarVag265557_1093	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003064	30487	31539	+	1053		Secreted protein precursor	GV33	clust_2441
-GV34|SEQ01125	VBIGarVag270440_1125	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005956	14590	15642	-	1053		Secreted protein precursor	GV34	clust_2441
-LON1|SEQ00327	VBIBifLon107831_0327	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117695	392180	393229	-	1050		possible TraG-related protein	LON1	clust_2441
-LON3|SEQ00191	VBIBifLon156230_0191	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767315	1010370	1011455	-	1086		possible TraG-related protein	LON3	clust_2441

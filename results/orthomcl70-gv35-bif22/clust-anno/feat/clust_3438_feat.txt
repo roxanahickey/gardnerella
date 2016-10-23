@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE6|SEQ00303	VBIBifBre268992_0303	Bifidobacterium breve JCP7499	AWSX01000016	PATRIC	CDS	177653721	13312	14292	+	981		Sucrose operon repressor ScrR, LacI family	BRE6	clust_3438
-DEN1|SEQ00801	VBIBifDen165269_0802	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462908	2312454	2313422	+	969	scrR	Sucrose operon repressor ScrR, LacI family	DEN1	clust_3438
-DEN2|SEQ01063	VBIBifDen39005_1063	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110481	63442	64410	+	969		Sucrose operon repressor ScrR, LacI family	DEN2	clust_3438

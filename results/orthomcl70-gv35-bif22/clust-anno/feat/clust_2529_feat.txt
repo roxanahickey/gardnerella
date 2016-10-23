@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE2|SEQ00645	VBIBifBre337368_0645	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607222	774347	775375	-	1029		transcriptional regulator, LacI family	BRE2	clust_2529
-BRE4|SEQ00586	VBIBifBre327712_0586	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611247	721330	722358	-	1029		Catabolite control protein A	BRE4	clust_2529
-BRE7|SEQ00598	VBIBifBre340732_0598	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619630	724388	725416	-	1029		transcriptional regulator, LacI family	BRE7	clust_2529
-BRE8|SEQ00620	VBIBifBre176493_0620	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623783	765643	766671	-	1029		Catabolite control protein A	BRE8	clust_2529
-GV06|SEQ00379	VBIGarVag244004_0379	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489501	46814	47794	-	981		putative transcriptional regulator, LacI-family	GV06	clust_2529
-GV30|SEQ00001	VBIGarVag267667_0001	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992038	468	1448	-	981		Transcriptional regulator, LacI family	GV30	clust_2529

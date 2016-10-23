@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01638	VBIBifAdo136061_1638	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189647	123909	124541	-	633		DNA polymerase III alpha subunit (EC 2.7.7.7)	ADO1	clust_3952
-DEN1|SEQ01347	VBIBifDen165269_1348	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459823	597818	598804	+	987		DNA polymerase III alpha subunit (EC 2.7.7.7)	DEN1	clust_3952
-DEN2|SEQ00731	VBIBifDen39005_0731	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109797	121899	122885	+	987		DNA polymerase III alpha subunit (EC 2.7.7.7)	DEN2	clust_3952

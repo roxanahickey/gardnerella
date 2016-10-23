@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ00839	VBIBifAni240121_0839	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86846649	974026	974274	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ANI1	clust_3656
-ANI2|SEQ00838	VBIBifAni235968_0838	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850000	974029	974277	-	249	secG	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ANI2	clust_3656
-ANI3|SEQ00841	VBIBifAni108068_0841	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764014	974031	974279	-	249		Preprotein translocase subunit SecG (TC 3.A.5.1.1)	ANI3	clust_3656

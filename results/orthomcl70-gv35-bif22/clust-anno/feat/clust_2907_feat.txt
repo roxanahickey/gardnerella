@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ00179	VBIBifAni240121_0179	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86845260	212775	214358	-	1584		Candidate zinc-binding lipoprotein ZinT	ANI1	clust_2907
-ANI2|SEQ00178	VBIBifAni235968_0178	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848613	212776	214359	-	1584		Candidate zinc-binding lipoprotein ZinT	ANI2	clust_2907
-ANI3|SEQ00181	VBIBifAni108068_0181	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762630	212776	214359	-	1584		Candidate zinc-binding lipoprotein ZinT	ANI3	clust_2907
-DEN1|SEQ00940	VBIBifDen165269_0941	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459003	73653	75332	+	1680		Candidate zinc-binding lipoprotein ZinT	DEN1	clust_2907
-DEN2|SEQ01527	VBIBifDen39005_1528	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111443	150397	152076	-	1680		Candidate zinc-binding lipoprotein ZinT	DEN2	clust_2907

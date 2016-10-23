@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ01199	VBIBifBre340958_1199	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604407	1407143	1407469	-	327		Spermidine synthase (EC 2.5.1.16)	BRE1	clust_2251
-BRE2|SEQ01289	VBIBifBre337368_1289	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608561	1483109	1483570	-	462		Spermidine synthase-like protein	BRE2	clust_2251
-BRE3|SEQ00623	VBIBifBre167886_0623	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192929	761346	761657	+	312		Spermidine synthase-like protein	BRE3	clust_2251
-BRE4|SEQ01231	VBIBifBre327712_1231	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612586	1430761	1430889	-	129		Spermidine synthase-like protein	BRE4	clust_2251
-BRE6|SEQ01916	VBIBifBre268992_1916	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657145	103322	103450	-	129		Spermidine synthase-like protein	BRE6	clust_2251
-BRE7|SEQ01240	VBIBifBre340732_1240	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620964	1432182	1432841	-	660		Spermidine synthase-like protein	BRE7	clust_2251
-BRE8|SEQ01267	VBIBifBre176493_1267	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625128	1478704	1479279	-	576		Spermidine synthase-like protein	BRE8	clust_2251
-BRE9|SEQ01324	VBIBifBre30019_1324	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58446772	1535103	1535414	-	312		Spermidine synthase-like protein	BRE9	clust_2251

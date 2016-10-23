@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-INF1|SEQ01903	VBIBifLon182273_1903	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46887863	2181514	2183067	-	1554		Histidine ammonia-lyase (EC 4.3.1.3)	INF1	clust_2847
-LON1|SEQ01533	VBIBifLon107831_1534	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120196	1853858	1855411	+	1554	hutH	Histidine ammonia-lyase (EC 4.3.1.3)	LON1	clust_2847
-LON2|SEQ01557	VBIBifLon171405_1560	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582709	1865864	1867417	+	1554	hutH	Histidine ammonia-lyase (EC 4.3.1.3)	LON2	clust_2847
-LON3|SEQ01778	VBIBifLon156230_1781	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766743	650634	652187	-	1554		Histidine ammonia-lyase (EC 4.3.1.3)	LON3	clust_2847
-LON4|SEQ01843	VBIBifLon48544_1843	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892088	2136048	2137601	-	1554		Histidine ammonia-lyase (EC 4.3.1.3)	LON4	clust_2847

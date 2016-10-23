@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE2|SEQ01283	VBIBifBre337368_1283	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608549	1478489	1479784	-	1296		D-glycerate transporter (predicted)	BRE2	clust_2546
-BRE3|SEQ00629	VBIBifBre167886_0629	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192941	764981	766276	+	1296		D-glycerate transporter (predicted)	BRE3	clust_2546
-BRE6|SEQ01910	VBIBifBre268992_1910	Bifidobacterium breve JCP7499	AWSX01000086	PATRIC	CDS	177657133	98703	99998	-	1296		D-glycerate transporter (predicted)	BRE6	clust_2546
-BRE7|SEQ01235	VBIBifBre340732_1235	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620954	1427762	1429057	-	1296		D-glycerate transporter (predicted)	BRE7	clust_2546
-DEN1|SEQ01338	VBIBifDen165269_1339	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459805	588077	589435	+	1359	gntP2	D-glycerate transporter (predicted)	DEN1	clust_2546
-DEN2|SEQ00722	VBIBifDen39005_0722	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109779	112158	113516	+	1359		D-glycerate transporter (predicted)	DEN2	clust_2546

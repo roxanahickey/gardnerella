@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV15|SEQ00200	VBIGarVag249709_0200	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483900	26884	27033	-	150		hypothetical protein	GV15	clust_1380
-GV17|SEQ00193	VBIGarVag146634_0193	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850389	141472	141621	+	150		Addiction module antidote protein	GV17	clust_1380
-GV25|SEQ00236	VBIGarVag270495_0236	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978354	58065	58214	+	150		hypothetical protein	GV25	clust_1380
-GV28|SEQ00568	VBIGarVag271349_0568	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987855	1119	1268	-	150		hypothetical protein	GV28	clust_1380
-GV29|SEQ00172	VBIGarVag265473_0172	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989712	1112	1261	-	150		hypothetical protein	GV29	clust_1380
-GV31|SEQ00158	VBIGarVag264983_0158	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995352	1305	1595	-	291		Addiction module antidote protein	GV31	clust_1380
-GV33|SEQ00339	VBIGarVag265557_0339	Gardnerella vaginalis JCP8481A	ATJG01000030	PATRIC	CDS	184001392	430	720	-	291		Addiction module antidote protein	GV33	clust_1380
-GV34|SEQ00465	VBIGarVag270440_0465	Gardnerella vaginalis JCP8481B	ATJF01000034	PATRIC	CDS	184004501	23203	23493	+	291		Addiction module antidote protein	GV34	clust_1380

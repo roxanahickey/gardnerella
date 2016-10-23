@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ01381	VBIBifDen165269_1382	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459892	635786	637144	-	1359		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	DEN1	clust_2417
-DEN2|SEQ00263	VBIBifDen39005_0263	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108846	218109	219467	+	1359		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	DEN2	clust_2417
-INF1|SEQ01167	VBIBifLon182273_1167	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46886337	1309134	1310480	-	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	INF1	clust_2417
-LON1|SEQ00312	VBIBifLon107831_0312	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117661	377133	378479	+	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON1	clust_2417
-LON2|SEQ00371	VBIBifLon171405_0372	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580248	434322	435668	+	1347	hutI	possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON2	clust_2417
-LON3|SEQ00176	VBIBifLon156230_0176	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767281	995989	997335	+	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON3	clust_2417
-LON4|SEQ01190	VBIBifLon48544_1190	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46890721	1336806	1338152	-	1347		possible prolidase (X-Pro dipeptidase) or chlorohydrolase	LON4	clust_2417

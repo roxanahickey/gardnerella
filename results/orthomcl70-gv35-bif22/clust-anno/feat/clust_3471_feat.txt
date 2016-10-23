@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV15|SEQ00384	VBIGarVag249709_0384	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484287	115236	115634	-	399		hypothetical protein	GV15	clust_3471
-LON1|SEQ00209	VBIBifLon107831_0209	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21117455	249292	249585	-	294		COG0504: CTP synthase (UTP-ammonia lyase)	LON1	clust_3471
-LON2|SEQ00250	VBIBifLon171405_0251	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580003	291987	292280	-	294		COG0504: CTP synthase (UTP-ammonia lyase)	LON2	clust_3471

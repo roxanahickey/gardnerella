@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00749	VBIBifAdo136061_0749	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187796	625030	626400	+	1371		Beta-galactosidase (EC 3.2.1.23)	ADO1	clust_2966
-BRE3|SEQ01866	VBIBifBre167886_1866	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195515	2177925	2180030	+	2106		Beta-galactosidase (EC 3.2.1.23)	BRE3	clust_2966
-BRE4|SEQ01845	VBIBifBre327712_1845	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268613866	2144163	2146268	+	2106		Beta-galactosidase (EC 3.2.1.23)	BRE4	clust_2966
-DEN1|SEQ00832	VBIBifDen165269_0833	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462972	2355640	2357667	+	2028	lacZ2	Beta-galactosidase (EC 3.2.1.23)	DEN1	clust_2966
-DEN2|SEQ00348	VBIBifDen39005_0348	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000006	PATRIC	CDS	42109019	74068	76095	-	2028		Beta-galactosidase (EC 3.2.1.23)	DEN2	clust_2966

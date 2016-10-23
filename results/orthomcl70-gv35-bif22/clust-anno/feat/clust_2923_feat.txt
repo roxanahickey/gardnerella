@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ01432	VBIBifAni240121_1432	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847875	1701170	1702942	-	1773		Oxalyl-CoA decarboxylase (EC 4.1.1.8)	ANI1	clust_2923
-ANI2|SEQ01431	VBIBifAni235968_1431	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851226	1701389	1703161	-	1773		Oxalyl-CoA decarboxylase (EC 4.1.1.8)	ANI2	clust_2923
-ANI3|SEQ01441	VBIBifAni108068_1441	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765246	1706620	1708392	-	1773	oxc	Oxalyl-CoA decarboxylase (EC 4.1.1.8)	ANI3	clust_2923
-DEN1|SEQ02171	VBIBifDen165269_2173	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS	43463331	54923	56692	+	1770	oxc	Oxalyl-CoA decarboxylase (EC 4.1.1.8)	DEN1	clust_2923
-DEN2|SEQ00967	VBIBifDen39005_0967	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS	42110287	59253	61022	-	1770	oxc	Oxalyl-CoA decarboxylase (EC 4.1.1.8)	DEN2	clust_2923

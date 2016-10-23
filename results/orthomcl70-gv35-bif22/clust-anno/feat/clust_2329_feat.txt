@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ01109	VBIBifBif87902_1109	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884786	1328690	1329466	-	777		Methyltransferase type 11	BIF1	clust_2329
-BRE1|SEQ00789	VBIBifBre340958_0789	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603562	952642	953511	+	870		Methyltransferase type 11	BRE1	clust_2329
-BRE3|SEQ01000	VBIBifBre167886_1000	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54193712	1169754	1170623	-	870		Methyltransferase type 11	BRE3	clust_2329
-BRE4|SEQ00818	VBIBifBre327712_0818	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611735	991093	991962	+	870		Methyltransferase type 11	BRE4	clust_2329
-BRE7|SEQ00819	VBIBifBre340732_0819	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620095	983134	984003	+	870		Methyltransferase type 11	BRE7	clust_2329
-BRE8|SEQ00845	VBIBifBre176493_0845	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624255	1026246	1027115	+	870		Methyltransferase type 11	BRE8	clust_2329
-BRE9|SEQ00891	VBIBifBre30019_0891	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445876	1071644	1072513	+	870		Methyltransferase type 11	BRE9	clust_2329
-THE1|SEQ00644	VBIBifThe274299_0644	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734466	814496	815404	+	909		Possible methyltransferase (Methylase)	THE1	clust_2329

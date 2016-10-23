@@ -1,8 +1,0 @@
-cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
-ADO1|SEQ01696	27189763	VBIBifAdo136061_1696	SEQ01696	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Plasmid partitioning protein ParA	FIG00124148	figfam	clust_2398
-BRE8|SEQ01139	268624868	VBIBifBre176493_1139	SEQ01139	Bifidobacterium breve S27	BRE8	Bifidobacterium breve S27	CP006716	PATRIC	CDS		Plasmid partitioning protein ParA	FIG00124148	figfam	clust_2398
-DEN1|SEQ02178	43463345	VBIBifDen165269_2180	SEQ02178	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405228	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2398
-DEN2|SEQ00959	42110271	VBIBifDen39005_0959	SEQ00959	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2398
-DEN2|SEQ00960	42110273	VBIBifDen39005_0960	SEQ00960	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000016	PATRIC	CDS		ParA	FIG01498265	figfam	clust_2398
-LON1|SEQ00361	21117763	VBIBifLon107831_0361	SEQ00361	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Plasmid partitioning protein ParA	FIG00124148	figfam	clust_2398
-LON3|SEQ00226	42767385	VBIBifLon156230_0226	SEQ00226	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Plasmid partitioning protein ParA	FIG00124148	figfam	clust_2398

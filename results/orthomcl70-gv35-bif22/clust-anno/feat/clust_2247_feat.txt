@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ00807	VBIBifBre340958_0807	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603598	969075	969914	+	840		Aldose 1-epimerase	BRE1	clust_2247
-BRE2|SEQ00888	VBIBifBre337368_0888	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607732	1051138	1051977	+	840		Aldose 1-epimerase	BRE2	clust_2247
-BRE4|SEQ00835	VBIBifBre327712_0835	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611769	1007540	1008379	+	840		Aldose 1-epimerase	BRE4	clust_2247
-BRE5|SEQ00837	VBIBifBre336369_0838	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268615819	990675	991121	+	447		Aldose 1-epimerase	BRE5	clust_2247
-BRE6|SEQ00473	VBIBifBre268992_0473	Bifidobacterium breve JCP7499	AWSX01000024	PATRIC	CDS	177654078	80	526	+	447		Aldose 1-epimerase	BRE6	clust_2247
-BRE7|SEQ00837	VBIBifBre340732_0837	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268620131	999580	1000419	+	840		Aldose 1-epimerase	BRE7	clust_2247
-BRE8|SEQ00864	VBIBifBre176493_0864	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268624293	1042694	1043533	+	840		Aldose 1-epimerase	BRE8	clust_2247
-BRE9|SEQ00922	VBIBifBre30019_0922	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445940	1098550	1099389	+	840		Aldose 1-epimerase	BRE9	clust_2247

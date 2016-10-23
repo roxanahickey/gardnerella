@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ01102	VBIBifBif87902_1102	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884772	1321332	1321919	+	588		Predicted transcriptional regulators	BIF1	clust_2413
-BRE9|SEQ00914	VBIBifBre30019_0914	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445923	1090830	1091384	-	555		Predicted transcriptional regulators	BRE9	clust_2413
-INF1|SEQ00759	VBIBifLon182273_0759	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885487	931057	931611	-	555		Predicted transcriptional regulators	INF1	clust_2413
-LON1|SEQ00614	VBIBifLon107831_0615	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118285	708145	708699	+	555		Predicted transcriptional regulators	LON1	clust_2413
-LON2|SEQ00674	VBIBifLon171405_0675	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580874	743489	744043	+	555		Predicted transcriptional regulators	LON2	clust_2413
-LON3|SEQ00481	VBIBifLon156230_0481	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767914	1318801	1319355	+	555		Predicted transcriptional regulators	LON3	clust_2413
-LON4|SEQ00731	VBIBifLon48544_0731	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889733	888410	888964	-	555		Predicted transcriptional regulators	LON4	clust_2413

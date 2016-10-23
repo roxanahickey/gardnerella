@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ01286	VBIBifBif87902_1286	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86885150	1552295	1552642	+	348	rpmB	LSU ribosomal protein L28p	BIF1	clust_2436
-BRE3|SEQ01287	VBIBifBre167886_1287	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194312	1497107	1497343	+	237	rpmB_1	LSU ribosomal protein L28p	BRE3	clust_2436
-BRE6|SEQ00392	VBIBifBre268992_0392	Bifidobacterium breve JCP7499	AWSX01000021	PATRIC	CDS	177653909	970	1206	+	237		LSU ribosomal protein L28p	BRE6	clust_2436
-BRE8|SEQ00577	VBIBifBre176493_0577	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623695	717830	718066	-	237		LSU ribosomal protein L28p	BRE8	clust_2436
-DEN1|SEQ00935	VBIBifDen165269_0936	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43458993	72529	72723	+	195	rpmB	LSU ribosomal protein L28p	DEN1	clust_2436
-DEN2|SEQ01532	VBIBifDen39005_1533	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111453	153006	153200	-	195	rpmB	LSU ribosomal protein L28p	DEN2	clust_2436
-THE1|SEQ00091	VBIBifThe274299_0091	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733345	107691	107939	-	249		LSU ribosomal protein L28p	THE1	clust_2436

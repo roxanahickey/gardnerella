@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ00971	VBIBifDen165269_0972	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459065	112000	112875	+	876		putative NADH dehydrogenase/NAD(P)H nitroreductase	DEN1	clust_3796
-DEN2|SEQ01495	VBIBifDen39005_1496	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111379	112853	113728	-	876		putative NADH dehydrogenase/NAD(P)H nitroreductase	DEN2	clust_3796
-LON4|SEQ00385	VBIBifLon48544_0385	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889008	475906	476913	+	1008		hypothetical protein	LON4	clust_3796

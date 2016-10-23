@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE7|SEQ01601	VBIBifBre340732_1601	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621709	1846868	1847605	-	738		hypothetical protein	BRE7	clust_2292
-GV22|SEQ00045	VBIGarVag276801_0045	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969467	55116	55880	+	765		hypothetical protein	GV22	clust_2292
-INF1|SEQ00931	VBIBifLon182273_0931	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885841	1084237	1084563	-	327		FIG00424523: hypothetical protein	INF1	clust_2292
-LON1|SEQ00528	VBIBifLon107831_0529	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21118111	617976	618302	+	327		FIG00424523: hypothetical protein	LON1	clust_2292
-LON2|SEQ00590	VBIBifLon171405_0591	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580704	654576	654902	+	327		FIG00424523: hypothetical protein	LON2	clust_2292
-LON3|SEQ00397	VBIBifLon156230_0397	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767744	1229766	1230092	+	327		FIG00424523: hypothetical protein	LON3	clust_2292
-LON4|SEQ00815	VBIBifLon48544_0815	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889903	977563	977889	-	327		FIG00424523: hypothetical protein	LON4	clust_2292
-THE1|SEQ00132	VBIBifThe274299_0132	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124733427	153236	154195	-	960		hypothetical protein	THE1	clust_2292

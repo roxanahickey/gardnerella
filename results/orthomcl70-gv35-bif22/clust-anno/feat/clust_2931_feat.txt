@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE3|SEQ01719	VBIBifBre167886_1719	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195212	1994113	1994586	-	474		COG2731: Beta-galactosidase, beta subunit	BRE3	clust_2931
-BRE7|SEQ01748	VBIBifBre340732_1748	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268622019	2005475	2005948	-	474		Evolved beta-D-galactosidase, beta subunit	BRE7	clust_2931
-BRE8|SEQ01704	VBIBifBre176493_1704	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626043	1978945	1979418	-	474	lacZ5b	Evolved beta-D-galactosidase, beta subunit	BRE8	clust_2931
-BRE9|SEQ01812	VBIBifBre30019_1812	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447787	2082921	2083394	-	474	lacZ7b	Evolved beta-D-galactosidase, beta subunit	BRE9	clust_2931
-INF1|SEQ00292	VBIBifLon182273_0292	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884513	370403	370876	+	474		evolved beta-D-galactosidase, beta subunit; cryptic gene	INF1	clust_2931

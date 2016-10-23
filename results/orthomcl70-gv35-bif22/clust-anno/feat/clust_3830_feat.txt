@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ01085	VBIBifBif87902_1085	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884738	1306292	1306753	+	462		Transcriptional regulator, AraC family	BIF1	clust_3830
-DEN1|SEQ01127	VBIBifDen165269_1128	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459381	320207	321199	-	993		transcription regulator (AraC/XylS family)	DEN1	clust_3830
-DEN2|SEQ02088	VBIBifDen39005_2090	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000034	PATRIC	CDS	42112615	92097	93089	-	993		transcription regulator (AraC/XylS family)	DEN2	clust_3830

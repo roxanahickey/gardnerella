@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ01352	VBIBifBre340958_1353	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268604721	1590602	1591720	-	1119		"PTS system, fructose-specific IIC component "	BRE1	clust_2255
-BRE2|SEQ01439	VBIBifBre337368_1439	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268608871	1665161	1666279	-	1119		"PTS system, fructose-specific IIC component "	BRE2	clust_2255
-BRE3|SEQ00472	VBIBifBre167886_0472	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54192619	578623	579741	+	1119		"PTS system, fructose-specific IIA component / PTS system, fructose-specific IIB component / PTS system, fructose-specific IIC component "	BRE3	clust_2255
-BRE4|SEQ01384	VBIBifBre327712_1384	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612900	1615199	1616317	-	1119		"PTS system, fructose-specific IIC component "	BRE4	clust_2255
-BRE5|SEQ01516	VBIBifBre336369_1517	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617221	1701728	1702846	-	1119		PTS system, fructose-specific IIC component (EC 2.7.1.69)	BRE5	clust_2255
-BRE7|SEQ01399	VBIBifBre340732_1399	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621291	1618214	1619332	-	1119		PTS system, fructose-specific IIC component (EC 2.7.1.69)	BRE7	clust_2255
-BRE8|SEQ01418	VBIBifBre176493_1418	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625439	1660579	1661697	-	1119		PTS system, fructose-specific IIC component (EC 2.7.1.69)	BRE8	clust_2255
-BRE9|SEQ01483	VBIBifBre30019_1483	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447098	1721364	1722482	-	1119		"PTS system, fructose-specific IIA component / PTS system, fructose-specific IIB component / PTS system, fructose-specific IIC component "	BRE9	clust_2255

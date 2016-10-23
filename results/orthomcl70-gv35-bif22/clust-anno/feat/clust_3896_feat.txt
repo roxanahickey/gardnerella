@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00028	VBIBifAdo136061_0028	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186248	26331	27638	+	1308		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	ADO1	clust_3896
-DEN1|SEQ00811	VBIBifDen165269_0812	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462930	2326272	2327579	+	1308		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	DEN1	clust_3896
-DEN2|SEQ01073	VBIBifDen39005_1073	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110503	77256	78563	+	1308		N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein	DEN2	clust_3896

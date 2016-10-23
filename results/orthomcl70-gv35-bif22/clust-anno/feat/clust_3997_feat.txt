@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ00208	VBIBifDen165269_0209	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461683	1571146	1571922	-	777		UbiC transcription regulator-associated domain protein	DEN1	clust_3997
-DEN2|SEQ02000	VBIBifDen39005_2002	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112432	240639	241415	-	777		UbiC transcription regulator-associated domain protein	DEN2	clust_3997
-THE1|SEQ01386	VBIBifThe274299_1386	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736010	1725806	1726552	+	747		hypothetical protein	THE1	clust_3997

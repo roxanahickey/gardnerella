@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01635	VBIBifAdo136061_1635	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189641	121324	122103	+	780		Carbon-nitrogen hydrolase	ADO1	clust_3826
-BIF1|SEQ00840	VBIBifBif87902_0840	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86884229	1028816	1029706	+	891	ybeM	hypothetical protein	BIF1	clust_3826
-BRE8|SEQ00397	VBIBifBre176493_0397	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623326	489607	490419	+	813		FIG00623615: hypothetical protein	BRE8	clust_3826

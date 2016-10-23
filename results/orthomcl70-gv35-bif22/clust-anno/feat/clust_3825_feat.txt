@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BIF1|SEQ00691	VBIBifBif87902_0691	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86883919	852218	853261	+	1044		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	BIF1	clust_3825
-DEN1|SEQ02080	VBIBifDen165269_2082	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463139	32285	33364	+	1080		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	DEN1	clust_3825
-DEN2|SEQ01252	VBIBifDen39005_1253	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000023	PATRIC	CDS	42110883	32304	33383	+	1080		dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	DEN2	clust_3825

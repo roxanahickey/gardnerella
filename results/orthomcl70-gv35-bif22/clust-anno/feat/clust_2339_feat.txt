@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00840	VBIBifAdo136061_0840	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187988	731881	732756	+	876		Methionine ABC transporter substrate-binding protein	ADO1	clust_2339
-ANI1|SEQ01266	VBIBifAni240121_1266	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847526	1467025	1467921	-	897		Methionine ABC transporter substrate-binding protein	ANI1	clust_2339
-ANI2|SEQ01266	VBIBifAni235968_1266	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850879	1467030	1467926	-	897		Methionine ABC transporter substrate-binding protein	ANI2	clust_2339
-ANI3|SEQ01275	VBIBifAni108068_1275	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764898	1472476	1473372	-	897		Methionine ABC transporter substrate-binding protein	ANI3	clust_2339
-DEN1|SEQ00057	VBIBifDen165269_0057	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43461359	1395488	1396354	-	867	metQ	Methionine ABC transporter substrate-binding protein	DEN1	clust_2339
-DEN2|SEQ01843	VBIBifDen39005_1844	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000032	PATRIC	CDS	42112092	64987	65853	-	867		Methionine ABC transporter substrate-binding protein	DEN2	clust_2339
-THE1|SEQ01309	VBIBifThe274299_1309	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124735844	1624854	1625726	-	873		Methionine ABC transporter substrate-binding protein	THE1	clust_2339

@@ -1,9 +1,0 @@
-cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
-BIF1|SEQ01587	86885789	VBIBifBif87902_1587	SEQ01587	Bifidobacterium bifidum BGN4	BIF1	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-DEN1|SEQ00298	43461875	VBIBifDen165269_0299	SEQ00298	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-DEN2|SEQ02225	42112899	VBIBifDen39005_2228	SEQ02225	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000035	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-INF1|SEQ01811	46887668	VBIBifLon182273_1811	SEQ01811	Bifidobacterium longum subsp. infantis 157F	INF1	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-LON1|SEQ01613	21120366	VBIBifLon107831_1614	SEQ01613	Bifidobacterium longum NCC2705	LON1	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-LON2|SEQ01643	42582891	VBIBifLon171405_1646	SEQ01643	Bifidobacterium longum subsp. longum BBMN68	LON2	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-LON3|SEQ01676	42766534	VBIBifLon156230_1679	SEQ01676	Bifidobacterium longum subsp. longum F8	LON3	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303
-LON4|SEQ01760	46891911	VBIBifLon48544_1760	SEQ01760	Bifidobacterium longum subsp. longum JCM 1217	LON4	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS		Methionine gamma-lyase (EC 4.4.1.11)	FIG00001997	figfam	clust_2303

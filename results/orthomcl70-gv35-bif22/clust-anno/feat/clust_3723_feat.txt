@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ01271	VBIBifAni240121_1271	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847546	1479830	1481365	-	1536	arcD	Arginine/ornithine antiporter ArcD	ANI1	clust_3723
-ANI2|SEQ01271	VBIBifAni235968_1271	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86850899	1479837	1481372	-	1536	arcD	Arginine/ornithine antiporter ArcD	ANI2	clust_3723
-ANI3|SEQ01280	VBIBifAni108068_1280	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42764918	1485283	1486818	-	1536		Arginine/ornithine antiporter ArcD	ANI3	clust_3723

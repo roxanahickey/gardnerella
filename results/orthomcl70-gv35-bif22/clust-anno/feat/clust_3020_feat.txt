@@ -1,5 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ02121	VBIBifDen165269_2123	Bifidobacterium dentium ATCC 27679	NZ_GL405226	PATRIC	CDS	43463223	75564	76274	+	711		ABC transporter, ATP-binding protein	DEN1	clust_3020
-DEN2|SEQ00050	VBIBifDen39005_0050	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000002	PATRIC	CDS	42108382	2805	3515	+	711		ABC transporter, ATP-binding protein	DEN2	clust_3020
-GV16|SEQ00128	VBIGarVag246379_0128	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477364	49584	50333	-	750		ABC transporter ATP-binding protein	GV16	clust_3020
-GV20|SEQ00039	VBIGarVag188338_0039	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188854	47353	48102	+	750		ABC transporter ATP-binding protein	GV20	clust_3020

@@ -1,7 +1,0 @@
-cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
-GV16|SEQ01021	85479221	VBIGarVag246379_1021	SEQ01021	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	DNA repair protein RecN	GO:0005694	chromosome	go	clust_1980
-GV16|SEQ01021	85479221	VBIGarVag246379_1021	SEQ01021	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	DNA repair protein RecN	GO:0005524	ATP binding	go	clust_1980
-GV16|SEQ01021	85479221	VBIGarVag246379_1021	SEQ01021	Gardnerella vaginalis 75712	GV16	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	NA	DNA repair protein RecN	GO:0051276	chromosome organization and biogenesis	go	clust_1980
-GV19|SEQ00591	42628066	VBIGarVag39333_0592	SEQ00591	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	DNA repair protein RecN	GO:0051276	chromosome organization and biogenesis	go	clust_1980
-GV19|SEQ00591	42628066	VBIGarVag39333_0592	SEQ00591	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	DNA repair protein RecN	GO:0005524	ATP binding	go	clust_1980
-GV19|SEQ00591	42628066	VBIGarVag39333_0592	SEQ00591	Gardnerella vaginalis ATCC 14019	GV19	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	NA	DNA repair protein RecN	GO:0005694	chromosome	go	clust_1980

@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00396	VBIBifAdo136061_0396	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187053	219881	220861	+	981		Oxidoreductase, aldo/keto reductase family	ADO1	clust_2803
-INF1|SEQ00956	VBIBifLon182273_0956	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885892	1113808	1114767	+	960		oxidoreductase	INF1	clust_2803
-LON2|SEQ00559	VBIBifLon171405_0560	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42580642	620367	621326	-	960		oxidoreductase	LON2	clust_2803
-LON3|SEQ00371	VBIBifLon156230_0371	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42767692	1198166	1199125	-	960		oxidoreductase	LON3	clust_2803
-LON4|SEQ00847	VBIBifLon48544_0847	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889967	1013852	1014811	+	960		oxidoreductase	LON4	clust_2803

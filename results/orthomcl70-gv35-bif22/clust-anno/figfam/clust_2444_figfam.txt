@@ -1,8 +1,0 @@
-cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
-ADO1|SEQ01733	27189837	VBIBifAdo136061_1733	SEQ01733	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Mannan endo-1,4-beta-mannosidase precursor (EC 3.2.1.78)	FIG01321997	figfam	clust_2444
-ADO1|SEQ01734	27189839	VBIBifAdo136061_1734	SEQ01734	Bifidobacterium adolescentis L2-32	ADO1	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS		Mannan endo-1,4-beta-mannosidase precursor (EC 3.2.1.78)	FIG01321997	figfam	clust_2444
-ANI1|SEQ00013	86844918	VBIBifAni240121_0013	SEQ00013	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		mannan endo-1,4-beta-mannosidase precursor	FIG01490127	figfam	clust_2444
-ANI2|SEQ00013	86848273	VBIBifAni235968_0013	SEQ00013	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		mannan endo-1,4-beta-mannosidase precursor	FIG01490127	figfam	clust_2444
-ANI3|SEQ00013	42762286	VBIBifAni108068_0013	SEQ00013	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		mannan endo-1,4-beta-mannosidase precursor	FIG01490127	figfam	clust_2444
-DEN1|SEQ01298	43459725	VBIBifDen165269_1299	SEQ01298	Bifidobacterium dentium ATCC 27679	DEN1	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2444
-DEN2|SEQ00682	42109699	VBIBifDen39005_0682	SEQ00682	Bifidobacterium dentium JCVIHMP022	DEN2	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS		hypothetical protein	FIG00638284	figfam	clust_2444

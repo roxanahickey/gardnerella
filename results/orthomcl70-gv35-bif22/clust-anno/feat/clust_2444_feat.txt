@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01733	VBIBifAdo136061_1733	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189837	227709	228695	+	987		Mannan endo-1,4-beta-mannosidase precursor (EC 3.2.1.78)	ADO1	clust_2444
-ADO1|SEQ01734	VBIBifAdo136061_1734	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189839	228701	230110	+	1410		Mannan endo-1,4-beta-mannosidase precursor (EC 3.2.1.78)	ADO1	clust_2444
-ANI1|SEQ00013	VBIBifAni240121_0013	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86844918	16983	18170	+	1188		mannan endo-1,4-beta-mannosidase precursor	ANI1	clust_2444
-ANI2|SEQ00013	VBIBifAni235968_0013	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86848273	16983	18170	+	1188		mannan endo-1,4-beta-mannosidase precursor	ANI2	clust_2444
-ANI3|SEQ00013	VBIBifAni108068_0013	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42762286	16974	18170	+	1197		mannan endo-1,4-beta-mannosidase precursor	ANI3	clust_2444
-DEN1|SEQ01298	VBIBifDen165269_1299	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459725	535770	538811	-	3042		hypothetical protein	DEN1	clust_2444
-DEN2|SEQ00682	VBIBifDen39005_0682	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000009	PATRIC	CDS	42109699	59851	62871	-	3021		hypothetical protein	DEN2	clust_2444

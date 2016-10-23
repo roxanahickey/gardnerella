@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE4|SEQ00411	VBIBifBre327712_0411	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268610889	515858	517507	-	1650		Mobile element protein	BRE4	clust_2409
-BRE6|SEQ00294	VBIBifBre268992_0294	Bifidobacterium breve JCP7499	AWSX01000016	PATRIC	CDS	177653702	3144	3836	-	693		hypothetical protein	BRE6	clust_2409
-BRE8|SEQ01439	VBIBifBre176493_1439	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625484	1682812	1683234	+	423		Mobile element protein	BRE8	clust_2409
-GV01|SEQ00763	VBIGarVag247323_0763	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495688	50857	51486	+	630		Mobile element protein	GV01	clust_2409
-INF1|SEQ00379	VBIBifLon182273_0379	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46884695	470790	471857	+	1068		Mobile element protein	INF1	clust_2409
-LON2|SEQ00008	VBIBifLon171405_0008	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42579509	7833	8909	-	1077		Mobile element protein	LON2	clust_2409
-LON4|SEQ00831	VBIBifLon48544_0831	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889935	997274	998440	+	1167		Mobile element protein	LON4	clust_2409

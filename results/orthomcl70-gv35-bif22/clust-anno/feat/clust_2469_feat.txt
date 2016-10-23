@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE3|SEQ01425	VBIBifBre167886_1425	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194594	1663455	1664306	-	852		CRISPR-associated protein, Csd2 family	BRE3	clust_2469
-BRE4|SEQ01413	VBIBifBre327712_1413	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268612960	1644645	1645496	-	852		CRISPR-associated protein, Csd2 family	BRE4	clust_2469
-BRE5|SEQ01539	VBIBifBre336369_1540	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617267	1725255	1726187	-	933		CRISPR-associated protein, TM1801 family	BRE5	clust_2469
-BRE7|SEQ01427	VBIBifBre340732_1427	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268621347	1646819	1647670	-	852		CRISPR-associated protein, Csd2 family	BRE7	clust_2469
-BRE8|SEQ01449	VBIBifBre176493_1449	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268625504	1689924	1690775	-	852		CRISPR-associated protein, Csd2 family	BRE8	clust_2469
-BRE9|SEQ01512	VBIBifBre30019_1512	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58447156	1750905	1751756	-	852		CRISPR-associated protein, Csd2 family	BRE9	clust_2469
-THE1|SEQ00638	VBIBifThe274299_0638	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124734454	810010	810867	+	858		CRISPR-associated protein, Csd2 family	THE1	clust_2469

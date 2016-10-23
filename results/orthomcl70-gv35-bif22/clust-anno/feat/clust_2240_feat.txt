@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE1|SEQ00579	VBIBifBre340958_0579	Bifidobacterium breve 12L	CP006711	PATRIC	CDS	268603120	714201	714368	+	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE1	clust_2240
-BRE2|SEQ00674	VBIBifBre337368_0674	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268607281	808294	808461	+	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE2	clust_2240
-BRE3|SEQ01197	VBIBifBre167886_1197	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54194129	1398214	1398381	-	168	cth	hypothetical protein	BRE3	clust_2240
-BRE4|SEQ00614	VBIBifBre327712_0614	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268611304	755326	755493	+	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE4	clust_2240
-BRE6|SEQ01122	VBIBifBre268992_1122	Bifidobacterium breve JCP7499	AWSX01000056	PATRIC	CDS	177655455	60831	60998	-	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE6	clust_2240
-BRE7|SEQ00627	VBIBifBre340732_0627	Bifidobacterium breve NCFB 2258	CP006714	PATRIC	CDS	268619688	758333	758500	+	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE7	clust_2240
-BRE8|SEQ00649	VBIBifBre176493_0649	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268623841	799253	799420	+	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE8	clust_2240
-BRE9|SEQ00696	VBIBifBre30019_0696	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58445463	843119	843286	+	168		"O-acetylhomoserine sulfhydrylase / O- succinylhomoserine sulfhydrylase "	BRE9	clust_2240

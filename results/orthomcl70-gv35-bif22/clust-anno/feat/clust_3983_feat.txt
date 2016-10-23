@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-BRE5|SEQ01569	VBIBifBre336369_1570	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268617327	1763042	1765723	-	2682		Alfa-L-rhamnosidase (EC 3.2.1.40)	BRE5	clust_3983
-DEN1|SEQ00537	VBIBifDen165269_0538	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462368	1958726	1961389	-	2664	ramA	Alfa-L-rhamnosidase (EC 3.2.1.40)	DEN1	clust_3983
-DEN2|SEQ01574	VBIBifDen39005_1575	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000029	PATRIC	CDS	42111540	31208	33871	-	2664		Alfa-L-rhamnosidase (EC 3.2.1.40)	DEN2	clust_3983

@@ -1,8 +1,0 @@
-cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	figfam_id	anno_type	ortho_id
-ANI1|SEQ01402	86847811	VBIBifAni240121_1402	SEQ01402	Bifidobacterium animalis subsp. lactis B420	ANI1	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS		Glucosylceramidase( EC:3.2.1.45 )	FIG01454915	figfam	clust_2367
-ANI2|SEQ01401	86851162	VBIBifAni235968_1401	SEQ01401	Bifidobacterium animalis subsp. lactis Bi-07	ANI2	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS		Glucosylceramidase( EC:3.2.1.45 )	FIG01454915	figfam	clust_2367
-ANI3|SEQ01411	42765182	VBIBifAni108068_1411	SEQ01411	Bifidobacterium animalis subsp. lactis V9	ANI3	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS		Glucosylceramidase( EC:3.2.1.45 )	FIG01454915	figfam	clust_2367
-BRE2|SEQ00535	268606997	VBIBifBre337368_0535	SEQ00535	Bifidobacterium breve 689b	BRE2	Bifidobacterium breve 689b	CP006715	PATRIC	CDS		FIG00747604: hypothetical protein	FIG00747603	figfam	clust_2367
-BRE5|SEQ00872	268615891	VBIBifBre336369_0873	SEQ00872	Bifidobacterium breve JCM 7019	BRE5	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS		putative glycosyl hydrolase	FIG00945108	figfam	clust_2367
-BRE6|SEQ00453	177654036	VBIBifBre268992_0453	SEQ00453	Bifidobacterium breve JCP7499	BRE6	Bifidobacterium breve JCP7499	AWSX01000022	PATRIC	CDS		FIG00747604: hypothetical protein	FIG00747603	figfam	clust_2367
-BRE9|SEQ00339	58444724	VBIBifBre30019_0339	SEQ00339	Bifidobacterium breve UCC2003	BRE9	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS		putative glycosyl hydrolase	FIG00945108	figfam	clust_2367

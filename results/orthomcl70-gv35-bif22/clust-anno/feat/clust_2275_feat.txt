@@ -1,9 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00038	VBIBifAdo136061_0038	Bifidobacterium adolescentis L2-32	NZ_DS264422	PATRIC	CDS	27186268	37398	38114	+	717		two-component response regulator	ADO1	clust_2275
-BRE2|SEQ01962	VBIBifBre337368_1962	Bifidobacterium breve 689b	CP006715	PATRIC	CDS	268609966	2291848	2292657	+	810		two-component response regulator	BRE2	clust_2275
-BRE3|SEQ01943	VBIBifBre167886_1943	Bifidobacterium breve ACS-071-V-Sch8b	CP002743	PATRIC	CDS	54195683	2287747	2288538	+	792		two-component response regulator	BRE3	clust_2275
-BRE4|SEQ01915	VBIBifBre327712_1915	Bifidobacterium breve JCM 7017	CP006712	PATRIC	CDS	268614014	2249134	2249943	+	810		two-component response regulator	BRE4	clust_2275
-BRE8|SEQ01919	VBIBifBre176493_1919	Bifidobacterium breve S27	CP006716	PATRIC	CDS	268626497	2255193	2256002	+	810	virR	two-component response regulator	BRE8	clust_2275
-BRE9|SEQ02041	VBIBifBre30019_2041	Bifidobacterium breve UCC2003	CP000303	PATRIC	CDS	58448262	2382861	2383652	+	792	virR	two-component response regulator	BRE9	clust_2275
-DEN1|SEQ00729	VBIBifDen165269_0730	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462764	2214424	2215140	-	717		two-component response regulator	DEN1	clust_2275
-DEN2|SEQ00026	VBIBifDen39005_0026	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000001	PATRIC	CDS	42108333	30874	31590	+	717		two-component response regulator	DEN2	clust_2275

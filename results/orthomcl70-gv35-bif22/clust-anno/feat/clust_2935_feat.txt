@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ02001	VBIBifAdo136061_2001	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27190387	567691	569808	-	2118		Alkaline phosphatase (EC 3.1.3.1)	ADO1	clust_2935
-BIF1|SEQ01785	VBIBifBif87902_1785	Bifidobacterium bifidum BGN4	CP001361	PATRIC	CDS	86886196	2147531	2149663	-	2133	phoA	Alkaline phosphatase (EC 3.1.3.1)	BIF1	clust_2935
-DEN1|SEQ00789	VBIBifDen165269_0790	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462884	2297996	2300092	+	2097	phoA	Alkaline phosphatase (EC 3.1.3.1)	DEN1	clust_2935
-DEN2|SEQ01051	VBIBifDen39005_1051	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000018	PATRIC	CDS	42110457	48962	51079	+	2118	phoA	Alkaline phosphatase (EC 3.1.3.1)	DEN2	clust_2935
-THE1|SEQ01674	VBIBifThe274299_1674	Bifidobacterium thermophilum RBL67	CP004346	PATRIC	CDS	124736617	2076145	2078193	-	2049		Alkaline phosphatase (EC 3.1.3.1)	THE1	clust_2935

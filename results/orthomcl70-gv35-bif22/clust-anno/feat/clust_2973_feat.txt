@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01077	VBIBifAdo136061_1077	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27188476	976707	977777	+	1071		Phage major capsid protein	ADO1	clust_2973
-BRE5|SEQ00947	VBIBifBre336369_0948	Bifidobacterium breve JCM 7019	CP006713	PATRIC	CDS	268616044	1103111	1104178	-	1068		hypothetical protein	BRE5	clust_2973
-DEN1|SEQ01853	VBIBifDen165269_1854	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43460865	1162684	1163802	-	1119		Transcriptional regulatory protein PhoP	DEN1	clust_2973
-DEN2|SEQ00807	VBIBifDen39005_0807	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000011	PATRIC	CDS	42109959	37788	38567	+	780		Phage major capsid protein	DEN2	clust_2973
-INF1|SEQ00849	VBIBifLon182273_0849	Bifidobacterium longum subsp. infantis 157F	NC_015052	PATRIC	CDS	46885669	1025629	1026687	-	1059		hypothetical protein	INF1	clust_2973

@@ -1,6 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ANI1|SEQ01368	VBIBifAni240121_1368	Bifidobacterium animalis subsp. lactis B420	CP003497	PATRIC	CDS	86847743	1616947	1617912	+	966		Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)	ANI1	clust_2918
-ANI2|SEQ01368	VBIBifAni235968_1368	Bifidobacterium animalis subsp. lactis Bi-07	CP003498	PATRIC	CDS	86851096	1617165	1618130	+	966		Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)	ANI2	clust_2918
-ANI3|SEQ01378	VBIBifAni108068_1378	Bifidobacterium animalis subsp. lactis V9	CP001892	PATRIC	CDS	42765116	1622396	1623361	+	966		Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)	ANI3	clust_2918
-DEN1|SEQ00953	VBIBifDen165269_0954	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459029	91605	92540	-	936	cps2F	Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)	DEN1	clust_2918
-DEN2|SEQ01514	VBIBifDen39005_1515	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000028	PATRIC	CDS	42111417	133187	134122	+	936		Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)	DEN2	clust_2918

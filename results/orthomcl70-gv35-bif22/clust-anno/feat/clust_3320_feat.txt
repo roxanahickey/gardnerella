@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-DEN1|SEQ01364	VBIBifDen165269_1365	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459857	617497	618444	+	948		Alcohol dehydrogenase (EC 1.1.1.1)	DEN1	clust_3320
-DEN2|SEQ00280	VBIBifDen39005_0280	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108881	236812	237759	-	948		Alcohol dehydrogenase (EC 1.1.1.1)	DEN2	clust_3320
-LON4|SEQ00845	VBIBifLon48544_0845	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46889963	1011477	1012424	-	948		Alcohol dehydrogenase (EC 1.1.1.1)	LON4	clust_3320

@@ -1,7 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-GV04|SEQ00133	VBIGarVag246433_0133	Gardnerella vaginalis 0288E	ADEN01000002	PATRIC	CDS	85480115	12926	13990	-	1065		LacI-type transcriptional regulator	GV04	clust_1544
-GV08|SEQ01225	VBIGarVag251521_1225	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476913	335518	336582	+	1065		LacI-type transcriptional regulator	GV08	clust_1544
-GV11|SEQ00581	VBIGarVag171052_0581	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549497	12850	13914	-	1065		LacI-type transcriptional regulator	GV11	clust_1544
-GV21|SEQ00681	VBIGarVag274454_0682	Gardnerella vaginalis JCP7275	ATJS01000043	PATRIC	CDS	183968060	2469	3518	-	1050		Transcriptional regulator, LacI family	GV21	clust_1544
-GV22|SEQ00604	VBIGarVag276801_0605	Gardnerella vaginalis JCP7276	ATJR01000019	PATRIC	CDS	183970645	12180	13244	-	1065		Transcriptional regulator, LacI family	GV22	clust_1544
-GV24|SEQ00252	VBIGarVag268944_0253	Gardnerella vaginalis JCP7672	ATJP01000010	PATRIC	CDS	183975613	2274	3338	-	1065		Transcriptional regulator, LacI family	GV24	clust_1544

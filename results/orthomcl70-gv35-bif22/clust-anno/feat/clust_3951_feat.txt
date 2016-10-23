@@ -1,4 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ01628	VBIBifAdo136061_1628	Bifidobacterium adolescentis L2-32	NZ_DS264459	PATRIC	CDS	27189627	108569	112024	-	3456		Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)	ADO1	clust_3951
-DEN1|SEQ01401	VBIBifDen165269_1402	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43459932	661453	662109	+	657		Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)	DEN1	clust_3951
-DEN2|SEQ00242	VBIBifDen39005_0242	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000004	PATRIC	CDS	42108803	193177	193833	-	657		Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)	DEN2	clust_3951

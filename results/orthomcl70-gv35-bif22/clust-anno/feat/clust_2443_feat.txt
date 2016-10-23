@@ -1,8 +1,0 @@
-cds_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short	ortho_id
-ADO1|SEQ00453	VBIBifAdo136061_0453	Bifidobacterium adolescentis L2-32	NZ_DS264454	PATRIC	CDS	27187169	289183	291297	+	2115		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	ADO1	clust_2443
-DEN1|SEQ00463	VBIBifDen165269_0464	Bifidobacterium dentium ATCC 27679	NZ_GL405225	PATRIC	CDS	43462218	1857753	1859867	-	2115		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	DEN1	clust_2443
-DEN2|SEQ01299	VBIBifDen39005_1300	Bifidobacterium dentium JCVIHMP022	NZ_AEHJ01000026	PATRIC	CDS	42110982	11457	13571	-	2115		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	DEN2	clust_2443
-LON1|SEQ01482	VBIBifLon107831_1483	Bifidobacterium longum NCC2705	NC_004307	PATRIC	CDS	21120094	1796137	1798269	+	2133		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	LON1	clust_2443
-LON2|SEQ01492	VBIBifLon171405_1495	Bifidobacterium longum subsp. longum BBMN68	NC_014656	PATRIC	CDS	42582577	1757496	1761236	+	3741		FIG00427342: hypothetical protein	LON2	clust_2443
-LON3|SEQ01824	VBIBifLon156230_1827	Bifidobacterium longum subsp. longum F8	FP929034	PATRIC	CDS	42766837	704355	706019	-	1665		Alpha-L-arabinofuranosidase II precursor (EC 3.2.1.55)	LON3	clust_2443
-LON4|SEQ01917	VBIBifLon48544_1917	Bifidobacterium longum subsp. longum JCM 1217	NC_015067	PATRIC	CDS	46892239	2254925	2258665	-	3741		FIG00427342: hypothetical protein	LON4	clust_2443
