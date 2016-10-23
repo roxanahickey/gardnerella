@@ -1,73 +1,836 @@
 ---
 title: "Analysis of OrthoMCL results from 35 Gardnerella genomes"
 author: "Roxana Hickey"
-date: "March 20, 2015"
+date: "May 21, 2015"
 output: html_document
 ---
 
-Load ouput from Gardnerella-only OrthoMCL summary
+Summarize OrthoMCL results (updated 2015-05-21)
 ```{r setup}
-## Run orthomcl_summary.R with custom parameters via run_orthomcl_summary_gv.R
 setwd("~/Documents/research/gardnerella/gardnerella-git")
-# source("code/run_orthomcl_summary_gv35_id50.R") # 50% clustering, 35 GV genomes
-# source("code/run_orthomcl_summary_gv35_id70.R") # 70% clustering, 35 GV genomes
+# load("sandbox/orthomcl_summary_gv_current.RData")
 
-## Load output
-load("results/orthomcl-summary-gv/orthomcl_summary.RData")
+## Set up custom settings and load raw data
+# source("code/setup_orthomcl_summary_gv35_id70.R") # 70% clustering, 35 GV genomes
+
+## Run part 1 of summary
+# source("code/orthomcl_summary_part1.R")
+load("results/orthomcl70-gv35/orthomcl_summary_part1.RData")
+
+## run hclust to identify groups
+# source("code/orthomcl_hclust_id_clades.R")
+load("results/orthomcl70-gv35/orthomcl_hclust_id_clades.RData")
+
+## Run part 2 of summary
+# source("code/orthomcl_summary_part2.R")
+load("results/orthomcl70-gv35/orthomcl_summary_part2.RData")
+
+library(ggplot2)
+
+## update colors
+# col.cust.6 <- c("#1E1538", "#AC1412", "goldenrod3", "#C63804", "#D1767C", "#722444")
+# col.cust <- col.cust.6[-2]
+# col.cust.hc <- col.cust[-3]
+
+col.cust <- c("royalblue3","darkturquoise","gold3","tomato2","mediumorchid3")
+col.cust.hc <- col.cust[-3]
 ```
 
-SANDBOX
-```{r sandbox}
-dir.out <- "sandbox/functional-anno-gv/"
-dir.create(dir.out)
+Genome characteristics
+```{r genome-char}
+genome.char <- read.table("data/reference/gv_genome_char_manual_calc.txt", 
+                          sep="\t", header=T, quote="", na.strings="NA")
+
+summary(genome.char$genome_size)
+summary(genome.char$patric_cds)
+summary(genome.char$gc_content)
+
+## rename hclust and clades in genome key (6/14/15)
+new.hc <- data.frame(hc_group=c(1,2,3,4),
+                     hc_group_new=c("II","III","I","IV"))
+new.clade <- data.frame(clade_id=c("1","2a","2b","3","4"),
+                        clade_id_new=c(2,4,3,1,5))
+
+genome.key$hc_group_old <- genome.key$hc_group
+genome.key$clade_id_old <- genome.key$clade_id
+
+genome.key$hc_group <- new.hc$hc_group_new[match(genome.key$hc_group_old, new.hc$hc_group)]
+genome.key$clade_id <- new.clade$clade_id_new[match(genome.key$clade_id_old, new.clade$clade_id)]
+
+## plot with clade id colored
+genome.key.char <- merge(genome.key, genome.char)
+
+ggplot(genome.key.char, aes(x=genome_size, y=patric_cds, color=factor(clade_id))) +
+  geom_point(size=3) +
+  scale_color_manual(name="Clade", values=col.cust) +
+  xlab("Genome size (Mb)") +
+  ylab("Total CDS per genome") +
+  theme_cust_nominor +
+  theme(legend.justification=c(1,0), legend.position=c(1,0))
+ggsave(paste0(dir.fig, "/gv_cds_vs_size_clade.png"),
+              width=3, height=2.5, units="in", scale=2)
+
+ggplot(genome.key.char, aes(x=genome_size, y=gc_content, color=factor(clade_id))) +
+  geom_point(size=3) +
+  scale_color_manual(name="Clade", values=col.cust) +
+  xlab("Genome Size (Mb)") +
+  ylab("GC content (%)") +
+  theme_cust_nominor +
+  theme(legend.justification=c(1,1), legend.position=c(1,1))
+ggsave(paste0(dir.fig, "/gv_gc_vs_size_clade.png"), 
+              width=3, height=2.5, units="in", scale=2)
+
+# no color
+ggplot(genome.key.char, aes(x=genome_size, y=gc_content)) +
+  geom_point(size=3) +
+  xlab("Genome Size (Mb)") +
+  ylab("GC content (%)") +
+  theme_cust_nominor
+ggsave(paste0(dir.fig, "/gv_gc_vs_size.png"), 
+              width=3, height=2.5, units="in", scale=2)
+
+## summarize genome size and GC by group
+for(i in sort(unique(genome.key.char$clade_id))){
+  print(summary(genome.key.char$genome_size[genome.key.char$clade_id==i]))
+  print(summary(genome.key.char$gc_content[genome.key.char$clade_id==i]))
+  }
+
+## clade 1
+## genome size
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   1.560   1.645   1.658   1.656   1.672   1.727 
+## GC percent
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   41.00   41.20   41.20   41.21   41.30   41.40 
+
+## clade 2
+## genome size
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   1.470   1.524   1.551   1.543   1.562   1.606 
+## GC percent
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   41.90   42.00   42.20   42.13   42.20   42.30 
+
+## clade 3
+## genome size
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   1.494   1.579   1.612   1.598   1.632   1.673 
+## GC percent
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   42.00   42.00   42.05   42.08   42.12   42.20 
+
+## clade 4
+## genome size
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   1.491   1.498   1.514   1.516   1.532   1.548 
+## GC percent
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   43.00   43.22   43.35   43.28   43.40   43.40 
+
+## clade 5
+## genome size
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#   1.567   1.568   1.568   1.568   1.569   1.570 
+## GC percent
+#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#    42.9    42.9    42.9    42.9    42.9    42.9
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+OrthoMCL summary plots
+```{r orthomcl-plots}
+# number of gene clusters present in exactly n genomes
+gc.ext <- ggplot(clust.ct, aes(x=factor(no_genomes), y=freq, fill=col.cust[1])) + 
+  geom_bar(stat="identity") + 
+  geom_text(aes(label=freq, vjust=-0.5, size=4), color=col.cust[1]) +
+  scale_fill_manual(values=col.cust[1]) +
+  scale_color_manual(values=col.cust[1]) +
+  theme_cust +
+  xlab("No. unique genome representatives in protein family") + 
+  ylab("No. protein families and singletons") +
+  theme(legend.position="none",
+        panel.grid.major.x = element_blank())
+gc.ext
+ggsave(paste0(dir.fig, "/orthomcl_clust_n_genome_exact.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+# number of gene clusters present in at least n genomes
+gc.cml <- ggplot(clust.ct, aes(x=factor(no_genomes), y=rev(cumsum(rev(clust.ct$freq))), fill=col.cust[5])) + 
+  geom_bar(stat="identity") + 
+#   geom_text(aes(label=rev(cumsum(rev(clust.ct$freq))), 
+#                 color=col.cust[5], angle=45, hjust=0, vjust=-0.5, size=1)) +
+  scale_fill_manual(values=col.cust[5]) +
+  scale_color_manual(values=col.cust[5]) +
+  xlab("Minimum number of genome representatives in protein family") + 
+  ylab("No. protein families and singletons") + 
+  theme_cust + 
+#   scale_fill_manual(values=colorRampPalette(brewer.pal(5, col.bw.seq))(length(clust.ct$no_genomes))) +
+  theme(legend.position="none",
+        panel.grid.major.x = element_blank())
+gc.cml
+ggsave(paste0(dir.fig, "/orthomcl_clust_n_genome_atleast.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+# plot together
+png(paste0(dir.fig, "/orthomcl_clust_n_genome.png"), width=10, height=12, units="in", pointsize = 8, res=300)
+multiplot(gc.ext + ggtitle("A") + theme(plot.margin=unit(c(0.5,1,0.5,1), "cm"),
+                                        plot.title=element_text(face="bold", size=18, hjust=-0.08)), 
+          gc.cml + ggtitle("B") + theme(plot.margin=unit(c(0.5,1,0.5,1), "cm"),
+                                        plot.title=element_text(face="bold", size=18, hjust=-0.08)),
+          layout=matrix(c(1,2), nrow=2))
+dev.off()
+
+# ggplot(clust.ct) + 
+#   geom_bar(aes(x=no_genomes, y=rev(cumsum(rev(clust.ct$freq))), fill=col.cust[5]), stat="identity") +
+#   geom_line(aes(x=as.numeric(no_genomes), y=freq, color=col.cust[2]), stat="identity") + 
+#   geom_point(aes(x=factor(no_genomes), y=freq, color=col.cust[2]), stat="identity", size=3) + 
+#   geom_text(aes(x=factor(no_genomes), y=freq), label=clust.ct$freq, vjust=-1, size=3, color=col.cust[2]) +
+#   theme_cust_nogrid +
+#   scale_color_manual("", values=col.cust[2], labels="Exact") +
+#   scale_fill_manual("", values=col.cust[5], labels="Cumulative") +
+#   xlab("Number of genomes (n)") + 
+#   ylab("Ortholog clusters and CDS singletons") +
+#   theme(legend.justification=c(1,1), legend.position=c(1,1),
+#         legend.key=element_rect(color="white"))
+# ggsave(paste0(dir.fig, "/orthomcl_clust_pangenome.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+# plot together -- new version 6/14/15
+# ggplot(clust.ct) + 
+#   geom_bar(aes(x=no_genomes, y=freq, fill=col.cust[5]), stat="identity") +
+#   geom_line(aes(x=as.numeric(no_genomes), y=cumsum(clust.ct$freq), color=col.cust[1]), stat="identity") + 
+#   geom_point(aes(x=factor(no_genomes), y=cumsum(clust.ct$freq), color=col.cust[1]), stat="identity", size=3) + 
+#   geom_text(aes(x=factor(no_genomes), y=freq), label=clust.ct$freq, vjust=-1, size=3, color=col.cust[5]) +
+#   theme_cust_nogrid +
+#   scale_color_manual("", values=col.cust[1], labels="Cumulative pangenome") +
+#   scale_fill_manual("", values=col.cust[5], labels="Present in exactly n genomes") +
+#   xlab("No. genomes (n)") + 
+#   ylab("No. protein families and singletons") +
+#   theme(legend.justification=c(0,1), legend.position=c(0,1),
+#         legend.key=element_rect(color="white"), legend.box.just="left")
+# ggsave(paste0(dir.fig, "/orthomcl_clust_pangenome.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+#####
+# protein families per clade (count)
+## change to new clade names (6/14/15)
+new.group <- data.frame(group_id=c("group1","group2a","group2b","group3","group4"),
+                        group_id_new=c(2,4,3,1,5))
+
+clust.smy.red.md$group_id_old <- clust.smy.red.md$group_id
+clust.smy.red.md$group_id <- new.group$group_id_new[match(clust.smy.red.md$group_id_old, new.group$group_id)]
+
+# col.cust.dark <- c("royalblue4", "turquoise4", "gold4", "tomato4", "mediumorchid4")
+
+gp.ct <- ggplot(clust.smy.red.md, aes(x=factor(group_id), y=value, fill=factor(group_id), alpha=variable)) + 
+  geom_bar(stat="identity", aes(color="white")) + 
+  theme_cust_nogrid +
+  scale_color_identity() +
+  xlab("Clade") + ylab("No. protein families and singletons") +
+#   scale_x_discrete(labels=c("1","2A","2B","3","4")) +
+  scale_fill_manual("Clade", values=col.cust) +
+  scale_alpha_manual("Category", 
+                     limits=c("all_core", "group_core_not_uniq", "group_core_uniq", "group_acc", "group_sing"),
+                     breaks=rev(c("all_core", "group_core_not_uniq", "group_core_uniq", "group_acc", "group_sing")),
+                     labels=rev(c("Species core", "Clade core, non-unique", "Clade core, unique", 
+                                  "Clade accessory", "Clade singletons")),
+                     values=c(1, 0.7, 0.55, 0.4, 0.2)) +
+  theme(legend.key=element_rect(color="white"))
+gp.ct
+ggsave(paste0(dir.fig, "/orthomcl_clust_group_count.png"), width=4, height=4, units="in", scale=2)
+
+# orthologs per clade (proportion)
+gp.pr <- ggplot(clust.smy.red.md, aes(x=factor(group_id), y=value, fill=factor(group_id), alpha=variable)) + 
+  geom_bar(stat="identity", position="fill", aes(color="white")) + 
+  theme_cust_nogrid +
+  scale_color_identity() +
+  xlab("Clade") + ylab("Proportion of total protein families and singletons") +
+#   scale_x_discrete(labels=c("1","2A","2B","3","4")) +
+  scale_fill_manual("Clade", values=col.cust) +
+  scale_alpha_manual("Category", 
+                     limits=c("all_core", "group_core_not_uniq", "group_core_uniq", "group_acc", "group_sing"),
+                     breaks=rev(c("all_core", "group_core_not_uniq", "group_core_uniq", "group_acc", "group_sing")),
+                     labels=rev(c("Species core", "Clade core, non-unique", "Clade core, unique", 
+                                  "Clade accessory", "Clade singletons")),
+                     values=c(1, 0.7, 0.55, 0.4, 0.2)) +
+  theme(legend.key=element_rect(color="white"))
+gp.pr
+ggsave(paste0(dir.fig, "/orthomcl_clust_group_prop.png"), width=4, height=4, units="in", scale=2)
+
+# number of singleton clusters per genome
+# ggplot(strain.uniq.df, aes(x=reorder(id_abbr, as.numeric(group_id) - sing_clust_prop), y=sing_clust_prop, fill=factor(group_id))) + 
+#   geom_bar(stat="identity") + 
+#   theme_cust_nogrid +
+#   xlab("Strain") + ylab("Proportion of singleton CDS out of total per genome") + 
+#   theme(axis.text.x=element_text(angle=-30, hjust=0, vjust=1, size=8)) +
+#   labs(fill="Genome Group") +
+#   geom_text(aes(label=sing_clust_count, hjust=1.3), size=2.5, color="white", show_guide=F) +
+#   scale_fill_manual(values=col.cust) +
+#   coord_flip() +
+#   scale_x_discrete(limits=rev(levels(reorder(strain.uniq.df$id_abbr, as.numeric(strain.uniq.df$group_id) - strain.uniq.df$sing_clust_prop)))) +
+#   theme(legend.justification=c(1,1), legend.position=c(1,1))
+# ggsave(paste0(dir.fig, "/orthomcl_clust_uniq_per_strain.png"), width=3, height=3.75, units="in", scale=2)
+
+## obtain genome characteristics
+strain.uniq.df$id_short <- rownames(strain.uniq.df)
+genome.key.char <- merge(genome.key.char, strain.uniq.df)
+
+## number of uniq CDS vs contigs
+cds.cg <- ggplot(genome.key.char, aes(x=contigs, y=sing_clust_count, color=factor(clade_id))) + 
+  geom_point() +
+  geom_text(aes(label=id_abbr, vjust=2), size=3, show_guide=F) +
+  theme_cust +
+  xlab("Contigs") + ylab("Singleton coding DNA sequences") + 
+  scale_color_manual("Clade", values=col.cust)
+cds.cg
+# ggsave(paste0(dir.fig, "/orthomcl_uniq_vs_contig.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+## number of uniq CDS vs total CDS
+cds.tot <- ggplot(genome.key.char, aes(x=total_clust_count, y=sing_clust_count, color=factor(clade_id))) + 
+  geom_point() +
+  geom_text(aes(label=id_abbr, vjust=2), size=3, show_guide=F) +
+  theme_cust +
+  xlab("Total CDS") + ylab("Singleton coding DNA sequences") + 
+  scale_color_manual("Clade", values=col.cust)
+cds.tot
+# ggsave(paste0(dir.fig, "/orthomcl_uniq_vs_cds.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+png(paste0(dir.fig, "/orthomcl_uniq_vs_cds_contig.png"), width=12, height=6, units="in", res=300)
+multiplot(cds.cg + ggtitle("A") + theme(legend.position="none", 
+                                        plot.margin=unit(c(2,2,2,2), "mm"),
+                                        plot.title=element_text(face="bold", size=18, hjust=-0.08)), 
+          cds.tot + ggtitle("B") + ylab("") + theme(legend.justification=c(1,1), legend.position=c(1,1),
+                                                    plot.margin=unit(c(2,2,2,2), "mm"),
+                                                    plot.title=element_text(face="bold", size=18, hjust=-0.08)),
+          layout=matrix(c(1,2), nrow=1))
+dev.off()
+
+cor(genome.key.char$sing_clust_count, genome.key.char$patric_cds)
+
+## CDS per genome (proportions)
+## replace with new clade ids
+strain.clust.count.md$group_id_old <- strain.clust.count.md$group_id
+strain.clust.count.md$group_id <- new.group$group_id_new[match(strain.clust.count.md$group_id_old, new.group$group_id)]
+
+st.pr <- ggplot(strain.clust.count.md, aes(x=reorder(id_abbr, group_id), 
+                                           y=value, fill=factor(group_id), alpha=variable)) + 
+  geom_bar(stat="identity", position="fill", aes(color="white")) + theme_cust_nogrid +
+  scale_color_identity() + 
+  xlab("Strain") + ylab("Proportion of coding genome") +
+  scale_fill_manual("Clade", values=col.cust) +
+  scale_alpha_manual("Category", 
+                     limits=c("all_core", "group_core_not_uniq", "group_core_uniq", "accessory", "singleton"),
+                     breaks=rev(c("all_core", "group_core_not_uniq", "group_core_uniq", "accessory", "singleton")),
+                     labels=rev(c("Species core", "Clade core, non-unique", "Clade core, unique", 
+                                  "Accessory", "Singletons")),
+                     values=c(1, 0.7, 0.55, 0.4, 0.2)) +
+  theme(axis.text.x=element_text(angle=-30, hjust=0, vjust=1, size=8),
+        legend.key=element_rect(color="white"))
+st.pr
+ggsave(paste0(dir.fig, "/orthomcl_clust_genome_prop.png"), width=5, height=2.75, units="in", scale=2)
+
+## CDS per genome (counts)
+st.ct <- ggplot(strain.clust.count.md, aes(x=reorder(id_abbr, group_id), 
+                                  y=value, fill=factor(group_id), alpha=variable)) + 
+  geom_bar(stat="identity", aes(color="white")) + theme_cust_nogrid +
+  scale_color_identity() + 
+  xlab("Strain") + ylab("No. of coding DNA sequences") +
+  scale_y_continuous(breaks=seq(0, 1400, 200)) +
+  scale_fill_manual("Clade", values=col.cust) +
+  scale_alpha_manual("Category", 
+                     limits=c("all_core", "group_core_not_uniq", "group_core_uniq", "accessory", "singleton"),
+                     breaks=rev(c("all_core", "group_core_not_uniq", "group_core_uniq", "accessory", "singleton")),
+                     labels=rev(c("Species core", "Clade core, non-unique", "Clade core, unique", 
+                                  "Accessory", "Singletons")),
+                     values=c(1, 0.7, 0.55, 0.4, 0.2)) +
+  theme(axis.text.x=element_text(angle=-30, hjust=0, vjust=1, size=8),
+        legend.key=element_rect(color="white"))
+st.ct
+ggsave(paste0(dir.fig, "/orthomcl_clust_genome_count.png"), width=5, height=2.75, units="in", scale=2)
+
+## figure 5
+png(paste0(dir.fig, "/orthomcl_clust_genome_strain.png"), width=8, height=10, units="in", res=300)
+multiplot(gp.ct + ggtitle("A") + theme(plot.margin=unit(c(5,2,2,2), "mm"),
+                                       plot.title=element_text(face="bold", size=18, hjust=-0.09)), 
+          st.pr + ggtitle("B") + theme(legend.position="none", 
+                                       plot.margin=unit(c(2,10,2,2), "mm"),
+                                       plot.title=element_text(face="bold", size=18, hjust=-0.065)))
+dev.off()
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+Singleton products
+```{r sing-prod}
+## ortho.prod from enrich_v2.R
+## count number of clusters with "hypothetical protein" annotation
+length(ortho.prod$Product[grep("hypothetical protein", ortho.prod$Product, ignore.case=T)])
+
+## subset non hypothetical proteins into new dataframe
+ortho.prod.nothypo <- ortho.prod[grep("hypothetical protein", ortho.prod$Product, ignore.case=T, invert=T),]
+length(unique(ortho.prod.nothypo$Product))
+
+## match singletons to products
+sing.prod <- subset(key_anno_features_clades, cds_id %in% ortho.sing$cds_id)
+
+## count number of singletons with "hypothetical protein" annotation
+length(sing.prod$product[grep("hypothetical protein", sing.prod$product, ignore.case=T)])
+
+## reduce singletons to non hypothetical proteins
+sing.prod.nothypo <- sing.prod[grep("hypothetical protein", sing.prod$product, ignore.case=T, invert=T),]
+length(unique(sing.prod.nothypo$product))
+
+## overall protein annotations
+length(grep("hypothetical protein", key_anno_features_clades$product, ignore.case=T))
+key.anno.feat.nothypo <- key_anno_features_clades[grep("hypothetical protein", key_anno_features_clades$product, ignore.case=T, invert=T),]
+length(unique(key.anno.feat.nothypo$product))
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+Make prettier dendrogram (hierarchical clustering of genomes based on ortholog presence/absence)
+```{r dendrogram}
+# http://stackoverflow.com/questions/21474388/colorize-clusters-in-dendogram-with-ggplot2
+library(ggplot2)
+library(ggdendro)
+library(plyr)
+library(zoo)
+require(grid)
+
+cut <- k.best    # Number of clusters
+hc <- hc.a.2
+dendr <- dendro_data(hc, type="rectangle") 
+clust <- cutree(hc, k=cut)               # find 'cut' clusters
+clust.df <- data.frame(label=names(clust), cluster=clust)
+
+## rename clusters 6/14/15
+# clust.df$cluster <- new.hc$hc_group_new[match(clust.df$cluster, new.hc$hc_group)]
+
+# Split dendrogram into upper grey section and lower coloured section
+height <- unique(dendr$segments$y)[order(unique(dendr$segments$y), decreasing=TRUE)]
+cut.height <- mean(c(height[cut], height[cut-1]))
+dendr$segments$line <- ifelse(dendr$segments$y == dendr$segments$yend &
+                                dendr$segments$y > cut.height, 1, 2)
+dendr$segments$line <- ifelse(dendr$segments$yend  > cut.height, 1, dendr$segments$line)
+
+# Number the clusters
+dendr$segments$cluster <- c(-1, diff(dendr$segments$line))
+change <- which(dendr$segments$cluster == 1)
+for (i in 1:cut) dendr$segments$cluster[change[i]]=i + 1
+dendr$segments$cluster <-  ifelse(dendr$segments$line == 1, 1, 
+                                  ifelse(dendr$segments$cluster == 0, NA, dendr$segments$cluster))
+dendr$segments$cluster <- na.locf(dendr$segments$cluster) 
+
+# Consistent numbering between segment$cluster and label$cluster
+clust.df$label <- factor(clust.df$label, levels=levels(dendr$labels$label))
+clust.df <- arrange(clust.df, label)
+clust.df$cluster <- factor((clust.df$cluster), levels=unique(clust.df$cluster), labels=(1:cut) + 1)
+dendr[["labels"]] <- merge(dendr[["labels"]], clust.df, by="label")
+
+# Positions for cluster labels
+n.rle <- rle(dendr$segments$cluster)
+N <- cumsum(n.rle$lengths)
+N <- N[seq(1, length(N), 2)] + 1
+N.df <- dendr$segments[N, ]
+N.df$cluster <- N.df$cluster - 1
+
+# Plot the dendrogram
+hc.dend <- ggplot() + 
+  geom_segment(data=segment(dendr), 
+               aes(x=x, y=y, xend=xend, yend=yend, size=factor(line), colour=factor(cluster)), 
+               lineend="square", show_guide=FALSE) + 
+  scale_colour_manual(values=c("grey60", col.cust.hc[c(4,3,1,2)])) +
+  scale_size_manual(values=c(.1, 1)) +
+  geom_text(data=N.df, aes(x=x, y=y, label=c("IV","III","I","II"), colour=factor(cluster + 1)), 
+            hjust=1.5, show_guide=FALSE) +
+  geom_text(data=label(dendr), aes(x, y, label=label, colour=factor(cluster)), 
+            angle=270, hjust=-0.1, size=3, show_guide=FALSE) +
+  scale_y_continuous(expand=c(0.2, 0)) + 
+  labs(x=NULL, y="Height") +
+#   coord_flip() + 
+  theme(axis.line.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.title.x=element_blank(),
+        panel.background=element_rect(fill="white"),
+        panel.grid=element_blank(),
+        plot.margin=unit(c(-10,0,10,0), "mm"))
+hc.dend
+ggsave(paste0(dir.fig, "/hc_clusters.pdf"), width=4, height=3, units="in", scale=3)
+
+hc.dend.2 <- ggplot() + 
+  geom_segment(data=segment(dendr), 
+               aes(x=x, y=y, xend=xend, yend=yend, size=factor(line), colour=factor(cluster)), 
+               lineend="square", show_guide=FALSE) + 
+  scale_colour_manual(values=c("grey60", col.cust.hc[c(4,3,1,2)])) +
+  scale_size_manual(values=c(.1, 1)) +
+  geom_text(data=N.df, aes(x=x, y=y, label=c("IV","III","I","II"), colour=factor(cluster + 1)), 
+            hjust=1.5, show_guide=FALSE) +
+#   geom_text(data=label(dendr), aes(x, y, label=label, colour=factor(cluster)), 
+#             angle=270, hjust=-0.1, size=3, show_guide=FALSE) +
+  scale_y_continuous(expand=c(0.2, 0)) + 
+  labs(x=NULL, y="Height") +
+#   coord_flip() + 
+  theme(axis.line.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.title.x=element_blank(),
+        panel.background=element_rect(fill="white"),
+        panel.grid=element_blank(),
+        plot.margin=unit(c(-40,10,0,50), "mm"))
+hc.dend.2
+
+# hc.dend.a <- hc.dend + ggtitle("A") + theme(plot.title=element_text(face="bold", size=18, hjust=0),
+#                                             plot.margin=unit(c(0,0,50,0), "mm"))
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+Select some functional gene orthologs to show in a heatmap
+```{r heatmap-functions}
+# dir.out <- "sandbox/functional-anno-gv/"
+# dir.create(dir.out)
 
 ## replace ortho_id with cds_id for singletons
 key.feat.cds$ortho_id <- as.character(key.feat.cds$ortho_id)
 key.feat.cds$ortho_id[is.na(key.feat.cds$ortho_id)] <- as.character(key.feat.cds$cds_id[is.na(key.feat.cds$ortho_id)])
 
-## add clade info to feature table
-key.clade <- data.frame(id_short=names(cutg), clade_id=cutg)
-key.feat.cds <- merge(key.feat.cds, key.clade, by="id_short")
-write.table(key.feat.cds, paste(dir.out, "cds_feature_key_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+## append singletons to clust.mx
+clust.mx.sing <- matrix(nrow=nrow(clust.mx), ncol=length(ortho.sing$cds_id))
+rownames(clust.mx.sing) <- rownames(clust.mx)
+colnames(clust.mx.sing) <- ortho.sing$cds_id
 
-## add clade info to annotation tables
-# save original annotation key
-anno.figfam <- merge(key.anno$figfam, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
-write.table(anno.figfam, paste(dir.out, "anno_figfam_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+for(i in unique(rownames(clust.mx.sing))){
+  pres <- grep(i, colnames(clust.mx.sing))
+  abs <- grep(i, colnames(clust.mx.sing), invert=1)
+  clust.mx.sing[i,pres] <- 1
+  clust.mx.sing[i,abs] <- 0
+}
 
-anno.ec <- merge(key.anno$ec, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
-write.table(anno.ec, paste(dir.out, "anno_ec_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+# check sums
+rowSums(clust.mx.sing) == table(ortho.sing$id_short)
 
-anno.go <- merge(key.anno$go, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
-write.table(anno.go, paste(dir.out, "anno_go_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+# combine with clust.mx
+clust.mx.full <- cbind(clust.mx, clust.mx.sing)
 
-anno.path <- merge(key.anno$path, key.feat.cds[,c("locus_tag", "na_length", "ortho_id", "clade_id")], by="locus_tag")
-write.table(anno.path, paste(dir.out, "anno_path_gv.txt", sep=""), sep="\t", row.names=F, quote=F)
+func <- c("sialidase", "cytolysin", "galactosidase", "glucosidase", "fucosidase", "hexosaminidase", # putative VF
+          "sortase",  "glycosyltransferase", # possible attachment
+          "tetracycline", "amylase", "CRISPR", "metallo") # misc functions
 
-#####
-## write empty data frame to keep track of selected gene annotations
-func <- list()
+ortho.func <- data.frame(matrix(nrow=0, ncol=2))
+colnames(ortho.func) <- c("ortho_id", "product_rep")
 
-# sialidase
-func$sialidase <- key.feat.cds[grep("Sialidase", key.feat.cds$product, ignore.case = TRUE),]
-# unique(key.feat.cds$genome_name[!(key.feat.cds$genome_name %in% func$sialidase$genome_name)])
+for(i in 1:length(func)){
+  o.tmp <- unique(key.feat.cds[grep(func[i], key.feat.cds$product, ignore.case=T), c("ortho_id", "product")])
+  ortho.func <- rbind(ortho.func, o.tmp)
+}
 
-# amylase
-func$amylase <- key.feat.cds[grep("amylase", key.feat.cds$product, ignore.case = TRUE),]
+rownames(ortho.func) <- NULL
+  
+ortho.func.red <- data.frame(matrix(nrow=length(unique(ortho.func$ortho_id)), ncol=2))
+rownames(ortho.func.red) <- unique(unique(ortho.func$ortho_id))
+colnames(ortho.func.red) <- c("ortho_id", "product_rep")
 
-# lysin
-func$lysin <- key.feat.cds[grep("lysin", key.feat.cds$product, ignore.case = TRUE),]
-func$lysin <- func$lysin[-grep("Lysine", func$lysin$product),]
+for(i in unique(ortho.func$ortho_id)){
+  tmp <- subset(key.feat.cds$product, key.feat.cds$ortho_id==i)
+  len <- length(unique(tmp))
+  ortho.func.red[i, "ortho_id"] <- i
+  ortho.func.red[i, "product_rep"] <- names(which.max(table(tmp)))
+}
 
-# cytolysin (Thiol-activated cytolysin = vaginolysin)
-func$cytolysin <- key.feat.cds[grep("cytolysin", key.feat.cds$product, ignore.case = TRUE),]
-unique(key.feat.cds$genome_name[!(key.feat.cds$genome_name %in% func$cytolysin$genome_name)])
+ortho.func.red$ortho_product_full <- paste(ortho.func.red$ortho_id, ortho.func.red$product_rep, sep=": ")
 
-# toxin
-func$toxin <- key.feat.cds[grep("toxin", key.feat.cds$product, ignore.case = TRUE),]
+## combine together
+clust.mx.func <- clust.mx.full[,colnames(clust.mx.full) %in% ortho.func.red$ortho_id]
+colnames(clust.mx.func) <- ortho.func.red$ortho_product_full[match(colnames(clust.mx.func), ortho.func.red$ortho_id)]
 
-# plasmid
-func$plasmid <- key.feat.cds[grep("plasmid", key.feat.cds$product, ignore.case = TRUE),]
+library(reshape)
+clust.mx.func.m <- melt(clust.mx.func)
+colnames(clust.mx.func.m) <- c("id_short", "ortholog", "freq")
+clust.mx.func.m <- merge(clust.mx.func.m, genome.key[,c("id_short", "id_abbr")])
+clust.mx.func.m$ortho_id <- ortho.func.red$ortho_id[match(clust.mx.func.m$ortholog, ortho.func.red$ortho_product_full)]
 
+## add BV/biotype status
+clust.mx.func.m <- merge(clust.mx.func.m, genome.key.char[,c("id_short", "nugent", "nugent_cat", "bv_stat", "biotype")])
 
+library(ggplot2)
+library(RColorBrewer)
+
+## subset by functions
+o.degrade <- ortho.func$ortho_id[1:18] # VF
+o.attach <- ortho.func$ortho_id[19:36] # sortases, glycosyltransferases
+o.tetres <- ortho.func$ortho_id[37:38] # tet resistance
+o.amylase <- ortho.func$ortho_id[40:41] # alpha-amylase
+o.crispr <- ortho.func$ortho_id[42:53] # CRISPR
+o.metallo <- ortho.func$ortho_id[54:55] # metallopeptidases
+
+## quick viewing
+## pick one of above
+o.sel <- o.crispr
+ggplot(clust.mx.func.m[clust.mx.func.m$ortho_id %in% o.sel,], 
+                   aes(x=id_abbr, y=ortholog, fill=factor(freq))) + 
+  geom_tile() +
+  scale_fill_manual(values=c("grey90", "grey60", "grey30"),
+                    name="Count") +
+  xlim(as.character(hc.a.2$labels[hc.a.2$order])) +
+  labs(x=NULL, y=NULL) +
+  coord_flip() +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=300, hjust=0, size=9),
+        axis.text.y=element_text(color=col.cust.hc[c(2,3,1,4)][cutg[hc.a.2$labels[hc.a.2$order]]]),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        panel.grid=element_blank(),
+        plot.margin=unit(c(10,15,5,5), "mm")) +
+  geom_tile(size=1, color="white", show_guide=FALSE)
+## save figure (replace FUNC in name)
+# ggsave(paste0(dir.fig, "/func_hc_FUNC.pdf"), width=4, height=5, units="in", scale=2.5)
+
+## mucus-degrading enzymes
+hc.deg <- ggplot(clust.mx.func.m[clust.mx.func.m$ortho_id %in% o.degrade,], 
+                   aes(x=id_abbr, y=ortholog, fill=factor(freq))) + 
+  geom_tile(size=1) +
+  scale_fill_manual(values=c("grey90", "grey60", "grey30"),
+                    name="Count") +
+  xlim(as.character(hc.a.2$labels[hc.a.2$order])) +
+  ylim(rev(c("clust_0895: Thiol-activated cytolysin",
+             "clust_0917: Sialidase (EC 3.2.1.18)",
+             "clust_1160: Sialidase (EC 3.2.1.18)",                
+             "clust_1950: Sialidase (EC 3.2.1.18)",
+             "GV02|SEQ00188: Sialidase (EC 3.2.1.18)",
+             "clust_1425: Alpha-galactosidase (EC 3.2.1.22)",
+             "clust_1141: Beta-galactosidase (EC 3.2.1.23)",
+             "clust_1388: Evolved beta-D-galactosidase, alpha subunit",
+             "clust_2285: Alpha-glucosidase (EC 3.2.1.20)",
+             "clust_1140: Alpha-L-fucosidase (EC 3.2.1.51)",
+             "clust_1019: Beta-hexosaminidase (EC 3.2.1.52)",          
+             "clust_1409: Beta-hexosaminidase (EC 3.2.1.52)",         
+             "clust_2082: Beta-hexosaminidase (EC 3.2.1.52)"))) +
+  labs(x=NULL, y=NULL) +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=270, size=8, hjust=0,
+                                 color=col.cust.hc[c(2,3,1,4)][cutg[hc.a.2$labels[hc.a.2$order]]]),
+        axis.line.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_text(color="black"),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        plot.margin=unit(c(10,0,5,10), "mm")) +
+    geom_tile(size=1, color="white", show_guide=FALSE)
+hc.deg
+ggsave(paste0(dir.fig, "/hc_deg_enz.pdf"), width=6, height=2, units="in", scale=3)
+
+## Nugent
+# col.spectral <- brewer.pal(11,"Spectral")
+# col.nug <- c(LO=col.spectral[8], INT=col.spectral[4], HI=col.spectral[2], ND="grey90")
+col.nug <- c(LO="yellowgreen", INT="gold1", HI="brown1", ND="grey90")
+hc.nug <- ggplot(clust.mx.func.m, aes(x=id_abbr, y=0, fill=nugent_cat)) + 
+  geom_tile(size=1) +
+  scale_fill_manual(values=col.nug,
+                    breaks=c("LO", "INT", "HI", "ND"),
+                    labels=c("0-3", "4-6", "7-10", "ND"),
+                    name="Nugent score") +
+  xlim(as.character(hc.a.2$labels[hc.a.2$order])) +
+  labs(x=NULL, y=NULL) +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=270, size=10, hjust=0,
+                                   color=col.cust.hc[c(2,3,1,4)][cutg[hc.a.2$labels[hc.a.2$order]]]),
+        axis.line.y=element_blank(),
+        axis.ticks=element_blank(),
+        axis.text.y=element_blank(),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        plot.margin=unit(c(10,0,5,0), "mm")) +
+  geom_tile(size=1, color="white", show_guide=FALSE)
+hc.nug
+ggsave(paste0(dir.fig, "/hc_nugent.pdf"), width=6, height=0.75, units="in", scale=3)
+
+## BV symptoms
+# col.bv <- c(ASYMP=col.spectral[8], AMBIG=col.spectral[10], SYMP=col.spectral[11], ND="grey90")
+col.bv <- c(ASYMP="yellowgreen", AMBIG="grey50", SYMP="brown1", ND="grey90")
+hc.bv <- ggplot(clust.mx.func.m, aes(x=id_abbr, y=0, fill=bv_stat)) + 
+  geom_tile(size=1) +
+  scale_fill_manual(values=col.bv,
+                    breaks=c("ASYMP", "AMBIG", "SYMP", "ND"),
+                    labels=c("Asymptomatic", "Ambiguous", "Symptomatic", "ND"),
+                    name="Patient") +
+  xlim(as.character(hc.a.2$labels[hc.a.2$order])) +
+  labs(x=NULL, y=NULL) +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=270, size=10, hjust=0,
+                                   color=col.cust.hc[c(2,3,1,4)][cutg[hc.a.2$labels[hc.a.2$order]]]),
+        axis.line.y=element_blank(),
+        axis.ticks=element_blank(),
+        axis.text.y=element_blank(),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        plot.margin=unit(c(10,0,5,0), "mm")) +
+  geom_tile(size=1, color="white", show_guide=FALSE)
+hc.bv
+ggsave(paste0(dir.fig, "/hc_bv.pdf"), width=6, height=0.75, units="in", scale=3)
+
+## plot all together (then edit in inkscape)
+svg(paste0(dir.fig, "/hc_all_together.svg"), width=12, height=8, pointsize=10)
+# pdf(paste0(dir.fig, "/hc_all_together.pdf"), width=20, height=12)
+multiplot(hc.dend.2 + theme(plot.margin=unit(c(-10,5,0,50), "mm")),
+          hc.deg + theme(plot.margin=unit(c(0,0,5,5), "mm"), axis.text.x=element_blank()),
+          hc.nug + theme(plot.margin=unit(c(0,0,0,50), "mm"), axis.text.x=element_blank()),
+          hc.bv + theme(plot.margin=unit(c(0,0,5,50), "mm")), 
+          layout=matrix(c(1,1,1,2,2,2,3,4,4), ncol=1))
+dev.off()
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+Annotation tables with clade IDs included (separated clade 2 into 2a and 2b)
+```{r}
+## Note 6/14/15: haven't updated clade names yet
+## simplify clade.id.2
+clade.id.2 <- clade.id
+# clade.id.2$clade1a <- c("GV01", "GV02", "GV23", "GV25", "GV26", "GV27")
+# clade.id.2$clade1b <- c("GV28", "GV29", "GV31", "GV32", "GV35")
+clade.id.2$clade2a <- c("GV10", "GV12", "GV15", "GV17")
+clade.id.2$clade2b <- c("GV03", "GV05", "GV07", "GV14")
+
+clade.id.2$clade2 <- NULL
+clade.ids <- data.frame(id_short=unlist(clade.id.2, use.names=F))
+clade.ids$clade_id <- c(rep("clade1", 11),
+                        rep("clade3", 14),
+                        rep("clade4", 2),
+                        rep("clade2a", 4),
+                        rep("clade2b", 4))
+write.table(clade.ids, "results/orthomcl-gene-enrich/clade_ids.txt", sep="\t", quote=F, row.names=F)
+
+## merge with GO, pathway, feature tables
+key_anno_go <- merge(key.anno$go, clade.ids)
+key_anno_go$id_full <- NULL
+key_anno_go$seq_id <- NULL
+key_anno_go$anno_type <- NULL
+write.table(key_anno_go, "results/orthomcl-gene-enrich/key_anno_go_clades.txt", sep="\t", quote=F, row.names=F)
+
+key_anno_path <- merge(key.anno$path, clade.ids)
+key_anno_path$id_full <- NULL
+key_anno_path$seq_id <- NULL
+key_anno_path$anno_type <- NULL
+key_anno_path$pathway_id <- factor(key_anno_path$pathway_id, levels=unique(key_anno_path$pathway_id))
+write.table(key_anno_path, "results/orthomcl-gene-enrich/key_anno_pathway_clades.txt", sep="\t", quote=F, row.names=F)
+
+key_anno_feat <- merge(key.feat.cds, clade.ids)
+write.table(key_anno_feat, "results/orthomcl-gene-enrich/key_anno_features_clades.txt", sep="\t", quote=F, row.names=F)
+```
+
+SANDBOX
+```{r sandbox}
+# extract annotations of core genomes
+fid.core <- list()
+fid.core$all <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% core.clust$all]
+fid.core$group1 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.core.clust$group1]
+fid.core$group2a <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.core.clust$group2a]
+fid.core$group2b <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.core.clust$group2b]
+fid.core$group3 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.core.clust$group3]
+fid.core$group4 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.core.clust$group4]
+
+path.core <- lapply(fid.core, function(x) key.anno$path[key.anno$path$na_feature_id %in% x,])
+
+path.core.tmp <- lapply(path.core, function(x) table(x$pathway_name)/nrow(x))
+path.core.prop <- do.call(cbind, path.core.tmp)
+path.core.prop.m <- melt(path.core.prop); colnames(path.core.prop.m) <- c("pathway_name", "group", "core_prop")
+
+ggplot(path.core.prop.m, aes(x=group, y=pathway_name, fill=core_prop)) + geom_tile()
+
+# accessory
+fid.acc <- list()
+fid.acc$group1 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.acc.clust$group1]
+fid.acc$group2a <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.acc.clust$group2a]
+fid.acc$group2b <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.acc.clust$group2b]
+fid.acc$group3 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.acc.clust$group3]
+fid.acc$group4 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.acc.clust$group4]
+
+path.acc <- lapply(fid.acc, function(x) key.anno$path[key.anno$path$na_feature_id %in% x,])
+
+path.acc.tmp <- lapply(path.acc, function(x) table(x$pathway_name)/nrow(x))
+path.acc.prop <- do.call(cbind, path.acc.tmp)
+path.acc.prop.m <- melt(path.acc.prop); colnames(path.acc.prop.m) <- c("pathway_name", "group", "acc_prop")
+
+ggplot(path.acc.prop.m, aes(x=group, y=pathway_name, fill=acc_prop)) + geom_tile()
+
+path.acc.tmp <- lapply(path.acc, function(x) table(x$pathway_name))
+path.acc.ct <- do.call(cbind, path.acc.tmp)
+path.acc.ct.m <- melt(path.acc.ct); colnames(path.acc.ct.m) <- c("pathway_name", "group", "acc_ct")
+
+ggplot(path.acc.ct.m, aes(x=group, y=pathway_name, fill=acc_ct)) + geom_tile()
+
+# all
+fid.all <- list()
+fid.all$core <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% core.clust$all]
+fid.all$group1 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.clust$group1]
+fid.all$group2a <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.clust$group2a]
+fid.all$group2b <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.clust$group2b]
+fid.all$group3 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.clust$group3]
+fid.all$group4 <- key.feat.cds$na_feature_id[key.feat.cds$ortho_id %in% group.clust$group4]
+
+path.all <- lapply(fid.all, function(x) key.anno$path[key.anno$path$na_feature_id %in% x,])
+
+path.all.tmp <- lapply(path.all, function(x) table(x$pathway_name)/nrow(x))
+path.all.prop <- do.call(cbind, path.all.tmp)
+path.all.prop.m <- melt(path.all.prop); colnames(path.all.prop.m) <- c("pathway_name", "group", "prop")
+
+ggplot(path.all.prop.m, aes(x=group, y=pathway_name, fill=prop)) + geom_tile()
+
+## rarefaction of ortholog counts
+library(vegan)
+pan.sac.all <- specaccum(clust.mx.full, permutations=100, conditioned=FALSE)
+pan.sac.c2 <- specaccum(clust.mx.full[rownames(clust.mx.full) %in% group.id$group1,], 
+                        permutations=100, conditioned=FALSE)
+pan.sac.c4  <- specaccum(clust.mx.full[rownames(clust.mx.full) %in% group.id$group2a,], 
+                         permutations=100, conditioned=FALSE)
+pan.sac.c3  <- specaccum(clust.mx.full[rownames(clust.mx.full) %in% group.id$group2b,], 
+                         permutations=100, conditioned=FALSE)
+pan.sac.c1  <- specaccum(clust.mx.full[rownames(clust.mx.full) %in% group.id$group3,], 
+                         permutations=100, conditioned=FALSE)
+pan.sac.c5  <- specaccum(clust.mx.full[rownames(clust.mx.full) %in% group.id$group4,], 
+                         permutations=100, conditioned=FALSE)
+
+png(paste0(dir.fig, "/pangenome_size_clades.png"), width=5, height=4, units="in", res=300, pointsize = 8)
+par(mar=c(5,5,1,1))
+plot(pan.sac.all, ci=2, ci.type="polygon", col="grey50", ci.col=makeTransparent("grey50", alpha=0.3), ci.lty="blank",
+     lwd=1.5, xlab="Genomes", ylab="Protein families in pangenome", add=FALSE)
+plot(pan.sac.c1, ci=2, ci.type="polygon", col=col.cust[1], ci.col=makeTransparent(col.cust[1], alpha=0.3), ci.lty="blank",
+     lwd=1.5, xlab="", ylab="", add=TRUE)
+plot(pan.sac.c2, ci=2, ci.type="polygon", col=col.cust[2], ci.col=makeTransparent(col.cust[2], alpha=0.3), ci.lty="blank",
+     lwd=1.5, xlab="", ylab="", add=TRUE)
+plot(pan.sac.c4, ci=2, ci.type="polygon", col=col.cust[4], ci.col=makeTransparent(col.cust[4], alpha=0.3), ci.lty="blank",
+     lwd=1.5, xlab="", ylab="", add=TRUE)
+plot(pan.sac.c3, ci=2, ci.type="polygon", col=col.cust[3], ci.col=makeTransparent(col.cust[3], alpha=0.3), ci.lty="blank",
+     lwd=1.5, xlab="", ylab="", add=TRUE)
+plot(pan.sac.c5, ci=2, ci.type="polygon", col=col.cust[5], ci.col=makeTransparent(col.cust[5], alpha=0.3), ci.lty="blank",
+     lwd=1.5, xlab="", ylab="", add=TRUE)
+legend("bottomright", c("All", "Clade 1", "Clade 2", "Clade 3", "Clade 4", "Clade 5"), 
+       lty=1, lwd=1.5, col=c("grey50", col.cust), bty="n")
+dev.off()
+
+# ## plot bv status
+# col.bv <- brewer.pal(11, "Spectral")[c(2,4,7,9)]
+# hm.bv  <- ggplot(clust.mx.func.m, aes(x=id_abbr, y=0, fill=bv_status)) + 
+#   geom_tile() +
+#   scale_fill_manual(values=c(col.bv[c(3,1,4,2)], "grey90"), 
+#                     name="Patient Status (C)",
+#                     breaks=c("Healthy", "Asymptomatic patient", "Patient (ambiguous)", "BV patient", "Unknown"),
+#                     labels=c("Healthy", "Asymptomatic", "Ambiguous", "BV", "Unknown")) +
+#   xlim(as.character(hc.a.2$labels[hc.a.2$order])) +
+#   labs(x=NULL, y=NULL) +
+#   coord_flip() +
+#   ggtitle("C") +
+#   theme(plot.title=element_text(face="bold", size=18, hjust=0),
+#         legend.title=element_text(face="bold", size=10),
+#         axis.text.x=element_blank(),
+#         axis.line.y=element_blank(),
+#         axis.ticks=element_blank(),
+#         axis.text=element_blank(),
+#         axis.title=element_blank(),
+#         panel.background=element_rect(fill="white"),
+#         panel.grid=element_blank(),
+#         plot.margin=unit(c(8,0,21,0), "mm"))
+
+# png("~/Documents/research/gardnerella/gardnerella-git/sandbox/functional-anno-gv/gv35_orthomcl70_clust_dendro_virfunc_bvstat.png", width=15, height=10, units="in", res=300)
+# pdf("~/Documents/research/gardnerella/gardnerella-git/sandbox/functional-anno-gv/gv35_orthomcl70_clust_dendro_virfunc_bvstat.pdf", width=16, height=12)
+# multiplot(hc.dend, hm.vir, hm.bv, layout=matrix(c(1,1,1,1,1,2,2,2,2,2,2,3,3), nrow=1))
+# dev.off()
 ```

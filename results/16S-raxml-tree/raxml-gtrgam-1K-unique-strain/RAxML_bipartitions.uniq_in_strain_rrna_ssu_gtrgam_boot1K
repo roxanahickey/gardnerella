@@ -1,0 +1,142 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=48;
+	taxlabels
+	10_GV10[&fid_locus="fid|32148446|locus|VBIGarVag136958_r050|",genome="Gardnerella vaginalis 409-05",genus="Gardnerella",gv_clade="2A",hc_group="5",id_abbr="G. vaginalis 409-05",id_fasta="fid|32148446|locus|VBIGarVag136958_r050|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 409-05]",id_full="Gardnerella vaginalis 409-05",id_full_underscore="Gardnerella_vaginalis_409-05",id_short="GV10",species="vaginalis",subspecies="NA"]
+	11_GV11[&fid_locus="fid|52548261|locus|VBIGarVag171052_r003|",genome="Gardnerella vaginalis 41V",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis 41V",id_fasta="fid|52548261|locus|VBIGarVag171052_r003|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 41V]",id_full="Gardnerella vaginalis 41V",id_full_underscore="Gardnerella_vaginalis_41V",id_short="GV11",species="vaginalis",subspecies="NA"]
+	12_GV12[&fid_locus="fid|37852647|locus|VBIGarVag144721_r001|",genome="Gardnerella vaginalis 5-1",genus="Gardnerella",gv_clade="2A",hc_group="5",id_abbr="G. vaginalis 5-1",id_fasta="fid|37852647|locus|VBIGarVag144721_r001|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 5-1]",id_full="Gardnerella vaginalis 5-1",id_full_underscore="Gardnerella_vaginalis_5-1",id_short="GV12",species="vaginalis",subspecies="NA"]
+	13_GV13[&fid_locus="fid|85488354|locus|VBIGarVag244533_r045|",genome="Gardnerella vaginalis 55152",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis 55152",id_fasta="fid|85488354|locus|VBIGarVag244533_r045|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 55152]",id_full="Gardnerella vaginalis 55152",id_full_underscore="Gardnerella_vaginalis_55152",id_short="GV13",species="vaginalis",subspecies="NA"]
+	14_GV14[&fid_locus="fid|85503217|locus|VBIGarVag244375_r026|",genome="Gardnerella vaginalis 6119V5",genus="Gardnerella",gv_clade="2B",hc_group="5",id_abbr="G. vaginalis 6119V5",id_fasta="fid|85503217|locus|VBIGarVag244375_r026|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 6119V5]",id_full="Gardnerella vaginalis 6119V5",id_full_underscore="Gardnerella_vaginalis_6119V5",id_short="GV14",species="vaginalis",subspecies="NA"]
+	15_GV15[&fid_locus="fid|85485658|locus|VBIGarVag249709_r042|",genome="Gardnerella vaginalis 6420B",genus="Gardnerella",gv_clade="2A",hc_group="5",id_abbr="G. vaginalis 6420B",id_fasta="fid|85485658|locus|VBIGarVag249709_r042|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 6420B]",id_full="Gardnerella vaginalis 6420B",id_full_underscore="Gardnerella_vaginalis_6420B",id_short="GV15",species="vaginalis",subspecies="NA"]
+	16_GV16[&fid_locus="fid|85477101|locus|VBIGarVag246379_r001|",genome="Gardnerella vaginalis 75712",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis 75712",id_fasta="fid|85477101|locus|VBIGarVag246379_r001|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 75712]",id_full="Gardnerella vaginalis 75712",id_full_underscore="Gardnerella_vaginalis_75712",id_short="GV16",species="vaginalis",subspecies="NA"]
+	17_GV17[&fid_locus="fid|37851219|locus|VBIGarVag146634_r024|",genome="Gardnerella vaginalis AMD",genus="Gardnerella",gv_clade="2A",hc_group="5",id_abbr="G. vaginalis AMD",id_fasta="fid|37851219|locus|VBIGarVag146634_r024|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis AMD]",id_full="Gardnerella vaginalis AMD",id_full_underscore="Gardnerella_vaginalis_AMD",id_short="GV17",species="vaginalis",subspecies="NA"]
+	18_GV19[&fid_locus="fid|42627249|locus|VBIGarVag39333_r008|",genome="Gardnerella vaginalis ATCC 14019",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis ATCC 14019",id_fasta="fid|42627249|locus|VBIGarVag39333_r008|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis ATCC 14019]",id_full="Gardnerella vaginalis ATCC 14019",id_full_underscore="Gardnerella_vaginalis_ATCC_14019",id_short="GV19",species="vaginalis",subspecies="NA"]
+	1_GV01[&fid_locus="fid|85494740|locus|VBIGarVag247323_r016|",genome="Gardnerella vaginalis 00703Bmash",genus="Gardnerella",gv_clade="1",hc_group="5",id_abbr="G. vaginalis 00703Bmash",id_fasta="fid|85494740|locus|VBIGarVag247323_r016|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 00703Bmash]",id_full="Gardnerella vaginalis 00703Bmash",id_full_underscore="Gardnerella_vaginalis_00703Bmash",id_short="GV01",species="vaginalis",subspecies="NA"]
+	20_GV20[&fid_locus="fid|54188940|locus|VBIGarVag188338_r005|",genome="Gardnerella vaginalis HMP9231",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis HMP9231",id_fasta="fid|54188940|locus|VBIGarVag188338_r005|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis HMP9231]",id_full="Gardnerella vaginalis HMP9231",id_full_underscore="Gardnerella_vaginalis_HMP9231",id_short="GV20",species="vaginalis",subspecies="NA"]
+	22_ADO1[&fid_locus="fid|27186786|locus|VBIBifAdo136061_r013|",genome="Bifidobacterium adolescentis L2-32",genus="Bifidobacterium",gv_clade="NA",hc_group="1",id_abbr="B. adolescentis L2-32",id_fasta="fid|27186786|locus|VBIBifAdo136061_r013|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium adolescentis L2-32]",id_full="Bifidobacterium adolescentis L2-32",id_full_underscore="Bifidobacterium_adolescentis_L2-32",id_short="ADO1",species="adolescentis",subspecies="NA"]
+	23_ADO1[&fid_locus="fid|27190317|locus|VBIBifAdo136061_r076|",genome="Bifidobacterium adolescentis L2-32",genus="Bifidobacterium",gv_clade="NA",hc_group="1",id_abbr="B. adolescentis L2-32",id_fasta="fid|27190317|locus|VBIBifAdo136061_r076|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium adolescentis L2-32]",id_full="Bifidobacterium adolescentis L2-32",id_full_underscore="Bifidobacterium_adolescentis_L2-32",id_short="ADO1",species="adolescentis",subspecies="NA"]
+	24_ANI1[&fid_locus="fid|86847538|locus|VBIBifAni240121_r046|",genome="Bifidobacterium animalis subsp lactis B420",genus="Bifidobacterium",gv_clade="NA",hc_group="2",id_abbr="B. animalis subsp lactis B420",id_fasta="fid|86847538|locus|VBIBifAni240121_r046|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium animalis subsp. lactis B420]",id_full="Bifidobacterium animalis subsp lactis B420",id_full_underscore="Bifidobacterium_animalis_subsp_lactis_B420",id_short="ANI1",species="animalis",subspecies="lactis"]
+	28_ANI2[&fid_locus="fid|86850891|locus|VBIBifAni235968_r046|",genome="Bifidobacterium animalis subsp lactis Bi-07",genus="Bifidobacterium",gv_clade="NA",hc_group="2",id_abbr="B. animalis subsp lactis Bi-07",id_fasta="fid|86850891|locus|VBIBifAni235968_r046|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium animalis subsp. lactis Bi-07]",id_full="Bifidobacterium animalis subsp lactis Bi-07",id_full_underscore="Bifidobacterium_animalis_subsp_lactis_Bi-07",id_short="ANI2",species="animalis",subspecies="lactis"]
+	2_GV02[&fid_locus="fid|85498188|locus|VBIGarVag242669_r028|",genome="Gardnerella vaginalis 00703C2mash",genus="Gardnerella",gv_clade="1",hc_group="5",id_abbr="G. vaginalis 00703C2mash",id_fasta="fid|85498188|locus|VBIGarVag242669_r028|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 00703C2mash]",id_full="Gardnerella vaginalis 00703C2mash",id_full_underscore="Gardnerella_vaginalis_00703C2mash",id_short="GV02",species="vaginalis",subspecies="NA"]
+	31_ANI2[&fid_locus="fid|86851498|locus|VBIBifAni235968_r063|",genome="Bifidobacterium animalis subsp lactis Bi-07",genus="Bifidobacterium",gv_clade="NA",hc_group="2",id_abbr="B. animalis subsp lactis Bi-07",id_fasta="fid|86851498|locus|VBIBifAni235968_r063|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium animalis subsp. lactis Bi-07]",id_full="Bifidobacterium animalis subsp lactis Bi-07",id_full_underscore="Bifidobacterium_animalis_subsp_lactis_Bi-07",id_short="ANI2",species="animalis",subspecies="lactis"]
+	32_ANI3[&fid_locus="fid|42764910|locus|VBIBifAni108068_r046|",genome="Bifidobacterium animalis subsp lactis V9",genus="Bifidobacterium",gv_clade="NA",hc_group="2",id_abbr="B. animalis subsp lactis V9",id_fasta="fid|42764910|locus|VBIBifAni108068_r046|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium animalis subsp. lactis V9]",id_full="Bifidobacterium animalis subsp lactis V9",id_full_underscore="Bifidobacterium_animalis_subsp_lactis_V9",id_short="ANI3",species="animalis",subspecies="lactis"]
+	36_BIF1[&fid_locus="fid|86885209|locus|VBIBifBif87902_r038|",genome="Bifidobacterium bifidum BGN4",genus="Bifidobacterium",gv_clade="NA",hc_group="1",id_abbr="B. bifidum BGN4",id_fasta="fid|86885209|locus|VBIBifBif87902_r038|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium bifidum BGN4]",id_full="Bifidobacterium bifidum BGN4",id_full_underscore="Bifidobacterium_bifidum_BGN4",id_short="BIF1",species="bifidum",subspecies="NA"]
+	37_BIF1[&fid_locus="fid|86886216|locus|VBIBifBif87902_r057|",genome="Bifidobacterium bifidum BGN4",genus="Bifidobacterium",gv_clade="NA",hc_group="1",id_abbr="B. bifidum BGN4",id_fasta="fid|86886216|locus|VBIBifBif87902_r057|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium bifidum BGN4]",id_full="Bifidobacterium bifidum BGN4",id_full_underscore="Bifidobacterium_bifidum_BGN4",id_short="BIF1",species="bifidum",subspecies="NA"]
+	38_BIF1[&fid_locus="fid|86886224|locus|VBIBifBif87902_r060|",genome="Bifidobacterium bifidum BGN4",genus="Bifidobacterium",gv_clade="NA",hc_group="1",id_abbr="B. bifidum BGN4",id_fasta="fid|86886224|locus|VBIBifBif87902_r060|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium bifidum BGN4]",id_full="Bifidobacterium bifidum BGN4",id_full_underscore="Bifidobacterium_bifidum_BGN4",id_short="BIF1",species="bifidum",subspecies="NA"]
+	39_BRE1[&fid_locus="fid|268604538|locus|VBIBifBre340958_r036|",genome="Bifidobacterium breve 12L",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve 12L",id_fasta="fid|268604538|locus|VBIBifBre340958_r036|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve 12L]",id_full="Bifidobacterium breve 12L",id_full_underscore="Bifidobacterium_breve_12L",id_short="BRE1",species="breve",subspecies="NA"]
+	3_GV03[&fid_locus="fid|85499359|locus|VBIGarVag247424_r003|",genome="Gardnerella vaginalis 00703Dmash",genus="Gardnerella",gv_clade="2B",hc_group="5",id_abbr="G. vaginalis 00703Dmash",id_fasta="fid|85499359|locus|VBIGarVag247424_r003|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 00703Dmash]",id_full="Gardnerella vaginalis 00703Dmash",id_full_underscore="Gardnerella_vaginalis_00703Dmash",id_short="GV03",species="vaginalis",subspecies="NA"]
+	41_BRE2[&fid_locus="fid|268608692|locus|VBIBifBre337368_r037|",genome="Bifidobacterium breve 689b",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve 689b",id_fasta="fid|268608692|locus|VBIBifBre337368_r037|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve 689b]",id_full="Bifidobacterium breve 689b",id_full_underscore="Bifidobacterium_breve_689b",id_short="BRE2",species="breve",subspecies="NA"]
+	42_BRE2[&fid_locus="fid|268609902|locus|VBIBifBre337368_r058|",genome="Bifidobacterium breve 689b",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve 689b",id_fasta="fid|268609902|locus|VBIBifBre337368_r058|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve 689b]",id_full="Bifidobacterium breve 689b",id_full_underscore="Bifidobacterium_breve_689b",id_short="BRE2",species="breve",subspecies="NA"]
+	43_BRE3[&fid_locus="fid|54192795|locus|VBIBifBre167886_r015|",genome="Bifidobacterium breve ACS-071-V-Sch8b",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve ACS-071-V-Sch8b",id_fasta="fid|54192795|locus|VBIBifBre167886_r015|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve ACS-071-V-Sch8b]",id_full="Bifidobacterium breve ACS-071-V-Sch8b",id_full_underscore="Bifidobacterium_breve_ACS-071-V-Sch8b",id_short="BRE3",species="breve",subspecies="NA"]
+	44_BRE3[&fid_locus="fid|54195595|locus|VBIBifBre167886_r058|",genome="Bifidobacterium breve ACS-071-V-Sch8b",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve ACS-071-V-Sch8b",id_fasta="fid|54195595|locus|VBIBifBre167886_r058|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve ACS-071-V-Sch8b]",id_full="Bifidobacterium breve ACS-071-V-Sch8b",id_full_underscore="Bifidobacterium_breve_ACS-071-V-Sch8b",id_short="BRE3",species="breve",subspecies="NA"]
+	46_BRE4[&fid_locus="fid|268612715|locus|VBIBifBre327712_r037|",genome="Bifidobacterium breve JCM 7017",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve JCM 7017",id_fasta="fid|268612715|locus|VBIBifBre327712_r037|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve JCM 7017]",id_full="Bifidobacterium breve JCM 7017",id_full_underscore="Bifidobacterium_breve_JCM_7017",id_short="BRE4",species="breve",subspecies="NA"]
+	48_BRE5[&fid_locus="fid|268617026|locus|VBIBifBre336369_r040|",genome="Bifidobacterium breve JCM 7019",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve JCM 7019",id_fasta="fid|268617026|locus|VBIBifBre336369_r040|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve JCM 7019]",id_full="Bifidobacterium breve JCM 7019",id_full_underscore="Bifidobacterium_breve_JCM_7019",id_short="BRE5",species="breve",subspecies="NA"]
+	4_GV04[&fid_locus="fid|85482455|locus|VBIGarVag246433_r044|",genome="Gardnerella vaginalis 0288E",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis 0288E",id_fasta="fid|85482455|locus|VBIGarVag246433_r044|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 0288E]",id_full="Gardnerella vaginalis 0288E",id_full_underscore="Gardnerella_vaginalis_0288E",id_short="GV04",species="vaginalis",subspecies="NA"]
+	50_BRE6[&fid_locus="fid|177654401|locus|VBIBifBre268992_r012|",genome="Bifidobacterium breve JCP7499",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve JCP7499",id_fasta="fid|177654401|locus|VBIBifBre268992_r012|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve JCP7499]",id_full="Bifidobacterium breve JCP7499",id_full_underscore="Bifidobacterium_breve_JCP7499",id_short="BRE6",species="breve",subspecies="NA"]
+	51_BRE7[&fid_locus="fid|268621095|locus|VBIBifBre340732_r037|",genome="Bifidobacterium breve NCFB 2258",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve NCFB 2258",id_fasta="fid|268621095|locus|VBIBifBre340732_r037|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve NCFB 2258]",id_full="Bifidobacterium breve NCFB 2258",id_full_underscore="Bifidobacterium_breve_NCFB_2258",id_short="BRE7",species="breve",subspecies="NA"]
+	53_BRE8[&fid_locus="fid|268625261|locus|VBIBifBre176493_r037|",genome="Bifidobacterium breve S27",genus="Bifidobacterium",gv_clade="NA",hc_group="3",id_abbr="B. breve S27",id_fasta="fid|268625261|locus|VBIBifBre176493_r037|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve S27]",id_full="Bifidobacterium breve S27",id_full_underscore="Bifidobacterium_breve_S27",id_short="BRE8",species="breve",subspecies="NA"]
+	56_BRE9[&fid_locus="fid|58446903|locus|VBIBifBre30019_r038|",genome="Bifidobacterium breve UCC2003",genus="Bifidobacterium",gv_clade="NA",hc_group="4",id_abbr="B. breve UCC2003",id_fasta="fid|58446903|locus|VBIBifBre30019_r038|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium breve UCC2003]",id_full="Bifidobacterium breve UCC2003",id_full_underscore="Bifidobacterium_breve_UCC2003",id_short="BRE9",species="breve",subspecies="NA"]
+	58_INF1[&fid_locus="fid|46886790|locus|VBIBifLon182273_r045|",genome="Bifidobacterium longum subsp infantis 157F",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum subsp infantis 157F",id_fasta="fid|46886790|locus|VBIBifLon182273_r045|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum subsp. infantis 157F]",id_full="Bifidobacterium longum subsp infantis 157F",id_full_underscore="Bifidobacterium_longum_subsp_infantis_157F",id_short="INF1",species="longum",subspecies="infantis"]
+	59_INF1[&fid_locus="fid|46887767|locus|VBIBifLon182273_r063|",genome="Bifidobacterium longum subsp infantis 157F",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum subsp infantis 157F",id_fasta="fid|46887767|locus|VBIBifLon182273_r063|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum subsp. infantis 157F]",id_full="Bifidobacterium longum subsp infantis 157F",id_full_underscore="Bifidobacterium_longum_subsp_infantis_157F",id_short="INF1",species="longum",subspecies="infantis"]
+	5_GV05[&fid_locus="fid|52548065|locus|VBIGarVag174900_r040|",genome="Gardnerella vaginalis 101",genus="Gardnerella",gv_clade="2B",hc_group="5",id_abbr="G. vaginalis 101",id_fasta="fid|52548065|locus|VBIGarVag174900_r040|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 101]",id_full="Gardnerella vaginalis 101",id_full_underscore="Gardnerella_vaginalis_101",id_short="GV05",species="vaginalis",subspecies="NA"]
+	62_LON1[&fid_locus="fid|21117311|locus|VBIBifLon107831_r002|",genome="Bifidobacterium longum NCC2705",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum NCC2705",id_fasta="fid|21117311|locus|VBIBifLon107831_r002|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum NCC2705]",id_full="Bifidobacterium longum NCC2705",id_full_underscore="Bifidobacterium_longum_NCC2705",id_short="LON1",species="longum",subspecies="NA"]
+	66_LON2[&fid_locus="fid|42579869|locus|VBIBifLon171405_r002|",genome="Bifidobacterium longum subsp longum BBMN68",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum subsp longum BBMN68",id_fasta="fid|42579869|locus|VBIBifLon171405_r002|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum subsp. longum BBMN68]",id_full="Bifidobacterium longum subsp longum BBMN68",id_full_underscore="Bifidobacterium_longum_subsp_longum_BBMN68",id_short="LON2",species="longum",subspecies="longum"]
+	69_LON3[&fid_locus="fid|42765619|locus|VBIBifLon156230_r001|",genome="Bifidobacterium longum subsp longum F8",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum subsp longum F8",id_fasta="fid|42765619|locus|VBIBifLon156230_r001|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum subsp. longum F8]",id_full="Bifidobacterium longum subsp longum F8",id_full_underscore="Bifidobacterium_longum_subsp_longum_F8",id_short="LON3",species="longum",subspecies="longum"]
+	6_GV06[&fid_locus="fid|85489647|locus|VBIGarVag244004_r018|",genome="Gardnerella vaginalis 1400E",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis 1400E",id_fasta="fid|85489647|locus|VBIGarVag244004_r018|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 1400E]",id_full="Gardnerella vaginalis 1400E",id_full_underscore="Gardnerella_vaginalis_1400E",id_short="GV06",species="vaginalis",subspecies="NA"]
+	70_LON4[&fid_locus="fid|46891059|locus|VBIBifLon48544_r061|",genome="Bifidobacterium longum subsp longum JCM 1217",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum subsp longum JCM 1217",id_fasta="fid|46891059|locus|VBIBifLon48544_r061|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum subsp. longum JCM 1217]",id_full="Bifidobacterium longum subsp longum JCM 1217",id_full_underscore="Bifidobacterium_longum_subsp_longum_JCM_1217",id_short="LON4",species="longum",subspecies="longum"]
+	71_LON4[&fid_locus="fid|46891998|locus|VBIBifLon48544_r079|",genome="Bifidobacterium longum subsp longum JCM 1217",genus="Bifidobacterium",gv_clade="NA",hc_group="6",id_abbr="B. longum subsp longum JCM 1217",id_fasta="fid|46891998|locus|VBIBifLon48544_r079|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium longum subsp. longum JCM 1217]",id_full="Bifidobacterium longum subsp longum JCM 1217",id_full_underscore="Bifidobacterium_longum_subsp_longum_JCM_1217",id_short="LON4",species="longum",subspecies="longum"]
+	74_THE1[&fid_locus="fid|124735419|locus|VBIBifThe274299_r024|",genome="Bifidobacterium thermophilum RBL67",genus="Bifidobacterium",gv_clade="NA",hc_group="7",id_abbr="B. thermophilum RBL67",id_fasta="fid|124735419|locus|VBIBifThe274299_r024|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bifidobacterium thermophilum RBL67]",id_full="Bifidobacterium thermophilum RBL67",id_full_underscore="Bifidobacterium_thermophilum_RBL67",id_short="THE1",species="thermophilum",subspecies="NA"]
+	78_MHOM[&fid_locus="fig|162426.3.rna.46|",genome="Microbacterium hominis TPW29",genus="Microbacterium",gv_clade="NA",hc_group="NA",id_abbr="M. hominis TPW29",id_fasta="fig|162426.3.rna.46|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Microbacterium hominis TPW29 | 162426.3]",id_full="Microbacterium hominis TPW29",id_full_underscore="Microbacterium_hominis_TPW29",id_short="MHOM",species="hominis",subspecies="NA"]
+	7_GV07[&fid_locus="fid|85493650|locus|VBIGarVag249177_r042|",genome="Gardnerella vaginalis 1500E",genus="Gardnerella",gv_clade="2B",hc_group="5",id_abbr="G. vaginalis 1500E",id_fasta="fid|85493650|locus|VBIGarVag249177_r042|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 1500E]",id_full="Gardnerella vaginalis 1500E",id_full_underscore="Gardnerella_vaginalis_1500E",id_short="GV07",species="vaginalis",subspecies="NA"]
+	8_GV09[&fid_locus="fid|55259520|locus|VBIGarVag169280_r008|",genome="Gardnerella vaginalis 315-A",genus="Gardnerella",gv_clade="3",hc_group="5",id_abbr="G. vaginalis 315-A",id_fasta="fid|55259520|locus|VBIGarVag169280_r008|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 315-A]",id_full="Gardnerella vaginalis 315-A",id_full_underscore="Gardnerella_vaginalis_315-A",id_short="GV09",species="vaginalis",subspecies="NA"]
+	9_GV10[&fid_locus="fid|32148290|locus|VBIGarVag136958_r047|",genome="Gardnerella vaginalis 409-05",genus="Gardnerella",gv_clade="2A",hc_group="5",id_abbr="G. vaginalis 409-05",id_fasta="fid|32148290|locus|VBIGarVag136958_r047|   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Gardnerella vaginalis 409-05]",id_full="Gardnerella vaginalis 409-05",id_full_underscore="Gardnerella_vaginalis_409-05",id_short="GV10",species="vaginalis",subspecies="NA"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (28_ANI2:1.0E-6,(32_ANI3:1.0E-6,(24_ANI1:1.0E-6,(((((((71_LON4:7.68E-4,70_LON4:1.0E-6)[&bootstraps=89]:0.00154,58_INF1:1.0E-6)[&bootstraps=30]:1.0E-6,((62_LON1:1.0E-6,69_LON3:1.0E-6)[&bootstraps=32]:1.0E-6,66_LON2:1.0E-6)[&bootstraps=90]:1.0E-6)[&bootstraps=36]:7.55E-4,59_INF1:1.0E-6)[&bootstraps=97,!cartoon={7,0.04458240317961826}]:0.019828,(51_BRE7:1.0E-6,(((48_BRE5:0.002268,(46_BRE4:1.0E-6,39_BRE1:0.005368)[&bootstraps=34]:0.001515)[&bootstraps=14]:7.51E-4,(((43_BRE3:7.55E-4,44_BRE3:1.0E-6)[&bootstraps=80]:7.57E-4,(50_BRE6:1.0E-6,53_BRE8:1.0E-6)[&bootstraps=75]:1.0E-6)[&bootstraps=33]:7.45E-4,(42_BRE2:1.0E-6,56_BRE9:1.0E-6)[&bootstraps=71]:1.0E-6)[&bootstraps=40]:7.5E-4)[&bootstraps=27]:0.001016,41_BRE2:0.005395)[&bootstraps=34]:0.001237)[&bootstraps=92,!cartoon={11,0.04215296338717456}]:0.015435)[&bootstraps=59]:0.00662,(((((12_GV12:1.0E-6,10_GV10:1.0E-6)[&bootstraps=36]:1.0E-6,9_GV10:1.0E-6)[&bootstraps=76]:1.0E-6,(2_GV02:1.0E-6,(1_GV01:1.0E-6,((11_GV11:1.0E-6,(13_GV13:1.0E-6,6_GV06:0.001498)[&bootstraps=49]:1.0E-6)[&bootstraps=59]:7.32E-4,(((18_GV19:1.0E-6,(16_GV16:7.39E-4,20_GV20:1.0E-6)[&bootstraps=16]:1.0E-6)[&bootstraps=8]:1.0E-6,4_GV04:1.0E-6)[&bootstraps=39]:1.0E-6,8_GV09:1.0E-6)[&bootstraps=34]:1.0E-6)[&bootstraps=100]:0.007511)[&bootstraps=51]:7.39E-4)[&bootstraps=83]:0.002228)[&bootstraps=48]:8.92E-4,(7_GV07:1.0E-6,((((15_GV15:7.48E-4,17_GV17:1.0E-6)[&bootstraps=81]:0.002258,3_GV03:7.49E-4)[&bootstraps=12]:1.0E-6,14_GV14:1.0E-6)[&bootstraps=22]:1.0E-6,5_GV05:1.0E-6)[&bootstraps=57]:0.003712)[&bootstraps=22]:0.001335)[&bootstraps=100]:0.051748,(74_THE1:0.02828,((36_BIF1:1.0E-6,37_BIF1:1.0E-6)[&bootstraps=96]:0.002251,38_BIF1:1.0E-6)[&bootstraps=99,!cartoon={3,0.02516431772080352}]:0.023627)[&bootstraps=58]:0.014306)[&bootstraps=28]:0.008745)[&bootstraps=19]:0.012024,(23_ADO1:1.0E-6,(78_MHOM:0.333534,22_ADO1:0.002288)[&bootstraps=35]:0.005572)[&bootstraps=54]:0.033079)[&bootstraps=100,!cartoon={4,0.0322743857734798}]:0.053841)[&bootstraps=24]:1.0E-6)[&bootstraps=23]:1.0E-6,31_ANI2:1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="bootstraps";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="gv_clade";
+	set legend.fontSize=10.0;
+	set legend.isShown=true;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute="User selection";
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=false;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.03;
+	set tipLabels.colorAttribute="gv_clade";
+	set tipLabels.displayAttribute="genome";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

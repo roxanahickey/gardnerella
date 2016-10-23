@@ -13,8 +13,9 @@
 {
 	require(gclus)
 	gr <- cutree(tree, k=k)
-	tor <- reorder.hclust(tree, dis)
-	plot(tor, hang=-1, xlab=paste(length(gr),"genomes"), sub=paste(k,"clusters"), 
+# 	tor <- reorder.hclust(tree, dis)
+  tor <- tree
+	plot(tree, hang=-1, xlab=paste(length(gr),"genomes"), sub=paste(k,"clusters"), 
 		main=title)
 	so <- gr[tor$order]
 	gro <- numeric(k)

@@ -9,41 +9,240 @@ Load output from Gardnerella-Bifido OrthoMCL summary
 ```{r setup}
 ## Run orthomcl_summary.R with custom parameters via run_orthomcl_summary_gv_bif.R
 setwd("~/Documents/research/gardnerella/gardnerella-git")
-source("code/run_orthomcl_summary_gv35_bif20_id50.R") # 50% clustering, 35 GV genomes, 20 Bif genomes
-source("code/run_orthomcl_summary_gv35_bif20_id70.R") # 70% clustering, 35 GV genomes, 20 Bif genomes
-# source("code/run_orthomcl_summary_gv35_bif22_id70.R") # 70% clustering, 35 GV genomes, 22 Bif genomes
+source("code/setup_orthomcl_summary_gv35_bif20_id50.R") # 50% clustering, 35 GV genomes, 20 Bif genomes
 
-## Load output
-load("results/orthomcl-summary-gv-bif/orthomcl_summary.RData")
+## Run part 1 of summary
+# source("code/orthomcl_summary_part1.R")
+load("results/orthomcl50-gv35-bif20/orthomcl_summary_part1.RData")
+
+## run hclust to identify groups
+# source("code/orthomcl_hclust_id_clades.R")
+load("results/orthomcl50-gv35-bif20/orthomcl_hclust_id_clades.RData")
+
+## Run part 2 of summary
+# source("code/orthomcl_summary_bif_part2.R")
+load("results/orthomcl50-gv35-bif20/orthomcl_summary_part2.RData")
+```
+
+Genome characteristics
+```{r genome-char}
+genome.char <- read.table("data/reference/bif_genome_char.txt", sep="\t", header=T, quote="", na.strings = "NA")
+
+genome.char$sp_id <- substr(genome.char$id_short, 1, 3)
+
+summary(genome.char$genome_size)
+summary(genome.char$patric_cds)
+summary(genome.char$gc_content)
+
+ggplot(genome.char, aes(x=genome_size, y=patric_cds, color=gc_content)) +
+  geom_point(size=4) +
+  scale_color_continuous(name="%GC") +
+  xlab("Genome Size (Mbp)") +
+  ylab("No. of PATRIC CDS") +
+  theme_cust
+ggsave(paste0(dir.fig, "/bif_cds_vs_size.png"),
+       width=4, height=3, units="in", scale=2)
+
+ggplot(genome.char, aes(x=genome_size, y=patric_cds, color=sp_id)) +
+  geom_point(size=4) +
+  scale_color_manual(name="Species", values=brewer.pal(8,"Set1")) +
+  xlab("Genome Size (Mbp)") +
+  ylab("No. of PATRIC CDS") +
+  theme_cust
+ggsave(paste0(dir.fig, "/bif_cds_vs_size_spp.png"),
+       width=4, height=3, units="in", scale=2)
+
+ggplot(genome.char, aes(x=genome_size, y=gc_content, color=sp_id)) +
+  geom_point(size=4) +
+  scale_color_manual(name="Species", values=brewer.pal(8,"Set1")) +
+  xlab("Genome Size (Mbp)") +
+  ylab("GC Content (%)") +
+  theme_cust
+ggsave(paste0(dir.fig, "/bif_gc_vs_size_spp.png"),
+       width=3.75, height=3, units="in", scale=2)
+```
+
+Annotation tables with clade IDs included (separated clade 2 into 2a and 2b)
+```{r}
+group.ids <- data.frame(id_short=unlist(group.id, use.names=F))
+group.ids$group_id <- c(rep("group1", length(group.id$group1)),
+                        rep("group2", length(group.id$group2)),
+                        rep("group3", length(group.id$group3)),
+                        rep("group4", length(group.id$group4)),
+                        rep("group5", length(group.id$group5)),
+                        rep("group6", length(group.id$group6)),
+                        rep("group7", length(group.id$group7)))
+# write.table(clade.ids, "results/orthomcl-gene-enrich/clade_ids.txt", sep="\t", quote=F, row.names=F)
+
+## merge with GO, pathway, feature tables
+key_anno_go <- merge(key.anno$go, group.ids)
+key_anno_go$id_full <- NULL
+key_anno_go$seq_id <- NULL
+key_anno_go$anno_type <- NULL
+write.table(key_anno_go, "results/orthomcl-gene-enrich/key_anno_go_gv35_bif20.txt", 
+            sep="\t", quote=F, row.names=F)
+
+key_anno_path <- merge(key.anno$path, group.ids)
+key_anno_path$id_full <- NULL
+key_anno_path$seq_id <- NULL
+key_anno_path$anno_type <- NULL
+key_anno_path$pathway_id <- factor(key_anno_path$pathway_id, 
+                                   levels=unique(key_anno_path$pathway_id))
+write.table(key_anno_path, "results/orthomcl-gene-enrich/key_anno_pathway_gv35_bif20.txt", 
+            sep="\t", quote=F, row.names=F)
+
+key_anno_feat <- merge(key.feat.cds, group.ids)
+key_anno_feat <- merge(key_anno_feat, key.feat.cds[,c("ortho_id", "na_feature_id")])
+write.table(key_anno_feat, "results/orthomcl-gene-enrich/key_anno_features_gv35_bif20.txt", 
+            sep="\t", quote=F, row.names=F)
+
+# ## make protein product names lower case to avoid duplicates
+# key_anno_feat$product_lc <- tolower(key_anno_feat$product)
+# length(unique(key_anno_feat$product)) # 3139
+# length(unique(key_anno_feat$product_lc)) # 3082
+# write.table(unique(key_anno_feat[,c("product","product_lc")]), "lcase_ucase_protein_names.txt", sep="\t", row.names=F, quote=F)
+# 
+# ## recode lowercase protein names with uppercase equivalents
+# lc.uc.rep <- unique(key_anno_feat[,c("product","product_lc")])
+# 
+# # function from https://susanejohnston.wordpress.com/2012/10/01/find-and-replace-in-r-part-2-how-to-recode-many-values-simultaneously/
+# recoderFunc <- function(data, oldvalue, newvalue) {
+#   # convert any factors to characters
+#   if (is.factor(data))     data     <- as.character(data)
+#   if (is.factor(oldvalue)) oldvalue <- as.character(oldvalue)
+#   if (is.factor(newvalue)) newvalue <- as.character(newvalue)
+#   
+#   # create the return vector
+#   newvec <- data
+#   
+#   # put recoded values into the correct position in the return vector
+#   for (i in unique(oldvalue)) newvec[data == i] <- newvalue[oldvalue == i]
+#   
+#   newvec
+# }
+# 
+# key_anno_feat$product <- recoderFunc(key_anno_feat$product_lc, lc.uc.rep$product_lc, lc.uc.rep$product)
+
+## merge
+mrg <- key_anno_feat
+# mrg <- merge(key_anno_path, key_anno_go, by = "locus_tag", all.x = TRUE, suffixes = c("",".y"))
+# TF <- regexpr(".y$", colnames(mrg), perl=T) > 0; sum(TF); mrg <- mrg[,!TF]
+# TF <- regexpr(".y$", colnames(mrg), perl=T) > 0; sum(TF); mrg <- mrg[,!TF]
+mrg <- as.matrix(mrg); mrg[is.na(mrg)] <- ""
+
+## Gene Set Enrichment Analysis (GSEA)
+gsea = c()
+#for(group in sort(unique(mrg[,"clade_id"]))[1:1]){
+for(group in sort(unique(mrg[,"group_id"]))){ # group = "clade1"
+TF = regexpr(group, mrg[,"group_id"], perl=T) > 0; sum(TF); m1 = mrg[TF,]; m2 = mrg[!TF,]
+#
+myfun = function(x,y) sapply(lapply(tapply(x, y, unique), sort), paste, collapse='|')
+gene_id = "locus_tag"; #gene_id = "na_feature_id"; gene_id = "ortho_id"
+fun1 = apply(m1, 2, myfun, y=m1[,gene_id]);
+fun2 = apply(m2, 2, myfun, y=m2[,gene_id]);
+#
+# dbs = c("pathway_id","go_id")
+# dbs = c("ortho_id") # uncomment this to run the analysis on OrthoMCL clusters too
+dbs = c("product")
+for(db in dbs){ # db = "go_id"
+ltbl = list(table(fun1[,db]), table(fun2[,db]))
+
+if(1){
+lapply(ltbl, sum)
+ltbl[[1]] = ltbl[[1]][ltbl[[1]] > 0]
+ltbl[[2]] = ltbl[[2]][ltbl[[2]] > 0]
+ltbl[[1]] = ltbl[[1]][names(ltbl[[1]]) != ""]; ltbl[[2]] = ltbl[[2]][names(ltbl[[2]]) != ""]
+lapply(ltbl, sum)
+}
+
+gene_sets = sort(unique(unlist(strsplit(names(unlist(ltbl)), "[|]", perl=T))))
+
+## fisher.test
+aa = bb = cc = dd = Odds_ratio = p_value = category = c()
+for(gene_set in gene_sets){
+if (gene_set == "") next
+TF = regexpr(gene_set, names(ltbl[[1]]), fixed=TRUE) > 0
+a = sum(ltbl[[1]][TF])
+b = sum(ltbl[[1]][!TF])
+TF = regexpr(gene_set, names(ltbl[[2]]), fixed=TRUE) > 0
+c = sum(ltbl[[2]][TF])
+d = sum(ltbl[[2]][!TF])
+ft = fisher.test(matrix(c(a,b,c,d), nrow=2, byrow=T))
+category = c(category, gene_set); aa = c(aa, a); bb = c(bb, b); cc = c(cc, c); dd = c(dd, d); Odds_ratio = c(Odds_ratio, ft$estimate); p_value = c(p_value, ft$p.value);
+}
+
+gsea = rbind(gsea, cbind(group, db, category, aa, bb, cc, dd, Odds_ratio, p_value))
+
+} # end of for(db
+} # end of for(group
+
+## convert id to name/term
+pathway_id_name = unique(mrg[,c("pathway_id", "pathway_name")])
+TF = gsea[,"db"] == "pathway_id"; gsea[TF,"category"] = apply(as.matrix(gsea[TF,"category"]), MARGIN=c(1,2), function(x) paste(as.matrix(pathway_id_name[pathway_id_name[,1]==x,c(1,2)]),collapse=" ") )
+
+go_id_term = unique(mrg[,c("go_id", "go_term")])
+TF = gsea[,"db"] == "go_id"; gsea[TF,"category"] = apply(as.matrix(gsea[TF,"category"]), MARGIN=c(1,2), function(x) paste(as.matrix(go_id_term[go_id_term[,1]==x,c(1,2)]),collapse=" ") )
+
+## as.data.frame
+gsea = as.data.frame(gsea)
+gsea[,-c(1:3)] = apply(gsea[,-c(1:3)], 2, function(x) as.numeric(as.vector(x)))
+gsea[,"q_value"] = p.adjust(gsea[,"p_value"], "fdr") # "bonferroni"
+
+## write.table
+alpha = 0.05
+out = gsea
+colnames(out) = c("Group","Database","Category","a","b","c","d","Odds ratio","p-value","q-value")
+
+write.csv(out, "table.enrich.gv35.bif20.csv", quote=T, row.names=F)
+write.csv(out[out[,"p-value"] < alpha,], "table.enrich.gv35.bif20.p.csv", quote=T, row.names=F)
+write.csv(out[out[,"q-value"] < alpha,], "table.enrich.gv35.bif20.q.csv", quote=T, row.names=F)
+
+# for orthomcl clust gsea
+ortho.prod <- data.frame(matrix(nrow=length(unique(out$Category)), ncol=2))
+rownames(ortho.prod) <- unique(out$Category)
+colnames(ortho.prod) <- c("Category", "Product")
+
+for(i in unique(out$Category[out$Database=="ortho_id"])){
+  tmp <- subset(key_anno_feat$product, key_anno_feat$ortho_id==i)
+  len <- length(unique(tmp))
+  ortho.prod[i,"Category"] <- i
+  ortho.prod[i,"Product"] <- names(which.max(table(tmp)))
+}
+
+out <- merge(out, ortho.prod)
+
+write.csv(out, "table.enrich.gv35.bif20.orthoclust.csv", quote=T, row.names=F)
+write.csv(out[out[,"p-value"] < alpha,], "table.enrich.gv35.bif20.orthoclust.p.csv", quote=T, row.names=F)
+write.csv(out[out[,"q-value"] < alpha,], "table.enrich.gv35.bif20.orthoclust.q.csv", quote=T, row.names=F)
 ```
 
 SANDBOX
 ```{r sandbox}
 # extract clusters only found in at least some GV, not in Bifido
-bif.clade.clust <- unlist(unique(clade.clust[1:4]))
-gv.clade.clust <- unlist(unique(clade.clust[5]))
+bif.group.clust <- unlist(unique(group.clust[c(1,2,3,4,6,7)]))
+gv.group.clust <- unlist(unique(group.clust[5]))
 
 # extract clusters and features found in at least 2 GV and no Bifido
-gv.uniq.clust <- gv.clade.clust[!(gv.clade.clust %in% bif.clade.clust)]
+gv.uniq.clust <- gv.group.clust[!(gv.group.clust %in% bif.group.clust)]
 gv.uniq.feat <- droplevels(subset(key.feat.cds, ortho_id %in% gv.uniq.clust))
-write.table(gv.uniq.feat, "~/Documents/research/gardnerella/doc/tables/GV_uniq_clust.txt", sep="\t", row.names=F, quote=F)
+# write.table(gv.uniq.feat, "~/Documents/research/gardnerella/doc/tables/GV_uniq_clust.txt", sep="\t", row.names=F, quote=F)
 
 # count occurences each cluster
 gv.uniq.clust.count <- table(gv.uniq.feat$ortho_id)
 
 # extract features by name found in GV but not Bifido
-gv.uniq.feat.name.all <- subset(key.feat.gv, !(key.feat.gv$product %in% key.feat.bif$product))
-gv.uniq.feat.name.hypo <- gv.uniq.feat.name.all[grep("hypothetical", gv.uniq.feat.name.all$product),]
-write.table(gv.uniq.feat.name.hypo, "~/Documents/research/gardnerella/doc/tables/GV_uniq_feat_hypo.txt", sep="\t", row.names=F, quote=F)
-
-gv.uniq.feat.name <- gv.uniq.feat.name.all[grep("hypothetical", gv.uniq.feat.name.all$product, invert=T),]
-write.table(gv.uniq.feat.name, "~/Documents/research/gardnerella/doc/tables/GV_uniq_feat.txt", sep="\t", row.names=F, quote=F)
-
-gv.uniq.feat.name.prod <- unique(gv.uniq.feat.name$product)
-write.table(gv.uniq.feat.name, "~/Documents/research/gardnerella/doc/tables/GV_uniq_feat_product.txt", sep="\t", row.names=F, quote=F)
+# gv.uniq.feat.name.all <- subset(key.feat.gv, !(key.feat.gv$product %in% key.feat.bif$product))
+# gv.uniq.feat.name.hypo <- gv.uniq.feat.name.all[grep("hypothetical", gv.uniq.feat.name.all$product),]
+# write.table(gv.uniq.feat.name.hypo, "~/Documents/research/gardnerella/doc/tables/GV_uniq_feat_hypo.txt", sep="\t", row.names=F, quote=F)
+# 
+# gv.uniq.feat.name <- gv.uniq.feat.name.all[grep("hypothetical", gv.uniq.feat.name.all$product, invert=T),]
+# write.table(gv.uniq.feat.name, "~/Documents/research/gardnerella/doc/tables/GV_uniq_feat.txt", sep="\t", row.names=F, quote=F)
+# 
+# gv.uniq.feat.name.prod <- unique(gv.uniq.feat.name$product)
+# write.table(gv.uniq.feat.name, "~/Documents/research/gardnerella/doc/tables/GV_uniq_feat_product.txt", sep="\t", row.names=F, quote=F)
 
 ###
-gv.core.uniq <- unlist(strsplit(unlist(ortho.clust$ortho_id[clade.core.clust.uniq$clade5]), split=" "), use.names=F)
-
+gv.core.uniq <- unlist(strsplit(unlist(ortho.clust$ortho_id[group.core.clust.uniq$group5]), split=" "), use.names=F)
+gv.core.uniq <- key.feat.gv[key.fasta.gv$cds_id %in% gv.core.uniq,]
 write.table(key.fasta.gv[key.fasta.gv$cds_id %in% gv.core.uniq,], "~/Desktop/gv_uniq_core.txt", sep="\t", row.names=F, quote=F)
 ```
