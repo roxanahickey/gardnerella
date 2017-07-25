@@ -1,0 +1,18 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01021	clust_1099	VBIGarVag247323_1021	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496232	8426	9190	+	765		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV01
+GV06|SEQ01322	clust_1099	VBIGarVag244004_1322	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491477	200763	201779	-	1017		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV06
+GV09|SEQ00786	clust_1099	VBIGarVag169280_0786	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260773	157281	158210	+	930		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV09
+GV11|SEQ01013	clust_1099	VBIGarVag171052_1013	Gardnerella vaginalis 41V	AEJE01000058	PATRIC	CDS	52550408	11898	12845	-	948		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV11
+GV13|SEQ00335	clust_1099	VBIGarVag244533_0335	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486621	164549	165565	-	1017		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV13
+GV16|SEQ00722	clust_1099	VBIGarVag246379_0722	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478599	802872	803888	+	1017		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV16
+GV23|SEQ00276	clust_1099	VBIGarVag276017_0276	Gardnerella vaginalis JCP7659	ATJQ01000015	PATRIC	CDS	183972859	7433	8197	+	765		binding-protein-dependent transport systems inner membrane component	GV23
+GV24|SEQ00126	clust_1099	VBIGarVag268944_0127	Gardnerella vaginalis JCP7672	ATJP01000004	PATRIC	CDS	183975353	31175	32122	+	948		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV24
+GV25|SEQ00247	clust_1099	VBIGarVag270495_0247	Gardnerella vaginalis JCP7719	ATJO01000016	PATRIC	CDS	183978380	7572	8543	+	972		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV25
+GV26|SEQ00287	clust_1099	VBIGarVag272749_0287	Gardnerella vaginalis JCP8017A	ATJN01000014	PATRIC	CDS	183981339	2407	3378	-	972		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV26
+GV27|SEQ00248	clust_1099	VBIGarVag276930_0248	Gardnerella vaginalis JCP8017B	ATJM01000010	PATRIC	CDS	183984224	7530	8489	+	960		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV27
+GV28|SEQ00120	clust_1099	VBIGarVag271349_0120	Gardnerella vaginalis JCP8066	ATJL01000012	PATRIC	CDS	183986896	19166	20137	+	972		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV28
+GV29|SEQ00025	clust_1099	VBIGarVag265473_0025	Gardnerella vaginalis JCP8070	ATJK01000002	PATRIC	CDS	183989397	19306	20265	+	960		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV29
+GV30|SEQ00131	clust_1099	VBIGarVag267667_0131	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992306	41626	42642	-	1017		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV30
+GV31|SEQ00127	clust_1099	VBIGarVag264983_0127	Gardnerella vaginalis JCP8151A	ATJI01000006	PATRIC	CDS	183995286	19227	20198	+	972		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV31
+GV32|SEQ00362	clust_1099	VBIGarVag277040_0362	Gardnerella vaginalis JCP8151B	ATJH01000015	PATRIC	CDS	183998577	19435	20199	+	765		binding-protein-dependent transport systems inner membrane component	GV32
+GV35|SEQ00300	clust_1099	VBIGarVag272169_0300	Gardnerella vaginalis JCP8522	ATJE01000010	PATRIC	CDS	184006896	3498	4469	-	972		Predicted rhamnose oligosaccharide ABC transport system, permease component 2	GV35

@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00248	clust_0571	VBIGarVag247323_0248	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494612	131202	131954	-	753	recO	DNA recombination and repair protein RecO	GV01
+GV02|SEQ00518	clust_0571	VBIGarVag242669_0518	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497833	121369	122121	-	753	recO	DNA recombination and repair protein RecO	GV02
+GV03|SEQ00595	clust_0571	VBIGarVag247424_0595	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500607	166441	167187	+	747	recO	DNA recombination and repair protein RecO	GV03
+GV04|SEQ00444	clust_0571	VBIGarVag246433_0444	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480768	62225	62959	-	735	recO	DNA recombination and repair protein RecO	GV04
+GV05|SEQ00615	clust_0571	VBIGarVag174900_0615	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546984	227689	228435	+	747		DNA recombination and repair protein RecO	GV05
+GV06|SEQ00791	clust_0571	VBIGarVag244004_0791	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490378	137277	138011	+	735	recO	DNA recombination and repair protein RecO	GV06
+GV07|SEQ00787	clust_0571	VBIGarVag249177_0787	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493235	44771	45517	-	747	recO	DNA recombination and repair protein RecO	GV07
+GV08|SEQ00353	clust_0571	VBIGarVag251521_0353	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475103	185667	186401	+	735	recO	DNA recombination and repair protein RecO	GV08
+GV09|SEQ00458	clust_0571	VBIGarVag169280_0458	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260092	169945	170679	-	735	recO	DNA recombination and repair protein RecO	GV09
+GV10|SEQ00407	clust_0571	VBIGarVag136958_0407	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146862	494224	494970	+	747	recO	DNA recombination and repair protein RecO	GV10
+GV11|SEQ00353	clust_0571	VBIGarVag171052_0353	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549010	32120	32854	-	735		DNA recombination and repair protein RecO	GV11
+GV12|SEQ00951	clust_0571	VBIGarVag144721_0951	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854633	526343	527089	+	747		DNA recombination and repair protein RecO	GV12
+GV13|SEQ00815	clust_0571	VBIGarVag244533_0815	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487624	291410	292144	-	735	recO	DNA recombination and repair protein RecO	GV13
+GV14|SEQ00409	clust_0571	VBIGarVag244375_0409	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502670	46999	47745	+	747	recO	DNA recombination and repair protein RecO	GV14
+GV15|SEQ00211	clust_0571	VBIGarVag249709_0211	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483924	42169	42915	+	747	recO	DNA recombination and repair protein RecO	GV15
+GV16|SEQ01109	clust_0571	VBIGarVag246379_1109	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479406	1286960	1287694	-	735	recO	DNA recombination and repair protein RecO	GV16
+GV17|SEQ00182	clust_0571	VBIGarVag146634_0182	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850365	125578	126324	-	747		DNA recombination and repair protein RecO	GV17
+GV18|SEQ00244	clust_0571	VBIGarVag4823_0244	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000073	PATRIC	CDS	42069188	4880	5623	-	744	recO	DNA recombination and repair protein RecO	GV18
+GV19|SEQ00500	clust_0571	VBIGarVag39333_0501	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627875	625445	626188	+	744	recO	DNA recombination and repair protein RecO	GV19
+GV20|SEQ01019	clust_0571	VBIGarVag188338_1019	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190892	1259564	1260298	-	735	recO	DNA recombination and repair protein RecO	GV20
+GV21|SEQ00712	clust_0571	VBIGarVag274454_0713	Gardnerella vaginalis JCP7275	ATJS01000046	PATRIC	CDS	183968127	1771	2505	+	735		DNA recombination and repair protein RecO	GV21
+GV22|SEQ00347	clust_0571	VBIGarVag276801_0348	Gardnerella vaginalis JCP7276	ATJR01000010	PATRIC	CDS	183970114	2953	3687	+	735		DNA recombination and repair protein RecO	GV22
+GV23|SEQ00950	clust_0571	VBIGarVag276017_0950	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974336	23437	24189	+	753		DNA recombination and repair protein RecO	GV23
+GV24|SEQ00512	clust_0571	VBIGarVag268944_0513	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976169	2952	3686	+	735		DNA recombination and repair protein RecO	GV24
+GV25|SEQ00218	clust_0571	VBIGarVag270495_0218	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978316	35782	36534	-	753		DNA recombination and repair protein RecO	GV25
+GV26|SEQ00031	clust_0571	VBIGarVag272749_0031	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980790	33575	34327	-	753		DNA recombination and repair protein RecO	GV26
+GV27|SEQ00150	clust_0571	VBIGarVag276930_0150	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984021	30884	31636	+	753		DNA recombination and repair protein RecO	GV27
+GV28|SEQ00581	clust_0571	VBIGarVag271349_0581	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987883	17040	17792	+	753		DNA recombination and repair protein RecO	GV28
+GV29|SEQ00185	clust_0571	VBIGarVag265473_0185	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989740	16952	17704	+	753		DNA recombination and repair protein RecO	GV29
+GV30|SEQ00634	clust_0571	VBIGarVag267667_0635	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	183993393	3745	4488	+	744		DNA recombination and repair protein RecO	GV30
+GV31|SEQ00171	clust_0571	VBIGarVag264983_0171	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995380	17089	17841	+	753		DNA recombination and repair protein RecO	GV31
+GV32|SEQ00418	clust_0571	VBIGarVag277040_0418	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998708	17382	18134	+	753		DNA recombination and repair protein RecO	GV32
+GV33|SEQ00352	clust_0571	VBIGarVag265557_0352	Gardnerella vaginalis JCP8481A	ATJG01000030	PATRIC	CDS	184001420	16075	16821	+	747		DNA recombination and repair protein RecO	GV33
+GV34|SEQ00452	clust_0571	VBIGarVag270440_0452	Gardnerella vaginalis JCP8481B	ATJF01000034	PATRIC	CDS	184004473	7102	7848	-	747		DNA recombination and repair protein RecO	GV34
+GV35|SEQ00480	clust_0571	VBIGarVag272169_0480	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007280	33997	34749	-	753		DNA recombination and repair protein RecO	GV35

@@ -1,0 +1,4 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV09|SEQ00199	clust_1901	VBIGarVag169280_0199	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259561	14720	15847	-	1128		hypothetical protein	GV09
+GV18|SEQ01139	clust_1901	VBIGarVag4823_1139	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071108	28008	29537	+	1530		hypothetical protein	GV18
+GV19|SEQ01048	clust_1901	VBIGarVag39333_1049	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629007	1281340	1282845	-	1506		hypothetical protein	GV19

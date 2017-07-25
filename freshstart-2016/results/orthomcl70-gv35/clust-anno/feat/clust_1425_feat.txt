@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00132	clust_1425	VBIGarVag246433_0132	Gardnerella vaginalis 0288E	ADEN01000002	PATRIC	CDS	85480113	10756	12876	-	2121		Alpha-galactosidase (EC 3.2.1.22)	GV04
+GV08|SEQ01226	clust_1425	VBIGarVag251521_1226	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476915	336632	338752	+	2121		Alpha-galactosidase (EC 3.2.1.22)	GV08
+GV09|SEQ01262	clust_1425	VBIGarVag169280_1262	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261767	127884	128009	+	126		Alpha-galactosidase (EC 3.2.1.22)	GV09
+GV11|SEQ00580	clust_1425	VBIGarVag171052_0580	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549495	10680	12800	-	2121		Alpha-galactosidase (EC 3.2.1.22)	GV11
+GV13|SEQ00399	clust_1425	VBIGarVag244533_0399	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486757	38765	38890	-	126		Alpha-galactosidase (EC 3.2.1.22)	GV13
+GV21|SEQ00680	clust_1425	VBIGarVag274454_0681	Gardnerella vaginalis JCP7275	ATJS01000043	PATRIC	CDS	183968058	299	2419	-	2121		Alpha-galactosidase (EC 3.2.1.22)	GV21
+GV22|SEQ00603	clust_1425	VBIGarVag276801_0604	Gardnerella vaginalis JCP7276	ATJR01000019	PATRIC	CDS	183970643	10010	12130	-	2121		Alpha-galactosidase (EC 3.2.1.22)	GV22
+GV24|SEQ00251	clust_1425	VBIGarVag268944_0252	Gardnerella vaginalis JCP7672	ATJP01000010	PATRIC	CDS	183975611	104	2224	-	2121		Alpha-galactosidase (EC 3.2.1.22)	GV24

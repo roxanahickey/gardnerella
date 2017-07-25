@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00665	clust_0328	VBIGarVag247323_0665	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495483	87590	88555	+	966		Serine/threonine protein kinase	GV01
+GV02|SEQ00150	clust_0328	VBIGarVag242669_0150	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497062	122346	123311	+	966		Serine/threonine protein kinase	GV02
+GV03|SEQ00134	clust_0328	VBIGarVag247424_0134	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499644	65884	66846	-	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV03
+GV04|SEQ00259	clust_0328	VBIGarVag246433_0259	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480374	139959	140924	+	966		Serine/threonine protein kinase	GV04
+GV05|SEQ00236	clust_0328	VBIGarVag174900_0236	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546190	65967	66929	-	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV05
+GV06|SEQ00117	clust_0328	VBIGarVag244004_0117	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85488945	19494	20459	-	966		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV06
+GV07|SEQ00113	clust_0328	VBIGarVag249177_0113	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491807	127476	128438	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV07
+GV08|SEQ00982	clust_0328	VBIGarVag251521_0982	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476407	70448	71413	-	966		Serine/threonine protein kinase	GV08
+GV09|SEQ00119	clust_0328	VBIGarVag169280_0119	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259385	89272	90237	+	966		Serine/threonine protein kinase	GV09
+GV10|SEQ00027	clust_0328	VBIGarVag136958_0027	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146064	36425	37387	-	963		Serine/threonine protein kinase	GV10
+GV11|SEQ00476	clust_0328	VBIGarVag171052_0476	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549275	71273	72238	-	966		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV11
+GV12|SEQ00558	clust_0328	VBIGarVag144721_0558	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853809	64844	65806	-	963		Serine/threonine protein kinase	GV12
+GV13|SEQ00076	clust_0328	VBIGarVag244533_0076	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486088	74415	75380	-	966		Serine/threonine protein kinase	GV13
+GV14|SEQ00622	clust_0328	VBIGarVag244375_0622	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503108	133934	134896	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV14
+GV15|SEQ01061	clust_0328	VBIGarVag249709_1061	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485714	25695	26657	+	963		Serine/threonine protein kinase	GV15
+GV16|SEQ00150	clust_0328	VBIGarVag246379_0150	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477414	79012	79977	-	966		Serine/threonine protein kinase	GV16
+GV17|SEQ00610	clust_0328	VBIGarVag146634_0610	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851272	25625	26587	+	963		Serine/threonine protein kinase	GV17
+GV18|SEQ00927	clust_0328	VBIGarVag4823_0927	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000134	PATRIC	CDS	42070658	8428	9393	+	966		Serine/threonine protein kinase	GV18
+GV19|SEQ00137	clust_0328	VBIGarVag39333_0137	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627113	157053	157682	+	630	pknA	Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV19
+GV20|SEQ00016	clust_0328	VBIGarVag188338_0016	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188802	17676	18641	+	966		Serine/threonine protein kinase	GV20
+GV21|SEQ00216	clust_0328	VBIGarVag274454_0216	Gardnerella vaginalis JCP7275	ATJS01000010	PATRIC	CDS	183967079	10663	11628	-	966		"Serine/threonine-protein kinase PknA "	GV21
+GV22|SEQ00169	clust_0328	VBIGarVag276801_0169	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969728	35914	36879	+	966		Serine/threonine protein kinase	GV22
+GV23|SEQ00082	clust_0328	VBIGarVag276017_0082	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972459	48166	49131	+	966		"Serine/threonine-protein kinase PknA "	GV23
+GV24|SEQ00067	clust_0328	VBIGarVag268944_0068	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975228	60698	61663	+	966		Serine/threonine protein kinase	GV24
+GV25|SEQ00009	clust_0328	VBIGarVag270495_0009	Gardnerella vaginalis JCP7719	ATJO01000001	PATRIC	CDS	183977875	9676	10641	-	966		"Serine/threonine-protein kinase PknA "	GV25
+GV26|SEQ00191	clust_0328	VBIGarVag272749_0191	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981134	9679	10644	-	966		"Serine/threonine-protein kinase PknA "	GV26
+GV27|SEQ00282	clust_0328	VBIGarVag276930_0282	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984299	37995	38960	-	966		"Serine/threonine-protein kinase PknA "	GV27
+GV28|SEQ00186	clust_0328	VBIGarVag271349_0186	Gardnerella vaginalis JCP8066	ATJL01000015	PATRIC	CDS	183987033	10922	11887	-	966		"Serine/threonine-protein kinase PknA "	GV28
+GV29|SEQ00274	clust_0328	VBIGarVag265473_0274	Gardnerella vaginalis JCP8070	ATJK01000011	PATRIC	CDS	183989926	18473	19438	+	966		"Serine/threonine-protein kinase PknA "	GV29
+GV30|SEQ00202	clust_0328	VBIGarVag267667_0202	Gardnerella vaginalis JCP8108	ATJJ01000005	PATRIC	CDS	183992454	33901	34866	+	966		"Serine/threonine-protein kinase PknA "	GV30
+GV31|SEQ00399	clust_0328	VBIGarVag264983_0399	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995851	77049	78014	+	966		"Serine/threonine-protein kinase PknA "	GV31
+GV32|SEQ00079	clust_0328	VBIGarVag277040_0079	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997990	62259	63224	+	966		"Serine/threonine-protein kinase PknA "	GV32
+GV33|SEQ00108	clust_0328	VBIGarVag265557_0108	Gardnerella vaginalis JCP8481A	ATJG01000009	PATRIC	CDS	184000889	22767	23729	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV33
+GV34|SEQ01032	clust_0328	VBIGarVag270440_1032	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005746	48197	49159	+	963		Serine/threonine-protein kinase PknA (EC 2.7.11.1)	GV34
+GV35|SEQ00284	clust_0328	VBIGarVag272169_0284	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006860	52861	53826	+	966		"Serine/threonine-protein kinase PknA "	GV35

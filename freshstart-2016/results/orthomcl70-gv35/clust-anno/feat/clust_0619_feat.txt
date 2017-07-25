@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01113	clust_0619	VBIGarVag247323_1113	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496427	117721	119205	+	1485		Signal transduction histidine kinase	GV01
+GV02|SEQ00324	clust_0619	VBIGarVag242669_0324	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497424	130210	131694	-	1485		Signal transduction histidine kinase	GV02
+GV03|SEQ00663	clust_0619	VBIGarVag247424_0663	Gardnerella vaginalis 00703Dmash	ADEV01000008	PATRIC	CDS	85500750	26055	27539	-	1485		Signal transduction histidine kinase	GV03
+GV04|SEQ00839	clust_0619	VBIGarVag246433_0839	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481577	173966	175456	+	1491		Signal transduction histidine kinase	GV04
+GV05|SEQ00769	clust_0619	VBIGarVag174900_0769	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547297	398586	400070	+	1485		Signal transduction histidine kinase	GV05
+GV06|SEQ00065	clust_0619	VBIGarVag244004_0065	Gardnerella vaginalis 1400E	ADER01000001	PATRIC	CDS	85488835	69227	70717	+	1491		Signal transduction histidine kinase	GV06
+GV07|SEQ00640	clust_0619	VBIGarVag249177_0640	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492932	12769	14253	-	1485		Signal transduction histidine kinase	GV07
+GV08|SEQ00696	clust_0619	VBIGarVag251521_0696	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475818	48629	50119	-	1491		Signal transduction histidine kinase	GV08
+GV09|SEQ00698	clust_0619	VBIGarVag169280_0698	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260591	42889	44379	+	1491		Signal transduction histidine kinase	GV09
+GV10|SEQ00513	clust_0619	VBIGarVag136958_0513	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147078	637179	638663	+	1485		Signal transduction histidine kinase	GV10
+GV11|SEQ00972	clust_0619	VBIGarVag171052_0972	Gardnerella vaginalis 41V	AEJE01000056	PATRIC	CDS	52550324	56625	58115	-	1491		Signal transduction histidine kinase	GV11
+GV12|SEQ01090	clust_0619	VBIGarVag144721_1090	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854917	85736	87220	+	1485		Signal transduction histidine kinase	GV12
+GV13|SEQ00885	clust_0619	VBIGarVag244533_0885	Gardnerella vaginalis 55152	ADEQ01000011	PATRIC	CDS	85487772	17817	19307	-	1491		Signal transduction histidine kinase	GV13
+GV14|SEQ00232	clust_0619	VBIGarVag244375_0232	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502299	23599	25083	+	1485		Signal transduction histidine kinase	GV14
+GV15|SEQ01123	clust_0619	VBIGarVag249709_1123	Gardnerella vaginalis 6420B	ADEP01000014	PATRIC	CDS	85485847	18256	19800	-	1545		Signal transduction histidine kinase	GV15
+GV16|SEQ00634	clust_0619	VBIGarVag246379_0634	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478416	689001	690491	+	1491		Signal transduction histidine kinase	GV16
+GV17|SEQ01039	clust_0619	VBIGarVag146634_1039	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852172	206584	208068	-	1485		Signal transduction histidine kinase	GV17
+GV18|SEQ00015	clust_0619	VBIGarVag4823_0015	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000018	PATRIC	CDS	42068670	62	1552	+	1491		Signal transduction histidine kinase	GV18
+GV19|SEQ00993	clust_0619	VBIGarVag39333_0994	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628897	1226537	1228027	-	1491		Signal transduction histidine kinase	GV19
+GV20|SEQ00565	clust_0619	VBIGarVag188338_0565	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189944	674312	675802	+	1491		Signal transduction histidine kinase	GV20
+GV21|SEQ00426	clust_0619	VBIGarVag274454_0427	Gardnerella vaginalis JCP7275	ATJS01000022	PATRIC	CDS	183967519	13216	14706	+	1491		Signal transduction histidine kinase	GV21
+GV22|SEQ00328	clust_0619	VBIGarVag276801_0329	Gardnerella vaginalis JCP7276	ATJR01000009	PATRIC	CDS	183970073	43616	45106	+	1491		Signal transduction histidine kinase	GV22
+GV23|SEQ00565	clust_0619	VBIGarVag276017_0565	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973489	28729	30213	-	1485		Signal transduction histidine kinase	GV23
+GV24|SEQ00894	clust_0619	VBIGarVag268944_0895	Gardnerella vaginalis JCP7672	ATJP01000081	PATRIC	CDS	183977010	36873	38363	-	1491		Signal transduction histidine kinase	GV24
+GV25|SEQ00540	clust_0619	VBIGarVag270495_0540	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183979016	28237	29721	-	1485		Signal transduction histidine kinase	GV25
+GV26|SEQ01200	clust_0619	VBIGarVag272749_1200	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983344	12631	14115	+	1485		Signal transduction histidine kinase	GV26
+GV27|SEQ00233	clust_0619	VBIGarVag276930_0233	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984193	28164	29648	-	1485		Signal transduction histidine kinase	GV27
+GV28|SEQ00062	clust_0619	VBIGarVag271349_0062	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986776	11058	12542	+	1485		Signal transduction histidine kinase	GV28
+GV29|SEQ00498	clust_0619	VBIGarVag265473_0498	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990408	10827	12311	+	1485		Signal transduction histidine kinase	GV29
+GV30|SEQ00985	clust_0619	VBIGarVag267667_0987	Gardnerella vaginalis JCP8108	ATJJ01000086	PATRIC	CDS	183994166	27606	29096	-	1491		Signal transduction histidine kinase	GV30
+GV31|SEQ00046	clust_0619	VBIGarVag264983_0046	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995113	11221	12705	+	1485		Signal transduction histidine kinase	GV31
+GV32|SEQ00704	clust_0619	VBIGarVag277040_0704	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999326	28980	30464	-	1485		Signal transduction histidine kinase	GV32
+GV33|SEQ00402	clust_0619	VBIGarVag265557_0402	Gardnerella vaginalis JCP8481A	ATJG01000034	PATRIC	CDS	184001526	22007	23491	-	1485		Signal transduction histidine kinase	GV33
+GV34|SEQ00079	clust_0619	VBIGarVag270440_0079	Gardnerella vaginalis JCP8481B	ATJF01000003	PATRIC	CDS	184003650	29406	30890	-	1485		Signal transduction histidine kinase	GV34
+GV35|SEQ01025	clust_0619	VBIGarVag272169_1025	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008535	27044	28528	-	1485		Signal transduction histidine kinase	GV35

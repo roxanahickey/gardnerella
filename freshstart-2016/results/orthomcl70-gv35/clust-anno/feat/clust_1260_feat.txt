@@ -1,0 +1,12 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV06|SEQ00286	clust_1260	VBIGarVag244004_0286	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489294	62402	63844	+	1443		FIG00648426: hypothetical protein	GV06
+GV07|SEQ00619	clust_1260	VBIGarVag249177_0619	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492889	123834	125297	+	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV07
+GV10|SEQ00764	clust_1260	VBIGarVag136958_0764	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147598	988641	990104	+	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV10
+GV11|SEQ00104	clust_1260	VBIGarVag171052_0104	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548476	5780	7222	-	1443		FIG00648426: hypothetical protein	GV11
+GV13|SEQ00209	clust_1260	VBIGarVag244533_0209	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486361	13527	14969	+	1443		FIG00648426: hypothetical protein	GV13
+GV13|SEQ00779	clust_1260	VBIGarVag244533_0779	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487550	245271	246734	-	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV13
+GV21|SEQ00474	clust_1260	VBIGarVag274454_0475	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967617	21049	22512	-	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV21
+GV28|SEQ00048	clust_1260	VBIGarVag271349_0048	Gardnerella vaginalis JCP8066	ATJL01000007	PATRIC	CDS	183986747	449	1912	-	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV28
+GV30|SEQ00380	clust_1260	VBIGarVag267667_0381	Gardnerella vaginalis JCP8108	ATJJ01000014	PATRIC	CDS	183992827	208	1650	+	1443		FIG00648426: hypothetical protein	GV30
+GV33|SEQ00186	clust_1260	VBIGarVag265557_0186	Gardnerella vaginalis JCP8481A	ATJG01000016	PATRIC	CDS	184001062	6653	8116	-	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV33
+GV34|SEQ01155	clust_1260	VBIGarVag270440_1155	Gardnerella vaginalis JCP8481B	ATJF01000129	PATRIC	CDS	184006017	6137	7600	+	1464		COG0488: ATPase components of ABC transporters with duplicated ATPase domains	GV34

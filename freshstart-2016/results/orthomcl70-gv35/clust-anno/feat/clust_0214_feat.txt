@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00404	clust_0214	VBIGarVag247323_0404	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494947	128328	129500	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV01
+GV02|SEQ00963	clust_0214	VBIGarVag242669_0963	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498775	211816	212988	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV02
+GV03|SEQ01052	clust_0214	VBIGarVag247424_1052	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501558	432000	433202	+	1203		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV03
+GV04|SEQ00949	clust_0214	VBIGarVag246433_0949	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481804	311331	312503	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV04
+GV05|SEQ01165	clust_0214	VBIGarVag174900_1165	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548172	39157	40359	+	1203		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV05
+GV06|SEQ01303	clust_0214	VBIGarVag244004_1303	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491439	176527	177699	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV06
+GV07|SEQ00237	clust_0214	VBIGarVag249177_0237	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492083	16993	18195	-	1203		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV07
+GV08|SEQ00891	clust_0214	VBIGarVag251521_0891	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476212	63706	64878	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV08
+GV09|SEQ00806	clust_0214	VBIGarVag169280_0806	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260813	181290	182462	+	1173	purK	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV09
+GV10|SEQ00905	clust_0214	VBIGarVag136958_0905	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147890	1181765	1182937	+	1173	purK	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV10
+GV11|SEQ00151	clust_0214	VBIGarVag171052_0151	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548575	40995	42167	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV11
+GV12|SEQ00312	clust_0214	VBIGarVag144721_0312	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853295	294598	295770	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV12
+GV13|SEQ00316	clust_0214	VBIGarVag244533_0316	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486583	140311	141483	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV13
+GV14|SEQ01150	clust_0214	VBIGarVag244375_1150	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504219	257250	258452	+	1203		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV14
+GV15|SEQ00887	clust_0214	VBIGarVag249709_0887	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485348	42118	43290	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV15
+GV16|SEQ00741	clust_0214	VBIGarVag246379_0741	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478637	826983	828155	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV16
+GV17|SEQ00570	clust_0214	VBIGarVag146634_0570	Gardnerella vaginalis AMD	NZ_ADAM01000003	PATRIC	CDS	37851182	21250	22422	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV17
+GV18|SEQ00663	clust_0214	VBIGarVag4823_0663	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000119	PATRIC	CDS	42070096	23491	24210	-	720		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV18
+GV19|SEQ00871	clust_0214	VBIGarVag39333_0872	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628647	1082351	1083523	-	1173	purK	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV19
+GV20|SEQ00677	clust_0214	VBIGarVag188338_0677	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190176	817835	819007	+	1173	purK	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV20
+GV21|SEQ00040	clust_0214	VBIGarVag274454_0040	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966712	45357	46529	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV21
+GV22|SEQ00427	clust_0214	VBIGarVag276801_0428	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970279	54084	55256	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV22
+GV23|SEQ00603	clust_0214	VBIGarVag276017_0603	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973567	39241	40413	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV23
+GV24|SEQ00435	clust_0214	VBIGarVag268944_0436	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183976000	115125	116297	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV24
+GV25|SEQ01117	clust_0214	VBIGarVag270495_1117	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980286	22291	23463	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV25
+GV26|SEQ00488	clust_0214	VBIGarVag272749_0488	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981764	26386	27558	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV26
+GV27|SEQ00449	clust_0214	VBIGarVag276930_0449	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984645	146008	147180	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV27
+GV28|SEQ00839	clust_0214	VBIGarVag271349_0839	Gardnerella vaginalis JCP8066	ATJL01000066	PATRIC	CDS	183988440	22254	23426	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV28
+GV29|SEQ00158	clust_0214	VBIGarVag265473_0158	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989681	145328	146500	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV29
+GV30|SEQ00111	clust_0214	VBIGarVag267667_0111	Gardnerella vaginalis JCP8108	ATJJ01000003	PATRIC	CDS	183992266	17395	18567	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV30
+GV31|SEQ00331	clust_0214	VBIGarVag264983_0331	Gardnerella vaginalis JCP8151A	ATJI01000012	PATRIC	CDS	183995710	22448	23620	-	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV31
+GV32|SEQ01032	clust_0214	VBIGarVag277040_1032	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000104	5099	6271	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV32
+GV33|SEQ00177	clust_0214	VBIGarVag265557_0177	Gardnerella vaginalis JCP8481A	ATJG01000014	PATRIC	CDS	184001042	18014	19186	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV33
+GV34|SEQ00324	clust_0214	VBIGarVag270440_0324	Gardnerella vaginalis JCP8481B	ATJF01000022	PATRIC	CDS	184004195	18014	19186	+	1173		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV34
+GV35|SEQ00576	clust_0214	VBIGarVag272169_0576	Gardnerella vaginalis JCP8522	ATJE01000037	PATRIC	CDS	184007489	22255	23382	-	1128		Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)	GV35

@@ -1,0 +1,12 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV03|SEQ00969	clust_1259	VBIGarVag247424_0969	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501384	324327	326147	-	1821		serine_threonine protein kinase	GV03
+GV05|SEQ01016	clust_1259	VBIGarVag174900_1016	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547813	737172	739019	-	1848		serine_threonine protein kinase	GV05
+GV07|SEQ00228	clust_1259	VBIGarVag249177_0228	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492063	973	2847	+	1875		serine_threonine protein kinase	GV07
+GV14|SEQ01000	clust_1259	VBIGarVag244375_1000	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503908	58991	60733	+	1743		hypothetical protein	GV14
+GV14|SEQ01072	clust_1259	VBIGarVag244375_1072	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504055	150252	152162	-	1911		hypothetical protein	GV14
+GV15|SEQ00769	clust_1259	VBIGarVag249709_0769	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485095	250113	251825	-	1713		hypothetical protein	GV15
+GV15|SEQ00894	clust_1259	VBIGarVag249709_0894	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485364	50664	52439	-	1776		serine_threonine protein kinase	GV15
+GV17|SEQ00563	clust_1259	VBIGarVag146634_0563	Gardnerella vaginalis AMD	NZ_ADAM01000003	PATRIC	CDS	37851166	11889	13667	+	1779		hypothetical protein	GV17
+GV17|SEQ00835	clust_1259	VBIGarVag146634_0835	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851745	39224	40936	+	1713		hypothetical protein	GV17
+GV33|SEQ00180	clust_1259	VBIGarVag265557_0180	Gardnerella vaginalis JCP8481A	ATJG01000015	PATRIC	CDS	184001049	1121	2866	+	1746		hypothetical protein	GV33
+GV34|SEQ00176	clust_1259	VBIGarVag270440_0176	Gardnerella vaginalis JCP8481B	ATJF01000011	PATRIC	CDS	184003864	1190	2935	+	1746		hypothetical protein	GV34

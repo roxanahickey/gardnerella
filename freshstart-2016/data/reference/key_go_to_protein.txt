@@ -1,0 +1,850 @@
+go_id	go_term	product
+GO:0000104	succinate dehydrogenase activity	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+GO:0000104	succinate dehydrogenase activity	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+GO:0000154	rRNA modification	Dimethyladenosine transferase (EC 2.1.1.-)
+GO:0000286	alanine dehydrogenase activity	Alanine dehydrogenase (EC 1.4.1.1)
+GO:0000774	adenyl-nucleotide exchange factor activity	Heat shock protein GrpE
+GO:0003676	nucleic acid binding	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+GO:0003676	nucleic acid binding	DNA primase (EC 2.7.7.-)
+GO:0003676	nucleic acid binding	Excinuclease ABC subunit B
+GO:0003676	nucleic acid binding	GTP-binding protein Era
+GO:0003676	nucleic acid binding	Phosphate starvation-inducible protein PhoH, predicted ATPase
+GO:0003676	nucleic acid binding	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+GO:0003676	nucleic acid binding	Recombination protein RecR
+GO:0003676	nucleic acid binding	Ribonuclease HI (EC 3.1.26.4)
+GO:0003676	nucleic acid binding	Ribonuclease HI (EC 3.1.26.4) / DNA polymerase III epsilon subunit (EC 2.7.7.7)
+GO:0003676	nucleic acid binding	SSU ribosomal protein S3p (S3e)
+GO:0003676	nucleic acid binding	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0003676	nucleic acid binding	Transcription termination protein NusA
+GO:0003676	nucleic acid binding	Transcription-repair coupling factor
+GO:0003677	DNA binding	A/G-specific adenine glycosylase (EC 3.2.2.-)
+GO:0003677	DNA binding	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+GO:0003677	DNA binding	DNA primase (EC 2.7.7.-)
+GO:0003677	DNA binding	DNA-binding protein HU-alpha
+GO:0003677	DNA binding	Excinuclease ABC subunit B
+GO:0003677	DNA binding	Excinuclease ABC subunit C
+GO:0003677	DNA binding	Holliday junction DNA helicase RuvA
+GO:0003677	DNA binding	Holliday junction DNA helicase RuvB
+GO:0003677	DNA binding	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+GO:0003677	DNA binding	RNA polymerase sigma factor RpoD
+GO:0003677	DNA binding	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0003677	DNA binding	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0003677	DNA binding	Transcription elongation factor GreA
+GO:0003677	DNA binding	Transcriptional regulator, GntR family
+GO:0003678	DNA helicase activity	DNA repair protein RadA
+GO:0003678	DNA helicase activity	Replicative DNA helicase (EC 3.6.1.-)
+GO:0003697	single-stranded DNA binding	Single-stranded DNA-binding protein
+GO:0003700	transcription factor activity	Heat-inducible transcription repressor HrcA
+GO:0003700	transcription factor activity	Hydrogen peroxide-inducible genes activator
+GO:0003700	transcription factor activity	MSM (multiple sugar metabolism) operon regulatory protein
+GO:0003700	transcription factor activity	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+GO:0003700	transcription factor activity	RNA polymerase sigma factor RpoD
+GO:0003700	transcription factor activity	Transcription-repair coupling factor
+GO:0003700	transcription factor activity	Transcriptional regulator, GntR family
+GO:0003700	transcription factor activity	Zinc uptake regulation protein ZUR
+GO:0003711	transcription elongation regulator activity	Transcription antitermination protein NusG
+GO:0003711	transcription elongation regulator activity	Transcription elongation factor GreA
+GO:0003715	transcription termination factor activity	Transcription termination factor Rho
+GO:0003723	RNA binding	Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+GO:0003723	RNA binding	LSU ribosomal protein L20p
+GO:0003723	RNA binding	LSU ribosomal protein L21p
+GO:0003723	RNA binding	Ribosomal large subunit pseudouridine synthase B (EC 4.2.1.70)
+GO:0003723	RNA binding	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+GO:0003723	RNA binding	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+GO:0003723	RNA binding	SSU ribosomal protein S13p (S18e)
+GO:0003723	RNA binding	SSU ribosomal protein S1p
+GO:0003723	RNA binding	SSU ribosomal protein S20p
+GO:0003723	RNA binding	SSU ribosomal protein S4p (S9e)
+GO:0003723	RNA binding	Transcription termination factor Rho
+GO:0003723	RNA binding	Transcription termination protein NusA
+GO:0003723	RNA binding	Transcription termination protein NusB
+GO:0003723	RNA binding	Translation initiation factor 1
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L11p (L12e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L13p (L13Ae)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L14p (L23e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L15p (L27Ae)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L16p (L10e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L17p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L18p (L5e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L19p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L1p (L10Ae)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L20p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L21p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L22p (L17e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L25p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L27p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L28p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L29p (L35e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L2p (L8e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L30p (L7e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L31p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L32p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L33p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L34p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L35p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L36p
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L3p (L3e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L4p (L1e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L5p (L11e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L6p (L9e)
+GO:0003735	structural constituent of ribosome	LSU ribosomal protein L9p
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S10p (S20e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S11p (S14e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S12p (S23e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S13p (S18e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S14p (S29e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S15p (S13e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S16p
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S17p (S11e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S19p (S15e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S20p
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S2p (SAe)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S3p (S3e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S4p (S9e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S5p (S2e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S6p
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S7p (S5e)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S8p (S15Ae)
+GO:0003735	structural constituent of ribosome	SSU ribosomal protein S9p (S16e)
+GO:0003743	translation initiation factor activity	Translation initiation factor 1
+GO:0003743	translation initiation factor activity	Translation initiation factor 2
+GO:0003743	translation initiation factor activity	Translation initiation factor 3
+GO:0003746	translation elongation factor activity	Translation elongation factor Ts
+GO:0003747	translation release factor activity	Peptide chain release factor 1
+GO:0003747	translation release factor activity	Peptide chain release factor 2
+GO:0003824	catalytic activity	Cardiolipin synthetase (EC 2.7.8.-)
+GO:0003824	catalytic activity	Fumarylacetoacetate hydrolase family protein
+GO:0003824	catalytic activity	Glycogen debranching enzyme (EC 3.2.1.-)
+GO:0003824	catalytic activity	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+GO:0003824	catalytic activity	Sulfur carrier protein adenylyltransferase ThiF
+GO:0003824	catalytic activity	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
+GO:0003841	1-acylglycerol-3-phosphate O-acyltransferase activity	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+GO:0003848	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)
+GO:0003856	3-dehydroquinate synthase activity	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+GO:0003856	3-dehydroquinate synthase activity	Shikimate kinase I (EC 2.7.1.71) / 3-dehydroquinate synthase (EC 4.2.3.4)
+GO:0003871	5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+GO:0003883	CTP synthase activity	CTP synthase (EC 6.3.4.2)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase I (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase III alpha subunit (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase III beta subunit (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase III delta prime subunit (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase III delta subunit (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	DNA polymerase IV (EC 2.7.7.7)
+GO:0003887	DNA-directed DNA polymerase activity	Ribonuclease HI (EC 3.1.26.4) / DNA polymerase III epsilon subunit (EC 2.7.7.7)
+GO:0003896	DNA primase activity	DNA primase (EC 2.7.7.-)
+GO:0003899	DNA-directed RNA polymerase activity	DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+GO:0003899	DNA-directed RNA polymerase activity	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+GO:0003899	DNA-directed RNA polymerase activity	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+GO:0003899	DNA-directed RNA polymerase activity	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
+GO:0003906	DNA-(apurinic or apyrimidinic site) lyase activity	Endonuclease III (EC 4.2.99.18)
+GO:0003911	DNA ligase (NAD+) activity	DNA ligase (EC 6.5.1.2)
+GO:0003916	DNA topoisomerase activity	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0003917	DNA topoisomerase type I activity	DNA topoisomerase I (EC 5.99.1.2)
+GO:0003918	DNA topoisomerase (ATP-hydrolyzing) activity	DNA gyrase subunit A (EC 5.99.1.3)
+GO:0003918	DNA topoisomerase (ATP-hydrolyzing) activity	DNA gyrase subunit B (EC 5.99.1.3)
+GO:0003919	FMN adenylyltransferase activity	Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+GO:0003922	GMP synthase (glutamine-hydrolyzing) activity	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)
+GO:0003937	IMP cyclohydrolase activity	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+GO:0003938	IMP dehydrogenase activity	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+GO:0003941	L-serine ammonia-lyase activity	L-serine dehydratase (EC 4.3.1.17)
+GO:0003951	NAD+ kinase activity	NAD kinase (EC 2.7.1.23)
+GO:0003961	O-acetylhomoserine aminocarboxypropyltransferase activity	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+GO:0003977	UDP-N-acetylglucosamine diphosphorylase activity	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+GO:0003978	UDP-glucose 4-epimerase activity	UDP-glucose 4-epimerase (EC 5.1.3.2)
+GO:0003983	UTP:glucose-1-phosphate uridylyltransferase activity	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+GO:0003985	acetyl-CoA C-acetyltransferase activity	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+GO:0003988	acetyl-CoA C-acyltransferase activity	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+GO:0003989	acetyl-CoA carboxylase activity	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+GO:0003999	adenine phosphoribosyltransferase activity	Adenine phosphoribosyltransferase (EC 2.4.2.7)
+GO:0004003	ATP-dependent DNA helicase activity	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+GO:0004013	adenosylhomocysteinase activity	Adenosylhomocysteinase (EC 3.3.1.1)
+GO:0004016	adenylate cyclase activity	Adenylate cyclase (EC 4.6.1.1)
+GO:0004017	adenylate kinase activity	Adenylate kinase (EC 2.7.4.3)
+GO:0004018	adenylosuccinate lyase activity	Adenylosuccinate lyase (EC 4.3.2.2)
+GO:0004019	adenylosuccinate synthase activity	Adenylosuccinate synthetase (EC 6.3.4.4)
+GO:0004022	alcohol dehydrogenase activity	Alcohol dehydrogenase (EC 1.1.1.1)
+GO:0004022	alcohol dehydrogenase activity	Alcohol dehydrogenase (EC 1.1.1.1); Acetaldehyde dehydrogenase (EC 1.2.1.10)
+GO:0004038	allantoinase activity	Allantoinase (EC 3.5.2.5)
+GO:0004044	amidophosphoribosyltransferase activity	Amidophosphoribosyltransferase (EC 2.4.2.14)
+GO:0004045	aminoacyl-tRNA hydrolase activity	Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+GO:0004055	argininosuccinate synthase activity	Argininosuccinate synthase (EC 6.3.4.5)
+GO:0004056	argininosuccinate lyase activity	Argininosuccinate lyase (EC 4.3.2.1)
+GO:0004066	asparagine synthase (glutamine-hydrolyzing) activity	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+GO:0004069	aspartate transaminase activity	Aspartate aminotransferase (EC 2.6.1.1)
+GO:0004070	aspartate carbamoyltransferase activity	Aspartate carbamoyltransferase (EC 2.1.3.2)
+GO:0004070	aspartate carbamoyltransferase activity	Aspartate carbamoyltransferase (EC 2.1.3.2) / Aspartate carbamoyltransferase regulatory chain (PyrI)
+GO:0004072	aspartate kinase activity	Aspartokinase (EC 2.7.2.4)
+GO:0004073	aspartate-semialdehyde dehydrogenase activity	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+GO:0004075	biotin carboxylase activity	Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+GO:0004077	biotin-[acetyl-CoA-carboxylase] ligase activity	Biotin-protein ligase (EC 6.3.4.15) / Biotin operon repressor
+GO:0004084	branched-chain-amino-acid transaminase activity	Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+GO:0004088	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+GO:0004089	carbonate dehydratase activity	Carbonic anhydrase (EC 4.2.1.1)
+GO:0004103	choline kinase activity	Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)
+GO:0004105	choline-phosphate cytidylyltransferase activity	Cholinephosphate cytidylyltransferase (EC 2.7.7.15) / Choline kinase (EC 2.7.1.32)
+GO:0004106	chorismate mutase activity	Chorismate mutase I (EC 5.4.99.5)
+GO:0004107	chorismate synthase activity	Chorismate synthase (EC 4.2.3.5)
+GO:0004124	cysteine synthase activity	Cysteine synthase (EC 2.5.1.47)
+GO:0004129	cytochrome-c oxidase activity	Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+GO:0004129	cytochrome-c oxidase activity	Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+GO:0004129	cytochrome-c oxidase activity	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+GO:0004134	4-alpha-glucanotransferase activity	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+GO:0004139	deoxyribose-phosphate aldolase activity	Deoxyribose-phosphate aldolase (EC 4.1.2.4)
+GO:0004140	dephospho-CoA kinase activity	Dephospho-CoA kinase (EC 2.7.1.24)
+GO:0004146	dihydrofolate reductase activity	Dihydrofolate reductase (EC 1.5.1.3)
+GO:0004151	dihydroorotase activity	Dihydroorotase (EC 3.5.2.3)
+GO:0004156	dihydropteroate synthase activity	Dihydropteroate synthase (EC 2.5.1.15)
+GO:0004158	dihydroorotate oxidase activity	Dihydroorotate dehydrogenase (EC 1.3.3.1)
+GO:0004158	dihydroorotate oxidase activity	Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)
+GO:0004158	dihydroorotate oxidase activity	Dihydroorotate dehydrogenase, catalytic subunit (EC 1.3.3.1)
+GO:0004163	diphosphomevalonate decarboxylase activity	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+GO:0004170	dUTP diphosphatase activity	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+GO:0004179	membrane alanyl aminopeptidase activity	Membrane alanine aminopeptidase N (EC 3.4.11.2)
+GO:0004239	methionyl aminopeptidase activity	Methionine aminopeptidase (EC 3.4.11.18)
+GO:0004308	exo-alpha-sialidase activity	Sialidase (EC 3.2.1.18)
+GO:0004309	exopolyphosphatase activity	Exopolyphosphatase (EC 3.6.1.11)
+GO:0004311	farnesyltranstransferase activity	Octaprenyl-diphosphate synthase (EC 2.5.1.-) / Dimethylallyltransferase (EC 2.5.1.1) / Geranyltranstransferase (farnesyldiphosphate synthase) (EC 2.5.1.10) / Geranylgeranyl pyrophosphate synthetase (EC 2.5.1.29)
+GO:0004316	3-oxoacyl-[acyl-carrier-protein] reductase activity	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+GO:0004317	3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity	[Acyl-carrier-protein] acetyl transferase of FASI (EC 2.3.1.38) / Enoyl-[acyl-carrier-protein] reductase of FASI (EC 1.3.1.9) / 3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase of FASI (EC 4.2.1.61) / [Acyl-carrier-protein] malonyl transferase of FASI (EC 2.3.1.39) / [Acyl-carrier-protein] palmitoyl transferase of FASI (EC 2.3.1.-) / Acyl carrier protein of FASI / 3-oxoacyl-[acyl-carrier-protein] reductase of FASI (EC 1.1.1.100) / 3-oxoacyl-[acyl-carrier-protein] synthase of FASI (EC 2.3.1.41)
+GO:0004318	enoyl-[acyl-carrier-protein] reductase (NADH) activity	[Acyl-carrier-protein] acetyl transferase of FASI (EC 2.3.1.38) / Enoyl-[acyl-carrier-protein] reductase of FASI (EC 1.3.1.9) / 3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase of FASI (EC 4.2.1.61) / [Acyl-carrier-protein] malonyl transferase of FASI (EC 2.3.1.39) / [Acyl-carrier-protein] palmitoyl transferase of FASI (EC 2.3.1.-) / Acyl carrier protein of FASI / 3-oxoacyl-[acyl-carrier-protein] reductase of FASI (EC 1.1.1.100) / 3-oxoacyl-[acyl-carrier-protein] synthase of FASI (EC 2.3.1.41)
+GO:0004322	ferroxidase activity	Non-specific DNA-binding protein Dps / Iron-binding ferritin-like antioxidant protein / Ferroxidase (EC 1.16.3.1)
+GO:0004326	tetrahydrofolylpolyglutamate synthase activity	Dihydrofolate synthase (EC 6.3.2.12) / Folylpolyglutamate synthase (EC 6.3.2.17)
+GO:0004329	formate-tetrahydrofolate ligase activity	Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+GO:0004332	fructose-bisphosphate aldolase activity	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+GO:0004335	galactokinase activity	Galactokinase (EC 2.7.1.6)
+GO:0004342	glucosamine-6-phosphate deaminase activity	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+GO:0004345	glucose-6-phosphate dehydrogenase activity	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+GO:0004347	glucose-6-phosphate isomerase activity	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+GO:0004349	glutamate 5-kinase activity	Glutamate 5-kinase (EC 2.7.2.11)
+GO:0004350	glutamate-5-semialdehyde dehydrogenase activity	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+GO:0004356	glutamate-ammonia ligase activity	Glutamine synthetase type I (EC 6.3.1.2)
+GO:0004360	glutamine-fructose-6-phosphate transaminase (isomerizing) activity	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+GO:0004365	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) activity	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+GO:0004385	guanylate kinase activity	Guanylate kinase (EC 2.7.4.8)
+GO:0004386	helicase activity	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+GO:0004386	helicase activity	Excinuclease ABC subunit B
+GO:0004386	helicase activity	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+GO:0004386	helicase activity	Transcription-repair coupling factor
+GO:0004412	homoserine dehydrogenase activity	Homoserine dehydrogenase (EC 1.1.1.3)
+GO:0004413	homoserine kinase activity	Homoserine kinase (EC 2.7.1.39)
+GO:0004417	hydroxyethylthiazole kinase activity	Hydroxyethylthiazole kinase (EC 2.7.1.50)
+GO:0004420	hydroxymethylglutaryl-CoA reductase (NADPH) activity	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+GO:0004421	hydroxymethylglutaryl-CoA synthase activity	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+GO:0004422	hypoxanthine phosphoribosyltransferase activity	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)
+GO:0004427	inorganic diphosphatase activity	Inorganic pyrophosphatase (EC 3.6.1.1)
+GO:0004452	isopentenyl-diphosphate delta-isomerase activity	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+GO:0004459	L-lactate dehydrogenase activity	L-lactate dehydrogenase (EC 1.1.1.27)
+GO:0004467	long-chain-fatty-acid-CoA ligase activity	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+GO:0004477	methenyltetrahydrofolate cyclohydrolase activity	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+GO:0004478	methionine adenosyltransferase activity	S-adenosylmethionine synthetase (EC 2.5.1.6)
+GO:0004479	methionyl-tRNA formyltransferase activity	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+GO:0004488	methylenetetrahydrofolate dehydrogenase (NADP+) activity	Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+GO:0004496	mevalonate kinase activity	Mevalonate kinase (EC 2.7.1.36)
+GO:0004512	inositol-3-phosphate synthase activity	Inositol-1-phosphate synthase (EC 5.5.1.4)
+GO:0004515	nicotinate-nucleotide adenylyltransferase activity	Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+GO:0004516	nicotinate phosphoribosyltransferase activity	Nicotinate phosphoribosyltransferase (EC 2.4.2.11)
+GO:0004518	nuclease activity	Excinuclease ABC subunit B
+GO:0004518	nuclease activity	Excinuclease ABC subunit C
+GO:0004523	ribonuclease H activity	Ribonuclease HI (EC 3.1.26.4)
+GO:0004523	ribonuclease H activity	Ribonuclease HI (EC 3.1.26.4) / DNA polymerase III epsilon subunit (EC 2.7.7.7)
+GO:0004523	ribonuclease H activity	Ribonuclease HII (EC 3.1.26.4)
+GO:0004525	ribonuclease III activity	Ribonuclease D (EC 3.1.26.3)
+GO:0004525	ribonuclease III activity	Ribonuclease III (EC 3.1.26.3)
+GO:0004526	ribonuclease P activity	Ribonuclease P protein component (EC 3.1.26.5)
+GO:0004557	alpha-galactosidase activity	Alpha-galactosidase (EC 3.2.1.22)
+GO:0004558	alpha-glucosidase activity	Alpha-glucosidase (EC 3.2.1.20)
+GO:0004558	alpha-glucosidase activity	Maltodextrin glucosidase (EC 3.2.1.20)
+GO:0004560	alpha-L-fucosidase activity	Alpha-L-fucosidase (EC 3.2.1.51)
+GO:0004563	beta-N-acetylhexosaminidase activity	Beta-hexosaminidase (EC 3.2.1.52)
+GO:0004565	beta-galactosidase activity	Beta-galactosidase (EC 3.2.1.23)
+GO:0004565	beta-galactosidase activity	Evolved beta-D-galactosidase, alpha subunit
+GO:0004568	chitinase activity	Chitinase (EC 3.2.1.14)
+GO:0004574	oligo-1,6-glucosidase activity	Oligo-1,6-glucosidase (EC 3.2.1.10)
+GO:0004588	orotate phosphoribosyltransferase activity	Orotate phosphoribosyltransferase (EC 2.4.2.10)
+GO:0004590	orotidine-5'-phosphate decarboxylase activity	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+GO:0004594	pantothenate kinase activity	Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+GO:0004595	pantetheine-phosphate adenylyltransferase activity	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+GO:0004605	phosphatidate cytidylyltransferase activity	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+GO:0004614	phosphoglucomutase activity	Phosphoglucomutase (EC 5.4.2.2)
+GO:0004616	phosphogluconate dehydrogenase (decarboxylating) activity	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+GO:0004617	phosphoglycerate dehydrogenase activity	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+GO:0004618	phosphoglycerate kinase activity	Phosphoglycerate kinase (EC 2.7.2.3)
+GO:0004619	phosphoglycerate mutase activity	Phosphoglycerate mutase (EC 5.4.2.1)
+GO:0004634	phosphopyruvate hydratase activity	Enolase (EC 4.2.1.11)
+GO:0004637	phosphoribosylamine-glycine ligase activity	Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+GO:0004638	phosphoribosylaminoimidazole carboxylase activity	Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)
+GO:0004638	phosphoribosylaminoimidazole carboxylase activity	Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)
+GO:0004639	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+GO:0004640	phosphoribosylanthranilate isomerase activity	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
+GO:0004641	phosphoribosylformylglycinamidine cyclo-ligase activity	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+GO:0004642	phosphoribosylformylglycinamidine synthase activity	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+GO:0004643	phosphoribosylaminoimidazolecarboxamide formyltransferase activity	IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+GO:0004645	phosphorylase activity	Glycogen phosphorylase (EC 2.4.1.1)
+GO:0004647	phosphoserine phosphatase activity	Phosphoserine phosphatase (EC 3.1.3.3)
+GO:0004654	polyribonucleotide nucleotidyltransferase activity	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+GO:0004658	propionyl-CoA carboxylase activity	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+GO:0004664	prephenate dehydratase activity	Prephenate dehydratase (EC 4.2.1.51)
+GO:0004725	protein tyrosine phosphatase activity	Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+GO:0004730	pseudouridylate synthase activity	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+GO:0004730	pseudouridylate synthase activity	tRNA pseudouridine synthase A (EC 4.2.1.70)
+GO:0004735	pyrroline-5-carboxylate reductase activity	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+GO:0004743	pyruvate kinase activity	Pyruvate kinase (EC 2.7.1.40)
+GO:0004747	ribokinase activity	Ribokinase (EC 2.7.1.15)
+GO:0004748	ribonucleoside-diphosphate reductase activity	Ribonucleotide reductase of class Ib (aerobic), alpha subunit (EC 1.17.4.1)
+GO:0004748	ribonucleoside-diphosphate reductase activity	Ribonucleotide reductase of class Ib (aerobic), beta subunit (EC 1.17.4.1)
+GO:0004749	ribose phosphate diphosphokinase activity	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+GO:0004750	ribulose-phosphate 3-epimerase activity	Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+GO:0004751	ribose-5-phosphate isomerase activity	Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+GO:0004788	thiamin diphosphokinase activity	Thiamin pyrophosphokinase (EC 2.7.6.2)
+GO:0004789	thiamin-phosphate diphosphorylase activity	Hydroxymethylpyrimidine phosphate synthase ThiC / Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+GO:0004789	thiamin-phosphate diphosphorylase activity	Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+GO:0004791	thioredoxin-disulfide reductase activity	Thioredoxin reductase (EC 1.8.1.9)
+GO:0004795	threonine synthase activity	Threonine synthase (EC 4.2.3.1)
+GO:0004798	thymidylate kinase activity	Thymidylate kinase (EC 2.7.4.9)
+GO:0004799	thymidylate synthase activity	Thymidylate synthase (EC 2.1.1.45)
+GO:0004801	transaldolase activity	Transaldolase (EC 2.2.1.2)
+GO:0004802	transketolase activity	Transketolase (EC 2.2.1.1)
+GO:0004807	triose-phosphate isomerase activity	Triosephosphate isomerase (EC 5.3.1.1)
+GO:0004811	tRNA isopentenyltransferase activity	tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+GO:0004813	alanine-tRNA ligase activity	Alanyl-tRNA synthetase (EC 6.1.1.7)
+GO:0004814	arginine-tRNA ligase activity	Arginyl-tRNA synthetase (EC 6.1.1.19)
+GO:0004815	aspartate-tRNA ligase activity	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+GO:0004817	cysteine-tRNA ligase activity	Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+GO:0004818	glutamate-tRNA ligase activity	glutamyl-Q-tRNA synthetase
+GO:0004818	glutamate-tRNA ligase activity	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
+GO:0004820	glycine-tRNA ligase activity	Glycyl-tRNA synthetase (EC 6.1.1.14)
+GO:0004821	histidine-tRNA ligase activity	Histidyl-tRNA synthetase (EC 6.1.1.21)
+GO:0004822	isoleucine-tRNA ligase activity	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+GO:0004823	leucine-tRNA ligase activity	Leucyl-tRNA synthetase (EC 6.1.1.4)
+GO:0004824	lysine-tRNA ligase activity	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+GO:0004825	methionine-tRNA ligase activity	Methionyl-tRNA synthetase (EC 6.1.1.10)
+GO:0004826	phenylalanine-tRNA ligase activity	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+GO:0004826	phenylalanine-tRNA ligase activity	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+GO:0004827	proline-tRNA ligase activity	Prolyl-tRNA synthetase (EC 6.1.1.15)
+GO:0004828	serine-tRNA ligase activity	Seryl-tRNA synthetase (EC 6.1.1.11)
+GO:0004829	threonine-tRNA ligase activity	Threonyl-tRNA synthetase (EC 6.1.1.3)
+GO:0004830	tryptophan-tRNA ligase activity	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+GO:0004831	tyrosine-tRNA ligase activity	Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+GO:0004832	valine-tRNA ligase activity	Valyl-tRNA synthetase (EC 6.1.1.9)
+GO:0004834	tryptophan synthase activity	Tryptophan synthase beta chain (EC 4.2.1.20)
+GO:0004845	uracil phosphoribosyltransferase activity	Uracil phosphoribosyltransferase (EC 2.4.2.9)
+GO:0004850	uridine phosphorylase activity	Uridine phosphorylase (EC 2.4.2.3)
+GO:0004856	xylulokinase activity	Xylulose kinase (EC 2.7.1.17)
+GO:0005215	transporter activity	ABC transporter permease protein
+GO:0005215	transporter activity	Aquaporin Z
+GO:0005215	transporter activity	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+GO:0005215	transporter activity	Ferric iron ABC transporter, permease protein
+GO:0005215	transporter activity	Glycerol uptake facilitator protein
+GO:0005215	transporter activity	Glycerol-3-phosphate ABC transporter, periplasmic glycerol-3-phosphate-binding protein (TC 3.A.1.1.3)
+GO:0005215	transporter activity	Maltose/maltodextrin ABC transporter, permease protein MalF
+GO:0005215	transporter activity	Maltose/maltodextrin ABC transporter, permease protein MalG
+GO:0005215	transporter activity	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
+GO:0005215	transporter activity	Methionine ABC transporter permease protein
+GO:0005215	transporter activity	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF
+GO:0005215	transporter activity	Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+GO:0005215	transporter activity	Multiple sugar ABC transporter, substrate-binding protein
+GO:0005215	transporter activity	N-Acetyl-D-glucosamine ABC transport system, permease protein 1
+GO:0005215	transporter activity	N-Acetyl-D-glucosamine ABC transport system, permease protein 2
+GO:0005215	transporter activity	N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein
+GO:0005216	ion channel activity	Large-conductance mechanosensitive channel
+GO:0005247	voltage-gated chloride channel activity	Chloride channel protein
+GO:0005351	sugar:hydrogen ion symporter activity	Phosphocarrier protein of PTS system
+GO:0005488	binding	Manganese ABC transporter, periplasmic-binding protein SitA
+GO:0005488	binding	Zinc ABC transporter, periplasmic-binding protein ZnuA
+GO:0005506	iron ion binding	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+GO:0005506	iron ion binding	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+GO:0005507	copper ion binding	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+GO:0005515	protein binding	ClpB protein
+GO:0005515	protein binding	Heat shock protein 60 family chaperone GroEL
+GO:0005515	protein binding	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+GO:0005524	ATP binding	ABC transporter ATP-binding protein
+GO:0005524	ATP binding	ABC transporter, ATP-binding protein Vex2
+GO:0005524	ATP binding	ABC-transporter (ATP-binding protein) -possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+GO:0005524	ATP binding	ABC-type multidrug transport system, ATPase component
+GO:0005524	ATP binding	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+GO:0005524	ATP binding	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+GO:0005524	ATP binding	ClpB protein
+GO:0005524	ATP binding	COG0488: ATPase components of ABC transporters with duplicated ATPase domains
+GO:0005524	ATP binding	DNA repair protein RadA
+GO:0005524	ATP binding	DNA repair protein RecN
+GO:0005524	ATP binding	Excinuclease ABC subunit A
+GO:0005524	ATP binding	Excinuclease ABC subunit B
+GO:0005524	ATP binding	Exonuclease SbcC
+GO:0005524	ATP binding	glutamyl-Q-tRNA synthetase
+GO:0005524	ATP binding	Heat shock protein 60 family chaperone GroEL
+GO:0005524	ATP binding	Heat shock protein 60 family co-chaperone GroES
+GO:0005524	ATP binding	Holliday junction DNA helicase RuvA
+GO:0005524	ATP binding	Holliday junction DNA helicase RuvB
+GO:0005524	ATP binding	Iron-sulfur cluster assembly ATPase protein SufC
+GO:0005524	ATP binding	Manganese ABC transporter, inner membrane permease protein SitD
+GO:0005524	ATP binding	Methionine ABC transporter ATP-binding protein
+GO:0005524	ATP binding	Phosphate starvation-inducible protein PhoH, predicted ATPase
+GO:0005524	ATP binding	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+GO:0005524	ATP binding	Replicative DNA helicase (EC 3.6.1.-)
+GO:0005524	ATP binding	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0005524	ATP binding	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0005524	ATP binding	Transcription termination factor Rho
+GO:0005524	ATP binding	Transcription-repair coupling factor
+GO:0005524	ATP binding	Zinc ABC transporter, ATP-binding protein ZnuC
+GO:0005525	GTP binding	COG0536: GTP-binding protein Obg
+GO:0005525	GTP binding	GTP-binding and nucleic acid-binding protein YchF
+GO:0005525	GTP binding	GTP-binding protein EngA
+GO:0005525	GTP binding	GTP-binding protein Era
+GO:0005525	GTP binding	GTP-binding protein HflX
+GO:0005525	GTP binding	GTP-binding protein TypA/BipA
+GO:0005525	GTP binding	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+GO:0005525	GTP binding	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+GO:0005525	GTP binding	Tetracycline resistance protein TetM
+GO:0005525	GTP binding	Translation elongation factor G
+GO:0005525	GTP binding	Translation elongation factor Tu
+GO:0005525	GTP binding	Translation initiation factor 2
+GO:0005529	sugar binding	6-phospho-3-hexuloisomerase
+GO:0005622	intracellular	A/G-specific adenine glycosylase (EC 3.2.2.-)
+GO:0005622	intracellular	COG0536: GTP-binding protein Obg
+GO:0005622	intracellular	Excinuclease ABC subunit C
+GO:0005622	intracellular	GTP-binding and nucleic acid-binding protein YchF
+GO:0005622	intracellular	GTP-binding protein EngA
+GO:0005622	intracellular	GTP-binding protein Era
+GO:0005622	intracellular	GTP-binding protein HflX
+GO:0005622	intracellular	Heat-inducible transcription repressor HrcA
+GO:0005622	intracellular	Holliday junction DNA helicase RuvA
+GO:0005622	intracellular	LSU ribosomal protein L10p (P0)
+GO:0005622	intracellular	LSU ribosomal protein L11p (L12e)
+GO:0005622	intracellular	LSU ribosomal protein L13p (L13Ae)
+GO:0005622	intracellular	LSU ribosomal protein L14p (L23e)
+GO:0005622	intracellular	LSU ribosomal protein L15p (L27Ae)
+GO:0005622	intracellular	LSU ribosomal protein L16p (L10e)
+GO:0005622	intracellular	LSU ribosomal protein L17p
+GO:0005622	intracellular	LSU ribosomal protein L18p (L5e)
+GO:0005622	intracellular	LSU ribosomal protein L19p
+GO:0005622	intracellular	LSU ribosomal protein L1p (L10Ae)
+GO:0005622	intracellular	LSU ribosomal protein L20p
+GO:0005622	intracellular	LSU ribosomal protein L21p
+GO:0005622	intracellular	LSU ribosomal protein L22p (L17e)
+GO:0005622	intracellular	LSU ribosomal protein L25p
+GO:0005622	intracellular	LSU ribosomal protein L27p
+GO:0005622	intracellular	LSU ribosomal protein L28p
+GO:0005622	intracellular	LSU ribosomal protein L29p (L35e)
+GO:0005622	intracellular	LSU ribosomal protein L2p (L8e)
+GO:0005622	intracellular	LSU ribosomal protein L30p (L7e)
+GO:0005622	intracellular	LSU ribosomal protein L31p
+GO:0005622	intracellular	LSU ribosomal protein L33p
+GO:0005622	intracellular	LSU ribosomal protein L34p
+GO:0005622	intracellular	LSU ribosomal protein L35p
+GO:0005622	intracellular	LSU ribosomal protein L36p
+GO:0005622	intracellular	LSU ribosomal protein L3p (L3e)
+GO:0005622	intracellular	LSU ribosomal protein L4p (L1e)
+GO:0005622	intracellular	LSU ribosomal protein L5p (L11e)
+GO:0005622	intracellular	LSU ribosomal protein L6p (L9e)
+GO:0005622	intracellular	LSU ribosomal protein L9p
+GO:0005622	intracellular	MSM (multiple sugar metabolism) operon regulatory protein
+GO:0005622	intracellular	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+GO:0005622	intracellular	SSU ribosomal protein S10p (S20e)
+GO:0005622	intracellular	SSU ribosomal protein S11p (S14e)
+GO:0005622	intracellular	SSU ribosomal protein S12p (S23e)
+GO:0005622	intracellular	SSU ribosomal protein S13p (S18e)
+GO:0005622	intracellular	SSU ribosomal protein S14p (S29e)
+GO:0005622	intracellular	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+GO:0005622	intracellular	SSU ribosomal protein S15p (S13e)
+GO:0005622	intracellular	SSU ribosomal protein S16p
+GO:0005622	intracellular	SSU ribosomal protein S17p (S11e)
+GO:0005622	intracellular	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+GO:0005622	intracellular	SSU ribosomal protein S19p (S15e)
+GO:0005622	intracellular	SSU ribosomal protein S20p
+GO:0005622	intracellular	SSU ribosomal protein S2p (SAe)
+GO:0005622	intracellular	SSU ribosomal protein S3p (S3e)
+GO:0005622	intracellular	SSU ribosomal protein S4p (S9e)
+GO:0005622	intracellular	SSU ribosomal protein S5p (S2e)
+GO:0005622	intracellular	SSU ribosomal protein S6p
+GO:0005622	intracellular	SSU ribosomal protein S7p (S5e)
+GO:0005622	intracellular	SSU ribosomal protein S8p (S15Ae)
+GO:0005622	intracellular	SSU ribosomal protein S9p (S16e)
+GO:0005622	intracellular	Transcriptional regulator, GntR family
+GO:0005694	chromosome	DNA repair protein RecN
+GO:0005694	chromosome	Exonuclease SbcC
+GO:0005694	chromosome	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0005694	chromosome	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0005840	ribosome	LSU ribosomal protein L11p (L12e)
+GO:0005840	ribosome	LSU ribosomal protein L13p (L13Ae)
+GO:0005840	ribosome	LSU ribosomal protein L14p (L23e)
+GO:0005840	ribosome	LSU ribosomal protein L15p (L27Ae)
+GO:0005840	ribosome	LSU ribosomal protein L16p (L10e)
+GO:0005840	ribosome	LSU ribosomal protein L17p
+GO:0005840	ribosome	LSU ribosomal protein L18p (L5e)
+GO:0005840	ribosome	LSU ribosomal protein L19p
+GO:0005840	ribosome	LSU ribosomal protein L1p (L10Ae)
+GO:0005840	ribosome	LSU ribosomal protein L20p
+GO:0005840	ribosome	LSU ribosomal protein L21p
+GO:0005840	ribosome	LSU ribosomal protein L22p (L17e)
+GO:0005840	ribosome	LSU ribosomal protein L25p
+GO:0005840	ribosome	LSU ribosomal protein L27p
+GO:0005840	ribosome	LSU ribosomal protein L28p
+GO:0005840	ribosome	LSU ribosomal protein L29p (L35e)
+GO:0005840	ribosome	LSU ribosomal protein L2p (L8e)
+GO:0005840	ribosome	LSU ribosomal protein L30p (L7e)
+GO:0005840	ribosome	LSU ribosomal protein L31p
+GO:0005840	ribosome	LSU ribosomal protein L33p
+GO:0005840	ribosome	LSU ribosomal protein L34p
+GO:0005840	ribosome	LSU ribosomal protein L35p
+GO:0005840	ribosome	LSU ribosomal protein L36p
+GO:0005840	ribosome	LSU ribosomal protein L3p (L3e)
+GO:0005840	ribosome	LSU ribosomal protein L4p (L1e)
+GO:0005840	ribosome	LSU ribosomal protein L5p (L11e)
+GO:0005840	ribosome	LSU ribosomal protein L6p (L9e)
+GO:0005840	ribosome	LSU ribosomal protein L9p
+GO:0005840	ribosome	SSU ribosomal protein S10p (S20e)
+GO:0005840	ribosome	SSU ribosomal protein S11p (S14e)
+GO:0005840	ribosome	SSU ribosomal protein S12p (S23e)
+GO:0005840	ribosome	SSU ribosomal protein S13p (S18e)
+GO:0005840	ribosome	SSU ribosomal protein S14p (S29e)
+GO:0005840	ribosome	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+GO:0005840	ribosome	SSU ribosomal protein S15p (S13e)
+GO:0005840	ribosome	SSU ribosomal protein S16p
+GO:0005840	ribosome	SSU ribosomal protein S17p (S11e)
+GO:0005840	ribosome	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+GO:0005840	ribosome	SSU ribosomal protein S19p (S15e)
+GO:0005840	ribosome	SSU ribosomal protein S20p
+GO:0005840	ribosome	SSU ribosomal protein S2p (SAe)
+GO:0005840	ribosome	SSU ribosomal protein S3p (S3e)
+GO:0005840	ribosome	SSU ribosomal protein S4p (S9e)
+GO:0005840	ribosome	SSU ribosomal protein S5p (S2e)
+GO:0005840	ribosome	SSU ribosomal protein S6p
+GO:0005840	ribosome	SSU ribosomal protein S7p (S5e)
+GO:0005840	ribosome	SSU ribosomal protein S8p (S15Ae)
+GO:0005840	ribosome	SSU ribosomal protein S9p (S16e)
+GO:0005975	carbohydrate metabolic process	6-phospho-3-hexuloisomerase
+GO:0005975	carbohydrate metabolic process	Evolved beta-D-galactosidase, alpha subunit
+GO:0005975	carbohydrate metabolic process	Glycogen debranching enzyme (EC 3.2.1.-)
+GO:0006118	electron transport	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+GO:0006118	electron transport	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+GO:0006118	electron transport	Fumarate reductase subunit C
+GO:0006118	electron transport	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+GO:0006259	DNA metabolic process	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0006259	DNA metabolic process	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0006260	DNA replication	DNA primase (EC 2.7.7.-)
+GO:0006260	DNA replication	DNA repair protein RadA
+GO:0006260	DNA replication	Replicative DNA helicase (EC 3.6.1.-)
+GO:0006265	DNA topological change	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0006265	DNA topological change	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0006268	DNA unwinding during replication	Topoisomerase IV subunit A (EC 5.99.1.-)
+GO:0006268	DNA unwinding during replication	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0006281	DNA repair	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+GO:0006281	DNA repair	Excinuclease ABC subunit C
+GO:0006281	DNA repair	Holliday junction DNA helicase RuvA
+GO:0006281	DNA repair	Holliday junction DNA helicase RuvB
+GO:0006281	DNA repair	Recombination protein RecR
+GO:0006284	base-excision repair	A/G-specific adenine glycosylase (EC 3.2.2.-)
+GO:0006289	nucleotide-excision repair	Excinuclease ABC subunit B
+GO:0006289	nucleotide-excision repair	Excinuclease ABC subunit C
+GO:0006304	DNA modification	DNA primase (EC 2.7.7.-)
+GO:0006304	DNA modification	Recombination protein RecR
+GO:0006304	DNA modification	Topoisomerase IV subunit B (EC 5.99.1.-)
+GO:0006310	DNA recombination	Holliday junction DNA helicase RuvA
+GO:0006310	DNA recombination	Holliday junction DNA helicase RuvB
+GO:0006310	DNA recombination	Recombination protein RecR
+GO:0006352	transcription initiation	RNA polymerase sigma factor RpoD
+GO:0006353	transcription termination	Transcription termination factor Rho
+GO:0006364	rRNA processing	16S rRNA processing protein RimM
+GO:0006364	rRNA processing	Ribosome-binding factor A
+GO:0006412	translation	GTP-binding protein TypA/BipA
+GO:0006412	translation	LSU ribosomal protein L11p (L12e)
+GO:0006412	translation	LSU ribosomal protein L13p (L13Ae)
+GO:0006412	translation	LSU ribosomal protein L14p (L23e)
+GO:0006412	translation	LSU ribosomal protein L15p (L27Ae)
+GO:0006412	translation	LSU ribosomal protein L16p (L10e)
+GO:0006412	translation	LSU ribosomal protein L17p
+GO:0006412	translation	LSU ribosomal protein L18p (L5e)
+GO:0006412	translation	LSU ribosomal protein L19p
+GO:0006412	translation	LSU ribosomal protein L1p (L10Ae)
+GO:0006412	translation	LSU ribosomal protein L20p
+GO:0006412	translation	LSU ribosomal protein L21p
+GO:0006412	translation	LSU ribosomal protein L22p (L17e)
+GO:0006412	translation	LSU ribosomal protein L25p
+GO:0006412	translation	LSU ribosomal protein L27p
+GO:0006412	translation	LSU ribosomal protein L28p
+GO:0006412	translation	LSU ribosomal protein L29p (L35e)
+GO:0006412	translation	LSU ribosomal protein L2p (L8e)
+GO:0006412	translation	LSU ribosomal protein L30p (L7e)
+GO:0006412	translation	LSU ribosomal protein L31p
+GO:0006412	translation	LSU ribosomal protein L32p
+GO:0006412	translation	LSU ribosomal protein L33p
+GO:0006412	translation	LSU ribosomal protein L34p
+GO:0006412	translation	LSU ribosomal protein L35p
+GO:0006412	translation	LSU ribosomal protein L36p
+GO:0006412	translation	LSU ribosomal protein L3p (L3e)
+GO:0006412	translation	LSU ribosomal protein L4p (L1e)
+GO:0006412	translation	LSU ribosomal protein L5p (L11e)
+GO:0006412	translation	LSU ribosomal protein L6p (L9e)
+GO:0006412	translation	LSU ribosomal protein L9p
+GO:0006412	translation	Ribosome recycling factor
+GO:0006412	translation	SSU ribosomal protein S10p (S20e)
+GO:0006412	translation	SSU ribosomal protein S11p (S14e)
+GO:0006412	translation	SSU ribosomal protein S12p (S23e)
+GO:0006412	translation	SSU ribosomal protein S13p (S18e)
+GO:0006412	translation	SSU ribosomal protein S14p (S29e)
+GO:0006412	translation	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent
+GO:0006412	translation	SSU ribosomal protein S15p (S13e)
+GO:0006412	translation	SSU ribosomal protein S16p
+GO:0006412	translation	SSU ribosomal protein S17p (S11e)
+GO:0006412	translation	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent
+GO:0006412	translation	SSU ribosomal protein S19p (S15e)
+GO:0006412	translation	SSU ribosomal protein S20p
+GO:0006412	translation	SSU ribosomal protein S2p (SAe)
+GO:0006412	translation	SSU ribosomal protein S3p (S3e)
+GO:0006412	translation	SSU ribosomal protein S4p (S9e)
+GO:0006412	translation	SSU ribosomal protein S5p (S2e)
+GO:0006412	translation	SSU ribosomal protein S6p
+GO:0006412	translation	SSU ribosomal protein S7p (S5e)
+GO:0006412	translation	SSU ribosomal protein S8p (S15Ae)
+GO:0006412	translation	SSU ribosomal protein S9p (S16e)
+GO:0006412	translation	Translation elongation factor G
+GO:0006412	translation	Translation elongation factor Tu
+GO:0006412	translation	Translation initiation factor 2
+GO:0006413	translational initiation	Translation initiation factor 1
+GO:0006413	translational initiation	Translation initiation factor 2
+GO:0006413	translational initiation	Translation initiation factor 3
+GO:0006414	translational elongation	Translation elongation factor Ts
+GO:0006415	translational termination	Peptide chain release factor 1
+GO:0006415	translational termination	Peptide chain release factor 2
+GO:0006424	glutamyl-tRNA aminoacylation	glutamyl-Q-tRNA synthetase
+GO:0006457	protein folding	Chaperone protein DnaJ
+GO:0006457	protein folding	Heat shock protein 60 family co-chaperone GroES
+GO:0006457	protein folding	Heat shock protein GrpE
+GO:0006508	proteolysis	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+GO:0006508	proteolysis	Signal peptidase I (EC 3.4.21.89)
+GO:0006605	protein targeting	Preprotein translocase subunit SecE (TC 3.A.5.1.1)
+GO:0006605	protein targeting	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+GO:0006629	lipid metabolic process	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
+GO:0006790	sulfur metabolic process	Sulfur carrier protein ThiS
+GO:0006810	transport	ABC transporter ATP-binding protein
+GO:0006810	transport	ABC transporter permease protein
+GO:0006810	transport	Aquaporin Z
+GO:0006810	transport	Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+GO:0006810	transport	Ferric iron ABC transporter, permease protein
+GO:0006810	transport	Glycerol uptake facilitator protein
+GO:0006810	transport	Glycerol-3-phosphate ABC transporter, periplasmic glycerol-3-phosphate-binding protein (TC 3.A.1.1.3)
+GO:0006810	transport	Large-conductance mechanosensitive channel
+GO:0006810	transport	Maltose/maltodextrin ABC transporter, permease protein MalF
+GO:0006810	transport	Maltose/maltodextrin ABC transporter, permease protein MalG
+GO:0006810	transport	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
+GO:0006810	transport	Manganese ABC transporter, inner membrane permease protein SitD
+GO:0006810	transport	Methionine ABC transporter permease protein
+GO:0006810	transport	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF
+GO:0006810	transport	Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+GO:0006810	transport	Multiple sugar ABC transporter, substrate-binding protein
+GO:0006810	transport	N-Acetyl-D-glucosamine ABC transport system, permease protein 1
+GO:0006810	transport	N-Acetyl-D-glucosamine ABC transport system, permease protein 2
+GO:0006810	transport	N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein
+GO:0006813	potassium ion transport	Kup system potassium uptake protein
+GO:0006813	potassium ion transport	Transcriptional regulator, GntR family
+GO:0006821	chloride transport	Chloride channel protein
+GO:0006886	intracellular protein transport	Preprotein translocase subunit SecE (TC 3.A.5.1.1)
+GO:0008026	ATP-dependent helicase activity	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+GO:0008026	ATP-dependent helicase activity	Transcription-repair coupling factor
+GO:0008033	tRNA processing	tRNA pseudouridine 13 synthase (EC 4.2.1.-)
+GO:0008080	N-acetyltransferase activity	Histone acetyltransferase HPA2 and related acetyltransferases
+GO:0008080	N-acetyltransferase activity	Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.-)
+GO:0008097	5S rRNA binding	LSU ribosomal protein L25p
+GO:0008152	metabolic process	Cardiolipin synthetase (EC 2.7.8.-)
+GO:0008152	metabolic process	Fumarylacetoacetate hydrolase family protein
+GO:0008152	metabolic process	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+GO:0008176	tRNA (guanine-N7-)-methyltransferase activity	tRNA (guanine46-N7-)-methyltransferase (EC 2.1.1.33)
+GO:0008236	serine-type peptidase activity	Signal peptidase I (EC 3.4.21.89)
+GO:0008270	zinc ion binding	DNA primase (EC 2.7.7.-)
+GO:0008270	zinc ion binding	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+GO:0008324	cation transmembrane transporter activity	Transcriptional regulator, GntR family
+GO:0008423	bleomycin hydrolase activity	Aminopeptidase C (EC 3.4.22.40)
+GO:0008444	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+GO:0008448	N-acetylglucosamine-6-phosphate deacetylase activity	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+GO:0008450	O-sialoglycoprotein endopeptidase activity	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+GO:0008451	X-Pro aminopeptidase activity	Xaa-Pro aminopeptidase (EC 3.4.11.9)
+GO:0008460	dTDP-glucose 4,6-dehydratase activity	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+GO:0008462	endopeptidase Clp activity	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+GO:0008477	purine nucleosidase activity	Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)
+GO:0008479	queuine tRNA-ribosyltransferase activity	tRNA-guanine transglycosylase (EC 2.4.2.29)
+GO:0008531	riboflavin kinase activity	Riboflavin kinase (EC 2.7.1.26) / FMN adenylyltransferase (EC 2.7.7.2)
+GO:0008643	carbohydrate transport	L-fucose mutarotase
+GO:0008649	rRNA methyltransferase activity	Dimethyladenosine transferase (EC 2.1.1.-)
+GO:0008677	2-dehydropantoate 2-reductase activity	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+GO:0008716	D-alanine-D-alanine ligase activity	D-alanine--D-alanine ligase (EC 6.3.2.4)
+GO:0008728	GTP diphosphokinase activity	GTP pyrophosphokinase (EC 2.7.6.5)
+GO:0008733	L-arabinose isomerase activity	L-arabinose isomerase (EC 5.3.1.4)
+GO:0008741	ribulokinase activity	Ribulokinase (EC 2.7.1.16)
+GO:0008742	L-ribulose-phosphate 4-epimerase activity	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
+GO:0008760	UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+GO:0008762	UDP-N-acetylmuramate dehydrogenase activity	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)
+GO:0008763	UDP-N-acetylmuramate-L-alanine ligase activity	UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)
+GO:0008764	UDP-N-acetylmuramoylalanine-D-glutamate ligase activity	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+GO:0008765	UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+GO:0008767	UDP-galactopyranose mutase activity	UDP-galactopyranose mutase (EC 5.4.99.9)
+GO:0008774	acetaldehyde dehydrogenase (acetylating) activity	Alcohol dehydrogenase (EC 1.1.1.1); Acetaldehyde dehydrogenase (EC 1.2.1.10)
+GO:0008776	acetate kinase activity	Acetate kinase (EC 2.7.2.1)
+GO:0008782	adenosylhomocysteine nucleosidase activity	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) / S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+GO:0008784	alanine racemase activity	Alanine racemase (EC 5.1.1.1)
+GO:0008795	NAD+ synthase activity	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+GO:0008801	beta-phosphoglucomutase activity	Beta-phosphoglucomutase (EC 5.4.2.6)
+GO:0008827	cytochrome o ubiquinol oxidase activity	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+GO:0008829	dCTP deaminase activity	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+GO:0008830	dTDP-4-dehydrorhamnose 3,5-epimerase activity	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) / dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+GO:0008831	dTDP-4-dehydrorhamnose reductase activity	dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13) / dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
+GO:0008832	dGTPase activity	Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+GO:0008834	di-trans,poly-cis-decaprenylcistransferase activity	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)
+GO:0008840	dihydrodipicolinate synthase activity	Dihydrodipicolinate synthase (EC 4.2.1.52)
+GO:0008841	dihydrofolate synthase activity	Dihydrofolate synthase (EC 6.3.2.12) / Folylpolyglutamate synthase (EC 6.3.2.17)
+GO:0008853	exodeoxyribonuclease III activity	Exodeoxyribonuclease III (EC 3.1.11.2)
+GO:0008855	exodeoxyribonuclease VII activity	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+GO:0008855	exodeoxyribonuclease VII activity	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+GO:0008861	formate C-acetyltransferase activity	Pyruvate formate-lyase (EC 2.3.1.54)
+GO:0008865	fructokinase activity	Fructokinase (EC 2.7.1.4)
+GO:0008879	glucose-1-phosphate thymidylyltransferase activity	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+GO:0008881	glutamate racemase activity	Glutamate racemase (EC 5.1.1.3)
+GO:0008882	[glutamate-ammonia-ligase] adenylyltransferase activity	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)
+GO:0008897	phosphopantetheinyltransferase activity	Holo-[acyl-carrier protein] synthase (EC 2.7.8.7)
+GO:0008899	homoserine O-succinyltransferase activity	Homoserine O-succinyltransferase (EC 2.3.1.46)
+GO:0008912	lactaldehyde reductase activity	Lactaldehyde reductase (EC 1.1.1.77)
+GO:0008930	methylthioadenosine nucleosidase activity	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) / S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+GO:0008936	nicotinamidase activity	Nicotinamidase (EC 3.5.1.19)
+GO:0008955	peptidoglycan glycosyltransferase activity	Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+GO:0008959	phosphate acetyltransferase activity	Phosphate acetyltransferase (EC 2.3.1.8)
+GO:0008963	phospho-N-acetylmuramoyl-pentapeptide-transferase activity	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+GO:0008964	phosphoenolpyruvate carboxylase activity	Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
+GO:0008965	phosphoenolpyruvate-protein phosphotransferase activity	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+GO:0008966	phosphoglucosamine mutase activity	Phosphoglucosamine mutase (EC 5.4.2.10)
+GO:0008976	polyphosphate kinase activity	Polyphosphate kinase (EC 2.7.4.1)
+GO:0008982	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity	PTS system, cellobiose-specific IIC component (EC 2.7.1.69)
+GO:0008982	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity	PTS system, mannose-specific IIB component (EC 2.7.1.69)
+GO:0008992	repressor LexA activity	SOS-response repressor and protease LexA (EC 3.4.21.88)
+GO:0008998	ribonucleoside-triphosphate reductase activity	Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)
+GO:0009001	serine O-acetyltransferase activity	Serine acetyltransferase (EC 2.3.1.30)
+GO:0009002	serine-type D-Ala-D-Ala carboxypeptidase activity	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+GO:0009007	site-specific DNA-methyltransferase (adenine-specific) activity	Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)
+GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+GO:0009022	tRNA nucleotidyltransferase activity	Ribonuclease PH (EC 2.7.7.56)
+GO:0009045	xylose isomerase activity	Xylose isomerase (EC 5.3.1.5)
+GO:0009055	electron carrier activity	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+GO:0009055	electron carrier activity	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+GO:0009058	biosynthetic process	Transcriptional regulator, GntR family
+GO:0009073	aromatic amino acid family biosynthetic process	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+GO:0009228	thiamin biosynthetic process	Thiazole biosynthesis protein ThiG
+GO:0009306	protein secretion	Preprotein translocase secY subunit (TC 3.A.5.1.1)
+GO:0009306	protein secretion	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+GO:0009341	beta-galactosidase complex	Evolved beta-D-galactosidase, alpha subunit
+GO:0009378	Holliday junction helicase activity	Holliday junction DNA helicase RuvA
+GO:0009378	Holliday junction helicase activity	Holliday junction DNA helicase RuvB
+GO:0009379	Holliday junction helicase complex	Holliday junction DNA helicase RuvA
+GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	Phosphocarrier protein of PTS system
+GO:0009986	cell surface	Predicted cell-wall-anchored protein SasA (LPXTG motif)
+GO:0009986	cell surface	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+GO:0015035	protein disulfide oxidoreductase activity	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+GO:0015036	disulfide oxidoreductase activity	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+GO:0015079	potassium ion transmembrane transporter activity	Kup system potassium uptake protein
+GO:0015205	nucleobase transmembrane transporter activity	Cytosine/purine/uracil/thiamine/allantoin permease family protein
+GO:0015423	maltose-transporting ATPase activity	Maltose/maltodextrin transport ATP-binding protein MalK (EC 3.6.3.19)
+GO:0015450	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	Preprotein translocase secY subunit (TC 3.A.5.1.1)
+GO:0015450	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+GO:0015934	large ribosomal subunit	LSU ribosomal protein L32p
+GO:0015986	ATP synthesis coupled proton transport	Transcription termination factor Rho
+GO:0016020	membrane	ABC transporter membrane-spanning permease, Pep export, Vex3
+GO:0016020	membrane	ABC transporter permease protein
+GO:0016020	membrane	Aquaporin Z
+GO:0016020	membrane	Chloride channel protein
+GO:0016020	membrane	Choline permease LicB
+GO:0016020	membrane	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+GO:0016020	membrane	Cytosine/purine/uracil/thiamine/allantoin permease family protein
+GO:0016020	membrane	Ferric iron ABC transporter, permease protein
+GO:0016020	membrane	Fumarate reductase subunit C
+GO:0016020	membrane	Glycerol uptake facilitator protein
+GO:0016020	membrane	Kup system potassium uptake protein
+GO:0016020	membrane	Large-conductance mechanosensitive channel
+GO:0016020	membrane	Maltose/maltodextrin ABC transporter, permease protein MalF
+GO:0016020	membrane	Maltose/maltodextrin ABC transporter, permease protein MalG
+GO:0016020	membrane	Manganese ABC transporter, inner membrane permease protein SitD
+GO:0016020	membrane	Methionine ABC transporter permease protein
+GO:0016020	membrane	Multiple sugar ABC transporter, membrane-spanning permease protein MsmF
+GO:0016020	membrane	Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+GO:0016020	membrane	N-Acetyl-D-glucosamine ABC transport system, permease protein 1
+GO:0016020	membrane	N-Acetyl-D-glucosamine ABC transport system, permease protein 2
+GO:0016020	membrane	Permease of the drug/metabolite transporter (DMT) superfamily
+GO:0016020	membrane	Preprotein translocase secY subunit (TC 3.A.5.1.1)
+GO:0016020	membrane	Preprotein translocase subunit SecE (TC 3.A.5.1.1)
+GO:0016020	membrane	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+GO:0016020	membrane	Putative high-affinity iron permease
+GO:0016020	membrane	Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+GO:0016020	membrane	Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+GO:0016020	membrane	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
+GO:0016021	integral to membrane	ABC transporter ATP-binding protein
+GO:0016021	integral to membrane	Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+GO:0016021	integral to membrane	Preprotein translocase subunit SecG (TC 3.A.5.1.1)
+GO:0016036	cellular response to phosphate starvation	Phosphate starvation-inducible protein PhoH, predicted ATPase
+GO:0016469	proton-transporting two-sector ATPase complex	Transcription termination factor Rho
+GO:0016491	oxidoreductase activity	NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)
+GO:0016491	oxidoreductase activity	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+GO:0016787	hydrolase activity	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+GO:0016887	ATPase activity	ABC transporter ATP-binding protein
+GO:0016887	ATPase activity	ABC transporter, ATP-binding protein Vex2
+GO:0016887	ATPase activity	ABC-transporter (ATP-binding protein) -possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+GO:0016887	ATPase activity	ABC-type multidrug transport system, ATPase component
+GO:0016887	ATPase activity	COG0488: ATPase components of ABC transporters with duplicated ATPase domains
+GO:0016887	ATPase activity	Excinuclease ABC subunit A
+GO:0016887	ATPase activity	Iron-sulfur cluster assembly ATPase protein SufC
+GO:0016887	ATPase activity	Methionine ABC transporter ATP-binding protein
+GO:0016887	ATPase activity	Zinc ABC transporter, ATP-binding protein ZnuC
+GO:0016987	sigma factor activity	RNA polymerase sigma factor RpoD
+GO:0017038	protein import	Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+GO:0017103	UTP:galactose-1-phosphate uridylyltransferase activity	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+GO:0019134	glucosamine-1-phosphate N-acetyltransferase activity	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+GO:0019538	protein metabolic process	ClpB protein
+GO:0030528	transcription regulator activity	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+GO:0030528	transcription regulator activity	RNA polymerase sigma factor RpoD
+GO:0030528	transcription regulator activity	Transcriptional regulator, GntR family
+GO:0030976	thiamin pyrophosphate binding	Pyruvate-flavodoxin oxidoreductase (EC 1.2.7.-)
+GO:0031072	heat shock protein binding	Chaperone protein DnaJ
+GO:0031216	neopullulanase activity	Neopullulanase (EC 3.2.1.135)
+GO:0042254	ribosome biogenesis and assembly	LSU ribosomal protein L10p (P0)
+GO:0042586	peptide deformylase activity	Peptide deformylase (EC 3.5.1.88)
+GO:0042803	protein homodimerization activity	Heat shock protein GrpE
+GO:0043169	cation binding	Glycogen debranching enzyme (EC 3.2.1.-)
+GO:0043365	[formate-C-acetyltransferase]-activating enzyme activity	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
+GO:0043365	[formate-C-acetyltransferase]-activating enzyme activity	Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)
+GO:0043565	sequence-specific DNA binding	MSM (multiple sugar metabolism) operon regulatory protein
+GO:0044267	cellular protein metabolic process	Heat shock protein 60 family chaperone GroEL
+GO:0045449	regulation of transcription	Predicted transcriptional regulator of N-Acetylglucosamine utilization, GntR family
+GO:0045449	regulation of transcription	RNA polymerase sigma factor RpoD
+GO:0045449	regulation of transcription	Transcriptional regulator, GntR family
+GO:0045454	cell redox homeostasis	Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+GO:0046316	gluconokinase activity	Gluconokinase (EC 2.7.1.12)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase A chain (EC 3.6.3.14)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase alpha chain (EC 3.6.3.14)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase B chain (EC 3.6.3.14)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase beta chain (EC 3.6.3.14)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase C chain (EC 3.6.3.14)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase epsilon chain (EC 3.6.3.14)
+GO:0046933	hydrogen ion transporting ATP synthase activity, rotational mechanism	ATP synthase gamma chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase A chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase alpha chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase B chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase beta chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase C chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase epsilon chain (EC 3.6.3.14)
+GO:0046961	hydrogen ion transporting ATPase activity, rotational mechanism	ATP synthase gamma chain (EC 3.6.3.14)
+GO:0047330	polyphosphate-glucose phosphotransferase activity	Polyphosphate glucokinase (EC 2.7.1.63)
+GO:0047465	N-acylglucosamine-6-phosphate 2-epimerase activity	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)
+GO:0047652	allantoate deiminase activity	Allantoate amidohydrolase (EC 3.5.3.9)
+GO:0047656	alpha,alpha-trehalose phosphorylase activity	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)
+GO:0047905	fructose-6-phosphate phosphoketolase activity	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9); Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+GO:0047952	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+GO:0050082	maltose phosphorylase activity	Maltose phosphorylase (EC 2.4.1.8) / Trehalose phosphorylase (EC 2.4.1.64)
+GO:0050118	N-acetyldiaminopimelate deacetylase activity	N-acetyl-L,L-diaminopimelate deacetylase (EC 3.5.1.47)
+GO:0050193	phosphoketolase activity	Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9); Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+GO:0050334	thiaminase activity	Thiaminase II (EC 3.5.99.2)
+GO:0050511	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+GO:0051082	unfolded protein binding	Chaperone protein DnaJ
+GO:0051087	chaperone binding	Heat shock protein GrpE
+GO:0051276	chromosome organization and biogenesis	DNA repair protein RecN
+GO:0051276	chromosome organization and biogenesis	Exonuclease SbcC

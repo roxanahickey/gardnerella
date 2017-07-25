@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ00765	clust_1541	VBIGarVag136958_0765	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147600	991036	993360	+	2325		DNA primase/helicase, phage-associated	GV10
+GV13|SEQ00776	clust_1541	VBIGarVag244533_0776	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487544	242015	244339	-	2325		DNA primase/helicase, phage-associated	GV13
+GV21|SEQ00471	clust_1541	VBIGarVag274454_0472	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967611	17793	20117	-	2325		DNA primase/helicase, phage-associated	GV21
+GV28|SEQ00522	clust_1541	VBIGarVag271349_0522	Gardnerella vaginalis JCP8066	ATJL01000034	PATRIC	CDS	183987750	275	2599	+	2325		DNA primase/helicase, phage-associated	GV28
+GV33|SEQ00184	clust_1541	VBIGarVag265557_0184	Gardnerella vaginalis JCP8481A	ATJG01000016	PATRIC	CDS	184001058	3397	5721	-	2325		DNA primase/helicase, phage-associated	GV33
+GV34|SEQ01157	clust_1541	VBIGarVag270440_1157	Gardnerella vaginalis JCP8481B	ATJF01000129	PATRIC	CDS	184006021	8532	10856	+	2325		DNA primase/helicase, phage-associated	GV34

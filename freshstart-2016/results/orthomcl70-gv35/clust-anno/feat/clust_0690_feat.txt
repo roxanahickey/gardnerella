@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01207	clust_0690	VBIGarVag247323_1207	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496616	229609	230826	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV01
+GV02|SEQ00245	clust_0690	VBIGarVag242669_0245	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497265	33903	35120	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV02
+GV03|SEQ00824	clust_0690	VBIGarVag247424_0824	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501081	140659	141915	+	1257		COG1524: Uncharacterized proteins of the AP superfamily	GV03
+GV04|SEQ01150	clust_0690	VBIGarVag246433_1150	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482227	62936	64138	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV04
+GV05|SEQ00867	clust_0690	VBIGarVag174900_0867	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547502	550836	552092	+	1257		COG1524: Uncharacterized proteins of the AP superfamily	GV05
+GV06|SEQ00904	clust_0690	VBIGarVag244004_0904	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490613	288025	289227	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV06
+GV07|SEQ00628	clust_0690	VBIGarVag249177_0628	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492907	141745	143001	+	1257		COG1524: Uncharacterized proteins of the AP superfamily	GV07
+GV08|SEQ00460	clust_0690	VBIGarVag251521_0460	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475326	329546	330748	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV08
+GV09|SEQ01132	clust_0690	VBIGarVag169280_1132	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261490	63022	64224	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV09
+GV10|SEQ00616	clust_0690	VBIGarVag136958_0616	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147292	793285	794544	+	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV10
+GV11|SEQ00525	clust_0690	VBIGarVag171052_0525	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549378	3148	4350	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV11
+GV12|SEQ01257	clust_0690	VBIGarVag144721_1257	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855346	144563	145822	+	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV12
+GV13|SEQ00696	clust_0690	VBIGarVag244533_0696	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487376	132700	133902	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV13
+GV14|SEQ00341	clust_0690	VBIGarVag244375_0341	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502526	181235	182524	+	1290		COG1524: Uncharacterized proteins of the AP superfamily	GV14
+GV15|SEQ00676	clust_0690	VBIGarVag249709_0676	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484899	140139	141398	+	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV15
+GV16|SEQ00998	clust_0690	VBIGarVag246379_0998	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479174	1139744	1140946	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV16
+GV17|SEQ00934	clust_0690	VBIGarVag146634_0934	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851954	52759	54018	-	1260		COG1524: Uncharacterized proteins of the AP superfamily	GV17
+GV18|SEQ00137	clust_0690	VBIGarVag4823_0137	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000057	PATRIC	CDS	42068955	4	825	+	822		COG1524: Uncharacterized proteins of the AP superfamily	GV18
+GV19|SEQ00616	clust_0690	VBIGarVag39333_0617	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628116	772436	773638	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV19
+GV20|SEQ00909	clust_0690	VBIGarVag188338_0909	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190663	1112250	1113452	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV20
+GV21|SEQ00518	clust_0690	VBIGarVag274454_0519	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967709	77984	79177	-	1194		COG1524: Uncharacterized proteins of the AP superfamily	GV21
+GV22|SEQ00002	clust_0690	VBIGarVag276801_0002	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969378	2985	4187	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV22
+GV23|SEQ00793	clust_0690	VBIGarVag276017_0793	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973983	4744	5961	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV23
+GV24|SEQ00306	clust_0690	VBIGarVag268944_0307	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975730	38460	39662	-	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV24
+GV25|SEQ00679	clust_0690	VBIGarVag270495_0679	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979322	9656	10873	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV25
+GV26|SEQ00410	clust_0690	VBIGarVag272749_0410	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981604	22758	23975	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV26
+GV27|SEQ00656	clust_0690	VBIGarVag276930_0656	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985087	15412	16629	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV27
+GV28|SEQ00148	clust_0690	VBIGarVag271349_0148	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986955	29248	30465	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV28
+GV29|SEQ00343	clust_0690	VBIGarVag265473_0343	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990075	23437	24654	-	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV29
+GV30|SEQ00340	clust_0690	VBIGarVag267667_0341	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992742	2986	4188	+	1203		COG1524: Uncharacterized proteins of the AP superfamily	GV30
+GV31|SEQ00593	clust_0690	VBIGarVag264983_0593	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996267	4736	5953	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV31
+GV32|SEQ00222	clust_0690	VBIGarVag277040_0222	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998290	37199	38416	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV32
+GV33|SEQ00291	clust_0690	VBIGarVag265557_0291	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001284	33668	34984	-	1317		COG1524: Uncharacterized proteins of the AP superfamily	GV33
+GV34|SEQ00785	clust_0690	VBIGarVag270440_0785	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005200	51257	52573	+	1317		COG1524: Uncharacterized proteins of the AP superfamily	GV34
+GV35|SEQ00361	clust_0690	VBIGarVag272169_0361	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007025	16463	17680	+	1218		COG1524: Uncharacterized proteins of the AP superfamily	GV35

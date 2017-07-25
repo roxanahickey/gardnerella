@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01185	clust_0681	VBIGarVag247323_1185	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496572	200023	200697	+	675		Ribosomal subunit interface protein	GV01
+GV02|SEQ00267	clust_0681	VBIGarVag242669_0267	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497309	63855	64529	-	675		Ribosomal subunit interface protein	GV02
+GV03|SEQ00802	clust_0681	VBIGarVag247424_0802	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501037	108542	109213	+	672		Ribosomal subunit interface protein	GV03
+GV04|SEQ01274	clust_0681	VBIGarVag246433_1274	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482486	18536	19210	-	675		Ribosomal subunit interface protein	GV04
+GV05|SEQ00854	clust_0681	VBIGarVag174900_0854	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547476	529913	530584	+	672		Ribosomal subunit interface protein	GV05
+GV06|SEQ00882	clust_0681	VBIGarVag244004_0882	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490569	256172	256846	+	675		Ribosomal subunit interface protein	GV06
+GV07|SEQ00612	clust_0681	VBIGarVag249177_0612	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492875	112389	113060	+	672		Ribosomal subunit interface protein	GV07
+GV08|SEQ00441	clust_0681	VBIGarVag251521_0441	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475288	301804	302478	+	675		Ribosomal subunit interface protein	GV08
+GV09|SEQ00312	clust_0681	VBIGarVag169280_0312	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259791	15156	15830	-	675	raiA	Ribosomal subunit interface protein	GV09
+GV10|SEQ00602	clust_0681	VBIGarVag136958_0602	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147264	771635	772306	+	672	raiA	Ribosomal subunit interface protein	GV10
+GV11|SEQ01263	clust_0681	VBIGarVag171052_1263	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52550954	21866	22540	-	675		Ribosomal subunit interface protein	GV11
+GV12|SEQ01242	clust_0681	VBIGarVag144721_1242	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855316	122944	123615	+	672		Ribosomal subunit interface protein	GV12
+GV13|SEQ00713	clust_0681	VBIGarVag244533_0713	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487411	159737	160342	-	606		Ribosomal subunit interface protein	GV13
+GV14|SEQ00319	clust_0681	VBIGarVag244375_0319	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502482	152545	153216	+	672		Ribosomal subunit interface protein	GV14
+GV15|SEQ00664	clust_0681	VBIGarVag249709_0664	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484875	119945	120616	+	672		Ribosomal subunit interface protein	GV15
+GV16|SEQ01018	clust_0681	VBIGarVag246379_1018	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479214	1170891	1171565	-	675		Ribosomal subunit interface protein	GV16
+GV17|SEQ00947	clust_0681	VBIGarVag146634_0947	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851980	73540	74211	-	672		Ribosomal subunit interface protein	GV17
+GV18|SEQ00101	clust_0681	VBIGarVag4823_0101	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000047	PATRIC	CDS	42068873	853	1527	+	675		Ribosomal subunit interface protein	GV18
+GV19|SEQ00594	clust_0681	VBIGarVag39333_0595	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628072	741520	742194	+	675		Ribosomal subunit interface protein	GV19
+GV20|SEQ00930	clust_0681	VBIGarVag188338_0930	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190705	1143588	1144262	-	675	raiA	Ribosomal subunit interface protein	GV20
+GV21|SEQ00851	clust_0681	VBIGarVag274454_0852	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968437	55505	56179	+	675		Ribosomal subunit interface protein	GV21
+GV22|SEQ00941	clust_0681	VBIGarVag276801_0942	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971375	31194	31868	+	675		Ribosomal subunit interface protein	GV22
+GV23|SEQ00857	clust_0681	VBIGarVag276017_0857	Gardnerella vaginalis JCP7659	ATJQ01000068	PATRIC	CDS	183974121	3152	3826	-	675		Ribosomal subunit interface protein	GV23
+GV24|SEQ01053	clust_0681	VBIGarVag268944_1054	Gardnerella vaginalis JCP7672	ATJP01000097	PATRIC	CDS	183977360	13423	14097	-	675		Ribosomal subunit interface protein	GV24
+GV25|SEQ00662	clust_0681	VBIGarVag270495_0662	Gardnerella vaginalis JCP7719	ATJO01000062	PATRIC	CDS	183979287	6553	7227	+	675		Ribosomal subunit interface protein	GV25
+GV26|SEQ00433	clust_0681	VBIGarVag272749_0433	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981650	52773	53447	-	675		Ribosomal subunit interface protein	GV26
+GV27|SEQ00633	clust_0681	VBIGarVag276930_0633	Gardnerella vaginalis JCP8017B	ATJM01000028	PATRIC	CDS	183985040	19229	19903	+	675		Ribosomal subunit interface protein	GV27
+GV28|SEQ00162	clust_0681	VBIGarVag271349_0162	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986983	49931	50605	-	675		Ribosomal subunit interface protein	GV28
+GV29|SEQ00452	clust_0681	VBIGarVag265473_0452	Gardnerella vaginalis JCP8070	ATJK01000022	PATRIC	CDS	183990314	3155	3829	-	675		Ribosomal subunit interface protein	GV29
+GV30|SEQ01032	clust_0681	VBIGarVag267667_1034	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994268	26223	26897	+	675		Ribosomal subunit interface protein	GV30
+GV31|SEQ00581	clust_0681	VBIGarVag264983_0581	Gardnerella vaginalis JCP8151A	ATJI01000025	PATRIC	CDS	183996241	18103	18777	+	675		Ribosomal subunit interface protein	GV31
+GV32|SEQ00207	clust_0681	VBIGarVag277040_0207	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998260	17034	17708	+	675		Ribosomal subunit interface protein	GV32
+GV33|SEQ00307	clust_0681	VBIGarVag265557_0307	Gardnerella vaginalis JCP8481A	ATJG01000025	PATRIC	CDS	184001317	13247	13918	-	672		Ribosomal subunit interface protein	GV33
+GV34|SEQ00770	clust_0681	VBIGarVag270440_0770	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005170	30747	31418	+	672		Ribosomal subunit interface protein	GV34
+GV35|SEQ00348	clust_0681	VBIGarVag272169_0348	Gardnerella vaginalis JCP8522	ATJE01000016	PATRIC	CDS	184006998	17030	17704	+	675		Ribosomal subunit interface protein	GV35

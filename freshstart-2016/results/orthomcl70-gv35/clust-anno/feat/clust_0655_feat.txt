@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00286	clust_0655	VBIGarVag247323_0286	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494695	23255	24343	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV01
+GV02|SEQ00665	clust_0655	VBIGarVag242669_0665	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498147	26990	28078	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV02
+GV03|SEQ00769	clust_0655	VBIGarVag247424_0769	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500969	59291	60379	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV03
+GV04|SEQ01079	clust_0655	VBIGarVag246433_1079	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482079	31698	32786	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV04
+GV05|SEQ00822	clust_0655	VBIGarVag174900_0822	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547410	486023	487111	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV05
+GV06|SEQ00669	clust_0655	VBIGarVag244004_0669	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490122	26835	27923	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV06
+GV07|SEQ00581	clust_0655	VBIGarVag249177_0581	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492811	69132	70220	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV07
+GV08|SEQ00144	clust_0655	VBIGarVag251521_0144	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474659	174562	175650	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV08
+GV09|SEQ00972	clust_0655	VBIGarVag169280_0972	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261156	394032	395120	-	1089	ychF	GTP-binding and nucleic acid-binding protein YchF	GV09
+GV10|SEQ00569	clust_0655	VBIGarVag136958_0569	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147196	726770	727858	+	1089	ychF	GTP-binding and nucleic acid-binding protein YchF	GV10
+GV11|SEQ00667	clust_0655	VBIGarVag171052_0667	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549681	26392	27480	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV11
+GV12|SEQ01204	clust_0655	VBIGarVag144721_1204	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855238	70530	71618	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV12
+GV13|SEQ00609	clust_0655	VBIGarVag244533_0609	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487191	26846	27934	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV13
+GV14|SEQ00286	clust_0655	VBIGarVag244375_0286	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502414	109253	110341	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV14
+GV15|SEQ00627	clust_0655	VBIGarVag249709_0627	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484799	67564	68652	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV15
+GV16|SEQ00919	clust_0655	VBIGarVag246379_0919	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479005	1044096	1045184	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV16
+GV17|SEQ00982	clust_0655	VBIGarVag146634_0982	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852052	119748	120836	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV17
+GV18|SEQ00540	clust_0655	VBIGarVag4823_0540	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000107	PATRIC	CDS	42069830	15985	17073	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV18
+GV19|SEQ00698	clust_0655	VBIGarVag39333_0699	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628290	869744	870832	+	1089	ychF	GTP-binding and nucleic acid-binding protein YchF	GV19
+GV20|SEQ00842	clust_0655	VBIGarVag188338_0842	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190518	1027340	1028428	-	1089	ychF	GTP-binding and nucleic acid-binding protein YchF	GV20
+GV21|SEQ00295	clust_0655	VBIGarVag274454_0295	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967242	80904	81992	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV21
+GV22|SEQ00072	clust_0655	VBIGarVag276801_0072	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969529	91744	92832	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV22
+GV23|SEQ00123	clust_0655	VBIGarVag276017_0123	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972543	21654	22742	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV23
+GV24|SEQ01000	clust_0655	VBIGarVag268944_1001	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977231	82903	83991	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV24
+GV25|SEQ00731	clust_0655	VBIGarVag270495_0731	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979429	34668	35756	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV25
+GV26|SEQ00371	clust_0655	VBIGarVag272749_0371	Gardnerella vaginalis JCP8017A	ATJN01000023	PATRIC	CDS	183981520	21671	22759	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV26
+GV27|SEQ00111	clust_0655	VBIGarVag276930_0111	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983936	27099	28187	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV27
+GV28|SEQ00262	clust_0655	VBIGarVag271349_0262	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987187	30428	31516	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV28
+GV29|SEQ00876	clust_0655	VBIGarVag265473_0876	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991241	27959	29047	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV29
+GV30|SEQ00269	clust_0655	VBIGarVag267667_0270	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992596	35453	36541	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV30
+GV31|SEQ00016	clust_0655	VBIGarVag264983_0016	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995050	20791	21879	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV31
+GV32|SEQ00275	clust_0655	VBIGarVag277040_0275	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998398	104074	105162	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV32
+GV33|SEQ01208	clust_0655	VBIGarVag265557_1208	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003349	24742	25830	-	1089		GTP-binding and nucleic acid-binding protein YchF	GV33
+GV34|SEQ00706	clust_0655	VBIGarVag270440_0706	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005031	6612	7700	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV34
+GV35|SEQ00150	clust_0655	VBIGarVag272169_0150	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006579	41000	42088	+	1089		GTP-binding and nucleic acid-binding protein YchF	GV35

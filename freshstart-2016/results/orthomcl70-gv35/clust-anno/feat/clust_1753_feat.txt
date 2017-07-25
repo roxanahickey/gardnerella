@@ -1,0 +1,5 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ00836	clust_1753	VBIGarVag136958_0836	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147746	1094936	1095817	+	882		Translation initiation factor 2	GV10
+GV12|SEQ00282	clust_1753	VBIGarVag144721_0282	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853229	254583	255401	+	819		Translation initiation factor 2	GV12
+GV15|SEQ00183	clust_1753	VBIGarVag249709_0183	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483859	125488	126351	+	864		Translation initiation factor 2	GV15
+GV17|SEQ00720	clust_1753	VBIGarVag146634_0720	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851510	17449	18336	-	888		Translation initiation factor 2	GV17

@@ -1,0 +1,33 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00011	clust_0850	VBIGarVag247323_0011	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494114	12212	13207	+	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV01
+GV02|SEQ00779	clust_0850	VBIGarVag242669_0779	Gardnerella vaginalis 00703C2mash	ADEU01000015	PATRIC	CDS	85498395	45982	46977	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV02
+GV03|SEQ00078	clust_0850	VBIGarVag247424_0078	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499523	114534	115529	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV03
+GV04|SEQ01160	clust_0850	VBIGarVag246433_1160	Gardnerella vaginalis 0288E	ADEN01000010	PATRIC	CDS	85482248	11893	12888	+	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV04
+GV05|SEQ01073	clust_0850	VBIGarVag174900_1073	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52547930	11783	12778	+	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV05
+GV06|SEQ00968	clust_0850	VBIGarVag244004_0968	Gardnerella vaginalis 1400E	ADER01000021	PATRIC	CDS	85490747	12053	13048	+	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV06
+GV07|SEQ00976	clust_0850	VBIGarVag249177_0976	Gardnerella vaginalis 1500E	ADES01000017	PATRIC	CDS	85493629	14900	15895	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV07
+GV08|SEQ01296	clust_0850	VBIGarVag251521_1296	Gardnerella vaginalis 284V	ADEL01000014	PATRIC	CDS	85477072	9623	10618	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV08
+GV09|SEQ00650	clust_0850	VBIGarVag169280_0650	Gardnerella vaginalis 315-A	AFDI01000007	PATRIC	CDS	55260494	8004	8999	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV09
+GV10|SEQ01088	clust_0850	VBIGarVag136958_1088	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148268	1467243	1468238	-	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV10
+GV11|SEQ00206	clust_0850	VBIGarVag171052_0206	Gardnerella vaginalis 41V	AEJE01000011	PATRIC	CDS	52548697	5150	6145	-	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV11
+GV12|SEQ00500	clust_0850	VBIGarVag144721_0500	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853683	575076	576071	-	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV12
+GV13|SEQ00520	clust_0850	VBIGarVag244533_0520	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487006	12726	13721	+	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV13
+GV14|SEQ00019	clust_0850	VBIGarVag244375_0019	Gardnerella vaginalis 6119V5	ADEW01000001	PATRIC	CDS	85501853	20263	21258	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV14
+GV15|SEQ00838	clust_0850	VBIGarVag249709_0838	Gardnerella vaginalis 6420B	ADEP01000009	PATRIC	CDS	85485243	13514	14509	+	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV15
+GV16|SEQ01305	clust_0850	VBIGarVag246379_1305	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479815	1540617	1541612	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV16
+GV17|SEQ00666	clust_0850	VBIGarVag146634_0666	Gardnerella vaginalis AMD	NZ_ADAM01000006	PATRIC	CDS	37851393	13433	14428	+	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV17
+GV18|SEQ00382	clust_0850	VBIGarVag4823_0382	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000093	PATRIC	CDS	42069488	2664	3659	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV18
+GV19|SEQ00305	clust_0850	VBIGarVag39333_0306	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627469	375877	376872	+	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV19
+GV20|SEQ01210	clust_0850	VBIGarVag188338_1210	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191290	1510650	1511645	-	996	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV20
+GV22|SEQ00831	clust_0850	VBIGarVag276801_0832	Gardnerella vaginalis JCP7276	ATJR01000045	PATRIC	CDS	183971135	280	1275	-	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV22
+GV24|SEQ01161	clust_0850	VBIGarVag268944_1162	Gardnerella vaginalis JCP7672	ATJP01000141	PATRIC	CDS	183977636	11923	12918	+	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV24
+GV25|SEQ01261	clust_0850	VBIGarVag270495_1261	Gardnerella vaginalis JCP7719	ATJO01000175	PATRIC	CDS	183980631	580	1575	-	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV25
+GV27|SEQ01130	clust_0850	VBIGarVag276930_1130	Gardnerella vaginalis JCP8017B	ATJM01000099	PATRIC	CDS	183986126	3312	3671	-	360		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV27
+GV28|SEQ01095	clust_0850	VBIGarVag271349_1095	Gardnerella vaginalis JCP8066	ATJL01000151	PATRIC	CDS	183989061	36	359	+	324		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV28
+GV29|SEQ01140	clust_0850	VBIGarVag265473_1140	Gardnerella vaginalis JCP8070	ATJK01000133	PATRIC	CDS	183991853	593	925	-	333		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV29
+GV30|SEQ01163	clust_0850	VBIGarVag267667_1165	Gardnerella vaginalis JCP8108	ATJJ01000119	PATRIC	CDS	183994565	852	1049	-	198		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV30
+GV31|SEQ01006	clust_0850	VBIGarVag264983_1006	Gardnerella vaginalis JCP8151A	ATJI01000082	PATRIC	CDS	183997172	42	302	+	261		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV31
+GV32|SEQ00981	clust_0850	VBIGarVag277040_0981	Gardnerella vaginalis JCP8151B	ATJH01000114	PATRIC	CDS	183999975	302	634	-	333		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV32
+GV33|SEQ00427	clust_0850	VBIGarVag265557_0427	Gardnerella vaginalis JCP8481A	ATJG01000036	PATRIC	CDS	184001578	7129	7527	-	399		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV33
+GV34|SEQ00335	clust_0850	VBIGarVag270440_0335	Gardnerella vaginalis JCP8481B	ATJF01000023	PATRIC	CDS	184004218	12049	13044	+	996		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV34
+GV35|SEQ00926	clust_0850	VBIGarVag272169_0926	Gardnerella vaginalis JCP8522	ATJE01000104	PATRIC	CDS	184008292	16	213	+	198		Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	GV35

@@ -58,6 +58,8 @@ library(wesanderson)
 # col.cust.hc <- col.cust[-3]
 
 col.cust <- c("royalblue3","darkturquoise","gold3","tomato2","mediumorchid3")
+# col.cust <- c("#3A5FCD", "#00CED1", "#CDAD00", "#EE5C42", "#B452CD")
+
 col.cust.hc <- col.cust[-3]
 
 col.bw.seq <- "RdPu"

@@ -1,0 +1,4 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV07|SEQ01144	clust_1834	VBIGarVag249177_1144	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493989	45787	45960	-	174		Prophage antirepressor	GV07
+GV33|SEQ00681	clust_1834	VBIGarVag265557_0681	Gardnerella vaginalis JCP8481A	ATJG01000064	PATRIC	CDS	184002125	5102	5944	-	843		Prophage antirepressor	GV33
+GV34|SEQ00360	clust_1834	VBIGarVag270440_0360	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004277	5100	5942	-	843		Prophage antirepressor	GV34

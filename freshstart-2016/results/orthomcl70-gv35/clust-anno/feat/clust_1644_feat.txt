@@ -1,0 +1,6 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV09|SEQ00361	clust_1644	VBIGarVag169280_0361	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259889	61723	63114	-	1392		phage-related terminase	GV09
+GV26|SEQ00068	clust_1644	VBIGarVag272749_0068	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980871	13374	14810	-	1437		hypothetical protein	GV26
+GV27|SEQ00076	clust_1644	VBIGarVag276930_0076	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983863	47514	48812	+	1299		hypothetical protein	GV27
+GV31|SEQ00971	clust_1644	VBIGarVag264983_0971	Gardnerella vaginalis JCP8151A	ATJI01000073	PATRIC	CDS	183997093	11436	12872	-	1437		hypothetical protein	GV31
+GV32|SEQ00770	clust_1644	VBIGarVag277040_0770	Gardnerella vaginalis JCP8151B	ATJH01000053	PATRIC	CDS	183999471	476	1912	+	1437		hypothetical protein	GV32

@@ -1,0 +1,13 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00610	clust_1205	VBIGarVag246433_0610	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481113	28837	28998	-	162		conserved hypothetical protein	GV04
+GV05|SEQ00674	clust_1205	VBIGarVag174900_0674	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547107	291786	291941	+	156		conserved hypothetical protein	GV05
+GV06|SEQ01164	clust_1205	VBIGarVag244004_1164	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491155	14729	14890	+	162		conserved hypothetical protein	GV06
+GV12|SEQ01123	clust_1205	VBIGarVag144721_1123	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855068	6242	6358	+	117		conserved hypothetical protein	GV12
+GV17|SEQ00124	clust_1205	VBIGarVag146634_0124	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850245	60284	60433	-	150		conserved hypothetical protein	GV17
+GV20|SEQ00470	clust_1205	VBIGarVag188338_0470	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189754	583756	583911	+	156		conserved hypothetical protein	GV20
+GV22|SEQ01276	clust_1205	VBIGarVag276801_1277	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972189	34980	35252	-	273		conserved hypothetical protein	GV22
+GV23|SEQ00166	clust_1205	VBIGarVag276017_0166	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972633	19746	20114	-	369		conserved hypothetical protein	GV23
+GV25|SEQ00063	clust_1205	VBIGarVag270495_0063	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977985	32589	32957	-	369		conserved hypothetical protein	GV25
+GV26|SEQ00298	clust_1205	VBIGarVag272749_0298	Gardnerella vaginalis JCP8017A	ATJN01000015	PATRIC	CDS	183981362	7712	7984	-	273		conserved hypothetical protein	GV26
+GV27|SEQ01219	clust_1205	VBIGarVag276930_1219	Gardnerella vaginalis JCP8017B	ATJM01000132	PATRIC	CDS	183986337	8160	8432	-	273		conserved hypothetical protein	GV27
+GV30|SEQ01081	clust_1205	VBIGarVag267667_1083	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994383	11971	12345	+	375		conserved hypothetical protein	GV30

@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00546	clust_0163	VBIGarVag247323_0546	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495238	294010	294948	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV01
+GV02|SEQ00829	clust_0163	VBIGarVag242669_0829	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498500	52118	53056	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV02
+GV03|SEQ00977	clust_0163	VBIGarVag247424_0977	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501400	332993	333940	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV03
+GV04|SEQ00641	clust_0163	VBIGarVag246433_0641	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481175	58282	59220	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV04
+GV05|SEQ01024	clust_0163	VBIGarVag174900_1024	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547829	745456	746403	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV05
+GV06|SEQ00271	clust_0163	VBIGarVag244004_0271	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489263	48148	49086	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV06
+GV07|SEQ00307	clust_0163	VBIGarVag249177_0307	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492231	117384	118331	+	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV07
+GV08|SEQ00086	clust_0163	VBIGarVag251521_0086	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474538	98236	99174	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV08
+GV09|SEQ00915	clust_0163	VBIGarVag169280_0915	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261037	317643	318581	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV09
+GV10|SEQ00797	clust_0163	VBIGarVag136958_0797	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147666	1037935	1038882	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV10
+GV11|SEQ00076	clust_0163	VBIGarVag171052_0076	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548418	4795	5733	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV11
+GV12|SEQ00239	clust_0163	VBIGarVag144721_0239	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853141	195955	196902	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV12
+GV13|SEQ00896	clust_0163	VBIGarVag244533_0896	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487796	7802	8740	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV13
+GV14|SEQ01079	clust_0163	VBIGarVag244375_1079	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504069	158018	158965	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV14
+GV15|SEQ00141	clust_0163	VBIGarVag249709_0141	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483773	67632	68579	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV15
+GV16|SEQ00862	clust_0163	VBIGarVag246379_0862	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478886	967840	968778	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV16
+GV17|SEQ00762	clust_0163	VBIGarVag146634_0762	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851596	75693	76640	+	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV17
+GV18|SEQ01118	clust_0163	VBIGarVag4823_1118	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071066	9498	10436	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV18
+GV19|SEQ00758	clust_0163	VBIGarVag39333_0759	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628414	946189	947127	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV19
+GV20|SEQ00784	clust_0163	VBIGarVag188338_0784	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190397	950929	951867	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV20
+GV21|SEQ00238	clust_0163	VBIGarVag274454_0238	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967124	5009	5947	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV21
+GV22|SEQ00132	clust_0163	VBIGarVag276801_0132	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969653	173386	174324	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV22
+GV23|SEQ00227	clust_0163	VBIGarVag276017_0227	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972758	51912	52850	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV23
+GV24|SEQ00943	clust_0163	VBIGarVag268944_0944	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977113	6529	7467	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV24
+GV25|SEQ00791	clust_0163	VBIGarVag270495_0791	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979553	114720	115658	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV25
+GV26|SEQ01035	clust_0163	VBIGarVag272749_1035	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982950	51670	52608	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV26
+GV27|SEQ01079	clust_0163	VBIGarVag276930_1079	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986018	5274	6212	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV27
+GV28|SEQ00323	clust_0163	VBIGarVag271349_0323	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987313	110804	111742	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV28
+GV29|SEQ00937	clust_0163	VBIGarVag265473_0937	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991367	108096	109034	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV29
+GV30|SEQ01278	clust_0163	VBIGarVag267667_1280	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994829	39507	40445	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV30
+GV31|SEQ00499	clust_0163	VBIGarVag264983_0499	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996068	700	1638	-	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV31
+GV32|SEQ00336	clust_0163	VBIGarVag277040_0336	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998524	184332	185270	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV32
+GV33|SEQ01217	clust_0163	VBIGarVag265557_1217	Gardnerella vaginalis JCP8481A	ATJG01000186	PATRIC	CDS	184003371	186	1133	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV33
+GV34|SEQ01234	clust_0163	VBIGarVag270440_1234	Gardnerella vaginalis JCP8481B	ATJF01000164	PATRIC	CDS	184006214	186	1133	-	948		Cytoplasmic hypothetical protein DUF199, a subgroup	GV34
+GV35|SEQ00209	clust_0163	VBIGarVag272169_0209	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006701	120619	121557	+	939		Cytoplasmic hypothetical protein DUF199, a subgroup	GV35

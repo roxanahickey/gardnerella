@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00959	clust_0478	VBIGarVag247323_0959	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85496101	182632	183906	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV01
+GV02|SEQ01107	clust_0478	VBIGarVag242669_1107	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499076	78017	79291	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV02
+GV03|SEQ00371	clust_0478	VBIGarVag247424_0371	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500143	329718	330992	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV03
+GV04|SEQ00009	clust_0478	VBIGarVag246433_0009	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479854	7522	8796	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV04
+GV05|SEQ00471	clust_0478	VBIGarVag174900_0471	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546683	41199	42473	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV05
+GV06|SEQ00562	clust_0478	VBIGarVag244004_0562	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85489893	8025	9299	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV06
+GV07|SEQ00935	clust_0478	VBIGarVag249177_0935	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493543	232523	233797	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV07
+GV08|SEQ01211	clust_0478	VBIGarVag251521_1211	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476883	321722	322996	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV08
+GV09|SEQ01243	clust_0478	VBIGarVag169280_1243	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261727	108182	109456	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV09
+GV10|SEQ00251	clust_0478	VBIGarVag136958_0251	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146532	293324	294601	+	1278	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV10
+GV11|SEQ00596	clust_0478	VBIGarVag171052_0596	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549529	26579	27853	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV11
+GV12|SEQ00791	clust_0478	VBIGarVag144721_0791	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854295	330530	331807	+	1278		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV12
+GV13|SEQ01112	clust_0478	VBIGarVag244533_1112	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488253	105955	107229	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV13
+GV14|SEQ00082	clust_0478	VBIGarVag244375_0082	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85501982	72382	73656	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV14
+GV15|SEQ00414	clust_0478	VBIGarVag249709_0414	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484349	153831	155108	-	1278	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV15
+GV16|SEQ00366	clust_0478	VBIGarVag246379_0366	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477864	331593	332867	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV16
+GV17|SEQ00337	clust_0478	VBIGarVag146634_0337	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850693	326232	327509	-	1278		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV17
+GV18|SEQ00846	clust_0478	VBIGarVag4823_0846	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000131	PATRIC	CDS	42070491	5774	6919	-	1146	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV18
+GV19|SEQ01244	clust_0478	VBIGarVag39333_1246	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629413	1563569	1564843	-	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV19
+GV20|SEQ00251	clust_0478	VBIGarVag188338_0251	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189301	286840	288114	+	1275	secY	Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV20
+GV21|SEQ00707	clust_0478	VBIGarVag274454_0708	Gardnerella vaginalis JCP7275	ATJS01000045	PATRIC	CDS	183968116	1489	2763	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV21
+GV22|SEQ00967	clust_0478	VBIGarVag276801_0968	Gardnerella vaginalis JCP7276	ATJR01000059	PATRIC	CDS	183971434	1510	2784	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV22
+GV23|SEQ00702	clust_0478	VBIGarVag276017_0702	Gardnerella vaginalis JCP7659	ATJQ01000045	PATRIC	CDS	183973772	1538	2812	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV23
+GV24|SEQ00818	clust_0478	VBIGarVag268944_0819	Gardnerella vaginalis JCP7672	ATJP01000069	PATRIC	CDS	183976840	2006	3280	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV24
+GV25|SEQ00802	clust_0478	VBIGarVag270495_0802	Gardnerella vaginalis JCP7719	ATJO01000066	PATRIC	CDS	183979577	1495	2769	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV25
+GV26|SEQ00822	clust_0478	VBIGarVag272749_0822	Gardnerella vaginalis JCP8017A	ATJN01000047	PATRIC	CDS	183982478	1470	2810	+	1341		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV26
+GV27|SEQ00696	clust_0478	VBIGarVag276930_0696	Gardnerella vaginalis JCP8017B	ATJM01000031	PATRIC	CDS	183985173	1497	2771	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV27
+GV28|SEQ00647	clust_0478	VBIGarVag271349_0647	Gardnerella vaginalis JCP8066	ATJL01000044	PATRIC	CDS	183988022	1999	3273	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV28
+GV29|SEQ00731	clust_0478	VBIGarVag265473_0731	Gardnerella vaginalis JCP8070	ATJK01000048	PATRIC	CDS	183990922	1537	2811	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV29
+GV30|SEQ00733	clust_0478	VBIGarVag267667_0735	Gardnerella vaginalis JCP8108	ATJJ01000045	PATRIC	CDS	183993599	3161	4435	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV30
+GV31|SEQ00677	clust_0478	VBIGarVag264983_0677	Gardnerella vaginalis JCP8151A	ATJI01000033	PATRIC	CDS	183996445	2010	3284	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV31
+GV32|SEQ00633	clust_0478	VBIGarVag277040_0633	Gardnerella vaginalis JCP8151B	ATJH01000043	PATRIC	CDS	183999177	1533	2807	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV32
+GV33|SEQ00790	clust_0478	VBIGarVag265557_0790	Gardnerella vaginalis JCP8481A	ATJG01000082	PATRIC	CDS	184002368	2006	3280	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV33
+GV34|SEQ01215	clust_0478	VBIGarVag270440_1215	Gardnerella vaginalis JCP8481B	ATJF01000152	PATRIC	CDS	184006164	801	2075	+	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV34
+GV35|SEQ00752	clust_0478	VBIGarVag272169_0752	Gardnerella vaginalis JCP8522	ATJE01000067	PATRIC	CDS	184007889	2018	3292	-	1275		Preprotein translocase secY subunit (TC 3.A.5.1.1)	GV35

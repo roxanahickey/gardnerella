@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV03|SEQ00411	clust_1362	VBIGarVag247424_0411	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500227	27271	27720	-	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV03
+GV05|SEQ00167	clust_1362	VBIGarVag174900_0167	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52546043	69940	70389	+	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV05
+GV07|SEQ01032	clust_1362	VBIGarVag249177_1032	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493750	27154	27603	-	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV07
+GV10|SEQ01116	clust_1362	VBIGarVag136958_1116	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148330	1513608	1514057	-	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV10
+GV12|SEQ00022	clust_1362	VBIGarVag144721_0022	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852694	28229	28678	-	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV12
+GV14|SEQ00930	clust_1362	VBIGarVag244375_0930	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503755	65229	65678	+	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV14
+GV15|SEQ00052	clust_1362	VBIGarVag249709_0052	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483590	62438	62887	+	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV15
+GV17|SEQ00021	clust_1362	VBIGarVag146634_0021	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850038	28248	28697	-	450		Ascorbate-specific PTS system, EIIA component (EC 2.7.1.-)	GV17

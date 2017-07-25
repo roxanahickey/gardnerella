@@ -1,0 +1,4 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV07|SEQ00683	clust_1830	VBIGarVag249177_0683	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493018	63330	64217	-	888		hypothetical protein	GV07
+GV10|SEQ00469	clust_1830	VBIGarVag136958_0469	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146990	571208	571927	+	720		Adenine-specific methyltransferase (EC 2.1.1.72)	GV10
+GV12|SEQ01044	clust_1830	VBIGarVag144721_1044	Gardnerella vaginalis 5-1	NZ_ADAN01000007	PATRIC	CDS	37854825	17625	18344	+	720		Adenine-specific methyltransferase (EC 2.1.1.72)	GV12

@@ -1,0 +1,5 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ01038	clust_1677	VBIGarVag136958_1038	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148164	1383146	1384114	-	969		Glycosyltransferase	GV10
+GV12|SEQ00445	clust_1677	VBIGarVag144721_0445	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853569	492011	492979	-	969		Glycosyltransferase	GV12
+GV33|SEQ01242	clust_1677	VBIGarVag265557_1242	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003430	831	1820	-	990		Glycosyltransferase	GV33
+GV34|SEQ00096	clust_1677	VBIGarVag270440_0096	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003685	861	1850	-	990		Glycosyltransferase	GV34

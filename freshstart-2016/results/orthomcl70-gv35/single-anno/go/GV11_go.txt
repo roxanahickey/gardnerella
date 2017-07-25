@@ -1,0 +1,18 @@
+cds_id	na_feature_id	locus_tag	seq_id	id_full	id_short	genome_name	accession	annotation	feature_type	gene	product	go_id	go_term	anno_type	ortho_id
+GV11|SEQ00073	52548411	VBIGarVag171052_0073	SEQ00073	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0009306	protein secretion	go	NA
+GV11|SEQ00073	52548411	VBIGarVag171052_0073	SEQ00073	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0016021	integral to membrane	go	NA
+GV11|SEQ00073	52548411	VBIGarVag171052_0073	SEQ00073	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	NA	Preprotein translocase subunit SecG (TC 3.A.5.1.1)	GO:0015450	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	go	NA
+GV11|SEQ00260	52548814	VBIGarVag171052_0260	SEQ00260	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	NA	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)	GO:0005524	ATP binding	go	NA
+GV11|SEQ00260	52548814	VBIGarVag171052_0260	SEQ00260	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	NA	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)	GO:0006281	DNA repair	go	NA
+GV11|SEQ00260	52548814	VBIGarVag171052_0260	SEQ00260	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	NA	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)	GO:0003677	DNA binding	go	NA
+GV11|SEQ00260	52548814	VBIGarVag171052_0260	SEQ00260	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000018	PATRIC	CDS	NA	ATP-dependent DNA helicase pcrA (EC 3.6.1.-)	GO:0004003	ATP-dependent DNA helicase activity	go	NA
+GV11|SEQ00925	52550220	VBIGarVag171052_0925	SEQ00925	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000053	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	NA
+GV11|SEQ00925	52550220	VBIGarVag171052_0925	SEQ00925	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000053	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	NA
+GV11|SEQ00925	52550220	VBIGarVag171052_0925	SEQ00925	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000053	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	NA
+GV11|SEQ00992	52550365	VBIGarVag171052_0992	SEQ00992	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005840	ribosome	go	NA
+GV11|SEQ00992	52550365	VBIGarVag171052_0992	SEQ00992	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0006412	translation	go	NA
+GV11|SEQ00992	52550365	VBIGarVag171052_0992	SEQ00992	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0005622	intracellular	go	NA
+GV11|SEQ00992	52550365	VBIGarVag171052_0992	SEQ00992	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	NA	SSU ribosomal protein S16p	GO:0003735	structural constituent of ribosome	go	NA
+GV11|SEQ01078	52550547	VBIGarVag171052_1078	SEQ01078	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005694	chromosome	go	NA
+GV11|SEQ01078	52550547	VBIGarVag171052_1078	SEQ01078	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	NA	Exonuclease SbcC	GO:0051276	chromosome organization and biogenesis	go	NA
+GV11|SEQ01078	52550547	VBIGarVag171052_1078	SEQ01078	Gardnerella vaginalis 41V	GV11	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	NA	Exonuclease SbcC	GO:0005524	ATP binding	go	NA

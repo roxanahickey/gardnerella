@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00569	clust_0179	VBIGarVag247323_0569	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495284	320428	323724	-	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV01
+GV02|SEQ00809	clust_0179	VBIGarVag242669_0809	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498460	23448	26744	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV02
+GV03|SEQ01000	clust_0179	VBIGarVag247424_1000	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501446	359569	362769	-	3201		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV03
+GV04|SEQ00660	clust_0179	VBIGarVag246433_0660	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481213	81322	84594	-	3273		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV04
+GV05|SEQ01045	clust_0179	VBIGarVag174900_1045	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547871	767710	770910	-	3201		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV05
+GV06|SEQ00252	clust_0179	VBIGarVag244004_0252	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489224	22752	26057	+	3306		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV06
+GV07|SEQ00286	clust_0179	VBIGarVag249177_0286	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492189	88947	92147	+	3201		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV07
+GV08|SEQ00105	clust_0179	VBIGarVag251521_0105	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474577	121296	124568	-	3273		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV08
+GV09|SEQ00934	clust_0179	VBIGarVag169280_0934	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261076	340689	343961	-	3273	glnE	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV09
+GV10|SEQ00818	clust_0179	VBIGarVag136958_0818	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147708	1060876	1063713	-	2838	glnE	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV10
+GV11|SEQ00737	clust_0179	VBIGarVag171052_0737	Gardnerella vaginalis 41V	AEJE01000047	PATRIC	CDS	52549827	9159	12464	-	3306		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV11
+GV12|SEQ00262	clust_0179	VBIGarVag144721_0262	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853187	220295	223348	-	3054		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV12
+GV13|SEQ00916	clust_0179	VBIGarVag244533_0916	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487838	30841	34164	-	3324		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV13
+GV14|SEQ01101	clust_0179	VBIGarVag244375_1101	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504113	183801	187001	-	3201		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV14
+GV15|SEQ00164	clust_0179	VBIGarVag249709_0164	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483819	92055	95243	-	3189		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV15
+GV16|SEQ00881	clust_0179	VBIGarVag246379_0881	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478925	990855	994127	-	3273		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV16
+GV17|SEQ00739	clust_0179	VBIGarVag146634_0739	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851550	48996	52184	+	3189		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV17
+GV18|SEQ00309	clust_0179	VBIGarVag4823_0309	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000083	PATRIC	CDS	42069330	7757	11029	+	3273		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV18
+GV19|SEQ00739	clust_0179	VBIGarVag39333_0740	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628376	920817	924089	+	3273	glnE	Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV19
+GV20|SEQ00804	clust_0179	VBIGarVag188338_0804	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190438	973977	977249	-	3273		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV20
+GV21|SEQ00257	clust_0179	VBIGarVag274454_0257	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967162	28032	31337	-	3306		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV21
+GV22|SEQ00110	clust_0179	VBIGarVag276801_0110	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969609	142794	146081	+	3288		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV22
+GV23|SEQ00205	clust_0179	VBIGarVag276017_0205	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972714	23087	26383	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV23
+GV24|SEQ00962	clust_0179	VBIGarVag268944_0963	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977151	29568	32855	-	3288		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV24
+GV25|SEQ00770	clust_0179	VBIGarVag270495_0770	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979511	86140	89436	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV25
+GV26|SEQ01014	clust_0179	VBIGarVag272749_1014	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982908	23058	26390	+	3333		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV26
+GV27|SEQ01101	clust_0179	VBIGarVag276930_1101	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986062	31492	34839	-	3348		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV27
+GV28|SEQ00301	clust_0179	VBIGarVag271349_0301	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987269	82016	85312	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV28
+GV29|SEQ00915	clust_0179	VBIGarVag265473_0915	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991323	79472	82768	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV29
+GV30|SEQ01259	clust_0179	VBIGarVag267667_1261	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994791	14116	17421	+	3306		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV30
+GV31|SEQ00520	clust_0179	VBIGarVag264983_0520	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996110	26499	29795	-	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV31
+GV32|SEQ00314	clust_0179	VBIGarVag277040_0314	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998480	155610	158906	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV32
+GV33|SEQ00977	clust_0179	VBIGarVag265557_0977	Gardnerella vaginalis JCP8481A	ATJG01000114	PATRIC	CDS	184002796	11118	14498	-	3381		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV33
+GV34|SEQ00906	clust_0179	VBIGarVag270440_0906	Gardnerella vaginalis JCP8481B	ATJF01000099	PATRIC	CDS	184005466	11112	14492	-	3381		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV34
+GV35|SEQ00188	clust_0179	VBIGarVag272169_0188	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006659	92466	95762	+	3297		Glutamate-ammonia-ligase adenylyltransferase (EC 2.7.7.42)	GV35

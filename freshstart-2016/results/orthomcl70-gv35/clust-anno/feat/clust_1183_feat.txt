@@ -1,0 +1,14 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00568	clust_1183	VBIGarVag246433_0568	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481028	233203	234063	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV04
+GV06|SEQ01115	clust_1183	VBIGarVag244004_1115	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491056	84248	85108	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV06
+GV08|SEQ00227	clust_1183	VBIGarVag251521_0227	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474839	10962	11822	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV08
+GV09|SEQ00585	clust_1183	VBIGarVag169280_0585	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260359	344843	345703	-	861	morA	oxidoreductase of aldo/keto reductase family, subgroup 1	GV09
+GV11|SEQ01068	clust_1183	VBIGarVag171052_1068	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550526	4469	5329	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV11
+GV16|SEQ01236	clust_1183	VBIGarVag246379_1236	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479673	1458212	1459072	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV16
+GV18|SEQ00319	clust_1183	VBIGarVag4823_0319	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000084	PATRIC	CDS	42069351	8543	9403	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV18
+GV19|SEQ00374	clust_1183	VBIGarVag39333_0375	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627611	453589	454449	+	861	dkgB	oxidoreductase of aldo/keto reductase family, subgroup 1	GV19
+GV20|SEQ01143	clust_1183	VBIGarVag188338_1143	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191152	1432304	1433164	-	861	morA	oxidoreductase of aldo/keto reductase family, subgroup 1	GV20
+GV21|SEQ00550	clust_1183	VBIGarVag274454_0551	Gardnerella vaginalis JCP7275	ATJS01000028	PATRIC	CDS	183967777	14968	15828	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV21
+GV22|SEQ00715	clust_1183	VBIGarVag276801_0716	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970879	11002	11862	+	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV22
+GV24|SEQ00320	clust_1183	VBIGarVag268944_0321	Gardnerella vaginalis JCP7672	ATJP01000017	PATRIC	CDS	183975760	68	928	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV24
+GV30|SEQ00480	clust_1183	VBIGarVag267667_0481	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993053	12927	13787	-	861		oxidoreductase of aldo/keto reductase family, subgroup 1	GV30

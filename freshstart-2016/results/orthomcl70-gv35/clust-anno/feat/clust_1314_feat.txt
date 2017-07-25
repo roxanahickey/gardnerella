@@ -1,0 +1,11 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV02|SEQ01049	clust_1314	VBIGarVag242669_1049	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498954	5803	6504	-	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV02
+GV23|SEQ00017	clust_1314	VBIGarVag276017_0017	Gardnerella vaginalis JCP7659	ATJQ01000004	PATRIC	CDS	183972322	5483	6184	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV23
+GV25|SEQ01290	clust_1314	VBIGarVag270495_1290	Gardnerella vaginalis JCP7719	ATJO01000185	PATRIC	CDS	183980703	5497	6198	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV25
+GV26|SEQ00331	clust_1314	VBIGarVag272749_0331	Gardnerella vaginalis JCP8017A	ATJN01000020	PATRIC	CDS	183981437	5466	6167	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV26
+GV27|SEQ00191	clust_1314	VBIGarVag276930_0191	Gardnerella vaginalis JCP8017B	ATJM01000006	PATRIC	CDS	183984106	5464	6165	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV27
+GV28|SEQ00108	clust_1314	VBIGarVag271349_0108	Gardnerella vaginalis JCP8066	ATJL01000012	PATRIC	CDS	183986872	5419	6120	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV28
+GV29|SEQ00014	clust_1314	VBIGarVag265473_0014	Gardnerella vaginalis JCP8070	ATJK01000002	PATRIC	CDS	183989375	5564	6265	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV29
+GV31|SEQ00116	clust_1314	VBIGarVag264983_0116	Gardnerella vaginalis JCP8151A	ATJI01000006	PATRIC	CDS	183995264	5484	6185	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV31
+GV32|SEQ00351	clust_1314	VBIGarVag277040_0351	Gardnerella vaginalis JCP8151B	ATJH01000015	PATRIC	CDS	183998555	5484	6185	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV32
+GV35|SEQ00113	clust_1314	VBIGarVag272169_0113	Gardnerella vaginalis JCP8522	ATJE01000004	PATRIC	CDS	184006504	5412	6113	+	702		Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	GV35

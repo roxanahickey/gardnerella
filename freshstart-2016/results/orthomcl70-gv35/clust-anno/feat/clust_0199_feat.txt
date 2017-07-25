@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00443	clust_0199	VBIGarVag247323_0443	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495027	179643	180992	+	1350	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV01
+GV02|SEQ00923	clust_0199	VBIGarVag242669_0923	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498693	160316	161665	-	1350	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV02
+GV03|SEQ01034	clust_0199	VBIGarVag247424_1034	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501520	404927	406261	-	1335	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV03
+GV04|SEQ00967	clust_0199	VBIGarVag246433_0967	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481842	338257	339615	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV04
+GV05|SEQ01147	clust_0199	VBIGarVag174900_1147	Gardnerella vaginalis 101	AEJD01000033	PATRIC	CDS	52548134	11883	13217	-	1335		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV05
+GV06|SEQ01285	clust_0199	VBIGarVag244004_1285	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491401	149446	150804	-	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV06
+GV07|SEQ00254	clust_0199	VBIGarVag249177_0254	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492119	44192	45526	+	1335	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV07
+GV08|SEQ00909	clust_0199	VBIGarVag251521_0909	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476250	90636	91994	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV08
+GV09|SEQ00824	clust_0199	VBIGarVag169280_0824	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260851	208214	209572	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV09
+GV10|SEQ00885	clust_0199	VBIGarVag136958_0885	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147848	1147480	1148757	-	1278	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV10
+GV11|SEQ00132	clust_0199	VBIGarVag171052_0132	Gardnerella vaginalis 41V	AEJE01000007	PATRIC	CDS	52548535	13876	15225	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV11
+GV12|SEQ00295	clust_0199	VBIGarVag144721_0295	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853259	267585	268862	-	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV12
+GV13|SEQ00296	clust_0199	VBIGarVag244533_0296	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486540	113240	114331	-	1092	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV13
+GV14|SEQ01133	clust_0199	VBIGarVag244375_1133	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504183	229887	231164	-	1278	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV14
+GV15|SEQ00866	clust_0199	VBIGarVag249709_0866	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485304	7822	9099	-	1278	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV15
+GV16|SEQ00759	clust_0199	VBIGarVag246379_0759	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478675	853912	855270	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV16
+GV17|SEQ00707	clust_0199	VBIGarVag146634_0707	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851480	3983	5260	+	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV17
+GV18|SEQ01077	clust_0199	VBIGarVag4823_1077	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42070979	2053	3411	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV18
+GV19|SEQ00852	clust_0199	VBIGarVag39333_0853	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628607	1055246	1056604	-	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV19
+GV20|SEQ00695	clust_0199	VBIGarVag188338_0695	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190214	844757	846115	+	1359	proA	Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV20
+GV21|SEQ00058	clust_0199	VBIGarVag274454_0058	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966750	72289	73647	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV21
+GV22|SEQ00445	clust_0199	VBIGarVag276801_0446	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970317	81015	82373	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV22
+GV23|SEQ00643	clust_0199	VBIGarVag276017_0643	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973649	90564	91922	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV23
+GV24|SEQ00417	clust_0199	VBIGarVag268944_0418	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975962	88015	89364	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV24
+GV25|SEQ01077	clust_0199	VBIGarVag270495_1077	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980203	93406	94764	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV25
+GV26|SEQ00528	clust_0199	VBIGarVag272749_0528	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981846	77594	78952	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV26
+GV27|SEQ00409	clust_0199	VBIGarVag276930_0409	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984563	94614	95972	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV27
+GV28|SEQ00799	clust_0199	VBIGarVag271349_0799	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988357	90606	91964	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV28
+GV29|SEQ00119	clust_0199	VBIGarVag265473_0119	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989601	93916	95274	-	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV29
+GV30|SEQ00093	clust_0199	VBIGarVag267667_0093	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992227	87946	89295	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV30
+GV31|SEQ00291	clust_0199	VBIGarVag264983_0291	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995627	94618	95967	-	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV31
+GV32|SEQ01071	clust_0199	VBIGarVag277040_1071	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000184	56100	57449	+	1350		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV32
+GV33|SEQ00916	clust_0199	VBIGarVag265557_0916	Gardnerella vaginalis JCP8481A	ATJG01000102	PATRIC	CDS	184002660	8928	10205	+	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV33
+GV34|SEQ01102	clust_0199	VBIGarVag270440_1102	Gardnerella vaginalis JCP8481B	ATJF01000125	PATRIC	CDS	184005903	8928	10205	+	1278		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV34
+GV35|SEQ00030	clust_0199	VBIGarVag272169_0030	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006333	27609	28967	+	1359		Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	GV35

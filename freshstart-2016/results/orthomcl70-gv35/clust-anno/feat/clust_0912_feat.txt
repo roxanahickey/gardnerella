@@ -1,0 +1,30 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00697	clust_0912	VBIGarVag247323_0697	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495553	128187	129056	+	870		ABC-type transporter, permease component	GV01
+GV02|SEQ00181	clust_0912	VBIGarVag242669_0181	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497130	162867	163736	+	870		ABC-type transporter, permease component	GV02
+GV03|SEQ00096	clust_0912	VBIGarVag247424_0096	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499560	10639	11544	+	906		ABC-type transporter, permease component	GV03
+GV04|SEQ00291	clust_0912	VBIGarVag246433_0291	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480444	181867	182823	+	957		ABC-type transporter, permease component	GV04
+GV05|SEQ00198	clust_0912	VBIGarVag174900_0198	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546106	10649	11554	+	906		ABC-type transporter, permease component	GV05
+GV06|SEQ00430	clust_0912	VBIGarVag244004_0430	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489606	36181	37095	-	915		ABC-type transporter, permease component	GV06
+GV07|SEQ00165	clust_0912	VBIGarVag249177_0165	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491919	194959	195864	-	906		ABC-type transporter, permease component	GV07
+GV08|SEQ00949	clust_0912	VBIGarVag251521_0949	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476335	28522	29427	-	906		ABC-type transporter, permease component	GV08
+GV09|SEQ00153	clust_0912	VBIGarVag169280_0153	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259459	131219	132175	+	957		ABC-type transporter, permease component	GV09
+GV11|SEQ00444	clust_0912	VBIGarVag171052_0444	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549205	30639	31595	-	957		ABC-type transporter, permease component	GV11
+GV13|SEQ00046	clust_0912	VBIGarVag244533_0046	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486022	36510	37466	-	957		ABC-type transporter, permease component	GV13
+GV14|SEQ00662	clust_0912	VBIGarVag244375_0662	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503196	189102	190007	-	906		ABC-type transporter, permease component	GV14
+GV16|SEQ00117	clust_0912	VBIGarVag246379_0117	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477342	35183	36139	-	957		ABC-type transporter, permease component	GV16
+GV18|SEQ00255	clust_0912	VBIGarVag4823_0255	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000075	PATRIC	CDS	42069214	24	929	+	906		ABC-type transporter, permease component	GV18
+GV19|SEQ00170	clust_0912	VBIGarVag39333_0170	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627185	198653	199609	+	957		ABC-type transporter, permease component	GV19
+GV20|SEQ00051	clust_0912	VBIGarVag188338_0051	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188878	61555	62511	+	957		ABC-type transporter, permease component	GV20
+GV21|SEQ01063	clust_0912	VBIGarVag274454_1064	Gardnerella vaginalis JCP7275	ATJS01000124	PATRIC	CDS	183968959	3206	4162	-	957		ABC-type transporter, permease component	GV21
+GV22|SEQ00915	clust_0912	VBIGarVag276801_0916	Gardnerella vaginalis JCP7276	ATJR01000052	PATRIC	CDS	183971322	4635	5591	-	957		ABC-type transporter, permease component	GV22
+GV23|SEQ01100	clust_0912	VBIGarVag276017_1100	Gardnerella vaginalis JCP7659	ATJQ01000127	PATRIC	CDS	183974680	3922	4878	+	957		ABC-type transporter, permease component	GV23
+GV24|SEQ00097	clust_0912	VBIGarVag268944_0098	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975294	98661	99617	+	957		ABC-type transporter, permease component	GV24
+GV25|SEQ00111	clust_0912	VBIGarVag270495_0111	Gardnerella vaginalis JCP7719	ATJO01000007	PATRIC	CDS	183978091	29636	30592	+	957		ABC-type transporter, permease component	GV25
+GV26|SEQ00796	clust_0912	VBIGarVag272749_0796	Gardnerella vaginalis JCP8017A	ATJN01000043	PATRIC	CDS	183982420	2025	2981	+	957		ABC-type transporter, permease component	GV26
+GV27|SEQ00542	clust_0912	VBIGarVag276930_0542	Gardnerella vaginalis JCP8017B	ATJM01000018	PATRIC	CDS	183984842	2023	2979	+	957		ABC-type transporter, permease component	GV27
+GV28|SEQ01059	clust_0912	VBIGarVag271349_1059	Gardnerella vaginalis JCP8066	ATJL01000134	PATRIC	CDS	183988966	2028	2984	+	957		ABC-type transporter, permease component	GV28
+GV29|SEQ00005	clust_0912	VBIGarVag265473_0005	Gardnerella vaginalis JCP8070	ATJK01000001	PATRIC	CDS	183989356	5658	6614	-	957		ABC-type transporter, permease component	GV29
+GV30|SEQ00556	clust_0912	VBIGarVag267667_0557	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993216	10561	11517	-	957		ABC-type transporter, permease component	GV30
+GV31|SEQ01094	clust_0912	VBIGarVag264983_1094	Gardnerella vaginalis JCP8151A	ATJI01000105	PATRIC	CDS	183997387	9070	10026	-	957		ABC-type transporter, permease component	GV31
+GV32|SEQ01259	clust_0912	VBIGarVag277040_1259	Gardnerella vaginalis JCP8151B	ATJH01000171	PATRIC	CDS	184000606	10467	11423	-	957		ABC-type transporter, permease component	GV32
+GV35|SEQ00656	clust_0912	VBIGarVag272169_0656	Gardnerella vaginalis JCP8522	ATJE01000050	PATRIC	CDS	184007678	2081	2986	+	906		ABC-type transporter, permease component	GV35

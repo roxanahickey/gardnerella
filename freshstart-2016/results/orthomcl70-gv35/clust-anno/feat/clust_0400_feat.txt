@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00817	clust_0400	VBIGarVag247323_0817	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495801	29597	30520	-	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV01
+GV02|SEQ00046	clust_0400	VBIGarVag242669_0046	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496850	5705	6628	+	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV02
+GV03|SEQ00232	clust_0400	VBIGarVag247424_0232	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499845	183499	184488	-	990		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV03
+GV04|SEQ00150	clust_0400	VBIGarVag246433_0150	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480152	12916	13788	+	873		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV04
+GV05|SEQ00333	clust_0400	VBIGarVag174900_0333	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546389	181826	182815	-	990		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV05
+GV06|SEQ00220	clust_0400	VBIGarVag244004_0220	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489155	144601	145512	-	912		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV06
+GV07|SEQ00014	clust_0400	VBIGarVag249177_0014	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491605	14052	15041	+	990		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV07
+GV08|SEQ01093	clust_0400	VBIGarVag251521_1093	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476633	201952	202947	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV08
+GV09|SEQ00013	clust_0400	VBIGarVag169280_0013	Gardnerella vaginalis 315-A	AFDI01000002	PATRIC	CDS	55259167	13119	13991	+	873		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV09
+GV10|SEQ00126	clust_0400	VBIGarVag136958_0126	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146266	157529	158365	-	837		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV10
+GV11|SEQ00833	clust_0400	VBIGarVag171052_0833	Gardnerella vaginalis 41V	AEJE01000051	PATRIC	CDS	52550029	12205	13077	+	873		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV11
+GV12|SEQ00657	clust_0400	VBIGarVag144721_0657	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854011	181558	182547	-	990		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV12
+GV13|SEQ00182	clust_0400	VBIGarVag244533_0182	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486304	200245	201240	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV13
+GV14|SEQ00518	clust_0400	VBIGarVag244375_0518	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85502896	12668	13657	+	990		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV14
+GV15|SEQ00546	clust_0400	VBIGarVag249709_0546	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484630	292996	293982	+	987		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV15
+GV16|SEQ00253	clust_0400	VBIGarVag246379_0253	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477624	204591	205586	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV16
+GV17|SEQ00478	clust_0400	VBIGarVag146634_0478	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850991	479257	480243	+	987		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV17
+GV18|SEQ00971	clust_0400	VBIGarVag4823_0971	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000136	PATRIC	CDS	42070748	11713	12585	+	873		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV18
+GV19|SEQ00030	clust_0400	VBIGarVag39333_0030	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42626894	31993	32865	+	873		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV19
+GV20|SEQ01282	clust_0400	VBIGarVag188338_1282	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191440	1613673	1614545	+	873		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV20
+GV21|SEQ00141	clust_0400	VBIGarVag274454_0141	Gardnerella vaginalis JCP7275	ATJS01000007	PATRIC	CDS	183966922	30346	31341	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV21
+GV22|SEQ00678	clust_0400	VBIGarVag276801_0679	Gardnerella vaginalis JCP7276	ATJR01000026	PATRIC	CDS	183970800	8207	9202	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV22
+GV23|SEQ00494	clust_0400	VBIGarVag276017_0494	Gardnerella vaginalis JCP7659	ATJQ01000037	PATRIC	CDS	183973341	19200	20195	+	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV23
+GV24|SEQ00239	clust_0400	VBIGarVag268944_0240	Gardnerella vaginalis JCP7672	ATJP01000009	PATRIC	CDS	183975584	45789	46784	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV24
+GV25|SEQ00455	clust_0400	VBIGarVag270495_0455	Gardnerella vaginalis JCP7719	ATJO01000035	PATRIC	CDS	183978838	10333	11256	+	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV25
+GV26|SEQ00182	clust_0400	VBIGarVag272749_0182	Gardnerella vaginalis JCP8017A	ATJN01000008	PATRIC	CDS	183981115	19136	20131	+	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV26
+GV27|SEQ01031	clust_0400	VBIGarVag276930_1031	Gardnerella vaginalis JCP8017B	ATJM01000081	PATRIC	CDS	183985905	122	1117	-	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV27
+GV28|SEQ00395	clust_0400	VBIGarVag271349_0395	Gardnerella vaginalis JCP8066	ATJL01000021	PATRIC	CDS	183987471	19772	20767	+	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV28
+GV29|SEQ00533	clust_0400	VBIGarVag265473_0533	Gardnerella vaginalis JCP8070	ATJK01000027	PATRIC	CDS	183990481	1187	2110	-	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV29
+GV30|SEQ00879	clust_0400	VBIGarVag267667_0881	Gardnerella vaginalis JCP8108	ATJJ01000070	PATRIC	CDS	183993932	11981	12976	+	996		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV30
+GV31|SEQ00779	clust_0400	VBIGarVag264983_0779	Gardnerella vaginalis JCP8151A	ATJI01000042	PATRIC	CDS	183996676	10227	11150	+	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV31
+GV32|SEQ00621	clust_0400	VBIGarVag277040_0621	Gardnerella vaginalis JCP8151B	ATJH01000042	PATRIC	CDS	183999152	22649	23572	+	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV32
+GV33|SEQ00058	clust_0400	VBIGarVag265557_0058	Gardnerella vaginalis JCP8481A	ATJG01000005	PATRIC	CDS	184000775	39484	40467	-	984		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV33
+GV34|SEQ00051	clust_0400	VBIGarVag270440_0051	Gardnerella vaginalis JCP8481B	ATJF01000002	PATRIC	CDS	184003591	39485	40468	-	984		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV34
+GV35|SEQ00396	clust_0400	VBIGarVag272169_0396	Gardnerella vaginalis JCP8522	ATJE01000020	PATRIC	CDS	184007100	4157	5080	-	924		possible secreted peptidyl-prolyl cis-trans isomerase protein	GV35

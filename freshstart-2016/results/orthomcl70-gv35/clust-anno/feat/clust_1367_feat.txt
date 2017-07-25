@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00567	clust_1367	VBIGarVag247323_0567	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495280	319766	320098	-	333		hypothetical protein	GV01
+GV03|SEQ00998	clust_1367	VBIGarVag247424_0998	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501442	358908	359240	-	333		hypothetical protein	GV03
+GV10|SEQ00816	clust_1367	VBIGarVag136958_0816	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147704	1060229	1060366	-	138		hypothetical protein	GV10
+GV12|SEQ00260	clust_1367	VBIGarVag144721_0260	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853183	219648	219785	-	138		hypothetical protein	GV12
+GV15|SEQ00162	clust_1367	VBIGarVag249709_0162	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483815	91408	91740	-	333		hypothetical protein	GV15
+GV17|SEQ00741	clust_1367	VBIGarVag146634_0741	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851554	52499	52831	+	333		hypothetical protein	GV17
+GV18|SEQ01137	clust_1367	VBIGarVag4823_1137	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071104	25791	26114	+	324		hypothetical protein	GV18
+GV23|SEQ00207	clust_1367	VBIGarVag276017_0207	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972718	26712	27038	+	327		hypothetical protein	GV23

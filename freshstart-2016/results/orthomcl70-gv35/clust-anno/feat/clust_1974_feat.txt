@@ -1,0 +1,3 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV16|SEQ00128	clust_1974	VBIGarVag246379_0128	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477364	49584	50333	-	750		ABC transporter ATP-binding protein	GV16
+GV20|SEQ00039	clust_1974	VBIGarVag188338_0039	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188854	47353	48102	+	750		ABC transporter ATP-binding protein	GV20

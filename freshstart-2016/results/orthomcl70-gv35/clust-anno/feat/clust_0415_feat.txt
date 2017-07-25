@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00844	clust_0415	VBIGarVag247323_0844	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495857	60385	61686	+	1302		possible permease protein of ABC transporter system	GV01
+GV02|SEQ01216	clust_0415	VBIGarVag242669_1216	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499309	202774	204051	-	1278		possible permease protein of ABC transporter system	GV02
+GV03|SEQ00254	clust_0415	VBIGarVag247424_0254	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499891	206687	207982	+	1296		possible permease protein of ABC transporter system	GV03
+GV04|SEQ00094	clust_0415	VBIGarVag246433_0094	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480036	98710	99999	-	1290		possible permease protein of ABC transporter system	GV04
+GV05|SEQ00355	clust_0415	VBIGarVag174900_0355	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546435	205081	206376	+	1296		possible permease protein of ABC transporter system	GV05
+GV06|SEQ00644	clust_0415	VBIGarVag244004_0644	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490069	92747	94036	-	1290		possible permease protein of ABC transporter system	GV06
+GV07|SEQ01184	clust_0415	VBIGarVag249177_1184	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494069	89596	90879	-	1284		possible permease protein of ABC transporter system	GV07
+GV08|SEQ01129	clust_0415	VBIGarVag251521_1129	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476707	236237	237526	+	1290		possible permease protein of ABC transporter system	GV08
+GV09|SEQ01163	clust_0415	VBIGarVag169280_1163	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261555	27374	28663	+	1290		possible permease protein of ABC transporter system	GV09
+GV10|SEQ00152	clust_0415	VBIGarVag136958_0152	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146320	186368	187645	+	1278		possible permease protein of ABC transporter system	GV10
+GV11|SEQ01196	clust_0415	VBIGarVag171052_1196	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550801	69564	70853	-	1290		possible permease protein of ABC transporter system	GV11
+GV12|SEQ00688	clust_0415	VBIGarVag144721_0688	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854075	222275	223642	+	1368		possible permease protein of ABC transporter system	GV12
+GV13|SEQ01027	clust_0415	VBIGarVag244533_1027	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488071	16317	17558	+	1242		possible permease protein of ABC transporter system	GV13
+GV14|SEQ00198	clust_0415	VBIGarVag244375_0198	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502230	198343	199638	-	1296		possible permease protein of ABC transporter system	GV14
+GV15|SEQ00521	clust_0415	VBIGarVag249709_0521	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484578	268721	270040	-	1320		possible permease protein of ABC transporter system	GV15
+GV16|SEQ00282	clust_0415	VBIGarVag246379_0282	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477684	240359	241648	+	1290		possible permease protein of ABC transporter system	GV16
+GV17|SEQ00447	clust_0415	VBIGarVag146634_0447	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850927	443822	445141	-	1320		possible permease protein of ABC transporter system	GV17
+GV18|SEQ00694	clust_0415	VBIGarVag4823_0694	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	42070160	16297	17586	+	1290		possible permease protein of ABC transporter system	GV18
+GV19|SEQ01330	clust_0415	VBIGarVag39333_1333	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629597	1652137	1653426	-	1290		possible permease protein of ABC transporter system	GV19
+GV20|SEQ00165	clust_0415	VBIGarVag188338_0165	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189116	194500	195789	+	1290		possible permease protein of ABC transporter system	GV20
+GV21|SEQ00872	clust_0415	VBIGarVag274454_0873	Gardnerella vaginalis JCP7275	ATJS01000062	PATRIC	CDS	183968489	1968	3149	-	1182		possible permease protein of ABC transporter system	GV21
+GV22|SEQ00885	clust_0415	VBIGarVag276801_0886	Gardnerella vaginalis JCP7276	ATJR01000048	PATRIC	CDS	183971258	227	1516	+	1290		possible permease protein of ABC transporter system	GV22
+GV23|SEQ00354	clust_0415	VBIGarVag276017_0354	Gardnerella vaginalis JCP7659	ATJQ01000025	PATRIC	CDS	183973035	260	1561	+	1302		possible permease protein of ABC transporter system	GV23
+GV24|SEQ00832	clust_0415	VBIGarVag268944_0833	Gardnerella vaginalis JCP7672	ATJP01000073	PATRIC	CDS	183976872	1976	3265	-	1290		possible permease protein of ABC transporter system	GV24
+GV25|SEQ00351	clust_0415	VBIGarVag270495_0351	Gardnerella vaginalis JCP7719	ATJO01000021	PATRIC	CDS	183978604	17811	19124	-	1314		possible permease protein of ABC transporter system	GV25
+GV26|SEQ00646	clust_0415	VBIGarVag272749_0646	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982089	267	1568	+	1302		possible permease protein of ABC transporter system	GV26
+GV27|SEQ00881	clust_0415	VBIGarVag276930_0881	Gardnerella vaginalis JCP8017B	ATJM01000044	PATRIC	CDS	183985562	4957	6258	-	1302		possible permease protein of ABC transporter system	GV27
+GV28|SEQ00213	clust_0415	VBIGarVag271349_0213	Gardnerella vaginalis JCP8066	ATJL01000016	PATRIC	CDS	183987088	237	1526	+	1290		possible permease protein of ABC transporter system	GV28
+GV29|SEQ00468	clust_0415	VBIGarVag265473_0468	Gardnerella vaginalis JCP8070	ATJK01000023	PATRIC	CDS	183990347	230	1519	+	1290		possible permease protein of ABC transporter system	GV29
+GV30|SEQ00312	clust_0415	VBIGarVag267667_0313	Gardnerella vaginalis JCP8108	ATJJ01000010	PATRIC	CDS	183992683	28879	30144	-	1266		possible permease protein of ABC transporter system	GV30
+GV31|SEQ00800	clust_0415	VBIGarVag264983_0800	Gardnerella vaginalis JCP8151A	ATJI01000046	PATRIC	CDS	183996722	5178	6467	-	1290		possible permease protein of ABC transporter system	GV31
+GV32|SEQ00545	clust_0415	VBIGarVag277040_0545	Gardnerella vaginalis JCP8151B	ATJH01000034	PATRIC	CDS	183998990	5179	6468	-	1290		possible permease protein of ABC transporter system	GV32
+GV33|SEQ00559	clust_0415	VBIGarVag265557_0559	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001862	11670	12965	+	1296		possible permease protein of ABC transporter system	GV33
+GV34|SEQ00407	clust_0415	VBIGarVag270440_0407	Gardnerella vaginalis JCP8481B	ATJF01000027	PATRIC	CDS	184004372	8976	10271	-	1296		possible permease protein of ABC transporter system	GV34
+GV35|SEQ00515	clust_0415	VBIGarVag272169_0515	Gardnerella vaginalis JCP8522	ATJE01000031	PATRIC	CDS	184007357	5944	7221	-	1278		possible permease protein of ABC transporter system	GV35

@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01210	clust_0693	VBIGarVag247323_1210	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496622	232711	233199	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV01
+GV02|SEQ00242	clust_0693	VBIGarVag242669_0242	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497259	31528	32016	-	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV02
+GV03|SEQ00827	clust_0693	VBIGarVag247424_0827	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501087	143687	144166	+	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV03
+GV04|SEQ01147	clust_0693	VBIGarVag246433_1147	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482221	60597	61094	-	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV04
+GV05|SEQ00870	clust_0693	VBIGarVag174900_0870	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547508	553941	554342	+	402		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV05
+GV06|SEQ00907	clust_0693	VBIGarVag244004_0907	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490619	291072	291569	+	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV06
+GV07|SEQ00631	clust_0693	VBIGarVag249177_0631	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492913	144771	145250	+	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV07
+GV08|SEQ00463	clust_0693	VBIGarVag251521_0463	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475332	332590	333087	+	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV08
+GV09|SEQ01129	clust_0693	VBIGarVag169280_1129	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261484	60683	61180	-	498	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV09
+GV10|SEQ00619	clust_0693	VBIGarVag136958_0619	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147298	796339	796818	+	480	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV10
+GV11|SEQ00528	clust_0693	VBIGarVag171052_0528	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549384	6201	6698	+	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV11
+GV12|SEQ01260	clust_0693	VBIGarVag144721_1260	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855352	147617	148096	+	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV12
+GV13|SEQ00693	clust_0693	VBIGarVag244533_0693	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487370	130358	130855	-	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV13
+GV14|SEQ00344	clust_0693	VBIGarVag244375_0344	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502532	184294	184773	+	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV14
+GV15|SEQ00679	clust_0693	VBIGarVag249709_0679	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484905	143197	143676	+	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV15
+GV16|SEQ00995	clust_0693	VBIGarVag246379_0995	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479168	1137405	1137902	-	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV16
+GV17|SEQ00931	clust_0693	VBIGarVag146634_0931	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851948	50480	50959	-	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV17
+GV18|SEQ00140	clust_0693	VBIGarVag4823_0140	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000057	PATRIC	CDS	42068961	2667	3164	+	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV18
+GV19|SEQ00620	clust_0693	VBIGarVag39333_0621	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628124	775481	775978	+	498	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV19
+GV20|SEQ00906	clust_0693	VBIGarVag188338_0906	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190657	1109911	1110408	-	498	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV20
+GV21|SEQ00515	clust_0693	VBIGarVag274454_0516	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967703	75642	76139	-	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV21
+GV22|SEQ00005	clust_0693	VBIGarVag276801_0005	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969384	6029	6526	+	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV22
+GV23|SEQ00796	clust_0693	VBIGarVag276017_0796	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973989	7846	8334	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV23
+GV24|SEQ00303	clust_0693	VBIGarVag268944_0304	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975724	36121	36618	-	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV24
+GV25|SEQ00682	clust_0693	VBIGarVag270495_0682	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979328	12743	13231	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV25
+GV26|SEQ00407	clust_0693	VBIGarVag272749_0407	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981598	20367	20855	-	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV26
+GV27|SEQ00659	clust_0693	VBIGarVag276930_0659	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985093	18532	19020	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV27
+GV28|SEQ00145	clust_0693	VBIGarVag271349_0145	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986949	26893	27381	-	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV28
+GV29|SEQ00340	clust_0693	VBIGarVag265473_0340	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990069	21073	21561	-	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV29
+GV30|SEQ00343	clust_0693	VBIGarVag267667_0344	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992748	6042	6539	+	498		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV30
+GV31|SEQ00596	clust_0693	VBIGarVag264983_0596	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996273	7829	8317	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV31
+GV32|SEQ00225	clust_0693	VBIGarVag277040_0225	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998296	40292	40780	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV32
+GV33|SEQ00288	clust_0693	VBIGarVag265557_0288	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001278	31404	31883	-	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV33
+GV34|SEQ00788	clust_0693	VBIGarVag270440_0788	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005206	54358	54837	+	480		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV34
+GV35|SEQ00364	clust_0693	VBIGarVag272169_0364	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007031	19556	20044	+	489		Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	GV35

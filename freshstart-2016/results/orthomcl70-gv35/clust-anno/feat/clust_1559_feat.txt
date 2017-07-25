@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV11|SEQ00105	clust_1559	VBIGarVag171052_0105	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548478	8187	8900	+	714		TetR family transcriptional regulator	GV11
+GV13|SEQ00208	clust_1559	VBIGarVag244533_0208	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486359	11850	12563	-	714		TetR family transcriptional regulator	GV13
+GV17|SEQ00136	clust_1559	VBIGarVag146634_0136	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850269	72506	73219	+	714		TetR family transcriptional regulator	GV17
+GV23|SEQ00177	clust_1559	VBIGarVag276017_0177	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972655	32892	33605	+	714		TetR family transcriptional regulator	GV23
+GV25|SEQ00076	clust_1559	VBIGarVag270495_0076	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183978011	46465	47178	+	714		TetR family transcriptional regulator	GV25
+GV30|SEQ01325	clust_1559	VBIGarVag267667_1327	Gardnerella vaginalis JCP8108	ATJJ01000165	PATRIC	CDS	183994946	6624	7337	-	714		TetR family transcriptional regulator	GV30

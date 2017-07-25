@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00172	clust_0644	VBIGarVag247323_0172	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494451	38776	40338	-	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV01
+GV02|SEQ00445	clust_0644	VBIGarVag242669_0445	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497679	28960	30522	-	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV02
+GV03|SEQ00755	clust_0644	VBIGarVag247424_0755	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500939	36591	38153	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV03
+GV04|SEQ01294	clust_0644	VBIGarVag246433_1294	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482528	42905	44467	-	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV04
+GV05|SEQ00807	clust_0644	VBIGarVag174900_0807	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547378	463323	464885	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV05
+GV06|SEQ00863	clust_0644	VBIGarVag244004_0863	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490531	228807	230369	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV06
+GV07|SEQ00567	clust_0644	VBIGarVag249177_0567	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492781	46719	48281	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV07
+GV08|SEQ00423	clust_0644	VBIGarVag251521_0423	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475252	276529	278091	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV08
+GV09|SEQ00386	clust_0644	VBIGarVag169280_0386	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259939	78311	79873	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV09
+GV10|SEQ00553	clust_0644	VBIGarVag136958_0553	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147162	697516	699078	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV10
+GV11|SEQ01286	clust_0644	VBIGarVag171052_1286	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551000	50889	52451	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV11
+GV12|SEQ01181	clust_0644	VBIGarVag144721_1181	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855190	35947	37509	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV12
+GV13|SEQ00732	clust_0644	VBIGarVag244533_0732	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487449	184168	185730	-	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV13
+GV14|SEQ00270	clust_0644	VBIGarVag244375_0270	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502380	84906	86468	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV14
+GV15|SEQ00612	clust_0644	VBIGarVag249709_0612	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484767	43331	44893	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV15
+GV16|SEQ01037	clust_0644	VBIGarVag246379_1037	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479253	1195301	1196863	-	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV16
+GV17|SEQ00997	clust_0644	VBIGarVag146634_0997	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852084	143507	145069	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV17
+GV18|SEQ01175	clust_0644	VBIGarVag4823_1175	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071185	27039	28091	+	1053		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV18
+GV19|SEQ00574	clust_0644	VBIGarVag39333_0575	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628031	716223	717785	+	1563	guaA	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV19
+GV20|SEQ00948	clust_0644	VBIGarVag188338_0948	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190741	1167979	1169541	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV20
+GV21|SEQ00833	clust_0644	VBIGarVag274454_0834	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968401	30174	31736	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV21
+GV22|SEQ00923	clust_0644	VBIGarVag276801_0924	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971339	5951	7513	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV22
+GV23|SEQ00883	clust_0644	VBIGarVag276017_0883	Gardnerella vaginalis JCP7659	ATJQ01000075	PATRIC	CDS	183974184	2526	4088	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV23
+GV24|SEQ00754	clust_0644	VBIGarVag268944_0755	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976701	2287	3849	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV24
+GV25|SEQ00940	clust_0644	VBIGarVag270495_0940	Gardnerella vaginalis JCP7719	ATJO01000098	PATRIC	CDS	183979898	2299	3861	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV25
+GV26|SEQ00096	clust_0644	VBIGarVag272749_0096	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980927	30093	31655	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV26
+GV27|SEQ00047	clust_0644	VBIGarVag276930_0047	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983805	30531	32093	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV27
+GV28|SEQ00485	clust_0644	VBIGarVag271349_0485	Gardnerella vaginalis JCP8066	ATJL01000029	PATRIC	CDS	183987667	502	2064	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV28
+GV29|SEQ01046	clust_0644	VBIGarVag265473_1046	Gardnerella vaginalis JCP8070	ATJK01000105	PATRIC	CDS	183991621	6380	7942	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV29
+GV30|SEQ01014	clust_0644	VBIGarVag267667_1016	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994232	923	2485	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV30
+GV31|SEQ00090	clust_0644	VBIGarVag264983_0090	Gardnerella vaginalis JCP8151A	ATJI01000003	PATRIC	CDS	183995207	29929	31491	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV31
+GV32|SEQ00005	clust_0644	VBIGarVag277040_0005	Gardnerella vaginalis JCP8151B	ATJH01000002	PATRIC	CDS	183997831	2438	4000	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV32
+GV33|SEQ00743	clust_0644	VBIGarVag265557_0743	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002262	33562	35124	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV33
+GV34|SEQ00684	clust_0644	VBIGarVag270440_0684	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184004983	33562	35124	+	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV34
+GV35|SEQ00679	clust_0644	VBIGarVag272169_0679	Gardnerella vaginalis JCP8522	ATJE01000056	PATRIC	CDS	184007730	3808	5370	-	1563		GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)	GV35

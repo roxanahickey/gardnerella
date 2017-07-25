@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV12|SEQ01021	clust_1378	VBIGarVag144721_1021	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854777	609150	609425	+	276		YafQ toxin protein	GV12
+GV23|SEQ00371	clust_1378	VBIGarVag276017_0371	Gardnerella vaginalis JCP7659	ATJQ01000025	PATRIC	CDS	183973069	16173	16448	+	276		hypothetical protein	GV23
+GV25|SEQ00330	clust_1378	VBIGarVag270495_0330	Gardnerella vaginalis JCP7719	ATJO01000021	PATRIC	CDS	183978562	2891	3166	-	276		hypothetical protein	GV25
+GV29|SEQ01168	clust_1378	VBIGarVag265473_1168	Gardnerella vaginalis JCP8070	ATJK01000155	PATRIC	CDS	183991931	5479	5754	+	276		YafQ toxin protein	GV29
+GV31|SEQ00948	clust_1378	VBIGarVag264983_0948	Gardnerella vaginalis JCP8151A	ATJI01000069	PATRIC	CDS	183997043	1930	2205	+	276		addiction module toxin, RelE/StbE family	GV31
+GV32|SEQ00657	clust_1378	VBIGarVag277040_0657	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999227	1930	2205	+	276		hypothetical protein	GV32
+GV33|SEQ00570	clust_1378	VBIGarVag265557_0570	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001884	22013	22288	-	276		hypothetical protein	GV33
+GV34|SEQ00396	clust_1378	VBIGarVag270440_0396	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004349	46348	46623	+	276		hypothetical protein	GV34

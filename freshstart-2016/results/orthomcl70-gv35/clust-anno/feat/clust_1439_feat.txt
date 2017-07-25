@@ -1,0 +1,8 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00774	clust_1439	VBIGarVag247323_0774	Gardnerella vaginalis 00703Bmash	ADET01000009	PATRIC	CDS	85495712	572	1561	-	990		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV01
+GV02|SEQ00996	clust_1439	VBIGarVag242669_0996	Gardnerella vaginalis 00703C2mash	ADEU01000019	PATRIC	CDS	85498844	471	1457	-	987		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV02
+GV13|SEQ01163	clust_1439	VBIGarVag244533_1163	Gardnerella vaginalis 55152	ADEQ01000022	PATRIC	CDS	85488376	538	1524	-	987		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV13
+GV23|SEQ00421	clust_1439	VBIGarVag276017_0421	Gardnerella vaginalis JCP7659	ATJQ01000029	PATRIC	CDS	183973177	582	1571	-	990		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV23
+GV25|SEQ00844	clust_1439	VBIGarVag270495_0844	Gardnerella vaginalis JCP7719	ATJO01000068	PATRIC	CDS	183979663	29754	30740	-	987		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV25
+GV26|SEQ00259	clust_1439	VBIGarVag272749_0259	Gardnerella vaginalis JCP8017A	ATJN01000012	PATRIC	CDS	183981281	17641	18630	+	990		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV26
+GV27|SEQ00811	clust_1439	VBIGarVag276930_0811	Gardnerella vaginalis JCP8017B	ATJM01000041	PATRIC	CDS	183985419	123	1112	+	990		Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)	GV27

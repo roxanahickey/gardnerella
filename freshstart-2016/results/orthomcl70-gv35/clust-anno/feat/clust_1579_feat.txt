@@ -1,0 +1,6 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ00240	clust_1579	VBIGarVag136958_0240	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146510	288466	288732	+	267		SSU ribosomal protein S17p (S11e)	GV10
+GV12|SEQ00780	clust_1579	VBIGarVag144721_0780	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854273	325671	325937	+	267		SSU ribosomal protein S17p (S11e)	GV12
+GV17|SEQ00348	clust_1579	VBIGarVag146634_0348	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850715	332103	332369	-	267		SSU ribosomal protein S17p (S11e)	GV17
+GV18|SEQ00858	clust_1579	VBIGarVag4823_0858	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000131	PATRIC	CDS	42070515	11646	11912	-	267	rpsQ	SSU ribosomal protein S17p (S11e)	GV18
+GV19|SEQ01255	clust_1579	VBIGarVag39333_1257	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629435	1569439	1569705	-	267	rpsQ3	SSU ribosomal protein S17p (S11e)	GV19

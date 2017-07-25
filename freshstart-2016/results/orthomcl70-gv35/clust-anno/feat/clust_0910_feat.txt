@@ -1,0 +1,30 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01036	clust_0910	VBIGarVag247323_1036	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496270	30920	32074	+	1155		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV01
+GV02|SEQ00407	clust_0910	VBIGarVag242669_0407	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497593	220995	222149	-	1155		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV02
+GV03|SEQ00504	clust_0910	VBIGarVag247424_0504	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500415	55695	56822	+	1128		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV03
+GV04|SEQ00699	clust_0910	VBIGarVag246433_0699	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481294	25150	26289	+	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV04
+GV05|SEQ00527	clust_0910	VBIGarVag174900_0527	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546798	117038	118207	+	1170		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV05
+GV06|SEQ00994	clust_0910	VBIGarVag244004_0994	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490801	23129	24268	+	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV06
+GV07|SEQ00885	clust_0910	VBIGarVag249177_0885	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493441	162464	163588	-	1125		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV07
+GV08|SEQ00836	clust_0910	VBIGarVag251521_0836	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476101	201689	202828	-	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV08
+GV09|SEQ00282	clust_0910	VBIGarVag169280_0282	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259730	110665	111804	-	1140	mvaD	Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV09
+GV10|SEQ00292	clust_0910	VBIGarVag136958_0292	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146616	339691	340788	+	1098	mvaD	Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV10
+GV11|SEQ01003	clust_0910	VBIGarVag171052_1003	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550387	22482	22796	-	315		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV11
+GV12|SEQ00835	clust_0910	VBIGarVag144721_0835	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854385	376676	377773	+	1098		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV12
+GV13|SEQ00485	clust_0910	VBIGarVag244533_0485	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486933	79649	80788	-	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV13
+GV14|SEQ00812	clust_0910	VBIGarVag244375_0812	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503513	1884	3026	+	1143		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV14
+GV15|SEQ00377	clust_0910	VBIGarVag249709_0377	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484273	110059	111156	-	1098		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV15
+GV16|SEQ00474	clust_0910	VBIGarVag246379_0474	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478092	512283	513422	+	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV16
+GV17|SEQ00299	clust_0910	VBIGarVag146634_0299	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850615	282384	283481	-	1098		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV17
+GV18|SEQ01246	clust_0910	VBIGarVag4823_1246	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071333	17362	18501	+	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV18
+GV19|SEQ01132	clust_0910	VBIGarVag39333_1134	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629177	1377837	1378976	-	1140	mvd	Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV19
+GV20|SEQ00376	clust_0910	VBIGarVag188338_0376	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189563	477778	478917	+	1140	mvaD	Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV20
+GV21|SEQ01192	clust_0910	VBIGarVag274454_1193	Gardnerella vaginalis JCP7275	ATJS01000173	PATRIC	CDS	183969268	1143	2282	-	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV21
+GV24|SEQ01039	clust_0910	VBIGarVag268944_1040	Gardnerella vaginalis JCP7672	ATJP01000093	PATRIC	CDS	183977328	1710	2849	-	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV24
+GV26|SEQ01318	clust_0910	VBIGarVag272749_1318	Gardnerella vaginalis JCP8017A	ATJN01000173	PATRIC	CDS	183983631	1475	2629	+	1155		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV26
+GV27|SEQ01295	clust_0910	VBIGarVag276930_1295	Gardnerella vaginalis JCP8017B	ATJM01000159	PATRIC	CDS	183986524	9	125	+	117		hypothetical protein	GV27
+GV29|SEQ01133	clust_0910	VBIGarVag265473_1133	Gardnerella vaginalis JCP8070	ATJK01000124	PATRIC	CDS	183991828	89	730	+	642		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV29
+GV30|SEQ01180	clust_0910	VBIGarVag267667_1182	Gardnerella vaginalis JCP8108	ATJJ01000127	PATRIC	CDS	183994607	1727	2866	+	1140		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV30
+GV32|SEQ01261	clust_0910	VBIGarVag277040_1261	Gardnerella vaginalis JCP8151B	ATJH01000173	PATRIC	CDS	184000612	4	120	+	117		hypothetical protein	GV32
+GV33|SEQ00521	clust_0910	VBIGarVag265557_0521	Gardnerella vaginalis JCP8481A	ATJG01000047	PATRIC	CDS	184001780	577	1677	+	1101		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV33
+GV34|SEQ00939	clust_0910	VBIGarVag270440_0939	Gardnerella vaginalis JCP8481B	ATJF01000107	PATRIC	CDS	184005542	2900	4000	-	1101		Diphosphomevalonate decarboxylase (EC 4.1.1.33)	GV34

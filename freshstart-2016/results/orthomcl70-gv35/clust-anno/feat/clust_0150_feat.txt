@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01215	clust_0150	VBIGarVag247323_1215	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496632	237889	238737	-	849		Methionine ABC transporter substrate-binding protein	GV01
+GV02|SEQ00237	clust_0150	VBIGarVag242669_0237	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497249	25968	26816	+	849		Methionine ABC transporter substrate-binding protein	GV02
+GV03|SEQ00955	clust_0150	VBIGarVag247424_0955	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501356	302353	303186	+	834		Methionine ABC transporter substrate-binding protein	GV03
+GV04|SEQ01141	clust_0150	VBIGarVag246433_1141	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482209	51922	52770	+	849		Methionine ABC transporter substrate-binding protein	GV04
+GV05|SEQ01002	clust_0150	VBIGarVag174900_1002	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547785	715293	716126	+	834		Methionine ABC transporter substrate-binding protein	GV05
+GV06|SEQ00913	clust_0150	VBIGarVag244004_0913	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490631	299386	300234	-	849		Methionine ABC transporter substrate-binding protein	GV06
+GV07|SEQ00328	clust_0150	VBIGarVag249177_0328	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492273	147763	148596	-	834		Methionine ABC transporter substrate-binding protein	GV07
+GV08|SEQ00469	clust_0150	VBIGarVag251521_0469	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475344	340914	341762	-	849		Methionine ABC transporter substrate-binding protein	GV08
+GV09|SEQ01123	clust_0150	VBIGarVag169280_1123	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261472	52009	52857	+	849		Methionine ABC transporter substrate-binding protein	GV09
+GV10|SEQ00777	clust_0150	VBIGarVag136958_0777	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147626	1009904	1010737	+	834		Methionine ABC transporter substrate-binding protein	GV10
+GV11|SEQ00534	clust_0150	VBIGarVag171052_0534	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549396	14514	15362	-	849		Methionine ABC transporter substrate-binding protein	GV11
+GV12|SEQ00218	clust_0150	VBIGarVag144721_0218	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853099	168249	169082	+	834		Methionine ABC transporter substrate-binding protein	GV12
+GV13|SEQ00686	clust_0150	VBIGarVag244533_0686	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487355	121692	122540	+	849		Methionine ABC transporter substrate-binding protein	GV13
+GV14|SEQ01059	clust_0150	VBIGarVag244375_1059	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504029	128347	129180	+	834		Methionine ABC transporter substrate-binding protein	GV14
+GV15|SEQ00123	clust_0150	VBIGarVag249709_0123	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483737	39591	40424	+	834		Methionine ABC transporter substrate-binding protein	GV15
+GV16|SEQ00989	clust_0150	VBIGarVag246379_0989	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479156	1128730	1129578	+	849		Methionine ABC transporter substrate-binding protein	GV16
+GV17|SEQ00780	clust_0150	VBIGarVag146634_0780	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851632	104019	104852	-	834		Methionine ABC transporter substrate-binding protein	GV17
+GV18|SEQ00134	clust_0150	VBIGarVag4823_0134	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000056	PATRIC	CDS	42068948	2	454	-	453		Methionine ABC transporter substrate-binding protein	GV18
+GV19|SEQ00626	clust_0150	VBIGarVag39333_0627	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628136	783805	784653	-	849		Methionine ABC transporter substrate-binding protein	GV19
+GV20|SEQ00900	clust_0150	VBIGarVag188338_0900	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190645	1101252	1102100	+	849		Methionine ABC transporter substrate-binding protein	GV20
+GV21|SEQ00509	clust_0150	VBIGarVag274454_0510	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967691	66984	67832	+	849		Methionine ABC transporter substrate-binding protein	GV21
+GV22|SEQ00011	clust_0150	VBIGarVag276801_0011	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969396	14354	15202	-	849		Methionine ABC transporter substrate-binding protein	GV22
+GV23|SEQ00801	clust_0150	VBIGarVag276017_0801	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973999	13023	13871	-	849		Methionine ABC transporter substrate-binding protein	GV23
+GV24|SEQ00297	clust_0150	VBIGarVag268944_0298	Gardnerella vaginalis JCP7672	ATJP01000015	PATRIC	CDS	183975712	27446	28294	+	849		Methionine ABC transporter substrate-binding protein	GV24
+GV25|SEQ00687	clust_0150	VBIGarVag270495_0687	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979338	17921	18769	-	849		Methionine ABC transporter substrate-binding protein	GV25
+GV26|SEQ00402	clust_0150	VBIGarVag272749_0402	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981588	14826	15674	+	849		Methionine ABC transporter substrate-binding protein	GV26
+GV27|SEQ00664	clust_0150	VBIGarVag276930_0664	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985103	23713	24561	-	849		Methionine ABC transporter substrate-binding protein	GV27
+GV28|SEQ00140	clust_0150	VBIGarVag271349_0140	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986939	21330	22178	+	849		Methionine ABC transporter substrate-binding protein	GV28
+GV29|SEQ00335	clust_0150	VBIGarVag265473_0335	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990059	15531	16379	+	849		Methionine ABC transporter substrate-binding protein	GV29
+GV30|SEQ00349	clust_0150	VBIGarVag267667_0350	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992760	14356	15204	-	849		Methionine ABC transporter substrate-binding protein	GV30
+GV31|SEQ00601	clust_0150	VBIGarVag264983_0601	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996283	13039	13887	-	849		Methionine ABC transporter substrate-binding protein	GV31
+GV32|SEQ00230	clust_0150	VBIGarVag277040_0230	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998306	45485	46333	-	849		Methionine ABC transporter substrate-binding protein	GV32
+GV33|SEQ00464	clust_0150	VBIGarVag265557_0464	Gardnerella vaginalis JCP8481A	ATJG01000043	PATRIC	CDS	184001659	6637	7473	-	837		Methionine ABC transporter substrate-binding protein	GV33
+GV34|SEQ00529	clust_0150	VBIGarVag270440_0529	Gardnerella vaginalis JCP8481B	ATJF01000047	PATRIC	CDS	184004644	6637	7473	-	837		Methionine ABC transporter substrate-binding protein	GV34
+GV35|SEQ00369	clust_0150	VBIGarVag272169_0369	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007041	24743	25591	-	849		Methionine ABC transporter substrate-binding protein	GV35

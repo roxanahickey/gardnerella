@@ -1,0 +1,27 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00695	clust_0950	VBIGarVag247323_0695	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495549	125398	126066	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV01
+GV02|SEQ00179	clust_0950	VBIGarVag242669_0179	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497126	160078	160746	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV02
+GV03|SEQ00094	clust_0950	VBIGarVag247424_0094	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499556	8044	8712	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV03
+GV04|SEQ00289	clust_0950	VBIGarVag246433_0289	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480440	179196	179864	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV04
+GV05|SEQ00196	clust_0950	VBIGarVag174900_0196	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546102	8054	8722	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV05
+GV06|SEQ00432	clust_0950	VBIGarVag244004_0432	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489610	39139	39807	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV06
+GV07|SEQ00167	clust_0950	VBIGarVag249177_0167	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491923	197791	198459	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV07
+GV08|SEQ00951	clust_0950	VBIGarVag251521_0951	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476339	31479	32147	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV08
+GV09|SEQ00151	clust_0950	VBIGarVag169280_0151	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259455	128548	129216	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV09
+GV11|SEQ00446	clust_0950	VBIGarVag171052_0446	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549209	33599	34267	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV11
+GV13|SEQ00048	clust_0950	VBIGarVag244533_0048	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486026	39471	40139	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV13
+GV14|SEQ00664	clust_0950	VBIGarVag244375_0664	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503200	191934	192602	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV14
+GV16|SEQ00119	clust_0950	VBIGarVag246379_0119	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477346	38143	38811	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV16
+GV18|SEQ00063	clust_0950	VBIGarVag4823_0063	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000037	PATRIC	CDS	42068787	263	931	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV18
+GV19|SEQ00168	clust_0950	VBIGarVag39333_0168	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627181	195982	196650	+	669	nanE	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV19
+GV20|SEQ00049	clust_0950	VBIGarVag188338_0049	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188874	58884	59552	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV20
+GV21|SEQ01065	clust_0950	VBIGarVag274454_1066	Gardnerella vaginalis JCP7275	ATJS01000124	PATRIC	CDS	183968963	6164	6832	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV21
+GV22|SEQ00917	clust_0950	VBIGarVag276801_0918	Gardnerella vaginalis JCP7276	ATJR01000052	PATRIC	CDS	183971326	7594	8262	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV22
+GV23|SEQ01098	clust_0950	VBIGarVag276017_1098	Gardnerella vaginalis JCP7659	ATJQ01000127	PATRIC	CDS	183974676	1219	1887	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV23
+GV24|SEQ00095	clust_0950	VBIGarVag268944_0096	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975290	95991	96659	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV24
+GV25|SEQ00109	clust_0950	VBIGarVag270495_0109	Gardnerella vaginalis JCP7719	ATJO01000007	PATRIC	CDS	183978087	26934	27602	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV25
+GV26|SEQ00794	clust_0950	VBIGarVag272749_0794	Gardnerella vaginalis JCP8017A	ATJN01000042	PATRIC	CDS	183982415	21154	21822	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV26
+GV27|SEQ00252	clust_0950	VBIGarVag276930_0252	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984233	34	702	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV27
+GV28|SEQ01057	clust_0950	VBIGarVag271349_1057	Gardnerella vaginalis JCP8066	ATJL01000133	PATRIC	CDS	183988961	130	798	+	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV28
+GV29|SEQ00007	clust_0950	VBIGarVag265473_0007	Gardnerella vaginalis JCP8070	ATJK01000001	PATRIC	CDS	183989360	8648	9316	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV29
+GV30|SEQ00558	clust_0950	VBIGarVag267667_0559	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993220	13521	14189	-	669		N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)	GV30

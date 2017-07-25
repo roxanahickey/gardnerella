@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV06|SEQ00396	clust_1384	VBIGarVag244004_0396	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489535	68639	69460	-	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV06
+GV09|SEQ01256	clust_1384	VBIGarVag169280_1256	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261755	119612	120385	+	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV09
+GV13|SEQ00405	clust_1384	VBIGarVag244533_0405	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486769	46401	47174	-	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV13
+GV16|SEQ00379	clust_1384	VBIGarVag246379_0379	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477892	342964	343785	+	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV16
+GV18|SEQ00248	clust_1384	VBIGarVag4823_0248	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069199	756	1529	+	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV18
+GV19|SEQ01230	clust_1384	VBIGarVag39333_1232	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629383	1552679	1553452	-	774		N-Acetyl-D-glucosamine ABC transport system, permease protein 2	GV19
+GV20|SEQ00264	clust_1384	VBIGarVag188338_0264	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189329	298166	298987	+	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV20
+GV30|SEQ00018	clust_1384	VBIGarVag267667_0018	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992072	22293	23114	-	822		Maltose/maltodextrin ABC transporter, permease protein MalG	GV30

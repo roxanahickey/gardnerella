@@ -1,0 +1,5 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ00676	clust_1672	VBIGarVag136958_0676	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147420	876395	876592	+	198	thiS_1	Sulfur carrier protein ThiS	GV10
+GV12|SEQ00112	clust_1672	VBIGarVag144721_0112	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852883	43551	43748	+	198		Sulfur carrier protein ThiS	GV12
+GV15|SEQ00719	clust_1672	VBIGarVag249709_0719	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484993	190711	190908	+	198		Sulfur carrier protein ThiS	GV15
+GV17|SEQ00884	clust_1672	VBIGarVag146634_0884	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851845	100152	100349	-	198		Sulfur carrier protein ThiS	GV17

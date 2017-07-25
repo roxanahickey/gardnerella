@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00191	clust_0636	VBIGarVag247323_0191	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494494	66440	67540	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV01
+GV02|SEQ00463	clust_0636	VBIGarVag242669_0463	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497719	56663	57763	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV02
+GV03|SEQ00746	clust_0636	VBIGarVag247424_0746	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500919	19910	20998	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV03
+GV04|SEQ01311	clust_0636	VBIGarVag246433_1311	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482566	70654	71736	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV04
+GV05|SEQ00798	clust_0636	VBIGarVag174900_0798	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547358	446642	447730	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV05
+GV06|SEQ00846	clust_0636	VBIGarVag244004_0846	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490492	201533	202621	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV06
+GV07|SEQ00558	clust_0636	VBIGarVag249177_0558	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492761	29995	31083	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV07
+GV08|SEQ00406	clust_0636	VBIGarVag251521_0406	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475213	249232	250314	+	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV08
+GV09|SEQ00405	clust_0636	VBIGarVag169280_0405	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259982	106038	107120	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV09
+GV10|SEQ00543	clust_0636	VBIGarVag136958_0543	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147140	679889	680974	+	1086	menA	1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV10
+GV11|SEQ01303	clust_0636	VBIGarVag171052_1303	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52551039	78622	79704	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV11
+GV12|SEQ01170	clust_0636	VBIGarVag144721_1170	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855166	18377	19462	+	1086		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV12
+GV13|SEQ00749	clust_0636	VBIGarVag244533_0749	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487488	211954	213042	-	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV13
+GV14|SEQ00261	clust_0636	VBIGarVag244375_0261	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502360	68187	69275	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV14
+GV15|SEQ00601	clust_0636	VBIGarVag249709_0601	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484743	25710	26795	+	1086		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV15
+GV16|SEQ01054	clust_0636	VBIGarVag246379_1054	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479292	1223066	1224148	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV16
+GV17|SEQ01009	clust_0636	VBIGarVag146634_1009	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852110	161581	162666	-	1086		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV17
+GV18|SEQ01158	clust_0636	VBIGarVag4823_1158	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071147	47	850	+	804		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV18
+GV19|SEQ00557	clust_0636	VBIGarVag39333_0558	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627993	688953	690035	+	1083	menA	1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV19
+GV20|SEQ00965	clust_0636	VBIGarVag188338_0965	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190780	1195709	1196791	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV20
+GV21|SEQ00816	clust_0636	VBIGarVag274454_0817	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968363	2859	3947	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV21
+GV22|SEQ00859	clust_0636	VBIGarVag276801_0860	Gardnerella vaginalis JCP7276	ATJR01000047	PATRIC	CDS	183971203	20251	21333	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV22
+GV23|SEQ00403	clust_0636	VBIGarVag276017_0403	Gardnerella vaginalis JCP7659	ATJQ01000027	PATRIC	CDS	183973135	2911	4011	+	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV23
+GV24|SEQ00771	clust_0636	VBIGarVag268944_0772	Gardnerella vaginalis JCP7672	ATJP01000064	PATRIC	CDS	183976739	30019	31101	-	1083		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV24
+GV25|SEQ00269	clust_0636	VBIGarVag270495_0269	Gardnerella vaginalis JCP7719	ATJO01000017	PATRIC	CDS	183978429	23502	24602	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV25
+GV26|SEQ00114	clust_0636	VBIGarVag272749_0114	Gardnerella vaginalis JCP8017A	ATJN01000002	PATRIC	CDS	183980968	57723	58823	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV26
+GV27|SEQ00029	clust_0636	VBIGarVag276930_0029	Gardnerella vaginalis JCP8017B	ATJM01000003	PATRIC	CDS	183983764	3363	4463	+	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV27
+GV28|SEQ00502	clust_0636	VBIGarVag271349_0502	Gardnerella vaginalis JCP8066	ATJL01000029	PATRIC	CDS	183987705	28044	29144	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV28
+GV29|SEQ01064	clust_0636	VBIGarVag265473_1064	Gardnerella vaginalis JCP8070	ATJK01000105	PATRIC	CDS	183991661	34007	35107	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV29
+GV30|SEQ00411	clust_0636	VBIGarVag267667_0412	Gardnerella vaginalis JCP8108	ATJJ01000019	PATRIC	CDS	183992898	25286	26374	-	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV30
+GV31|SEQ00072	clust_0636	VBIGarVag264983_0072	Gardnerella vaginalis JCP8151A	ATJI01000003	PATRIC	CDS	183995166	2846	3946	+	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV31
+GV32|SEQ00839	clust_0636	VBIGarVag277040_0839	Gardnerella vaginalis JCP8151B	ATJH01000063	PATRIC	CDS	183999621	2846	3946	+	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV32
+GV33|SEQ00730	clust_0636	VBIGarVag265557_0730	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002234	12415	13503	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV33
+GV34|SEQ00671	clust_0636	VBIGarVag270440_0671	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184004955	12415	13503	+	1089		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV34
+GV35|SEQ00449	clust_0636	VBIGarVag272169_0449	Gardnerella vaginalis JCP8522	ATJE01000025	PATRIC	CDS	184007217	24415	25515	-	1101		1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)	GV35

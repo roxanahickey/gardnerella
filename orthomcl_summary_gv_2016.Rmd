@@ -1,0 +1,368 @@
+---
+title: "Analysis of OrthoMCL results from 35 Gardnerella genomes"
+author: "Roxana Hickey"
+date: "May 21, 2015"
+output: html_document
+---
+
+Edited 11/20/16
+
+Summarize OrthoMCL results (updated 2015-05-21)
+```{r setup}
+setwd("~/Documents/projects/gardnerella/")
+load("_sandbox/orthomcl_summary_gv_current.RData")
+
+## Set up custom settings and load raw data
+# source("code/setup_orthomcl_summary_gv35_id70.R") # 70% clustering, 35 GV genomes
+
+## Run part 1 of summary
+# source("bin/orthomcl_summary_part1.R")
+# load("results/orthomcl70-gv35/orthomcl_summary_part1.RData")
+
+## Run part 2 of summary
+# source("bin/orthomcl_summary_part2.R")
+load("results/orthomcl70-gv35/orthomcl_summary_part2.RData")
+
+library(ggplot2)
+library(stringr)
+```
+
+Genome characteristics
+```{r genome-char}
+genome.char <- read.table("data/reference/gv_genome_char_manual_calc.txt", 
+                          sep="\t", header=T, quote="", na.strings="NA")
+
+summary(genome.char$genome_size)
+summary(genome.char$patric_cds)
+summary(genome.char$gc_content)
+
+## plot with clade id colored
+genome.key.char <- merge(genome.key, genome.char)
+
+ggplot(genome.key.char, aes(x=genome_size, y=patric_cds, color=factor(raxml_subclade))) +
+  geom_point(size=3) +
+  scale_color_manual(name="Clade", values=col.cust) +
+  xlab("Genome size (Mb)") +
+  ylab("Total CDS per genome") +
+  theme_cust_nominor +
+  theme(legend.justification=c(1,0), legend.position=c(1,0))
+ggsave(paste0(dir.fig, "/gv_cds_vs_size_clade.png"),
+              width=3, height=2.5, units="in", scale=2)
+
+ggplot(genome.key.char, aes(x=genome_size, y=gc_content, color=factor(raxml_subclade))) +
+  geom_point(size=3) +
+  scale_color_manual(name="Clade", values=col.cust) +
+  xlab("Genome Size (Mb)") +
+  ylab("GC content (%)") +
+  theme_cust_nominor +
+  theme(legend.justification=c(1,1), legend.position=c(1,1))
+ggsave(paste0(dir.fig, "/gv_gc_vs_size_clade.png"),
+              width=3, height=2.5, units="in", scale=2)
+
+for(i in sort(unique(genome.key.char$raxml_subclade))){
+  print(summary(genome.key.char$genome_size[genome.key.char$raxml_subclade==i]))
+  print(summary(genome.key.char$gc_content[genome.key.char$raxml_subclade==i]))
+  }
+
+save.image("orthomcl_summary_gv_current_2016.RData")
+```
+
+OrthoMCL summary plots
+```{r orthomcl-plots}
+# reorder factor levels for plotting
+clust.smy.red.md$variable <- factor(clust.smy.red.md$variable, 
+                                    levels=c("group_sing",
+                                             "group_acc",
+                                             "group_core_uniq",
+                                             "group_core_not_uniq",
+                                             "all_core"))
+
+# protein families per clade (count)
+gp.ct <- ggplot(clust.smy.red.md, aes(x=factor(group_id), y=value, fill=factor(group_id), alpha=variable)) + 
+  geom_bar(stat="identity", aes(color="white")) + 
+  theme_cust_nogrid +
+  scale_color_identity() +
+  xlab("Clade") + ylab("No. protein families and singletons") +
+  scale_x_discrete(labels=c("1A","1B","2A","2B","3A","3B")) +
+  scale_fill_manual("Clade", values=col.cust, labels=c("1A","1B","2A","2B","3A","3B")) +
+  scale_alpha_manual("Category", 
+                     limits=c("all_core", "group_core_not_uniq", "group_core_uniq", "group_acc", "group_sing"),
+                     breaks=rev(c("all_core", "group_core_not_uniq", "group_core_uniq", "group_acc", "group_sing")),
+                     labels=rev(c("Species core", "Clade core, non-unique", "Clade core, unique", 
+                                  "Clade accessory", "Clade singletons")),
+                     values=c(1, 0.7, 0.55, 0.4, 0.2)) +
+  theme(legend.key=element_rect(color="white"))
+gp.ct
+ggsave(paste0(dir.fig, "/orthomcl_clust_group_count.png"), width=6, height=4, units="in", scale=1.25)
+
+# number of singleton clusters per genome
+ggplot(strain.uniq.df, aes(x=reorder(id_abbr, as.numeric(group_id) - sing_clust_prop), y=sing_clust_prop, fill=factor(group_id))) +
+  geom_bar(stat="identity") +
+  theme_cust_nogrid +
+  xlab("Strain") + ylab("Proportion of singleton CDS out of total per genome") +
+  theme(axis.text.x=element_text(angle=-30, hjust=0, vjust=1, size=8)) +
+  labs(fill="Clade") +
+  geom_text(aes(label=sing_clust_count, hjust=1.3), size=2.5, color="white", show.legend=F) +
+  scale_fill_manual(values=col.cust) +
+  coord_flip() +
+  scale_x_discrete(limits=rev(levels(reorder(strain.uniq.df$id_abbr, as.numeric(strain.uniq.df$group_id) - strain.uniq.df$sing_clust_prop)))) +
+  theme(legend.justification=c(1,1), legend.position=c(1,1))
+ggsave(paste0(dir.fig, "/orthomcl_clust_uniq_per_strain.png"), width=3, height=3.75, units="in", scale=2)
+
+## obtain genome characteristics
+strain.uniq.df$id_short <- rownames(strain.uniq.df)
+genome.key.char <- merge(genome.key.char, strain.uniq.df)
+
+## number of uniq CDS vs contigs
+cds.cg <- ggplot(genome.key.char, aes(x=contigs, y=sing_clust_count, color=factor(raxml_subclade))) +
+  geom_point() +
+  geom_text(aes(label=id_abbr, vjust=2), size=3, show.legend=F) +
+  theme_cust +
+  xlab("Contigs") + ylab("Singleton coding DNA sequences") + 
+  scale_color_manual("Clade", values=col.cust)
+cds.cg
+ggsave(paste0(dir.fig, "/orthomcl_uniq_vs_contig.png"), width=3.5, height=2.5, units="in", scale=2.5)
+
+cor(genome.key.char$sing_clust_count, genome.key.char$patric_cds)
+
+## CDS per genome (counts)
+# reorder factor levels for plotting
+strain.clust.count.md$variable <- factor(strain.clust.count.md$variable, 
+                                    levels=c("group_sing",
+                                             "group_acc",
+                                             "group_core_uniq",
+                                             "group_core_not_uniq",
+                                             "all_core"))
+
+# st.ct <- ggplot(strain.clust.count.md, aes(x=id_abbr, y=value, fill=factor(group_id), alpha=variable)) + 
+#   geom_bar(stat="identity", aes(color="white")) + theme_cust_nogrid +
+#   scale_color_identity() + 
+#   xlab("Strain") + ylab("No. of coding DNA sequences") +
+#   scale_y_continuous(breaks=seq(0, 1400, 200)) +
+#   scale_fill_manual("Clade", values=col.cust) +
+#   scale_alpha_manual("Category", 
+#                      limits=c("all_core", "group_core_not_uniq", "group_core_uniq", "accessory", "singleton"),
+#                      breaks=rev(c("all_core", "group_core_not_uniq", "group_core_uniq", "accessory", "singleton")),
+#                      labels=rev(c("Species core", "Clade core, non-unique", "Clade core, unique", 
+#                                   "Accessory", "Singletons")),
+#                      values=c(1, 0.7, 0.55, 0.4, 0.2)) +
+#   theme(axis.text.x=element_text(angle=-30, hjust=0, vjust=1, size=8),
+#         legend.key=element_rect(color="white"))
+# st.ct
+# ggsave(paste0(dir.fig, "/orthomcl_clust_genome_count.png"), width=5, height=2.75, units="in", scale=2)
+
+## figure
+# png(paste0(dir.fig, "/orthomcl_clust_genome_strain.png"), width=8, height=10, units="in", res=300)
+# multiplot(gp.ct + ggtitle("A") + theme(plot.margin=unit(c(5,2,2,2), "mm"),
+#                                        plot.title=element_text(face="bold", size=18, hjust=-0.09)), 
+#           st.pr + ggtitle("B") + theme(legend.position="none", 
+#                                        plot.margin=unit(c(2,10,2,2), "mm"),
+#                                        plot.title=element_text(face="bold", size=18, hjust=-0.065)))
+# dev.off()
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+Select some functional gene orthologs to show in a heatmap
+```{r heatmap-functions}
+# dir.out <- "sandbox/functional-anno-gv/"
+# dir.create(dir.out)
+
+## replace ortho_id with cds_id for singletons
+key.feat.cds$ortho_id <- as.character(key.feat.cds$ortho_id)
+key.feat.cds$ortho_id[is.na(key.feat.cds$ortho_id)] <- as.character(key.feat.cds$cds_id[is.na(key.feat.cds$ortho_id)])
+
+## append singletons to clust.mx
+clust.mx.sing <- matrix(nrow=nrow(clust.mx), ncol=length(ortho.sing$cds_id))
+rownames(clust.mx.sing) <- rownames(clust.mx)
+colnames(clust.mx.sing) <- ortho.sing$cds_id
+
+for(i in unique(rownames(clust.mx.sing))){
+  pres <- grep(i, colnames(clust.mx.sing))
+  abs <- grep(i, colnames(clust.mx.sing), invert=1)
+  clust.mx.sing[i,pres] <- 1
+  clust.mx.sing[i,abs] <- 0
+}
+
+# check sums
+rowSums(clust.mx.sing) == table(ortho.sing$id_short)
+
+# combine with clust.mx
+clust.mx.full <- cbind(clust.mx, clust.mx.sing)
+
+func <- c("sialidase", "cytolysin", "galactosidase", "glucosidase", "fucosidase", "hexosaminidase", # putative VF
+          "sortase",  "glycosyltransferase", # possible attachment
+          "tetracycline", "amylase", "CRISPR", "metallo", # misc functions
+          "phage", "WhiB", "Type I restriction", "Type II restriction", 
+          "Type III restriction", "Type IV restriction") # phage-resistance (added 11/21/16)
+
+ortho.func <- data.frame(matrix(nrow=0, ncol=2))
+colnames(ortho.func) <- c("ortho_id", "product_rep")
+
+for(i in 1:length(func)){
+  o.tmp <- unique(key.feat.cds[grep(func[i], key.feat.cds$product, ignore.case=T), c("ortho_id", "product")])
+  ortho.func <- rbind(ortho.func, o.tmp)
+}
+
+rownames(ortho.func) <- NULL
+  
+ortho.func.red <- data.frame(matrix(nrow=length(unique(ortho.func$ortho_id)), ncol=2))
+rownames(ortho.func.red) <- unique(unique(ortho.func$ortho_id))
+colnames(ortho.func.red) <- c("ortho_id", "product_rep")
+
+for(i in unique(ortho.func$ortho_id)){
+  tmp <- subset(key.feat.cds$product, key.feat.cds$ortho_id==i)
+  ortho.func.red[i, "ortho_id"] <- i
+  tmp <- tmp[grep("hypothetical protein", tmp, ignore.case = TRUE, invert = TRUE)]
+  ortho.func.red[i, "product_rep"] <- names(which.max(table(tmp)))
+  # ortho.func.red[i, "product_rep"] <- str_c(unique(tmp), collapse = " | ")
+}
+
+ortho.func.red$ortho_product_full <- paste(ortho.func.red$ortho_id, ortho.func.red$product_rep, sep=": ")
+
+## combine together
+clust.mx.func <- clust.mx.full[,colnames(clust.mx.full) %in% ortho.func.red$ortho_id]
+colnames(clust.mx.func) <- ortho.func.red$ortho_product_full[match(colnames(clust.mx.func), ortho.func.red$ortho_id)]
+
+library(reshape)
+clust.mx.func.m <- melt(clust.mx.func)
+colnames(clust.mx.func.m) <- c("id_short", "ortholog", "freq")
+clust.mx.func.m <- merge(clust.mx.func.m, genome.key[,c("id_short", "id_abbr")])
+clust.mx.func.m$ortho_id <- ortho.func.red$ortho_id[match(clust.mx.func.m$ortholog, ortho.func.red$ortho_product_full)]
+
+library(RColorBrewer)
+
+## subset by functions
+o.degrade <- ortho.func$ortho_id[1:18] # degradation enzymes
+o.attach <- ortho.func$ortho_id[19:36] # sortases, glycosyltransferases
+o.tetres <- ortho.func$ortho_id[37:38] # tet resistance
+o.amylase <- ortho.func$ortho_id[40:41] # alpha-amylase
+o.crispr <- ortho.func$ortho_id[42:53] # CRISPR
+o.metallo <- ortho.func$ortho_id[54:55] # metallopeptidases
+o.phage <- ortho.func$ortho_id[56:112] # phage
+o.txss <- ortho.func$ortho_id[113:152] # type X secretion system
+
+# read in majority consensus tree to set ordering of rows (genomes)
+library(ape)
+mc <- read.nexus("~/Documents/projects/gardnerella/results/2016_revisions/raxml_consensus_trees/Tree3.nexus")
+
+mc$tip.label <- gsub("_", " ", mc$tip.label)
+
+ord <- c("ATCC 14019", "ATCC 14018", "JCP7276", "75712", "HMP9231", "315-A", "JCP7672", "0288E", "284V", # 1A
+         "1400E", "55152", "JCP8108", "41V", "JCP7275", # 1B
+         "JCP8151A", "JCP8151B", "JCP8066", "JCP8522", "JCP8070", # 2A
+         "JCP8017B", "JCP8017A", "JCP7659", "00703Bmash", "00703C2mash", "JCP7719", # 2B
+         "6119V5", "1500E", "00703Dmash", "101", "JCP8481A", "JCP8481B", # 3A
+         "409-05", "5-1", "AMD", "6420B") # 3B
+
+## mucus-degrading enzymes
+grid.deg <- ggplot(clust.mx.func.m[clust.mx.func.m$ortho_id %in% o.degrade,], 
+                 aes(x=id_abbr, y=ortholog, fill=factor(freq))) + 
+  geom_tile(size=1) +
+  scale_fill_manual(values=c("grey90", "grey60", "grey30"),
+                    name="Count") +
+  xlim(rev(ord)) +
+  ylim(c("clust_0917: Sialidase (EC 3.2.1.18)",
+         "clust_1160: Sialidase (EC 3.2.1.18)",                
+         "clust_1950: Sialidase (EC 3.2.1.18)",
+         "GV02|SEQ00188: Sialidase (EC 3.2.1.18)",
+         "clust_1425: Alpha-galactosidase (EC 3.2.1.22)",
+         "clust_1141: Beta-galactosidase (EC 3.2.1.23)",
+         "clust_1388: Evolved beta-D-galactosidase, alpha subunit",
+         "clust_2285: Alpha-glucosidase (EC 3.2.1.20)",
+         "clust_1140: Alpha-L-fucosidase (EC 3.2.1.51)",
+         "clust_1019: Beta-hexosaminidase (EC 3.2.1.52)",          
+         "clust_1409: Beta-hexosaminidase (EC 3.2.1.52)",         
+         "clust_2082: Beta-hexosaminidase (EC 3.2.1.52)")) +
+  labs(x=NULL, y=NULL) +
+  coord_flip() +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=270, size=10, hjust=0),
+        axis.line.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_text(color=col.cust[rev(genome.key.char$raxml_subclade[match(ord, genome.key.char$id_abbr)])]),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        plot.margin=unit(c(10,0,5,10), "mm")) +
+  geom_tile(size=1, color="white", show.legend=FALSE)
+grid.deg
+ggsave(paste0(dir.fig, "/grid_deg_enz_2016.pdf"), width=2, height=4, units="in", scale=3)
+
+## phage-related proteins
+pick <- c("phage-associated protein", 
+          "Abortive infection protein AbiGI", 
+          "Abortive infection protein AbiGII", 
+          "WhiB-like transcription regulator", 
+          "Type I restriction-modification system, specificity subunit S", "Type I restriction-modification system, DNA-methyltransferase subunit M (EC 2.1.1.72)", "Type I restriction-modification system, specificity subunit S (EC 3.1.21.3)")
+
+ortho.phage <- key.feat.cds[key.feat.cds$product %in% pick, "ortho_id"]
+df <- clust.mx.func.m[clust.mx.func.m$ortho_id %in% o.phage[grep("clust", ortho.phage)],]
+
+grid.phage <- ggplot(df, aes(x=id_abbr, y=ortholog, fill=factor(freq))) + 
+  geom_tile(size=1) +
+  scale_fill_manual(values=c("grey90", "grey60", "grey30", "grey10"),
+                    name="Count") +
+  xlim(rev(ord)) +
+  ylim(values=phage.hclust$labels[phage.hclust$order]) +
+  labs(x=NULL, y=NULL) +
+  coord_flip() +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=270, size=10, hjust=0),
+        axis.line.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_text(color=col.cust[rev(genome.key.char$raxml_subclade[match(ord, genome.key.char$id_abbr)])]),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        plot.margin=unit(c(10,0,5,10), "mm")) +
+  geom_tile(size=1, color="white", show.legend=FALSE)
+grid.phage
+ggsave(paste0(dir.fig, "/grid_phage_2016.pdf"), width=3, height=4, units="in", scale=3)
+
+## phage-related proteins
+# dat.txss <- clust.mx.func.m[clust.mx.func.m$ortho_id %in% o.txss[grep("clust", o.txss)],]
+# dat.txss.rc <- as.matrix(cast(dat.txss, id_abbr ~ ortholog, value="freq"))
+# hclust(dat.txss.rc)
+
+grid.txss <- ggplot(clust.mx.func.m[clust.mx.func.m$ortho_id %in% o.txss[grep("clust", o.txss)],], 
+                   aes(x=id_abbr, y=ortholog, fill=factor(freq))) + 
+  geom_tile(size=1) +
+  scale_fill_manual(values=c("grey90", "grey60", "grey30", "grey10"),
+                    name="Count") +
+  xlim(rev(ord)) +
+  labs(x=NULL, y=NULL) +
+  coord_flip() +
+  theme(legend.title=element_text(face="bold", size=10),
+        axis.text.x=element_text(angle=270, size=10, hjust=0),
+        axis.line.y=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_text(color=col.cust[rev(genome.key.char$raxml_subclade[match(ord, genome.key.char$id_abbr)])]),
+        axis.title.y=element_blank(),
+        panel.background=element_rect(fill="white"),
+        plot.margin=unit(c(10,0,5,10), "mm")) +
+  geom_tile(size=1, color="white", show.legend=FALSE)
+grid.txss
+ggsave(paste0(dir.fig, "/grid_txss_2016.pdf"), width=2, height=4, units="in", scale=3)
+
+save.image("sandbox/orthomcl_summary_gv_current.RData")
+```
+
+```{r}
+gc <- genome.key.char$gc_content
+names(gc) <- genome.key.char$id_abbr
+
+gsize <- genome.key.char$genome_size
+names(gsize) <- genome.key.char$id_abbr
+
+mc <- read.nexus("~/Documents/projects/gardnerella/results/2016_revisions/raxml_consensus_trees/Tree3copy.nexus")
+
+mc$tip.label <- gsub("_", " ", mc$tip.label)
+
+contrastGC <- pic(gc, mc)
+contrastGSize <- pic(gsize, mc)
+
+contrastGC.var <- pic(gc, mc, var.contrasts = T)
+contrastGSize.var <- pic(gsize, mc, var.contrasts = T)
+
+summary(lm(contrastGC ~ contrastGSize - 1))
+
+```

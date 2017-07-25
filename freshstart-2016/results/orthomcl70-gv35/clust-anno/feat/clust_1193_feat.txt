@@ -1,0 +1,14 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00372	clust_1193	VBIGarVag247323_0372	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494883	87166	88131	+	966		probable solute binding protein of ABC transporter system	GV01
+GV02|SEQ00684	clust_1193	VBIGarVag242669_0684	Gardnerella vaginalis 00703C2mash	ADEU01000011	PATRIC	CDS	85498191	281	1246	-	966		probable solute binding protein of ABC transporter system	GV02
+GV03|SEQ00001	clust_1193	VBIGarVag247424_0001	Gardnerella vaginalis 00703Dmash	ADEV01000002	PATRIC	CDS	85499362	251	1228	-	978		probable solute binding protein of ABC transporter system	GV03
+GV05|SEQ00002	clust_1193	VBIGarVag174900_0002	Gardnerella vaginalis 101	AEJD01000002	PATRIC	CDS	52545703	1166	2143	+	978		probable solute binding protein of ABC transporter system	GV05
+GV07|SEQ01087	clust_1193	VBIGarVag249177_1087	Gardnerella vaginalis 1500E	ADES01000023	PATRIC	CDS	85493863	301	1278	-	978		probable solute binding protein of ABC transporter system	GV07
+GV14|SEQ00950	clust_1193	VBIGarVag244375_0950	Gardnerella vaginalis 6119V5	ADEW01000010	PATRIC	CDS	85503796	383	1360	-	978		probable solute binding protein of ABC transporter system	GV14
+GV23|SEQ00880	clust_1193	VBIGarVag276017_0880	Gardnerella vaginalis JCP7659	ATJQ01000073	PATRIC	CDS	183974176	1303	2268	+	966		probable solute binding protein of ABC transporter system	GV23
+GV25|SEQ00413	clust_1193	VBIGarVag270495_0413	Gardnerella vaginalis JCP7719	ATJO01000031	PATRIC	CDS	183978742	327	1292	-	966		probable solute binding protein of ABC transporter system	GV25
+GV26|SEQ00994	clust_1193	VBIGarVag272749_0994	Gardnerella vaginalis JCP8017A	ATJN01000072	PATRIC	CDS	183982865	1325	2290	+	966		probable solute binding protein of ABC transporter system	GV26
+GV27|SEQ00772	clust_1193	VBIGarVag276930_0772	Gardnerella vaginalis JCP8017B	ATJM01000037	PATRIC	CDS	183985337	308	1273	-	966		probable solute binding protein of ABC transporter system	GV27
+GV28|SEQ00676	clust_1193	VBIGarVag271349_0676	Gardnerella vaginalis JCP8066	ATJL01000052	PATRIC	CDS	183988090	232	1197	-	966		probable solute binding protein of ABC transporter system	GV28
+GV29|SEQ00610	clust_1193	VBIGarVag265473_0610	Gardnerella vaginalis JCP8070	ATJK01000037	PATRIC	CDS	183990651	1321	2286	+	966		probable solute binding protein of ABC transporter system	GV29
+GV35|SEQ00429	clust_1193	VBIGarVag272169_0429	Gardnerella vaginalis JCP8522	ATJE01000024	PATRIC	CDS	184007172	1310	2275	+	966		probable solute binding protein of ABC transporter system	GV35

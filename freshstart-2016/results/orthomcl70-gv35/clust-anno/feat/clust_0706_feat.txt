@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00419	clust_0706	VBIGarVag247323_0419	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494977	144111	145736	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV01
+GV02|SEQ00947	clust_0706	VBIGarVag242669_0947	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498743	195581	197206	-	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV02
+GV03|SEQ00842	clust_0706	VBIGarVag247424_0842	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501117	160505	162130	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV03
+GV04|SEQ01117	clust_0706	VBIGarVag246433_1117	Gardnerella vaginalis 0288E	ADEN01000009	PATRIC	CDS	85482158	23968	25593	-	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV04
+GV05|SEQ00885	clust_0706	VBIGarVag174900_0885	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547538	570674	572299	+	1626		Heat shock protein 60 family chaperone GroEL	GV05
+GV06|SEQ00937	clust_0706	VBIGarVag244004_0937	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490682	326562	328187	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV06
+GV07|SEQ00504	clust_0706	VBIGarVag249177_0504	Gardnerella vaginalis 1500E	ADES01000009	PATRIC	CDS	85492648	13807	15432	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV07
+GV08|SEQ00492	clust_0706	VBIGarVag251521_0492	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475392	368090	369715	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV08
+GV09|SEQ01099	clust_0706	VBIGarVag169280_1099	Gardnerella vaginalis 315-A	AFDI01000010	PATRIC	CDS	55261421	24051	25676	-	1626	groL	Heat shock protein 60 family chaperone GroEL	GV09
+GV10|SEQ00633	clust_0706	VBIGarVag136958_0633	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147326	812963	814588	+	1626	groL	Heat shock protein 60 family chaperone GroEL	GV10
+GV11|SEQ00559	clust_0706	VBIGarVag171052_0559	Gardnerella vaginalis 41V	AEJE01000034	PATRIC	CDS	52549450	41761	43386	+	1626		Heat shock protein 60 family chaperone GroEL	GV11
+GV12|SEQ01275	clust_0706	VBIGarVag144721_1275	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855382	164242	165867	+	1626		Heat shock protein 60 family chaperone GroEL	GV12
+GV13|SEQ00662	clust_0706	VBIGarVag244533_0662	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487305	93713	95338	-	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV13
+GV14|SEQ00359	clust_0706	VBIGarVag244375_0359	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502562	201005	202630	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV14
+GV15|SEQ00694	clust_0706	VBIGarVag249709_0694	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484935	159868	161451	+	1584	groEL	Heat shock protein 60 family chaperone GroEL	GV15
+GV16|SEQ00966	clust_0706	VBIGarVag246379_0966	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479107	1100758	1102383	-	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV16
+GV17|SEQ00916	clust_0706	VBIGarVag146634_0916	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851918	32705	34330	-	1626		Heat shock protein 60 family chaperone GroEL	GV17
+GV18|SEQ00070	clust_0706	VBIGarVag4823_0070	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000038	PATRIC	CDS	42068802	4295	4696	-	402	groEL	Heat shock protein 60 family chaperone GroEL	GV18
+GV19|SEQ00651	clust_0706	VBIGarVag39333_0652	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628188	810983	812608	+	1626	groEL	Heat shock protein 60 family chaperone GroEL	GV19
+GV20|SEQ00876	clust_0706	VBIGarVag188338_0876	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190594	1073251	1074876	-	1626	groL	Heat shock protein 60 family chaperone GroEL	GV20
+GV21|SEQ00486	clust_0706	VBIGarVag274454_0487	Gardnerella vaginalis JCP7275	ATJS01000024	PATRIC	CDS	183967642	39054	40679	-	1626		Heat shock protein 60 family chaperone GroEL	GV21
+GV22|SEQ00035	clust_0706	VBIGarVag276801_0035	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969447	41520	43145	+	1626		Heat shock protein 60 family chaperone GroEL	GV22
+GV23|SEQ00619	clust_0706	VBIGarVag276017_0619	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973599	55048	56631	+	1584		Heat shock protein 60 family chaperone GroEL	GV23
+GV24|SEQ00330	clust_0706	VBIGarVag268944_0331	Gardnerella vaginalis JCP7672	ATJP01000018	PATRIC	CDS	183975781	124	525	+	402		Heat shock protein 60 family chaperone GroEL	GV24
+GV25|SEQ01101	clust_0706	VBIGarVag270495_1101	Gardnerella vaginalis JCP7719	ATJO01000122	PATRIC	CDS	183980254	6058	7683	-	1626		Heat shock protein 60 family chaperone GroEL	GV25
+GV26|SEQ00504	clust_0706	VBIGarVag272749_0504	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981796	42132	43757	+	1626		Heat shock protein 60 family chaperone GroEL	GV26
+GV27|SEQ00433	clust_0706	VBIGarVag276930_0433	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984613	129809	131392	-	1584		Heat shock protein 60 family chaperone GroEL	GV27
+GV28|SEQ00823	clust_0706	VBIGarVag271349_0823	Gardnerella vaginalis JCP8066	ATJL01000066	PATRIC	CDS	183988408	6083	7708	-	1626		Heat shock protein 60 family chaperone GroEL	GV28
+GV29|SEQ00143	clust_0706	VBIGarVag265473_0143	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989651	129161	130786	-	1626		Heat shock protein 60 family chaperone GroEL	GV29
+GV30|SEQ00372	clust_0706	VBIGarVag267667_0373	Gardnerella vaginalis JCP8108	ATJJ01000013	PATRIC	CDS	183992809	41545	43170	+	1626		Heat shock protein 60 family chaperone GroEL	GV30
+GV31|SEQ00316	clust_0706	VBIGarVag264983_0316	Gardnerella vaginalis JCP8151A	ATJI01000012	PATRIC	CDS	183995680	6297	7922	-	1626		Heat shock protein 60 family chaperone GroEL	GV31
+GV32|SEQ01047	clust_0706	VBIGarVag277040_1047	Gardnerella vaginalis JCP8151B	ATJH01000141	PATRIC	CDS	184000134	20827	22452	+	1626		Heat shock protein 60 family chaperone GroEL	GV32
+GV33|SEQ00273	clust_0706	VBIGarVag265557_0273	Gardnerella vaginalis JCP8481A	ATJG01000024	PATRIC	CDS	184001248	13245	14870	-	1626		Heat shock protein 60 family chaperone GroEL	GV33
+GV34|SEQ00803	clust_0706	VBIGarVag270440_0803	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005236	71371	72996	+	1626		Heat shock protein 60 family chaperone GroEL	GV34
+GV35|SEQ00561	clust_0706	VBIGarVag272169_0561	Gardnerella vaginalis JCP8522	ATJE01000037	PATRIC	CDS	184007459	6078	7661	-	1584		Heat shock protein 60 family chaperone GroEL	GV35

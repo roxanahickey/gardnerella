@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV06|SEQ00388	clust_1499	VBIGarVag244004_0388	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489519	57064	58101	-	1038		ABC sugar transporter, periplasmic binding protein	GV06
+GV16|SEQ00387	clust_1499	VBIGarVag246379_0387	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477908	354312	355349	+	1038		ABC sugar transporter, periplasmic binding protein	GV16
+GV18|SEQ00075	clust_1499	VBIGarVag4823_0075	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000039	PATRIC	CDS	42068813	4591	5085	-	495		ABC sugar transporter, periplasmic binding protein	GV18
+GV19|SEQ01222	clust_1499	VBIGarVag39333_1224	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629367	1541115	1542152	-	1038		ABC sugar transporter, periplasmic binding protein	GV19
+GV20|SEQ00272	clust_1499	VBIGarVag188338_0272	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189345	309514	310551	+	1038		ABC sugar transporter, periplasmic binding protein	GV20
+GV30|SEQ00010	clust_1499	VBIGarVag267667_0010	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992056	10718	11755	-	1038		ABC sugar transporter, periplasmic binding protein	GV30

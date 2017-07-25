@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00134	clust_1543	VBIGarVag246433_0134	Gardnerella vaginalis 0288E	ADEN01000002	PATRIC	CDS	85480117	14060	14962	-	903		binding-protein-dependent transport system permease	GV04
+GV08|SEQ01224	clust_1543	VBIGarVag251521_1224	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476911	334546	335448	+	903		binding-protein-dependent transport system permease	GV08
+GV11|SEQ00582	clust_1543	VBIGarVag171052_0582	Gardnerella vaginalis 41V	AEJE01000037	PATRIC	CDS	52549499	13984	14886	-	903		binding-protein-dependent transport system permease	GV11
+GV21|SEQ00682	clust_1543	VBIGarVag274454_0683	Gardnerella vaginalis JCP7275	ATJS01000043	PATRIC	CDS	183968062	3603	4505	-	903		binding-protein-dependent transport system permease	GV21
+GV22|SEQ00605	clust_1543	VBIGarVag276801_0606	Gardnerella vaginalis JCP7276	ATJR01000019	PATRIC	CDS	183970647	13314	14216	-	903		binding-protein-dependent transport system permease	GV22
+GV24|SEQ00253	clust_1543	VBIGarVag268944_0254	Gardnerella vaginalis JCP7672	ATJP01000010	PATRIC	CDS	183975615	3408	4310	-	903		binding-protein-dependent transport system permease	GV24

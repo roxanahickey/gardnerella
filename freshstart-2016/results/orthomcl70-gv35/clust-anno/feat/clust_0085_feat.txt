@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00495	clust_0085	VBIGarVag247323_0495	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495135	233988	235091	-	1104		ABC-type amino acid transport system, permease component	GV01
+GV02|SEQ00876	clust_0085	VBIGarVag242669_0876	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498594	110443	111546	+	1104		ABC-type amino acid transport system, permease component	GV02
+GV03|SEQ00865	clust_0085	VBIGarVag247424_0865	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501173	194755	195906	+	1152		ABC-type amino acid transport system, permease component	GV03
+GV04|SEQ01003	clust_0085	VBIGarVag246433_1003	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481918	384676	385779	+	1104		ABC-type amino acid transport system, permease component	GV04
+GV05|SEQ00910	clust_0085	VBIGarVag174900_0910	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547598	607800	608951	+	1152		ABC-type amino acid transport system, permease component	GV05
+GV06|SEQ01246	clust_0085	VBIGarVag244004_1246	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491319	99919	101022	-	1104		ABC-type amino acid transport system, permease component	GV06
+GV07|SEQ00217	clust_0085	VBIGarVag249177_0217	Gardnerella vaginalis 1500E	ADES01000004	PATRIC	CDS	85492030	25171	26322	-	1152		ABC-type amino acid transport system, permease component	GV07
+GV08|SEQ00021	clust_0085	VBIGarVag251521_0021	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474407	30864	31967	+	1104		ABC-type amino acid transport system, permease component	GV08
+GV09|SEQ00860	clust_0085	VBIGarVag169280_0860	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260927	254666	255769	+	1104		ABC-type amino acid transport system, permease component	GV09
+GV10|SEQ00688	clust_0085	VBIGarVag136958_0688	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147446	893846	894472	+	627		ABC-type amino acid transport system, permease component	GV10
+GV11|SEQ00787	clust_0085	VBIGarVag171052_0787	Gardnerella vaginalis 41V	AEJE01000050	PATRIC	CDS	52549932	18539	19666	+	1128		ABC-type amino acid transport system, permease component	GV11
+GV12|SEQ00124	clust_0085	VBIGarVag144721_0124	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852909	60542	61627	+	1086		ABC-type amino acid transport system, permease component	GV12
+GV13|SEQ00260	clust_0085	VBIGarVag244533_0260	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486464	67124	68227	-	1104		ABC-type amino acid transport system, permease component	GV13
+GV14|SEQ00961	clust_0085	VBIGarVag244375_0961	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85503829	15523	16674	+	1152		ABC-type amino acid transport system, permease component	GV14
+GV15|SEQ00731	clust_0085	VBIGarVag249709_0731	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85485019	207279	208364	+	1086		ABC-type amino acid transport system, permease component	GV15
+GV16|SEQ00795	clust_0085	VBIGarVag246379_0795	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478751	900333	901436	+	1104		ABC-type amino acid transport system, permease component	GV16
+GV17|SEQ00872	clust_0085	VBIGarVag146634_0872	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851819	82686	83771	-	1086		ABC-type amino acid transport system, permease component	GV17
+GV18|SEQ00401	clust_0085	VBIGarVag4823_0401	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000094	PATRIC	CDS	42069531	10309	11412	-	1104		ABC-type amino acid transport system, permease component	GV18
+GV19|SEQ00816	clust_0085	VBIGarVag39333_0817	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628531	1009043	1010146	-	1104	gluD	ABC-type amino acid transport system, permease component	GV19
+GV20|SEQ00732	clust_0085	VBIGarVag188338_0732	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190293	891194	892297	+	1104		ABC-type amino acid transport system, permease component	GV20
+GV21|SEQ00185	clust_0085	VBIGarVag274454_0185	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967013	41726	42829	-	1104		ABC-type amino acid transport system, permease component	GV21
+GV22|SEQ00480	clust_0085	VBIGarVag276801_0481	Gardnerella vaginalis JCP7276	ATJR01000014	PATRIC	CDS	183970392	2694	3797	+	1104		ABC-type amino acid transport system, permease component	GV22
+GV23|SEQ00695	clust_0085	VBIGarVag276017_0695	Gardnerella vaginalis JCP7659	ATJQ01000044	PATRIC	CDS	183973757	144972	146075	-	1104		ABC-type amino acid transport system, permease component	GV23
+GV24|SEQ00381	clust_0085	VBIGarVag268944_0382	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975886	41848	42951	-	1104		ABC-type amino acid transport system, permease component	GV24
+GV25|SEQ01031	clust_0085	VBIGarVag270495_1031	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980107	43490	44593	+	1104		ABC-type amino acid transport system, permease component	GV25
+GV26|SEQ00575	clust_0085	VBIGarVag272749_0575	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981944	127703	128806	-	1104		ABC-type amino acid transport system, permease component	GV26
+GV27|SEQ00363	clust_0085	VBIGarVag276930_0363	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984467	44760	45863	+	1104		ABC-type amino acid transport system, permease component	GV27
+GV28|SEQ00752	clust_0085	VBIGarVag271349_0752	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988259	40824	41927	+	1104		ABC-type amino acid transport system, permease component	GV28
+GV29|SEQ00070	clust_0085	VBIGarVag265473_0070	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989499	44019	45122	+	1104		ABC-type amino acid transport system, permease component	GV29
+GV30|SEQ00057	clust_0085	VBIGarVag267667_0057	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992151	41901	43004	-	1104		ABC-type amino acid transport system, permease component	GV30
+GV31|SEQ00244	clust_0085	VBIGarVag264983_0244	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995529	44702	45805	+	1104		ABC-type amino acid transport system, permease component	GV31
+GV32|SEQ01120	clust_0085	VBIGarVag277040_1120	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000287	33684	34787	-	1104		ABC-type amino acid transport system, permease component	GV32
+GV33|SEQ00845	clust_0085	VBIGarVag265557_0845	Gardnerella vaginalis JCP8481A	ATJG01000087	PATRIC	CDS	184002485	41986	43128	-	1143		ABC-type amino acid transport system, permease component	GV33
+GV34|SEQ00139	clust_0085	VBIGarVag270440_0139	Gardnerella vaginalis JCP8481B	ATJF01000010	PATRIC	CDS	184003789	26801	27943	+	1143		ABC-type amino acid transport system, permease component	GV34
+GV35|SEQ00077	clust_0085	VBIGarVag272169_0077	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006431	77784	78887	-	1104		ABC-type amino acid transport system, permease component	GV35

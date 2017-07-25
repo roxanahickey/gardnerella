@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00845	clust_0416	VBIGarVag247323_0845	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495859	61727	62572	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV01
+GV02|SEQ01215	clust_0416	VBIGarVag242669_1215	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499307	201853	202698	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV02
+GV03|SEQ00255	clust_0416	VBIGarVag247424_0255	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499893	208035	208880	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV03
+GV04|SEQ00093	clust_0416	VBIGarVag246433_0093	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480034	97811	98656	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV04
+GV05|SEQ00356	clust_0416	VBIGarVag174900_0356	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546437	206429	207274	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV05
+GV06|SEQ00643	clust_0416	VBIGarVag244004_0643	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490067	91842	92687	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV06
+GV07|SEQ01183	clust_0416	VBIGarVag249177_1183	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494067	88698	89543	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV07
+GV08|SEQ01130	clust_0416	VBIGarVag251521_1130	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476709	237592	238437	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV08
+GV09|SEQ01164	clust_0416	VBIGarVag169280_1164	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261557	28729	29574	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV09
+GV10|SEQ00153	clust_0416	VBIGarVag136958_0153	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146322	187686	188531	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV10
+GV11|SEQ01195	clust_0416	VBIGarVag171052_1195	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550799	68657	69502	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV11
+GV12|SEQ00689	clust_0416	VBIGarVag144721_0689	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854077	223683	224528	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV12
+GV13|SEQ01028	clust_0416	VBIGarVag244533_1028	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488073	17618	18463	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV13
+GV14|SEQ00197	clust_0416	VBIGarVag244375_0197	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502228	197444	198289	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV14
+GV15|SEQ00520	clust_0416	VBIGarVag249709_0520	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484576	267825	268670	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV15
+GV16|SEQ00283	clust_0416	VBIGarVag246379_0283	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477686	241714	242559	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV16
+GV17|SEQ00446	clust_0416	VBIGarVag146634_0446	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850925	442926	443771	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV17
+GV18|SEQ00695	clust_0416	VBIGarVag4823_0695	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000121	PATRIC	CDS	42070162	17652	18497	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV18
+GV19|SEQ01329	clust_0416	VBIGarVag39333_1332	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629595	1651226	1652071	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV19
+GV20|SEQ00166	clust_0416	VBIGarVag188338_0166	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189118	195855	196700	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV20
+GV21|SEQ00871	clust_0416	VBIGarVag274454_0872	Gardnerella vaginalis JCP7275	ATJS01000062	PATRIC	CDS	183968487	1061	1906	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV21
+GV22|SEQ00886	clust_0416	VBIGarVag276801_0887	Gardnerella vaginalis JCP7276	ATJR01000048	PATRIC	CDS	183971260	1582	2427	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV22
+GV23|SEQ00355	clust_0416	VBIGarVag276017_0355	Gardnerella vaginalis JCP7659	ATJQ01000025	PATRIC	CDS	183973037	1621	2466	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV23
+GV24|SEQ00831	clust_0416	VBIGarVag268944_0832	Gardnerella vaginalis JCP7672	ATJP01000073	PATRIC	CDS	183976870	1079	1924	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV24
+GV25|SEQ00350	clust_0416	VBIGarVag270495_0350	Gardnerella vaginalis JCP7719	ATJO01000021	PATRIC	CDS	183978602	16893	17738	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV25
+GV26|SEQ00647	clust_0416	VBIGarVag272749_0647	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982091	1628	2473	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV26
+GV27|SEQ00880	clust_0416	VBIGarVag276930_0880	Gardnerella vaginalis JCP8017B	ATJM01000044	PATRIC	CDS	183985560	4052	4897	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV27
+GV28|SEQ00214	clust_0416	VBIGarVag271349_0214	Gardnerella vaginalis JCP8066	ATJL01000016	PATRIC	CDS	183987090	1588	2433	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV28
+GV29|SEQ00469	clust_0416	VBIGarVag265473_0469	Gardnerella vaginalis JCP8070	ATJK01000023	PATRIC	CDS	183990349	1581	2426	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV29
+GV30|SEQ00311	clust_0416	VBIGarVag267667_0312	Gardnerella vaginalis JCP8108	ATJJ01000010	PATRIC	CDS	183992681	27974	28819	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV30
+GV31|SEQ00799	clust_0416	VBIGarVag264983_0799	Gardnerella vaginalis JCP8151A	ATJI01000046	PATRIC	CDS	183996720	4271	5116	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV31
+GV32|SEQ00544	clust_0416	VBIGarVag277040_0544	Gardnerella vaginalis JCP8151B	ATJH01000034	PATRIC	CDS	183998988	4272	5117	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV32
+GV33|SEQ00560	clust_0416	VBIGarVag265557_0560	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001864	13016	13861	+	846		ABC-type antimicrobial peptide transport system, ATPase component	GV33
+GV34|SEQ00406	clust_0416	VBIGarVag270440_0406	Gardnerella vaginalis JCP8481B	ATJF01000027	PATRIC	CDS	184004370	8080	8925	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV34
+GV35|SEQ00514	clust_0416	VBIGarVag272169_0514	Gardnerella vaginalis JCP8522	ATJE01000031	PATRIC	CDS	184007355	5037	5882	-	846		ABC-type antimicrobial peptide transport system, ATPase component	GV35

@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV06|SEQ00394	clust_1386	VBIGarVag244004_0394	Gardnerella vaginalis 1400E	ADER01000011	PATRIC	CDS	85489531	65363	66235	-	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV06
+GV09|SEQ01258	clust_1386	VBIGarVag169280_1258	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261759	122791	123663	+	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV09
+GV13|SEQ00403	clust_1386	VBIGarVag244533_0403	Gardnerella vaginalis 55152	ADEQ01000005	PATRIC	CDS	85486765	43126	43998	-	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV13
+GV16|SEQ00381	clust_1386	VBIGarVag246379_0381	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477896	346191	347063	+	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV16
+GV18|SEQ00250	clust_1386	VBIGarVag4823_0250	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000074	PATRIC	CDS	42069203	3935	4807	+	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV18
+GV19|SEQ01228	clust_1386	VBIGarVag39333_1230	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629379	1549401	1550273	-	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV19
+GV20|SEQ00266	clust_1386	VBIGarVag188338_0266	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189333	301393	302265	+	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV20
+GV30|SEQ00016	clust_1386	VBIGarVag267667_0016	Gardnerella vaginalis JCP8108	ATJJ01000001	PATRIC	CDS	183992068	19017	19889	-	873		Permease of the drug/metabolite transporter (DMT) superfamily	GV30

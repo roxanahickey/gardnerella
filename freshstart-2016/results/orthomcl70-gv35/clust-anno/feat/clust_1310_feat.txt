@@ -1,0 +1,11 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV02|SEQ01045	clust_1310	VBIGarVag242669_1045	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85498946	1780	2985	-	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV02
+GV23|SEQ00021	clust_1310	VBIGarVag276017_0021	Gardnerella vaginalis JCP7659	ATJQ01000004	PATRIC	CDS	183972330	9002	10207	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV23
+GV25|SEQ01294	clust_1310	VBIGarVag270495_1294	Gardnerella vaginalis JCP7719	ATJO01000185	PATRIC	CDS	183980711	9016	10230	+	1215		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV25
+GV26|SEQ00335	clust_1310	VBIGarVag272749_0335	Gardnerella vaginalis JCP8017A	ATJN01000020	PATRIC	CDS	183981445	8985	10199	+	1215		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV26
+GV27|SEQ00195	clust_1310	VBIGarVag276930_0195	Gardnerella vaginalis JCP8017B	ATJM01000006	PATRIC	CDS	183984114	8983	10197	+	1215		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV27
+GV28|SEQ00112	clust_1310	VBIGarVag271349_0112	Gardnerella vaginalis JCP8066	ATJL01000012	PATRIC	CDS	183986880	8938	10143	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV28
+GV29|SEQ00018	clust_1310	VBIGarVag265473_0018	Gardnerella vaginalis JCP8070	ATJK01000002	PATRIC	CDS	183989383	9083	10288	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV29
+GV31|SEQ00120	clust_1310	VBIGarVag264983_0120	Gardnerella vaginalis JCP8151A	ATJI01000006	PATRIC	CDS	183995272	9003	10208	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV31
+GV32|SEQ00355	clust_1310	VBIGarVag277040_0355	Gardnerella vaginalis JCP8151B	ATJH01000015	PATRIC	CDS	183998563	9003	10208	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV32
+GV35|SEQ00117	clust_1310	VBIGarVag272169_0117	Gardnerella vaginalis JCP8522	ATJE01000004	PATRIC	CDS	184006512	8931	10136	+	1206		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	GV35

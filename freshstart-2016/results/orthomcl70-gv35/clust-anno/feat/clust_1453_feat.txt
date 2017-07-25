@@ -1,0 +1,8 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00930	clust_1453	VBIGarVag246433_0930	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481766	287997	288608	-	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV04
+GV08|SEQ00871	clust_1453	VBIGarVag251521_0871	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476172	40392	41003	-	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV08
+GV10|SEQ00910	clust_1453	VBIGarVag136958_0910	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147902	1188198	1188809	+	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV10
+GV19|SEQ00892	clust_1453	VBIGarVag39333_0893	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628689	1106218	1106829	+	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV19
+GV20|SEQ00658	clust_1453	VBIGarVag188338_0658	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190138	794495	795106	-	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV20
+GV21|SEQ00020	clust_1453	VBIGarVag274454_0020	Gardnerella vaginalis JCP7275	ATJS01000003	PATRIC	CDS	183966672	22026	22637	-	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV21
+GV22|SEQ00407	clust_1453	VBIGarVag276801_0408	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970239	30753	31364	-	612		Substrate-specific component STY3230 of queuosine-regulated ECF transporter	GV22

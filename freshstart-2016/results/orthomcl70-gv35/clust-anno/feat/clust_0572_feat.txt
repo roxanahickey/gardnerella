@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00242	clust_0572	VBIGarVag247323_0242	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494600	126989	127783	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV01
+GV02|SEQ00514	clust_0572	VBIGarVag242669_0514	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497825	117179	117973	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV02
+GV03|SEQ00599	clust_0572	VBIGarVag247424_0599	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500615	168836	169630	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV03
+GV04|SEQ00440	clust_0572	VBIGarVag246433_0440	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480760	57984	58778	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV04
+GV05|SEQ00618	clust_0572	VBIGarVag174900_0618	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546990	229844	230638	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV05
+GV06|SEQ00796	clust_0572	VBIGarVag244004_0796	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490388	141442	142236	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV06
+GV07|SEQ00786	clust_0572	VBIGarVag249177_0786	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493233	43974	44768	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV07
+GV08|SEQ00357	clust_0572	VBIGarVag251521_0357	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475111	189850	190644	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV08
+GV09|SEQ00454	clust_0572	VBIGarVag169280_0454	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260084	165720	166514	-	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV09
+GV10|SEQ00408	clust_0572	VBIGarVag136958_0408	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146864	494973	495767	+	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV10
+GV11|SEQ00347	clust_0572	VBIGarVag171052_0347	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52548998	27873	28667	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV11
+GV12|SEQ00952	clust_0572	VBIGarVag144721_0952	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854635	527092	527886	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV12
+GV13|SEQ00811	clust_0572	VBIGarVag244533_0811	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487616	287220	288014	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV13
+GV14|SEQ00413	clust_0572	VBIGarVag244375_0413	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502678	49409	50203	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV14
+GV15|SEQ00212	clust_0572	VBIGarVag249709_0212	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483926	42918	43712	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV15
+GV16|SEQ01105	clust_0572	VBIGarVag246379_1105	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479398	1282720	1283514	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV16
+GV17|SEQ00181	clust_0572	VBIGarVag146634_0181	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850363	124781	125575	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV17
+GV18|SEQ00239	clust_0572	VBIGarVag4823_0239	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000073	PATRIC	CDS	42069178	640	1434	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV18
+GV19|SEQ00505	clust_0572	VBIGarVag39333_0506	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627885	629636	630430	+	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV19
+GV20|SEQ01015	clust_0572	VBIGarVag188338_1015	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190884	1255324	1256118	-	795	uppS	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV20
+GV21|SEQ00717	clust_0572	VBIGarVag274454_0718	Gardnerella vaginalis JCP7275	ATJS01000046	PATRIC	CDS	183968137	5936	6730	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV21
+GV22|SEQ00352	clust_0572	VBIGarVag276801_0353	Gardnerella vaginalis JCP7276	ATJR01000010	PATRIC	CDS	183970124	7132	7926	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV22
+GV23|SEQ00955	clust_0572	VBIGarVag276017_0955	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974346	27565	28359	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV23
+GV24|SEQ00517	clust_0572	VBIGarVag268944_0518	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976179	7131	7925	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV24
+GV25|SEQ00212	clust_0572	VBIGarVag270495_0212	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978304	31578	32372	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV25
+GV26|SEQ00026	clust_0572	VBIGarVag272749_0026	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980780	29382	30176	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV26
+GV27|SEQ00155	clust_0572	VBIGarVag276930_0155	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984031	35035	35829	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV27
+GV28|SEQ00586	clust_0572	VBIGarVag271349_0586	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987893	21176	21970	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV28
+GV29|SEQ00189	clust_0572	VBIGarVag265473_0189	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989748	21073	21867	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV29
+GV30|SEQ00639	clust_0572	VBIGarVag267667_0640	Gardnerella vaginalis JCP8108	ATJJ01000039	PATRIC	CDS	183993403	7940	8734	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV30
+GV31|SEQ00175	clust_0572	VBIGarVag264983_0175	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995388	21210	22004	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV31
+GV32|SEQ00423	clust_0572	VBIGarVag277040_0423	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998718	21503	22297	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV32
+GV33|SEQ00353	clust_0572	VBIGarVag265557_0353	Gardnerella vaginalis JCP8481A	ATJG01000030	PATRIC	CDS	184001422	16824	17618	+	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV33
+GV34|SEQ00451	clust_0572	VBIGarVag270440_0451	Gardnerella vaginalis JCP8481B	ATJF01000034	PATRIC	CDS	184004471	6305	7099	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV34
+GV35|SEQ00476	clust_0572	VBIGarVag272169_0476	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007272	29818	30612	-	795		Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)	GV35

@@ -1,0 +1,13 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00387	clust_1214	VBIGarVag246433_0387	Gardnerella vaginalis 0288E	ADEN01000004	PATRIC	CDS	85480649	131818	133014	+	1197		sugar transporter sugar binding protein	GV04
+GV06|SEQ00724	clust_1214	VBIGarVag244004_0724	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490238	47653	48993	+	1341		sugar transporter sugar binding protein	GV06
+GV08|SEQ00618	clust_1214	VBIGarVag251521_0618	Gardnerella vaginalis 284V	ADEL01000007	PATRIC	CDS	85475652	27658	28998	-	1341		sugar transporter sugar binding protein	GV08
+GV11|SEQ00709	clust_1214	VBIGarVag171052_0709	Gardnerella vaginalis 41V	AEJE01000044	PATRIC	CDS	52549767	4491	5831	-	1341		sugar transporter sugar binding protein	GV11
+GV13|SEQ01006	clust_1214	VBIGarVag244533_1006	Gardnerella vaginalis 55152	ADEQ01000015	PATRIC	CDS	85488028	32990	34186	+	1197		sugar transporter sugar binding protein	GV13
+GV18|SEQ00608	clust_1214	VBIGarVag4823_0608	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000114	PATRIC	CDS	42069977	12511	13707	-	1197		sugar transporter sugar binding protein	GV18
+GV19|SEQ01157	clust_1214	VBIGarVag39333_1159	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629227	1410315	1411511	-	1197		sugar transporter sugar binding protein	GV19
+GV20|SEQ00350	clust_1214	VBIGarVag188338_0350	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189511	454283	455623	+	1341		sugar transporter sugar binding protein	GV20
+GV21|SEQ00771	clust_1214	VBIGarVag274454_0772	Gardnerella vaginalis JCP7275	ATJS01000053	PATRIC	CDS	183968258	10655	11995	+	1341		sugar transporter sugar binding protein	GV21
+GV22|SEQ00188	clust_1214	VBIGarVag276801_0188	Gardnerella vaginalis JCP7276	ATJR01000003	PATRIC	CDS	183969769	13823	15163	+	1341		sugar transporter sugar binding protein	GV22
+GV24|SEQ00474	clust_1214	VBIGarVag268944_0475	Gardnerella vaginalis JCP7672	ATJP01000023	PATRIC	CDS	183976083	21981	22859	+	879		sugar transporter sugar binding protein	GV24
+GV30|SEQ00757	clust_1214	VBIGarVag267667_0759	Gardnerella vaginalis JCP8108	ATJJ01000048	PATRIC	CDS	183993650	4522	5862	-	1341		sugar transporter sugar binding protein	GV30

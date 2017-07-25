@@ -1,0 +1,11 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV03|SEQ01095	clust_1272	VBIGarVag247424_1095	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501656	25257	26108	+	852		Cell division protein MraZ	GV03
+GV05|SEQ00034	clust_1272	VBIGarVag174900_0034	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545773	45468	46331	+	864		Cell division protein MraZ	GV05
+GV07|SEQ00446	clust_1272	VBIGarVag249177_0446	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492518	85850	86689	-	840		Cell division protein MraZ	GV07
+GV10|SEQ00974	clust_1272	VBIGarVag136958_0974	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148030	1277513	1278325	-	813	mraZ	Cell division protein MraZ	GV10
+GV12|SEQ00377	clust_1272	VBIGarVag144721_0377	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853427	386244	387056	-	813		Cell division protein MraZ	GV12
+GV14|SEQ00736	clust_1272	VBIGarVag244375_0736	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503358	95742	96581	+	840		Cell division protein MraZ	GV14
+GV15|SEQ00953	clust_1272	VBIGarVag249709_0953	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485482	129291	130103	-	813		Cell division protein MraZ	GV15
+GV17|SEQ01127	clust_1272	VBIGarVag146634_1127	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852349	66683	67495	-	813		Cell division protein MraZ	GV17
+GV33|SEQ00613	clust_1272	VBIGarVag265557_0613	Gardnerella vaginalis JCP8481A	ATJG01000055	PATRIC	CDS	184001972	15196	16047	-	852		Cell division protein MraZ	GV33
+GV34|SEQ00577	clust_1272	VBIGarVag270440_0577	Gardnerella vaginalis JCP8481B	ATJF01000053	PATRIC	CDS	184004749	268	1119	+	852		Cell division protein MraZ	GV34

@@ -1,0 +1,5 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV07|SEQ00665	clust_1713	VBIGarVag249177_0665	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85492982	47614	47886	+	273		Prevent-host-death family protein	GV07
+GV14|SEQ00487	clust_1713	VBIGarVag244375_0487	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502831	123506	123778	-	273		Prevent-host-death family protein	GV14
+GV33|SEQ01072	clust_1713	VBIGarVag265557_1072	Gardnerella vaginalis JCP8481A	ATJG01000145	PATRIC	CDS	184003022	6735	7007	-	273		Prevent-host-death family protein	GV33
+GV34|SEQ01146	clust_1713	VBIGarVag270440_1146	Gardnerella vaginalis JCP8481B	ATJF01000128	PATRIC	CDS	184005998	39122	39394	+	273		Prevent-host-death family protein	GV34

@@ -1,0 +1,4 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV11|SEQ00116	clust_1879	VBIGarVag171052_0116	Gardnerella vaginalis 41V	AEJE01000006	PATRIC	CDS	52548500	20195	20374	-	180		hypothetical protein	GV11
+GV13|SEQ00196	clust_1879	VBIGarVag244533_0196	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486335	631	810	+	180		hypothetical protein	GV13
+GV30|SEQ00547	clust_1879	VBIGarVag267667_0548	Gardnerella vaginalis JCP8108	ATJJ01000030	PATRIC	CDS	183993195	591	770	+	180		LPXTG-motif protein cell wall anchor domain protein	GV30

@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV07|SEQ00378	clust_1513	VBIGarVag249177_0378	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492380	116	448	-	333		CRISPR-associated protein Cas2	GV07
+GV08|SEQ00635	clust_1513	VBIGarVag251521_0635	Gardnerella vaginalis 284V	ADEL01000008	PATRIC	CDS	85475689	87	419	-	333		CRISPR-associated protein Cas2	GV08
+GV22|SEQ00663	clust_1513	VBIGarVag276801_0664	Gardnerella vaginalis JCP7276	ATJR01000025	PATRIC	CDS	183970769	210	542	-	333		CRISPR-associated protein Cas2	GV22
+GV24|SEQ00645	clust_1513	VBIGarVag268944_0646	Gardnerella vaginalis JCP7672	ATJP01000047	PATRIC	CDS	183976466	143	475	-	333		CRISPR-associated protein Cas2	GV24
+GV25|SEQ01173	clust_1513	VBIGarVag270495_1173	Gardnerella vaginalis JCP7719	ATJO01000132	PATRIC	CDS	183980408	6180	6512	+	333		CRISPR-associated protein Cas2	GV25
+GV30|SEQ01302	clust_1513	VBIGarVag267667_1304	Gardnerella vaginalis JCP8108	ATJJ01000157	PATRIC	CDS	183994891	9207	9539	+	333		CRISPR-associated protein Cas2	GV30

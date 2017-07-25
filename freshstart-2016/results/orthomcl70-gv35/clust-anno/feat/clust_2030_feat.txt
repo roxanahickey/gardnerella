@@ -1,0 +1,3 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV03|SEQ00971	clust_2030	VBIGarVag247424_0971	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501388	328342	328902	-	561		Ribosomal-protein-S5p-alanine acetyltransferase	GV03
+GV07|SEQ00314	clust_2030	VBIGarVag249177_0314	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492245	124039	124587	+	549		Ribosomal-protein-S5p-alanine acetyltransferase	GV07

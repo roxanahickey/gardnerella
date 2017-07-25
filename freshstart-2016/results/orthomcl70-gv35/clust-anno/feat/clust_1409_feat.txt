@@ -1,0 +1,9 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV03|SEQ00742	clust_1409	VBIGarVag247424_0742	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500911	14471	15871	+	1401		Beta-hexosaminidase (EC 3.2.1.52)	GV03
+GV05|SEQ00794	clust_1409	VBIGarVag174900_0794	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547350	441203	442603	+	1401		Beta-hexosaminidase (EC 3.2.1.52)	GV05
+GV07|SEQ00554	clust_1409	VBIGarVag249177_0554	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492753	24520	25920	+	1401		Beta-hexosaminidase (EC 3.2.1.52)	GV07
+GV14|SEQ00257	clust_1409	VBIGarVag244375_0257	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502352	62699	64099	+	1401		Beta-hexosaminidase (EC 3.2.1.52)	GV14
+GV15|SEQ00597	clust_1409	VBIGarVag249709_0597	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484735	20053	21480	+	1428		Beta-hexosaminidase (EC 3.2.1.52)	GV15
+GV17|SEQ01013	clust_1409	VBIGarVag146634_1013	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852118	166890	168317	-	1428		Beta-hexosaminidase (EC 3.2.1.52)	GV17
+GV33|SEQ00726	clust_1409	VBIGarVag265557_0726	Gardnerella vaginalis JCP8481A	ATJG01000075	PATRIC	CDS	184002226	6870	8270	+	1401		Beta-hexosaminidase (EC 3.2.1.52)	GV33
+GV34|SEQ00667	clust_1409	VBIGarVag270440_0667	Gardnerella vaginalis JCP8481B	ATJF01000071	PATRIC	CDS	184004947	6870	8270	+	1401		Beta-hexosaminidase (EC 3.2.1.52)	GV34

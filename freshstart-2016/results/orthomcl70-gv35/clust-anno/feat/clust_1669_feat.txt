@@ -1,0 +1,5 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ00673	clust_1669	VBIGarVag136958_0673	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147414	871921	873162	+	1242		Allantoate amidohydrolase (EC 3.5.3.9)	GV10
+GV12|SEQ00109	clust_1669	VBIGarVag144721_0109	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37852877	39056	40297	+	1242		Allantoate amidohydrolase (EC 3.5.3.9)	GV12
+GV15|SEQ00716	clust_1669	VBIGarVag249709_0716	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484987	186247	187488	+	1242		Allantoate amidohydrolase (EC 3.5.3.9)	GV15
+GV17|SEQ00887	clust_1669	VBIGarVag146634_0887	Gardnerella vaginalis AMD	NZ_ADAM01000008	PATRIC	CDS	37851851	103572	104813	-	1242		Allantoate amidohydrolase (EC 3.5.3.9)	GV17

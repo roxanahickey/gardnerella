@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00865	clust_0425	VBIGarVag247323_0865	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495899	81420	82241	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV01
+GV02|SEQ01194	clust_0425	VBIGarVag242669_1194	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499265	179572	180393	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV02
+GV03|SEQ00278	clust_0425	VBIGarVag247424_0278	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499939	229646	230470	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV03
+GV04|SEQ00072	clust_0425	VBIGarVag246433_0072	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85479992	75457	76278	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV04
+GV05|SEQ00379	clust_0425	VBIGarVag174900_0379	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546483	228153	228977	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV05
+GV06|SEQ00620	clust_0425	VBIGarVag244004_0620	Gardnerella vaginalis 1400E	ADER01000017	PATRIC	CDS	85490021	70250	71071	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV06
+GV07|SEQ01162	clust_0425	VBIGarVag249177_1162	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85494025	68762	69586	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV07
+GV08|SEQ01153	clust_0425	VBIGarVag251521_1153	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476755	259991	260812	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV08
+GV09|SEQ01185	clust_0425	VBIGarVag169280_1185	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261599	46476	47297	-	822	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV09
+GV10|SEQ00168	clust_0425	VBIGarVag136958_0168	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146352	202930	203754	-	825	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV10
+GV11|SEQ01172	clust_0425	VBIGarVag171052_1172	Gardnerella vaginalis 41V	AEJE01000067	PATRIC	CDS	52550753	46961	47782	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV11
+GV12|SEQ00706	clust_0425	VBIGarVag144721_0706	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854111	238920	239744	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV12
+GV13|SEQ01053	clust_0425	VBIGarVag244533_1053	Gardnerella vaginalis 55152	ADEQ01000016	PATRIC	CDS	85488123	43965	44786	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV13
+GV14|SEQ00173	clust_0425	VBIGarVag244375_0173	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502180	173335	174159	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV14
+GV15|SEQ00502	clust_0425	VBIGarVag249709_0502	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484540	251594	252418	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV15
+GV16|SEQ00305	clust_0425	VBIGarVag246379_0305	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477730	264127	264948	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV16
+GV17|SEQ00428	clust_0425	VBIGarVag146634_0428	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850889	426695	427519	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV17
+GV18|SEQ01042	clust_0425	VBIGarVag4823_1042	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000139	PATRIC	CDS	42070907	35367	36188	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV18
+GV19|SEQ01307	clust_0425	VBIGarVag39333_1310	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629551	1628851	1629672	+	822	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV19
+GV20|SEQ00189	clust_0425	VBIGarVag188338_0189	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189164	218329	219150	-	822	pgl	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV20
+GV21|SEQ01130	clust_0425	VBIGarVag274454_1131	Gardnerella vaginalis JCP7275	ATJS01000149	PATRIC	CDS	183969120	10765	11586	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV21
+GV22|SEQ00828	clust_0425	VBIGarVag276801_0829	Gardnerella vaginalis JCP7276	ATJR01000044	PATRIC	CDS	183971128	1440	2261	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV22
+GV23|SEQ00724	clust_0425	VBIGarVag276017_0724	Gardnerella vaginalis JCP7659	ATJQ01000049	PATRIC	CDS	183973820	1234	2055	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV23
+GV24|SEQ00561	clust_0425	VBIGarVag268944_0562	Gardnerella vaginalis JCP7672	ATJP01000032	PATRIC	CDS	183976273	13904	14725	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV24
+GV25|SEQ00370	clust_0425	VBIGarVag270495_0370	Gardnerella vaginalis JCP7719	ATJO01000025	PATRIC	CDS	183978646	5143	5964	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV25
+GV26|SEQ00670	clust_0425	VBIGarVag272749_0670	Gardnerella vaginalis JCP8017A	ATJN01000032	PATRIC	CDS	183982137	24539	25360	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV26
+GV27|SEQ00857	clust_0425	VBIGarVag276930_0857	Gardnerella vaginalis JCP8017B	ATJM01000043	PATRIC	CDS	183985513	1111	1932	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV27
+GV28|SEQ00234	clust_0425	VBIGarVag271349_0234	Gardnerella vaginalis JCP8066	ATJL01000016	PATRIC	CDS	183987130	18839	19660	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV28
+GV29|SEQ00743	clust_0425	VBIGarVag265473_0743	Gardnerella vaginalis JCP8070	ATJK01000051	PATRIC	CDS	183990949	1094	1915	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV29
+GV30|SEQ00288	clust_0425	VBIGarVag267667_0289	Gardnerella vaginalis JCP8108	ATJJ01000010	PATRIC	CDS	183992635	3335	4156	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV30
+GV31|SEQ00840	clust_0425	VBIGarVag264983_0840	Gardnerella vaginalis JCP8151A	ATJI01000053	PATRIC	CDS	183996811	6396	7217	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV31
+GV32|SEQ00663	clust_0425	VBIGarVag277040_0663	Gardnerella vaginalis JCP8151B	ATJH01000045	PATRIC	CDS	183999239	8664	9485	-	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV32
+GV33|SEQ00589	clust_0425	VBIGarVag265557_0589	Gardnerella vaginalis JCP8481A	ATJG01000053	PATRIC	CDS	184001922	38056	38880	-	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV33
+GV34|SEQ00378	clust_0425	VBIGarVag270440_0378	Gardnerella vaginalis JCP8481B	ATJF01000026	PATRIC	CDS	184004313	29754	30578	+	825		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV34
+GV35|SEQ00646	clust_0425	VBIGarVag272169_0646	Gardnerella vaginalis JCP8522	ATJE01000048	PATRIC	CDS	184007656	2699	3520	+	822		6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type	GV35

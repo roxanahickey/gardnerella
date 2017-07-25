@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00216	clust_0545	VBIGarVag247323_0216	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494548	95688	96164	-	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV01
+GV02|SEQ00488	clust_0545	VBIGarVag242669_0488	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497773	85932	86396	-	465		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV02
+GV03|SEQ00543	clust_0545	VBIGarVag247424_0543	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500493	97658	98110	+	453		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV03
+GV04|SEQ00418	clust_0545	VBIGarVag246433_0418	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480716	28929	29369	-	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV04
+GV05|SEQ00564	clust_0545	VBIGarVag174900_0564	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546872	159005	159472	+	468		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV05
+GV06|SEQ00817	clust_0545	VBIGarVag244004_0817	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490430	169537	170025	+	489		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV06
+GV07|SEQ00847	clust_0545	VBIGarVag249177_0847	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493365	120594	121046	-	453		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV07
+GV08|SEQ00379	clust_0545	VBIGarVag251521_0379	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475155	219259	219699	+	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV08
+GV09|SEQ00432	clust_0545	VBIGarVag169280_0432	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260040	136655	137095	-	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV09
+GV10|SEQ00358	clust_0545	VBIGarVag136958_0358	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146754	418161	418634	+	474		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV10
+GV11|SEQ00325	clust_0545	VBIGarVag171052_0325	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52548952	119	559	-	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV11
+GV12|SEQ00901	clust_0545	VBIGarVag144721_0901	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854523	454745	455218	+	474		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV12
+GV13|SEQ00789	clust_0545	VBIGarVag244533_0789	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487572	258151	258627	-	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV13
+GV14|SEQ00848	clust_0545	VBIGarVag244375_0848	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503585	42260	42760	+	501		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV14
+GV15|SEQ00304	clust_0545	VBIGarVag249709_0304	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484121	26829	27302	-	474		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV15
+GV16|SEQ01083	clust_0545	VBIGarVag246379_1083	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479354	1253669	1254109	-	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV16
+GV17|SEQ00236	clust_0545	VBIGarVag146634_0236	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850483	205382	205855	-	474		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV17
+GV18|SEQ01207	clust_0545	VBIGarVag4823_1207	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000144	PATRIC	CDS	42071250	21863	22303	+	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV18
+GV19|SEQ00527	clust_0545	VBIGarVag39333_0528	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627929	659030	659470	+	441	paaD	PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV19
+GV20|SEQ00993	clust_0545	VBIGarVag188338_0993	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190840	1226278	1226718	-	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV20
+GV21|SEQ01031	clust_0545	VBIGarVag274454_1032	Gardnerella vaginalis JCP7275	ATJS01000108	PATRIC	CDS	183968879	306	782	-	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV21
+GV22|SEQ01310	clust_0545	VBIGarVag276801_1311	Gardnerella vaginalis JCP7276	ATJR01000177	PATRIC	CDS	183972270	6335	6775	+	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV22
+GV23|SEQ00981	clust_0545	VBIGarVag276017_0981	Gardnerella vaginalis JCP7659	ATJQ01000090	PATRIC	CDS	183974399	6579	7031	+	453		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV23
+GV24|SEQ00539	clust_0545	VBIGarVag268944_0540	Gardnerella vaginalis JCP7672	ATJP01000028	PATRIC	CDS	183976223	36508	36948	+	441		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV24
+GV25|SEQ00186	clust_0545	VBIGarVag270495_0186	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978252	356	820	-	465		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV25
+GV26|SEQ00741	clust_0545	VBIGarVag272749_0741	Gardnerella vaginalis JCP8017A	ATJN01000039	PATRIC	CDS	183982296	4832	5308	-	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV26
+GV27|SEQ00182	clust_0545	VBIGarVag276930_0182	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984085	66631	67107	+	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV27
+GV28|SEQ00610	clust_0545	VBIGarVag271349_0610	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987941	50855	51340	+	486		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV28
+GV29|SEQ00224	clust_0545	VBIGarVag265473_0224	Gardnerella vaginalis JCP8070	ATJK01000009	PATRIC	CDS	183989820	1323	1790	+	468		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV29
+GV30|SEQ00797	clust_0545	VBIGarVag267667_0799	Gardnerella vaginalis JCP8108	ATJJ01000058	PATRIC	CDS	183993744	1126	1590	+	465		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV30
+GV31|SEQ00198	clust_0545	VBIGarVag264983_0198	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995434	49670	50146	+	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV31
+GV32|SEQ00447	clust_0545	VBIGarVag277040_0447	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998766	51227	51703	+	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV32
+GV33|SEQ00621	clust_0545	VBIGarVag265557_0621	Gardnerella vaginalis JCP8481A	ATJG01000056	PATRIC	CDS	184001989	4673	5158	+	486		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV33
+GV34|SEQ00974	clust_0545	VBIGarVag270440_0974	Gardnerella vaginalis JCP8481B	ATJF01000112	PATRIC	CDS	184005624	411	896	-	486		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV34
+GV35|SEQ00452	clust_0545	VBIGarVag272169_0452	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007224	415	891	-	477		PaaD-like protein (DUF59) involved in Fe-S cluster assembly	GV35

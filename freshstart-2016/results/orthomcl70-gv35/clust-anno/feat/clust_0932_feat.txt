@@ -1,0 +1,29 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00696	clust_0932	VBIGarVag247323_0696	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495551	126389	127954	+	1566		Putative transport system secreted protein	GV01
+GV02|SEQ00180	clust_0932	VBIGarVag242669_0180	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497128	161069	162634	+	1566		Putative transport system secreted protein	GV02
+GV03|SEQ00095	clust_0932	VBIGarVag247424_0095	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499558	8878	10440	+	1563		Putative transport system secreted protein	GV03
+GV04|SEQ00290	clust_0932	VBIGarVag246433_0290	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480442	180154	181719	+	1566		Putative transport system secreted protein	GV04
+GV05|SEQ00197	clust_0932	VBIGarVag174900_0197	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546104	8888	10450	+	1563		Putative transport system secreted protein	GV05
+GV06|SEQ00431	clust_0932	VBIGarVag244004_0431	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489608	37283	38848	-	1566		Putative transport system secreted protein	GV06
+GV07|SEQ00166	clust_0932	VBIGarVag249177_0166	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491921	196063	197625	-	1563		Putative transport system secreted protein	GV07
+GV08|SEQ00950	clust_0932	VBIGarVag251521_0950	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476337	29624	31189	-	1566		Putative transport system secreted protein	GV08
+GV09|SEQ00152	clust_0932	VBIGarVag169280_0152	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259457	129506	131071	+	1566		Putative transport system secreted protein	GV09
+GV11|SEQ00445	clust_0932	VBIGarVag171052_0445	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549207	31743	33308	-	1566		Putative transport system secreted protein	GV11
+GV13|SEQ00047	clust_0932	VBIGarVag244533_0047	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486024	37615	39180	-	1566		Putative transport system secreted protein	GV13
+GV14|SEQ00663	clust_0932	VBIGarVag244375_0663	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503198	190206	191768	-	1563		Putative transport system secreted protein	GV14
+GV16|SEQ00118	clust_0932	VBIGarVag246379_0118	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477344	36287	37852	-	1566		Putative transport system secreted protein	GV16
+GV19|SEQ00169	clust_0932	VBIGarVag39333_0169	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627183	196940	198505	+	1566		Putative transport system secreted protein	GV19
+GV20|SEQ00050	clust_0932	VBIGarVag188338_0050	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188876	59842	61407	+	1566		Putative transport system secreted protein	GV20
+GV21|SEQ01064	clust_0932	VBIGarVag274454_1065	Gardnerella vaginalis JCP7275	ATJS01000124	PATRIC	CDS	183968961	4308	5873	-	1566		Putative transport system secreted protein	GV21
+GV22|SEQ00916	clust_0932	VBIGarVag276801_0917	Gardnerella vaginalis JCP7276	ATJR01000052	PATRIC	CDS	183971324	5739	7304	-	1566		Putative transport system secreted protein	GV22
+GV23|SEQ01099	clust_0932	VBIGarVag276017_1099	Gardnerella vaginalis JCP7659	ATJQ01000127	PATRIC	CDS	183974678	2210	3775	+	1566		Putative transport system secreted protein	GV23
+GV24|SEQ00096	clust_0932	VBIGarVag268944_0097	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975292	96950	98515	+	1566		Putative transport system secreted protein	GV24
+GV25|SEQ00110	clust_0932	VBIGarVag270495_0110	Gardnerella vaginalis JCP7719	ATJO01000007	PATRIC	CDS	183978089	27925	29490	+	1566		Putative transport system secreted protein	GV25
+GV26|SEQ00795	clust_0932	VBIGarVag272749_0795	Gardnerella vaginalis JCP8017A	ATJN01000043	PATRIC	CDS	183982418	313	1878	+	1566		Putative transport system secreted protein	GV26
+GV27|SEQ00541	clust_0932	VBIGarVag276930_0541	Gardnerella vaginalis JCP8017B	ATJM01000018	PATRIC	CDS	183984840	311	1876	+	1566		Putative transport system secreted protein	GV27
+GV28|SEQ01058	clust_0932	VBIGarVag271349_1058	Gardnerella vaginalis JCP8066	ATJL01000134	PATRIC	CDS	183988964	317	1882	+	1566		Putative transport system secreted protein	GV28
+GV29|SEQ00006	clust_0932	VBIGarVag265473_0006	Gardnerella vaginalis JCP8070	ATJK01000001	PATRIC	CDS	183989358	6760	8325	-	1566		Putative transport system secreted protein	GV29
+GV30|SEQ00557	clust_0932	VBIGarVag267667_0558	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993218	11665	13230	-	1566		Putative transport system secreted protein	GV30
+GV31|SEQ01095	clust_0932	VBIGarVag264983_1095	Gardnerella vaginalis JCP8151A	ATJI01000105	PATRIC	CDS	183997389	10172	11737	-	1566		Putative transport system secreted protein	GV31
+GV32|SEQ01260	clust_0932	VBIGarVag277040_1260	Gardnerella vaginalis JCP8151B	ATJH01000171	PATRIC	CDS	184000608	11569	13134	-	1566		Putative transport system secreted protein	GV32
+GV35|SEQ00655	clust_0932	VBIGarVag272169_0655	Gardnerella vaginalis JCP8522	ATJE01000050	PATRIC	CDS	184007676	319	1884	+	1566		Putative transport system secreted protein	GV35

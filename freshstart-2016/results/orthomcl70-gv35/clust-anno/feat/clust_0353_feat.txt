@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00636	clust_0353	VBIGarVag247323_0636	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495425	51104	51994	+	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV01
+GV02|SEQ00119	clust_0353	VBIGarVag242669_0119	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497000	85855	86745	+	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV02
+GV03|SEQ00164	clust_0353	VBIGarVag247424_0164	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499704	102871	103761	-	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV03
+GV04|SEQ00230	clust_0353	VBIGarVag246433_0230	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480316	104070	104960	+	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV04
+GV05|SEQ00266	clust_0353	VBIGarVag174900_0266	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546250	102827	103717	-	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV05
+GV06|SEQ00146	clust_0353	VBIGarVag244004_0146	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489003	55465	56355	-	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV06
+GV07|SEQ00083	clust_0353	VBIGarVag249177_0083	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491747	90821	91726	+	906	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV07
+GV08|SEQ01011	clust_0353	VBIGarVag251521_1011	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476465	106412	107287	-	876	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV08
+GV09|SEQ00089	clust_0353	VBIGarVag169280_0089	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259325	53396	54271	+	876	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV09
+GV10|SEQ00057	clust_0353	VBIGarVag136958_0057	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146124	73420	74328	-	909	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV10
+GV11|SEQ00911	clust_0353	VBIGarVag171052_0911	Gardnerella vaginalis 41V	AEJE01000052	PATRIC	CDS	52550189	19942	20832	-	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV11
+GV12|SEQ00589	clust_0353	VBIGarVag144721_0589	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853871	101833	102741	-	909		Dimethyladenosine transferase (EC 2.1.1.-)	GV12
+GV13|SEQ00105	clust_0353	VBIGarVag244533_0105	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486146	110418	111293	-	876	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV13
+GV14|SEQ00591	clust_0353	VBIGarVag244375_0591	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503046	97073	97963	+	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV14
+GV15|SEQ00812	clust_0353	VBIGarVag249709_0812	Gardnerella vaginalis 6420B	ADEP01000007	PATRIC	CDS	85485187	33459	34367	+	909	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV15
+GV16|SEQ00179	clust_0353	VBIGarVag246379_0179	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477472	114976	115866	-	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV16
+GV17|SEQ00545	clust_0353	VBIGarVag146634_0545	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37851129	555226	556134	+	909		Dimethyladenosine transferase (EC 2.1.1.-)	GV17
+GV18|SEQ00330	clust_0353	VBIGarVag4823_0330	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000085	PATRIC	CDS	42069374	6657	7547	-	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV18
+GV19|SEQ00105	clust_0353	VBIGarVag39333_0105	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627048	120827	121717	+	891	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV19
+GV20|SEQ01362	clust_0353	VBIGarVag188338_1362	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191604	1708322	1709197	+	876	ksgA	Dimethyladenosine transferase (EC 2.1.1.-)	GV20
+GV21|SEQ00376	clust_0353	VBIGarVag274454_0376	Gardnerella vaginalis JCP7275	ATJS01000016	PATRIC	CDS	183967411	16918	17793	-	876		Dimethyladenosine transferase (EC 2.1.1.-)	GV21
+GV22|SEQ00140	clust_0353	VBIGarVag276801_0140	Gardnerella vaginalis JCP7276	ATJR01000002	PATRIC	CDS	183969670	18	908	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV22
+GV23|SEQ00052	clust_0353	VBIGarVag276017_0052	Gardnerella vaginalis JCP7659	ATJQ01000007	PATRIC	CDS	183972399	11679	12569	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV23
+GV24|SEQ00038	clust_0353	VBIGarVag268944_0039	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975170	24797	25687	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV24
+GV25|SEQ00143	clust_0353	VBIGarVag270495_0143	Gardnerella vaginalis JCP7719	ATJO01000011	PATRIC	CDS	183978163	16329	17219	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV25
+GV26|SEQ00221	clust_0353	VBIGarVag272749_0221	Gardnerella vaginalis JCP8017A	ATJN01000009	PATRIC	CDS	183981194	46232	47122	-	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV26
+GV27|SEQ00313	clust_0353	VBIGarVag276930_0313	Gardnerella vaginalis JCP8017B	ATJM01000011	PATRIC	CDS	183984361	74548	75423	-	876		Dimethyladenosine transferase (EC 2.1.1.-)	GV27
+GV28|SEQ00370	clust_0353	VBIGarVag271349_0370	Gardnerella vaginalis JCP8066	ATJL01000020	PATRIC	CDS	183987418	16308	17183	+	876		Dimethyladenosine transferase (EC 2.1.1.-)	GV28
+GV29|SEQ00427	clust_0353	VBIGarVag265473_0427	Gardnerella vaginalis JCP8070	ATJK01000020	PATRIC	CDS	183990258	17100	17975	-	876		Dimethyladenosine transferase (EC 2.1.1.-)	GV29
+GV30|SEQ00543	clust_0353	VBIGarVag267667_0544	Gardnerella vaginalis JCP8108	ATJJ01000029	PATRIC	CDS	183993186	12496	13386	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV30
+GV31|SEQ00368	clust_0353	VBIGarVag264983_0368	Gardnerella vaginalis JCP8151A	ATJI01000013	PATRIC	CDS	183995789	40575	41465	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV31
+GV32|SEQ00048	clust_0353	VBIGarVag277040_0048	Gardnerella vaginalis JCP8151B	ATJH01000004	PATRIC	CDS	183997928	25847	26737	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV32
+GV33|SEQ00201	clust_0353	VBIGarVag265557_0201	Gardnerella vaginalis JCP8481A	ATJG01000017	PATRIC	CDS	184001093	15145	16029	-	885		Dimethyladenosine transferase (EC 2.1.1.-)	GV33
+GV34|SEQ01001	clust_0353	VBIGarVag270440_1001	Gardnerella vaginalis JCP8481B	ATJF01000116	PATRIC	CDS	184005684	9432	10316	+	885		Dimethyladenosine transferase (EC 2.1.1.-)	GV34
+GV35|SEQ00253	clust_0353	VBIGarVag272169_0253	Gardnerella vaginalis JCP8522	ATJE01000008	PATRIC	CDS	184006798	16356	17246	+	891		Dimethyladenosine transferase (EC 2.1.1.-)	GV35

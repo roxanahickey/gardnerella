@@ -1,0 +1,11 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV06|SEQ00153	clust_1295	VBIGarVag244004_0153	Gardnerella vaginalis 1400E	ADER01000003	PATRIC	CDS	85489019	65361	69242	+	3882		Choline binding protein A	GV06
+GV08|SEQ01018	clust_1295	VBIGarVag251521_1018	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476481	116324	120205	+	3882		Choline binding protein A	GV08
+GV09|SEQ00082	clust_1295	VBIGarVag169280_0082	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259309	40494	44375	-	3882		Choline binding protein A	GV09
+GV13|SEQ00112	clust_1295	VBIGarVag244533_0112	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486162	120332	124213	+	3882		Choline binding protein A	GV13
+GV16|SEQ00186	clust_1295	VBIGarVag246379_0186	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477488	124871	126187	+	1317		hypothetical protein	GV16
+GV16|SEQ00187	clust_1295	VBIGarVag246379_0187	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477490	126284	128725	+	2442		Choline binding protein A	GV16
+GV20|SEQ01355	clust_1295	VBIGarVag188338_1355	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191588	1695421	1699302	-	3882		Choline binding protein A	GV20
+GV22|SEQ00241	clust_1295	VBIGarVag276801_0242	Gardnerella vaginalis JCP7276	ATJR01000007	PATRIC	CDS	183969895	17765	21508	-	3744		Choline binding protein A	GV22
+GV24|SEQ00031	clust_1295	VBIGarVag268944_0032	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975154	12049	15792	-	3744		Choline binding protein A	GV24
+GV30|SEQ00697	clust_1295	VBIGarVag267667_0698	Gardnerella vaginalis JCP8108	ATJJ01000043	PATRIC	CDS	183993523	54	233	+	180		hypothetical protein	GV30

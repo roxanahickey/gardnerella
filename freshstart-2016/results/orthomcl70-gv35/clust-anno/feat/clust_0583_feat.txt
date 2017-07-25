@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00080	clust_0583	VBIGarVag247323_0080	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494260	110258	111313	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV01
+GV02|SEQ00600	clust_0583	VBIGarVag242669_0600	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498010	232056	233111	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV02
+GV03|SEQ00618	clust_0583	VBIGarVag247424_0618	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500657	188635	189690	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV03
+GV04|SEQ00684	clust_0583	VBIGarVag246433_0684	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481264	4209	5264	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV04
+GV05|SEQ00637	clust_0583	VBIGarVag174900_0637	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547032	249661	250716	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV05
+GV06|SEQ00976	clust_0583	VBIGarVag244004_0976	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490765	2042	3097	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV06
+GV07|SEQ00768	clust_0583	VBIGarVag249177_0768	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493193	24206	25261	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV07
+GV08|SEQ00608	clust_0583	VBIGarVag251521_0608	Gardnerella vaginalis 284V	ADEL01000007	PATRIC	CDS	85475632	16293	17210	+	918		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV08
+GV09|SEQ00298	clust_0583	VBIGarVag169280_0298	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259762	130962	131879	+	918		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV09
+GV10|SEQ00426	clust_0583	VBIGarVag136958_0426	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146904	515773	516828	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV10
+GV11|SEQ00487	clust_0583	VBIGarVag171052_0487	Gardnerella vaginalis 41V	AEJE01000030	PATRIC	CDS	52549298	4047	5102	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV11
+GV12|SEQ00994	clust_0583	VBIGarVag144721_0994	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854723	579773	580231	-	459		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV12
+GV13|SEQ00502	clust_0583	VBIGarVag244533_0502	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486967	100117	101172	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV13
+GV14|SEQ00433	clust_0583	VBIGarVag244375_0433	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502722	70491	71546	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV14
+GV15|SEQ00231	clust_0583	VBIGarVag249709_0231	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483969	64004	64462	-	459		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV15
+GV16|SEQ00458	clust_0583	VBIGarVag246379_0458	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478060	491566	492483	-	918		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV16
+GV17|SEQ00163	clust_0583	VBIGarVag146634_0163	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850323	103576	104631	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV17
+GV18|SEQ00598	clust_0583	VBIGarVag4823_0598	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000114	PATRIC	CDS	42069957	1134	2051	+	918		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV18
+GV19|SEQ01147	clust_0583	VBIGarVag39333_1149	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629207	1398940	1399857	+	918	gap	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV19
+GV20|SEQ00361	clust_0583	VBIGarVag188338_0361	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189533	466084	467139	-	1056	gap	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV20
+GV21|SEQ01172	clust_0583	VBIGarVag274454_1173	Gardnerella vaginalis JCP7275	ATJS01000169	PATRIC	CDS	183969224	9160	10215	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV21
+GV22|SEQ00892	clust_0583	VBIGarVag276801_0893	Gardnerella vaginalis JCP7276	ATJR01000049	PATRIC	CDS	183971273	4010	5065	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV22
+GV23|SEQ00458	clust_0583	VBIGarVag276017_0458	Gardnerella vaginalis JCP7659	ATJQ01000035	PATRIC	CDS	183973263	11907	12962	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV23
+GV24|SEQ01089	clust_0583	VBIGarVag268944_1090	Gardnerella vaginalis JCP7672	ATJP01000106	PATRIC	CDS	183977443	3926	4981	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV24
+GV25|SEQ01274	clust_0583	VBIGarVag270495_1274	Gardnerella vaginalis JCP7719	ATJO01000183	PATRIC	CDS	183980667	8762	9817	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV25
+GV26|SEQ00129	clust_0583	VBIGarVag272749_0129	Gardnerella vaginalis JCP8017A	ATJN01000004	PATRIC	CDS	183981001	4288	5343	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV26
+GV27|SEQ00940	clust_0583	VBIGarVag276930_0940	Gardnerella vaginalis JCP8017B	ATJM01000057	PATRIC	CDS	183985699	16508	17563	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV27
+GV28|SEQ00908	clust_0583	VBIGarVag271349_0908	Gardnerella vaginalis JCP8066	ATJL01000083	PATRIC	CDS	183988603	8682	9737	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV28
+GV29|SEQ00814	clust_0583	VBIGarVag265473_0814	Gardnerella vaginalis JCP8070	ATJK01000067	PATRIC	CDS	183991109	14544	15599	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV29
+GV30|SEQ00692	clust_0583	VBIGarVag267667_0693	Gardnerella vaginalis JCP8108	ATJJ01000042	PATRIC	CDS	183993512	3918	4973	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV30
+GV31|SEQ00689	clust_0583	VBIGarVag264983_0689	Gardnerella vaginalis JCP8151A	ATJI01000034	PATRIC	CDS	183996472	8708	9763	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV31
+GV32|SEQ01216	clust_0583	VBIGarVag277040_1216	Gardnerella vaginalis JCP8151B	ATJH01000167	PATRIC	CDS	184000512	5290	6345	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV32
+GV33|SEQ01146	clust_0583	VBIGarVag265557_1146	Gardnerella vaginalis JCP8481A	ATJG01000157	PATRIC	CDS	184003194	7169	8224	+	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV33
+GV34|SEQ01185	clust_0583	VBIGarVag270440_1185	Gardnerella vaginalis JCP8481B	ATJF01000139	PATRIC	CDS	184006089	11463	12308	-	846		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV34
+GV35|SEQ01114	clust_0583	VBIGarVag272169_1114	Gardnerella vaginalis JCP8522	ATJE01000162	PATRIC	CDS	184008738	16435	17490	-	1056		NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	GV35

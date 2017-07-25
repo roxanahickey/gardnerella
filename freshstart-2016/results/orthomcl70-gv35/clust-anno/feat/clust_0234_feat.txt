@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00365	clust_0234	VBIGarVag247323_0365	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85494869	79432	80733	+	1302		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV01
+GV02|SEQ00690	clust_0234	VBIGarVag242669_0690	Gardnerella vaginalis 00703C2mash	ADEU01000012	PATRIC	CDS	85498204	4495	5796	-	1302		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV02
+GV03|SEQ01168	clust_0234	VBIGarVag247424_1168	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501804	114013	115377	+	1365		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV03
+GV04|SEQ00903	clust_0234	VBIGarVag246433_0903	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481712	252365	253762	+	1398		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV04
+GV05|SEQ00108	clust_0234	VBIGarVag174900_0108	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545923	134291	135655	+	1365		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV05
+GV06|SEQ01350	clust_0234	VBIGarVag244004_1350	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491533	236490	237878	-	1389		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV06
+GV07|SEQ01095	clust_0234	VBIGarVag249177_1095	Gardnerella vaginalis 1500E	ADES01000025	PATRIC	CDS	85493881	4752	6116	-	1365		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV07
+GV08|SEQ00842	clust_0234	VBIGarVag251521_0842	Gardnerella vaginalis 284V	ADEL01000010	PATRIC	CDS	85476114	4936	6312	+	1377		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV08
+GV09|SEQ00759	clust_0234	VBIGarVag169280_0759	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260719	121775	123121	+	1347	ftsE	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV09
+GV10|SEQ00936	clust_0234	VBIGarVag136958_0936	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147954	1223986	1225380	-	1395	ftsE	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV10
+GV11|SEQ00064	clust_0234	VBIGarVag171052_0064	Gardnerella vaginalis 41V	AEJE01000003	PATRIC	CDS	52548392	18768	20126	-	1359		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV11
+GV12|SEQ00340	clust_0234	VBIGarVag144721_0340	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853353	329030	330493	-	1464		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV12
+GV13|SEQ00362	clust_0234	VBIGarVag244533_0362	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486675	199828	201198	-	1371		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV13
+GV14|SEQ00805	clust_0234	VBIGarVag244375_0805	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503498	180296	181660	+	1365		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV14
+GV15|SEQ00915	clust_0234	VBIGarVag249709_0915	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485406	75277	76659	-	1383		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV15
+GV16|SEQ00696	clust_0234	VBIGarVag246379_0696	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478547	767469	768815	+	1347		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV16
+GV17|SEQ01089	clust_0234	VBIGarVag146634_1089	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852273	12818	14209	-	1392		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV17
+GV18|SEQ00574	clust_0234	VBIGarVag4823_0574	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000111	PATRIC	CDS	42069904	2169	3515	-	1347		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV18
+GV19|SEQ00921	clust_0234	VBIGarVag39333_0922	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628747	1141189	1142535	-	1347	ftsE	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV19
+GV20|SEQ00629	clust_0234	VBIGarVag188338_0629	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190079	759074	760420	+	1347	ftsE	Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV20
+GV21|SEQ00945	clust_0234	VBIGarVag274454_0946	Gardnerella vaginalis JCP7275	ATJS01000081	PATRIC	CDS	183968664	5892	7250	+	1359		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV21
+GV22|SEQ01035	clust_0234	VBIGarVag276801_1036	Gardnerella vaginalis JCP7276	ATJR01000086	PATRIC	CDS	183971603	3178	4524	-	1347		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV22
+GV23|SEQ00762	clust_0234	VBIGarVag276017_0762	Gardnerella vaginalis JCP7659	ATJQ01000056	PATRIC	CDS	183973907	4529	5830	-	1302		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV23
+GV24|SEQ00840	clust_0234	VBIGarVag268944_0841	Gardnerella vaginalis JCP7672	ATJP01000076	PATRIC	CDS	183976891	844	2190	+	1347		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV24
+GV25|SEQ01177	clust_0234	VBIGarVag270495_1177	Gardnerella vaginalis JCP7719	ATJO01000134	PATRIC	CDS	183980418	5347	6648	+	1302		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV25
+GV26|SEQ00869	clust_0234	VBIGarVag272749_0869	Gardnerella vaginalis JCP8017A	ATJN01000051	PATRIC	CDS	183982584	4718	6031	-	1314		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV26
+GV27|SEQ00780	clust_0234	VBIGarVag276930_0780	Gardnerella vaginalis JCP8017B	ATJM01000039	PATRIC	CDS	183985355	4716	6029	-	1314		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV27
+GV28|SEQ00983	clust_0234	VBIGarVag271349_0983	Gardnerella vaginalis JCP8066	ATJL01000106	PATRIC	CDS	183988782	3052	4377	-	1326		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV28
+GV29|SEQ00214	clust_0234	VBIGarVag265473_0214	Gardnerella vaginalis JCP8070	ATJK01000008	PATRIC	CDS	183989799	3032	4360	-	1329		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV29
+GV30|SEQ00864	clust_0234	VBIGarVag267667_0866	Gardnerella vaginalis JCP8108	ATJJ01000069	PATRIC	CDS	183993899	4928	6316	+	1389		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV30
+GV31|SEQ01025	clust_0234	VBIGarVag264983_1025	Gardnerella vaginalis JCP8151A	ATJI01000088	PATRIC	CDS	183997218	3002	4240	-	1239		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV31
+GV32|SEQ00373	clust_0234	VBIGarVag277040_0373	Gardnerella vaginalis JCP8151B	ATJH01000017	PATRIC	CDS	183998609	8924	10222	+	1299		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV32
+GV33|SEQ00803	clust_0234	VBIGarVag265557_0803	Gardnerella vaginalis JCP8481A	ATJG01000086	PATRIC	CDS	184002400	3253	4788	-	1536		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV33
+GV34|SEQ00642	clust_0234	VBIGarVag270440_0642	Gardnerella vaginalis JCP8481B	ATJF01000064	PATRIC	CDS	184004890	3205	4740	-	1536		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV34
+GV35|SEQ00724	clust_0234	VBIGarVag272169_0724	Gardnerella vaginalis JCP8522	ATJE01000063	PATRIC	CDS	184007827	9021	10274	+	1254		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)	GV35

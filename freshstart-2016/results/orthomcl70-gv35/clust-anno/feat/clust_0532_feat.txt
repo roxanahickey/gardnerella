@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01097	clust_0532	VBIGarVag247323_1097	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496395	99357	99791	+	435		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV01
+GV02|SEQ00342	clust_0532	VBIGarVag242669_0342	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497460	149569	150003	-	435		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV02
+GV03|SEQ00527	clust_0532	VBIGarVag247424_0527	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500461	80490	80954	+	465		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV03
+GV04|SEQ00760	clust_0532	VBIGarVag246433_0760	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481419	90056	90490	+	435		Secreted protein	GV04
+GV05|SEQ00548	clust_0532	VBIGarVag174900_0548	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546840	141986	142417	+	432		Secreted protein	GV05
+GV06|SEQ00328	clust_0532	VBIGarVag244004_0328	Gardnerella vaginalis 1400E	ADER01000008	PATRIC	CDS	85489382	23299	23733	-	435		Secreted protein	GV06
+GV07|SEQ00864	clust_0532	VBIGarVag249177_0864	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493399	138731	139180	-	450		Secreted protein	GV07
+GV08|SEQ00777	clust_0532	VBIGarVag251521_0777	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85475980	136136	136570	-	435		Secreted protein	GV08
+GV09|SEQ00223	clust_0532	VBIGarVag169280_0223	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259609	46012	46446	-	435		Secreted protein	GV09
+GV10|SEQ00344	clust_0532	VBIGarVag136958_0344	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146726	400945	401391	+	447		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV10
+GV11|SEQ00322	clust_0532	VBIGarVag171052_0322	Gardnerella vaginalis 41V	AEJE01000023	PATRIC	CDS	52548945	25216	25650	-	435		Secreted protein	GV11
+GV12|SEQ00886	clust_0532	VBIGarVag144721_0886	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854493	437180	437626	+	447		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV12
+GV13|SEQ00429	clust_0532	VBIGarVag244533_0429	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486818	24304	24738	-	435		Secreted protein	GV13
+GV14|SEQ00832	clust_0532	VBIGarVag244375_0832	Gardnerella vaginalis 6119V5	ADEW01000008	PATRIC	CDS	85503553	25083	25514	+	432		Secreted protein	GV14
+GV15|SEQ00320	clust_0532	VBIGarVag249709_0320	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484153	44583	45029	-	447		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV15
+GV16|SEQ00537	clust_0532	VBIGarVag246379_0537	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478222	584644	585078	+	435		Secreted protein	GV16
+GV17|SEQ00251	clust_0532	VBIGarVag146634_0251	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850513	223097	223543	-	447		Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain	GV17
+GV18|SEQ01304	clust_0532	VBIGarVag4823_1304	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071451	81869	82303	+	435		Secreted protein	GV18
+GV19|SEQ01074	clust_0532	VBIGarVag39333_1075	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629059	1314040	1314474	-	435		Secreted protein	GV19
+GV20|SEQ00433	clust_0532	VBIGarVag188338_0433	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189680	544114	544548	+	435		Secreted protein	GV20
+GV21|SEQ00580	clust_0532	VBIGarVag274454_0581	Gardnerella vaginalis JCP7275	ATJS01000031	PATRIC	CDS	183967840	10856	11290	-	435		Secreted protein	GV21
+GV22|SEQ00786	clust_0532	VBIGarVag276801_0787	Gardnerella vaginalis JCP7276	ATJR01000037	PATRIC	CDS	183971031	10258	10692	+	435		Secreted protein	GV22
+GV23|SEQ00989	clust_0532	VBIGarVag276017_0989	Gardnerella vaginalis JCP7659	ATJQ01000094	PATRIC	CDS	183974419	2268	2702	+	435		Secreted protein	GV23
+GV24|SEQ00620	clust_0532	VBIGarVag268944_0621	Gardnerella vaginalis JCP7672	ATJP01000042	PATRIC	CDS	183976411	3014	3448	-	435		Secreted protein	GV24
+GV25|SEQ00931	clust_0532	VBIGarVag270495_0931	Gardnerella vaginalis JCP7719	ATJO01000094	PATRIC	CDS	183979875	1242	1676	-	435		Secreted protein	GV25
+GV26|SEQ01131	clust_0532	VBIGarVag272749_1131	Gardnerella vaginalis JCP8017A	ATJN01000098	PATRIC	CDS	183983168	2332	2766	+	435		Secreted protein	GV26
+GV27|SEQ01261	clust_0532	VBIGarVag276930_1261	Gardnerella vaginalis JCP8017B	ATJM01000145	PATRIC	CDS	183986442	6059	6493	-	435		Secreted protein	GV27
+GV28|SEQ00855	clust_0532	VBIGarVag271349_0855	Gardnerella vaginalis JCP8066	ATJL01000069	PATRIC	CDS	183988475	6191	6625	-	435		Secreted protein	GV28
+GV29|SEQ00953	clust_0532	VBIGarVag265473_0953	Gardnerella vaginalis JCP8070	ATJK01000076	PATRIC	CDS	183991402	2336	2770	+	435		Secreted protein	GV29
+GV30|SEQ00624	clust_0532	VBIGarVag267667_0625	Gardnerella vaginalis JCP8108	ATJJ01000038	PATRIC	CDS	183993370	3951	4385	+	435		Secreted protein	GV30
+GV31|SEQ01009	clust_0532	VBIGarVag264983_1009	Gardnerella vaginalis JCP8151A	ATJI01000083	PATRIC	CDS	183997179	2318	2752	+	435		Secreted protein	GV31
+GV32|SEQ00825	clust_0532	VBIGarVag277040_0825	Gardnerella vaginalis JCP8151B	ATJH01000060	PATRIC	CDS	183999590	4282	4716	+	435		Secreted protein	GV32
+GV33|SEQ00932	clust_0532	VBIGarVag265557_0932	Gardnerella vaginalis JCP8481A	ATJG01000107	PATRIC	CDS	184002699	1003	1437	+	435		Secreted protein	GV33
+GV34|SEQ00990	clust_0532	VBIGarVag270440_0990	Gardnerella vaginalis JCP8481B	ATJF01000112	PATRIC	CDS	184005656	18830	19264	-	435		Secreted protein	GV34
+GV35|SEQ00856	clust_0532	VBIGarVag272169_0856	Gardnerella vaginalis JCP8522	ATJE01000084	PATRIC	CDS	184008128	1148	1582	-	435		Secreted protein	GV35

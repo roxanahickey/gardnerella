@@ -1,0 +1,30 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00701	clust_0918	VBIGarVag247323_0701	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495561	133243	134055	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV01
+GV02|SEQ00185	clust_0918	VBIGarVag242669_0185	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497138	167961	168773	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV02
+GV03|SEQ00100	clust_0918	VBIGarVag247424_0100	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499568	15730	16542	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV03
+GV04|SEQ00295	clust_0918	VBIGarVag246433_0295	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480452	187025	187837	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV04
+GV05|SEQ00202	clust_0918	VBIGarVag174900_0202	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546114	15740	16552	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV05
+GV06|SEQ00426	clust_0918	VBIGarVag244004_0426	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489598	31176	31988	-	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV06
+GV07|SEQ00161	clust_0918	VBIGarVag249177_0161	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491911	189961	190773	-	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV07
+GV08|SEQ00945	clust_0918	VBIGarVag251521_0945	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476327	23495	24307	-	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV08
+GV09|SEQ00157	clust_0918	VBIGarVag169280_0157	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259467	136361	137173	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV09
+GV11|SEQ00440	clust_0918	VBIGarVag171052_0440	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549197	25634	26446	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV11
+GV13|SEQ00042	clust_0918	VBIGarVag244533_0042	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85486014	31524	32336	-	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV13
+GV14|SEQ00658	clust_0918	VBIGarVag244375_0658	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503188	184104	184916	-	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV14
+GV16|SEQ00113	clust_0918	VBIGarVag246379_0113	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477334	30185	30997	-	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV16
+GV18|SEQ00259	clust_0918	VBIGarVag4823_0259	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000075	PATRIC	CDS	42069222	5115	5927	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV18
+GV19|SEQ00174	clust_0918	VBIGarVag39333_0174	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627193	203795	204607	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV19
+GV20|SEQ00055	clust_0918	VBIGarVag188338_0055	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188886	66697	67509	+	813	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV20
+GV21|SEQ01134	clust_0918	VBIGarVag274454_1135	Gardnerella vaginalis JCP7275	ATJS01000152	PATRIC	CDS	183969131	920	1732	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV21
+GV22|SEQ00984	clust_0918	VBIGarVag276801_0985	Gardnerella vaginalis JCP7276	ATJR01000068	PATRIC	CDS	183971477	154	375	+	222		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV22
+GV23|SEQ01104	clust_0918	VBIGarVag276017_1104	Gardnerella vaginalis JCP7659	ATJQ01000127	PATRIC	CDS	183974688	9092	9904	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV23
+GV24|SEQ00101	clust_0918	VBIGarVag268944_0102	Gardnerella vaginalis JCP7672	ATJP01000003	PATRIC	CDS	183975302	103832	104644	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV24
+GV25|SEQ00115	clust_0918	VBIGarVag270495_0115	Gardnerella vaginalis JCP7719	ATJO01000007	PATRIC	CDS	183978099	34806	35618	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV25
+GV26|SEQ00800	clust_0918	VBIGarVag272749_0800	Gardnerella vaginalis JCP8017A	ATJN01000043	PATRIC	CDS	183982428	7195	8007	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV26
+GV27|SEQ00546	clust_0918	VBIGarVag276930_0546	Gardnerella vaginalis JCP8017B	ATJM01000018	PATRIC	CDS	183984850	7193	8005	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV27
+GV28|SEQ01063	clust_0918	VBIGarVag271349_1063	Gardnerella vaginalis JCP8066	ATJL01000134	PATRIC	CDS	183988974	7209	8021	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV28
+GV29|SEQ00001	clust_0918	VBIGarVag265473_0001	Gardnerella vaginalis JCP8070	ATJK01000001	PATRIC	CDS	183989348	626	1438	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV29
+GV30|SEQ00552	clust_0918	VBIGarVag267667_0553	Gardnerella vaginalis JCP8108	ATJJ01000031	PATRIC	CDS	183993208	5568	6380	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV30
+GV31|SEQ01090	clust_0918	VBIGarVag264983_1090	Gardnerella vaginalis JCP8151A	ATJI01000105	PATRIC	CDS	183997379	4023	4835	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV31
+GV32|SEQ01255	clust_0918	VBIGarVag277040_1255	Gardnerella vaginalis JCP8151B	ATJH01000171	PATRIC	CDS	184000598	5432	6244	-	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV32
+GV35|SEQ00660	clust_0918	VBIGarVag272169_0660	Gardnerella vaginalis JCP8522	ATJE01000050	PATRIC	CDS	184007686	7206	8018	+	813		Glucosamine-6-phosphate deaminase (EC 3.5.99.6)	GV35

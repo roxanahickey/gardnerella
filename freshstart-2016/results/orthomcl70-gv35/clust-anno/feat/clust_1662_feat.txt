@@ -1,0 +1,6 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00223	clust_1662	VBIGarVag247323_0223	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494562	106048	106224	-	177		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV01
+GV23|SEQ00974	clust_1662	VBIGarVag276017_0974	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974384	49093	49269	+	177		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV23
+GV25|SEQ00193	clust_1662	VBIGarVag270495_0193	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978266	10645	10821	-	177		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV25
+GV26|SEQ00005	clust_1662	VBIGarVag272749_0005	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980738	8457	8633	-	177		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV26
+GV27|SEQ00175	clust_1662	VBIGarVag276930_0175	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984071	56578	56754	+	177		Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)	GV27

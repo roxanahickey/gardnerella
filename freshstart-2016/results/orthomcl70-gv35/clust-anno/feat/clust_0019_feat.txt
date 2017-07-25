@@ -1,0 +1,38 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00739	clust_0019	VBIGarVag247323_0739	Gardnerella vaginalis 00703Bmash	ADET01000007	PATRIC	CDS	85495640	20906	21742	-	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV01
+GV02|SEQ01016	clust_0019	VBIGarVag242669_1016	Gardnerella vaginalis 00703C2mash	ADEU01000020	PATRIC	CDS	85498887	21090	21926	-	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV02
+GV03|SEQ00449	clust_0019	VBIGarVag247424_0449	Gardnerella vaginalis 00703Dmash	ADEV01000006	PATRIC	CDS	85500304	79018	79800	+	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV03
+GV04|SEQ01190	clust_0019	VBIGarVag246433_1190	Gardnerella vaginalis 0288E	ADEN01000011	PATRIC	CDS	85482309	23350	24165	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV04
+GV05|SEQ00128	clust_0019	VBIGarVag174900_0128	Gardnerella vaginalis 101	AEJD01000004	PATRIC	CDS	52545964	14168	14950	-	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV05
+GV06|SEQ00510	clust_0019	VBIGarVag244004_0510	Gardnerella vaginalis 1400E	ADER01000015	PATRIC	CDS	85489779	19676	20491	+	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV06
+GV07|SEQ01070	clust_0019	VBIGarVag249177_1070	Gardnerella vaginalis 1500E	ADES01000020	PATRIC	CDS	85493826	78492	79274	+	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV07
+GV08|SEQ00572	clust_0019	VBIGarVag251521_0572	Gardnerella vaginalis 284V	ADEL01000006	PATRIC	CDS	85475559	19712	20527	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV08
+GV09|SEQ01019	clust_0019	VBIGarVag169280_1019	Gardnerella vaginalis 315-A	AFDI01000009	PATRIC	CDS	55261259	23268	24083	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV09
+GV10|SEQ01155	clust_0019	VBIGarVag136958_1155	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148408	1564927	1565709	+	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV10
+GV11|SEQ00025	clust_0019	VBIGarVag171052_0025	Gardnerella vaginalis 41V	AEJE01000002	PATRIC	CDS	52548312	36088	36903	+	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV11
+GV12|SEQ00059	clust_0019	VBIGarVag144721_0059	Gardnerella vaginalis 5-1	NZ_ADAN01000002	PATRIC	CDS	37852768	74793	75575	+	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV12
+GV13|SEQ01207	clust_0019	VBIGarVag244533_1207	Gardnerella vaginalis 55152	ADEQ01000024	PATRIC	CDS	85488466	21620	22447	-	828		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV13
+GV14|SEQ00893	clust_0019	VBIGarVag244375_0893	Gardnerella vaginalis 6119V5	ADEW01000009	PATRIC	CDS	85503680	11298	12080	-	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV14
+GV15|SEQ00013	clust_0019	VBIGarVag249709_0013	Gardnerella vaginalis 6420B	ADEP01000001	PATRIC	CDS	85483512	11207	11989	-	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV15
+GV16|SEQ00024	clust_0019	VBIGarVag246379_0024	Gardnerella vaginalis 75712	ADEM01000002	PATRIC	CDS	85477152	23487	24302	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV16
+GV17|SEQ00056	clust_0019	VBIGarVag146634_0056	Gardnerella vaginalis AMD	NZ_ADAM01000001	PATRIC	CDS	37850108	74832	75614	+	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV17
+GV18|SEQ00762	clust_0019	VBIGarVag4823_0762	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070314	10215	10448	-	234		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV18
+GV18|SEQ00763	clust_0019	VBIGarVag4823_0763	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000125	PATRIC	CDS	42070316	10557	11033	-	477		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV18
+GV19|SEQ00222	clust_0019	VBIGarVag39333_0222	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627297	264312	265127	-	816	nfrA	Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV19
+GV20|SEQ00104	clust_0019	VBIGarVag188338_0104	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188992	126909	127724	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV20
+GV21|SEQ00641	clust_0019	VBIGarVag274454_0642	Gardnerella vaginalis JCP7275	ATJS01000039	PATRIC	CDS	183967976	13905	14720	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV21
+GV22|SEQ00791	clust_0019	VBIGarVag276801_0792	Gardnerella vaginalis JCP7276	ATJR01000038	PATRIC	CDS	183971042	397	1212	-	816		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV22
+GV23|SEQ00033	clust_0019	VBIGarVag276017_0033	Gardnerella vaginalis JCP7659	ATJQ01000005	PATRIC	CDS	183972355	7676	8500	+	825		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV23
+GV24|SEQ00481	clust_0019	VBIGarVag268944_0482	Gardnerella vaginalis JCP7672	ATJP01000024	PATRIC	CDS	183976099	377	775	-	399		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV24
+GV24|SEQ00482	clust_0019	VBIGarVag268944_0483	Gardnerella vaginalis JCP7672	ATJP01000024	PATRIC	CDS	183976101	736	1194	-	459		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV24
+GV25|SEQ00486	clust_0019	VBIGarVag270495_0486	Gardnerella vaginalis JCP7719	ATJO01000039	PATRIC	CDS	183978904	20612	21436	-	825		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV25
+GV26|SEQ01292	clust_0019	VBIGarVag272749_1292	Gardnerella vaginalis JCP8017A	ATJN01000162	PATRIC	CDS	183983566	18684	19520	+	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV26
+GV27|SEQ01292	clust_0019	VBIGarVag276930_1292	Gardnerella vaginalis JCP8017B	ATJM01000158	PATRIC	CDS	183986517	17835	18671	+	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV27
+GV28|SEQ00014	clust_0019	VBIGarVag271349_0014	Gardnerella vaginalis JCP8066	ATJL01000004	PATRIC	CDS	183986674	13026	13862	+	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV28
+GV29|SEQ00670	clust_0019	VBIGarVag265473_0670	Gardnerella vaginalis JCP8070	ATJK01000041	PATRIC	CDS	183990789	17418	18242	-	825		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV29
+GV30|SEQ00155	clust_0019	VBIGarVag267667_0155	Gardnerella vaginalis JCP8108	ATJJ01000004	PATRIC	CDS	183992355	14293	15120	+	828		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV30
+GV31|SEQ00634	clust_0019	VBIGarVag264983_0634	Gardnerella vaginalis JCP8151A	ATJI01000029	PATRIC	CDS	183996354	12237	13073	+	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV31
+GV32|SEQ00717	clust_0019	VBIGarVag277040_0717	Gardnerella vaginalis JCP8151B	ATJH01000048	PATRIC	CDS	183999354	422	1258	-	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV32
+GV33|SEQ00779	clust_0019	VBIGarVag265557_0779	Gardnerella vaginalis JCP8481A	ATJG01000081	PATRIC	CDS	184002344	29	811	-	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV33
+GV34|SEQ00965	clust_0019	VBIGarVag270440_0965	Gardnerella vaginalis JCP8481B	ATJF01000110	PATRIC	CDS	184005603	12387	13169	-	783		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV34
+GV35|SEQ01067	clust_0019	VBIGarVag272169_1067	Gardnerella vaginalis JCP8522	ATJE01000153	PATRIC	CDS	184008633	18636	19472	+	837		Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)	GV35

@@ -1,0 +1,14 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00496	clust_1181	VBIGarVag246433_0496	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480878	136799	137743	+	945		Inositol transport system permease protein	GV04
+GV06|SEQ00731	clust_1181	VBIGarVag244004_0731	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490252	56985	57929	-	945		Inositol transport system permease protein	GV06
+GV08|SEQ00300	clust_1181	VBIGarVag251521_0300	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474991	108420	109364	-	945		Inositol transport system permease protein	GV08
+GV09|SEQ00511	clust_1181	VBIGarVag169280_0511	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260204	246189	247133	+	945		Inositol transport system permease protein	GV09
+GV11|SEQ00406	clust_1181	VBIGarVag171052_0406	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549122	102708	103652	+	945		Inositol transport system permease protein	GV11
+GV16|SEQ01161	clust_1181	VBIGarVag246379_1161	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479516	1361552	1362496	+	945		Inositol transport system permease protein	GV16
+GV18|SEQ00956	clust_1181	VBIGarVag4823_0956	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	42070717	30320	31264	+	945		Inositol transport system permease protein	GV18
+GV19|SEQ00447	clust_1181	VBIGarVag39333_0448	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627763	549091	550035	-	945		Inositol transport system permease protein	GV19
+GV20|SEQ01071	clust_1181	VBIGarVag188338_1071	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191002	1335979	1336923	+	945		Inositol transport system permease protein	GV20
+GV21|SEQ00108	clust_1181	VBIGarVag274454_0108	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	183966854	32415	33359	+	945		Inositol transport system permease protein	GV21
+GV22|SEQ00276	clust_1181	VBIGarVag276801_0277	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969968	35134	36078	+	945		Inositol transport system permease protein	GV22
+GV24|SEQ00719	clust_1181	VBIGarVag268944_0720	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976624	35587	36531	+	945		Inositol transport system permease protein	GV24
+GV30|SEQ01182	clust_1181	VBIGarVag267667_1184	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	183994612	1586	2530	-	945		Inositol transport system permease protein	GV30

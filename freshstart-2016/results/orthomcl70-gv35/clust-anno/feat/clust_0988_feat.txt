@@ -1,0 +1,26 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00046	clust_0988	VBIGarVag247323_0046	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494188	62785	64107	+	1323		putative LPS biosynthesis related glycosyltransferase	GV01
+GV02|SEQ00635	clust_0988	VBIGarVag242669_0635	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85498084	279499	280821	-	1323		putative LPS biosynthesis related glycosyltransferase	GV02
+GV04|SEQ00536	clust_0988	VBIGarVag246433_0536	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480964	193012	194298	-	1287		putative LPS biosynthesis related glycosyltransferase	GV04
+GV06|SEQ01085	clust_0988	VBIGarVag244004_1085	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85490996	47114	48400	-	1287		putative LPS biosynthesis related glycosyltransferase	GV06
+GV08|SEQ00259	clust_0988	VBIGarVag251521_0259	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474903	50522	51808	+	1287		putative LPS biosynthesis related glycosyltransferase	GV08
+GV09|SEQ00553	clust_0988	VBIGarVag169280_0553	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260295	304449	305735	-	1287		putative LPS biosynthesis related glycosyltransferase	GV09
+GV11|SEQ00200	clust_0988	VBIGarVag171052_0200	Gardnerella vaginalis 41V	AEJE01000010	PATRIC	CDS	52548684	32101	33414	-	1314		putative LPS biosynthesis related glycosyltransferase	GV11
+GV13|SEQ01292	clust_0988	VBIGarVag244533_1292	Gardnerella vaginalis 55152	ADEQ01000025	PATRIC	CDS	85488637	25069	26355	+	1287		putative LPS biosynthesis related glycosyltransferase	GV13
+GV16|SEQ01203	clust_0988	VBIGarVag246379_1203	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479607	1417758	1419044	-	1287		putative LPS biosynthesis related glycosyltransferase	GV16
+GV18|SEQ01070	clust_0988	VBIGarVag4823_1070	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000140	PATRIC	CDS	42070964	33998	35284	+	1287		putative LPS biosynthesis related glycosyltransferase	GV18
+GV19|SEQ00406	clust_0988	VBIGarVag39333_0407	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627675	493110	494396	+	1287		putative LPS biosynthesis related glycosyltransferase	GV19
+GV20|SEQ01111	clust_0988	VBIGarVag188338_1111	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191088	1392311	1393597	-	1287		putative LPS biosynthesis related glycosyltransferase	GV20
+GV21|SEQ00663	clust_0988	VBIGarVag274454_0664	Gardnerella vaginalis JCP7275	ATJS01000040	PATRIC	CDS	183968021	11580	12905	-	1326		putative LPS biosynthesis related glycosyltransferase	GV21
+GV22|SEQ00639	clust_0988	VBIGarVag276801_0640	Gardnerella vaginalis JCP7276	ATJR01000021	PATRIC	CDS	183970717	12184	13515	+	1332		putative LPS biosynthesis related glycosyltransferase	GV22
+GV23|SEQ01030	clust_0988	VBIGarVag276017_1030	Gardnerella vaginalis JCP7659	ATJQ01000106	PATRIC	CDS	183974515	6852	8174	-	1323		putative LPS biosynthesis related glycosyltransferase	GV23
+GV24|SEQ01241	clust_0988	VBIGarVag268944_1242	Gardnerella vaginalis JCP7672	ATJP01000169	PATRIC	CDS	183977836	12212	13498	+	1287		putative LPS biosynthesis related glycosyltransferase	GV24
+GV25|SEQ00958	clust_0988	VBIGarVag270495_0958	Gardnerella vaginalis JCP7719	ATJO01000103	PATRIC	CDS	183979941	12288	13610	+	1323		putative LPS biosynthesis related glycosyltransferase	GV25
+GV26|SEQ00836	clust_0988	VBIGarVag272749_0836	Gardnerella vaginalis JCP8017A	ATJN01000048	PATRIC	CDS	183982509	12276	13643	+	1368		putative LPS biosynthesis related glycosyltransferase	GV26
+GV27|SEQ01316	clust_0988	VBIGarVag276930_1316	Gardnerella vaginalis JCP8017B	ATJM01000172	PATRIC	CDS	183986583	12319	13641	+	1323		putative LPS biosynthesis related glycosyltransferase	GV27
+GV28|SEQ00665	clust_0988	VBIGarVag271349_0665	Gardnerella vaginalis JCP8066	ATJL01000048	PATRIC	CDS	183988064	12989	14311	+	1323		putative LPS biosynthesis related glycosyltransferase	GV28
+GV29|SEQ00307	clust_0988	VBIGarVag265473_0307	Gardnerella vaginalis JCP8070	ATJK01000013	PATRIC	CDS	183989996	12435	13721	-	1287		putative LPS biosynthesis related glycosyltransferase	GV29
+GV30|SEQ00670	clust_0988	VBIGarVag267667_0671	Gardnerella vaginalis JCP8108	ATJJ01000041	PATRIC	CDS	183993467	11474	12775	-	1302		putative LPS biosynthesis related glycosyltransferase	GV30
+GV31|SEQ01070	clust_0988	VBIGarVag264983_1070	Gardnerella vaginalis JCP8151A	ATJI01000099	PATRIC	CDS	183997329	12370	13692	+	1323		putative LPS biosynthesis related glycosyltransferase	GV31
+GV32|SEQ00509	clust_0988	VBIGarVag277040_0509	Gardnerella vaginalis JCP8151B	ATJH01000028	PATRIC	CDS	183998910	6757	8043	-	1287		putative LPS biosynthesis related glycosyltransferase	GV32
+GV35|SEQ00946	clust_0988	VBIGarVag272169_0946	Gardnerella vaginalis JCP8522	ATJE01000111	PATRIC	CDS	184008341	6768	8090	-	1323		putative LPS biosynthesis related glycosyltransferase	GV35

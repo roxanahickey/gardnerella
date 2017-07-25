@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00509	clust_0310	VBIGarVag247323_0509	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495163	252932	253495	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV01
+GV02|SEQ00863	clust_0310	VBIGarVag242669_0863	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498568	91992	92555	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV02
+GV03|SEQ00111	clust_0310	VBIGarVag247424_0111	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499592	33989	34552	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV03
+GV04|SEQ00991	clust_0310	VBIGarVag246433_0991	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481894	366299	366862	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV04
+GV05|SEQ00213	clust_0310	VBIGarVag174900_0213	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546138	33999	34562	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV05
+GV06|SEQ01258	clust_0310	VBIGarVag244004_1258	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491343	118839	119402	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV06
+GV07|SEQ00147	clust_0310	VBIGarVag249177_0147	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491881	169953	170516	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV07
+GV08|SEQ00009	clust_0310	VBIGarVag251521_0009	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474383	12487	13050	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV08
+GV09|SEQ00848	clust_0310	VBIGarVag169280_0848	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55260903	236289	236852	+	564	ahpC	Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV09
+GV10|SEQ00003	clust_0310	VBIGarVag136958_0003	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146010	2759	3322	-	564	ahpC	Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV10
+GV11|SEQ00775	clust_0310	VBIGarVag171052_0775	Gardnerella vaginalis 41V	AEJE01000050	PATRIC	CDS	52549908	196	759	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV11
+GV12|SEQ00530	clust_0310	VBIGarVag144721_0530	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853747	28515	29078	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV12
+GV13|SEQ00272	clust_0310	VBIGarVag244533_0272	Gardnerella vaginalis 55152	ADEQ01000003	PATRIC	CDS	85486488	86045	86608	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV13
+GV14|SEQ00647	clust_0310	VBIGarVag244375_0647	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503164	166190	166753	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV14
+GV15|SEQ01088	clust_0310	VBIGarVag249709_1088	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485774	61939	62502	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV15
+GV16|SEQ00783	clust_0310	VBIGarVag246379_0783	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478727	881956	882519	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV16
+GV17|SEQ00634	clust_0310	VBIGarVag146634_0634	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851326	59198	59761	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV17
+GV18|SEQ01100	clust_0310	VBIGarVag4823_1100	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000141	PATRIC	CDS	42071029	28279	28842	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV18
+GV19|SEQ00828	clust_0310	VBIGarVag39333_0829	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628555	1027960	1028523	-	564	ahpC	Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV19
+GV20|SEQ00720	clust_0310	VBIGarVag188338_0720	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190269	872817	873380	+	564	ahpC	Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV20
+GV21|SEQ00197	clust_0310	VBIGarVag274454_0197	Gardnerella vaginalis JCP7275	ATJS01000008	PATRIC	CDS	183967037	60652	61215	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV21
+GV22|SEQ00469	clust_0310	VBIGarVag276801_0470	Gardnerella vaginalis JCP7276	ATJR01000013	PATRIC	CDS	183970369	109073	109636	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV22
+GV23|SEQ00258	clust_0310	VBIGarVag276017_0258	Gardnerella vaginalis JCP7659	ATJQ01000013	PATRIC	CDS	183972821	23321	23884	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV23
+GV24|SEQ00393	clust_0310	VBIGarVag268944_0394	Gardnerella vaginalis JCP7672	ATJP01000020	PATRIC	CDS	183975910	60765	61328	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV24
+GV25|SEQ01017	clust_0310	VBIGarVag270495_1017	Gardnerella vaginalis JCP7719	ATJO01000121	PATRIC	CDS	183980079	25097	25660	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV25
+GV26|SEQ00589	clust_0310	VBIGarVag272749_0589	Gardnerella vaginalis JCP8017A	ATJN01000029	PATRIC	CDS	183981972	146636	147199	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV26
+GV27|SEQ00349	clust_0310	VBIGarVag276930_0349	Gardnerella vaginalis JCP8017B	ATJM01000013	PATRIC	CDS	183984439	26367	26930	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV27
+GV28|SEQ00740	clust_0310	VBIGarVag271349_0740	Gardnerella vaginalis JCP8066	ATJL01000065	PATRIC	CDS	183988235	22409	22972	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV28
+GV29|SEQ00058	clust_0310	VBIGarVag265473_0058	Gardnerella vaginalis JCP8070	ATJK01000006	PATRIC	CDS	183989475	25588	26202	+	615		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV29
+GV30|SEQ00069	clust_0310	VBIGarVag267667_0069	Gardnerella vaginalis JCP8108	ATJJ01000002	PATRIC	CDS	183992175	60813	61376	-	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV30
+GV31|SEQ00231	clust_0310	VBIGarVag264983_0231	Gardnerella vaginalis JCP8151A	ATJI01000011	PATRIC	CDS	183995503	26272	26886	+	615		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV31
+GV32|SEQ01132	clust_0310	VBIGarVag277040_1132	Gardnerella vaginalis JCP8151B	ATJH01000142	PATRIC	CDS	184000311	52633	53247	-	615		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV32
+GV33|SEQ00137	clust_0310	VBIGarVag265557_0137	Gardnerella vaginalis JCP8481A	ATJG01000011	PATRIC	CDS	184000955	7571	8134	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV33
+GV34|SEQ01062	clust_0310	VBIGarVag270440_1062	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005815	8968	9531	+	564		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV34
+GV35|SEQ00089	clust_0310	VBIGarVag272169_0089	Gardnerella vaginalis JCP8522	ATJE01000003	PATRIC	CDS	184006455	96728	97342	-	615		Alkyl hydroperoxide reductase protein C (EC 1.6.4.-)	GV35

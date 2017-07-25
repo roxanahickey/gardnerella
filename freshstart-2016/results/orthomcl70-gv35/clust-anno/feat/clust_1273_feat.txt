@@ -1,0 +1,11 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV03|SEQ00041	clust_1273	VBIGarVag247424_0041	Gardnerella vaginalis 00703Dmash	ADEV01000003	PATRIC	CDS	85499445	57984	58808	-	825		O-antigen export system, permease protein	GV03
+GV05|SEQ01111	clust_1273	VBIGarVag174900_1111	Gardnerella vaginalis 101	AEJD01000007	PATRIC	CDS	52548010	71356	72180	+	825		O-antigen export system, permease protein	GV05
+GV07|SEQ00373	clust_1273	VBIGarVag249177_0373	Gardnerella vaginalis 1500E	ADES01000006	PATRIC	CDS	85492369	32977	33801	-	825		O-antigen export system, permease protein	GV07
+GV10|SEQ01041	clust_1273	VBIGarVag136958_1041	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148170	1387167	1388012	-	846		O-antigen export system, permease protein	GV10
+GV12|SEQ00448	clust_1273	VBIGarVag144721_0448	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853575	496032	496877	-	846		O-antigen export system, permease protein	GV12
+GV14|SEQ00679	clust_1273	VBIGarVag244375_0679	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503238	11572	12396	+	825		O-antigen export system, permease protein	GV14
+GV15|SEQ01027	clust_1273	VBIGarVag249709_1027	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485636	239203	240039	-	837		O-antigen export system, permease protein	GV15
+GV17|SEQ01193	clust_1273	VBIGarVag146634_1193	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852487	176695	177531	-	837		O-antigen export system, permease protein	GV17
+GV33|SEQ01245	clust_1273	VBIGarVag265557_1245	Gardnerella vaginalis JCP8481A	ATJG01000195	PATRIC	CDS	184003436	4919	5764	-	846		O-antigen export system, permease protein	GV33
+GV34|SEQ00099	clust_1273	VBIGarVag270440_0099	Gardnerella vaginalis JCP8481B	ATJF01000004	PATRIC	CDS	184003691	4949	5794	-	846		O-antigen export system, permease protein	GV34

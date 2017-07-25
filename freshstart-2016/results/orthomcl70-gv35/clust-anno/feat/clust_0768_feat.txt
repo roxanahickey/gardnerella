@@ -1,0 +1,35 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00902	clust_0768	VBIGarVag247323_0902	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495979	126489	127514	+	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV01
+GV02|SEQ01160	clust_0768	VBIGarVag242669_1160	Gardnerella vaginalis 00703C2mash	ADEU01000021	PATRIC	CDS	85499191	133817	134842	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV02
+GV03|SEQ00323	clust_0768	VBIGarVag247424_0323	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85500038	283288	284295	+	1008		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV03
+GV04|SEQ01360	clust_0768	VBIGarVag246433_1360	Gardnerella vaginalis 0288E	ADEN01000016	PATRIC	CDS	85482671	43604	44611	+	1008		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV04
+GV05|SEQ00423	clust_0768	VBIGarVag174900_0423	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546577	281159	282196	+	1038		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV05
+GV06|SEQ01137	clust_0768	VBIGarVag244004_1137	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491100	108844	109860	-	1017		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV06
+GV07|SEQ01117	clust_0768	VBIGarVag249177_1117	Gardnerella vaginalis 1500E	ADES01000027	PATRIC	CDS	85493929	10673	11710	-	1038		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV07
+GV08|SEQ00206	clust_0768	VBIGarVag251521_0206	Gardnerella vaginalis 284V	ADEL01000002	PATRIC	CDS	85474796	42599	43606	+	1008		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV08
+GV09|SEQ00606	clust_0768	VBIGarVag169280_0606	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260401	369079	370104	-	1026	pstA	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV09
+GV10|SEQ00203	clust_0768	VBIGarVag136958_0203	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146428	249358	250395	+	1038	pstA	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV10
+GV11|SEQ01088	clust_0768	VBIGarVag171052_1088	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550567	29014	30030	-	1017		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV11
+GV12|SEQ00741	clust_0768	VBIGarVag144721_0741	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854187	285425	286462	+	1038		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV12
+GV13|SEQ00565	clust_0768	VBIGarVag244533_0565	Gardnerella vaginalis 55152	ADEQ01000009	PATRIC	CDS	85487100	67939	68955	+	1017		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV13
+GV14|SEQ00130	clust_0768	VBIGarVag244375_0130	Gardnerella vaginalis 6119V5	ADEW01000002	PATRIC	CDS	85502087	120021	121043	-	1023		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV14
+GV15|SEQ00466	clust_0768	VBIGarVag249709_0466	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484462	202331	203383	-	1053		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV15
+GV16|SEQ01258	clust_0768	VBIGarVag246379_1258	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479717	1482528	1483535	-	1008		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV16
+GV17|SEQ00389	clust_0768	VBIGarVag146634_0389	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850805	374674	375726	-	1053		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV17
+GV18|SEQ00223	clust_0768	VBIGarVag4823_0223	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000071	PATRIC	CDS	42069144	762	1769	-	1008		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV18
+GV19|SEQ00351	clust_0768	VBIGarVag39333_0352	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627565	429487	430494	+	1008	pstA	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV19
+GV20|SEQ01165	clust_0768	VBIGarVag188338_1165	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191196	1456304	1457311	-	1008	pstA	Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV20
+GV21|SEQ01057	clust_0768	VBIGarVag274454_1058	Gardnerella vaginalis JCP7275	ATJS01000121	PATRIC	CDS	183968944	2	352	+	351		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV21
+GV22|SEQ01075	clust_0768	VBIGarVag276801_1076	Gardnerella vaginalis JCP7276	ATJR01000102	PATRIC	CDS	183971703	15	350	+	336		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV22
+GV23|SEQ00711	clust_0768	VBIGarVag276017_0711	Gardnerella vaginalis JCP7659	ATJQ01000047	PATRIC	CDS	183973792	4061	5086	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV23
+GV24|SEQ01217	clust_0768	VBIGarVag268944_1218	Gardnerella vaginalis JCP7672	ATJP01000165	PATRIC	CDS	183977784	4482	5507	+	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV24
+GV25|SEQ00402	clust_0768	VBIGarVag270495_0402	Gardnerella vaginalis JCP7719	ATJO01000028	PATRIC	CDS	183978717	559	1584	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV25
+GV26|SEQ00860	clust_0768	VBIGarVag272749_0860	Gardnerella vaginalis JCP8017A	ATJN01000050	PATRIC	CDS	183982565	1032	2057	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV26
+GV27|SEQ00986	clust_0768	VBIGarVag276930_0986	Gardnerella vaginalis JCP8017B	ATJM01000070	PATRIC	CDS	183985804	4237	5262	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV27
+GV28|SEQ00690	clust_0768	VBIGarVag271349_0690	Gardnerella vaginalis JCP8066	ATJL01000061	PATRIC	CDS	183988127	527	1552	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV28
+GV29|SEQ00556	clust_0768	VBIGarVag265473_0556	Gardnerella vaginalis JCP8070	ATJK01000028	PATRIC	CDS	183990530	4093	5118	+	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV29
+GV30|SEQ00533	clust_0768	VBIGarVag267667_0534	Gardnerella vaginalis JCP8108	ATJJ01000028	PATRIC	CDS	183993163	3876	4892	+	1017		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV30
+GV31|SEQ00103	clust_0768	VBIGarVag264983_0103	Gardnerella vaginalis JCP8151A	ATJI01000004	PATRIC	CDS	183995234	5726	6751	-	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV31
+GV32|SEQ01271	clust_0768	VBIGarVag277040_1271	Gardnerella vaginalis JCP8151B	ATJH01000180	PATRIC	CDS	184000639	4238	5263	+	1026		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV32
+GV33|SEQ00441	clust_0768	VBIGarVag265557_0441	Gardnerella vaginalis JCP8481A	ATJG01000040	PATRIC	CDS	184001610	4995	6041	-	1047		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV33
+GV34|SEQ00269	clust_0768	VBIGarVag270440_0269	Gardnerella vaginalis JCP8481B	ATJF01000018	PATRIC	CDS	184004075	12451	13497	+	1047		Phosphate transport system permease protein PstA (TC 3.A.1.7.1)	GV34

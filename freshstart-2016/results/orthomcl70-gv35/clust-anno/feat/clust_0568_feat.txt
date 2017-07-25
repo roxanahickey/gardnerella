@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00252	clust_0568	VBIGarVag247323_0252	Gardnerella vaginalis 00703Bmash	ADET01000002	PATRIC	CDS	85494622	136602	138242	-	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV01
+GV02|SEQ00522	clust_0568	VBIGarVag242669_0522	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497843	126776	128416	-	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV02
+GV03|SEQ00591	clust_0568	VBIGarVag247424_0591	Gardnerella vaginalis 00703Dmash	ADEV01000007	PATRIC	CDS	85500597	160534	162048	+	1515		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV03
+GV04|SEQ00454	clust_0568	VBIGarVag246433_0454	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480790	75784	77367	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV04
+GV05|SEQ00611	clust_0568	VBIGarVag174900_0611	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52546974	221888	223402	+	1515		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV05
+GV06|SEQ00774	clust_0568	VBIGarVag244004_0774	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490342	111642	113225	+	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV06
+GV07|SEQ00792	clust_0568	VBIGarVag249177_0792	Gardnerella vaginalis 1500E	ADES01000014	PATRIC	CDS	85493247	50408	51970	-	1563		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV07
+GV08|SEQ00345	clust_0568	VBIGarVag251521_0345	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475085	169623	171206	+	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV08
+GV09|SEQ00466	clust_0568	VBIGarVag169280_0466	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260110	185151	186734	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV09
+GV10|SEQ00403	clust_0568	VBIGarVag136958_0403	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146852	487816	489363	+	1548		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV10
+GV11|SEQ00361	clust_0568	VBIGarVag171052_0361	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549028	47832	49415	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV11
+GV12|SEQ00947	clust_0568	VBIGarVag144721_0947	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854623	519942	521489	+	1548		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV12
+GV13|SEQ00828	clust_0568	VBIGarVag244533_0828	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487652	315804	317387	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV13
+GV14|SEQ00405	clust_0568	VBIGarVag244375_0405	Gardnerella vaginalis 6119V5	ADEW01000004	PATRIC	CDS	85502660	41201	42724	+	1524		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV14
+GV15|SEQ00207	clust_0568	VBIGarVag249709_0207	Gardnerella vaginalis 6420B	ADEP01000004	PATRIC	CDS	85483914	35729	37267	+	1539		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV15
+GV16|SEQ01118	clust_0568	VBIGarVag246379_1118	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479426	1300479	1302062	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV16
+GV17|SEQ00186	clust_0568	VBIGarVag146634_0186	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850375	131164	132723	-	1560		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV17
+GV18|SEQ01010	clust_0568	VBIGarVag4823_1010	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000138	PATRIC	CDS	42070832	23392	24975	+	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV18
+GV19|SEQ00492	clust_0568	VBIGarVag39333_0493	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627857	609422	611005	+	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV19
+GV20|SEQ01027	clust_0568	VBIGarVag188338_1027	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190910	1274888	1276471	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV20
+GV21|SEQ00400	clust_0568	VBIGarVag274454_0401	Gardnerella vaginalis JCP7275	ATJS01000019	PATRIC	CDS	183967464	11664	13247	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV21
+GV22|SEQ00654	clust_0568	VBIGarVag276801_0655	Gardnerella vaginalis JCP7276	ATJR01000022	PATRIC	CDS	183970748	10993	12576	+	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV22
+GV23|SEQ00946	clust_0568	VBIGarVag276017_0946	Gardnerella vaginalis JCP7659	ATJQ01000089	PATRIC	CDS	183974326	17109	18749	+	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV23
+GV24|SEQ01172	clust_0568	VBIGarVag268944_1173	Gardnerella vaginalis JCP7672	ATJP01000146	PATRIC	CDS	183977663	10592	12175	+	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV24
+GV25|SEQ00222	clust_0568	VBIGarVag270495_0222	Gardnerella vaginalis JCP7719	ATJO01000014	PATRIC	CDS	183978326	41166	42806	-	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV25
+GV26|SEQ00035	clust_0568	VBIGarVag272749_0035	Gardnerella vaginalis JCP8017A	ATJN01000001	PATRIC	CDS	183980800	38979	40619	-	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV26
+GV27|SEQ00146	clust_0568	VBIGarVag276930_0146	Gardnerella vaginalis JCP8017B	ATJM01000005	PATRIC	CDS	183984011	24592	26232	+	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV27
+GV28|SEQ00577	clust_0568	VBIGarVag271349_0577	Gardnerella vaginalis JCP8066	ATJL01000041	PATRIC	CDS	183987873	10731	12371	+	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV28
+GV29|SEQ00181	clust_0568	VBIGarVag265473_0181	Gardnerella vaginalis JCP8070	ATJK01000007	PATRIC	CDS	183989730	10658	12298	+	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV29
+GV30|SEQ00218	clust_0568	VBIGarVag267667_0218	Gardnerella vaginalis JCP8108	ATJJ01000007	PATRIC	CDS	183992488	12190	13773	-	1584		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV30
+GV31|SEQ00167	clust_0568	VBIGarVag264983_0167	Gardnerella vaginalis JCP8151A	ATJI01000008	PATRIC	CDS	183995370	10779	12419	+	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV31
+GV32|SEQ00414	clust_0568	VBIGarVag277040_0414	Gardnerella vaginalis JCP8151B	ATJH01000022	PATRIC	CDS	183998698	11111	12751	+	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV32
+GV33|SEQ00347	clust_0568	VBIGarVag265557_0347	Gardnerella vaginalis JCP8481A	ATJG01000030	PATRIC	CDS	184001408	9852	11378	+	1527		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV33
+GV34|SEQ00457	clust_0568	VBIGarVag270440_0457	Gardnerella vaginalis JCP8481B	ATJF01000034	PATRIC	CDS	184004485	12545	14071	-	1527		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV34
+GV35|SEQ00484	clust_0568	VBIGarVag272169_0484	Gardnerella vaginalis JCP8522	ATJE01000026	PATRIC	CDS	184007290	39398	41038	-	1641		ATP-dependent DNA helicase UvrD/PcrA, actinomycete paralog	GV35

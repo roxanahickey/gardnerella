@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01129	clust_0669	VBIGarVag247323_1129	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496460	137881	138840	+	960		Cobalt-zinc-cadmium resistance protein CzcD	GV01
+GV02|SEQ00308	clust_0669	VBIGarVag242669_0308	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497391	110531	111490	-	960		Cobalt-zinc-cadmium resistance protein CzcD	GV02
+GV03|SEQ00788	clust_0669	VBIGarVag247424_0788	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501009	90027	91118	+	1092		Cobalt-zinc-cadmium resistance protein CzcD	GV03
+GV04|SEQ01290	clust_0669	VBIGarVag246433_1290	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482520	37103	38104	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV04
+GV05|SEQ00840	clust_0669	VBIGarVag174900_0840	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547448	511372	512445	+	1074		Cobalt-zinc-cadmium resistance protein CzcD	GV05
+GV06|SEQ00868	clust_0669	VBIGarVag244004_0868	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490541	237270	238271	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV06
+GV07|SEQ00598	clust_0669	VBIGarVag249177_0598	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492847	93835	94983	+	1149		Cobalt-zinc-cadmium resistance protein CzcD	GV07
+GV08|SEQ00427	clust_0669	VBIGarVag251521_0427	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475260	282893	283894	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV08
+GV09|SEQ00326	clust_0669	VBIGarVag169280_0326	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259819	33746	34747	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV09
+GV10|SEQ00588	clust_0669	VBIGarVag136958_0588	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147236	752541	753572	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV10
+GV11|SEQ01277	clust_0669	VBIGarVag171052_1277	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52550982	40433	41434	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV11
+GV12|SEQ01228	clust_0669	VBIGarVag144721_1228	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855288	103827	104858	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV12
+GV13|SEQ00728	clust_0669	VBIGarVag244533_0728	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487441	178352	179353	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV13
+GV14|SEQ00305	clust_0669	VBIGarVag244375_0305	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502454	134097	135128	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV14
+GV15|SEQ00650	clust_0669	VBIGarVag249709_0650	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484847	100821	101852	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV15
+GV16|SEQ01033	clust_0669	VBIGarVag246379_1033	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479245	1189478	1190479	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV16
+GV17|SEQ00961	clust_0669	VBIGarVag146634_0961	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852008	92273	93304	-	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV17
+GV18|SEQ01180	clust_0669	VBIGarVag4823_1180	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000143	PATRIC	CDS	42071195	33428	34429	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV18
+GV19|SEQ00578	clust_0669	VBIGarVag39333_0579	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628039	722608	723609	+	1002	czc	Cobalt-zinc-cadmium resistance protein CzcD	GV19
+GV20|SEQ00944	clust_0669	VBIGarVag188338_0944	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190733	1162156	1163157	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV20
+GV21|SEQ00837	clust_0669	VBIGarVag274454_0838	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968409	36588	37589	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV21
+GV22|SEQ00927	clust_0669	VBIGarVag276801_0928	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971347	12314	13315	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV22
+GV23|SEQ00550	clust_0669	VBIGarVag276017_0550	Gardnerella vaginalis JCP7659	ATJQ01000042	PATRIC	CDS	183973458	8968	9969	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV23
+GV24|SEQ00750	clust_0669	VBIGarVag268944_0751	Gardnerella vaginalis JCP7672	ATJP01000063	PATRIC	CDS	183976692	17576	18577	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV24
+GV25|SEQ00524	clust_0669	VBIGarVag270495_0524	Gardnerella vaginalis JCP7719	ATJO01000043	PATRIC	CDS	183978984	8604	9563	-	960		Cobalt-zinc-cadmium resistance protein CzcD	GV25
+GV26|SEQ01216	clust_0669	VBIGarVag272749_1216	Gardnerella vaginalis JCP8017A	ATJN01000134	PATRIC	CDS	183983376	32849	33808	+	960		Cobalt-zinc-cadmium resistance protein CzcD	GV26
+GV27|SEQ00217	clust_0669	VBIGarVag276930_0217	Gardnerella vaginalis JCP8017B	ATJM01000009	PATRIC	CDS	183984161	8471	9430	-	960		Cobalt-zinc-cadmium resistance protein CzcD	GV27
+GV28|SEQ00078	clust_0669	VBIGarVag271349_0078	Gardnerella vaginalis JCP8066	ATJL01000008	PATRIC	CDS	183986808	31338	32339	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV28
+GV29|SEQ00514	clust_0669	VBIGarVag265473_0514	Gardnerella vaginalis JCP8070	ATJK01000024	PATRIC	CDS	183990440	31103	32104	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV29
+GV30|SEQ01018	clust_0669	VBIGarVag267667_1020	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994240	7309	8310	+	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV30
+GV31|SEQ00062	clust_0669	VBIGarVag264983_0062	Gardnerella vaginalis JCP8151A	ATJI01000002	PATRIC	CDS	183995145	31389	32348	+	960		Cobalt-zinc-cadmium resistance protein CzcD	GV31
+GV32|SEQ00688	clust_0669	VBIGarVag277040_0688	Gardnerella vaginalis JCP8151B	ATJH01000046	PATRIC	CDS	183999294	9203	10204	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV32
+GV33|SEQ00321	clust_0669	VBIGarVag265557_0321	Gardnerella vaginalis JCP8481A	ATJG01000025	PATRIC	CDS	184001345	32021	33052	-	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV33
+GV34|SEQ00756	clust_0669	VBIGarVag270440_0756	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005142	11613	12644	+	1032		Cobalt-zinc-cadmium resistance protein CzcD	GV34
+GV35|SEQ01009	clust_0669	VBIGarVag272169_1009	Gardnerella vaginalis JCP8522	ATJE01000139	PATRIC	CDS	184008503	7267	8268	-	1002		Cobalt-zinc-cadmium resistance protein CzcD	GV35

@@ -1,0 +1,27 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00539	clust_0949	VBIGarVag247323_0539	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495223	289059	289259	+	201		transcriptional regulator, XRE family	GV01
+GV02|SEQ00836	clust_0949	VBIGarVag242669_0836	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498514	57808	58008	-	201		transcriptional regulator, XRE family	GV02
+GV04|SEQ00634	clust_0949	VBIGarVag246433_0634	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481161	53437	53637	+	201		transcriptional regulator, XRE family	GV04
+GV06|SEQ00277	clust_0949	VBIGarVag244004_0277	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489276	53935	54135	-	201		transcriptional regulator, XRE family	GV06
+GV07|SEQ00712	clust_0949	VBIGarVag249177_0712	Gardnerella vaginalis 1500E	ADES01000012	PATRIC	CDS	85493076	91036	91236	+	201		transcriptional regulator, XRE family	GV07
+GV08|SEQ00080	clust_0949	VBIGarVag251521_0080	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474525	93391	93591	+	201		transcriptional regulator, XRE family	GV08
+GV09|SEQ00909	clust_0949	VBIGarVag169280_0909	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261025	312801	313001	+	201		transcriptional regulator, XRE family	GV09
+GV11|SEQ01051	clust_0949	VBIGarVag171052_1051	Gardnerella vaginalis 41V	AEJE01000062	PATRIC	CDS	52550488	47	247	-	201		transcriptional regulator, XRE family	GV11
+GV13|SEQ00890	clust_0949	VBIGarVag244533_0890	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487783	2751	2951	+	201		transcriptional regulator, XRE family	GV13
+GV16|SEQ00855	clust_0949	VBIGarVag246379_0855	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478871	962993	963193	+	201		transcriptional regulator, XRE family	GV16
+GV18|SEQ01125	clust_0949	VBIGarVag4823_1125	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071080	15080	15280	-	201		transcriptional regulator, XRE family	GV18
+GV19|SEQ00765	clust_0949	VBIGarVag39333_0766	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628428	951771	951971	-	201		transcriptional regulator, XRE family	GV19
+GV20|SEQ00777	clust_0949	VBIGarVag188338_0777	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190383	946089	946289	+	201		transcriptional regulator, XRE family	GV20
+GV21|SEQ00231	clust_0949	VBIGarVag274454_0231	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967110	164	364	+	201		transcriptional regulator, XRE family	GV21
+GV22|SEQ00139	clust_0949	VBIGarVag276801_0139	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969667	178968	179168	-	201		transcriptional regulator, XRE family	GV22
+GV23|SEQ00233	clust_0949	VBIGarVag276017_0233	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972770	57577	57777	-	201		transcriptional regulator, XRE family	GV23
+GV24|SEQ00936	clust_0949	VBIGarVag268944_0937	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977099	1685	1885	+	201		transcriptional regulator, XRE family	GV24
+GV25|SEQ00798	clust_0949	VBIGarVag270495_0798	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979567	120398	120598	-	201		transcriptional regulator, XRE family	GV25
+GV26|SEQ01042	clust_0949	VBIGarVag272749_1042	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982964	57347	57547	-	201		transcriptional regulator, XRE family	GV26
+GV27|SEQ01072	clust_0949	VBIGarVag276930_1072	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986004	335	535	+	201		transcriptional regulator, XRE family	GV27
+GV28|SEQ00331	clust_0949	VBIGarVag271349_0331	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987329	116486	116686	-	201		transcriptional regulator, XRE family	GV28
+GV29|SEQ00943	clust_0949	VBIGarVag265473_0943	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991379	113713	113913	-	201		transcriptional regulator, XRE family	GV29
+GV30|SEQ01284	clust_0949	VBIGarVag267667_1286	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994841	45301	45501	-	201		transcriptional regulator, XRE family	GV30
+GV31|SEQ00206	clust_0949	VBIGarVag264983_0206	Gardnerella vaginalis JCP8151A	ATJI01000010	PATRIC	CDS	183995452	1969	2169	+	201		transcriptional regulator, XRE family	GV31
+GV32|SEQ00343	clust_0949	VBIGarVag277040_0343	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998538	190011	190211	-	201		transcriptional regulator, XRE family	GV32
+GV35|SEQ00215	clust_0949	VBIGarVag272169_0215	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006713	126274	126474	-	201		transcriptional regulator, XRE family	GV35

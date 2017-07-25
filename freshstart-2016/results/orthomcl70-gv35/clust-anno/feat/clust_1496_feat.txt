@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00611	clust_1496	VBIGarVag246433_0611	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481115	29204	30001	-	798		Phage antirepressor protein	GV04
+GV06|SEQ01163	clust_1496	VBIGarVag244004_1163	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491153	13732	14523	+	792		Phage antirepressor protein	GV06
+GV12|SEQ01122	clust_1496	VBIGarVag144721_1122	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855066	5200	5991	+	792		Phage antirepressor protein	GV12
+GV22|SEQ01277	clust_1496	VBIGarVag276801_1278	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972191	35341	36132	-	792		Phage antirepressor protein	GV22
+GV25|SEQ00064	clust_1496	VBIGarVag270495_0064	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977987	32950	33741	-	792		Phage antirepressor protein	GV25
+GV30|SEQ01080	clust_1496	VBIGarVag267667_1082	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994381	11187	11978	+	792		Phage antirepressor protein	GV30

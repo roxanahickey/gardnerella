@@ -1,0 +1,28 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01205	clust_0939	VBIGarVag247323_1205	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496612	224769	226658	+	1890		streptococcal hemagglutinin protein	GV01
+GV02|SEQ00247	clust_0939	VBIGarVag242669_0247	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497269	38090	40027	-	1938		streptococcal hemagglutinin protein	GV02
+GV03|SEQ00817	clust_0939	VBIGarVag247424_0817	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501067	130905	132665	+	1761		streptococcal hemagglutinin protein	GV03
+GV04|SEQ01322	clust_0939	VBIGarVag246433_1322	Gardnerella vaginalis 0288E	ADEN01000015	PATRIC	CDS	85482590	2984	4120	-	1137		hypothetical protein	GV04
+GV06|SEQ00897	clust_0939	VBIGarVag244004_0897	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490599	276819	278231	+	1413		hypothetical protein	GV06
+GV07|SEQ00625	clust_0939	VBIGarVag249177_0625	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492901	134737	136863	+	2127		streptococcal hemagglutinin protein	GV07
+GV08|SEQ00458	clust_0939	VBIGarVag251521_0458	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475322	325325	326464	+	1140		hypothetical protein	GV08
+GV09|SEQ01137	clust_0939	VBIGarVag169280_1137	Gardnerella vaginalis 315-A	AFDI01000012	PATRIC	CDS	55261502	3503	5470	+	1968		streptococcal hemagglutinin protein	GV09
+GV10|SEQ00614	clust_0939	VBIGarVag136958_0614	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147288	788219	790423	+	2205		streptococcal hemagglutinin protein	GV10
+GV12|SEQ01255	clust_0939	VBIGarVag144721_1255	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855342	139578	141701	+	2124		streptococcal hemagglutinin protein	GV12
+GV13|SEQ00698	clust_0939	VBIGarVag244533_0698	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487380	136985	139309	-	2325		streptococcal hemagglutinin protein	GV13
+GV14|SEQ00339	clust_0939	VBIGarVag244375_0339	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502522	176165	178336	+	2172		streptococcal hemagglutinin protein	GV14
+GV16|SEQ01001	clust_0939	VBIGarVag246379_1001	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479180	1146929	1148746	-	1818		streptococcal hemagglutinin protein	GV16
+GV18|SEQ00161	clust_0939	VBIGarVag4823_0161	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000061	PATRIC	CDS	42069007	6036	7370	-	1335		hypothetical protein	GV18
+GV19|SEQ00612	clust_0939	VBIGarVag39333_0613	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628108	764428	765966	+	1539		streptococcal hemagglutinin protein	GV19
+GV20|SEQ00914	clust_0939	VBIGarVag188338_0914	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190673	1119546	1121510	-	1965		hypothetical protein	GV20
+GV22|SEQ00659	clust_0939	VBIGarVag276801_0660	Gardnerella vaginalis JCP7276	ATJR01000023	PATRIC	CDS	183970759	407	2392	-	1986		hypothetical protein	GV22
+GV23|SEQ00791	clust_0939	VBIGarVag276017_0791	Gardnerella vaginalis JCP7659	ATJQ01000062	PATRIC	CDS	183973979	706	1785	+	1080		streptococcal hemagglutinin protein	GV23
+GV24|SEQ01121	clust_0939	VBIGarVag268944_1122	Gardnerella vaginalis JCP7672	ATJP01000119	PATRIC	CDS	183977526	687	1808	+	1122		hypothetical protein	GV24
+GV25|SEQ00676	clust_0939	VBIGarVag270495_0676	Gardnerella vaginalis JCP7719	ATJO01000063	PATRIC	CDS	183979316	4703	6652	+	1950		streptococcal hemagglutinin protein	GV25
+GV26|SEQ00413	clust_0939	VBIGarVag272749_0413	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981610	26939	28891	-	1953		streptococcal hemagglutinin protein	GV26
+GV27|SEQ00653	clust_0939	VBIGarVag276930_0653	Gardnerella vaginalis JCP8017B	ATJM01000029	PATRIC	CDS	183985081	10496	12448	+	1953		streptococcal hemagglutinin protein	GV27
+GV28|SEQ00151	clust_0939	VBIGarVag271349_0151	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986961	33456	35381	-	1926		streptococcal hemagglutinin protein	GV28
+GV29|SEQ00346	clust_0939	VBIGarVag265473_0346	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990081	27623	29386	-	1764		streptococcal hemagglutinin protein	GV29
+GV31|SEQ00591	clust_0939	VBIGarVag264983_0591	Gardnerella vaginalis JCP8151A	ATJI01000027	PATRIC	CDS	183996263	394	1767	+	1374		streptococcal hemagglutinin protein	GV31
+GV32|SEQ00219	clust_0939	VBIGarVag277040_0219	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998284	32857	34230	+	1374		streptococcal hemagglutinin protein	GV32
+GV35|SEQ00359	clust_0939	VBIGarVag272169_0359	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007021	11556	13481	+	1926		streptococcal hemagglutinin protein	GV35

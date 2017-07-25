@@ -1,0 +1,15 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00616	clust_1139	VBIGarVag246433_0616	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481125	34905	35213	-	309		rRNA biogenesis protein rrp5, putative	GV04
+GV05|SEQ00670	clust_1139	VBIGarVag174900_0670	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547099	286305	286613	+	309		rRNA biogenesis protein rrp5, putative	GV05
+GV06|SEQ01159	clust_1139	VBIGarVag244004_1159	Gardnerella vaginalis 1400E	ADER01000028	PATRIC	CDS	85491145	8519	8827	+	309		rRNA biogenesis protein rrp5, putative	GV06
+GV12|SEQ01118	clust_1139	VBIGarVag144721_1118	Gardnerella vaginalis 5-1	NZ_ADAN01000092	PATRIC	CDS	37855058	915	1223	+	309		rRNA biogenesis protein rrp5, putative	GV12
+GV16|SEQ00569	clust_1139	VBIGarVag246379_0569	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478286	619718	620026	+	309		rRNA biogenesis protein rrp5, putative	GV16
+GV17|SEQ00129	clust_1139	VBIGarVag146634_0129	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850255	64685	64993	-	309		rRNA biogenesis protein rrp5, putative	GV17
+GV20|SEQ00465	clust_1139	VBIGarVag188338_0465	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189744	579208	579510	+	303		rRNA biogenesis protein rrp5, putative	GV20
+GV22|SEQ01282	clust_1139	VBIGarVag276801_1283	Gardnerella vaginalis JCP7276	ATJR01000166	PATRIC	CDS	183972201	40109	40417	-	309		rRNA biogenesis protein rrp5, putative	GV22
+GV23|SEQ00170	clust_1139	VBIGarVag276017_0170	Gardnerella vaginalis JCP7659	ATJQ01000011	PATRIC	CDS	183972641	25072	25380	-	309		rRNA biogenesis protein rrp5, putative	GV23
+GV25|SEQ00068	clust_1139	VBIGarVag270495_0068	Gardnerella vaginalis JCP7719	ATJO01000003	PATRIC	CDS	183977995	38645	38953	-	309		rRNA biogenesis protein rrp5, putative	GV25
+GV26|SEQ01121	clust_1139	VBIGarVag272749_1121	Gardnerella vaginalis JCP8017A	ATJN01000096	PATRIC	CDS	183983146	9609	9917	+	309		rRNA biogenesis protein rrp5, putative	GV26
+GV27|SEQ00979	clust_1139	VBIGarVag276930_0979	Gardnerella vaginalis JCP8017B	ATJM01000068	PATRIC	CDS	183985788	8193	8501	+	309		rRNA biogenesis protein rrp5, putative	GV27
+GV28|SEQ00038	clust_1139	VBIGarVag271349_0038	Gardnerella vaginalis JCP8066	ATJL01000006	PATRIC	CDS	183986726	8299	8586	-	288		rRNA biogenesis protein rrp5, putative	GV28
+GV30|SEQ01074	clust_1139	VBIGarVag267667_1076	Gardnerella vaginalis JCP8108	ATJJ01000107	PATRIC	CDS	183994369	5445	5753	+	309		rRNA biogenesis protein rrp5, putative	GV30

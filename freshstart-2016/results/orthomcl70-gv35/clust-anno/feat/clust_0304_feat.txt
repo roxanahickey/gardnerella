@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00716	clust_0304	VBIGarVag247323_0716	Gardnerella vaginalis 00703Bmash	ADET01000006	PATRIC	CDS	85495593	154784	155248	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV01
+GV02|SEQ00199	clust_0304	VBIGarVag242669_0199	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85497168	186391	186855	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV02
+GV03|SEQ00090	clust_0304	VBIGarVag247424_0090	Gardnerella vaginalis 00703Dmash	ADEV01000004	PATRIC	CDS	85499548	4387	4851	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV03
+GV04|SEQ00310	clust_0304	VBIGarVag246433_0310	Gardnerella vaginalis 0288E	ADEN01000003	PATRIC	CDS	85480484	206263	206727	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV04
+GV05|SEQ00192	clust_0304	VBIGarVag174900_0192	Gardnerella vaginalis 101	AEJD01000005	PATRIC	CDS	52546094	4396	4860	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV05
+GV06|SEQ00413	clust_0304	VBIGarVag244004_0413	Gardnerella vaginalis 1400E	ADER01000012	PATRIC	CDS	85489570	12944	13375	-	432		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV06
+GV07|SEQ00171	clust_0304	VBIGarVag249177_0171	Gardnerella vaginalis 1500E	ADES01000001	PATRIC	CDS	85491931	201653	202117	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV07
+GV08|SEQ00931	clust_0304	VBIGarVag251521_0931	Gardnerella vaginalis 284V	ADEL01000011	PATRIC	CDS	85476297	5225	5656	-	432		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV08
+GV09|SEQ00172	clust_0304	VBIGarVag169280_0172	Gardnerella vaginalis 315-A	AFDI01000003	PATRIC	CDS	55259499	155104	155568	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV09
+GV10|SEQ01181	clust_0304	VBIGarVag136958_1181	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148466	1603275	1603706	-	432		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV10
+GV11|SEQ00426	clust_0304	VBIGarVag171052_0426	Gardnerella vaginalis 41V	AEJE01000029	PATRIC	CDS	52549167	7520	7984	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV11
+GV12|SEQ00518	clust_0304	VBIGarVag144721_0518	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37853721	11772	12233	-	462		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV12
+GV13|SEQ00030	clust_0304	VBIGarVag244533_0030	Gardnerella vaginalis 55152	ADEQ01000002	PATRIC	CDS	85485988	12812	13243	-	432		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV13
+GV14|SEQ00668	clust_0304	VBIGarVag244375_0668	Gardnerella vaginalis 6119V5	ADEW01000005	PATRIC	CDS	85503208	195759	196223	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV14
+GV15|SEQ01100	clust_0304	VBIGarVag249709_1100	Gardnerella vaginalis 6420B	ADEP01000013	PATRIC	CDS	85485800	78664	79125	+	462		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV15
+GV16|SEQ00098	clust_0304	VBIGarVag246379_0098	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477302	11949	12413	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV16
+GV17|SEQ00646	clust_0304	VBIGarVag146634_0646	Gardnerella vaginalis AMD	NZ_ADAM01000005	PATRIC	CDS	37851352	75923	76384	+	462		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV17
+GV18|SEQ00889	clust_0304	VBIGarVag4823_0889	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000132	PATRIC	CDS	42070578	12292	12756	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV18
+GV19|SEQ00189	clust_0304	VBIGarVag39333_0189	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627225	222794	223258	+	465	fca1	tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV19
+GV20|SEQ00069	clust_0304	VBIGarVag188338_0069	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54188916	85253	85717	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV20
+GV21|SEQ01205	clust_0304	VBIGarVag274454_1206	Gardnerella vaginalis JCP7275	ATJS01000183	PATRIC	CDS	183969304	1866	2330	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV21
+GV22|SEQ00372	clust_0304	VBIGarVag276801_0373	Gardnerella vaginalis JCP7276	ATJR01000011	PATRIC	CDS	183970165	2215	2679	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV22
+GV23|SEQ01018	clust_0304	VBIGarVag276017_1018	Gardnerella vaginalis JCP7659	ATJQ01000102	PATRIC	CDS	183974485	347	811	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV23
+GV24|SEQ00445	clust_0304	VBIGarVag268944_0446	Gardnerella vaginalis JCP7672	ATJP01000021	PATRIC	CDS	183976021	3225	3689	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV24
+GV25|SEQ00130	clust_0304	VBIGarVag270495_0130	Gardnerella vaginalis JCP7719	ATJO01000010	PATRIC	CDS	183978132	3426	3890	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV25
+GV26|SEQ01155	clust_0304	VBIGarVag272749_1155	Gardnerella vaginalis JCP8017A	ATJN01000111	PATRIC	CDS	183983229	1903	2367	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV26
+GV27|SEQ00959	clust_0304	VBIGarVag276930_0959	Gardnerella vaginalis JCP8017B	ATJM01000062	PATRIC	CDS	183985742	392	856	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV27
+GV28|SEQ01023	clust_0304	VBIGarVag271349_1023	Gardnerella vaginalis JCP8066	ATJL01000122	PATRIC	CDS	183988878	3415	3879	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV28
+GV29|SEQ01186	clust_0304	VBIGarVag265473_1186	Gardnerella vaginalis JCP8070	ATJK01000169	PATRIC	CDS	183991983	2508	2972	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV29
+GV30|SEQ00612	clust_0304	VBIGarVag267667_0613	Gardnerella vaginalis JCP8108	ATJJ01000037	PATRIC	CDS	183993345	10520	10951	-	432		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV30
+GV31|SEQ00701	clust_0304	VBIGarVag264983_0701	Gardnerella vaginalis JCP8151A	ATJI01000035	PATRIC	CDS	183996497	5014	5478	-	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV31
+GV32|SEQ00398	clust_0304	VBIGarVag277040_0398	Gardnerella vaginalis JCP8151B	ATJH01000021	PATRIC	CDS	183998663	34	291	+	258		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV32
+GV33|SEQ00149	clust_0304	VBIGarVag265557_0149	Gardnerella vaginalis JCP8481A	ATJG01000012	PATRIC	CDS	184000982	1776	2240	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV33
+GV34|SEQ01073	clust_0304	VBIGarVag270440_1073	Gardnerella vaginalis JCP8481B	ATJF01000119	PATRIC	CDS	184005839	25865	26329	+	465		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV34
+GV35|SEQ00637	clust_0304	VBIGarVag272169_0637	Gardnerella vaginalis JCP8522	ATJE01000047	PATRIC	CDS	184007635	64	261	+	198		tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)	GV35

@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00549	clust_0166	VBIGarVag247323_0549	Gardnerella vaginalis 00703Bmash	ADET01000005	PATRIC	CDS	85495244	297344	299824	-	2481		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV01
+GV02|SEQ00826	clust_0166	VBIGarVag242669_0826	Gardnerella vaginalis 00703C2mash	ADEU01000016	PATRIC	CDS	85498494	47285	49777	+	2493		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV02
+GV03|SEQ00980	clust_0166	VBIGarVag247424_0980	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501406	336322	338682	-	2361		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV03
+GV04|SEQ00644	clust_0166	VBIGarVag246433_0644	Gardnerella vaginalis 0288E	ADEN01000006	PATRIC	CDS	85481181	61463	63913	-	2451		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV04
+GV05|SEQ01027	clust_0166	VBIGarVag174900_1027	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547835	748788	751193	-	2406		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV05
+GV06|SEQ00268	clust_0166	VBIGarVag244004_0268	Gardnerella vaginalis 1400E	ADER01000004	PATRIC	CDS	85489257	43462	45906	+	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV06
+GV07|SEQ00304	clust_0166	VBIGarVag249177_0304	Gardnerella vaginalis 1500E	ADES01000005	PATRIC	CDS	85492225	112555	114984	+	2430		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV07
+GV08|SEQ00089	clust_0166	VBIGarVag251521_0089	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474544	101417	103861	-	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV08
+GV09|SEQ00918	clust_0166	VBIGarVag169280_0918	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261043	320823	323267	-	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV09
+GV10|SEQ00800	clust_0166	VBIGarVag136958_0800	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147672	1041328	1043748	-	2421		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV10
+GV11|SEQ00079	clust_0166	VBIGarVag171052_0079	Gardnerella vaginalis 41V	AEJE01000004	PATRIC	CDS	52548424	7976	10426	-	2451		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV11
+GV12|SEQ00242	clust_0166	VBIGarVag144721_0242	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853147	199364	201784	-	2421		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV12
+GV13|SEQ00899	clust_0166	VBIGarVag244533_0899	Gardnerella vaginalis 55152	ADEQ01000012	PATRIC	CDS	85487802	10982	13426	-	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV13
+GV14|SEQ01082	clust_0166	VBIGarVag244375_1082	Gardnerella vaginalis 6119V5	ADEW01000011	PATRIC	CDS	85504075	161431	163815	-	2385		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV14
+GV15|SEQ00144	clust_0166	VBIGarVag249709_0144	Gardnerella vaginalis 6420B	ADEP01000003	PATRIC	CDS	85483779	71008	73464	-	2457		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV15
+GV16|SEQ00865	clust_0166	VBIGarVag246379_0865	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478892	971020	973470	-	2451		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV16
+GV17|SEQ00759	clust_0166	VBIGarVag146634_0759	Gardnerella vaginalis AMD	NZ_ADAM01000007	PATRIC	CDS	37851590	70810	73248	+	2439		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV17
+GV18|SEQ01115	clust_0166	VBIGarVag4823_1115	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000142	PATRIC	CDS	42071060	4805	7255	+	2451		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV18
+GV19|SEQ00755	clust_0166	VBIGarVag39333_0756	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628408	941496	943946	+	2451	priA	Helicase PriA essential for oriC/DnaA-independent DNA replication	GV19
+GV20|SEQ00787	clust_0166	VBIGarVag188338_0787	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190403	954110	955987	-	1878		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV20
+GV21|SEQ00241	clust_0166	VBIGarVag274454_0241	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967130	8189	10633	-	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV21
+GV22|SEQ00129	clust_0166	VBIGarVag276801_0129	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969647	168699	171143	+	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV22
+GV23|SEQ00224	clust_0166	VBIGarVag276017_0224	Gardnerella vaginalis JCP7659	ATJQ01000012	PATRIC	CDS	183972752	47051	49555	+	2505		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV23
+GV24|SEQ00946	clust_0166	VBIGarVag268944_0947	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977119	9710	12160	-	2451		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV24
+GV25|SEQ00788	clust_0166	VBIGarVag270495_0788	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979547	109844	112324	+	2481		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV25
+GV26|SEQ01032	clust_0166	VBIGarVag272749_1032	Gardnerella vaginalis JCP8017A	ATJN01000073	PATRIC	CDS	183982944	46809	49313	+	2505		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV26
+GV27|SEQ01082	clust_0166	VBIGarVag276930_1082	Gardnerella vaginalis JCP8017B	ATJM01000095	PATRIC	CDS	183986024	8569	11073	-	2505		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV27
+GV28|SEQ00320	clust_0166	VBIGarVag271349_0320	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987307	105942	108446	+	2505		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV28
+GV29|SEQ00934	clust_0166	VBIGarVag265473_0934	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991361	103356	105827	+	2472		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV29
+GV30|SEQ01275	clust_0166	VBIGarVag267667_1277	Gardnerella vaginalis JCP8108	ATJJ01000145	PATRIC	CDS	183994823	34821	37265	+	2445		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV30
+GV31|SEQ00502	clust_0166	VBIGarVag264983_0502	Gardnerella vaginalis JCP8151A	ATJI01000020	PATRIC	CDS	183996074	4006	6498	-	2493		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV31
+GV32|SEQ00333	clust_0166	VBIGarVag277040_0333	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998518	179549	182053	+	2505		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV32
+GV33|SEQ01220	clust_0166	VBIGarVag265557_1220	Gardnerella vaginalis JCP8481A	ATJG01000186	PATRIC	CDS	184003377	3766	5289	-	1524		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV33
+GV34|SEQ01237	clust_0166	VBIGarVag270440_1237	Gardnerella vaginalis JCP8481B	ATJF01000164	PATRIC	CDS	184006220	3766	5196	-	1431		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV34
+GV35|SEQ00206	clust_0166	VBIGarVag272169_0206	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006695	115743	118223	+	2481		Helicase PriA essential for oriC/DnaA-independent DNA replication	GV35

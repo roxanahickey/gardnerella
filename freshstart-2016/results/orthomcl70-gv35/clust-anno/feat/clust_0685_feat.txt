@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01189	clust_0685	VBIGarVag247323_1189	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496580	205307	207589	-	2283		serine/threonine protein kinase	GV01
+GV02|SEQ00263	clust_0685	VBIGarVag242669_0263	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497301	57147	59444	+	2298		serine/threonine protein kinase	GV02
+GV03|SEQ00806	clust_0685	VBIGarVag247424_0806	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85501045	113854	116067	-	2214		serine/threonine protein kinase	GV03
+GV04|SEQ01269	clust_0685	VBIGarVag246433_1269	Gardnerella vaginalis 0288E	ADEN01000013	PATRIC	CDS	85482476	11686	14007	+	2322		serine/threonine protein kinase	GV04
+GV05|SEQ00858	clust_0685	VBIGarVag174900_0858	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547484	535224	537437	-	2214		serine/threonine protein kinase	GV05
+GV06|SEQ00886	clust_0685	VBIGarVag244004_0886	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490577	261367	263688	-	2322		serine/threonine protein kinase	GV06
+GV07|SEQ00616	clust_0685	VBIGarVag249177_0616	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492883	117676	119889	-	2214		serine/threonine protein kinase	GV07
+GV08|SEQ00445	clust_0685	VBIGarVag251521_0445	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475296	307004	309325	-	2322		serine/threonine protein kinase	GV08
+GV09|SEQ00308	clust_0685	VBIGarVag169280_0308	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55259783	8309	10630	+	2322		serine/threonine protein kinase	GV09
+GV10|SEQ00606	clust_0685	VBIGarVag136958_0606	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147272	776942	779332	-	2391		serine/threonine protein kinase	GV10
+GV11|SEQ01259	clust_0685	VBIGarVag171052_1259	Gardnerella vaginalis 41V	AEJE01000070	PATRIC	CDS	52550946	15015	17336	+	2322		serine/threonine protein kinase	GV11
+GV12|SEQ01246	clust_0685	VBIGarVag144721_1246	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855324	128251	130641	-	2391		serine/threonine protein kinase	GV12
+GV13|SEQ00709	clust_0685	VBIGarVag244533_0709	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487402	152881	155202	+	2322		serine/threonine protein kinase	GV13
+GV14|SEQ00323	clust_0685	VBIGarVag244375_0323	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502490	157830	160043	-	2214		serine/threonine protein kinase	GV14
+GV15|SEQ00668	clust_0685	VBIGarVag249709_0668	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484883	125262	127652	-	2391		serine/threonine protein kinase	GV15
+GV16|SEQ01014	clust_0685	VBIGarVag246379_1014	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479206	1164044	1166365	+	2322		serine/threonine protein kinase	GV16
+GV17|SEQ00943	clust_0685	VBIGarVag146634_0943	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37851972	66504	68894	+	2391		serine/threonine protein kinase	GV17
+GV18|SEQ00218	clust_0685	VBIGarVag4823_0218	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000070	PATRIC	CDS	42069133	4284	6605	+	2322		serine/threonine protein kinase	GV18
+GV19|SEQ00598	clust_0685	VBIGarVag39333_0599	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628080	746720	749041	-	2322	pknA2	serine/threonine protein kinase	GV19
+GV20|SEQ00926	clust_0685	VBIGarVag188338_0926	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190697	1136741	1139062	+	2322		serine/threonine protein kinase	GV20
+GV21|SEQ00855	clust_0685	VBIGarVag274454_0856	Gardnerella vaginalis JCP7275	ATJS01000058	PATRIC	CDS	183968445	60707	63028	-	2322		serine/threonine protein kinase	GV21
+GV22|SEQ00946	clust_0685	VBIGarVag276801_0947	Gardnerella vaginalis JCP7276	ATJR01000053	PATRIC	CDS	183971385	36394	38715	-	2322		serine/threonine protein kinase	GV22
+GV23|SEQ00323	clust_0685	VBIGarVag276017_0323	Gardnerella vaginalis JCP7659	ATJQ01000018	PATRIC	CDS	183972960	1382	3679	-	2298		serine/threonine protein kinase	GV23
+GV24|SEQ01048	clust_0685	VBIGarVag268944_1049	Gardnerella vaginalis JCP7672	ATJP01000097	PATRIC	CDS	183977350	6576	8897	+	2322		serine/threonine protein kinase	GV24
+GV25|SEQ00666	clust_0685	VBIGarVag270495_0666	Gardnerella vaginalis JCP7719	ATJO01000062	PATRIC	CDS	183979295	11815	14142	-	2328		serine/threonine protein kinase	GV25
+GV26|SEQ00429	clust_0685	VBIGarVag272749_0429	Gardnerella vaginalis JCP8017A	ATJN01000025	PATRIC	CDS	183981642	46060	48357	+	2298		serine/threonine protein kinase	GV26
+GV27|SEQ00637	clust_0685	VBIGarVag276930_0637	Gardnerella vaginalis JCP8017B	ATJM01000028	PATRIC	CDS	183985048	24319	26616	-	2298		serine/threonine protein kinase	GV27
+GV28|SEQ00158	clust_0685	VBIGarVag271349_0158	Gardnerella vaginalis JCP8066	ATJL01000013	PATRIC	CDS	183986975	43186	45531	+	2346		serine/threonine protein kinase	GV28
+GV29|SEQ00354	clust_0685	VBIGarVag265473_0354	Gardnerella vaginalis JCP8070	ATJK01000016	PATRIC	CDS	183990097	37306	39642	+	2337		serine/threonine protein kinase	GV29
+GV30|SEQ01036	clust_0685	VBIGarVag267667_1038	Gardnerella vaginalis JCP8108	ATJJ01000092	PATRIC	CDS	183994276	31425	33746	-	2322		serine/threonine protein kinase	GV30
+GV31|SEQ00585	clust_0685	VBIGarVag264983_0585	Gardnerella vaginalis JCP8151A	ATJI01000026	PATRIC	CDS	183996250	3526	5871	-	2346		serine/threonine protein kinase	GV31
+GV32|SEQ00211	clust_0685	VBIGarVag277040_0211	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998268	22111	24465	-	2355		serine/threonine protein kinase	GV32
+GV33|SEQ00303	clust_0685	VBIGarVag265557_0303	Gardnerella vaginalis JCP8481A	ATJG01000025	PATRIC	CDS	184001309	6151	8544	+	2394		serine/threonine protein kinase	GV33
+GV34|SEQ00774	clust_0685	VBIGarVag270440_0774	Gardnerella vaginalis JCP8481B	ATJF01000080	PATRIC	CDS	184005178	36121	38514	-	2394		serine/threonine protein kinase	GV34
+GV35|SEQ00352	clust_0685	VBIGarVag272169_0352	Gardnerella vaginalis JCP8522	ATJE01000017	PATRIC	CDS	184007007	1439	3784	-	2346		serine/threonine protein kinase	GV35

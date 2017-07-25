@@ -1,0 +1,7 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV10|SEQ00585	clust_1498	VBIGarVag136958_0585	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147228	748588	749727	+	1140	folP	Dihydropteroate synthase (EC 2.5.1.15)	GV10
+GV12|SEQ01225	clust_1498	VBIGarVag144721_1225	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855280	99893	101032	+	1140		Dihydropteroate synthase (EC 2.5.1.15)	GV12
+GV15|SEQ00643	clust_1498	VBIGarVag249709_0643	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484831	89719	90858	+	1140		Dihydropteroate synthase (EC 2.5.1.15)	GV15
+GV17|SEQ00966	clust_1498	VBIGarVag146634_0966	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852020	97533	98672	-	1140		Dihydropteroate synthase (EC 2.5.1.15)	GV17
+GV33|SEQ01192	clust_1498	VBIGarVag265557_1192	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003317	2258	3397	-	1140		Dihydropteroate synthase (EC 2.5.1.15)	GV33
+GV34|SEQ00722	clust_1498	VBIGarVag270440_0722	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005063	29045	30184	+	1140		Dihydropteroate synthase (EC 2.5.1.15)	GV34

@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ01056	clust_0512	VBIGarVag247323_1056	Gardnerella vaginalis 00703Bmash	ADET01000013	PATRIC	CDS	85496310	52776	53747	+	972		Cell division initiation protein	GV01
+GV02|SEQ00386	clust_0512	VBIGarVag242669_0386	Gardnerella vaginalis 00703C2mash	ADEU01000006	PATRIC	CDS	85497551	199033	200004	-	972		Cell division initiation protein	GV02
+GV03|SEQ01132	clust_0512	VBIGarVag247424_1132	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501732	67025	68062	+	1038		Cell division initiation protein	GV03
+GV04|SEQ00718	clust_0512	VBIGarVag246433_0718	Gardnerella vaginalis 0288E	ADEN01000007	PATRIC	CDS	85481332	46914	47843	+	930		Cell division initiation protein	GV04
+GV05|SEQ00071	clust_0512	VBIGarVag174900_0071	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545849	87072	88109	+	1038		Cell division initiation protein	GV05
+GV06|SEQ01012	clust_0512	VBIGarVag244004_1012	Gardnerella vaginalis 1400E	ADER01000023	PATRIC	CDS	85490837	45353	46264	+	912		Cell division initiation protein	GV06
+GV07|SEQ00409	clust_0512	VBIGarVag249177_0409	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492442	44017	45051	-	1035		Cell division initiation protein	GV07
+GV08|SEQ00817	clust_0512	VBIGarVag251521_0817	Gardnerella vaginalis 284V	ADEL01000009	PATRIC	CDS	85476063	181009	181938	-	930		Cell division initiation protein	GV08
+GV09|SEQ00264	clust_0512	VBIGarVag169280_0264	Gardnerella vaginalis 315-A	AFDI01000005	PATRIC	CDS	55259694	89239	90168	-	930		Cell division initiation protein	GV09
+GV10|SEQ00312	clust_0512	VBIGarVag136958_0312	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32146656	361884	362858	+	975		Cell division initiation protein	GV10
+GV11|SEQ00985	clust_0512	VBIGarVag171052_0985	Gardnerella vaginalis 41V	AEJE01000057	PATRIC	CDS	52550351	1126	2037	-	912		Cell division initiation protein	GV11
+GV12|SEQ00854	clust_0512	VBIGarVag144721_0854	Gardnerella vaginalis 5-1	NZ_ADAN01000005	PATRIC	CDS	37854423	398068	399105	+	1038		Cell division initiation protein	GV12
+GV13|SEQ00465	clust_0512	VBIGarVag244533_0465	Gardnerella vaginalis 55152	ADEQ01000006	PATRIC	CDS	85486893	57966	58895	-	930		Cell division initiation protein	GV13
+GV14|SEQ00772	clust_0512	VBIGarVag244375_0772	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503432	136284	137318	+	1035		Cell division initiation protein	GV14
+GV15|SEQ00358	clust_0512	VBIGarVag249709_0358	Gardnerella vaginalis 6420B	ADEP01000005	PATRIC	CDS	85484235	88914	89951	-	1038		Cell division initiation protein	GV15
+GV16|SEQ00493	clust_0512	VBIGarVag246379_0493	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478130	533430	534329	+	900		Cell division initiation protein	GV16
+GV17|SEQ00281	clust_0512	VBIGarVag146634_0281	Gardnerella vaginalis AMD	NZ_ADAM01000002	PATRIC	CDS	37850579	261307	262344	-	1038		Cell division initiation protein	GV17
+GV18|SEQ01265	clust_0512	VBIGarVag4823_1265	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000145	PATRIC	CDS	42071371	39137	40066	+	930		Cell division initiation protein	GV18
+GV19|SEQ01111	clust_0512	VBIGarVag39333_1113	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42629135	1356273	1357202	-	930		Cell division initiation protein	GV19
+GV20|SEQ00395	clust_0512	VBIGarVag188338_0395	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189601	499130	500059	+	930		Cell division initiation protein	GV20
+GV21|SEQ01214	clust_0512	VBIGarVag274454_1215	Gardnerella vaginalis JCP7275	ATJS01000190	PATRIC	CDS	183969329	876	1805	-	930		Cell division initiation protein	GV21
+GV22|SEQ01186	clust_0512	VBIGarVag276801_1187	Gardnerella vaginalis JCP7276	ATJR01000150	PATRIC	CDS	183971985	1428	2357	+	930		Cell division initiation protein	GV22
+GV23|SEQ01222	clust_0512	VBIGarVag276017_1222	Gardnerella vaginalis JCP7659	ATJQ01000201	PATRIC	CDS	183975014	834	1805	+	972		Cell division initiation protein	GV23
+GV24|SEQ00733	clust_0512	VBIGarVag268944_0734	Gardnerella vaginalis JCP7672	ATJP01000060	PATRIC	CDS	183976655	699	1628	-	930		Cell division initiation protein	GV24
+GV25|SEQ01199	clust_0512	VBIGarVag270495_1199	Gardnerella vaginalis JCP7719	ATJO01000151	PATRIC	CDS	183980479	22	666	+	645		Cell division initiation protein	GV25
+GV26|SEQ00939	clust_0512	VBIGarVag272749_0939	Gardnerella vaginalis JCP8017A	ATJN01000060	PATRIC	CDS	183982735	877	1848	+	972		Cell division initiation protein	GV26
+GV27|SEQ00924	clust_0512	VBIGarVag276930_0924	Gardnerella vaginalis JCP8017B	ATJM01000055	PATRIC	CDS	183985663	779	1750	-	972		Cell division initiation protein	GV27
+GV28|SEQ01086	clust_0512	VBIGarVag271349_1086	Gardnerella vaginalis JCP8066	ATJL01000143	PATRIC	CDS	183989033	817	1788	+	972		Cell division initiation protein	GV28
+GV29|SEQ00834	clust_0512	VBIGarVag265473_0834	Gardnerella vaginalis JCP8070	ATJK01000069	PATRIC	CDS	183991153	2055	3041	+	987		Cell division initiation protein	GV29
+GV30|SEQ00783	clust_0512	VBIGarVag267667_0785	Gardnerella vaginalis JCP8108	ATJJ01000053	PATRIC	CDS	183993709	743	1672	-	930		Cell division initiation protein	GV30
+GV31|SEQ01137	clust_0512	VBIGarVag264983_1137	Gardnerella vaginalis JCP8151A	ATJI01000126	PATRIC	CDS	183997496	1188	2192	-	1005		Cell division initiation protein	GV31
+GV32|SEQ00919	clust_0512	VBIGarVag277040_0919	Gardnerella vaginalis JCP8151B	ATJH01000087	PATRIC	CDS	183999820	2170	3108	+	939		Cell division initiation protein	GV32
+GV33|SEQ00241	clust_0512	VBIGarVag265557_0241	Gardnerella vaginalis JCP8481A	ATJG01000021	PATRIC	CDS	184001181	6164	7213	-	1050		Cell division initiation protein	GV33
+GV34|SEQ01205	clust_0512	VBIGarVag270440_1205	Gardnerella vaginalis JCP8481B	ATJF01000148	PATRIC	CDS	184006140	10803	11852	+	1050		Cell division initiation protein	GV34
+GV35|SEQ00808	clust_0512	VBIGarVag272169_0808	Gardnerella vaginalis JCP8522	ATJE01000077	PATRIC	CDS	184008017	1131	2117	-	987		Cell division initiation protein	GV35

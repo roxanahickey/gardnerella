@@ -1,0 +1,14 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV04|SEQ00570	clust_1185	VBIGarVag246433_0570	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85481032	235723	236415	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV04
+GV06|SEQ01117	clust_1185	VBIGarVag244004_1117	Gardnerella vaginalis 1400E	ADER01000027	PATRIC	CDS	85491060	86765	87457	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV06
+GV08|SEQ00225	clust_1185	VBIGarVag251521_0225	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85474835	8610	9302	+	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV08
+GV09|SEQ00587	clust_1185	VBIGarVag169280_0587	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260363	347361	348053	-	693	araD	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV09
+GV11|SEQ01070	clust_1185	VBIGarVag171052_1070	Gardnerella vaginalis 41V	AEJE01000065	PATRIC	CDS	52550530	6989	7681	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV11
+GV16|SEQ01238	clust_1185	VBIGarVag246379_1238	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479677	1460731	1461423	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV16
+GV18|SEQ00317	clust_1185	VBIGarVag4823_0317	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000084	PATRIC	CDS	42069347	6191	6883	+	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV18
+GV19|SEQ00372	clust_1185	VBIGarVag39333_0373	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627607	451237	451929	+	693	araD	L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV19
+GV20|SEQ01145	clust_1185	VBIGarVag188338_1145	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54191156	1434824	1435516	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV20
+GV21|SEQ00548	clust_1185	VBIGarVag274454_0549	Gardnerella vaginalis JCP7275	ATJS01000028	PATRIC	CDS	183967773	12617	13309	+	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV21
+GV22|SEQ00713	clust_1185	VBIGarVag276801_0714	Gardnerella vaginalis JCP7276	ATJR01000029	PATRIC	CDS	183970875	8650	9342	+	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV22
+GV24|SEQ00322	clust_1185	VBIGarVag268944_0323	Gardnerella vaginalis JCP7672	ATJP01000017	PATRIC	CDS	183975764	2587	3279	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV24
+GV30|SEQ00482	clust_1185	VBIGarVag267667_0483	Gardnerella vaginalis JCP8108	ATJJ01000024	PATRIC	CDS	183993057	15444	16136	-	693		L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)	GV30

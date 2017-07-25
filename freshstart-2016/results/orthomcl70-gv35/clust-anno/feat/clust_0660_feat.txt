@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00293	clust_0660	VBIGarVag247323_0293	Gardnerella vaginalis 00703Bmash	ADET01000003	PATRIC	CDS	85494709	33671	34771	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV01
+GV02|SEQ00657	clust_0660	VBIGarVag242669_0657	Gardnerella vaginalis 00703C2mash	ADEU01000009	PATRIC	CDS	85498131	16525	17625	-	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV02
+GV03|SEQ00776	clust_0660	VBIGarVag247424_0776	Gardnerella vaginalis 00703Dmash	ADEV01000009	PATRIC	CDS	85500983	69619	70671	+	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV03
+GV04|SEQ01086	clust_0660	VBIGarVag246433_1086	Gardnerella vaginalis 0288E	ADEN01000008	PATRIC	CDS	85482093	41976	43028	+	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV04
+GV05|SEQ00829	clust_0660	VBIGarVag174900_0829	Gardnerella vaginalis 101	AEJD01000006	PATRIC	CDS	52547424	496375	497427	+	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV05
+GV06|SEQ00662	clust_0660	VBIGarVag244004_0662	Gardnerella vaginalis 1400E	ADER01000018	PATRIC	CDS	85490108	16585	17637	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV06
+GV07|SEQ00587	clust_0660	VBIGarVag249177_0587	Gardnerella vaginalis 1500E	ADES01000011	PATRIC	CDS	85492823	78996	80042	+	1047		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV07
+GV08|SEQ00137	clust_0660	VBIGarVag251521_0137	Gardnerella vaginalis 284V	ADEL01000001	PATRIC	CDS	85474645	164359	165411	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV08
+GV09|SEQ00965	clust_0660	VBIGarVag169280_0965	Gardnerella vaginalis 315-A	AFDI01000008	PATRIC	CDS	55261142	383831	384883	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV09
+GV10|SEQ00576	clust_0660	VBIGarVag136958_0576	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32147210	736865	737794	+	930		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV10
+GV11|SEQ00659	clust_0660	VBIGarVag171052_0659	Gardnerella vaginalis 41V	AEJE01000042	PATRIC	CDS	52549665	16136	17188	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV11
+GV12|SEQ01211	clust_0660	VBIGarVag144721_1211	Gardnerella vaginalis 5-1	NZ_ADAN01000094	PATRIC	CDS	37855252	80509	81555	+	1047		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV12
+GV13|SEQ00602	clust_0660	VBIGarVag244533_0602	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487177	16568	17614	-	1047		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV13
+GV14|SEQ00294	clust_0660	VBIGarVag244375_0294	Gardnerella vaginalis 6119V5	ADEW01000003	PATRIC	CDS	85502430	119239	120234	+	996		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV14
+GV15|SEQ00634	clust_0660	VBIGarVag249709_0634	Gardnerella vaginalis 6420B	ADEP01000006	PATRIC	CDS	85484813	77820	78872	+	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV15
+GV16|SEQ00912	clust_0660	VBIGarVag246379_0912	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85478991	1033904	1034956	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV16
+GV17|SEQ00975	clust_0660	VBIGarVag146634_0975	Gardnerella vaginalis AMD	NZ_ADAM01000009	PATRIC	CDS	37852038	109515	110561	-	1047		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV17
+GV18|SEQ00424	clust_0660	VBIGarVag4823_0424	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000096	PATRIC	CDS	42069579	8575	9627	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV18
+GV19|SEQ00706	clust_0660	VBIGarVag39333_0707	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42628306	880178	881017	+	840		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV19
+GV20|SEQ00835	clust_0660	VBIGarVag188338_0835	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190504	1017112	1018164	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV20
+GV21|SEQ00288	clust_0660	VBIGarVag274454_0288	Gardnerella vaginalis JCP7275	ATJS01000011	PATRIC	CDS	183967228	70628	71680	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV21
+GV22|SEQ00079	clust_0660	VBIGarVag276801_0079	Gardnerella vaginalis JCP7276	ATJR01000001	PATRIC	CDS	183969543	101963	103015	+	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV22
+GV23|SEQ00130	clust_0660	VBIGarVag276017_0130	Gardnerella vaginalis JCP7659	ATJQ01000009	PATRIC	CDS	183972557	32066	33166	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV23
+GV24|SEQ00993	clust_0660	VBIGarVag268944_0994	Gardnerella vaginalis JCP7672	ATJP01000086	PATRIC	CDS	183977217	72707	73759	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV24
+GV25|SEQ00738	clust_0660	VBIGarVag270495_0738	Gardnerella vaginalis JCP7719	ATJO01000064	PATRIC	CDS	183979443	45040	46140	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV25
+GV26|SEQ00378	clust_0660	VBIGarVag272749_0378	Gardnerella vaginalis JCP8017A	ATJN01000024	PATRIC	CDS	183981535	6366	7466	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV26
+GV27|SEQ00104	clust_0660	VBIGarVag276930_0104	Gardnerella vaginalis JCP8017B	ATJM01000004	PATRIC	CDS	183983922	16669	17769	-	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV27
+GV28|SEQ00269	clust_0660	VBIGarVag271349_0269	Gardnerella vaginalis JCP8066	ATJL01000017	PATRIC	CDS	183987201	40830	41930	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV28
+GV29|SEQ00884	clust_0660	VBIGarVag265473_0884	Gardnerella vaginalis JCP8070	ATJK01000073	PATRIC	CDS	183991257	38340	39440	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV29
+GV30|SEQ00262	clust_0660	VBIGarVag267667_0263	Gardnerella vaginalis JCP8108	ATJJ01000009	PATRIC	CDS	183992582	25180	26232	-	1053		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV30
+GV31|SEQ00023	clust_0660	VBIGarVag264983_0023	Gardnerella vaginalis JCP8151A	ATJI01000001	PATRIC	CDS	183995064	31191	32291	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV31
+GV32|SEQ00282	clust_0660	VBIGarVag277040_0282	Gardnerella vaginalis JCP8151B	ATJH01000014	PATRIC	CDS	183998412	114475	115575	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV32
+GV33|SEQ01201	clust_0660	VBIGarVag265557_1201	Gardnerella vaginalis JCP8481A	ATJG01000182	PATRIC	CDS	184003335	14129	15229	-	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV33
+GV34|SEQ00713	clust_0660	VBIGarVag270440_0713	Gardnerella vaginalis JCP8481B	ATJF01000073	PATRIC	CDS	184005045	17213	18313	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV34
+GV35|SEQ00157	clust_0660	VBIGarVag272169_0157	Gardnerella vaginalis JCP8522	ATJE01000005	PATRIC	CDS	184006593	51413	52513	+	1101		Hydroxymethylpyrimidine ABC transporter, substrate-binding component	GV35

@@ -1,0 +1,8 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00788	clust_1446	VBIGarVag247323_0788	Gardnerella vaginalis 00703Bmash	ADET01000012	PATRIC	CDS	85495743	54	893	+	840		abortive infection bacteriophage resistance protein	GV01
+GV02|SEQ00072	clust_1446	VBIGarVag242669_0072	Gardnerella vaginalis 00703C2mash	ADEU01000003	PATRIC	CDS	85496902	35169	36122	-	954		conserved hypothetical phage AbiD protein	GV02
+GV04|SEQ00101	clust_1446	VBIGarVag246433_0101	Gardnerella vaginalis 0288E	ADEN01000001	PATRIC	CDS	85480050	108817	109770	-	954		abortive infection bacteriophage resistance protein	GV04
+GV09|SEQ01157	clust_1446	VBIGarVag169280_1157	Gardnerella vaginalis 315-A	AFDI01000013	PATRIC	CDS	55261543	17647	18600	+	954		conserved hypothetical phage AbiD protein	GV09
+GV16|SEQ00276	clust_1446	VBIGarVag246379_0276	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85477672	230596	231549	+	954		abortive infection bacteriophage resistance protein	GV16
+GV20|SEQ00159	clust_1446	VBIGarVag188338_0159	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54189104	184729	185682	+	954		abortive infection bacteriophage resistance protein	GV20
+GV25|SEQ00170	clust_1446	VBIGarVag270495_0170	Gardnerella vaginalis JCP7719	ATJO01000013	PATRIC	CDS	183978219	6590	7543	-	954		conserved hypothetical phage AbiD protein	GV25

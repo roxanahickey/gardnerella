@@ -1,0 +1,36 @@
+cds_id	ortho_id	locus_tag	genome_name	accession	annotation	feature_type	na_feature_id	start_max	end_min	strand	na_length	gene	product	id_short
+GV01|SEQ00130	clust_0248	VBIGarVag247323_0130	Gardnerella vaginalis 00703Bmash	ADET01000001	PATRIC	CDS	85494366	174883	176451	+	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV01
+GV02|SEQ00548	clust_0248	VBIGarVag242669_0548	Gardnerella vaginalis 00703C2mash	ADEU01000008	PATRIC	CDS	85497899	164899	166467	-	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV02
+GV03|SEQ01102	clust_0248	VBIGarVag247424_1102	Gardnerella vaginalis 00703Dmash	ADEV01000011	PATRIC	CDS	85501670	33525	35117	+	1593		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV03
+GV04|SEQ00476	clust_0248	VBIGarVag246433_0476	Gardnerella vaginalis 0288E	ADEN01000005	PATRIC	CDS	85480838	110753	112330	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV04
+GV05|SEQ00041	clust_0248	VBIGarVag174900_0041	Gardnerella vaginalis 101	AEJD01000003	PATRIC	CDS	52545787	53699	55291	+	1593		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV05
+GV06|SEQ00752	clust_0248	VBIGarVag244004_0752	Gardnerella vaginalis 1400E	ADER01000020	PATRIC	CDS	85490294	82439	84016	+	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV06
+GV07|SEQ00439	clust_0248	VBIGarVag249177_0439	Gardnerella vaginalis 1500E	ADES01000007	PATRIC	CDS	85492504	76854	78446	-	1593		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV07
+GV08|SEQ00321	clust_0248	VBIGarVag251521_0321	Gardnerella vaginalis 284V	ADEL01000003	PATRIC	CDS	85475033	133892	135469	+	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV08
+GV09|SEQ00490	clust_0248	VBIGarVag169280_0490	Gardnerella vaginalis 315-A	AFDI01000006	PATRIC	CDS	55260162	220103	221680	-	1578	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV09
+GV10|SEQ00967	clust_0248	VBIGarVag136958_0967	Gardnerella vaginalis 409-05	NC_013721	PATRIC	CDS	32148016	1268429	1270030	-	1602	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV10
+GV11|SEQ00385	clust_0248	VBIGarVag171052_0385	Gardnerella vaginalis 41V	AEJE01000024	PATRIC	CDS	52549080	76639	78216	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV11
+GV12|SEQ00370	clust_0248	VBIGarVag144721_0370	Gardnerella vaginalis 5-1	NZ_ADAN01000003	PATRIC	CDS	37853413	377166	378767	-	1602		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV12
+GV13|SEQ00852	clust_0248	VBIGarVag244533_0852	Gardnerella vaginalis 55152	ADEQ01000010	PATRIC	CDS	85487704	345250	346827	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV13
+GV14|SEQ00743	clust_0248	VBIGarVag244375_0743	Gardnerella vaginalis 6119V5	ADEW01000007	PATRIC	CDS	85503372	103973	105565	+	1593		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV14
+GV15|SEQ00946	clust_0248	VBIGarVag249709_0946	Gardnerella vaginalis 6420B	ADEP01000010	PATRIC	CDS	85485468	120241	121842	-	1602		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV15
+GV16|SEQ01140	clust_0248	VBIGarVag246379_1140	Gardnerella vaginalis 75712	ADEM01000003	PATRIC	CDS	85479474	1335455	1337032	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV16
+GV17|SEQ01120	clust_0248	VBIGarVag146634_1120	Gardnerella vaginalis AMD	NZ_ADAM01000010	PATRIC	CDS	37852335	57633	59234	-	1602		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV17
+GV18|SEQ00934	clust_0248	VBIGarVag4823_0934	Gardnerella vaginalis ATCC 14018 = JCM 11026	NZ_ADNB01000135	PATRIC	CDS	42070673	4297	5874	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV18
+GV19|SEQ00469	clust_0248	VBIGarVag39333_0470	Gardnerella vaginalis ATCC 14019	NC_014644	PATRIC	CDS	42627807	574478	576055	+	1578	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV19
+GV20|SEQ01050	clust_0248	VBIGarVag188338_1050	Gardnerella vaginalis HMP9231	CP002725	PATRIC	CDS	54190960	1309883	1311460	-	1578	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV20
+GV21|SEQ00087	clust_0248	VBIGarVag274454_0087	Gardnerella vaginalis JCP7275	ATJS01000005	PATRIC	CDS	183966812	6274	7851	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV21
+GV22|SEQ00255	clust_0248	VBIGarVag276801_0256	Gardnerella vaginalis JCP7276	ATJR01000008	PATRIC	CDS	183969926	9016	10593	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV22
+GV23|SEQ00315	clust_0248	VBIGarVag276017_0315	Gardnerella vaginalis JCP7659	ATJQ01000017	PATRIC	CDS	183972943	22598	24166	+	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV23
+GV24|SEQ00698	clust_0248	VBIGarVag268944_0699	Gardnerella vaginalis JCP7672	ATJP01000057	PATRIC	CDS	183976582	9496	11073	-	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV24
+GV25|SEQ00317	clust_0248	VBIGarVag270495_0317	Gardnerella vaginalis JCP7719	ATJO01000019	PATRIC	CDS	183978533	22486	24054	+	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV25
+GV26|SEQ00764	clust_0248	VBIGarVag272749_0764	Gardnerella vaginalis JCP8017A	ATJN01000040	PATRIC	CDS	183982347	22611	24179	+	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV26
+GV27|SEQ00520	clust_0248	VBIGarVag276930_0520	Gardnerella vaginalis JCP8017B	ATJM01000017	PATRIC	CDS	183984793	9505	11073	-	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV27
+GV28|SEQ00340	clust_0248	VBIGarVag271349_0340	Gardnerella vaginalis JCP8066	ATJL01000019	PATRIC	CDS	183987349	9538	11106	-	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV28
+GV29|SEQ00380	clust_0248	VBIGarVag265473_0380	Gardnerella vaginalis JCP8070	ATJK01000018	PATRIC	CDS	183990152	9597	11165	-	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV29
+GV30|SEQ01203	clust_0248	VBIGarVag267667_1205	Gardnerella vaginalis JCP8108	ATJJ01000128	PATRIC	CDS	183994654	26978	28555	+	1578		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV30
+GV31|SEQ00437	clust_0248	VBIGarVag264983_0437	Gardnerella vaginalis JCP8151A	ATJI01000014	PATRIC	CDS	183995934	9593	11161	-	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV31
+GV32|SEQ00175	clust_0248	VBIGarVag277040_0175	Gardnerella vaginalis JCP8151B	ATJH01000012	PATRIC	CDS	183998194	22561	24129	+	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV32
+GV33|SEQ00606	clust_0248	VBIGarVag265557_0606	Gardnerella vaginalis JCP8481A	ATJG01000055	PATRIC	CDS	184001958	6074	7660	-	1587		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV33
+GV34|SEQ00584	clust_0248	VBIGarVag270440_0584	Gardnerella vaginalis JCP8481B	ATJF01000053	PATRIC	CDS	184004763	8655	10241	+	1587		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV34
+GV35|SEQ00547	clust_0248	VBIGarVag272169_0547	Gardnerella vaginalis JCP8522	ATJE01000036	PATRIC	CDS	184007430	22560	24128	+	1569		UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	GV35
